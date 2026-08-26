@@ -179,30 +179,47 @@ def get_macro_and_earnings_events():
     ]
 
     stock_schedule = [
+        # NVDA
         {"ticker": "NVDA", "name": "Nvidia", "type": "財報 Q2", "date": "2026-08-26", "desc": "今季 AI 晶片出貨與業績指引"},
-        {"ticker": "GOOG", "name": "Alphabet", "type": "9月派息", "date": "2026-09-04", "desc": "季度股息除淨日 (Ex-Dividend)"},
-        {"ticker": "TSM", "name": "台積電", "type": "月度營收", "date": "2026-09-10", "desc": "8月份合併營收月報公布"},
-        {"ticker": "NVDA", "name": "Nvidia", "type": "9月派息", "date": "2026-09-10", "desc": "季度股息除淨日 (Ex-Dividend)"},
-        {"ticker": "EXE.TO", "name": "Extendicare", "type": "9月派息", "date": "2026-09-15", "desc": "每月固定高息除淨日"},
-        {"ticker": "TSM", "name": "台積電", "type": "9月派息", "date": "2026-09-16", "desc": "季度高息除淨日 (Ex-Dividend)"},
-        {"ticker": "XIU.TO", "name": "TSX 60 ETF", "type": "季結配息", "date": "2026-09-29", "desc": "加拿大 60 指數 Q3 收益分配除淨"},
-        {"ticker": "TSM", "name": "台積電", "type": "月度營收", "date": "2026-10-09", "desc": "9月份合併營收月報公布"},
-        {"ticker": "EXE.TO", "name": "Extendicare", "type": "10月派息", "date": "2026-10-15", "desc": "每月固定高息除淨日"},
-        {"ticker": "TSM", "name": "台積電", "type": "財報 Q3", "date": "2026-10-15", "desc": "Q3 業績與 2nm 製程展望"},
-        {"ticker": "GOOG", "name": "Alphabet", "type": "財報 Q3", "date": "2026-10-22", "desc": "雲計算及 AI 資本支出回報"},
-        {"ticker": "EXE.TO", "name": "Extendicare", "type": "財報 Q3", "date": "2026-11-05", "desc": "長者護理業務利潤與現金流報告"},
-        {"ticker": "ENB.TO", "name": "Enbridge", "type": "財報 Q3", "date": "2026-11-06", "desc": "天然氣及管線業務季度業績"},
-        {"ticker": "TSM", "name": "台積電", "type": "月度營收", "date": "2026-11-10", "desc": "10月份合併營收月報公布"},
-        {"ticker": "L.TO", "name": "Loblaw", "type": "財報/除淨", "date": "2026-11-12", "desc": "零售利潤與季度股息除淨 (Ex-Div)"},
-        {"ticker": "ENB.TO", "name": "Enbridge", "type": "派息除淨", "date": "2026-11-13", "desc": "高股息除淨日 (Quarterly Dividend)"},
-        {"ticker": "EXE.TO", "name": "Extendicare", "type": "11月派息", "date": "2026-11-16", "desc": "每月固定高息除淨日"},
+        {"ticker": "NVDA", "name": "Nvidia", "type": "9月除淨", "date": "2026-09-10", "desc": "季度股息除淨日 (Ex-Dividend)"},
         {"ticker": "NVDA", "name": "Nvidia", "type": "財報 Q3", "date": "2026-11-18", "desc": "Blackwell 晶片出貨與數據中心營收"},
-        {"ticker": "NVDA", "name": "Nvidia", "type": "12月派息", "date": "2026-12-04", "desc": "季度股息除淨日"},
-        {"ticker": "GOOG", "name": "Alphabet", "type": "12月派息", "date": "2026-12-04", "desc": "季度股息除淨日"},
+        {"ticker": "NVDA", "name": "Nvidia", "type": "12月除淨", "date": "2026-12-04", "desc": "季度股息除淨日"},
+
+        # GOOG
+        {"ticker": "GOOG", "name": "Alphabet", "type": "9月除淨", "date": "2026-09-04", "desc": "季度股息除淨日 (Ex-Dividend)"},
+        {"ticker": "GOOG", "name": "Alphabet", "type": "財報 Q3", "date": "2026-10-22", "desc": "雲計算及 AI 資本支出回報"},
+        {"ticker": "GOOG", "name": "Alphabet", "type": "12月除淨", "date": "2026-12-04", "desc": "季度股息除淨日"},
+
+        # TSM
+        {"ticker": "TSM", "name": "台積電", "type": "月度營收", "date": "2026-09-10", "desc": "8月份合併營收月報公布"},
+        {"ticker": "TSM", "name": "台積電", "type": "9月除淨", "date": "2026-09-16", "desc": "季度高息除淨日 (Ex-Dividend)"},
+        {"ticker": "TSM", "name": "台積電", "type": "月度營收", "date": "2026-10-09", "desc": "9月份合併營收月報公布"},
+        {"ticker": "TSM", "name": "台積電", "type": "財報 Q3", "date": "2026-10-15", "desc": "Q3 業績與 2nm 製程展望"},
+        {"ticker": "TSM", "name": "台積電", "type": "月度營收", "date": "2026-11-10", "desc": "10月份合併營收月報公布"},
         {"ticker": "TSM", "name": "台積電", "type": "月度營收", "date": "2026-12-10", "desc": "11月份合併營收月報公布"},
-        {"ticker": "EXE.TO", "name": "Extendicare", "type": "12月派息", "date": "2026-12-15", "desc": "每月固定高息除淨日"},
-        {"ticker": "TSM", "name": "台積電", "type": "12月派息", "date": "2026-12-16", "desc": "季度高息除淨日"},
-        {"ticker": "XIU.TO", "name": "TSX 60 ETF", "type": "年結配息", "date": "2026-12-30", "desc": "加拿大 60 指數 Q4 收益分配除淨"}
+        {"ticker": "TSM", "name": "台積電", "type": "12月除淨", "date": "2026-12-16", "desc": "季度高息除淨日"},
+
+        # EXE.TO (精確拆分：月末除淨日 vs 月中派息入帳日)
+        {"ticker": "EXE.TO", "name": "Extendicare", "type": "8月除淨", "date": "2026-08-31", "desc": "8月份股息買入資格截止 (Ex-Div)"},
+        {"ticker": "EXE.TO", "name": "Extendicare", "type": "9月派息", "date": "2026-09-15", "desc": "8月份月度股息現金入帳日 (Payable Date)"},
+        {"ticker": "EXE.TO", "name": "Extendicare", "type": "9月除淨", "date": "2026-09-30", "desc": "9月份股息買入資格截止 (Ex-Div)"},
+        {"ticker": "EXE.TO", "name": "Extendicare", "type": "10月派息", "date": "2026-10-15", "desc": "9月份月度股息現金入帳日 (Payable Date)"},
+        {"ticker": "EXE.TO", "name": "Extendicare", "type": "10月除淨", "date": "2026-10-30", "desc": "10月份股息買入資格截止 (Ex-Div)"},
+        {"ticker": "EXE.TO", "name": "Extendicare", "type": "財報 Q3", "date": "2026-11-05", "desc": "長者護理業務利潤與現金流報告"},
+        {"ticker": "EXE.TO", "name": "Extendicare", "type": "11月派息", "date": "2026-11-16", "desc": "10月份月度股息現金入帳日 (Payable Date)"},
+        {"ticker": "EXE.TO", "name": "Extendicare", "type": "11月除淨", "date": "2026-11-30", "desc": "11月份股息買入資格截止 (Ex-Div)"},
+        {"ticker": "EXE.TO", "name": "Extendicare", "type": "12月派息", "date": "2026-12-15", "desc": "11月份月度股息現金入帳日 (Payable Date)"},
+
+        # XIU.TO
+        {"ticker": "XIU.TO", "name": "TSX 60 ETF", "type": "Q3除淨", "date": "2026-09-29", "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"},
+        {"ticker": "XIU.TO", "name": "TSX 60 ETF", "type": "Q4除淨", "date": "2026-12-30", "desc": "加拿大 60 指數 Q4 收益分配除淨 (Ex-Div)"},
+
+        # ENB.TO
+        {"ticker": "ENB.TO", "name": "Enbridge", "type": "財報 Q3", "date": "2026-11-06", "desc": "天然氣及管線業務季度業績"},
+        {"ticker": "ENB.TO", "name": "Enbridge", "type": "Q4除淨", "date": "2026-11-13", "desc": "高股息除淨日 (Quarterly Ex-Div)"},
+
+        # L.TO
+        {"ticker": "L.TO", "name": "Loblaw", "type": "財報/除淨", "date": "2026-11-12", "desc": "零售利潤與季度股息除淨 (Ex-Div)"}
     ]
 
     upcoming_macro = []
@@ -287,7 +304,7 @@ def main():
     }
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print("成功更新 data.json！")
+    print("成功更新 data.json（已精確修正 EXE 除淨與派息入帳日）！")
 
 if __name__ == "__main__":
     main()
