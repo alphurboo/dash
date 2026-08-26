@@ -12,6 +12,10 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+# 🚨 關鍵：賦予 Actions 寫入 data.json 的權限
+permissions:
+  contents: write
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
