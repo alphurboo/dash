@@ -1,0 +1,41 @@
+name: Daily Data Auto Updater
+
+on:
+  schedule:
+    # 每天多倫多 07:50 AM 執行 (UTC 11:50)
+    - cron: '50 11 * * *'
+    # 每天多倫多 04:15 PM 執行 (UTC 20:15)
+    - cron: '15 20 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Scraper Script
+        run: |
+          python update_data.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Auto update daily data [skip ci]" || echo "No changes to commit"
+          git push
