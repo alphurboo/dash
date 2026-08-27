@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27 13:34:21",
+  "updated_at": "2026-08-27 20:15:26",
   "gas": {
     "current_label": "8月27日 (現行油價)",
     "current_price": "173.9",
@@ -10,71 +10,71 @@
   },
   "news_world": [
     {
-      "title": "西藏土石流：接壤尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
+      "title": "西藏尼泊爾山洪暴發是甚麼導致的？",
       "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2aVVhVEVLUFk5bGZfa2pMdEFWNDd2cF93RGJsck5wSTZrV3JrVms2cjhmeEh6UmFIWk9BRWkwMjNfNDZSU1dDVExwT2VYbWVySF9ib0ZMMlhRb3RBem1CbUN3aW5qQdIBa0FVX3lxTFAySmViQXc2bmpCTXVyelJqcWh6Q2VhalVENmxzLXhXdWJ0eEN5N0NPYUlkMXRHa2c0bEFaSkdyYXVSZTFQZTJBcGlScFM5dno1cEdhdVFHLVVLM1RQNmtIb0V0OGNtV19TNEUw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3bUlmUVI4THUzX0preTNMbTZYTGtpakRWTkp2VmV0NHEwNENaSzE5ZFlseWNSVjBtNS1FZ1dfQVkycGR4ejRTY3JvSGlyZ1pZVkhra292OXRhOTViVU5BWWdyZXA5Z9IBa0FVX3lxTE9Tajl6YkJwQjBHSUdvUHM1YlJ5aTFhb0R4a0pmcjlmeWRNMndsbkpYYUJPZVo4bXEyQ19nTjJIb0VTRTU5R0JVWUctMFEtLU01OG9YeV9Qa1JYQ09VcF9yZGNxUGU4LXdQTEhn?oc=5"
     },
     {
-      "title": "美國考慮升級對加拿大的貿易懲罰措施 回應加方關稅反制",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPb0t6N1psN1l5VnVCZTdtbThDeHlWUzY3WjVxYjhhUHBSckxWMzNmZW1FVTVYaGZuLXpIbmxseXBfSTFnWE5SdmwyNTBrQWEzdHJxV0JCWUxYWVNTSzBibklrNl85VEZaY2NFdk1ZZ2pqUXBaN2xfTURzeEw5WFlHa3FUZll2WjBTNllQdGVtNFk0dDNmbEM1Tk9VeXNKV2gyeEdWM3VPSk9DYWE2U25sQVJMd1YwWkdOQkVUZXNFNGhfRm5XQUdzSXFhb0s4QU1JeWR3T2o4MC1UYk5iRlJHYlpuY0FyTWVtbEhzeElqS3F1TDJQeEhvS0k2bU1YWjZyT3RPOE9acUhJbjAwM1V2T1VIRnQzWTFBaGRsakdIdUZyTThkRjZyU3NSLXVGTzVHZU90Zk9RZWhQQUI4QXhLOUdGNWtyaVNPeFZWWkVsa3ozSTRWOGxkY0xZUENOdmYzMEZ3XzV2Q1pPMV9odnhrYzl1Yi1MdnFVNm9DcEpsYUlya0dfa003UHU0aw?oc=5"
+      "title": "兩大超市「國貨」標示取態迥異　Loblaw順應民意施「彈弓手」",
+      "source": "singtao.ca",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQVmJaRUlFZ1NQZzFDemhnRmZ0cFJ2OTFBLVZ2SzR0NlZDYzVrWDlPYnh2MkRDcEd3bkdNVWJMZlBhMWswSnN3SmlrOUM0OF9yM2lHMDczajhtWXdYUk85Y3MwN0FyUm9IMGFDeER6WklfcU84TDB5Q1lIWThTUS1vN1hVc1FKemNFSlROdkM4UEdvNWhHVGNZWHozQlNQNzhGRDFReEtzVWNDcHNfcjNfMWtYeXcwY2ViX2w2cEdISFBRVTN2QTUzTDVZcXRpOTh6M01CaVdOZzlpT2FnTml3YW5VQTAyXzNMUUVTemJ4OERoYXowZGR6ZWlwMXhjdmFMSzNMNkgxYkZpRVZ1TllhSVlRQ1VYZ25JR2NUbUtjTlp5ZUF6dXdrWlVQWmFKd1h3dG1LMk5hUklyTnFLUzBuUGZ6REdEZm5oVzluY2tjdnZvY3ZWU0t3VDZqR2d5UldmdUFERlQ1cXl3ZlhyZGczV2lYYjRveHIwRVo4aDhzekx3WGFUSVdtRFBvVk9NT3lHTXZNSTdUM3VkU3JT0gGPAUFVX3lxTE56VlFYeEJxWVM3cGlzbFFoMnpMNWZsd1dtMHlkS0hWZVVQVk5HMWJzNWF5UFFkUnBYenhRbzY3MFREeDFpVFNqTk5hbWQ3Rl9JY1pWU2FOSmdDY3BxQ2dDekZOQUhTMFdsSGdNTlRWeDhtZ3JLeTVydWJiVVRjbEk1S0pDVk1CWnpiZWdGWjlZ?oc=5"
     },
     {
-      "title": "劉暢｜美國經濟孤立伊朗——聲稱史上最強，實質黔驢技窮",
+      "title": "特朗普難為了貝森特 美國面臨蘇伊士時刻",
       "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNSm1lZ1MwVUV2V1YxTUZnRnJGR3YxcDliMFR6clhCTWMtSzR3Y202czM1djJVc2RLcWExUDJWVHc1QV82TEQ2ajFaZ3gxTUZnTmdIWDBnLVVIVXlRb1dXaFlQczd1QUhpOUYzWG9vdmNYdDFjTVZDVnR0S3l5VTFCbGJTVHlnOW1sLUVtMVlTYVlmZzNqaHdqOEFTT212cDJxQy1VLXFHZzB5YnphUjU4amVzbDkzaWltbXo0anJmMHFjV180RmJUUzI4NFhSd2tVcG9Fc2JfbGpsdDRqellUcmV0dkJnV0w4cDh4cllWSE8wWW5BZmRlajEzMGtCN00tMlA2Mzd5OTlyX2syVlRrSlRjMV9tXzFId1V2bHpzN19sd1JXS0hRS0VrS1RCcExlODE4SEhXQXBDc09zZnpKNkxTVVllWU51cVVwd21SSWNQLTV6S0pXeTZ3dDJUZGFfOVp1SzhtMnB0d2t0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPVzZDcUg4TjQwMGJxNThlMVJhZk15bzB6SXhDNFZlcjRzYUJwU2tqZWEwZW52UW82QnF3S3laQkQyaXhSNHgwWkdDREhjN016dUhxeFE5UjRIM0dTTlg4RmRGdzZuMDV2R1YzVkxyY01MT1BiUTg4WUlxZTJFU1FVbjJEdmNTckZIS21XRFQxc0Y1MkZKWkdzZTRGWG9RWGd4WUlDRWhDQXZtNW43Uk0zdFFieEl1LUVkTTlVSng3Y19ZM3lEUHNHVW5MdXNrajhyRzdPOW4tWmsyMHVVd2ttMHNad3Z2S3kzbGZRNUVhbDJyX2Y1MEZoblBaMTEwN1hhRnUycm9pU2JBa2ZYcU03TVFpTkhjS3I2LUxEcDM1dDZmTjJjeUQ3ZjB2YVFhSkZnR0xtUml6YWhlZw?oc=5"
     },
     {
-      "title": "伊朗與阿曼就霍爾木茲海峽臨時航線達成諒解 僅限商船通行",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DSjRhMjNZWE5SNjlaV21VVDRKcVZfcTZjb2lkVjUtcTg0QVpMR1NDRWVUMjdOVEloQVlBMlZMOXUta0dYa2ZYUlNRNEdHRldnajAtWVd2b2ppclNPbVpOak9zdEd6bEcxZmt6SjVwUQ?oc=5"
+      "title": "「紫檀」再登陸廣東徐聞 廣西多村暴雨成孤島",
+      "source": "on.cc東網",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEJ6S3NxLUlxM3pnTTN2M2JwRlp3c1ZEMjZxdkdLc3lvcFVGbmIyMFFKSGlJSHdEX3pKdGlvVS1maTlVaGUteFJUS05tYk5wd1FkRW5sNlVld29Uck45UnZuM1E4MmQxd1F4VDhBblJVMTRhOF8wOHFMSjNtc3lISHpiak9DN2dNemZ3?oc=5"
+    },
+    {
+      "title": "伊朗阿曼商霍峽設臨時通道展掃雷 德黑蘭強調美須先履行已簽承諾 - 20260827 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNTnJpSlMwZC0yUDU1OG1XeDlueEFRYmFtb0ZQRzZ0NEs1TElUUUNTeEFxREZkSHRDcm5NYVZTSkh1QXMySXpNYlZIWm9qWTVHV2hxcGM3UTY0V2psMXlTSlM3d0hYaDZseERsOTR1RDBycVVsZUg2ZXFLb0JkQU5UU3pFTkVWczJJOEtBYXhicU5MY211RGVJb2xwS3o3Qmp3ZTJ1eXp3VW44WU5LWUs2MWluSFlJUW1Ubi1EdlBEWkcwS0JlTUNxRmNISk9qdml0NWNjT3ppdUtJMFVFTDd6UlBIRW9lWDRvbTJrQUMyWlBRdFNYa1h6dm9FYldNQl9Cd1VHa0w1cHZDTkJvY3FVeUgyWVZTVkQ1cFpNTlhtZFJXNXdaUG55Tmw0bmkwOEVvMXhhdzg4aEJtdjEwbXctU0NzemswaUVtTGFna1BsMDJNUnNTa0FkTml5TVY4Vlh6UTVRYThWQ2hFWV9UMU9kdWRxd3hsTTBsR0cyQjQ0VF9ScWhFMXpsX0tYeUpPZm5MWFNPamRjaWU2SFVaSUdhMXAtblhvalhQY1RQODMwakJjaFFmalpxQk81anFSWVI4M0QtLXo0RWN6UWFYS0xLSDNUekZMWXRFam4tUjctSFFHZlBTZkhDYThFWUk?oc=5"
+    },
+    {
+      "title": "中國透視：人大任命兩部長 趙宗岐遭撤政協 ／文：劉實 - 20260827 - 中國",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNZmZ3MTBSb3ZmMWlYSVdsVTRNX3lEMEdlUHpfbEtYMW94NElFNVhEZlRZNVpyMEs0LVVIVUhpM2dwQmJfaWR6dWU3Z05NdlVQQTVRUmZxNUNZcU4tQVZaNVh1bnY1ci1OWjROMTNIbGc3YThoRmJQQUt3VFVvOGlqOVNYdWpaSWFxd3pVZ184YlhnSmhzZ29SR0VCY0gxYUR6LWM5bHZGN1JSZzZpckZodFI2SnVFdkNEY05YZzhFaHdidmFXOUVRcTU3cV90NHhZUmxWREw4WGVoYW05aVRkeEFMTWVNYUVmcGFFQjNfY0s5UlJHSC00OEZ3NlNwOGFOMjZJRW83cEllTHdoaDJUbHRuTDhHeGV6VkxHNjFSWlVnRENyd3V1U1YxY2xnY1J5OGF0eE42aTd5RWZ4UjNxSmR0M2ZGSUZ5cWdyc0FNQXpQclcwbFN0NlRaWGplb25hM3QyLXFiY0pvdktxUEJjV21zRG54aXExcXZRdi10eG9JMHpYdVFsZG1JX0NkOUdl?oc=5"
     },
     {
       "title": "印度高層到北京談，1天不到中方就送客，印度發現中方態度變了",
       "source": "《超越新聞網》",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yZHJkWXRDZEhxQkVsLUQ2ZVY4d2xpblBOZFdvYjFrX05ROTVPQ0VYNndRTV9kVlZHUWJKZEIyc1g3R3FFOGR1cWZMSG1FVFlCQ3JaZQ?oc=5"
-    },
-    {
-      "title": "澳門機場橫琴前置貨站試行新空運貨物通關模式 一站式處理安檢打板等程序(陳佩彤報道)",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxORTdld2pxajVHRk80eEhjQUtZcC1DWGFYNjMtQi0wWXdfZU5nRjFHbnhCNWdZYlVDWE92OUpYYzllbGp4SHJOa0d6OVROQjg2TGJpUW5jOTV6Q185YTNqLWw1aUNSRzFfOUdPWGVvSkg4bXFZNUhMemhTcWVDTFNjb1FaaXJfOW5fcWhhN3B3enI0ODFsem1YQ1FPLWE1c1FDZGwwYjA1Tzl1RXppbFlnTy11S3Z4UEtuQjVQMnlDWk9uR3BYNEZpM2x2Yi13ZldhZldJYnlfZGNTRFNZcVRRUll4LVl5SmNJc2l3Q1NGNVFpeC0zVjJ6dmhFSjRqMHZISUpXSG8wV3c5ZkI5U1ZERkZkUzVDdTNrU2NTQTN5eWZfYVhPRHRIQVUzSDY5MlVIemIwc0Jnd3VhSVhVdkFSRF9fcllGYW1Xdm9yQ0lES3BzdTZkeGpaZ3ltanV4VU1fdmx6WWROaUxIUEtENUxVazFHQXR2YV9OYnlJRUQyNlR1UFVFMUxQck1zendudlgwQ0JRNHJPYkJUaWdLZjlBUlQ2WDY1YUd1ZnZUT2ZkcnRkaG9wbGd1ZjV1eDBWUnRmNFpQeFJtUFVVcG9VUWJOWHRCVFo2YnJSRU9UZmQwNGNWemNoMWgzNUVQc1ZpTTR4NHdaNTJhN1V0aWxZRmxYNGFDRmJWY1BuOHRFOTBqQXRGUQ?oc=5"
-    },
-    {
-      "title": "城大聯招收14萬申請創新高 Band A申請逾1.9萬",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOG40YmtpMEdoakhwZE5BYjE3eVRoTzI2Zk1RMFI2WkJqUmZ4cTVaTVhwTnRRZjM1cmw5Y3RlWE1fXzIzN3BQVWhKcko2V0pzRjlxdGdCVDh4cVZsaFVsSUh1WGJycnVnUkJxTldWSUkyRU5HemM4RW1HNHdiZFc0emxRdGg2dlczOEZn?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "滬深股市高收逾1% 創業板指數升1.7%",
+      "title": "美股初段造好 納指升近1%",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DdkJIdDhQak80QjdiekJkMEg4V2h2Wm1UQTI3MXk5VWhMalphZng2LVpsNzI3MnVCOExsNWVSNTFHenQ1QkZwdXJpZU1yTzNrVDZsN3dBTVlDLXIzbFVJX1NidjBQeWE5UWpBNnlDOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44Xy1DMmp5RmdNYUp0NFBkdlJMNzIyMEoxcjl2NVFsdmxBc0gxcm50c3g1TDNDS0FxVkhxMzM4Z1NoYmtLSEgyTVIzZVdEOVVSbU14dURSOWt6UDB4aG1Lc3BUVlFKb2tqMzBldkR4Zw?oc=5"
     },
     {
-      "title": "中東局勢緩和油價下跌，倫敦股市能源巨頭承壓回落",
+      "title": "歐洲股市下跌 法國政治擔憂拖累銀行股",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPczBUQThIQkw2OVJtRWszTERid0tmMXRta2toajFydlJaVjRPYU9tZU1JU2RBeVROVEUwT1Ata1dIZUM0dE93bkVuNkc0ZzdyeE96TnN5M2F6MTA3YWNTaXZxS1JxN1J0bzlSaW9kd2xlU2xXejlWV1owNmZCb0UxbWVOVm9heUlDYWV3T2x1NHBqVzl1UGpKNEZlVzVka2NWYjZ5aWoyUjdtY0czZl9fcVpjaFlrMDJoODRwTzFCbnYtQ2NDb3JweHExNXZsbzZMdXRNaUxqTS1uRzV2SFJvQ0dQUGloX1AyOFFvdV9WdzlNR0hTX1ZVQlRUYTNrcHUzeXFHSy0xbmR0YjhEUTR6Mmo5QkJmZGxyMW5xanlnSVotTlgtams5UnpKOGtpNXprM1RTdVlyaGlkbGxBLTRiZDVHNWt1cGZuYmJYWHo2ZllyTWdQSDlSWGxOSUlfOXlHMG10Q1Vodw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOY2tleVkxTjVMSS1hYVZUMFBvclRYd3ZJeWtseVhzQzBsdTh3bm9GY2ZEZ2ZxRzAzNmlCU2dNbE9EUG9mWjRmRW92M0h6MWp2RzRGSF9vbjFLaVYwOXVLU2Nna1BicjVPbTNfOEVsQ3FHeGFXMTJqVnhBc2w5MHBScnFEXzNSdGd0cUFGMlVpLXNPVlU3T1BUY1hyWV9PY3U0TVpkZHdra18yeE5lUkxKOGM2bzlvUDFxQVRLV3Z4cjdmcEhFVnY4RDBhN0J5TW5SbFhsVXN2R3AzWGg5X2hhMlBYR2RIbHpvSG9CRTNrYmktR0haakZpemVlcjJHRWdtT1RibjZ4VVMwbUYzUFJqZ2tQR0ZRakI1eTAzQ0FUaVhGU2xhTzhGeE9zUQ?oc=5"
     },
     {
-      "title": "股市：在平靜的交易時段後，科技股財報提振期貨 - 德意志銀行",
+      "title": "美聯儲的哈馬克表示仍需要政策限制性",
       "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSy1Ub0Rrb0Y1aEdvRGliRm9mS1l6Ty1ERnNMeUl3VVYyNTZsWDZyT2pYYnNiX0NiVmFUaFhUcGJjcFJuX1lDTE41UzdtSWxUSGZERFEybW9FZm4tNDdKdllDb1dnMHU3MXJBNGp3eXlUSTNqbDhSVVlQc2JVeFFZVXFYZmRWeXVqR0FaS01KSGJMa0VTSVc3NVJOTVNhaG84VGhvckdtdVdvOU53dEtYb0czMjVEUjRLSGNBa2haNDUtdzhzdG5r0gHMAUFVX3lxTFB2eEVxMkJ1NEw3OENaV3lNbWs5a0lqUExEUlcwY1RNLXNHaV9QeHU4WE5CckswQ1BMRk5UVU5TcjQ3OHFYa3BnSWIzYnVTLTFLUTdBZ2xad1BkcTZEQlNGaFB0RmpiVXNGVzhEX1JlaE81cTA0UTFPWkw4dHYtZGZnbEtESzVyUnBqZS02akFMQ1EzTUk2YnhUa3VKZEdOMTNzcC01a0lWajVFZUNJRUhhc29VOHBIRmk2WDdJSWVUVGdEZmNhWnUxakVLVQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXFxYm9YVy1XMU5BVGFSZ3k0YlhIMG1xVGpVTURFWGU5cjUtVmlZVUtmUDduaVd6RTZZMTFSYlVIeUxTNDViWmpvOUl4R19Xa0tSVjdOSlNodGRFeEFuMW1lQnk0R0FRampWRW1CbEpyV0lHN1dIYWpVd1pQeVhvZ2JCX0c3OFh5MFBlT1lCSHZlMG9WbGlYeVUzR3NZNzYwSTF3NjRCTUllaENRQmVN0gG0AUFVX3lxTE1hTkNZbEN0Wm1JalA5aEhFQ1k4d0NCZ2wya0ZBbDBXVVFyZm4tbVdIa01TV3FWSXhhOU9zNW9lb3NLT0o3aENZVGNYRGJlZE03Q0d6ZzZ3UnRGdm56azVzRDNNaWNrYlhPenUyRFRybVFjUkJzMTRYYjZwNTh6R0FmSzNwYTVnbVdlNFlubTBscThCTnZNSXcyMHZvR2NjaDhUWWlqREMxSmlxRld2clU3aS1BRg?oc=5"
     },
     {
-      "title": "熱門板塊速睇：美股盤前存儲概念走勢強勁，閃迪領升",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjdOSzd3VlpBVFRyZGZhZjFsU2R0c2NZTFFvek83S1N1aEFWX1M2S2EycW4tWU1GdGc5WTJmb1dBR0U1amloMXQ5NF9oLS1RQng0RF9JS1pDTHhQNU1VYnJQRzNLMnpKc2V3aDFjWWwxQXg5Tk5GclhHUnRWSHhuWUhsblg3bmhvNVNYaEdBYnNJaWJmYjhKSzZnb002cXpvYzFfMnBXNGNxYms1MGc?oc=5"
+      "title": "香港股市上日收市統計",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTmtXRms0U0pVQzBMY3ZVS0pUNGZjSlpURm45MHpwZEtqMmh0TFVTQW80R3gxRko2WGtpRXFZOGY3Q19mekZGajAxenlUX2RXZGlzenhxdmhraFZVOEdNSjBzbEhpODJuMHhicGsxTzRxbVNzUkFVd0ROc0x5OGZjQWFnR0t1SlhNMUJSOF8yakJBSGNEZGN4OWhic0d5ODlBajB2Y1hOS2ZUNzRDMXRiejFLeVBVNlFqc0ZUeXB1b0NudXZjdFNueThsQmYzSnZWMHI3akRFQmMzdGZJVVVrVTh3?oc=5"
     },
     {
-      "title": "【9626業績】嗶哩嗶哩美股盤前升2% 上季經調整純利按年升25% 廣告營業額大增",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQWnpMcjAzRGlUTTNscERnc2Y1TlVTTTF0cEo3VW9aNm9fS1BvM2E3MTVpeGVVaFoyX2dTWnpfZTJ2a3RldjVhc2lOOGVZVnhUdnBMRlMxNmtjNVVlTFVGLTJKUndZSVlfWVZ2S1FoMGt0NHY4cnU4d2p6RC1iUVhva0JMdEpBLWlFZFBnZGo3OW1SREtPdHpIOGNndXpLWmdZWFVmMDRUdVJKSmV4U3BWREJ1dTNmT1hiSHNKNm9DelJvMjYtZ3h0Tm53TXppR0p4eTQ2TFB3ZnlzTUFmdU83R2xMSlJIQVFBMlVUcUdEQWR5U0syZWJfSzRyM3pabHh6VXJqTHAtblh3OS1WYlpWN0NjRHJwcFdEZzJ5YnQzX3h3T0FaeEhtTE1VbnhKWUhtbHRiaDdaLW9lV2U0TndfbFRFU1A5UUZvOUltU3UtNExYdERhUVZ1cElpUWtjZ2duQ1dhcHktR2IzZHpYNElNNmVybzhuVmdkQ194dTZPa1cwSTBtQ3FjN1FSWm9EVWRZYkJjb3NGVVVfalk1R29QN0dzR1dfTERWX2ttQmlGaGd6RTV0LXR5d1dKbXk2LTZRTzNNakVER2JPZXFNczNSek9wZGtzVDdjM25tXw?oc=5"
+      "title": "美股早段向上",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kOWJlZVl3UTZ0V1NhdEhCOFAxUVMtcVA4dm44ZmRMQ2Fid1ZENDFwZEtEYmlrbk1FYXpLTFlSOXJhdTZuR0VNUnJ3QUJmdW1QTWQwb0Nn0gFbQVVfeXFMTzVWZDU1V1l2R3ZYdEtUMVp1dXIzbmh3TXZpTHJvV3RMNEpaeEpfWENfdE5tUl9Za25oUVZjT3VGb2lwZjZNZkZFY0g4T0RNNnhCWjNHRnJ2LXVNdw?oc=5"
     },
     {
-      "title": "美股前瞻| 三大股指期貨漲跌不一英偉達(NVDA.US)績後大漲特朗普政府醞釀半導體新關稅作者智通財經 - Investing.com 香港",
-      "source": "股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vdjlmRVcweV9aNzl0Rm03MTcyUFhTUkVHU2d3ZlBJOUhlY0NtRWhjT3RHS1BqQW8zdGE1SG9yWmtleWRkaUZUWFJ6Q2ZjSlFaNE0xVk00aHBkUU0zczh6QVo1S1BrUGNwSUtxaEhoM0o?oc=5"
+      "title": "美股基金+新興債 攻守兼備",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CdEFocWh0UDNqUm10YzgzM3RZNkxJSGxydkpJTmh5RkRxdUNlUFAxN2x0VlJuclhiV0dSc21mWHZWX3lObXZJdkxpLVBCR3E0ZVHSAVdBVV95cUxPOUtPRTlMd2tER210TXRqZGlYc0pmdlJ4Q0ZGOXpFNDNCaDUwX25yMkwxTjN5Ny1SM1cteWVJU2xOcm9pRVNvRTdKa2NNdEROWHpQdFFuVzQ?oc=5"
     }
   ],
   "events": {
