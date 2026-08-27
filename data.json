@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-27 12:56:58",
+  "updated_at": "2026-08-27 13:11:40",
   "gas": {
     "current_label": "8月27日 (現行油價)",
-    "current_price": "174.9",
-    "predict_label": "August 27 (預測油價)",
-    "predict_price": "173.9",
-    "trend": "↓ 跌 1 仙 (建議聽日入)",
-    "trend_class": "gas-down"
+    "current_price": "173.9",
+    "predict_label": "August 28 (預測油價)",
+    "predict_price": "176.9",
+    "trend": "↑ 升 3 仙 (建議今日入)",
+    "trend_class": "gas-up"
   },
   "news_world": [
     {
@@ -25,9 +25,9 @@
       "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNSm1lZ1MwVUV2V1YxTUZnRnJGR3YxcDliMFR6clhCTWMtSzR3Y202czM1djJVc2RLcWExUDJWVHc1QV82TEQ2ajFaZ3gxTUZnTmdIWDBnLVVIVXlRb1dXaFlQczd1QUhpOUYzWG9vdmNYdDFjTVZDVnR0S3l5VTFCbGJTVHlnOW1sLUVtMVlTYVlmZzNqaHdqOEFTT212cDJxQy1VLXFHZzB5YnphUjU4amVzbDkzaWltbXo0anJmMHFjV180RmJUUzI4NFhSd2tVcG9Fc2JfbGpsdDRqellUcmV0dkJnV0w4cDh4cllWSE8wWW5BZmRlajEzMGtCN00tMlA2Mzd5OTlyX2syVlRrSlRjMV9tXzFId1V2bHpzN19sd1JXS0hRS0VrS1RCcExlODE4SEhXQXBDc09zZnpKNkxTVVllWU51cVVwd21SSWNQLTV6S0pXeTZ3dDJUZGFfOVp1SzhtMnB0d2t0?oc=5"
     },
     {
-      "title": "伊朗與阿曼就霍爾木茲海峽臨時航線達成諒解 僅限商船通行",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DSjRhMjNZWE5SNjlaV21VVDRKcVZfcTZjb2lkVjUtcTg0QVpMR1NDRWVUMjdOVEloQVlBMlZMOXUta0dYa2ZYUlNRNEdHRldnajAtWVd2b2ppclNPbVpOak9zdEd6bEcxZmt6SjVwUQ?oc=5"
+      "title": "颱風沙德爾｜靠近浙閩沿海 料最快明晚登陸",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPVUJMTW51X25yVTNYMWhhdFF1TmxqWWp0cDZhVjg4akM4ODA1TXBnc2ZnemZFaVJLcDlCUW05RUJXcjFldThpY0p4dm9Vcjc0NGhReTNJdWlPRHZyaVNNSE9DclI0MmdabGNjUm5HVFFJU05qdlhfd1dvNXpKVldST0FZWThMQndoZnp2bDI5MVNkSTZPNTdhZ1dyN2JyTzFNMkd4RU5MSEs5YU5WbEJDeUt3NlUtZlZvOVZhN2pjYVQ3QzBHakFWYUx2WTRHVW0yMFhwWGNpVVIwTFpXVjhEQmNvanUxVjdwd09ldm91ZGtoTnR3dTZSSGVaamJjUlBlVXhLeUNBMVo0VTdJdFBVNW4zZzBHNnhNLXlJUl9MMUpJSWZ6d2FWWUt0TXdzM1psUEFvVTVucjMzUWhKRXpsS1VTeUNRRDZTWDd6RmRnRjY?oc=5"
     },
     {
       "title": "印度高層到北京談，1天不到中方就送客，印度發現中方態度變了",
@@ -35,14 +35,14 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yZHJkWXRDZEhxQkVsLUQ2ZVY4d2xpblBOZFdvYjFrX05ROTVPQ0VYNndRTV9kVlZHUWJKZEIyc1g3R3FFOGR1cWZMSG1FVFlCQ3JaZQ?oc=5"
     },
     {
+      "title": "伊朗與阿曼就霍爾木茲海峽臨時航線達成諒解 僅限商船通行",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DSjRhMjNZWE5SNjlaV21VVDRKcVZfcTZjb2lkVjUtcTg0QVpMR1NDRWVUMjdOVEloQVlBMlZMOXUta0dYa2ZYUlNRNEdHRldnajAtWVd2b2ppclNPbVpOak9zdEd6bEcxZmt6SjVwUQ?oc=5"
+    },
+    {
       "title": "澳門機場橫琴前置貨站試行新空運貨物通關模式 一站式處理安檢打板等程序(陳佩彤報道)",
       "source": "Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxORTdld2pxajVHRk80eEhjQUtZcC1DWGFYNjMtQi0wWXdfZU5nRjFHbnhCNWdZYlVDWE92OUpYYzllbGp4SHJOa0d6OVROQjg2TGJpUW5jOTV6Q185YTNqLWw1aUNSRzFfOUdPWGVvSkg4bXFZNUhMemhTcWVDTFNjb1FaaXJfOW5fcWhhN3B3enI0ODFsem1YQ1FPLWE1c1FDZGwwYjA1Tzl1RXppbFlnTy11S3Z4UEtuQjVQMnlDWk9uR3BYNEZpM2x2Yi13ZldhZldJYnlfZGNTRFNZcVRRUll4LVl5SmNJc2l3Q1NGNVFpeC0zVjJ6dmhFSjRqMHZISUpXSG8wV3c5ZkI5U1ZERkZkUzVDdTNrU2NTQTN5eWZfYVhPRHRIQVUzSDY5MlVIemIwc0Jnd3VhSVhVdkFSRF9fcllGYW1Xdm9yQ0lES3BzdTZkeGpaZ3ltanV4VU1fdmx6WWROaUxIUEtENUxVazFHQXR2YV9OYnlJRUQyNlR1UFVFMUxQck1zendudlgwQ0JRNHJPYkJUaWdLZjlBUlQ2WDY1YUd1ZnZUT2ZkcnRkaG9wbGd1ZjV1eDBWUnRmNFpQeFJtUFVVcG9VUWJOWHRCVFo2YnJSRU9UZmQwNGNWemNoMWgzNUVQc1ZpTTR4NHdaNTJhN1V0aWxZRmxYNGFDRmJWY1BuOHRFOTBqQXRGUQ?oc=5"
-    },
-    {
-      "title": "城大聯招收14萬申請創新高 Band A申請逾1.9萬",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOG40YmtpMEdoakhwZE5BYjE3eVRoTzI2Zk1RMFI2WkJqUmZ4cTVaTVhwTnRRZjM1cmw5Y3RlWE1fXzIzN3BQVWhKcko2V0pzRjlxdGdCVDh4cVZsaFVsSUh1WGJycnVnUkJxTldWSUkyRU5HemM4RW1HNHdiZFc0emxRdGg2dlczOEZn?oc=5"
     }
   ],
   "news_stock": [
@@ -72,9 +72,9 @@
       "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQWnpMcjAzRGlUTTNscERnc2Y1TlVTTTF0cEo3VW9aNm9fS1BvM2E3MTVpeGVVaFoyX2dTWnpfZTJ2a3RldjVhc2lOOGVZVnhUdnBMRlMxNmtjNVVlTFVGLTJKUndZSVlfWVZ2S1FoMGt0NHY4cnU4d2p6RC1iUVhva0JMdEpBLWlFZFBnZGo3OW1SREtPdHpIOGNndXpLWmdZWFVmMDRUdVJKSmV4U3BWREJ1dTNmT1hiSHNKNm9DelJvMjYtZ3h0Tm53TXppR0p4eTQ2TFB3ZnlzTUFmdU83R2xMSlJIQVFBMlVUcUdEQWR5U0syZWJfSzRyM3pabHh6VXJqTHAtblh3OS1WYlpWN0NjRHJwcFdEZzJ5YnQzX3h3T0FaeEhtTE1VbnhKWUhtbHRiaDdaLW9lV2U0TndfbFRFU1A5UUZvOUltU3UtNExYdERhUVZ1cElpUWtjZ2duQ1dhcHktR2IzZHpYNElNNmVybzhuVmdkQ194dTZPa1cwSTBtQ3FjN1FSWm9EVWRZYkJjb3NGVVVfalk1R29QN0dzR1dfTERWX2ttQmlGaGd6RTV0LXR5d1dKbXk2LTZRTzNNakVER2JPZXFNczNSek9wZGtzVDdjM25tXw?oc=5"
     },
     {
-      "title": "摩通續看好中韓及台灣股市 稱亞洲仍處AI盈利超級周期",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNaWpTYlFHY3RuX1YtRVhrT3FaTTIwZHh1bHJIYlpJOVVMTFl0SVNVcWU1b29YTnBESzd5cUNiQU5OcWo0UHN4YXY2V1RmX1NydzRGZVkxSkJ0TlFUc0l1blh5YXBMdUlqc1BkdFFjS2RvMW5kRGh1Z1JfRHVuVUphMTY5VDFmd0lSQlhZeTRjdnJRcW9nY3BtcENEeEUySkhiSFdyQ2hCc1p0WnFyNDlNN1BRb2k1T1BlMk5TNHAwdEhNcHFJM1R5LTZwYVBLazJhdzBfRnFscmt4Ymw2VXVwZmVSYXdfQ2hqemhMczMzbTc1UjNXQ0ZhWWU3dkNMaTJ4VXdMaERjY3pJSDkxWU03cWM1b1BadWh2X0ZUN0pvU3dNSFEzaVBxdzJ3aE9QcUdybV9wTS1lZTROSjhKT0NZWkhrNnJPWkw1VU1TQzFtcWlaVjRSdnFmaVBLbHBMM0xOSkZBT2xqNmxoU1NscWNqUGwxc1I?oc=5"
+      "title": "美股前瞻| 三大股指期貨漲跌不一英偉達(NVDA.US)績後大漲特朗普政府醞釀半導體新關稅作者智通財經 - Investing.com 香港",
+      "source": "股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vdjlmRVcweV9aNzl0Rm03MTcyUFhTUkVHU2d3ZlBJOUhlY0NtRWhjT3RHS1BqQW8zdGE1SG9yWmtleWRkaUZUWFJ6Q2ZjSlFaNE0xVk00aHBkUU0zczh6QVo1S1BrUGNwSUtxaEhoM0o?oc=5"
     }
   ],
   "events": {
