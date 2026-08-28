@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-28 11:15:36",
+  "updated_at": "2026-08-28 20:15:35",
   "gas": {
     "current_label": "8月28日 (現行油價)",
-    "current_price": "173.9",
-    "predict_label": "August 28 (預測油價)",
-    "predict_price": "176.9",
-    "trend": "↑ 升 3 仙 (建議今日入)",
+    "current_price": "176.9",
+    "predict_label": "August 29 (預測油價)",
+    "predict_price": "178.9",
+    "trend": "↑ 升 2 仙 (建議今日入)",
     "trend_class": "gas-up"
   },
   "news_world": [
     {
-      "title": "中共中央政治局召開會議研究部署日喀則泥石流災害救援工作",
+      "title": "西藏尼泊爾邊境山洪 中國無人機「空投」消防員",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPVG1ITHkyZFh4VFdLX0FSTHR0YUxXdTlVcjJJSkNKRGFrNEx4ODdvLVRDSFZrT2tRVFB1R1dZUEk3SmM4TWxGQW5jcFJoVjFxOHpnbU84d1QzeGIwZ3BHaG8tbjkxaV84YWswRjd3dThCclU0S3JjREE3cDI3Z2NhM2JBdmZLU3pGMUJ4WWZLRVE3NUtucDNGQzhiQnc1U3loTllLeDd0T1VUZV9XSUVVTXREUFZ2QUNVVmxzQS1EbnE1NG91N1dzOWlsdExGS0t4bENnSWQzWUJZamh1cVN4MmhPd2RQdFd3aE4xcS1pbXZfU0xMZk5KbXlDSlEyRmdBMXQtaV9idE9MRHJtVkd3ZVNVWHhZa284QXdQWVFvdm9HSTRfQnJuTlk5NEZUZEVSamZlcmpWb0hNQWRpc1Q0MVJsWWs5MGw3MWNEeTZXNXFsaUZTX0lQYUVVVnVPb1JxV21UR1FzTC1HdnpmLWs2Y2tlQ0dKR3ZLYUtoclI4a3lqa2x1Rko1TXcycDhTa0htb0ZKWFcyU0RyTGI5MWRWcUdn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNS1RmMTJaTWhZRGhKb24ybDlzMnVLOThYc0tXNVVIREtFTzVPc3MxVjV2MlpNSlJCOENLck1VMmM3SnM5QklhRGhRYVY3RElDYWxCWHYyMnRFaGQ1bzdNUkx4cWo1eHlyR1F1Q0tncDhoR0M1OHhiMHJtMHM3N0JzT0FYTTZncmRlLXhIdXlicVhDWHVfemZBUDlrRTRjdlZIMVdLb2FhSlNmc2Z3blotek5XbFN4eFZqdGgzZGltSGxZTkkzblNwemFnV0x3WWV5YnpvRFBoWEpxSjE1d053LWhzcm5EWGNobWhrNi04V1QwTDJvT1JqYld4X0Z3REZ5ZWxkWi12S2E2UWc3cEtsTGN6dlJMN0pLYlp6b3BjaHBmd2dOMHRZNWZpeFdsVW5sWDNDcUdxcllhNVZaSy1ZalpPVkh6dw?oc=5"
+    },
+    {
+      "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CN2tDOExuNDh3U3p0ZjZ5MUk1UzVqQTdrY3NYVmE3RE5JU2lZaWFOYnFoN1lKSGthM0dqb014a1h3VndYbWJmbVhaTlZpX0syUXdPLTZvYi1ZSWtEZ0QxaHhrWEc1d9IBa0FVX3lxTFBUMGZvRVJfMEs0Z0Vhc3d4UDZHZUVxSjBqWGxFcHNyNVpWcWZoRnJqSlE2djZxcUxqdkdmTk50RzJINVFYc3BHRENWelBvblRzZHpwdHBMOU04TzNQZkNkMmRmcVEwX2pZOEVn?oc=5"
     },
     {
       "title": "特朗普不排除美國加大制裁伊朗會影響中國 暗示或制裁中國銀行業",
       "source": "香港01",
       "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOdEt0R01wT3o5Z2RvaFpPT3R4UVdwOTk3c3AwNExjUm82WnY1MHYwRnFhMVR4WGhNem5jQzhZSzlFVGhpT1E2Rlh5UnRueFdFWWEtdXNkd0FSV1hGcFpEUW9ET0Y5a1JtYWZybmxHdlFZSFJNcEsyTllHSjhxYUdTWmlSeXR0NDUzX0VzSnJzeGZaVXdaWTl1SktrMzZQNmRKT09ydVBwRVlUam5YMnI1OHpnT2hGZElPZ0lEZnRlaFhocEhadm55MjA0b0RGVU01TDQ4VXJDWTRKQk5kMTlHSnllMjhKbDUteC1RY3YtWFNpU21WQ1JvRVRyaVJwcFR3bVFUX2E5R0hVTFJNQU5wMkxiYUpkS1JDRjRsYm1pNUNsNm9CcVNQNGdWN0lhWkxBN3l0Yk1mNjdzdVdXRDl5S1ZydjhXV2ZvR0hMdE5fazY2RTkzT3J2RzRmQUlkcC05RXVWWEpnQ2RIdGl5Q2daMC1HMElXU0lxaWRmeHpzVWlDNmVRZ1JoSms0NVJrUC1HR2J1c1lPaHNYVzV2ZWpNcl9RbTdnbkJONVBmTW90MHprT2NkQTc2aS1hRXpxMTdFRllWUXFlT3pIMUdYdWlTdmVJYw?oc=5"
-    },
-    {
-      "title": "特朗普簽署行政命令把安大略湖改名為美國湖",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50ZFBtYTRBUnZ4U2VkTmpKanZJR3B6QkZvQWxDcUcycHQ4NXQ0aWUtdWsyYndubUxzSDhGQ0Y4QXdNYzRId1JIX2lKVUcwWldwMGhaVlQ4UldDNGhubFJnaW1IT0N5UW1NQVVEd01vcw?oc=5"
     },
     {
       "title": "雙颱艾陶、班朗接力醞釀 賈新興曝對台影響「非常強的聖嬰」正在路上",
@@ -40,41 +40,41 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEJ6S3NxLUlxM3pnTTN2M2JwRlp3c1ZEMjZxdkdLc3lvcFVGbmIyMFFKSGlJSHdEX3pKdGlvVS1maTlVaGUteFJUS05tYk5wd1FkRW5sNlVld29Uck45UnZuM1E4MmQxd1F4VDhBblJVMTRhOF8wOHFMSjNtc3lISHpiak9DN2dNemZ3?oc=5"
     },
     {
-      "title": "自由說新聞》烏克蘭反攻前線包圍俄軍！CIA密訪莫斯科內幕- 國際",
-      "source": "自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTcHJjLV8zOWlSN0xuTlJ4UU9fQUcwZm5teVNZbXlhTDQ2Tm1kX09lYnktVnUzWF9aREExeW1ya29xd2NEN1cxSGVQUHpJMC1HbXhGREVZREZJSHVuQkM3aXFUdWNuUQ?oc=5"
+      "title": "挪威國王哈拉爾五世病逝 王儲哈康即時繼位 (15:37) - 20260828 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQSVNfcDdlTGdoOURVQmhxaHlmTFllMnRrVUE5VnlYYkQ2WnJzN1Z6a1hiUW1PRjJsc29MeGhRdklKNm9CRU5udE94Yzd6cG80dk9RLUYtLTlaZGVkTEtyRl9LeVdzOS1Pa0pvSWxmZUxRYnBYalp3UVBuWVdNUzhpVUNrQ2ZlRmJMblFSdkFUNGRKbFhVRmVQN0tBcVFEbEZvU3VucTVCako3X2VIRGJCNk93azBoZWFmUFJFUU10a2tpMS1rai1uWUlXbjZOM2hib25qTWZBR2N0cmozTlBxQmJFXzRUWXNvUUMzbXQyS3JOQU5ZWjRfTldCN2h2TnM1RjNDWWRUVHM1QUd2dlVoZGxFemtzSThhU1RJOFQ1ODlMcW1QaTRuQnU5VkRXWG5sblN0cnNBZThSMVNYU21OSjN2bHlsdHYzQVNyNHNjMjlpdEF1RkdsRWtNYXJCVkhMNUhZWGJGYkxmTmtNY0lQQTlwTFM?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "內地股市半日變動不大",
+      "title": "美股初段個別發展",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aOGNDQVdPTTFFUGVsMzRwSy1CREpDX1VNNkNQZU1YMXhvTmpVNHpBeWZyNkstQ2p2SWE3NVdfLVFaMkdOR0tFU2NXUTRDRUx4WW9zajdrdTZIZ0dYbFVmT1RUcDR1VWhYOTZjcmstNA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sLTNnZktKcThzQURsWFFwQ08tR3ZEa294eDVRTmhMYXpOa1JUb2lENUFFam5ja1hWS3B6d2pDRVNheHBZVnZEenRJSFBzQUUyZ19GaVlUWEtZMHhBWVRObUItRkM0NW5YTHRNb2U3NA?oc=5"
     },
     {
-      "title": "歐元：關注美聯儲信號和傑克遜霍爾會議——德意志銀行",
+      "title": "香港股市周五收市統計",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb1N0dllkYndJY1ZNMnQ0UHRhOVNBTFVoemNCS192T3diR3NxZHZyNk5VaXNqSUVSeWlwc29Md0h4aTBiaWpPVjB6SC1OVWhfeUVDVnBUeXJsTE01SmRKNEdBZE44WjZqeGVwNXBUTDh2eWdiSHVOUGVFWDRvY1k4WVRscHh5Z1VSbVhPU3dSUVU0a2I2ZjRKWm50ZUlmanpnNF9Od3hnTk8xeUItMmNXb3FINldNT3I4TUhBb3E1S3lWME1TaF9BaGVCU2U1eUZhdmJ6R2Q4RElKc3R6RmNMNnN3?oc=5"
+    },
+    {
+      "title": "美聯儲古爾斯比表示，通脹是目前的主要問題",
       "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeDJodDZpYlVORnBuanRORjB2SDVvSFJOeEJyY0pHR0E3VkRiYkVPRzMyb2lKWjMxN3NWbXhITnJjeF9OTDBZbHQ4VWFkV29RWHhTWjhyZExObGtveV8xY0MyS1dva2d0ZFpSRXJlRWtveXJfMWFnMjJ6YW5NRzZVdmZWekZtcmxJV21CRVJycjIyTkkyekNpODNnQ1pqcmZDUUctaGNQM0x5Vjc1eDE0MVdpaHRpV045TDROb01ROUJ6bm5x0gHKAUFVX3lxTE9kVkE5UHZsdTRSX3ZEMHlNd3RnRkJYX004cllLODdlek1yLVY5LXJ4VlRFeFVvVGVsdjBDWnJCY3VSMV9lajd1WjhxVW1fRUtqNFdhUERENWJMYzRkREE5RGljcGNoNDVFckxfakcwWElxTDNBZVowVVFWWkxLVWtremp0dFNya3R6empKQnBicU9wZEM2M1VWeGFxWDdYZGU1al9lTF9pc2U1RElLWkFkd3RDREY5Wjh1cmZzb1NCN3dIYV9MaTc0M1E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDZXaS1NSEFEYW5JWVVjMGJyQUFnLWZqdDJTWms5M194MDVkUXZwUWJJWm1zYVB0U2JKN3gyMl96eG1BUnBDcHFNMktBcmJ4b3BkYTh4cW5Cb2s0WmVDcXJtNXIxanR5R0hrbkFpTUloSW1ibkpSMXFyamF0OFpWcS1BQjlNemNOWklrNVM3ZVN6Y09nUWxsMFRWUmhSUW40cjZ0aGhMOU5YWS1XdFpiaUt5WVljQVBDQmfSAb8BQVVfeXFMUDBNS0JFVzJsVVA2Z0hmaElhTm1LaFU5VEdxY0dOYlB2OHhOVUJ5dmhTTVNWNlZaVVJjT2xoVmR0a1hOb2dBQ1duNWtoOUR2QU44SG4tT05PWDRjQVNBZ0dJeGFwRGFreGZMdjVFLXlfa2hmSDZXOE1WOEw5T1EtdjRjeUxtazc1anpCdkJaaW5GRUVLTHI5VnZaaG1rNTNwT2JSODg5SWlDcFZ4Q1YyYmdwRU5aYXJhVmpZZjE2dHM?oc=5"
     },
     {
-      "title": "有片丨英偉達股價大漲超8% 帶動美股三大指數齊升",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QRmRyM2NfdVoxdG5EX2IwZkoyR0tTTHY5SHFHcUoycWdjRzFtc1VQeTdjcW1oUUpQSDNFQ25WMGw0eC1Ndk5LSndQVjJHQjF1bWxITndCU3J2c3IxVWZnQ01fTzFXM0lNYWxuZUoxaVF1cERwaFB3VEVRUQ?oc=5"
+      "title": "聯準會主席重申抗通膨 美股平淡AI晶片漲勢降溫 | 民視新聞網",
+      "source": "LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCS3R3ek04ZTVLR3JXRjd0eVk2ZVUwVlJoMEFCbmJZZndxcFN5U0ZQUlhlY2J0ZEY4eXk2XzY5MGpMaEdlNWFRdk56azR3aXg4TzVHSGx3?oc=5"
     },
     {
-      "title": "【美股期貨】沃什央行年會發表演說前道指期貨升104點、納指期貨跌0.3% 金價企4600美元（不斷更新）",
+      "title": "市場靜候美聯儲主席發言 美股三大指數早段輕微走高",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQMWd3bTlJS2VwUUx6eVc5RWZGNFRBeFFCWjFNMFlXT1lqb2tWbVI3LVNibHhYdVZCQVl0b3BzU2NJdlU5eFA1QVZtdHhveE43YlJab1FDNUJFU2d3RXE2ZzA5elJEaER0am5teElBRzNkNEV4Z1Q5S2Q0N3JvdGVoNDFYdkwwY2FDN0h2T2VETVhNV2x5N0lHUENQX3BZR3ZNM21tdF9qamhiYUVvc1kwN2dPZjMwM0dOLUx1NlVDT1J3bng1NVlIZjZ3Y1h4bC1kaXY1eDVLUU0tdS1wbTNnZ2ViUEhSRGZmUWxxNVpOUmRkTDFFdko0MWVzTVhoMzJUNHZoZzBSNzBvYzQ0R1RGY1cxYWNmV2Z0ekt2M2RHSkNBOXB6a3d1cG9fSGJfSGZtT05uSVdOMkVGQ1Z0QVd6QlRCczNLS2RqNFNaVzVXeXhPVDBEbDBIcThKUnM2SXVXUUotTUhjeURXRUxnbmVuS0pR?oc=5"
+    },
+    {
+      "title": "宏利蔡尚琴：美息高企不改亞洲價值 中港股市避開牛市幻想|香港經濟日報",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxOZE1VX2FERVotc3ZrWTdQeDNheWd4WWtfTG9HZ3BkQlA2VDlPTkdPd2ljQ01IM0RaYm90Z0hyd3FiamxQZG9qVTBPMGZUeUdiNnNRRTFBLWV1TkUxNVNUa05kemQ1QTI5UG9GMUJSTHNGbXhPb0loUnFBbzJPdThlS3U4N2JwUU9CcEFUQmhxYjI1NFNHcDhMWGRMWm1Hbm1nTVVpMHhhTEZYMHR0SVd5ZGZGMmpnU3k5dC1HWFA2S1NDOG1vZXVNbm5EYWZ6d3hOS2pjdWZlclFNRGxSbEtaRnQxeHRPYXJOLWlaNjBQU2NJTHZyMkF5N0dQRFNtUU4zVHdJTHJURFdMekhTeTFVM0I2XzE2YTN2Vk9RaGdpLUNzVEh6Y01OV3RpNS02M3hUcTloczdrTkEzRTNhRk9ObXhoVVhNaE9LR0FmdC1IRGV1RFRoU1QzMWR2RTdacXFILUdhV0ZvbmxvdXhvTmVkbXoxT3h4VHpsbmVxSVdKM25TUXlBX0VNa0VXaWNpTzh1ekk4WWtIazRwLTNwMDdwdmJYNzRyZ05VSnpGQVJxUEtKNDVyaVpYZ05fX0toTUFXNFdBZmRsc1A0Q1lZTF9qdjRRdk0wMDVfTF9Sd0gtN2NkUkFQS0tqNzAzMnhUU0FreU1sSmJYbkNQZU8yb09fN09YckcxWU1OSVRKYzFETzUtVXlub0FENF83ZXluanlETXlSV2FncktaM3YwNzFEbndsc3puUHJGMXhBRnotNHFZTzVyazQ3Vk9TbHJqUUw4cjBpeThGUVhqN0JGZnpULWw4R0E?oc=5"
-    },
-    {
-      "title": "內地股市收市向下",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CRE5acjBVa0VIcXRVUFhORGJJYTloTjhVSjRhVFV5ZlpnNm5QVHBrMGtpS1NPQTJiOENsUzB5Nm5od0s4dF9UWXkwSDFSTnhzUE1oXzRn0gFbQVVfeXFMTXBlQlIyM2FaLWFaNHQwQVNkWUlrX09jcUlabDIzTVAwMGwtcVZwRzRQN2ZpNjVvdERHc2J4Vk9oSlN5dU9xWmJLa21XNldpSldjTHZwcDd0d0JHUQ?oc=5"
-    },
-    {
-      "title": "美聯儲這次，說法偏鴿，實際偏鷹。",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHllb2xONmhieGQ2ZzhNTXQ0WGozOGRFb0l2VlpsVjVJbUpUVlNfVFl3Vkw1QnhUelFhZkxEZGZCemRYX213NExQeXZhc1d3eFlpLW0tWmprTzlBbGhtTU9LQnN1SExsWFUxUEg5NFpRYmxMdUZVMWVjU1pWanhDLUdpWHFzb0lxWDQ3ODdhV3VCVkFpTHRwZkMxS0w2eEI1cE5QdlBMZTQ5Zw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOcUJhS1ZoUXpPVmF1cW1tcnJQUlVGVjVtT0FRUzdFZnZpLV8xZkVpSTIzeVdOa1JWbmxNNTM4aDF0YUtkUXh3UnN6UU1mN3E0a2d3NjFLQ3EtT2lHOE9LU0FQZ1VQQ25pSnZCdExxeFVMQ2x2THMyeU5aRURxM1Q3QkFjeHRFb0VxM092dnhkaDRpM1hQZmN5YnNZaEx2UlVLOE9RbEQ5VDcyY2Z4MW1RbnNubFQ2eC1HYzRyTkdzZGRvSVpUMF82NXljcUxSbV9ieG1RcEVrdUJKV0VxZkVacVNoREZkQW1GZzB0eG5NcWZXdzc2OF9GcVhvakI0OTNyUWRaR055RThRcnQ3anZwSHZwUTY5VHhTZ1o4ajFmSDFUajg5b0c5T2VTd0pHaWU1akhnOGhmODdFdGZwMWFGUWFwU2Y3ZExrbkw3aXM3a01TNERlYkpSeTF6ZjNoWEIwTWNBZFhVQnRLMVl2Rkpmb3VJRWNxOEUtN01oUEFEbWhCYmRvc2phV1lLbVVJc3hxUDF5SXc3Z0ZyY2M?oc=5"
     }
   ],
   "events": {
