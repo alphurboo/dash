@@ -1,28 +1,33 @@
 {
-  "updated_at": "2026-08-29 11:52:06",
+  "updated_at": "2026-08-29 20:15:37",
   "gas": {
     "current_label": "8月29日 (現行油價)",
-    "current_price": "176.9",
-    "predict_label": "August 29 (預測油價)",
-    "predict_price": "178.9",
-    "trend": "↑ 升 2 仙 (建議今日入)",
+    "current_price": "178.9",
+    "predict_label": "August 30 (預測油價)",
+    "predict_price": "182.9",
+    "trend": "↑ 升 4 仙 (建議今日入)",
     "trend_class": "gas-up"
   },
   "news_world": [
     {
-      "title": "李家超：沉痛哀悼西藏泥石流遇難者 賑災基金預留五千萬元 作為緊急賑災項目之用",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPWkxPWmFWSnJGV1otRzVHM0dWOWVNbFhKRk1yNXY3QWUyRl9SU0RtX0dSVXFuT29KSFduUy02SEhxRGlfX2RZSXN5ZVN6N0NpY25DUGw0R0w2YWoxRkpkaVZTQWJqN3lMSDdrYlRKb2pSR1pMZGZMczlhWlg3VlF3VUZ2d0xtR1NjcXZKcVdCTHpyRjhObU1NTDBXRkw0Q3ZxVUtOUG9ONmRQOEdsdnlRV1RYSzNLLU52eXF4VjJFYnc5X20wdmhRcEx2UmJYR3ppdHF0WlMwdUNUN1plbjhLSzVicEJwS19ud0xhQUtTQ3FYem1YeGNXclh4M1dxMHF2X0VjRVhQbnZNNEJnT0p0eUp3ZGU0NENXal9OLXdKbHhJSk44VDJXUlc5R29QT3ItODItZGtQWWxEZTlkbkQxOWdpaHFvZkpMZVJ1Ri1tWFBkVWtWU1QxVVlZMnpMT0pmQzVzSlFkZUI1SS1IcTJKTkZOTHZfUUNaOU8xWmxFUEFrTEtyb0d6UkRDZTRoZW85NTBfaXk4YnJHZUhhbEFZczVCcktIbmJKa0FCaUxtRW1GMDlrRmFkcmtlVHpWSnJhNXlCeHlsZWx1TkdMS2JfaFFVdFFFOG5PS0ktdHB5R2oxdTJnaWVCYkVtbldPUU44UTlOcVhrQlQyR28?oc=5"
+      "title": "西藏尼泊爾邊境發現第二處堰塞湖 若潰決對下方堰塞湖衝擊很大",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQWExySFV0TUlETTg3Q3V3VFBCcWdvUXhNay14TTZ6Q0daLVRZM3pQVUxkR21TTG9KMHZTbTZwXy1rb0piUk9vWmFxXzFZY3dHS3Q1OFV0bjkwaGtuNk4yVWljcTVfU2MtRFZ5VkxYNGQxMWRveVpZMUdpYkh1bVBvV2JYQkRaNTNfMW1iRUV6RTEtYkVQZG1TZEVtN1dMWW9qUGNDSW45YW9naVlFaW1ObDBxUnctM25yOFpGQ3dtaGtQTnFBeVozc3M2dFA0SDROakx1ZURNQzZ5NHJxVXczcGZqUnNfdTVydVBlcjAxSmlWd1JHOFVaNmo1RWhOdnNxdGxnRUMtRDQ3WlJLclF6WDR1NGhYM2xzZUZwZGItX1VxWjhjLXRpWVhfRUUydkdEY1luT1BZOVQ2Nkt4QjFFTWRUSkNpMjlkaVVvX0g3dkhpNjZLXzdJTWd5MUZSOUJUTE5feFJoU1ZlZ0JNeE13aTlaelpXWkNDTmZNS3FsU09hSnR5TDY2T1lNZGVzWlJWbEZreTMwcnpVdmwwQmlQVlhRcmVkd2hkdVBqaURCZw?oc=5"
     },
     {
-      "title": "加拿大官民齊反制美國 擬改名特朗普大道 賣「安大略湖」鴨舌帽",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNTk1uU05ESlhQQWdpc2g5UDc4NGlMLWRXYUJGc0ZRcjNqZndOUnRjbU9WVHFwUmJCSHZRcS1YUEpyaVRxRWYxR2o4X3ZiSzdZUWp4eXlBeUxvdUEzeVB3S3dqS3VTTm1ReVhmbG92NHM3WENNXy1LalctQlBJbFE1SHVUemFmak0tTUk2V2VPSWRRajJtaWE1bDQxMUM5UHJzSVgxQXJpN2lrR0lzaEZXdXY4S3pHQnZDRmpzckdUWXg1TXB2Ri1nRFpVRld5NXpORlFPWXJUd1hlNzRUeWV2V2tRV1I0R3NBSnVzOWRWOUc2eXozQWw1RG94eVZaRTdYUUNLN0ZKRlJjUjhXVndPcTQ5ZUZrQ0w4SGRqSjJNS3JwTXRTMFEzbmYtcGhPOTd4VUFkRnpJZGJJaEh3VmlrU0pkamJydjVqaUx3ZGFhZHJWV1JKSWJYZzMwU3ozNXpDYnpsZmRQSzBHamFFcnF0LWx0MWlpZVdLMkVXZkJCSGFmUHJROWF4ejNqZndVS3JIS2FRZnJHOXJyVlZGbDVtNll3RTZ6dnl2OTBTcG1sVVh4T0E?oc=5"
+      "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CN2tDOExuNDh3U3p0ZjZ5MUk1UzVqQTdrY3NYVmE3RE5JU2lZaWFOYnFoN1lKSGthM0dqb014a1h3VndYbWJmbVhaTlZpX0syUXdPLTZvYi1ZSWtEZ0QxaHhrWEc1d9IBa0FVX3lxTFBUMGZvRVJfMEs0Z0Vhc3d4UDZHZUVxSjBqWGxFcHNyNVpWcWZoRnJqSlE2djZxcUxqdkdmTk50RzJINVFYc3BHRENWelBvblRzZHpwdHBMOU04TzNQZkNkMmRmcVEwX2pZOEVn?oc=5"
     },
     {
-      "title": "龍七公：﻿財長制裁伊朗吹水多於一切｜評論｜港澳｜on.cc東網",
+      "title": "筆下風雲：中國不理美國難勝｜評論｜港澳｜on.cc東網",
       "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0x5Ykx0U0UxTm5NaTZHQW5fYnVYMFZDVW51YzVhVzZmX2tmbXk1NDdPMHlDRlExMW5rQlQxQV9BT0tVN29FRjNlZnN6MG81N0RPNTlnMHVoOGFfRlprNTNmX3V6Sl95MG44dV9DeUdndGp5dkpLdE9qZWx4ZU0zbkVaOGpTd3Z3cmd1NzQyV2xaMGc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUQ4NmdfODBTcTBRWjM5N0VabVVpbmZNT1k4WmNqalh4OE80WHR5aTdMa3pWb0ZTODBKSUtFdlBScy1UdndhMjVySU9xV0NZZXBjRGdpUS16YkRkM3VXR1ZmNjNBakQxbmdfc24zNVY1ZTNJXzJsQ1BRRGlCN1c2NDhleUdxX3dBTWltUGYyc2dGZ1k?oc=5"
+    },
+    {
+      "title": "第三次世界大戰已經爆發了嗎？ - 紐約時報中文網",
+      "source": "纽约时报中文网",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlp6aU9Sc19YY2tTSG1LQ01sWFhPbERVR2FGYncwYm1yV3d0OFF5R05yaUZRM0tranBGblplZWFGTmZWQ19ZVVRKMmVXWU1uNm41YkZfd3FTSjZtVEJ3dTRFbzFtQ0x4Z0NtZF9GZ29peER0SElQVkhoV29UWndPX1lNbWY3bS1aNUE?oc=5"
     },
     {
       "title": "海灣國拓替代路線 伊朗憂霍峽牌貶值 伊戰半年 能源出口攻防暗戰續成焦點 - 20260828 - 國際",
@@ -30,51 +35,46 @@
       "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNZGNTcHBFRWgxNnNIRE56eTVFX1dwYzM5VlNLalo2dXZIOW13OGhBVVdMVEtsOUwwWG9RdnZmZVR1VHNPT3lEUHJiZy0ycWh3TUp6NVBmN0dHUlBNejJYRklhUWlyN3BuM2NvUWxlTDU3eWlNN3pkR1F0aHV1SE12N1lZNzdNQllPVTNhX0lJTUhPTDhQaWppQ01LTmRWZ253QUI1MS1iSU5MeFoxUTVlb2lpaVpyZXhKQk44ZHdoQzZzOGpRYml5bXdybXotaW9WZ1FRRlZoTjh2UnRmTEJLa3l2TktNeWhnOXlUS2pqdlFDMnZVd0NQWURYeDUwMDhKZzJGc2dHalVNYlFxamQ0SVdFTlhPbUlKTy0zd3RES251Vkh5QVdCRTBhSEMxR2JJU3ZlNkVaMnJabmdKd0laRjlSOTViU1k2WHBZZk53cGhaakFJbUlhaXhGLWNjUDdFU0Vod0ZfZ081STVmVkFRRTNaTlZiTlBISlROZ09aMkJGOS1zczBINnEyNlZLYTdoTWpNZElUODdNN2d2THROQ2NYU3J5U2Jxa1BIang3Wi1PWklGaGVJSE9DLWlSOXZLbVVRaG91VjFXdlIwbWdQcm5fWndlcldOd1plNEFiMkJXdGo4c3NGdU0xaEdUQUhpbjJETDJzcmFpUFlmWkl1SENUZUpIVXRRdFJqVkJ4WE9wQnM?oc=5"
     },
     {
-      "title": "還有颱風生成？粉專：下周太平洋非常熱鬧 沙德爾有機會進入南海",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fMXNrUDAwemJVeVdqSjIxT19xLTBBUmcxZ1JHNFY3aHdCakUyekRWV1p5TEpsdUNWR1FNenIxQk5mc193MVdGU3ZMYk1JUmpJ0gFWQVVfeXFMTmlWX0trT2xFdi1OaFhZam5Vd3Fud3dnaXkxeU1uSHJRbUxOTTJpOE5SajlSQnhieDdSNHVFeWlweDNjODF6YjZ4OG8zZmNDZE1GbkdWMFE?oc=5"
-    },
-    {
       "title": "挪威新王哈康曾對王室身分焦慮新王后被爆與艾普斯坦關係匪淺- 國際",
       "source": "自由時報",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFNEM2SG1oTE9XU2dyN3Vab3Z4SnpWVjVndUo1eWVvNHlEYkI4bjNIZGVWUUJvM0cxWktIanc3Y3dxR3ppZ2hPenppZXdOUDhzUHNiZHNMUlNaRXc1OEt1U3hxTXlKUQ?oc=5"
     },
     {
-      "title": "曝光甲醛紹菜憂報復 博主稱總得有人站出來",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVldURWc2TkpHSGQtZG1UVEg3eFhzdlYyeXRZV3ZLNlY1eWRycnU1T2xuYzVxNFMzRnMxek1XY0UzcU40eDhDNTRpRWlJYlhfaWt0VFFqSl8xSTUydTdhblpFb3RjWjJRcTVrM0o0aUxPNV9HT054UkhtTlZKQnlVOVV6SEFZdVdCYlJz?oc=5"
+      "title": "還有颱風生成？粉專：下周太平洋非常熱鬧 沙德爾有機會進入南海",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fMXNrUDAwemJVeVdqSjIxT19xLTBBUmcxZ1JHNFY3aHdCakUyekRWV1p5TEpsdUNWR1FNenIxQk5mc193MVdGU3ZMYk1JUmpJ0gFWQVVfeXFMTmlWX0trT2xFdi1OaFhZam5Vd3Fud3dnaXkxeU1uSHJRbUxOTTJpOE5SajlSQnhieDdSNHVFeWlweDNjODF6YjZ4OG8zZmNDZE1GbkdWMFE?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股周線收紅 費半卻熄火 下周就業和博通接棒考驗AI行情",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAydHlsSVZPOVlYS21rUHVNN1F4Q2phajZSYm1lZ3BLSVVFWlA2aWdfcE1yY1VSMldwWEVpejNLNF8xdWtUX285TlhSRUJQXzFlUjYtSUJPS1p6QWJCVmNmM1lR0gFnQVVfeXFMT3hYLWhFMW9ESUViYWhSakYzQUkweHdtUk9oM1JWODRpUS1VNVdySGd1QU5peS1waDlBT0lQMm1nRF85YnlzZEFrX0Z3c21EMG1XNkFVc0JoRmNCRWQ3aGh6VHRTdXlaQQ?oc=5"
+      "title": "美股收低科技股和晶片股跌勢較重…本周有兩大考驗| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14eURuVGVwSXo2cHFNX2xyRHRYWjdfRWNyQVlIQi1pSS1LY2hkTUp2Y1lsRUd5eUZwbWlKUW1NbzVpd2JpVGo4YkVGUzZuTmFC?oc=5"
     },
     {
-      "title": "美股股市即時行情、最新研究報告與熱門美股排行 - 股市爆料同學會",
-      "source": "CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50NzJGUjUyQjZmSnB6Sk15SXkwVy1HbWJIWnhtVVgzaXF5OFNrVTZ1YmxaOVV3WUxKSjdUOW5UR2RqM0lSS3hiUlduVQ?oc=5"
+      "title": "美股異動｜Target Hospitality簽2.5億美元數據中心合約 | 即時新聞 - 新聞",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1FDNDBwNWJDNzgxTXVtM1cxTEZ4RDZ2bVRXQndXTl9kamFRdUFKQnBsMnRBeUtMU0h6ZVM3U3ROZHlYT3NpYlJDUWo3Vno1VEVUelNCQk5fN0U3ZWtZLWxJamN4UngwbGNqck90eVNuTUZIZ0YyZktuanpRX2tVWllLLV9GYzVySndkajFGa1RtWWJlbGlpTjFWSC1mRmw0?oc=5"
     },
     {
-      "title": "沃什放鷹稱抗通脹未結束 美股三大指數齊跌 (16:14) - 20260829 - 即時財經新聞",
-      "source": "明報財經網",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPMXdXbG9OZ0Rlby1ab0cwOU5kd3dJUFUtYkJLVzZ6MmhNdXU2TjYxMFBKR0wyZXhwUjVMb1d2TFhzQ1JqdUhwT2ZvdUxrSG9ncW9Ubmw4Y2p1U0RlMUl5Y19XWHYwM0szYVplakxaa18ycXBGSzdrRzNId2hkSlA3TVFKcC1PaktCMkhGYTFhSkhFTVFkOEhLOGJyRjJBTXZjMFFmeEpBOFppT2IyZ1ZqMUx5ZGdlbUNISnJzWThhd3N3cGNfdE5PUTlVcEJzbzB2dmF1ZDBYVkpZS001NTktRmtqSi1JQ3lBbDVQdUlIRElIVkI3SEpUc2s0THczaGZhV3k1bGwtTEpRem9Ebl9zOHBLMzFmNG44Y0JtTmZsSllDUUxyRUJlNFpicGIzN2hYaC15eGtRdnFrelVnYUZrV2hBcnNPanZwS1hYNF90QVZPU1F4azBV?oc=5"
+      "title": "反AI成選舉攻防焦點美股嚴陣以待- 日報",
+      "source": "工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LRjhGbXk2WkpIckJZd3ZPNElYVnRCRHpkWTgwTlAtVjFVdHUyRXhmSnctX1hCYXpabUNOUmxCTmZjX1ljcUlKbUFVX1dKTExIWFZvenVjeElhVzdtenow?oc=5"
     },
     {
-      "title": "Fed主席放鷹！通膨陰影猶在、美股指數收跌 | NOWNEWS今日新聞",
+      "title": "星期一開盤不妙了？美股全面收黑 台指期夜盤大跌 | 民視新聞網",
       "source": "LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FakpQTUwtZXpYT3pFSlZZcV9zSWQxbmlhYWczbTFlNDVFRkc2UVZrdnB6RU5yeWMzLTdocUVxTllIQm9GRnVXUmI4ZmdVNUhpS0tST09n?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yZ0QwRl8wamtTZUVQV0RGRGw2bEk1V2ItLWluX1VLRWg3aUZyTDRUdDc0YVI3RGU5UGxoN1M2MF9yazFFTy1FZmxXU2d1TjZtcjI3YUJn?oc=5"
     },
     {
-      "title": "參加了 moomoo 7—8 月的美股模擬交易大賽。",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmdqcGQ3ZGZWS2tiMDFsZlZpYWY4MjZMS0xiOFVuX0Z3VDlLSWZwX3VOaUQ4cndDMzhVRXVkMWwwZXNiZ0N2ZTJsalMtM2FXa2Qxc2M5S0FDdkoxTzF3N181RVIyRW9USW9ITmI1QWpQei1nbnJseU9jQmV4SmNpOHE3VXlqdmxJXzJXMEM1ZjRVT1V0LTZYQUdyUXp6Ym1iS2V0dXZBaHFDNURmZkRpSjBicnI?oc=5"
+      "title": "盤中速報 - COTI大漲11.03%，報0.0135美元",
+      "source": "CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9feFViYUhoQTFqZGs3VGU0OG5FSnVLeHFqR1I0U2t1bmVnUGl2d001TU9pVzB4bUZmM2lSR0RBLXpGY3N6dnBTZ0NqaXU3UDN1MGxiSG1tOWY?oc=5"
     },
     {
-      "title": "歐洲股市上漲 汽車股領漲 | 國際焦點 | 國際",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ITXlGZHdYcS0tOFIwbHFvT2hlcDFFNzByZ1ZBdUQ2dWx0ek44VmVwcGxvc2hBaFQtQWFVYkFaemtlNVZoQjcxeElyTkFKazlrT0M1MWlxOC1kdw?oc=5"
+      "title": "AI智慧戒指成為新戰場？Oura最快9月赴美IPO、估值上看160億美元",
+      "source": "news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jbkx5VXVYbUk2aVNGbndFZ2RxaEpERHM5eDJjVnJoeW1kT1AzMzhTNFVUZExma0duc1pidkJSUE9IR2kzalZJNXhiSTB1QTA?oc=5"
     }
   ],
   "events": {
