@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-28 22:00:41",
+  "updated_at": "2026-08-29 11:15:30",
   "gas": {
-    "current_label": "8月28日 (現行油價)",
+    "current_label": "8月29日 (現行油價)",
     "current_price": "176.9",
     "predict_label": "August 29 (預測油價)",
     "predict_price": "178.9",
@@ -10,29 +10,19 @@
   },
   "news_world": [
     {
-      "title": "西藏尼泊爾邊境山洪 中國無人機「空投」消防員",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNS1RmMTJaTWhZRGhKb24ybDlzMnVLOThYc0tXNVVIREtFTzVPc3MxVjV2MlpNSlJCOENLck1VMmM3SnM5QklhRGhRYVY3RElDYWxCWHYyMnRFaGQ1bzdNUkx4cWo1eHlyR1F1Q0tncDhoR0M1OHhiMHJtMHM3N0JzT0FYTTZncmRlLXhIdXlicVhDWHVfemZBUDlrRTRjdlZIMVdLb2FhSlNmc2Z3blotek5XbFN4eFZqdGgzZGltSGxZTkkzblNwemFnV0x3WWV5YnpvRFBoWEpxSjE1d053LWhzcm5EWGNobWhrNi04V1QwTDJvT1JqYld4X0Z3REZ5ZWxkWi12S2E2UWc3cEtsTGN6dlJMN0pLYlp6b3BjaHBmd2dOMHRZNWZpeFdsVW5sWDNDcUdxcllhNVZaSy1ZalpPVkh6dw?oc=5"
+      "title": "李家超：沉痛哀悼西藏泥石流遇難者 賑災基金預留五千萬元 作為緊急賑災項目之用",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPWkxPWmFWSnJGV1otRzVHM0dWOWVNbFhKRk1yNXY3QWUyRl9SU0RtX0dSVXFuT29KSFduUy02SEhxRGlfX2RZSXN5ZVN6N0NpY25DUGw0R0w2YWoxRkpkaVZTQWJqN3lMSDdrYlRKb2pSR1pMZGZMczlhWlg3VlF3VUZ2d0xtR1NjcXZKcVdCTHpyRjhObU1NTDBXRkw0Q3ZxVUtOUG9ONmRQOEdsdnlRV1RYSzNLLU52eXF4VjJFYnc5X20wdmhRcEx2UmJYR3ppdHF0WlMwdUNUN1plbjhLSzVicEJwS19ud0xhQUtTQ3FYem1YeGNXclh4M1dxMHF2X0VjRVhQbnZNNEJnT0p0eUp3ZGU0NENXal9OLXdKbHhJSk44VDJXUlc5R29QT3ItODItZGtQWWxEZTlkbkQxOWdpaHFvZkpMZVJ1Ri1tWFBkVWtWU1QxVVlZMnpMT0pmQzVzSlFkZUI1SS1IcTJKTkZOTHZfUUNaOU8xWmxFUEFrTEtyb0d6UkRDZTRoZW85NTBfaXk4YnJHZUhhbEFZczVCcktIbmJKa0FCaUxtRW1GMDlrRmFkcmtlVHpWSnJhNXlCeHlsZWx1TkdMS2JfaFFVdFFFOG5PS0ktdHB5R2oxdTJnaWVCYkVtbldPUU44UTlOcVhrQlQyR28?oc=5"
     },
     {
-      "title": "【美股開市】觀望沃什Jackson Hole發言道指升143點、納指跌0.1% 邁威爾科技績後跌8%（不斷更新）",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQamJQNjRNSGVJSTRxcjhzT2VOdU90cjZFUHJHRkVPUFJ2S0VIMUtpZTVCbTVKTVU4RjZ1YnF6TkE4T1U5RldKdkdGWllZNlBiOUM2RGEtbWhtQmpGNWg5LW5yTFhHYUx5ZW1pclJFbkdUSUt6YlFoQ2tYUFlHZjF5YXdRVU9RLUN4bVNTVzJ1VDY0dUJHX25KMk9TbFVGN2ZXb0VxVFlZYkVLTHl1Q3RrMS1OX2R6NTZBQ3d1eWJjZ0hfLXJ2U2FkMXdERlpwQk5KZUdXbnZFTThHQUZyQ0MzejB5eWRDVGFHRXowTERMbm5ocEJ4bzQyT043NFhwS0czbWxtWEUyVW1JRmJva2YyNFpKdFNkZ0cxWGR6VWwxMUt6QXNGdVZOd21GTmJnSmR2cS1KYW5oNmU0VnN3cmQ0cUUybUZMaUc0WW1TSk1aQm9RaEJpSzZmQU9mQTdxek10bS14aEN5eTA3UzBSVlExYkJSVnh2RkRmT0huVUJTQjNWY1FfY0Q1RlBxT0pQem94TmowS1NYbFdJZHNnSTBxQWdCX0VjS3cweE5mbXV5b1F1YjZLUUM4WGpXcWtxQ0NtUHBFMXRsbU5HOWRoZE16ZHhkeXVVNGFBX2pJVm84djdGdGlOdzRNZFNaOUJVT3N1TzcwdWIxekpRcUUwT0lidjd2cjNsNFNMSjRUaW85VDRLZ2NHOU5VbEFRa0JERGs?oc=5"
-    },
-    {
-      "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CN2tDOExuNDh3U3p0ZjZ5MUk1UzVqQTdrY3NYVmE3RE5JU2lZaWFOYnFoN1lKSGthM0dqb014a1h3VndYbWJmbVhaTlZpX0syUXdPLTZvYi1ZSWtEZ0QxaHhrWEc1d9IBa0FVX3lxTFBUMGZvRVJfMEs0Z0Vhc3d4UDZHZUVxSjBqWGxFcHNyNVpWcWZoRnJqSlE2djZxcUxqdkdmTk50RzJINVFYc3BHRENWelBvblRzZHpwdHBMOU04TzNQZkNkMmRmcVEwX2pZOEVn?oc=5"
-    },
-    {
-      "title": "特朗普不排除美國加大制裁伊朗會影響中國 暗示或制裁中國銀行業",
+      "title": "加拿大官民齊反制美國 擬改名特朗普大道 賣「安大略湖」鴨舌帽",
       "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOdEt0R01wT3o5Z2RvaFpPT3R4UVdwOTk3c3AwNExjUm82WnY1MHYwRnFhMVR4WGhNem5jQzhZSzlFVGhpT1E2Rlh5UnRueFdFWWEtdXNkd0FSV1hGcFpEUW9ET0Y5a1JtYWZybmxHdlFZSFJNcEsyTllHSjhxYUdTWmlSeXR0NDUzX0VzSnJzeGZaVXdaWTl1SktrMzZQNmRKT09ydVBwRVlUam5YMnI1OHpnT2hGZElPZ0lEZnRlaFhocEhadm55MjA0b0RGVU01TDQ4VXJDWTRKQk5kMTlHSnllMjhKbDUteC1RY3YtWFNpU21WQ1JvRVRyaVJwcFR3bVFUX2E5R0hVTFJNQU5wMkxiYUpkS1JDRjRsYm1pNUNsNm9CcVNQNGdWN0lhWkxBN3l0Yk1mNjdzdVdXRDl5S1ZydjhXV2ZvR0hMdE5fazY2RTkzT3J2RzRmQUlkcC05RXVWWEpnQ2RIdGl5Q2daMC1HMElXU0lxaWRmeHpzVWlDNmVRZ1JoSms0NVJrUC1HR2J1c1lPaHNYVzV2ZWpNcl9RbTdnbkJONVBmTW90MHprT2NkQTc2aS1hRXpxMTdFRllWUXFlT3pIMUdYdWlTdmVJYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNTk1uU05ESlhQQWdpc2g5UDc4NGlMLWRXYUJGc0ZRcjNqZndOUnRjbU9WVHFwUmJCSHZRcS1YUEpyaVRxRWYxR2o4X3ZiSzdZUWp4eXlBeUxvdUEzeVB3S3dqS3VTTm1ReVhmbG92NHM3WENNXy1LalctQlBJbFE1SHVUemFmak0tTUk2V2VPSWRRajJtaWE1bDQxMUM5UHJzSVgxQXJpN2lrR0lzaEZXdXY4S3pHQnZDRmpzckdUWXg1TXB2Ri1nRFpVRld5NXpORlFPWXJUd1hlNzRUeWV2V2tRV1I0R3NBSnVzOWRWOUc2eXozQWw1RG94eVZaRTdYUUNLN0ZKRlJjUjhXVndPcTQ5ZUZrQ0w4SGRqSjJNS3JwTXRTMFEzbmYtcGhPOTd4VUFkRnpJZGJJaEh3VmlrU0pkamJydjVqaUx3ZGFhZHJWV1JKSWJYZzMwU3ozNXpDYnpsZmRQSzBHamFFcnF0LWx0MWlpZVdLMkVXZkJCSGFmUHJROWF4ejNqZndVS3JIS2FRZnJHOXJyVlZGbDVtNll3RTZ6dnl2OTBTcG1sVVh4T0E?oc=5"
     },
     {
-      "title": "雙颱艾陶、班朗接力醞釀 賈新興曝對台影響「非常強的聖嬰」正在路上",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56NlZfYWVyOE44cW5uQkFPSTliTGxHUFc2elRyS3lDMlFPSFNScVZHei1tYWMzbW9JdFpxZU5GM3VZVmFRekpqbmVmNXNwUzky0gFWQVVfeXFMTURiTzhrNTZLSTlqZGZsajJfc2JHcWY5dnpkQVMyMTA1Y295QzdSRUJGbm50QU51WDZoamxocHpMcEZ1ZW9wSV8ydGlJWEJnSmZtWVBKN1E?oc=5"
+      "title": "龍七公：﻿財長制裁伊朗吹水多於一切｜評論｜港澳｜on.cc東網",
+      "source": "on.cc東網",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0x5Ykx0U0UxTm5NaTZHQW5fYnVYMFZDVW51YzVhVzZmX2tmbXk1NDdPMHlDRlExMW5rQlQxQV9BT0tVN29FRjNlZnN6MG81N0RPNTlnMHVoOGFfRlprNTNmX3V6Sl95MG44dV9DeUdndGp5dkpLdE9qZWx4ZU0zbkVaOGpTd3Z3cmd1NzQyV2xaMGc?oc=5"
     },
     {
       "title": "海灣國拓替代路線 伊朗憂霍峽牌貶值 伊戰半年 能源出口攻防暗戰續成焦點 - 20260828 - 國際",
@@ -40,41 +30,51 @@
       "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNZGNTcHBFRWgxNnNIRE56eTVFX1dwYzM5VlNLalo2dXZIOW13OGhBVVdMVEtsOUwwWG9RdnZmZVR1VHNPT3lEUHJiZy0ycWh3TUp6NVBmN0dHUlBNejJYRklhUWlyN3BuM2NvUWxlTDU3eWlNN3pkR1F0aHV1SE12N1lZNzdNQllPVTNhX0lJTUhPTDhQaWppQ01LTmRWZ253QUI1MS1iSU5MeFoxUTVlb2lpaVpyZXhKQk44ZHdoQzZzOGpRYml5bXdybXotaW9WZ1FRRlZoTjh2UnRmTEJLa3l2TktNeWhnOXlUS2pqdlFDMnZVd0NQWURYeDUwMDhKZzJGc2dHalVNYlFxamQ0SVdFTlhPbUlKTy0zd3RES251Vkh5QVdCRTBhSEMxR2JJU3ZlNkVaMnJabmdKd0laRjlSOTViU1k2WHBZZk53cGhaakFJbUlhaXhGLWNjUDdFU0Vod0ZfZ081STVmVkFRRTNaTlZiTlBISlROZ09aMkJGOS1zczBINnEyNlZLYTdoTWpNZElUODdNN2d2THROQ2NYU3J5U2Jxa1BIang3Wi1PWklGaGVJSE9DLWlSOXZLbVVRaG91VjFXdlIwbWdQcm5fWndlcldOd1plNEFiMkJXdGo4c3NGdU0xaEdUQUhpbjJETDJzcmFpUFlmWkl1SENUZUpIVXRRdFJqVkJ4WE9wQnM?oc=5"
     },
     {
-      "title": "「紫檀」再登陸廣東徐聞 廣西多村暴雨成孤島",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEJ6S3NxLUlxM3pnTTN2M2JwRlp3c1ZEMjZxdkdLc3lvcFVGbmIyMFFKSGlJSHdEX3pKdGlvVS1maTlVaGUteFJUS05tYk5wd1FkRW5sNlVld29Uck45UnZuM1E4MmQxd1F4VDhBblJVMTRhOF8wOHFMSjNtc3lISHpiak9DN2dNemZ3?oc=5"
+      "title": "還有颱風生成？粉專：下周太平洋非常熱鬧 沙德爾有機會進入南海",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fMXNrUDAwemJVeVdqSjIxT19xLTBBUmcxZ1JHNFY3aHdCakUyekRWV1p5TEpsdUNWR1FNenIxQk5mc193MVdGU3ZMYk1JUmpJ0gFWQVVfeXFMTmlWX0trT2xFdi1OaFhZam5Vd3Fud3dnaXkxeU1uSHJRbUxOTTJpOE5SajlSQnhieDdSNHVFeWlweDNjODF6YjZ4OG8zZmNDZE1GbkdWMFE?oc=5"
+    },
+    {
+      "title": "挪威國王哈拉爾五世病逝終年89歲 王儲繼位成哈康八世",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOSWFmRlRkQkFJWmNkNmdIUGNmUVM3bWs0alZGSjVHTzQyMW5FUmE3djg5N2FJQWd6bFdWbkM5SDJYOTM5SXE2WEhPb1czVEZqbVFkV0MxYkxzSWNwV0RwaVBGNS1IMkhwTTR3cWk1RnlCeDg3ckdTbkd2WmJBVTE1blZjM01xai1DRzNVSUVCU05JYTY0c19ELUlvYkFmSFh3Q012MUhxR3RlS3YxSkI1V3A5aHRSaXdDZVVLaU1sTHc1RVRsdlhCRFlKTHFwVkR3NUxVaDVLSUdIVzd0Z0JlQ2tXYWlsXzVlUktlRHBQVmhyOUJiQktEY182SGREbDVSZnRremZSSjRmSXI0VWJBTHhfSnZVYUJTd01hS3I2Ukk5RWR1c2U2cXlhRU1SeGdVMHo5eXk1WEFPWFdsaURKVDlQUEMyYU5LV0ctRWhybmEzOUQwRlZteVJUNzRLc241eWJpMnZzeXpfZ2ZSaWdaUEpzVWhJUVhRRElENC05cnM5RnpjQjRFYXMyaUk3Zw?oc=5"
+    },
+    {
+      "title": "CIA警告勿攻北約、用核武! 普丁悍然拒見簽3密令 中、印罕見「為這事」施壓俄",
+      "source": "Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPZE5KQmlTeU1qajBPWF84dTBuZFdVOWhsQVRUSktJWmFfV1JVTVpoVTNPbFA1UWc4MUJJekhTUHVQekozUVFpWWRXYy0wWTR4VE1kYjlROHpFdDRhTTVJeGxDZFVacEMzdUc3U3lKQ2dhVlEwNGdCWUpGanZiR2dBV3p3cXhidUZ4akY3YWwxNVVEVVhrVFZmMTRfMlJNSUs0eXFVMDlEVzdRNWJ1dTgxWWxUOXlGNnhfTmJ4d0ppVlM2V1F6bmttRXNWMmxiQ2FVbGJOZWpKZTF4RXNOT0M3R0RlR3M2WVJ4aklicThOeDVOejR3THozd3Jsa015M0ZYZjVEWG0weGk0N3Z2Ukg4T0pJRy13ZVNZdVVlREdzaU1KbWJObG9XZFNBajh6OW5famgwRElOQ1lvLXdFTF9WeW1SaWtTV2VyalZxeDBURDVaX2Y2X0tZblBLSlZ6MTF2Z2JnV25B?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "沃什稱美國通脹仍然過高 外電認為暗示美聯儲或需加息",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JNW0xUmd3c3hUMF91MUhnREthY25hZHNvUDBfeGdUeEplc1lYaVB3bmNWRVpBTnBiT3Y3d3Z3R25mU3JYaTVqaWFlNXJDYkhVdUhPTnB6LTlGQU9MRWlPaG5oVEtQOG9STlB5elRzQQ?oc=5"
+      "title": "美股周線收紅 費半卻熄火 下周就業和博通接棒考驗AI行情",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAydHlsSVZPOVlYS21rUHVNN1F4Q2phajZSYm1lZ3BLSVVFWlA2aWdfcE1yY1VSMldwWEVpejNLNF8xdWtUX285TlhSRUJQXzFlUjYtSUJPS1p6QWJCVmNmM1lR0gFnQVVfeXFMT3hYLWhFMW9ESUViYWhSakYzQUkweHdtUk9oM1JWODRpUS1VNVdySGd1QU5peS1waDlBT0lQMm1nRF85YnlzZEFrX0Z3c21EMG1XNkFVc0JoRmNCRWQ3aGh6VHRTdXlaQQ?oc=5"
     },
     {
-      "title": "美聯儲主席沃什強調遏制通脹 市場對美聯儲加息預期升溫",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNRjR3VlFvX2F4Z00waXdHcXRSWXB1bXltdjhUV212d0p6Y1NoemtXTlEtLWVvZ1I0ekRidEZESjBoQ2E4U2hZbE9XcElubEVMcnNsdzFESU1kdl9NeHJjYjFjUTVyc0o4bHFSN21JOFA2N1ZobGs1bzJkWTNESkg1b1BRMjhXZVZObFVJdWxNNy1WMFJacGphQmJHUzFYNEdGS2RuN1dvVkpQNmh4WmNFSzg0bm5zQWQyT1J1N3M3cW9FTVNad3NweUNaQVZqWHFITkpfYnNNTEk2cGxxVkJJTG9NWEZUTmxzcDB3X1I4Tjg4X3pxWHhMdWJubVlWdkZlT05vSzQxSnhrNGJ3OG5UdE51OV9yV1p6dFNiMVBzcE1oWklSYktNWmhBRkpleU9fNmppQjEtTExlRmNoNnBUeUxiZFo3NVltSzRrbXQzS1ZNMjhMU3J4VEVaLUZFcVNRaGl6azh2c0ZtbFJvaEtsQ2dya1h5a1poNjlzZHowZGhjZTREQjRvNG40cWc?oc=5"
+      "title": "美股股市即時行情、最新研究報告與熱門美股排行 - 股市爆料同學會",
+      "source": "CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50NzJGUjUyQjZmSnB6Sk15SXkwVy1HbWJIWnhtVVgzaXF5OFNrVTZ1YmxaOVV3WUxKSjdUOW5UR2RqM0lSS3hiUlduVQ?oc=5"
     },
     {
-      "title": "美股走勢丨納指收市跌0.52% 沃什誓遏通脹加息憂慮增",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNV214Y3I4MGhXNEFkQnZVdlhvTWhjVVdyT0Q1LWtrQmZRQ3VIOWNTWHJlZTV4Y2hsdlZsdl9ad3Y2OFJ1dExFRkFPeGgwV3J6cktrM2ZFN2N2ZF83WTlQOHFObDBBX1BtVUhPVUxrTzNsM3FRQ3hrRFNzb2hUX3JxLTE4aHhFU2E4bmYwLWFneTBCVTFaWEM5bTEyNjBqUGFqMnVoWDRkaUxvM2Y1YzJVZVFQWXhLQ0d0dk81V0FRQS16Sjdrajd0SmJud0Z0X3VXc0F4b3Z4eDNvbE1LQVdYV3d0cWQtdnV5Tm1ienBoV2FpZTc4QXRqMEs2MXptdXVSQ25xMWdJR3RrZ2dQUWxfbHA4ekd0a1lzOFczSHBlWWxtLVZSWHpkYjJMMU4xM0YxeXFxNk5FVjUzOXB3a1l6TWlCWWppbl9zejBXUGZITkxzNnBWMW9hNlFrbkpMR0JFOExkU3BB?oc=5"
+      "title": "美聯儲主席釋放鷹派信號 美國三大股指齊跌",
+      "source": "香港商報",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QMVd1cmFScUNJYmZrMF9aZkNwb005ODNsM1dEYUxaQ0lLblhjSEV0bUljQmNOY0ktZzZQVmZxMjIyX2c5c0V6UVd0RTRCM21FbUZ6cEk1Ql9WMzZLRHZYTmpOUUVXNGRoR0Zhd0ZBb2laUQ?oc=5"
     },
     {
-      "title": "美聯儲古爾斯比表示，通脹是目前的主要問題",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDZXaS1NSEFEYW5JWVVjMGJyQUFnLWZqdDJTWms5M194MDVkUXZwUWJJWm1zYVB0U2JKN3gyMl96eG1BUnBDcHFNMktBcmJ4b3BkYTh4cW5Cb2s0WmVDcXJtNXIxanR5R0hrbkFpTUloSW1ibkpSMXFyamF0OFpWcS1BQjlNemNOWklrNVM3ZVN6Y09nUWxsMFRWUmhSUW40cjZ0aGhMOU5YWS1XdFpiaUt5WVljQVBDQmfSAb8BQVVfeXFMUDBNS0JFVzJsVVA2Z0hmaElhTm1LaFU5VEdxY0dOYlB2OHhOVUJ5dmhTTVNWNlZaVVJjT2xoVmR0a1hOb2dBQ1duNWtoOUR2QU44SG4tT05PWDRjQVNBZ0dJeGFwRGFreGZMdjVFLXlfa2hmSDZXOE1WOEw5T1EtdjRjeUxtazc1anpCdkJaaW5GRUVLTHI5VnZaaG1rNTNwT2JSODg5SWlDcFZ4Q1YyYmdwRU5aYXJhVmpZZjE2dHM?oc=5"
+      "title": "沃什放鷹稱抗通脹未結束 美股三大指數齊跌 (16:14) - 20260829 - 即時財經新聞",
+      "source": "明報財經網",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPMXdXbG9OZ0Rlby1ab0cwOU5kd3dJUFUtYkJLVzZ6MmhNdXU2TjYxMFBKR0wyZXhwUjVMb1d2TFhzQ1JqdUhwT2ZvdUxrSG9ncW9Ubmw4Y2p1U0RlMUl5Y19XWHYwM0szYVplakxaa18ycXBGSzdrRzNId2hkSlA3TVFKcC1PaktCMkhGYTFhSkhFTVFkOEhLOGJyRjJBTXZjMFFmeEpBOFppT2IyZ1ZqMUx5ZGdlbUNISnJzWThhd3N3cGNfdE5PUTlVcEJzbzB2dmF1ZDBYVkpZS001NTktRmtqSi1JQ3lBbDVQdUlIRElIVkI3SEpUc2s0THczaGZhV3k1bGwtTEpRem9Ebl9zOHBLMzFmNG44Y0JtTmZsSllDUUxyRUJlNFpicGIzN2hYaC15eGtRdnFrelVnYUZrV2hBcnNPanZwS1hYNF90QVZPU1F4azBV?oc=5"
     },
     {
-      "title": "政經才情/外圍局勢未明朗美股趁高減持\\容道- 經濟",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ualp5cmN4bHpwV3BkX3VCMTlZc0xpSFJRYmVDUENwc0kxeVh5R2c4a1h6MjZSTzVwd2pSejdKWldNWVFBRUlFSkVCMVRFN2VWRVVFX1lPel92Y1FHN1ZleGxIUXZGdlVIY1ZPUFNndWw3RXVR?oc=5"
+      "title": "Fed主席放鷹！通膨陰影猶在、美股指數收跌 | NOWNEWS今日新聞",
+      "source": "LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FakpQTUwtZXpYT3pFSlZZcV9zSWQxbmlhYWczbTFlNDVFRkc2UVZrdnB6RU5yeWMzLTdocUVxTllIQm9GRnVXUmI4ZmdVNUhpS0tST09n?oc=5"
     },
     {
-      "title": "【短訊】美聯儲主席沃什講話 市場期待什麼？",
-      "source": "新唐人電視台",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1seHFEOW1qRjI4VXF3ZXNMLTdTcWJPRUVydFpNTC1rb2tTb0Y5TmNRVXZwX01UcE41RElKaDl4UVVxLXlKUlYtZlpGVnpXOENDbXdWU0ItQTJiYjlTNWhaSNIBZkFVX3lxTE5kaVUzV3RHYk5GSXdkTGFSRDRsdzVsd1EwNTFqcGRpSHZtR0hEcENyUzlnWHJMRFlFazg0dHBxdFZMQzNSOGV1QVR1YlVraUM5NUJkcGNWTTZySFI0REN0bWtqLUVSQQ?oc=5"
+      "title": "參加了 moomoo 7—8 月的美股模擬交易大賽。",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmdqcGQ3ZGZWS2tiMDFsZlZpYWY4MjZMS0xiOFVuX0Z3VDlLSWZwX3VOaUQ4cndDMzhVRXVkMWwwZXNiZ0N2ZTJsalMtM2FXa2Qxc2M5S0FDdkoxTzF3N181RVIyRW9USW9ITmI1QWpQei1nbnJseU9jQmV4SmNpOHE3VXlqdmxJXzJXMEM1ZjRVT1V0LTZYQUdyUXp6Ym1iS2V0dXZBaHFDNURmZkRpSjBicnI?oc=5"
     }
   ],
   "events": {
@@ -82,32 +82,32 @@
       {
         "title": "非農就業數據 (NFP)",
         "date": "2026-09-04",
-        "days_left": 7,
-        "status_badge": "7 日後",
+        "days_left": 6,
+        "status_badge": "6 日後",
         "tag": "💼 就業",
         "desc": "美聯儲降息路徑核心指標"
       },
       {
         "title": "消費者物價指數 (CPI)",
         "date": "2026-09-11",
-        "days_left": 14,
-        "status_badge": "14 日後",
+        "days_left": 13,
+        "status_badge": "13 日後",
         "tag": "📊 通脹",
         "desc": "8月通脹年率與核心CPI公布"
       },
       {
         "title": "FOMC 議息 (附點陣圖/SEP)",
         "date": "2026-09-16",
-        "days_left": 19,
-        "status_badge": "19 日後",
+        "days_left": 18,
+        "status_badge": "18 日後",
         "tag": "🏛️ 議息",
         "desc": "聯儲局公佈利率決議與最新經濟預測點陣圖"
       },
       {
         "title": "美股「四巫日」(Quad Witching)",
         "date": "2026-09-18",
-        "days_left": 21,
-        "status_badge": "21 日後",
+        "days_left": 20,
+        "status_badge": "20 日後",
         "tag": "🧙‍♂️ 四巫日",
         "desc": "季結指數/股票期權期貨集中結算轉倉"
       }
@@ -118,8 +118,8 @@
         "name": "Extendicare",
         "type": "8月除淨",
         "date": "2026-08-31",
-        "days_left": 3,
-        "status_badge": "3 日後",
+        "days_left": 2,
+        "status_badge": "2 日後",
         "desc": "8月份股息買入資格截止 (Ex-Div)"
       },
       {
@@ -127,8 +127,8 @@
         "name": "Alphabet",
         "type": "9月除淨",
         "date": "2026-09-04",
-        "days_left": 7,
-        "status_badge": "7 日後",
+        "days_left": 6,
+        "status_badge": "6 日後",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -136,8 +136,8 @@
         "name": "Nvidia",
         "type": "9月除淨",
         "date": "2026-09-10",
-        "days_left": 13,
-        "status_badge": "13 日後",
+        "days_left": 12,
+        "status_badge": "12 日後",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -145,8 +145,8 @@
         "name": "台積電",
         "type": "月度營收",
         "date": "2026-09-10",
-        "days_left": 13,
-        "status_badge": "13 日後",
+        "days_left": 12,
+        "status_badge": "12 日後",
         "desc": "8月份合併營收月報公布"
       },
       {
@@ -154,8 +154,8 @@
         "name": "Extendicare",
         "type": "9月派息",
         "date": "2026-09-15",
-        "days_left": 18,
-        "status_badge": "18 日後",
+        "days_left": 17,
+        "status_badge": "17 日後",
         "desc": "8月份月度股息現金入帳日 (Payable Date)"
       },
       {
@@ -163,8 +163,8 @@
         "name": "台積電",
         "type": "9月除淨",
         "date": "2026-09-16",
-        "days_left": 19,
-        "status_badge": "19 日後",
+        "days_left": 18,
+        "status_badge": "18 日後",
         "desc": "季度高息除淨日 (Ex-Dividend)"
       }
     ]
