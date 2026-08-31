@@ -7,7 +7,7 @@ import re
 from datetime import datetime, timedelta
 
 # ----------------------------------------------------
-# 1. 油價爬蟲 (未出預測絕不拿今日充數，強制顯示 --)
+# 1. 油價爬蟲 (精確卡片日期字典解析，無明日卡片絕不顯示數字)
 # ----------------------------------------------------
 def get_gas_data():
     headers = {
@@ -22,69 +22,60 @@ def get_gas_data():
     today_label = f"{today_dt.month}月{today_dt.day}日 (現行油價)"
     predict_label = f"{tom_dt.month}月{tom_dt.day}日 (明日預測)"
 
-    # 預設狀態：明日絕對是 "--"
     cur_price = "182.9"
     pred_price = "--"
     trend = "⏳ 明日預測待公佈"
     trend_class = "gas-neutral"
-
-    # 明日關鍵字特徵
-    tom_kws = [
-        tom_dt.strftime("%b %d").lower(),
-        tom_dt.strftime("%B %d").lower(),
-        f"{tom_dt.strftime('%b').lower()} {tom_dt.day}",
-        f"{tom_dt.strftime('%B').lower()} {tom_dt.day}",
-        f"sept {tom_dt.day}",
-        f"{tom_dt.month}/{tom_dt.day}",
-        "tomorrow"
-    ]
-
-    # 今日關鍵字特徵
-    today_kws = [
-        today_dt.strftime("%b %d").lower(),
-        today_dt.strftime("%B %d").lower(),
-        f"{today_dt.strftime('%b').lower()} {today_dt.day}",
-        f"{today_dt.strftime('%B').lower()} {today_dt.day}",
-        f"{today_dt.month}/{today_dt.day}",
-        "today"
-    ]
 
     try:
         url = "https://gaswizard.ca/gas-prices/toronto/"
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code == 200:
             soup = BeautifulSoup(r.text, "html.parser")
-            
-            found_today = None
-            found_tom = None
+            full_text = soup.get_text(separator=" ", strip=True)
 
-            rows = soup.find_all(["tr", "li", "div", "p"])
-            for row in rows:
-                text = row.get_text(separator=" ", strip=True).lower()
-                price_match = re.findall(r'\b(1[2-9][0-9]\.[0-9]|2[0-1][0-9]\.[0-9])\b', text)
-                if not price_match:
+            # 正則尋找所有日期標題 (例如: Aug 30, 2026 或 August 30, 2026)
+            date_regex = re.compile(
+                r'\b(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+(\d{1,2}),?\s*(20\d{2})\b',
+                re.IGNORECASE
+            )
+
+            matches = list(date_regex.finditer(full_text))
+            date_price_map = {}
+
+            # 為每個出現的日期切片，抓取該日期卡片下屬的第一個合理價格 (120-220)
+            for i, match in enumerate(matches):
+                month_str, day_str, year_str = match.groups()
+                try:
+                    m_str = month_str[:3].capitalize()
+                    dt = datetime.strptime(f"{m_str} {day_str} {year_str}", "%b %d %Y").date()
+                except Exception:
                     continue
-                
-                val = float(price_match[0])
-                if not (120.0 <= val <= 220.0):
-                    continue
 
-                # 只有明確包含「明日日期」的行才認定為明日
-                if any(kw in text for kw in tom_kws):
-                    if not found_tom:
-                        found_tom = val
-                # 包含「今日日期」的行
-                elif any(kw in text for kw in today_kws):
-                    if not found_today:
-                        found_today = val
+                start_pos = match.end()
+                end_pos = matches[i + 1].start() if i + 1 < len(matches) else start_pos + 300
+                section_text = full_text[start_pos:end_pos]
 
-            if found_today:
-                cur_price = f"{found_today:.1f}"
+                price_match = re.search(r'\b(1[2-9]\d\.[0-9]|2[0-1]\d\.[0-9])\b', section_text)
+                if price_match:
+                    price_val = float(price_match.group(1))
+                    if dt not in date_price_map:
+                        date_price_map[dt] = price_val
 
-            # 只有真真正正抓到明日獨立新數據，才計算升跌
-            if found_tom is not None:
-                pred_price = f"{found_tom:.1f}"
-                diff = round(found_tom - float(cur_price), 1)
+            # 1. 決定今日油價：若有今日卡片用今日，若無則取最近一張歷史有效卡片
+            if today_dt in date_price_map:
+                cur_price = f"{date_price_map[today_dt]:.1f}"
+            else:
+                past_dates = [d for d in date_price_map.keys() if d <= today_dt]
+                if past_dates:
+                    latest_past = max(past_dates)
+                    cur_price = f"{date_price_map[latest_past]:.1f}"
+
+            # 2. 決定明日油價：只有在網頁明確存在明日日期卡片時才讀取
+            if tom_dt in date_price_map:
+                tomorrow_val = date_price_map[tom_dt]
+                pred_price = f"{tomorrow_val:.1f}"
+                diff = round(tomorrow_val - float(cur_price), 1)
                 if diff > 0:
                     trend = f"↑ 明日預測升 {diff} ¢"
                     trend_class = "gas-up"
@@ -95,6 +86,7 @@ def get_gas_data():
                     trend = "→ 油價平穩"
                     trend_class = "gas-neutral"
             else:
+                # 網頁未出明日卡片，絕對鎖定為待公佈
                 pred_price = "--"
                 trend = "⏳ 明日預測待公佈"
                 trend_class = "gas-neutral"
