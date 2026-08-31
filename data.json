@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-30 20:16:34",
+  "updated_at": "2026-08-31 03:06:56",
   "gas": {
-    "current_label": "8月30日 (現行油價)",
+    "current_label": "8月31日 (現行油價)",
     "current_price": "921.9",
-    "predict_label": "8月31日 (明日預測)",
+    "predict_label": "9月1日 (明日預測)",
     "predict_price": "921.9",
     "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "西藏泥石流：中國審查洪災衝擊口岸畫面，當地災民情況我們所知甚少",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ENHJHU0U0bUtxSEhXNXZiLTF4WnF0Vjc4dW5pVmxnd0dyaEh6TWJxV0pvMkNCS0F5UDRCOEdJUFAwLWtHMDkzX3c3MVNxTWJmQWdvNWJyMmhrQ1E2X2ppajlkSmZnQdIBa0FVX3lxTFBKQXFnOTRuUUlub0RlNHVlVzdfaXJfTVlxWWhJdVZpM3l6MnBtS01WeUlBNzRkdXFpOFRvVzd3OFdlUHNWQ3BVY2lHaW03ZEhzY0E1YWR2RUVOT3BxSVVkVXFVSTd5cDlzZ24w?oc=5"
-    },
-    {
-      "title": "冰島公投反對重啟加入歐盟談判",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PR0RRQXJjMmNiMnVvaGVWSnppbFJWc2Q0Wm8wTXA0TEgyWV90Rk1YcmNYeEpUc3hmRW9NMVBRYjlPc3ZqNnRHS0w1ejRaT3JvVk05NEZGaGdudllNdGVKUTE2Z19FUGVFLU41TEIyYw?oc=5"
+      "title": "西藏泥石流｜尼泊爾增至781人死 重建料需40至50億美元",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQc25kSlI2Zmw3bXJiMDBsMWtnNDEyZmZHLUt2SE04bVk4YkoyLXRGLXUtcHZaTDNRT3dJSG1VRG50MnlVRWFkVXJZcDYyV3RtNU9XWWlONFN2YUNFRHQ1SjE5cHB0OGtBcjdrN3paazd6V3lYcHlUcVh1SmdUVVBqS19tcGlEd19pa1F2d0pobVEtR1Y1cEZZYzlVeWNfbTB3ajY3MGlNdHctaW1MUFoybHZTSTBMTEpUNk1CcTd6eUlPU1oxTXNMbUpGN3RiczRVa2JMeGIzYTF1YloybllCTDdLSmdlWnlZXzJqZ3d4X1g0QklTeHdzYm5oY09ZNU1Wcm04VlBoTmFvUWI2aW5FZGtDbWNUcURualNFV1NCWDdhZmFFYjh3V3ZtLTlCRnVVaTdQeGE0YXBRdnQ3QkFvMkx2aFhuYlcwVG1Wb2JCZ20zdy1kNDVUNGJB?oc=5"
     },
     {
       "title": "要不要用自己的荷包表達愛國抗美？加拿大人回答⋯⋯",
       "source": "singtao.ca",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPYXp6Q2p2LWhHRHhsekdIQkhJOEZFTnNHZkU5aHBqRkRveHlkSm0tSHB4ajkyMWNOcGZmYnpJNldWMVpTQ0xrV3NpcG1idWJIWjNCWWJsZVk1QWNpOVhObVNzTnQ4cjdGMW1RaVp4QWRkLTFER1pRRVVpcFliM1I1LWdGMDhqU2lQcVYtU2s5cGNIZ2UxUEJOX2FHWjlQV1lBWmh2N2IxYk9EMTN0YWFYTGNPSnNpODRwOGZCcGxxZEFfb2xBeFJCcUhZejNhSEhvTTNJNDZHTVpad1Zrd29fN1ZFbGM3eTI5VmlmbzhUWDBxQU9JckVBMEc0N2tfYmJ4VVlqa2EzRzhiMnlSalpTUTNQUEZqUHExMlB3VlI3U3BhUGVIUGlxRy1RZWNGVmtadU95enI0MVdiZVNrZlAyVFVyU0xJVkhNZmpqQVQyOFF1RU4ycHRidG1lUnc3V2NleWdGUzhUdUlMM0F0T09hTDlsS3ZoVXFMUE1yNi1QNjN2NnpaZ3hUctIBjwFBVV95cUxNaDJUTEVzZ052ZmQzWnp1YVdHR0xadVNSSWVmbmRIQ2hUU1VNM1BlYXQzbVlqbXBlb3I0QW5aMWM1UHlHOUdXOEdmT2FPUzRIZWxKUUMwY2NycVUtamYtSUowcFVpclUzcEhaUmZnM01jbmN4WU5tOGNXS2xZSUxlcXA3Q1BTa3h0VFZvUEtSVQ?oc=5"
+    },
+    {
+      "title": "冰島公投反對重啟加入歐盟談判",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PR0RRQXJjMmNiMnVvaGVWSnppbFJWc2Q0Wm8wTXA0TEgyWV90Rk1YcmNYeEpUc3hmRW9NMVBRYjlPc3ZqNnRHS0w1ejRaT3JvVk05NEZGaGdudllNdGVKUTE2Z19FUGVFLU41TEIyYw?oc=5"
     },
     {
       "title": "筆下風雲：中國不理美國難勝｜評論｜港澳｜on.cc東網",
@@ -35,46 +35,46 @@
       "link": "https://news.google.com/rss/articles/CBMixwRBVV95cUxQeUROdDF5Y1Q1QjI3ZmNiemtzaXVMQkp6cWtyc3ZVYzRLWHlwdmZYN2JoVzI5UEI5YkZKY21Ic2pyV1kwZU1KOFprYVIxbmk4cDgtb2pQY2JlTUNFaklfbjhUNERzNWNGemwzVjJiUW1vQ3g0Y1dtMlJEeURPZkJacksxdEdyVjlaU3RuQ0c5Wkk1SGhjNzJJYVdzOHhZYlRYZXM0c050eDIzLTEwQ1d3eXR0Y2dELXFjdklzaHdyZjlmNE1tVEVXV2M5bndRRkNDT3RGcTQtNkFCeV9pYTVoUjhycy1PMnNyS0RLd3gzeXl2NkJqbG9tT25RcTU3aXZIekgyR1pIUGtVekVPaXVmeHRWZmRMMWoxTWN1YldFY2hTTFZIWkpRbnZTT2hTZk10aEtoclBNYllHYWk2bmc1bF92MktMejAtTmdta3dpVHpYZ2ozSzJjRVBPVXhsSmpqcDNKYTNOd0s3VDRiRFBScmxGRFBXZ2xDVmJtTGNKNW9ZTUl6aDNhTGlEQ0hKUXdRMWZJX3gxWlBZeHJKdk54Z2Z3RTZHc2k3eXVybzIxZDNEMUcxRU1kZlI4aGFnUTJjaTZSblB0N2lXbTRuU3RJdnFDV2RIcWhySkJkNjVkQ2NTUFVEQlpPcU9VaEFfamVyT3hFajI5SzlWeHl4RzFsSm9NRWpKeUdDbXhtRENkVDlLSlZrNEtDejRrUko3TXVKbEpvSk9XOWxaSnVRNktmUkF4WUt5MkxWV1YtS2pDTlExdWUzaW9N?oc=5"
     },
     {
-      "title": "伊朗副外長稱與阿曼達成霍爾木茲海峽共識 待美方履約後可執行",
+      "title": "美軍襲擊伊朗拉臘克島 伊朗革命衛隊揚言報復",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1WVNJZEd3R0ZrTW9CUkprUnpBN09ENGdRYU1uYUhUYVhmQUkxeXJIakhhY0F5VnRWWFJhOHhhZHdXR3dVdGotdHpMMXBJTWJZaG9sdU41UWhNUlZnbTRQSFlGR2NONG1QX2lROFJhYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pbHQ3YmMyWTFSVXhxbDlnMlA0ZzVad29OZ2ptbUx1clk4Y0VuQ2pJQ09JaDhCT09CdEhzb2Rhby1JMTdSQmZtYVNfeUV2bTZGNlMxVlBGb1FiWlRUQWYzeDE3bXY4TThQWWFkNEhaMA?oc=5"
     },
     {
-      "title": "俄羅斯襲擊基輔州武器庫波及附近建築物致37死",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QcjZRQTFyeXE1dFV4b0pnVkNfOTE2YlpPdW9iZTl0NlZ6N2txdG5KSTJsd09Kb1pNSUpRQjZNdVZZWDVkaXA3WmFPMFlFd0NxSkFYWng4RUs5S1dQVTB4ZWpadmxvUkhKLUFDZndyNA?oc=5"
+      "title": "颱風「沙德爾」停止編號，明起將再入大海",
+      "source": "香港商报",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lT05RZmhIRUdSX245NDJhcVRQb1libVNlT1hFNERLNG5HdlJKa1JzUUhrQVRVaEtRQU9vMHpuOWZKYWltSHFrb0VLaXo0dk1CWHVPbWNjbUNVNzZVTTFtbnVFdFdZQzQ2MTRkeA?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股定價基準正經歷劇變",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMk1ZdFFKZDMwOEdkOHBZWFd0bWlKUUxpXzVGWDRzNVpuVG5rMDBoQjNnbkNzelRfNkVYYUFuU042cG1NNF8tbHhQMVl5VjBOLXFkbEdETmxUNXRQTDFRaVo3SW9wSzliNXlvN21QMEtIWjVwZEFIcGJ6WGNJd0hkN2ZqdWQyZnV2aXdWVFVOMVFGUktRYXMyN3RTSmtRYXc3MGtBRjN5SnRHR3E0cEJGa3duclZ0R084b2tQUGxyVTJCVG9ZaUo2cmVSb0wwUkUxcDQ2VDFfbWlTdS1sV0lpZGtNS0FsVGdLSVJETnhhSQ?oc=5"
+      "title": "韓國股市初段跌逾3%",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sRWpzVzNRc1dNemU5eUJ4Ti1zRnpSbzduTlZZNm9vTkhNMFplcGhWS2plbFVpaEN5cFlRUEtlMEt0TFBvU2cwUDRXcnRHUEhKbUp3aHR5cWtPUTBGMV9VU0VtcWkydUFyLURhNks0QQ?oc=5"
     },
     {
-      "title": "宏利蔡尚琴：亞洲股市風險回報改善 韓國新加坡具吸引力",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPbWZoNndFTXlmTzRENFhDMnptMkYtZ2xDNmN3aV9DZHhiODJ1SVlHdFhJU285SEpFXy1pZW1GUEZ6TkduY0phTGxLYkd2V0RjRDVhaFA5TVBCT3R0WWdEaEJpY1dtM0Y2Z3pkUmdqTFpseERXTFhvNExvb25rWFdsdGM1SzdYNVdNSW1FQnNsRUtCMFVQajdhdGhfdFI0VnJKdHZDQXBVUVoxX181amdoOE9QNUIzNXFxa2RkREp2SzVDZ2R5NUNTMTVwenl3MnVWUzR5dDdlLTNpTVc0SERrT2pQNU95TDBxejh5ajhDdHJRY0Z4SEUteXRYdVF2YV9nSGRsVmhiQVJvSW5YdlBrUGN3S0pmY1lnVlMyQW9ZWHJYWnRSX2ZkOVhLRGJ1RmJWU3ZEdFVGcFl1MVFnOFVuOGNwLXZvRkRoR1Y3enZLbGhIVEdJa1luWUtHVXNBVGpQc0xMbGEwSDhXNFB3cEtHelBqN24xQ2NpMWkxbXB4VnlDLW9tTC0xcXRLcnlEaHk4QXlTbExNMUI?oc=5"
+      "title": "華許鷹派色彩鮮明，美聯儲加息預期升溫",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPei1sYjc5V2tzdzdyMThna3Nzc1B0NTZ3dFpzZ1YwSS1xeWtqOUIxbExPUC1IZENJdUlDVGZnVWtNNEhMOEd2S251aHR6Mzk3MUFJclRtODVRM3A0YXM0TW5zdnYxa0RxTXpkeWljLXlpdEVXeFVzdVRoYThqRnhMb0V2bkx0MHFy?oc=5"
     },
     {
-      "title": "伊朗戰爭半年經濟衝擊不均　股市投資者受惠　消費者及窮人承壓",
-      "source": "singtao.ca",
-      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNVW10ejFJTEdSdDdVRGZkdk1vSkQyd3pCM2NWZ0xlbVZucTUzQmRYTjI0Ym9YbGY4Z2NOZzVPRy1VbHA4YkRCLUZqQjlBYlN6QXliODlsVFQ0ZTZfeE5aTFNaRDFoSFZUUXc2LUt6LWFOQjdZa0tFb2t2TXRxWU9uZW42MkRlTHpQVWI5R1VqVEpYN0VNYU5JVEFIX05sR0htX0RKaU1lWkhtMkhubzFrMVBEcG91N05XX2dTdVc2OF9URUZqcGNoUUVjOExFaHEyT3dfQ2tHZ0pHWW5LdHNRamoxOVFiMlJidkowZHQzcTNWXzNPYzRvd1ZDei1KMGlzM05KMjI2MUxBd0NxTnh2d0FPR25sSUJjRmxOaVRLcmZmUmpVSDJXaDB2SUhQQ1lfN1BCM1p3UUNZckZhVEJTc1pmODhRUTJqOHNPaDlHQU96YW42V3VyVEpzZ2pNUExHa0VVUVBkekszOWNBYWF0bTJrLXFaTndXWWM5MHVIRThLVnhDNkhEVDE2aFc3dVk3TFJvUk53SHM3Z19IdXVpbGFIQlMzMzR5NHdzOHUzLUFjdlk3dmhHT9IBigFBVV95cUxQa3dEeXg4czFVNGhZbUV4QU1ZYXdJbC0yemQ2ZTFaSTAyNU82eGF6d0ZvRWROdDhqbHNfcjRHdEZtTXFaelF6blU1WWl4NVlBOHBLUkN0d1lWdUZmLWhuSVItQVdFZlpfd0FKVndXUDI4V3RZQlhzNl9rUUxGNzI5NldIZmhQd0FpR0E?oc=5"
+      "title": "美聯儲主席突「變鷹」 嚇親本地地產股 恒地急瀉近7%｜港股異動",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOTnU4OWlpWEtaZ2VLdy1ZcXFoZzR4ZlZyNXpTT2RxY25rTFdhR2lNRW50c3BIekJlOC1wU2kxbTMwVXlCcDNfZ0g2VlVDeHZmRDdDclJPTlhjSUdycHlMR1ozeml6OE1fd1dXTDQ5V2FjOWpBcG9yNzJwR3h0eTk0ZG9xSWZYMXBtUlk2UXVXSlhiOGJnTVltTWpuUUdMSFJONWsxa2Zfb2s4UFd3bFg5VEN0VHFBTlRUWUl1Q3lXSFA3bUZZLUR1RFM4V2JiYkp3Wko3b1J6RE10aS1DYVlvdnVDQm91N3RKRU9YRzJWT1ZSQlJPdGFtZngxZkxESThXdnBRVmNjdmdmazFfTFFXSDVReVBNakFBVXBUYTdzUjJaMVpNRnlOelA1b0EzOWlEQlBGYnVKVjJhZElHN09aYjk5VWN3U2tBampmREFyQ2J1X1lMTWxzb3IxdFpYMlVFejFyQ3ZkLXVaaS1nYmRoNHVPYjlPRlZBOGdZcGx1VHozeGR5dm52SUlTNzBiN3d3Q3ZTRWpOR3V0MVVN?oc=5"
     },
     {
-      "title": "Jackson Hole 會議是什麼？Jackson Hole 對股市的影響？帶你看Jackson Hole 最新重點摘要！",
-      "source": "StockFeel 股感",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51V0ZXWF9ORHZfRkRqVUhIdUc3d2hQZVlVbnk0Z2hnTHVDZEUwem40T09tcVBqdl9fajlVaUI3NVZUREhfR01hTG5KLVBmdTZRV3h5T21fSmV1SE5WNkxMV2NES0tpZ0k?oc=5"
+      "title": "美股期貨下跌，美伊緊張局勢再度升溫 作者 Investing.com - Investing.com 香港",
+      "source": "股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NllsU01oR2JHdm9Fc0F4M25sbmxSRm1GbEtLZ2MxZTBPazJRako5VzNXTFlqLWVxQXJGTUtCNU1VSzZrYnYzZnpfOVJYNlJGMHBSUGZCYVhhaTBmYzJBdWRKaVNsd0pyLVZoSjVwcUU?oc=5"
     },
     {
-      "title": "非法代操美股18年收佣6000萬 虧損挨告",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxaURwUVROZlB3RkZPbkg4YVdJTDR2eTlUVzBWNkNxR3hEOFV2STY2TFlwNmw0cWZ2Zl84Y1ZVWVZ2V2pXeWZraUNDNnZKUzVK0gFWQVVfeXFMUGhsejFNZmYxRDdNSjE1V0RmVFZEbTJ4RENQRzE5ZjRZNUlqQnJVbDVyNmdXMkRRekNicFktdVFpSmprcFFiZVdLSWtIbC1mRkJhbzRrdmc?oc=5"
-    },
-    {
-      "title": "周度預判【2026/08/31 - 09/04】美股第二段下跌或將開始｜9月份風險上升｜強勢板塊在哪裏？｜Selene美股價格行為",
+      "title": "早盤綜述 | 美股受聯儲局及科技股拖累下滑；新加坡製造業價格飆升35.5%",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUZGa3ItbXdKYV9adVkyLXliR2U1bXpndzQ4Z3Q4SjJYcXplSkQzZWZYMFZyU1dRYmZyYjlHUlhZblJrWEZOVUpvYllEd0xfZHktY0ktQzQxNUFyMTRQbzVmMVhoUmw3RFhRSWlGem1HOTdvQ1h4LUR2NlhWajZGN29JSGZVemNTM0pzWF9lZDhweEVtWTVBSUhvTU9CbHlGcjZzbnNTY1Y4MXRHQjlpR1BFaVBDSk0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnZ4QUhFRjNQSkN3YzFnXzlkek5UanpkM19XWGxfT2tUXzFra1pGOGpyZFhjWEZXVjAxSjVGS0luY3lXR2xQYzMwcFpxMlhodkRoWW03eWhySlBtUThFTk9wRHI5OG9uUFBUWEpLcjZ6cW5ac29ZUno3NTFQZE1oLTRBZHQ0QTFzX1I1elR5RmpINFBfcTVSSldfV0Zva3FoMVRYTG5TMFY?oc=5"
+    },
+    {
+      "title": "美軍再襲伊朗 亞太股市早盤齊跌",
+      "source": "香港商报",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CaDBGb25XeFg5aVRTMEZNbzlNc1N5bkRtNHM2eUZfbEstdnJISXlsd0RoU3RFYVJBb2dUQXpoZkhmeDRjdGVTVTEzTlp2bWdYTlBsYWdNMl93V2NjQ0loREIzTUxiMk4zMjFyQ3hpZ05JV2RZQ3c?oc=5"
     }
   ],
   "events": {
@@ -82,32 +82,32 @@
       {
         "title": "非農就業數據 (NFP)",
         "date": "2026-09-04",
-        "days_left": 5,
-        "status_badge": "5 日後",
+        "days_left": 4,
+        "status_badge": "4 日後",
         "tag": "💼 就業",
         "desc": "美聯儲降息路徑核心指標"
       },
       {
         "title": "消費者物價指數 (CPI)",
         "date": "2026-09-11",
-        "days_left": 12,
-        "status_badge": "12 日後",
+        "days_left": 11,
+        "status_badge": "11 日後",
         "tag": "📊 通脹",
         "desc": "8月通脹年率與核心CPI公布"
       },
       {
         "title": "FOMC 議息 (附點陣圖/SEP)",
         "date": "2026-09-16",
-        "days_left": 17,
-        "status_badge": "17 日後",
+        "days_left": 16,
+        "status_badge": "16 日後",
         "tag": "🏛️ 議息",
         "desc": "聯儲局公佈利率決議與最新經濟預測點陣圖"
       },
       {
         "title": "美股「四巫日」(Quad Witching)",
         "date": "2026-09-18",
-        "days_left": 19,
-        "status_badge": "19 日後",
+        "days_left": 18,
+        "status_badge": "18 日後",
         "tag": "🧙‍♂️ 四巫日",
         "desc": "季結指數/股票期權期貨集中結算轉倉"
       }
@@ -118,8 +118,8 @@
         "name": "Extendicare",
         "type": "8月除淨",
         "date": "2026-08-31",
-        "days_left": 1,
-        "status_badge": "1 日後",
+        "days_left": 0,
+        "status_badge": "今日",
         "desc": "8月份股息買入資格截止 (Ex-Div)"
       },
       {
@@ -127,8 +127,8 @@
         "name": "Alphabet",
         "type": "9月除淨",
         "date": "2026-09-04",
-        "days_left": 5,
-        "status_badge": "5 日後",
+        "days_left": 4,
+        "status_badge": "4 日後",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -136,8 +136,8 @@
         "name": "Nvidia",
         "type": "9月除淨",
         "date": "2026-09-10",
-        "days_left": 11,
-        "status_badge": "11 日後",
+        "days_left": 10,
+        "status_badge": "10 日後",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -145,8 +145,8 @@
         "name": "台積電",
         "type": "月度營收",
         "date": "2026-09-10",
-        "days_left": 11,
-        "status_badge": "11 日後",
+        "days_left": 10,
+        "status_badge": "10 日後",
         "desc": "8月份合併營收月報公布"
       },
       {
@@ -154,8 +154,8 @@
         "name": "Extendicare",
         "type": "9月派息",
         "date": "2026-09-15",
-        "days_left": 16,
-        "status_badge": "16 日後",
+        "days_left": 15,
+        "status_badge": "15 日後",
         "desc": "8月份月度股息現金入帳日 (Payable Date)"
       },
       {
@@ -163,8 +163,8 @@
         "name": "台積電",
         "type": "9月除淨",
         "date": "2026-09-16",
-        "days_left": 17,
-        "status_badge": "17 日後",
+        "days_left": 16,
+        "status_badge": "16 日後",
         "desc": "季度高息除淨日 (Ex-Dividend)"
       },
       {
@@ -172,9 +172,18 @@
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
+        "days_left": 29,
+        "status_badge": "29 日後",
+        "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
+      },
+      {
+        "ticker": "EXE.TO",
+        "name": "Extendicare",
+        "type": "9月除淨",
+        "date": "2026-09-30",
         "days_left": 30,
         "status_badge": "30 日後",
-        "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
+        "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
   },
