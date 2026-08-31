@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-31 05:58:20",
+  "updated_at": "2026-08-31 06:04:01",
   "gas": {
     "current_label": "8月31日 (現行油價)",
     "current_price": "182.9",
     "predict_label": "9月1日 (明日預測)",
-    "predict_price": "182.9",
-    "trend": "→ 油價平穩",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
@@ -47,9 +47,9 @@
   ],
   "news_stock": [
     {
-      "title": "恒指走勢丨半日跌182點 潤地比亞迪績後跳水",
+      "title": "恒指走勢丨午市初段跌勢收窄 手機設備股炒高",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EYWZNbURieXN5NTVFdDVnMG9lQ0dHTUVnMWpvS3dtTVRaUkZRUEN3UXJBblVreXhjWFVYM01pV2taWWNQWF82NlFIR2x1bmo4VzZCOXhmR092TXBaTnU0SnMxeVgydTFjU0hFX0gxVQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRTnhnTmFQODVyVk5WcU54aEx2STRremVVMmlMNllVYldrTkdTTUU3aTZhZkdZNjNPd1RfUXpwbm0tTDI2ckEwSWJLWVpudXBDU3BxRThCNlZqMS1BUGdJbTBUVnozUWNPQm5VaWhWbw?oc=5"
     },
     {
       "title": "亞洲股市普跌，聯儲局加息預期升溫疊加中東局勢再度緊張",
