@@ -1,0 +1,46 @@
+{
+  "last_updated": "2026-08-31 05:12:01",
+  "weather": {
+    "temp": "19°C",
+    "feel": "22°C",
+    "pop": "7%",
+    "uv": "0.0",
+    "condition": "多雲",
+    "high_low": "23° / 18°",
+    "hourly": [
+      {
+        "time": "6 AM",
+        "temp": "19°",
+        "pop": "17%"
+      },
+      {
+        "time": "8 AM",
+        "temp": "18°",
+        "pop": "24%"
+      },
+      {
+        "time": "10 AM",
+        "temp": "19°",
+        "pop": "27%"
+      },
+      {
+        "time": "12 PM",
+        "temp": "19°",
+        "pop": "21%"
+      },
+      {
+        "time": "2 PM",
+        "temp": "21°",
+        "pop": "53%"
+      }
+    ]
+  },
+  "gas": {
+    "today_price": 182.9,
+    "tomorrow_price": 177.9,
+    "today_date": "8月31日 (現行油價)",
+    "tomorrow_date": "9月1日 (明日預測)",
+    "status": "↓ 明日預測跌 5.0 ¢",
+    "source": "GASWIZARD (TORONTO)"
+  }
+}
