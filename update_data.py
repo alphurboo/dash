@@ -5,6 +5,9 @@ from bs4 import BeautifulSoup
 import re
 from datetime import datetime, timedelta
 
+# ----------------------------------------------------
+# 1. 油價爬蟲 (GasWizard Toronto 地區頁 + 防黏合防 921)
+# ----------------------------------------------------
 def get_gas_data():
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
@@ -26,7 +29,6 @@ def get_gas_data():
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code == 200:
             soup = BeautifulSoup(r.text, "html.parser")
-            # 強制加入空格分隔，杜絕 9月 與 21.9 黏合
             text = soup.get_text(separator=" ", strip=True)
             
             # 嚴格正則：只抓取 120.0 至 220.0 之間的多倫多正常油價
@@ -61,8 +63,87 @@ def get_gas_data():
         "trend_class": trend_class
     }
 
+# ----------------------------------------------------
+# 2. 即時新聞爬蟲 (Google News RSS - 國際 & 美股)
+# ----------------------------------------------------
+def fetch_rss_news(query_url, limit=7):
+    news_items = []
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    }
+    try:
+        r = requests.get(query_url, headers=headers, timeout=10)
+        if r.status_code == 200:
+            soup = BeautifulSoup(r.content, "html.parser")
+            items = soup.find_all("item")
+            for item in items[:limit]:
+                title_elem = item.find("title")
+                guid_elem = item.find("guid")
+                source_elem = item.find("source")
+
+                full_title = title_elem.get_text() if title_elem else ""
+                link = guid_elem.get_text() if guid_elem else "#"
+                source = source_elem.get_text() if source_elem else ""
+
+                # 去除 Google News 標題末尾的來源字樣 (例: "xxx - 明報")
+                if " - " in full_title:
+                    parts = full_title.rsplit(" - ", 1)
+                    title = parts[0].strip()
+                    if not source:
+                        source = parts[1].strip()
+                else:
+                    title = full_title.strip()
+
+                if not source:
+                    source = "新聞"
+
+                news_items.append({
+                    "title": title,
+                    "source": source,
+                    "link": link
+                })
+    except Exception as e:
+        print(f"RSS fetch failed for {query_url}: {e}")
+    return news_items
+
+# ----------------------------------------------------
+# 3. 日程與除淨天數動態計算
+# ----------------------------------------------------
+def update_events_countdown(events_data):
+    today = datetime.now().date()
+    
+    def process_list(ev_list):
+        result = []
+        for ev in ev_list:
+            try:
+                ev_date = datetime.strptime(ev["date"], "%Y-%m-%d").date()
+                days_left = (ev_date - today).days
+                if days_left < 0:
+                    continue # 過期事件自動隱藏
+                elif days_left == 0:
+                    badge = "今日"
+                else:
+                    badge = f"{days_left} 日後"
+                
+                ev_copy = dict(ev)
+                ev_copy["days_left"] = days_left
+                ev_copy["status_badge"] = badge
+                result.append(ev_copy)
+            except Exception:
+                result.append(ev)
+        return result
+
+    if "macro" in events_data:
+        events_data["macro"] = process_list(events_data["macro"])
+    if "stocks" in events_data:
+        events_data["stocks"] = process_list(events_data["stocks"])
+    return events_data
+
+# ----------------------------------------------------
+# 4. 主執行程序：整合寫入 data.json
+# ----------------------------------------------------
 def main():
-    # 讀取現有 data.json (保留新聞、日程與超市資料)
+    # 讀取現有 data.json 取得基礎結構與超市特價
     data = {}
     if os.path.exists("data.json"):
         with open("data.json", "r", encoding="utf-8") as f:
@@ -71,16 +152,33 @@ def main():
             except Exception:
                 data = {}
 
-    # 更新油價與時間戳
+    # 1. 更新時間戳
     data["updated_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    # 2. 抓取最新油價
     data["gas"] = get_gas_data()
 
-    # 寫入回 data.json
+    # 3. 抓取最新國際焦點 7 大事 (過去 24 小時)
+    world_rss = "https://news.google.com/rss/search?q=國際+when:24h&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
+    latest_world = fetch_rss_news(world_rss, limit=7)
+    if latest_world:
+        data["news_world"] = latest_world
+
+    # 4. 抓取過去 8 小時股市要聞
+    stock_rss = "https://news.google.com/rss/search?q=美股+OR+聯儲局+OR+港股+when:8h&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
+    latest_stock = fetch_rss_news(stock_rss, limit=6)
+    if latest_stock:
+        data["news_stock"] = latest_stock
+
+    # 5. 自動重新計算日程距離今天的天數
+    if "events" in data:
+        data["events"] = update_events_countdown(data["events"])
+
+    # 6. 寫入 data.json
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print("已成功將最新油價寫入 data.json！")
-    print(json.dumps(data["gas"], ensure_ascii=False, indent=2))
+    print("✅ data.json 全部模組（油價 + 國際新聞 + 股市要聞 + 日程天數）已成功同步更新！")
 
 if __name__ == "__main__":
     main()
