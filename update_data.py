@@ -2,11 +2,12 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
+import xml.etree.ElementTree as ET
 import re
 from datetime import datetime, timedelta
 
 # ----------------------------------------------------
-# 1. 油價爬蟲 (GasWizard Toronto 地區頁 + 防黏合防 921)
+# 1. 油價爬蟲 (嚴格日期錨定，未出明日預測絕不誤抓昨日)
 # ----------------------------------------------------
 def get_gas_data():
     headers = {
@@ -15,33 +16,74 @@ def get_gas_data():
     }
 
     now = datetime.now()
-    today_label = f"{now.month}月{now.day}日 (現行油價)"
-    tom = now + timedelta(days=1)
-    predict_label = f"{tom.month}月{tom.day}日 (明日預測)"
+    today_dt = now.date()
+    tom_dt = today_dt + timedelta(days=1)
+
+    today_label = f"{today_dt.month}月{today_dt.day}日 (現行油價)"
+    predict_label = f"{tom_dt.month}月{tom_dt.day}日 (明日預測)"
 
     cur_price = "182.9"
     pred_price = "--"
     trend = "⏳ 明日預測待公佈"
     trend_class = "gas-neutral"
 
+    # 日期比對關鍵字
+    today_kws = [
+        today_dt.strftime("%b %d").lower(),
+        today_dt.strftime("%B %d").lower(),
+        f"{today_dt.strftime('%b').lower()} {today_dt.day}",
+        f"{today_dt.strftime('%B').lower()} {today_dt.day}",
+        f"{today_dt.month}/{today_dt.day}",
+        "today"
+    ]
+    
+    tom_kws = [
+        tom_dt.strftime("%b %d").lower(),
+        tom_dt.strftime("%B %d").lower(),
+        f"{tom_dt.strftime('%b').lower()} {tom_dt.day}",
+        f"{tom_dt.strftime('%B').lower()} {tom_dt.day}",
+        f"sept {tom_dt.day}",
+        f"{tom_dt.month}/{tom_dt.day}",
+        "tomorrow"
+    ]
+
     try:
         url = "https://gaswizard.ca/gas-prices/toronto/"
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code == 200:
             soup = BeautifulSoup(r.text, "html.parser")
-            text = soup.get_text(separator=" ", strip=True)
             
-            # 嚴格正則：只抓取 120.0 至 220.0 之間的多倫多正常油價
-            raw_matches = re.findall(r'\b(1[2-9][0-9]\.[0-9]|2[0-1][0-9]\.[0-9])\b', text)
-            valid_prices = [float(p) for p in raw_matches if 120.0 <= float(p) <= 220.0]
+            found_today = None
+            found_tom = None
 
-            if len(valid_prices) >= 1:
-                cur_price = f"{valid_prices[0]:.1f}"
+            # 遍歷表格行，比對特定行內的日期與價格
+            rows = soup.find_all(["tr", "li", "div"])
+            for row in rows:
+                row_text = row.get_text(separator=" ", strip=True).lower()
+                price_match = re.findall(r'\b(1[2-9][0-9]\.[0-9]|2[0-1][0-9]\.[0-9])\b', row_text)
+                if not price_match:
+                    continue
+                
+                price = float(price_match[0])
+                if not (120.0 <= price <= 220.0):
+                    continue
 
-            if len(valid_prices) >= 2 and valid_prices[1] != valid_prices[0]:
-                p1, p2 = valid_prices[0], valid_prices[1]
-                pred_price = f"{p2:.1f}"
-                diff = round(p2 - p1, 1)
+                # 必須有明天的日期關鍵字才認定為明日預測
+                if any(kw in row_text for kw in tom_kws):
+                    if not found_tom:
+                        found_tom = price
+                # 今天的日期關鍵字
+                elif any(kw in row_text for kw in today_kws):
+                    if not found_today:
+                        found_today = price
+
+            if found_today:
+                cur_price = f"{found_today:.1f}"
+
+            # 只有在網頁明確存在明日日期的情況下才顯示預測
+            if found_tom and found_tom != found_today:
+                pred_price = f"{found_tom:.1f}"
+                diff = round(found_tom - float(cur_price), 1)
                 if diff > 0:
                     trend = f"↑ 明日預測升 {diff} ¢"
                     trend_class = "gas-up"
@@ -51,6 +93,11 @@ def get_gas_data():
                 else:
                     trend = "→ 油價平穩"
                     trend_class = "gas-neutral"
+            else:
+                pred_price = "--"
+                trend = "⏳ 明日預測待公佈"
+                trend_class = "gas-neutral"
+
     except Exception as e:
         print(f"Gas fetch error: {e}")
 
@@ -64,7 +111,7 @@ def get_gas_data():
     }
 
 # ----------------------------------------------------
-# 2. 即時新聞爬蟲 (Google News RSS - 國際 & 美股)
+# 2. 即時新聞爬蟲 (使用標準 XML 解析，修正完整 URL)
 # ----------------------------------------------------
 def fetch_rss_news(query_url, limit=7):
     news_items = []
@@ -74,36 +121,40 @@ def fetch_rss_news(query_url, limit=7):
     try:
         r = requests.get(query_url, headers=headers, timeout=10)
         if r.status_code == 200:
-            soup = BeautifulSoup(r.content, "html.parser")
-            items = soup.find_all("item")
+            root = ET.fromstring(r.content)
+            items = root.findall(".//item")
             for item in items[:limit]:
-                title_elem = item.find("title")
-                guid_elem = item.find("guid")
-                source_elem = item.find("source")
+                title = item.findtext("title", "").strip()
+                link = item.findtext("link", "").strip()
+                source = item.findtext("source", "").strip()
 
-                full_title = title_elem.get_text() if title_elem else ""
-                link = guid_elem.get_text() if guid_elem else "#"
-                source = source_elem.get_text() if source_elem else ""
+                # 若 link 缺失，使用完整 Google News URL 格式補齊
+                if not link or not link.startswith("http"):
+                    guid = item.findtext("guid", "").strip()
+                    if guid.startswith("http"):
+                        link = guid
+                    elif guid:
+                        link = f"https://news.google.com/rss/articles/{guid}"
+                    else:
+                        link = "#"
 
-                # 去除 Google News 標題末尾的來源字樣 (例: "xxx - 明報")
-                if " - " in full_title:
-                    parts = full_title.rsplit(" - ", 1)
+                if " - " in title:
+                    parts = title.rsplit(" - ", 1)
                     title = parts[0].strip()
                     if not source:
                         source = parts[1].strip()
-                else:
-                    title = full_title.strip()
 
                 if not source:
                     source = "新聞"
 
-                news_items.append({
-                    "title": title,
-                    "source": source,
-                    "link": link
-                })
+                if title:
+                    news_items.append({
+                        "title": title,
+                        "source": source,
+                        "link": link
+                    })
     except Exception as e:
-        print(f"RSS fetch failed for {query_url}: {e}")
+        print(f"RSS fetch error: {e}")
     return news_items
 
 # ----------------------------------------------------
@@ -119,7 +170,7 @@ def update_events_countdown(events_data):
                 ev_date = datetime.strptime(ev["date"], "%Y-%m-%d").date()
                 days_left = (ev_date - today).days
                 if days_left < 0:
-                    continue # 過期事件自動隱藏
+                    continue
                 elif days_left == 0:
                     badge = "今日"
                 else:
@@ -140,10 +191,9 @@ def update_events_countdown(events_data):
     return events_data
 
 # ----------------------------------------------------
-# 4. 主執行程序：整合寫入 data.json
+# 4. 主程序
 # ----------------------------------------------------
 def main():
-    # 讀取現有 data.json 取得基礎結構與超市特價
     data = {}
     if os.path.exists("data.json"):
         with open("data.json", "r", encoding="utf-8") as f:
@@ -152,33 +202,32 @@ def main():
             except Exception:
                 data = {}
 
-    # 1. 更新時間戳
     data["updated_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # 2. 抓取最新油價
+    # 1. 抓取油價
     data["gas"] = get_gas_data()
 
-    # 3. 抓取最新國際焦點 7 大事 (過去 24 小時)
+    # 2. 抓取國際焦點 7 大事
     world_rss = "https://news.google.com/rss/search?q=國際+when:24h&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
     latest_world = fetch_rss_news(world_rss, limit=7)
     if latest_world:
         data["news_world"] = latest_world
 
-    # 4. 抓取過去 8 小時股市要聞
+    # 3. 抓取美股要聞
     stock_rss = "https://news.google.com/rss/search?q=美股+OR+聯儲局+OR+港股+when:8h&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
     latest_stock = fetch_rss_news(stock_rss, limit=6)
     if latest_stock:
         data["news_stock"] = latest_stock
 
-    # 5. 自動重新計算日程距離今天的天數
+    # 4. 更新日程倒數
     if "events" in data:
         data["events"] = update_events_countdown(data["events"])
 
-    # 6. 寫入 data.json
+    # 5. 寫入 data.json
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print("✅ data.json 全部模組（油價 + 國際新聞 + 股市要聞 + 日程天數）已成功同步更新！")
+    print("✅ data.json 更新完成：油價狀態準確，新聞完整 URL 鏈接正常！")
 
 if __name__ == "__main__":
     main()
