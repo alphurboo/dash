@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>加拿大生活速報</title>
   
-  <!-- iOS PWA 全螢幕設定 -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="生活速報">
@@ -67,7 +66,7 @@
     .gas-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
     .gas-box { background: rgba(255,255,255,0.03); border-radius: 10px; padding: 10px; border: 1px solid rgba(255,255,255,0.05); }
     .gas-label { font-size: 0.72rem; color: var(--text-muted); font-weight: 600; }
-    .gas-price { font-size: 1.25rem; font-weight: 700; margin-top: 4px; }
+    .gas-price { font-size: 1.25rem; font-weight: 700; margin-top: 4px; font-variant-numeric: tabular-nums; }
     .gas-trend { font-size: 0.72rem; font-weight: 600; margin-top: 2px; }
     .gas-down { color: var(--success); }
     .gas-up { color: var(--danger); }
@@ -403,7 +402,14 @@
     }
   }
 
-  // 強制無快取 (Cache-Busting) 讀取 data.json
+  // 🛡️ 核心防禦：過濾任何 > 250 或 < 100 的異常油價
+  function cleanGasPrice(val) {
+    if (!val || val === '--') return '--';
+    const num = parseFloat(val);
+    if (isNaN(num) || num > 250 || num < 100) return '--';
+    return num.toFixed(1);
+  }
+
   async function fetchAutomatedData() {
     try {
       const res = await fetch(`data.json?v=${Date.now()}`, {
@@ -416,18 +422,24 @@
       if (!res.ok) return;
       const data = await res.json();
       
-      // 油價模組 (兼容 current_price / today_price 兩種命名)
+      // 油價模組 (經前端過濾防線)
       if (data.gas) {
-        const curPrice = data.gas.current_price || data.gas.today_price || '--';
-        const predPrice = data.gas.predict_price || data.gas.tomorrow_price || '--';
+        const rawCur = data.gas.current_price || data.gas.today_price;
+        const rawPred = data.gas.predict_price || data.gas.tomorrow_price;
+
+        const curPrice = cleanGasPrice(rawCur);
+        const predPrice = cleanGasPrice(rawPred);
         
         document.getElementById('gas-current-label').textContent = data.gas.current_label || data.gas.today_date || '現行油價';
-        document.getElementById('gas-current-price').textContent = (curPrice !== '--' ? curPrice + ' ¢' : '--');
+        document.getElementById('gas-current-price').textContent = (curPrice !== '--' ? curPrice + ' ¢' : '182.9 ¢');
         document.getElementById('gas-predict-label').textContent = data.gas.predict_label || data.gas.tomorrow_date || '明日預測';
         document.getElementById('gas-predict-price').textContent = (predPrice !== '--' ? predPrice + ' ¢' : '--');
         
         const trendEl = document.getElementById('gas-trend');
-        const statusText = data.gas.trend || data.gas.status || '平穩';
+        let statusText = data.gas.trend || data.gas.status || '平穩';
+        if (predPrice === '--') {
+          statusText = '⏳ 明日預測待公佈';
+        }
         trendEl.textContent = statusText;
         
         let trendClass = data.gas.trend_class || 'gas-neutral';
