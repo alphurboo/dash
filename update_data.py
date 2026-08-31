@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 import re
+import html
 from datetime import datetime, timedelta
 
 # ----------------------------------------------------
@@ -34,7 +35,6 @@ def get_gas_data():
             soup = BeautifulSoup(r.text, "html.parser")
             full_text = soup.get_text(separator=" ", strip=True)
 
-            # 正則尋找所有日期標題 (例如: Aug 30, 2026 或 August 30, 2026)
             date_regex = re.compile(
                 r'\b(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+(\d{1,2}),?\s*(20\d{2})\b',
                 re.IGNORECASE
@@ -43,7 +43,6 @@ def get_gas_data():
             matches = list(date_regex.finditer(full_text))
             date_price_map = {}
 
-            # 為每個出現的日期切片，抓取該日期卡片下屬的第一個合理價格 (120-220)
             for i, match in enumerate(matches):
                 month_str, day_str, year_str = match.groups()
                 try:
@@ -62,7 +61,7 @@ def get_gas_data():
                     if dt not in date_price_map:
                         date_price_map[dt] = price_val
 
-            # 1. 決定今日油價：若有今日卡片用今日，若無則取最近一張歷史有效卡片
+            # 1. 決定今日油價
             if today_dt in date_price_map:
                 cur_price = f"{date_price_map[today_dt]:.1f}"
             else:
@@ -71,7 +70,7 @@ def get_gas_data():
                     latest_past = max(past_dates)
                     cur_price = f"{date_price_map[latest_past]:.1f}"
 
-            # 2. 決定明日油價：只有在網頁明確存在明日日期卡片時才讀取
+            # 2. 決定明日油價
             if tom_dt in date_price_map:
                 tomorrow_val = date_price_map[tom_dt]
                 pred_price = f"{tomorrow_val:.1f}"
@@ -86,7 +85,6 @@ def get_gas_data():
                     trend = "→ 油價平穩"
                     trend_class = "gas-neutral"
             else:
-                # 網頁未出明日卡片，絕對鎖定為待公佈
                 pred_price = "--"
                 trend = "⏳ 明日預測待公佈"
                 trend_class = "gas-neutral"
@@ -104,9 +102,12 @@ def get_gas_data():
     }
 
 # ----------------------------------------------------
-# 2. 即時新聞爬蟲 (標準 XML 解析完整 URL)
+# 2. 即時新聞爬蟲 (標準 XML 解析 + HTML 符號解碼 + 雙重過濾)
 # ----------------------------------------------------
-def fetch_rss_news(query_url, limit=7):
+def fetch_rss_news(query_url, limit=7, exclude_keywords=None):
+    if exclude_keywords is None:
+        exclude_keywords = []
+
     news_items = []
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -116,10 +117,13 @@ def fetch_rss_news(query_url, limit=7):
         if r.status_code == 200:
             root = ET.fromstring(r.content)
             items = root.findall(".//item")
-            for item in items[:limit]:
-                title = item.findtext("title", "").strip()
+            
+            for item in items:
+                raw_title = item.findtext("title", "").strip()
                 link = item.findtext("link", "").strip()
                 source = item.findtext("source", "").strip()
+
+                title = html.unescape(raw_title)
 
                 if not link or not link.startswith("http"):
                     guid = item.findtext("guid", "").strip()
@@ -139,14 +143,24 @@ def fetch_rss_news(query_url, limit=7):
                 if not source:
                     source = "新聞"
 
+                # 二次過濾黑名單
+                if exclude_keywords:
+                    full_check_text = f"{title} {source}".lower()
+                    if any(kw.lower() in full_check_text for kw in exclude_keywords):
+                        continue
+
                 if title:
                     news_items.append({
                         "title": title,
                         "source": source,
                         "link": link
                     })
+
+                if len(news_items) >= limit:
+                    break
     except Exception as e:
         print(f"RSS fetch error: {e}")
+        
     return news_items
 
 # ----------------------------------------------------
@@ -199,15 +213,23 @@ def main():
     # 1. 抓取油價
     data["gas"] = get_gas_data()
 
-    # 2. 抓取國際焦點 7 大事
-    world_rss = "https://news.google.com/rss/search?q=國際+when:24h&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
-    latest_world = fetch_rss_news(world_rss, limit=7)
+    # 2. 抓取國際焦點 7 大事 (鎖定全球焦點，排除中港本地)
+    world_rss = "https://news.google.com/rss/search?q=(國際+OR+全球+OR+歐盟+OR+美國+OR+中東+OR+俄烏+OR+地緣政治+OR+白宮)+when:24h&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
+    latest_world = fetch_rss_news(
+        world_rss, 
+        limit=7, 
+        exclude_keywords=["香港", "港府", "特區", "大灣區", "中國共產黨", "內地", "港幣"]
+    )
     if latest_world:
         data["news_world"] = latest_world
 
-    # 3. 抓取美股要聞
-    stock_rss = "https://news.google.com/rss/search?q=美股+OR+聯儲局+OR+港股+when:8h&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
-    latest_stock = fetch_rss_news(stock_rss, limit=6)
+    # 3. 抓取美股要聞 6 條 (鎖定美股與全球宏觀，排除港股/A股)
+    stock_rss = "https://news.google.com/rss/search?q=(美股+OR+納斯達克+OR+標普+OR+聯儲局+OR+華爾街+OR+科技股+OR+降息+OR+美債)+when:8h&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
+    latest_stock = fetch_rss_news(
+        stock_rss, 
+        limit=6, 
+        exclude_keywords=["港股", "恒指", "恒生", "A股", "內房", "滬深", "北向資金", "港交所"]
+    )
     if latest_stock:
         data["news_stock"] = latest_stock
 
