@@ -1,3 +1,5 @@
+import os
+import json
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -20,23 +22,20 @@ def get_gas_data():
     trend_class = "gas-neutral"
 
     try:
-        # 爬取 GasWizard Toronto 地區專頁
         url = "https://gaswizard.ca/gas-prices/toronto/"
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code == 200:
             soup = BeautifulSoup(r.text, "html.parser")
-            
-            # 關鍵防護 1：每個 HTML 標籤強制插入空格，防止日期 9 與小數點 21.9 黏合成 921.9
+            # 強制加入空格分隔，杜絕 9月 與 21.9 黏合
             text = soup.get_text(separator=" ", strip=True)
             
-            # 關鍵防護 2：嚴格正規表達式，只抓取 120.0 至 220.0 之間的多倫多正常油價 (921.9 直接被排除)
+            # 嚴格正則：只抓取 120.0 至 220.0 之間的多倫多正常油價
             raw_matches = re.findall(r'\b(1[2-9][0-9]\.[0-9]|2[0-1][0-9]\.[0-9])\b', text)
             valid_prices = [float(p) for p in raw_matches if 120.0 <= float(p) <= 220.0]
 
             if len(valid_prices) >= 1:
                 cur_price = f"{valid_prices[0]:.1f}"
 
-            # 只有當出現明確第二組不同價格時才作為明日預測
             if len(valid_prices) >= 2 and valid_prices[1] != valid_prices[0]:
                 p1, p2 = valid_prices[0], valid_prices[1]
                 pred_price = f"{p2:.1f}"
@@ -61,3 +60,27 @@ def get_gas_data():
         "trend": trend,
         "trend_class": trend_class
     }
+
+def main():
+    # 讀取現有 data.json (保留新聞、日程與超市資料)
+    data = {}
+    if os.path.exists("data.json"):
+        with open("data.json", "r", encoding="utf-8") as f:
+            try:
+                data = json.load(f)
+            except Exception:
+                data = {}
+
+    # 更新油價與時間戳
+    data["updated_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    data["gas"] = get_gas_data()
+
+    # 寫入回 data.json
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print("已成功將最新油價寫入 data.json！")
+    print(json.dumps(data["gas"], ensure_ascii=False, indent=2))
+
+if __name__ == "__main__":
+    main()
