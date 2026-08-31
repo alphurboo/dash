@@ -125,6 +125,65 @@
       </div>
     </section>
 
+    <!-- 卡片 3: 實時外匯匯率 (FX Rates) -->
+    <section class="dash-card p-5 rounded-3xl shadow-xl">
+      <div class="flex justify-between items-center mb-3">
+        <span class="text-xs font-bold tracking-wider text-gray-400 flex items-center gap-1.5 uppercase">
+          💱 實時匯率 (EXCHANGE RATES)
+        </span>
+        <span class="text-[10px] text-gray-500 font-mono">即時參考</span>
+      </div>
+
+      <div class="grid grid-cols-2 gap-3 font-mono">
+        <div class="inner-box p-3.5 rounded-2xl">
+          <div class="flex justify-between items-center mb-1">
+            <span class="text-xs font-bold text-gray-300">USD / CAD</span>
+            <span class="text-[10px] text-gray-500">美加</span>
+          </div>
+          <div class="text-xl font-extrabold text-white">
+            {{ formatRate(forex.USDCAD) || '1.3820' }}
+          </div>
+          <span class="text-[10px] text-gray-400 mt-1 block font-sans">1 美元兌加幣</span>
+        </div>
+
+        <div class="inner-box p-3.5 rounded-2xl">
+          <div class="flex justify-between items-center mb-1">
+            <span class="text-xs font-bold text-gray-300">CAD / HKD</span>
+            <span class="text-[10px] text-gray-500">加港</span>
+          </div>
+          <div class="text-xl font-extrabold text-emerald-400">
+            {{ formatRate(forex.CADHKD) || '5.6540' }}
+          </div>
+          <span class="text-[10px] text-gray-400 mt-1 block font-sans">1 加幣兌港元</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- 卡片 4: 常用財經與指數速覽 (Markets & Watchlist) -->
+    <section class="dash-card p-5 rounded-3xl shadow-xl">
+      <div class="flex justify-between items-center mb-3">
+        <span class="text-xs font-bold tracking-wider text-gray-400 flex items-center gap-1.5 uppercase">
+          📈 核心市場行情 (MARKETS)
+        </span>
+        <span class="text-[10px] text-gray-500 font-mono">美股指數</span>
+      </div>
+
+      <div class="space-y-2 font-mono text-xs">
+        <div v-for="item in markets" :key="item.symbol" class="inner-box p-3 rounded-2xl flex justify-between items-center">
+          <div>
+            <span class="font-bold text-white block">{{ item.symbol }}</span>
+            <span class="text-[10px] text-gray-400 font-sans">{{ item.name }}</span>
+          </div>
+          <div class="text-right">
+            <div class="font-bold text-gray-200">{{ item.price }}</div>
+            <span :class="['text-[10px] font-bold block', item.change >= 0 ? 'text-green-400' : 'text-red-400']">
+              {{ item.change >= 0 ? '+' : '' }}{{ item.change }}%
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
   </div>
 
   <script>
@@ -138,8 +197,14 @@
 
         const weather = ref({});
         const gas = ref({});
+        const forex = ref({ USDCAD: 1.3820, CADHKD: 5.6540 });
+        const markets = ref([
+          { symbol: 'QQQ', name: '納斯達克 100 ETF', price: '482.50', change: 0.85 },
+          { symbol: 'SPY', name: '標普 500 ETF', price: '560.10', change: 0.42 },
+          { symbol: 'TSM', name: '台積電 ADR', price: '172.30', change: 1.20 },
+          { symbol: 'NVDA', name: 'NVIDIA Corp', price: '128.40', change: -0.65 }
+        ]);
 
-        // 即時時鐘邏輯
         const updateClock = () => {
           const now = new Date();
           const pad = (n) => String(n).padStart(2, '0');
@@ -149,7 +214,6 @@
           currentDate.value = `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日 ${weekdays[now.getDay()]}`;
         };
 
-        // 價格防護格式化 (如果遇到異常大於250的數值自動過濾)
         const formatPrice = (val) => {
           if (!val || val === '--') return '--';
           const num = Number(val);
@@ -157,11 +221,14 @@
           return num.toFixed(1);
         };
 
-        // 強制無快取 (Cache-Busting) 資料抓取
+        const formatRate = (val) => {
+          if (!val) return '';
+          return Number(val).toFixed(4);
+        };
+
         const loadData = async () => {
           isRefreshing.value = true;
           try {
-            // 加上時間戳與 no-store 標頭，徹底避開 CDN 與瀏覽器快取
             const res = await fetch(`dashboard_data.json?t=${Date.now()}`, {
               cache: 'no-store',
               headers: {
@@ -174,6 +241,8 @@
               const data = await res.json();
               if (data.weather) weather.value = data.weather;
               if (data.gas) gas.value = data.gas;
+              if (data.forex) forex.value = data.forex;
+              if (data.markets) markets.value = data.markets;
             }
           } catch (e) {
             console.error('載入失敗:', e);
@@ -196,7 +265,10 @@
           isRefreshing,
           weather,
           gas,
+          forex,
+          markets,
           formatPrice,
+          formatRate,
           loadData
         };
       }
