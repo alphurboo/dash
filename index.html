@@ -1,486 +1,206 @@
 <!DOCTYPE html>
 <html lang="zh-HK">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>加拿大生活速報</title>
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Markham Life Dashboard</title>
+
+  <!-- iOS PWA 全螢幕設定 -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Dashboard" />
+  <link rel="apple-touch-icon" href="https://img.icons8.com/fluency/192/sun.png" />
+
+  <!-- Tailwind CSS & Vue 3 -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
   <style>
-    :root {
-      --bg: #0f172a;
-      --card-bg: #1e293b;
-      --text-main: #f8fafc;
-      --text-muted: #94a3b8;
-      --accent: #38bdf8;
-      --warning: #f59e0b;
-      --danger: #ef4444;
-      --success: #10b981;
-      --border: #334155;
+    body {
+      background-color: #0f131a;
+      color: #e2e8f0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      -webkit-tap-highlight-color: transparent;
     }
-    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
-    body { background: var(--bg); color: var(--text-main); padding: 16px; display: flex; justify-content: center; }
-    .container { width: 100%; max-width: 500px; display: flex; flex-direction: column; gap: 14px; }
-    
-    .header { text-align: center; padding: 6px 0; position: relative; }
-    .time { font-size: 2.5rem; font-weight: 700; letter-spacing: -1px; text-align: center; }
-    .date { color: var(--text-muted); font-size: 0.95rem; margin-top: 2px; text-align: center; }
-    .refresh-btn { position: absolute; right: 0; top: 12px; background: var(--border); border: none; color: var(--text-muted); padding: 6px 10px; border-radius: 8px; font-size: 0.75rem; cursor: pointer; }
-
-    .alert-banner { 
-      display: none; 
-      background: linear-gradient(135deg, rgba(239, 68, 68, 0.25), rgba(185, 28, 28, 0.35)); 
-      border: 1px solid var(--danger); 
-      color: #fca5a5; 
-      padding: 12px 14px; 
-      border-radius: 12px; 
-      font-size: 0.85rem; 
-      font-weight: 600; 
-      line-height: 1.4; 
-      align-items: center; 
-      gap: 10px; 
+    .dash-card {
+      background-color: #171d28;
+      border: 1px solid #242d3e;
     }
-    .alert-banner.show { display: flex; }
-    .alert-icon { font-size: 1.3rem; }
-
-    .card { background: var(--card-bg); border-radius: 16px; padding: 16px; border: 1px solid var(--border); box-shadow: 0 4px 6px -1px rgba(0,0,0,0.2); }
-    .card-title { font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; font-weight: 600; margin-bottom: 12px; display: flex; justify-content: space-between; align-items: center; }
-    
-    .weather-main { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; }
-    .temp-big { font-size: 2.2rem; font-weight: 700; color: var(--accent); }
-    .feels-like { font-size: 1rem; color: var(--warning); font-weight: 600; margin-top: 4px; }
-    .weather-detail { font-size: 0.85rem; color: var(--text-muted); line-height: 1.5; text-align: right; }
-
-    .hourly-forecast { display: flex; justify-content: space-between; gap: 6px; overflow-x: auto; padding-top: 10px; border-top: 1px dashed var(--border); }
-    .hourly-item { flex: 1; min-width: 52px; background: rgba(255,255,255,0.02); border-radius: 8px; padding: 8px 4px; text-align: center; font-size: 0.75rem; }
-    .hourly-time { color: var(--text-muted); margin-bottom: 4px; }
-    .hourly-temp { font-weight: 700; color: var(--text-main); margin-bottom: 4px; }
-    .hourly-rain { color: var(--accent); font-size: 0.7rem; }
-
-    .gas-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-    .gas-box { background: rgba(255,255,255,0.03); border-radius: 10px; padding: 10px; border: 1px solid rgba(255,255,255,0.05); }
-    .gas-label { font-size: 0.72rem; color: var(--text-muted); font-weight: 600; }
-    .gas-price { font-size: 1.25rem; font-weight: 700; margin-top: 4px; }
-    .gas-trend { font-size: 0.72rem; font-weight: 600; margin-top: 2px; }
-    .gas-down { color: var(--success); }
-    .gas-up { color: var(--danger); }
-    .gas-neutral { color: var(--text-muted); }
-    .btn-link { background: var(--border); color: var(--text-main); text-decoration: none; font-size: 0.75rem; padding: 4px 10px; border-radius: 8px; }
-
-    .news-list { display: flex; flex-direction: column; gap: 8px; }
-    .news-item {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 10px 12px;
-      background: rgba(255, 255, 255, 0.02);
-      border: 1px solid rgba(255, 255, 255, 0.05);
-      border-radius: 10px;
+    .inner-box {
+      background-color: #1d2535;
+      border: 1px solid #2b374c;
     }
-    .news-badge {
-      font-size: 0.75rem;
-      font-weight: 700;
-      color: var(--accent);
-      background: rgba(56, 189, 248, 0.12);
-      border: 1px solid rgba(56, 189, 248, 0.25);
-      border-radius: 6px;
-      padding: 3px 6px;
-      min-width: 28px;
-      text-align: center;
-      flex-shrink: 0;
-      line-height: 1;
-    }
-    .news-badge.stock-badge {
-      color: var(--warning);
-      background: rgba(245, 158, 11, 0.12);
-      border-color: rgba(245, 158, 11, 0.25);
-    }
-    .news-main {
-      flex: 1;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 8px;
-      overflow: hidden;
-    }
-    .news-title-link {
-      color: var(--text-main);
-      font-size: 0.83rem;
-      font-weight: 600;
-      line-height: 1.35;
-      text-decoration: none;
-    }
-    .news-title-link:hover { color: var(--accent); }
-    .news-source-tag {
-      font-size: 0.62rem;
-      font-weight: 600;
-      padding: 2px 6px;
-      border-radius: 4px;
-      background: rgba(255, 255, 255, 0.08);
-      color: #cbd5e1;
-      white-space: nowrap;
-      flex-shrink: 0;
-    }
-
-    .event-list { display: flex; flex-direction: column; gap: 8px; }
-    .event-item { background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.04); border-radius: 8px; padding: 8px 10px; display: flex; justify-content: space-between; align-items: center; }
-    .event-left { display: flex; flex-direction: column; gap: 2px; overflow: hidden; }
-    .event-title-row { display: flex; align-items: center; gap: 6px; }
-    .event-tag { font-size: 0.65rem; padding: 1px 5px; border-radius: 4px; background: rgba(56, 189, 248, 0.15); color: var(--accent); font-weight: 600; white-space: nowrap; }
-    .event-title { font-size: 0.8rem; font-weight: 600; color: var(--text-main); }
-    .event-desc { font-size: 0.7rem; color: var(--text-muted); }
-    .event-badge { background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3); color: var(--warning); font-size: 0.68rem; font-weight: 700; padding: 3px 6px; border-radius: 6px; white-space: nowrap; margin-left: 8px; }
-
-    .shortcut-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; margin-bottom: 12px; }
-    .shortcut-btn { background: rgba(56, 189, 248, 0.1); border: 1px solid rgba(56, 189, 248, 0.3); color: var(--accent); text-decoration: none; text-align: center; padding: 6px 2px; border-radius: 6px; font-size: 0.7rem; font-weight: 600; white-space: nowrap; }
-    
-    .category-group { display: flex; flex-direction: column; gap: 12px; }
-    .category-card { background: rgba(255,255,255,0.02); border-radius: 10px; padding: 10px 12px; border: 1px solid rgba(255,255,255,0.05); }
-    .category-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
-    .category-title { font-size: 0.82rem; font-weight: 700; color: var(--accent); }
-    .category-sublink { color: var(--text-muted); text-decoration: none; font-size: 0.7rem; }
-    
-    .benchmark-bar { font-size: 0.68rem; color: var(--text-muted); background: rgba(0,0,0,0.25); padding: 4px 8px; border-radius: 6px; margin-bottom: 8px; display: flex; justify-content: space-between; }
-    .benchmark-bar span strong { color: #cbd5e1; }
-
-    .store-list { list-style: none; display: flex; flex-direction: column; gap: 6px; }
-    .store-item { font-size: 0.78rem; display: flex; justify-content: space-between; align-items: center; }
-    .store-info { display: flex; align-items: center; gap: 6px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-    .store-tag { font-size: 0.65rem; padding: 2px 5px; border-radius: 4px; font-weight: 600; min-width: 54px; text-align: center; }
-    .item-name { color: var(--text-main); }
-    
-    .price-col { display: flex; align-items: center; gap: 4px; }
-    .item-price { font-weight: 700; color: #38bdf8; white-space: nowrap; }
-    .deal-tag { font-size: 0.6rem; padding: 1px 4px; border-radius: 4px; font-weight: 700; white-space: nowrap; }
-    .deal-hot { background: rgba(239, 68, 68, 0.2); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.4); }
-    .deal-good { background: rgba(16, 185, 129, 0.2); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.4); }
-    .deal-fair { background: rgba(148, 163, 184, 0.2); color: #cbd5e1; border: 1px solid rgba(148, 163, 184, 0.3); }
-
-    .tag-nofrills { background: #0284c7; color: #fff; }
-    .tag-freshco { background: #16a34a; color: #fff; }
-    .tag-foodbasics { background: #059669; color: #fff; }
-    .tag-walmart { background: #2563eb; color: #fff; }
-    .tag-costco { background: #dc2626; color: #fff; }
-    .tag-tnt { background: #d97706; color: #fff; }
   </style>
 </head>
-<body>
+<body class="p-4 md:p-6 max-w-md mx-auto min-h-screen flex flex-col">
+  <div id="app" class="space-y-4 flex-1">
 
-<div class="container">
-  <div class="header">
-    <button class="refresh-btn" onclick="refreshAll()">↻ 更新</button>
-    <div class="time" id="clock">--:--</div>
-    <div class="date" id="current-date">載入中...</div>
-  </div>
+    <!-- 頂部時間與手動更新列 -->
+    <header class="relative text-center pt-2 pb-2">
+      <button @click="loadData" class="absolute right-0 top-2 px-3 py-1.5 text-xs bg-slate-800/80 hover:bg-slate-700 text-gray-300 rounded-full border border-slate-700/80 flex items-center gap-1 transition">
+        <i :class="['fa-solid fa-arrows-rotate', isRefreshing ? 'fa-spin text-blue-400' : '']"></i>
+        <span>更新</span>
+      </button>
 
-  <div id="severe-alert" class="alert-banner">
-    <div class="alert-icon" id="alert-icon">⚠️</div>
-    <div id="alert-text">警報載入中...</div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">
-      <span>🌤️ Markham 天氣預報</span>
-      <span id="weather-condition" style="color:var(--text-main)">更新中</span>
-    </div>
-    <div class="weather-main">
-      <div>
-        <div class="temp-big" id="current-temp">--°C</div>
-        <div class="feels-like" id="feels-like">體感: --°C</div>
+      <div class="text-5xl font-black text-white tracking-tight font-mono">
+        {{ currentTime }}
       </div>
-      <div class="weather-detail">
-        <p>降雨機率: <span id="current-rain-prob">--%</span></p>
-        <p>最高 / 最低: <span id="temp-range">-- / --</span></p>
-        <p>UV 指數: <span id="uv-index">--</span></p>
+      <div class="text-sm font-semibold text-gray-400 mt-1">
+        {{ currentDate }}
       </div>
-    </div>
-    <div class="hourly-forecast" id="hourly-container"></div>
-  </div>
+    </header>
 
-  <div class="card">
-    <div class="card-title">
-      <span>⛽ 大多市油價追蹤 (GTA)</span>
-      <a href="https://gaswizard.ca" target="_blank" class="btn-link">GasWizard</a>
-    </div>
-    <div class="gas-grid">
-      <div class="gas-box">
-        <div class="gas-label" id="gas-current-label">現行油價</div>
-        <div class="gas-price" id="gas-current-price" style="color:var(--accent);">-- ¢</div>
-        <div class="gas-trend" style="color:var(--text-muted)">當前價格</div>
+    <!-- 卡片 1: Markham 天氣預報 -->
+    <section class="dash-card p-5 rounded-3xl shadow-xl">
+      <div class="flex justify-between items-center mb-3">
+        <span class="text-xs font-bold tracking-wider text-gray-400 flex items-center gap-1.5 uppercase">
+          🌤️ MARKHAM 天氣預報
+        </span>
+        <span class="text-xs font-bold px-2 py-0.5 rounded-full bg-slate-800 text-blue-300 border border-slate-700">
+          {{ weather.condition || '多雲' }}
+        </span>
       </div>
-      <div class="gas-box">
-        <div class="gas-label" id="gas-predict-label">明日預測</div>
-        <div class="gas-price" id="gas-predict-price" style="color:var(--success);">-- ¢</div>
-        <div class="gas-trend" id="gas-trend">讀取中...</div>
-      </div>
-    </div>
-  </div>
 
-  <div class="card">
-    <div class="card-title">
-      <span>🌍 過去 24 小時國際焦點 (7 大事)</span>
-      <span style="font-size:0.7rem; color:var(--text-muted)">Global Top 7</span>
-    </div>
-    <div class="news-list" id="world-news-container">
-      <div style="font-size:0.75rem; color:var(--text-muted); text-align:center; padding:10px;">新聞載入中...</div>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">
-      <span>⚡ 過去 8 小時股市要聞</span>
-      <span style="font-size:0.7rem; color:var(--text-muted)">Market 8H</span>
-    </div>
-    <div class="news-list" id="stock-news-container">
-      <div style="font-size:0.75rem; color:var(--text-muted); text-align:center; padding:10px;">新聞載入中...</div>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">
-      <span>📅 美股重要日程 & 宏觀事件</span>
-      <span style="font-size:0.7rem; color:var(--text-muted)">最近 30 日</span>
-    </div>
-    <div class="event-list" id="macro-event-container"></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">
-      <span>📊 重點個股財報與派息除淨</span>
-      <span style="font-size:0.7rem; color:var(--text-muted)">最近 30 日</span>
-    </div>
-    <div class="event-list" id="stock-event-container"></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">
-      <span>🛒 超市特價情報 (L6G 0G5)</span>
-      <a href="https://flipp.com/flyers?postal_code=L6G0G5" target="_blank" class="btn-link">所有傳單</a>
-    </div>
-
-    <div class="shortcut-grid">
-      <a class="shortcut-btn" href="https://flipp.com/search/homo%20milk%202L?postal_code=L6G0G5" target="_blank">🥛 3.25%奶</a>
-      <a class="shortcut-btn" href="https://flipp.com/search/brown%20rice?postal_code=L6G0G5" target="_blank">🌾 糙米</a>
-      <a class="shortcut-btn" href="https://flipp.com/search/toilet%20paper%2030?postal_code=L6G0G5" target="_blank">🧻 廁紙</a>
-      <a class="shortcut-btn" href="https://flipp.com/search/eggs?postal_code=L6G0G5" target="_blank">🥚 雞蛋</a>
-      <a class="shortcut-btn" href="https://flipp.com/search/facial%20tissue?postal_code=L6G0G5" target="_blank">📦 面紙</a>
-    </div>
-
-    <div class="category-group">
-      <div class="category-card">
-        <div class="category-header">
-          <span class="category-title">🥛 3.25% 全脂牛奶 (2L 盒裝)</span>
-          <a class="category-sublink" href="https://flipp.com/search/homo%20milk%202L?postal_code=L6G0G5" target="_blank">即時比價 ↗</a>
+      <div class="flex justify-between items-center mb-4">
+        <div>
+          <div class="text-4xl font-extrabold text-blue-400 font-mono tracking-tighter">
+            {{ weather.temp || '19°C' }}
+          </div>
+          <div class="text-xs font-bold text-amber-400 mt-1">
+            體感: {{ weather.feel || '21°C' }}
+          </div>
         </div>
-        <div class="benchmark-bar"><span>原價: <strong>$5.49 - $5.79</strong></span><span>全年史低: <strong>$4.49</strong></span></div>
-        <ul class="store-list" id="list-milk"></ul>
+        <div class="text-right text-xs text-gray-400 space-y-1">
+          <div>降雨機率: <span class="text-gray-200 font-semibold">{{ weather.pop || '5%' }}</span></div>
+          <div>最高 / 最低: <span class="text-gray-200 font-semibold">{{ weather.high_low || '23° / 19°' }}</span></div>
+          <div>UV 指數: <span class="text-gray-200 font-semibold">{{ weather.uv || '1.2' }}</span></div>
+        </div>
       </div>
 
-      <div class="category-card">
-        <div class="category-header">
-          <span class="category-title">🌾 糙米 (Brown Rice 6-10kg 大袋裝)</span>
-          <a class="category-sublink" href="https://flipp.com/search/brown%20rice?postal_code=L6G0G5" target="_blank">即時比價 ↗</a>
+      <!-- 逐時預報橫條 -->
+      <div v-if="weather.hourly && weather.hourly.length" class="grid grid-cols-5 gap-1.5 pt-3 border-t border-slate-800/80 text-center font-mono">
+        <div v-for="(h, idx) in weather.hourly" :key="idx" class="bg-slate-900/60 p-2 rounded-xl border border-slate-800">
+          <div class="text-[10px] text-gray-400">{{ h.time }}</div>
+          <div class="text-xs font-bold text-gray-200 my-0.5">{{ h.temp }}</div>
+          <div class="text-[10px] text-blue-400 flex items-center justify-center gap-0.5">
+            <span>💧</span>{{ h.pop }}
+          </div>
         </div>
-        <div class="benchmark-bar"><span>原價: <strong>$20.99 - $23.99</strong></span><span>全年史低: <strong>$14.99 (8kg)</strong></span></div>
-        <ul class="store-list" id="list-rice"></ul>
+      </div>
+    </section>
+
+    <!-- 卡片 2: 大多市油價追蹤 (GTA) -->
+    <section class="dash-card p-5 rounded-3xl shadow-xl">
+      <div class="flex justify-between items-center mb-3">
+        <span class="text-xs font-bold tracking-wider text-gray-400 flex items-center gap-1.5 uppercase">
+          ⛽ 大多市油價追蹤 (GTA)
+        </span>
+        <span class="text-[10px] font-black px-2 py-0.5 rounded bg-slate-800 text-gray-300 border border-slate-700 tracking-wider">
+          {{ gas.source || 'GASWIZARD' }}
+        </span>
       </div>
 
-      <div class="category-card">
-        <div class="category-header">
-          <span class="category-title">🧻 廁紙 (Toilet Paper 24-30卷裝)</span>
-          <a class="category-sublink" href="https://flipp.com/search/toilet%20paper%2030?postal_code=L6G0G5" target="_blank">即時比價 ↗</a>
+      <div class="grid grid-cols-2 gap-3">
+        <!-- 現行油價 -->
+        <div class="inner-box p-3.5 rounded-2xl">
+          <span class="text-[11px] text-gray-400 block mb-1">{{ gas.today_date || '現行油價' }}</span>
+          <div class="text-2xl font-black text-blue-400 font-mono">
+            {{ formatPrice(gas.today_price) }} <span class="text-xs font-normal">¢</span>
+          </div>
+          <span class="text-[10px] text-gray-500 mt-1 block">當前價格</span>
         </div>
-        <div class="benchmark-bar"><span>原價: <strong>$22.99 - $27.99</strong></span><span>全年史低: <strong>$12.99 (30卷)</strong></span></div>
-        <ul class="store-list" id="list-toilet_paper"></ul>
-      </div>
 
-      <div class="category-card">
-        <div class="category-header">
-          <span class="category-title">🥚 雞蛋 (Large Eggs 12-18pk)</span>
-          <a class="category-sublink" href="https://flipp.com/search/eggs?postal_code=L6G0G5" target="_blank">即時比價 ↗</a>
+        <!-- 明日預測 -->
+        <div class="inner-box p-3.5 rounded-2xl">
+          <span class="text-[11px] text-gray-400 block mb-1">{{ gas.tomorrow_date || '明日預測' }}</span>
+          <div :class="['text-2xl font-black font-mono', gas.tomorrow_price === '--' ? 'text-gray-400' : 'text-green-400']">
+            {{ formatPrice(gas.tomorrow_price) }} <span v-if="gas.tomorrow_price !== '--'" class="text-xs font-normal">¢</span>
+          </div>
+          <span :class="['text-[10px] mt-1 block font-semibold truncate', gas.status && gas.status.includes('跌') ? 'text-green-400' : (gas.status && gas.status.includes('升') ? 'text-red-400' : 'text-gray-400')]">
+            {{ gas.status || '油價平穩' }}
+          </span>
         </div>
-        <div class="benchmark-bar"><span>原價: <strong>$4.49 - $4.99</strong></span><span>全年史低: <strong>$2.99 (12pk)</strong></span></div>
-        <ul class="store-list" id="list-eggs"></ul>
       </div>
+    </section>
 
-      <div class="category-card">
-        <div class="category-header">
-          <span class="category-title">📦 盒裝面紙 (Facial Tissue 6-8pk)</span>
-          <a class="category-sublink" href="https://flipp.com/search/facial%20tissue?postal_code=L6G0G5" target="_blank">即時比價 ↗</a>
-        </div>
-        <div class="benchmark-bar"><span>原價: <strong>$7.49 - $8.99</strong></span><span>全年史低: <strong>$3.88 (6pk)</strong></span></div>
-        <ul class="store-list" id="list-facial_tissue"></ul>
-      </div>
-    </div>
   </div>
-</div>
 
-<script>
-  function updateTime() {
-    const now = new Date();
-    document.getElementById('clock').textContent = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false });
-    document.getElementById('current-date').textContent = now.toLocaleDateString('zh-HK', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-  }
-  setInterval(updateTime, 1000);
-  updateTime();
+  <script>
+    const { createApp, ref, onMounted } = Vue;
 
-  async function fetchWeather() {
-    try {
-      const url = 'https://api.open-meteo.com/v1/forecast?latitude=43.837&longitude=-79.336&current=temperature_2m,apparent_temperature,weather_code&hourly=temperature_2m,precipitation_probability,weather_code&daily=temperature_2m_max,temperature_2m_min,uv_index_max&timezone=America%2FToronto&forecast_days=2';
-      const res = await fetch(url);
-      const data = await res.json();
-      
-      const currentTemp = Math.round(data.current.temperature_2m);
-      const feelsLike = Math.round(data.current.apparent_temperature);
-      const code = data.current.weather_code;
+    createApp({
+      setup() {
+        const currentTime = ref('');
+        const currentDate = ref('');
+        const isRefreshing = ref(false);
 
-      document.getElementById('current-temp').textContent = currentTemp + '°C';
-      document.getElementById('feels-like').textContent = '體感: ' + feelsLike + '°C';
-      document.getElementById('temp-range').textContent = Math.round(data.daily.temperature_2m_max[0]) + '° / ' + Math.round(data.daily.temperature_2m_min[0]) + '°';
-      document.getElementById('uv-index').textContent = data.daily.uv_index_max[0];
-      
-      let desc = "晴朗";
-      if (code > 0 && code <= 3) desc = "多雲";
-      else if (code >= 45 && code <= 48) desc = "有霧";
-      else if (code >= 51 && code <= 67) desc = "有雨";
-      else if (code >= 71 && code <= 77) desc = "降雪";
-      else if (code >= 85 && code <= 86) desc = "暴風雪";
-      else if (code >= 95) desc = "雷暴";
-      document.getElementById('weather-condition').textContent = desc;
+        const weather = ref({});
+        const gas = ref({});
 
-      const alertBox = document.getElementById('severe-alert');
-      const alertIcon = document.getElementById('alert-icon');
-      const alertText = document.getElementById('alert-text');
-      let alertMsg = "";
-      let icon = "⚠️";
-
-      if (feelsLike <= -25) { icon = "🥶"; alertMsg = "極端嚴寒警報：體感低於 -25°C，請穿重裝保暖！"; }
-      else if (feelsLike <= -15) { icon = "🧤"; alertMsg = "風寒效應提示：體感低於 -15°C，出門請戴帽子手套！"; }
-      else if (code >= 71 && code <= 86) { icon = "❄️"; alertMsg = "降雪警告：外出請小心黑冰，留意車距並準備剷雪！"; }
-      else if (code >= 95) { icon = "⚡"; alertMsg = "雷暴警報：戶外有強烈雷雨，請留在室內！"; }
-      else if (feelsLike >= 33) { icon = "🌡️"; alertMsg = "高溫濕熱提示：體感超過 33°C，請多補充水分！"; }
-
-      if (alertMsg) {
-        alertIcon.textContent = icon; alertText.textContent = alertMsg; alertBox.classList.add('show');
-      } else {
-        alertBox.classList.remove('show');
-      }
-
-      const currentHourIndex = new Date().getHours();
-      document.getElementById('current-rain-prob').textContent = (data.hourly.precipitation_probability[currentHourIndex] || 0) + '%';
-
-      const container = document.getElementById('hourly-container');
-      container.innerHTML = '';
-      for (let i = 2; i <= 10; i += 2) {
-        const targetIndex = currentHourIndex + i;
-        if (targetIndex < data.hourly.time.length) {
-          const hourLabel = new Date(data.hourly.time[targetIndex]).toLocaleTimeString('en-US', { hour: 'numeric', hour12: true });
-          const temp = Math.round(data.hourly.temperature_2m[targetIndex]);
-          const rain = data.hourly.precipitation_probability[targetIndex];
+        // 即時時鐘邏輯
+        const updateClock = () => {
+          const now = new Date();
+          const pad = (n) => String(n).padStart(2, '0');
+          currentTime.value = `${pad(now.getHours())}:${pad(now.getMinutes())}`;
           
-          const box = document.createElement('div');
-          box.className = 'hourly-item';
-          box.innerHTML = `<div class="hourly-time">${hourLabel}</div><div class="hourly-temp">${temp}°</div><div class="hourly-rain">💧${rain}%</div>`;
-          container.appendChild(box);
-        }
+          const weekdays = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
+          currentDate.value = `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日 ${weekdays[now.getDay()]}`;
+        };
+
+        // 價格防護格式化 (如果遇到異常大於250的數值自動過濾)
+        const formatPrice = (val) => {
+          if (!val || val === '--') return '--';
+          const num = Number(val);
+          if (isNaN(num) || num > 250) return '--';
+          return num.toFixed(1);
+        };
+
+        // 強制無快取 (Cache-Busting) 資料抓取
+        const loadData = async () => {
+          isRefreshing.value = true;
+          try {
+            // 加上時間戳與 no-store 標頭，徹底避開 CDN 與瀏覽器快取
+            const res = await fetch(`dashboard_data.json?t=${Date.now()}`, {
+              cache: 'no-store',
+              headers: {
+                'Pragma': 'no-cache',
+                'Cache-Control': 'no-cache'
+              }
+            });
+
+            if (res.ok) {
+              const data = await res.json();
+              if (data.weather) weather.value = data.weather;
+              if (data.gas) gas.value = data.gas;
+            }
+          } catch (e) {
+            console.error('載入失敗:', e);
+          } finally {
+            setTimeout(() => {
+              isRefreshing.value = false;
+            }, 600);
+          }
+        };
+
+        onMounted(() => {
+          updateClock();
+          setInterval(updateClock, 1000);
+          loadData();
+        });
+
+        return {
+          currentTime,
+          currentDate,
+          isRefreshing,
+          weather,
+          gas,
+          formatPrice,
+          loadData
+        };
       }
-    } catch (e) {}
-  }
-
-  async function fetchAutomatedData() {
-    try {
-      const res = await fetch('data.json?v=' + Date.now());
-      if (!res.ok) return;
-      const data = await res.json();
-      
-      if (data.gas) {
-        document.getElementById('gas-current-label').textContent = data.gas.current_label || '現行油價';
-        document.getElementById('gas-current-price').textContent = (data.gas.current_price || '--') + ' ¢';
-        document.getElementById('gas-predict-label').textContent = data.gas.predict_label || '明日預測';
-        document.getElementById('gas-predict-price').textContent = (data.gas.predict_price || '--') + (data.gas.predict_price !== '--' ? ' ¢' : '');
-        const trendEl = document.getElementById('gas-trend');
-        trendEl.textContent = data.gas.trend || '平穩';
-        trendEl.className = 'gas-trend ' + (data.gas.trend_class || 'gas-neutral');
-      }
-
-      const wContainer = document.getElementById('world-news-container');
-      if (data.news_world && data.news_world.length > 0) {
-        wContainer.innerHTML = data.news_world.map((nw, idx) => `
-          <div class="news-item">
-            <div class="news-badge">${String(idx + 1).padStart(2, '0')}</div>
-            <div class="news-main">
-              <a href="${nw.link}" target="_blank" class="news-title-link">${nw.title}</a>
-              <span class="news-source-tag">${nw.source}</span>
-            </div>
-          </div>
-        `).join('');
-      } else {
-        wContainer.innerHTML = '<div style="font-size:0.75rem; color:var(--text-muted); text-align:center; padding:10px;">暫無重大突發新聞</div>';
-      }
-
-      const sContainer = document.getElementById('stock-news-container');
-      if (data.news_stock && data.news_stock.length > 0) {
-        sContainer.innerHTML = data.news_stock.map((ns, idx) => `
-          <div class="news-item">
-            <div class="news-badge stock-badge">${String(idx + 1).padStart(2, '0')}</div>
-            <div class="news-main">
-              <a href="${ns.link}" target="_blank" class="news-title-link">${ns.title}</a>
-              <span class="news-source-tag" style="background:rgba(245, 158, 11, 0.15); color:var(--warning);">${ns.source}</span>
-            </div>
-          </div>
-        `).join('');
-      } else {
-        sContainer.innerHTML = '<div style="font-size:0.75rem; color:var(--text-muted); text-align:center; padding:10px;">美股走勢平穩，無重大異動</div>';
-      }
-
-      if (data.events && data.events.macro) {
-        const mContainer = document.getElementById('macro-event-container');
-        mContainer.innerHTML = data.events.macro.map(ev => `
-          <div class="event-item">
-            <div class="event-left">
-              <div class="event-title-row"><span class="event-tag">${ev.tag}</span><span class="event-title">${ev.title}</span></div>
-              <div class="event-desc">${ev.date} ｜${ev.desc}</div>
-            </div>
-            <div class="event-badge">${ev.status_badge}</div>
-          </div>
-        `).join('');
-      }
-
-      if (data.events && data.events.stocks) {
-        const stkContainer = document.getElementById('stock-event-container');
-        stkContainer.innerHTML = data.events.stocks.map(s => `
-          <div class="event-item">
-            <div class="event-left">
-              <div class="event-title-row"><span class="event-tag" style="background:rgba(234, 179, 8, 0.15); color:#facc15;">${s.ticker}</span><span class="event-title">${s.name} (${s.type})</span></div>
-              <div class="event-desc">${s.date} ｜${s.desc}</div>
-            </div>
-            <div class="event-badge" style="background:rgba(56, 189, 248, 0.15); border-color:rgba(56, 189, 248, 0.3); color:var(--accent);">${s.status_badge}</div>
-          </div>
-        `).join('');
-      }
-
-      const categories = ['milk', 'rice', 'toilet_paper', 'eggs', 'facial_tissue'];
-      categories.forEach(cat => {
-        const listEl = document.getElementById(`list-${cat}`);
-        if (listEl && data.groceries && data.groceries[cat]) {
-          listEl.innerHTML = data.groceries[cat].map(item => `
-            <li class="store-item">
-              <div class="store-info"><span class="store-tag ${item.tag}">${item.store}</span><span class="item-name">${item.name}</span></div>
-              <div class="price-col"><span class="item-price">${item.price}</span><span class="deal-tag ${item.class}">${item.deal}</span></div>
-            </li>
-          `).join('');
-        }
-      });
-    } catch (e) {}
-  }
-
-  function refreshAll() {
-    fetchWeather();
-    fetchAutomatedData();
-  }
-
-  refreshAll();
-  setInterval(fetchWeather, 3600000);
-</script>
+    }).mount('#app');
+  </script>
 </body>
 </html>
