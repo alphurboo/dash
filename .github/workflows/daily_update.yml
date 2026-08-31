@@ -1,29 +1,16 @@
 name: Daily Data Auto Updater
 
 on:
-  schedule:
-    # 每天多倫多 07:50 AM 執行 (UTC 11:50) - 早晨天氣、傳單特價、晨間焦點
-    - cron: '50 11 * * *'
-    # 每天多倫多 04:15 PM 執行 (UTC 20:15) - 明日最新油價預測、美股收市要聞
-    - cron: '15 20 * * *'
-  workflow_dispatch:
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
-# 賦予 Actions 寫入 data.json 的權限
-permissions:
-  contents: write
+  workflow_dispatch: # 僅保留外部 API / 手動觸發，刪除所有 schedule cron
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -32,14 +19,14 @@ jobs:
         run: |
           pip install requests beautifulsoup4
 
-      - name: Run Scraper Script
+      - name: Run Update Script
         run: |
           python update_data.py
 
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git commit -m "Auto update daily data" || echo "No changes to commit"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Auto-update dashboard data"
           git push
