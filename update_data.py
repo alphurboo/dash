@@ -61,7 +61,7 @@ def get_gas_data():
                     if dt not in date_price_map:
                         date_price_map[dt] = price_val
 
-            # 1. 決定今日油價
+            # 決定今日油價
             if today_dt in date_price_map:
                 cur_price = f"{date_price_map[today_dt]:.1f}"
             else:
@@ -70,7 +70,7 @@ def get_gas_data():
                     latest_past = max(past_dates)
                     cur_price = f"{date_price_map[latest_past]:.1f}"
 
-            # 2. 決定明日油價
+            # 決定明日油價
             if tom_dt in date_price_map:
                 tomorrow_val = date_price_map[tom_dt]
                 pred_price = f"{tomorrow_val:.1f}"
@@ -102,11 +102,26 @@ def get_gas_data():
     }
 
 # ----------------------------------------------------
-# 2. 即時新聞爬蟲 (標準 XML 解析 + HTML 符號解碼 + 雙重過濾)
+# 2. 即時新聞爬蟲 (排除中國官方及中資背景傳媒)
 # ----------------------------------------------------
+CHINESE_MEDIA_BLACKLIST = [
+    # 內地官媒與主要門戶
+    "中國共產黨新聞網", "共产党", "人民網", "人民日报", "新華社", "新华社", "新華網", "新华网",
+    "央視", "央视", "CCTV", "CGTN", "環球網", "环球网", "環球時報", "环球时报", "中新社", "中新網",
+    "觀察者網", "观察者", "今日頭條", "今日头条", "網易", "网易", "新浪", "搜狐", "騰訊", "腾讯",
+    "百度", "澎湃新聞", "澎湃", "界面新聞", "財聯社", "财联社", "參考消息", "参考消息",
+    # 中資/香港建制背景傳媒
+    "香港文匯報", "文匯報", "文汇报", "大公報", "大公报", "香港商報", "香港商报", "點新聞", "点新闻",
+    "橙新聞", "橙新闻", "巴士的報", "巴士的报", "港人講地", "港人讲地", "鳳凰網", "凤凰网",
+    "鳳凰衛視", "凤凰卫视", "中通社", "香港中通社", "紫荊", "紫荆", "堅料網", "思考HK", "SL886"
+]
+
 def fetch_rss_news(query_url, limit=7, exclude_keywords=None):
     if exclude_keywords is None:
         exclude_keywords = []
+
+    # 合併關鍵字黑名單與傳媒機構黑名單
+    full_blacklist = [kw.lower() for kw in (exclude_keywords + CHINESE_MEDIA_BLACKLIST)]
 
     news_items = []
     headers = {
@@ -125,6 +140,7 @@ def fetch_rss_news(query_url, limit=7, exclude_keywords=None):
 
                 title = html.unescape(raw_title)
 
+                # 確保 Google News Link 有效
                 if not link or not link.startswith("http"):
                     guid = item.findtext("guid", "").strip()
                     if guid.startswith("http"):
@@ -143,11 +159,10 @@ def fetch_rss_news(query_url, limit=7, exclude_keywords=None):
                 if not source:
                     source = "新聞"
 
-                # 二次過濾黑名單
-                if exclude_keywords:
-                    full_check_text = f"{title} {source}".lower()
-                    if any(kw.lower() in full_check_text for kw in exclude_keywords):
-                        continue
+                # 嚴格黑名單過濾：檢查標題與來源名稱
+                check_target = f"{title} {source}".lower()
+                if any(bad_word in check_target for bad_word in full_blacklist):
+                    continue
 
                 if title:
                     news_items.append({
@@ -213,12 +228,12 @@ def main():
     # 1. 抓取油價
     data["gas"] = get_gas_data()
 
-    # 2. 抓取國際焦點 7 大事 (鎖定全球焦點，排除中港本地)
+    # 2. 抓取國際焦點 Top 7 (鎖定歐美、中東及全球重大地緣事件)
     world_rss = "https://news.google.com/rss/search?q=(國際+OR+全球+OR+歐盟+OR+美國+OR+中東+OR+俄烏+OR+地緣政治+OR+白宮)+when:24h&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
     latest_world = fetch_rss_news(
         world_rss, 
         limit=7, 
-        exclude_keywords=["香港", "港府", "特區", "大灣區", "中國共產黨", "內地", "港幣"]
+        exclude_keywords=["香港", "港府", "特區", "大灣區", "內地", "港幣"]
     )
     if latest_world:
         data["news_world"] = latest_world
@@ -241,7 +256,7 @@ def main():
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print("✅ data.json 更新完成！")
+    print("✅ data.json 更新完成：已成功過濾中資與官方背景傳媒！")
 
 if __name__ == "__main__":
     main()
