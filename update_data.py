@@ -7,7 +7,7 @@ import re
 from datetime import datetime, timedelta
 
 # ----------------------------------------------------
-# 1. 油價爬蟲 (嚴格日期錨定，未出明日預測絕不誤抓昨日)
+# 1. 油價爬蟲 (未出預測絕不拿今日充數，強制顯示 --)
 # ----------------------------------------------------
 def get_gas_data():
     headers = {
@@ -22,21 +22,13 @@ def get_gas_data():
     today_label = f"{today_dt.month}月{today_dt.day}日 (現行油價)"
     predict_label = f"{tom_dt.month}月{tom_dt.day}日 (明日預測)"
 
+    # 預設狀態：明日絕對是 "--"
     cur_price = "182.9"
     pred_price = "--"
     trend = "⏳ 明日預測待公佈"
     trend_class = "gas-neutral"
 
-    # 日期比對關鍵字
-    today_kws = [
-        today_dt.strftime("%b %d").lower(),
-        today_dt.strftime("%B %d").lower(),
-        f"{today_dt.strftime('%b').lower()} {today_dt.day}",
-        f"{today_dt.strftime('%B').lower()} {today_dt.day}",
-        f"{today_dt.month}/{today_dt.day}",
-        "today"
-    ]
-    
+    # 明日關鍵字特徵
     tom_kws = [
         tom_dt.strftime("%b %d").lower(),
         tom_dt.strftime("%B %d").lower(),
@@ -45,6 +37,16 @@ def get_gas_data():
         f"sept {tom_dt.day}",
         f"{tom_dt.month}/{tom_dt.day}",
         "tomorrow"
+    ]
+
+    # 今日關鍵字特徵
+    today_kws = [
+        today_dt.strftime("%b %d").lower(),
+        today_dt.strftime("%B %d").lower(),
+        f"{today_dt.strftime('%b').lower()} {today_dt.day}",
+        f"{today_dt.strftime('%B').lower()} {today_dt.day}",
+        f"{today_dt.month}/{today_dt.day}",
+        "today"
     ]
 
     try:
@@ -56,32 +58,31 @@ def get_gas_data():
             found_today = None
             found_tom = None
 
-            # 遍歷表格行，比對特定行內的日期與價格
-            rows = soup.find_all(["tr", "li", "div"])
+            rows = soup.find_all(["tr", "li", "div", "p"])
             for row in rows:
-                row_text = row.get_text(separator=" ", strip=True).lower()
-                price_match = re.findall(r'\b(1[2-9][0-9]\.[0-9]|2[0-1][0-9]\.[0-9])\b', row_text)
+                text = row.get_text(separator=" ", strip=True).lower()
+                price_match = re.findall(r'\b(1[2-9][0-9]\.[0-9]|2[0-1][0-9]\.[0-9])\b', text)
                 if not price_match:
                     continue
                 
-                price = float(price_match[0])
-                if not (120.0 <= price <= 220.0):
+                val = float(price_match[0])
+                if not (120.0 <= val <= 220.0):
                     continue
 
-                # 必須有明天的日期關鍵字才認定為明日預測
-                if any(kw in row_text for kw in tom_kws):
+                # 只有明確包含「明日日期」的行才認定為明日
+                if any(kw in text for kw in tom_kws):
                     if not found_tom:
-                        found_tom = price
-                # 今天的日期關鍵字
-                elif any(kw in row_text for kw in today_kws):
+                        found_tom = val
+                # 包含「今日日期」的行
+                elif any(kw in text for kw in today_kws):
                     if not found_today:
-                        found_today = price
+                        found_today = val
 
             if found_today:
                 cur_price = f"{found_today:.1f}"
 
-            # 只有在網頁明確存在明日日期的情況下才顯示預測
-            if found_tom and found_tom != found_today:
+            # 只有真真正正抓到明日獨立新數據，才計算升跌
+            if found_tom is not None:
                 pred_price = f"{found_tom:.1f}"
                 diff = round(found_tom - float(cur_price), 1)
                 if diff > 0:
@@ -111,7 +112,7 @@ def get_gas_data():
     }
 
 # ----------------------------------------------------
-# 2. 即時新聞爬蟲 (使用標準 XML 解析，修正完整 URL)
+# 2. 即時新聞爬蟲 (標準 XML 解析完整 URL)
 # ----------------------------------------------------
 def fetch_rss_news(query_url, limit=7):
     news_items = []
@@ -128,7 +129,6 @@ def fetch_rss_news(query_url, limit=7):
                 link = item.findtext("link", "").strip()
                 source = item.findtext("source", "").strip()
 
-                # 若 link 缺失，使用完整 Google News URL 格式補齊
                 if not link or not link.startswith("http"):
                     guid = item.findtext("guid", "").strip()
                     if guid.startswith("http"):
@@ -227,7 +227,7 @@ def main():
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print("✅ data.json 更新完成：油價狀態準確，新聞完整 URL 鏈接正常！")
+    print("✅ data.json 更新完成！")
 
 if __name__ == "__main__":
     main()
