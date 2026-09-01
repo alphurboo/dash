@@ -1,23 +1,33 @@
 {
-  "updated_at": "2026-09-01 20:15:18",
+  "updated_at": "2026-09-01 21:11:15",
   "gas": {
     "current_label": "9月1日 (現行油價)",
     "current_price": "183.9",
     "predict_label": "9月2日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "183.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "中國商品淹向全球！美國要G20聯手提高貿易壁壘",
-      "source": "hk.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOT1lDZ3lkR3RxT1N6Q2w2VEtHZW9ROTROZDNXaUVyM25ETm9lT1FsYUFEdng1c3BHN2J0aGdPdHVKRkJwVlh3S2FuQUEyWXpnT2dYRFdBb19iTHpiaWdXZUZHaVAyYUVWdlpDSEJXdUdIWWktSHdKYVZaUnh5TF9iV1FBOERtdTVKTlQ2aXFmTFB2eGVsMmdyVXBDWG1TeVRKM2RWT2oxVXpOcndTNDZjU3RJVWpqdjRqS2hxVkdhc3NEWW0yRHlJVVJ1YmRCWDVTVUEyR1RNWG9zWUNuSG1ZU3lYTHFmdG5HWVJPOTUzN19FbUl1ZFpDY1JSbnZKU3ByZlJvQXM0c0hlT3dLOHdNbDJveE5XaHhDS2N3eGJYVFJCWWpQN2VDRDhxSFdJbkNWdm0wSlhRSnROUXpQek00dl9WY25wZWs?oc=5"
+      "title": "歐盟高官反對讓俄參與G20會議正常化稱時機未到| 國際焦點| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ULS1udV9XX1pMenFwMWVkTFBVbTRzSnJZTkczTFdFbFlFZFRmUm40ZWFHTjhrREl6ZTJ6RXgxTko4ZmdIRDVDd25pTjdFYnpx?oc=5"
     },
     {
       "title": "今日外匯：進入美國勞動力市場",
       "source": "fxstreet.hk",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHMzZWZUR0VNMXhHaTByY1l1M3BIMDFxb1duUjlRX0V6SzFudDQzdkZObVNVVzB5SFdWUV9sR1d1a1NhcXJ6a1J6TGpRZ1ZSZ05pM2VXOWxOcVo3SVJEODdWWUhCQVV3X09SUThtNk1yeXpBdHYyc0xSc2MzbncxVnpGR0dFbGtxeGJ1TFl4VTFuWlc4dTExVw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHMzZWZUR0VNMXhHaTByY1l1M3BIMDFxb1duUjlRX0V6SzFudDQzdkZObVNVVzB5SFdWUV9sR1d1a1NhcXJ6a1J6TGpRZ1ZSZ05pM2VXOWxOcVo3SVJEODdWWUhCQVV3X09SUThtNk1yeXpBdHYyc0xSc2MzbncxVnpGR0dFbGtxeGJ1TFl4VTFuWlc4dTExV9IBngFBVV95cUxObEV1NGtOR3pycTVEeFBZdHRwZnBJZXdZd3RmMUxhaHEzTktuOHBIODZOSzh3b1VReHpDeXFJTGZXSWdxei1PMFI3enQxaWQySU1JOVp1X1B6akhyRkI2SXQzQmJSanQ0Nlk0a3pOOXd5SkZxV1VGcWRLS28tX05RRjFHNFc4M3l5Y0t3NkdGOVBIajFaUEFzdEEzbm9WZw?oc=5"
+    },
+    {
+      "title": "美國7月職位空缺小幅增加 反映勞動力需求穩定",
+      "source": "hk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQRGpoS05PNkdmVXEyR01idEV4TXFyZTVBMFYyVTNzeld5OE1LUlpucWxBeWdXMmNXc25BbG1GSEZ5MnRPTWJQdDQ0RWdTd1JSRGVhVlNjLWhYNmJId012eVBZRlR6RnR4OXZMUjYxS2xNbDFuRk5jRUNBaVJZRTZHVlBVQkJ0TWNsU0hNeUJQbXNaZGw3YllzYXh2d3lLVUc1TGJEZkFscWNoME5FOXpxWWUxZ2FmcDFTMmFhUnl2aEw3aUxuWWQzTHNoV05CSmpxbGwxUnBLMGJ3YjhjOV9rT0lQTXM0VTVETHc0MGdWUlh0QTJ2ZXdTX0JiQjUxMFBqTWFFZzNzNXVPTjg1bFRaNXRiTkN6b0JqYkhTUmNtYkRkNTh3TUxzZmN4dTkxTkpVS20tUlYycUg5a2NlVlJEMUxEZGx6dG5CaEJTYVVvdWg?oc=5"
+    },
+    {
+      "title": "教宗良十四世呼籲珍惜地球",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc0kxSDh0cWphQlNveVIxZldRX2JBcUNmZTAyNnlLaWpxQTRKTkt5MHhlbzB0V0MxcHc0dHB1VlpEOFBoV0hvdm16NU5sSWtoLXJoelJYQjVwZ01meXhaVmFaRDQxa190U19nOUJQc0FXc2NhMnI3SU1xQnFkbzk0eWpWTUN6dHRzZ1ZxSkFEenAwWVhtWVU3MzE3U3pqSHJzcTNibWtXMFprQTJ0TXRTLXYyRHQyc0w2X1hwUDBUdUJ2MUxXYU1vbVlVMU1sMkZkUDRra2ZtSVRsOEM5MlBUMHhpcjAtVlk3Mzh0aGFSbw?oc=5"
     },
     {
       "title": "美軍猛烈空襲伊朗！川普警告：更大的攻擊還在後面 油價暴漲逾4%",
@@ -25,24 +35,14 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YaDN1WWotdkJLQXFib2hsMWs0YU05YVpKYVdPZW5wZExkc3l1bk9EMTZ1dU1UQzJURF82b040YUpfbzRDSkEtN1BKdHZnNWs?oc=5"
     },
     {
-      "title": "中東局勢丨美軍攻擊伊朗革命衞隊目標 多地傳出爆炸聲",
-      "source": "hkej.com",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPWWo4bFRDdEtFR3RZLWZkVXJXeXFiYXY2U21pNnpXZEd6UEV6OXFVTmp1YWQ1bHdxcHROLVNtVmRua2tpMzRCNjQtNWk3TnlkTnV1dzdXU1ZMMW16ZWZmcEx3cnBJSllncGlfbHpTa2s0X2xsWlhfcXBlT1ZHdUY4aFpuMXg3R0pfMzA3aUoybXYwb0Y3cjFISkEtbm5yOXEyV0xTTkhYNmxGaUxqbVItR0thMjgyQ3piQ2dGMWtVV0Y1RVAtX05vX25hSTRqb1JRZVE2ZzhEMjJBT2JPQkM2ZjM0RXZkSXRqQk44S0VWMmlpS0h1LXg2NE83N2cxSHAtWjdRTUxudktBTUxaYTRDU0dNU3VjWXhxeUhoN3p0a3lPTUYzbU51Z1BObTloWTd0ZFNvNG0tLTd4VHkzekdqVzBwTnpHZ013dEhQSVVZakdJeDZXZHZfVXRGeWV5aVIzNHpSQXZWcXNBWlVDRHlaenowMy1oR3ZGbDNTVGxrTjB1X1U?oc=5"
+      "title": "快樂蜂擬分拆國際業務港上市 原屬意美國後轉軚 稱港擁優質投資者基礎 - 20260902 - 經濟",
+      "source": "news.mingpao.com",
+      "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxOR0VXOVhGeGlheWdjYWJDbmpGX3J3NHFGN25Wc1NfUHQtYjExR3B4NndvOGQwdWhmRlNvdGg5R0ZKXzBrT0M0MmRnTkFwVzNPcERKSFFaeW0tbVNoNkxoMS1kUVFVRTloeHpLdFFFRlN3Sm5wbS0tMWVHT0xrNmVDdmlwaUZvVU9BN3dVTmpYYUFNbVM5T1BzdEY0MDdQUHNnNEtvS0JWUmpHUFNyODJqVmZqTWVUUTUtTGx5RE5xdEozRS1FRERMbXRkQUJoMzRld1ZzaHNvUGpYRS1Ua3dCaVVBUjQ5bFY3YkxnMFpmdnBYSFdiTmptNW5sMGFMM2ZadjFHRWN2X2J5MnZtSmQ4RUhQQUxCc3BzaWxLdmUtTW1kMEFZZERjWmo5U0d6MlhnUUR3aUJfc2k1alNfaGJpZGNqbFp6d3R2UjhydFVUZDZ0ZWRNU3JNUHdQeC1kT3k1YVNKSklrUE0ydUh6SkxycHI0MklXV3lhS2V1ZlZJaFhtUmhuZ2J4b21qbC1NVGIyQjZkOXluMm5jNGYwNzNuMER1bVdZanZBcldaaFVXUWpoeVZvVVliSGY2dFNOejk5TFpteHpaaFNfXzBDOHNDOGE2U05DVXBtbkt5alRFSGg4R3Etbjk4b0FYLWZwRUI1bmZPVENweEJkYjg3VkphNTkwVVZvUQ?oc=5"
     },
     {
-      "title": "一帶一路高峰論壇增設「出海」「中亞」「中東」 專章",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNekEyWldXQk52ei03X3ItOEVwQzdRb0RiSndXRzdiVjNQYnd5dFdGbUNON2lUNXFVcFBaYUkydU41Q0R1TGlJZUpCMmxlbF9jN0p6TmpoWjZ1WTJXa3ZJd0xwRzR5aDByV1d3SWpvTlYwT3lOS3RHaDFpT0Y4RlBPMEYxZWRlUmozZjJhcFBYZkJDV1lVRUhzeFBzeVhYMDcxWFl1ZHp2RkhrV0tDWW8zMzk5bHNOR2M5dHpaZXNzYVAzWktsQm9mQjBiemxIVXF0bWMtNVVac1UtTWRCdHRiSWdCQUZ2X1BtZW80U2RzRVZVS01wWm81RVlLNXU5dlJXUm1XT3ZzRE1yZERpOHpmN0VLVnJNZFEyRHVnMUwwZ2swUE1aS1JtZC05b2tTYk9UYjFaMUNxWFA?oc=5"
-    },
-    {
-      "title": "Maverick Mountain的空氣品質",
-      "source": "IQAir",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0WV96X1Q5QzhZSnpQT2xtU2F6R1ZEM2k2dTRGVkNQbDVvRzZCelJ2QjY2bnZXRXdoV090MTZ1Y1MyWjRLZVdJWTFLWUdBYzFxbzk3UGpZU2ZkbUdieW05eFJ5UnNfOE1uaXVQcnQ2RWFpSXRF?oc=5"
-    },
-    {
-      "title": "全球債市到底怎麼了？油價、AI與美國40兆美元債務同時引爆",
-      "source": "hk.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNcjdCbjlMS3h0WmlfSEJ0RHJZT2FuUzMwZlFaai1HM21oRUx2cFhYbl9KZ1I3WnpxM2dGT3pmcFZra2hSVDRFTmVCSzJGMGhnXzJHRHgwaGxRRS1jbzBVRXVMTXBTYnZRelVjZWhYNTRSaUV3S0ZtM1pzN0lfNk9kVGZJTHJVNlFNNFdLeWRORk5FYm5haHZxRFhRT0UzNGtMRzhEYjNmRlBtOVpPS1FfUzVrRmdqR0F2V3M4dlFQMVhUcE95RHdKU2pXYmxBVkt2ZkxQS2h1M1JLSFNTZ2hiYm5sUVRTV1UxUVZ4Rnl6U1Bncy1tZUtPc3Z2NFpVLWVQeGg1Q09kdWhCeUdiZUNoNWxpci0yUjd4bThlSkxCa084S0pUZ3V1MGw3NnJvaVQ4bjRqaFV1am1UelMycWNMcDk5X2xGMUZTVTUzMmtJemlCTGFoRlpIYzNOdjZIRWFDWTVLT24tM2pJVGVyNDk0RURiMjVsaHBHZkE?oc=5"
+      "title": "五角大樓人事地震陸軍部長突辭職- 國際",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3WU1keEZrd2xXUzZSWWZVaGRsT29VdndqV0NPS1R6cFpCYmpSRGJIQUljbXBvVHJ6VHh3SzFwZWZtakt6U3hydzBrYUNHYWFkeEtQY1RXWW4xbnduWEMyVFNoaEo2V1FxWXZtb1h6Q2toWUlx?oc=5"
     }
   ],
   "news_stock": [
@@ -52,14 +52,19 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvaGhTYnpaeE1Fa2RrVko1VDhLRFpZNUwtVEVKa2V5RDBPdEItVDNSOTFNSnVEem5IR01NajFadk9LYS1JWUo2ellrUmFoWUpTQ0g5Vmg2cWN6aTNKYk9EbXE4TUdyLTdhazhLNS1uQQ?oc=5"
     },
     {
-      "title": "【美股市況】美軍再炸伊朗革命衛隊目標 油價齊越90關（不斷更新）",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNVldidWJ5dGsxMEVTMnVHd0JWSkNDbFo1ekV5N0ZrSW9seWtjaW90S2w2R2VSWkVxUHhNT0NUX0JIVmNUMXNEaWozTUVxWlJkN2VBSEs2SzFUSThQcDVmWFNHYVRrajhIUUZsSVVMWmZXTmJoa0pLYkFGUmRSaW9yRUNqaHpIZnJwUk5ZSVFmRzRYb3FBQVJQRk8zNDRQbzY3Tm0wcENXUDgtbERsdHVSbF9jLUFhc0Q1SFN5clp5WkpTaU1lX2ZWRmRPNERuQXVXNlZ4VFZlZjB5VUd3MW9kRmNHN2tsSXNkdC1qTGxDOHV3cmFqYkVSWTNHNjg1S3RuOFNGVmx4V3VaQ1M1Sk9NNFVQeXJCTU54bm1McVhDN1lJdjMzUmF3ZE1mcnZ1V2E1M292alhxQ0p0QzJCcFA3UXZOY1R3bFpEOTFFc3UtdkVOSlJEbHVsRFBkYjd2ajQtdlFIdTltcXM0RkhqUjRjQlI5bE5lWExiRmVGYmlfLWpia21BbXBNZFllM0JhVUhpMVlGMzg0SGRzY3M?oc=5"
+      "title": "美股走勢丨道指收市跌419點 納指挫1.03%",
+      "source": "hkej.com",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORDZsanBaZV80UWd3TkVrZHQ2T1FLOHFGSWxNSU5oQUJBY3FQeVl1XzhXZVJIVjBHbk1WczY0VGk5OUp3SHNXOGZOckpTODREcmxvNUx0ZF9HUnJtMXlkRHVZalJUUWR5TzdoWTdHZ0VSZVQ4Q243aHpxeWo3N29vLTUyZ1NLaVk1TGY1dGMwSDB3Z0sySWF4SDRPNTQxYkJmZjFBVjVza0VsMHFFWGhUM2NTNks0azBmUnhVTmdVdzBIYy1RT1g2TDIzQXVXd2VjMDFWZjBWX1ZkNDVGWFRrM0M4NzdMWmZ6eElSZXVZSDN1ZGs0dGVJWHF2aWg0NGJqeU1SMkJNZWxJbmlxS25iNXhIcnpDQQ?oc=5"
     },
     {
-      "title": "美股走勢丨美債息高企 道指跌逾200點",
-      "source": "hkej.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNZnA3WkFhVnpxamQ1cWpjUnMtZHR4dFpHZHhaNTBJY2FmRVF0bXNhWk1JM2RhVG1jOVJQaTB5YWZfbG5HOGVtYlhGVVpsQ0x2dUJpbDl3VTQyZ0sySGFPUmhQVWQxN2t6azZ2N3ptUUE0NW5pcHJBbWJoZUhtSW5GTXZnR3JMODNPWHFEM0JocjFoc1g3UlZWM2ZrNUl5UnpSTi1uRk5QRVpjb1RJRDl2VWh0SUJiN2ZzMVFfaW5LYUZhUnR2RHFlTlhxam1LVEt0aHpGR05ycVNER2VneEZwb0w0ZGw0aWlwc0RDZ3BHRFhaRkZDelpPdUh1WHNYTHNEbTdzZFBkclVTWV9RTVhmRDhoWFRNV21xT2JJTGpaQkk2dUVTbTZmMTE5Yw?oc=5"
+      "title": "美股動向｜十年期美債息創近兩年高，科技股領跌大市 | 即時新聞 - 新聞",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUG11eDdDT3BMd2tLck8wbFJNZnRmbDJ6ZXpvNU4wckh1cmlXa1FWdzlVMDg1VF8wOXN3WkdrWUZGUE5MODlmUHlMR2VqNVJHN2xKa0V1Nmh4NVZCdS1MZEE5c1VrM0dQMG1UbklIYkh0ZzFTV1dhRURCVTlpY0ZxUlFGQlhrOU4tVW9tb0pRQURmVFZMT2RsaEo0UzJmbVZ2?oc=5"
+    },
+    {
+      "title": "標普全球股價上漲，市場傳出CapIQ可能分拆上市",
+      "source": "hk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcVFJZ0dUT1lMS2RRSm45SG14TFZ1ZDMxeVhqX3NvM0NNM1A5ZzhOZ1djT3ljLVh1Y0hwb3owOUlTVHM1X0cxLTJSRkdQUVB0ajRzYkpWYzFXMlhFQmdvQk1aVTlEWWRiZjVrQkJLZFV4V2F3OUxFSXZQbDBfUHA5NThOZFB4ajVfcm9pQkF6a3o0M1liOUR6bzNjVVdzbVBVNW9seWphY2MxZ0hHSHhoc0JwT2V2SlFwSmpuWVJaNjBGdWpma25mbFZqMlVNbC1kNERjUDRkNHlKQzRqM2ZHZFEwdGloYzlCRVdzdTIwR0hzVnZXcHNMQmhfZlNoTTV5UFA1dFZoS29kNXdER2pmcjNCWXQ5NmEwaFNxR1hNRndSSThMeVdDWXNrRlJQVFplek9faDh0Q2REQW15NXc?oc=5"
     },
     {
       "title": "美股早盤／4大指數盡墨！全球債市拋售潮費半摔2%、台積電ADR遊走平盤| 全球財經| 全球",
@@ -67,14 +72,9 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1Y1N1ZU92ZXZfM1lXRkc1TDVOUnByNW1uNlpjWE9IYjA5VFNQZ0pBQWNWem55blhXd0NsRHh4Z3AxcFladTI4Z3F1alJwTFA4?oc=5"
     },
     {
-      "title": "標普全球股價今日為何大漲？ 作者 Investing.com - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HajNHUVZRUnJ5S2M0am8xZ3hRTVgtTzBucDE2Rmt6SERFcFZyR0s1NDVZMjNXSVZfNVVZYUVlUGdXTU04dGhaTE5GQWVWUVVHVmlUV2U1SjRTazdpelExaEh3MDJDRGxHZlQ0ZjFZbkJ2dFVKN2hJ?oc=5"
-    },
-    {
-      "title": "美股異動 | 光通信概念股普跌 Lumentum(LITE.US)跌逾5%",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOEh2VENoVnNWWmZ2Q0Z1MldjckdOalBqcE5mSS1WTnB3bzhlQlVDN3lxYUVhWEJfLWZzWTVqWjAzS0otVUx0Z0d5anVhU2lYY0VPRDFSZTBEV3JVUkZSb1BZdlc3U2tTN3pPVkp0QnpLVTU4WVFvM0VjZU5PU0lBaDlwdzB0UEFRZkQySU5sSFJORnFHMnJFeGVTV0tfYVhSOGJNbFVoeFk2NkR0Q1UwMGRIZVJWU2JmWjdhck9zRVk?oc=5"
+      "title": "美股｜道指收市跌419點 納指挫1.03% 紐約期油飆5.2%重上90美元",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNenJOc05QU3pQYVBETGl2eWpIX1VYVUh0bmlkQkFKcmNmSjFaeElmaG1qSXNFZXU5ZGlBeTlNNkpIRVFUNUxpM1c0bG92amJOY3k5OVQwUHJLNERjV3l5NXQ4SlJvdHRqM3RlZUFUMFJWU3c2Mmt5OVNYMG82cU5ObUQzeS1KM2JtbGV4S25OdEs5NHgzQ2NWR0dTbzFIRXFmZ3ZmcVhVbVo5dURod3FDYmxpVEFWWDFBMDREbGxZTjQxT1hKNWlIUWlnZjlGdF80Wlc4R2JyQzJNb0NrZjFEOGZkUHZmSDhqclp5dzdjcVU0Wk1NcFluY0cwbzc3SU5KVThIQWhPUDk0M1ptb1hHbTBrMmZzSWxjRVZnNW1LUTBjWVdUQUZCU01Jczg3ZnRoZ3hQbldhZlk5QjVDcFdpR1h2elYzU0dDY1pWQmRIOUFkUDg2SC1pcnpabHVmZlltVnkwNVBmRjN0WDQ1MHRPYUxCQ1dVQk9XVFBF?oc=5"
     }
   ],
   "events": {
