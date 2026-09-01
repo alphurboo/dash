@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-08-31 20:15:18",
+  "updated_at": "2026-09-01 11:15:25",
   "gas": {
-    "current_label": "8月31日 (現行油價)",
+    "current_label": "9月1日 (現行油價)",
     "current_price": "182.9",
-    "predict_label": "9月1日 (明日預測)",
-    "predict_price": "182.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "9月2日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "特朗普稱美國反對數據中心“中國會很高興”",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQalZhQkExYlFtYk1qTTl4VTFTZkwyZTltUThXaHJvR0NNcGdOenczNGthbnBhcjNMV3d5NWRLNEg0cTRKbDFMSHM0dlJxOGhQTjBtZVRIcFJoeERoUjVqbkl3cXpVOU41U04xVzl1QVdlU05wbmhaRVJ3Vlk3dG5DbElKSUQwVHhrT2RvSDJGWXVtVks5UUFMVTN4cGRXaVBvNS1vcTFpYTFnaVlBNVNvLTlMdDVoWnRWWVFFMWdEM3lhWkpmeGl1OEJEQTVxM0pBZG8zQXRCVU0xcEp2OFk5YU9RdVNhbU00Tjd4SjEyNGd5VFdBZlI5XzlWdEUxWUFDSl91RlJrYmhqNFRMRTlicmhqYXNnLW5TZ25GT05zMXp4WHY0WVhiZm4xc3Q3cTkzQUszd0NSeHA?oc=5"
+      "title": "伊朗總統上合峰會發聲：美國履約即對等回應強調對話合作為解決之道- 國際",
+      "source": "dotdotnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fcWdxbmdZeUtDNDZhaDQ1OHpEZlUxb1Fod0VrU3dsTkVaenI3M1NJTnczSjVyN2IwemdRYUVxdk5GbWN2c3lDY2Q0YUFnNXRldnhtWGtkckF4ejZOeFlsMUFNbUFFcWY1Y0tUR3UxUk4wNjZ5ZHJncnJn?oc=5"
     },
     {
-      "title": "歐盟對ChatGPT等美國平台加強監管",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQa2d5bkxOT2M3S0hKSG9ZUGFUV0VGdDl2TnVtQzRkLW5ScDhVMVRJalIwVWliRkVoOUd4OUNiZFBZR1BUUHFGd2dXcmVaMC1yYUpyLW1ZaGZSUS04djlkN1lnX0p0czNRNFQwanpDLUZlaUNsWVA0NHpPWlYyaElrSGExNE9MVlVsX2JfaFA5aGNZNXJubVJjdDZ1U3dCbXhLd3pqOHIwTVhVZkVZNXZxSDZTb2JnN3JUclJYcVoyZFY3UTd0djZJVWR2bWNtd0VOMXBCbWhKNThrY2ZnWExzM3dSZzhjVjlEM2RWRFdyaDdWeEVDV3lFdnRvMDVxbEQ1YTZCZjZNdWxidw?oc=5"
-    },
-    {
-      "title": "莫迪晤普京 促為人類福祉必須結束俄烏戰事",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KU3ZGUnZaQXlxdHBvaWl0NlpVckV3MmpuWnpUNURnbjVTMXdvZ2szTUpCNEpnMzR5VFU0aGdEd2JZSWJZZjlyOWQtVy1jU0x2U0FaaTh3blRsSkE5NVHSAWNBVV95cUxPMUlheEFMVEkzcDg4d2xGQW9lWkZGSndNX0RNSU1VUm5oUmliQW5NTjJFb1EyemdFUnhDU0t4eWtmOVZVWGt5aWhxeFNXU3RYSDcxN2czN0FsS0FPcWh3WjZFeTg?oc=5"
-    },
-    {
-      "title": "大國責任/中國減排展擔當綠色創新惠及全球- 中國",
+      "title": "習近平出席「上海合作組織+」會議並發表重要講話- 國際",
       "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mUmlhQ0k0MllzQTF0VHJWS0Z0Yjh3MGhZODlvTVBUam9qS1V5cjhuVnZJbkNJWDhiUGRRdy1nbUg1bXBGaXNzS2pfQVh4VUZ6LTFCUk1CZDl1blZGMmowaDc1MU5BbDNSNUs1QU1yN0pSQjhr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ZjhpSjV5YTducDhNZGM0ZHNtNzBDR3ZUSUE0dDdVbUtzeUpTY3hSeDZWZUkwdDRENkFDTEdKbGl3Sm1EM2kxbVJjdjRMR3pSbEZBa0wzOGVjbmF5cXFtQ0Y0bko3d19GbWJCWkhPZ2g?oc=5"
     },
     {
-      "title": "美版Google地圖 安大略湖改名美國湖",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSzZ1NkhCYXpuWFVzcEEtM1cxMGplVDFscElVYldwWVE1LU9mck5TLXI5a2F1ZGFzWEdQS2Z3eTR1ZkpNZ2hCRGpTY3RVdy16UWpXSjdKc0FTbmpYM1BZWVVCeUNQRUk3dEVpcjlYbzVBbHFwSjBPT055Yi1sRmVaVmlMQlpMYTh4UWZaeHFHcVlneXNRcncwMDVRdF8tQUplbjBMX3d4VWhndW9vZHZpUl9NRkN0b2dMbVlWNThwVlUxLVlWRlZoNUFtNGpFUENXclBQOHFoejJ6MndlaV94QVR5SkljV3ZEOHZ3U1lNcHQwekxzRjJkNFpBcVFXcHZ3VFZtalFoWEpSUEE?oc=5"
+      "title": "中東局勢再惡化 歐股早段個別走",
+      "source": "hkej.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQN2cyX2djWnlvVFMxYzdYR2g2VWh2d1lsV1NzV21XTlNOSE9fU1BvUzJIUVUzVnhTQ1lJN0RKcVM2bU9WOTdYWlZtSnJlRzd6Y21oOG1ZcnotaUhaUXM3d0k3N3h2XzZnTFVyRjlOTGt3LWxNZXkxXy1WOGRSOHE0Vmk3MmRURER5dTZlOG83NGxpUWUxUjA0S0dnY3FBWDgzU0VEcFh2YVpobHl2VmhGUFk2T29udGRVWWJ0MVRlaTdGeVFFcEQyMUVyU1RiNUNEdEZvby13N0xFTE1zSjFHeFZwdF9DNXoyRnZaM0xXOVpVV25LNkFyTmFrZjNHNzV0TFJ3ZGNBQWtnTXc?oc=5"
     },
     {
-      "title": "英鎊在美國就業數據公布前美元走軟之際小幅走高",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTFhHVEZYY1hNZnFIbm0wUVpxaG5LcF95SHdPZkZPQ2JIdU1RWXB1azNEb241Rl9tYm1NbUtzRXJaVUloaERDbnhRUkFpaWpaMkJjMVJDRzA4TkNac2VXNGoxSGdLS0lPcldNT0VvSWlPNGpNUHpiVlVqRGdaaDBEQnRfQldEZzFtVTZGZlA5cXB5V3JVcDJrNEJnbHRtSVEteUpkU2lScXdYcXRiSEIxWF9ROUdqQXJjcEF3RkFlVVRYTVBLWVlpVi1MONIB0AFBVV95cUxQRUU3aWVFZGNMdDcxTjFjTDJlU2c0d3R1QUFOZVF0TFBCWkVtdFV4cU5NajVhd1I4dzk1ZUlQYkpNeTNEdXBNYjlKU0c5REd1bVdzZW1iMU14VDJEeWgxZWdiX0ZDcFF1WEF5Wi0tdF8ta0ZHNTR1UjJ4Xy1BT0FvYXZBNnFSZF8xVlZXcXhMamRfZUp6bEV3SE8xUFVxUVJKd2RzRS1DcDRvaXFxdG5ESk9rblRleFozM1FzZENtQmFqTHVGUjZLN3UxRGFVV0dm?oc=5"
+      "title": "美國AI落後， 台灣深念祖國",
+      "source": "bastillepost.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMDBrYmZza0swWTVMcDVIeUlEY05FVkZiMmlONXBLS080eVZ4YkdWNEpaTUhrY2FaZkJwRUYwZ3VKRkJ3NlFZVW9ERlRtTW5ET0E0YXFQbTRBdGh4SjhHdTAtOWdqOUFKY2RFWDRlTzgwS0hyZ0Y1THExdHRSY2JYbXNDZzdnUGNYUmlZT3JyREJDbjlfSVlGTFN2b3RwbWczbGpHenlqVEFNdWZyU0FFdHBpb093Y0RHdVoxWmxVUzRIeWZyRUxBMGhWeUw3WGVPdVc2VldkRmliNzZtb1lzU0xuUWd4NXI0UlNBRA?oc=5"
     },
     {
-      "title": "【重播】美國全球水兵大會 海軍作戰部長主持",
-      "source": "大纪元",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90T21ueURpbUk3STkwd01qX2FjZW1BS040eFhWZ0JtQnFZWkxRZXdoOUZYU2xHbDFQUGNRd3MyZGVQRkFFTXA2NUdnS2NDMDQwWWN6R2hmNkdzcE5Xd19JWdIBZkFVX3lxTE9US0ZVZndVeXdubEQzYk0zTFFUbUllOTRzN3ByRUpZWXVkejUwaWtPVEJOWERDRkxfOVNTNWhmd1JPQmFjZFZzdTVSOFl0OXJ2WXgzb09fQWdUVmc4ZnFwNVl1b19CZw?oc=5"
+      "title": "上合組織邁向實體執行 學者：為全球治理貢獻新範式",
+      "source": "hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zWm5UT3JkTW11SHB3alNtbzBPQXF1LXYtZ3VKMWptNnRQUWJYSkYwSFRzZGZGN1VyTTdJRlNjckdIRTlHLVU3X2hhN0ZpQlVfelhSbTJ5aDA2cE9yUWJ3S0NXWXprdw?oc=5"
+    },
+    {
+      "title": "芬蘭總統稱王毅告訴他中方不會允許俄羅斯使用核武器 中國外交部回應",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNT19hZzhLLXhWb2Vnd3otT2g4VnJiaHhtdHVRM3Z2LXpvUUEtTHhkSUg5ck1rMkZkOEFSd2ZqeWRMZ0plOFdmWlpYUXVwTzNqNnYyZFlhOW5lT0FwTmVqYk12aHdGN2Z0eXMtYW45VVp3S0dCMGI3NXZWQnlEMlFQRVVvU0VZQ3pSd0pKaS02YXNCZkNzd2N1VlduX0QzMmhxZUo2azNYLWJJVnBHZW1OaUNkMTVBMGc0dHd6OE5kUVNYRWhMSkxjLWthdDlnVjNqQWFsZWV4Z2JiZlpkcmtERGhjUUppRU5BT0VNQ2QtQkVVVFNpNHUtX3kwTDh0S0NZMnE2OXRLOHNjckc5Q0pMeXRNSl9IY1M0TXMtRExHaVFKdno5VEFfZzV5ZWp5bG92dnFrSmpwQ3paSFJyYWZnMFMybGQtVzV4RDNXWERTMC1YNHlQWUdRM2pSckdEenF1Y2VrVE1jdWFCanV6anlFSTdjMGJFR1JvX1d2OWpaQmE2UEF6UU1HNS1PZ0tkU1gybE84WTJKZjVOeXd5UEhMaDlDTjBQTjJGRmo3NjI5RnR4LUVmX0pTc09KaEM0YTJQZVV4dHFJZl9NTHlCbTV2YlhKc2E?oc=5"
+    },
+    {
+      "title": "歐洲股市持平，債券拋售潮與中東局勢升溫打壓市場情緒",
+      "source": "hk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPYTZGOVgwSlYzZDlXSWpCZGRCVFlPYU1lQU1JeHQ3UnZad3JKWXlJWTZHV2FkZndzdFlXZEpPMGNhNUw0Tnk3bkItVTdQR3BySm9BWmMtNkxmVEZhVlZ4c1RibUQzeHlMbmdYWWhWbFdlYjZlcWh6VXJBNGhNN1hBLUt2ZFduWkJNSnRYNjdISW5FQk9fZkJQcWZJQXNjTjNSMXlsWjM3YmczSjJYQUFlYnlBQjNQVzV3VlRMeV9BY01Ca3lnMWZvZGlVczFhU01zY1hUaG1HdDlpc1pYZVBpV255bGhWYXg5My1oLVN1UEdpUDViSl9KbGFBR0hlUFRhQ3A3Yk9lRk0ydWdZcGtyRjJ5NFlkMTM3NWI4ODMzck5ReWJGSnBxWjZMUkh3T19NanpGbHBmRzhKMy1NNUJTWkRlNzctWFplWnRvZEhKM2tsaEhHMlJrbGRQczF5RWt1RXNrOVJOa0gyMF82MXhNSEhVM3ZpaDNKcU5lR0hkOA?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股初段下跌 市場關注中東局勢",
+      "title": "分析：通脹數據成為聯儲局是否加息關鍵因素",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wZ1hPcEFCZEczR1U2dUFMTkRxbE5JOHJxRnlVQW05bXVKbXMzZ0RDa0liRDEySDJsM2JDcUdwaDdxU2J0ejV2a2JUeTZiQjFjSWZpd2ZpcjZDZ1IyNURDUlcydk1vbldmeXRyd3JBQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aaVUyZTlrMGxmQnJsV2V2Rkt5T0paRzIwUEd0Q3YyM09FemhjeGpCU0VuWWVjUWpaTERyTkUwNC1nVnBjZjY4VjV5dnBiU3B0ZTVRRmJhX1RqQzFrSmJTckZaTUNUUzQyVmc4OWdHZw?oc=5"
     },
     {
-      "title": "美股走勢丨美伊再交火增加息憂慮 道指挫逾300點",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPMkYzTVhhZVVSWkwzbjZhMVRyay02NV9XWFhQT2c5cTRFbXpPY1pWdWNFeVcxTUlxRFNqcjdpeFF0N1VDOFp1SENmMWg4T3puUHhjbE94bU5IR0xUSEpSU25SbDlKRE5zeWZzVWRJcXI3Smh1dkxmSlJmbG1HS19LbVF3YllZN0dpSno5bmVCdlNNYlVMQW82aXE5OUV5d1F6RFJ2SG1pNldWWWxrR3V0Z2pTcEFLY2RaQ0lNQjNJbW95aVg4MUJ5dFZmN29nVGRoVkVyVXFDdEFQYzA5QUlteDNUYVFicGh6UVlwOUczR01WMmNERnZfSllPWE01Yk9tYnJuODBGeXA5Y1RLcVN6U1NQTm55ZTROTzBNYmwzRHVSY1U1YmI4dWVwdzZUOEI4NFdTUzAxcGl3bkpRcGJsZndVUW52SExkaXUtUlNVZS1lQl9rUmRMb2JOM056WkdheEVOdmp3?oc=5"
+      "title": "伊朗衝突升溫引發通膨憂慮，金價在兩日跌勢後趨穩",
+      "source": "hk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPSG5nNU5QZUFPNGJROW1DNFhqRGx3QlRqaExtZ2hlWFlRbGszTUM4Z0thTjYxNl91X0ZUczFNeFNhM0tUOWNDVnJwZEp3b2hGUjRMQkt2aHdMVmo5VkRLekZnUjRUUVNqY0Z6RnR0RC1LeHFLV0duaExHX1E0RXBvSDRsNndaV3FYZEpObXBBam5TSzlUTG5BN0hETzB2X2VoV2VvNWt1NDNpU0R6R3NXT0NnbXR0d3FvcUtST2VpN0t1LTR4NmNPV2NRaVFBVTI3SVlTVGlwdjREME80QVlYU0VXdHBqQjdjMU5STzNIekxFaTgzY05Nb0VRbXA2bldyNG1qZ1JMTlZORUk0QzJvM2c0Vm9nY1M2TjNBcnF0N0U3bGN1YUhGWHVnY21kcE14WGMtMXhXc1BiN0w2Z1h2QlhtcmluUzdLVHp1T3MzMF8zcHYycmVGWTRtNkxoUEFNUGktdEFnMA?oc=5"
     },
     {
-      "title": "美股動向 | 標普500踏入9月，分析師列風險訊號 | 專題透視 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWV6R2J4SDRBeVRac1ZqOUVlRzRfYUtQRG1nZWhNcHNkSEV4eUtfZ2x1OFc0dkFfSUZIT1RQalRzQ3EwZFZwSm43RWMtYnJsc1dxSi1VQWJ0d2xKeW14TlduU21HTHR6VFY4aTd4aXpXWVc4bkg3WFRYUGd1a1RrdnhYTlJMLWdPdjU2TFU5VThQZmYtWFpZ?oc=5"
+      "title": "【即時新聞】美股9月魔咒發酵！標普500指數(SPX)期貨回跌，中東衝突升溫投資人縮手",
+      "source": "CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fc2piNkFKZzBiaHFGbnNMUjJZc1lpcnU1Q0dURDBkVE5BZVU4SlA1MUFkZ3liZ3MxN0Q1eFhNTUdGUlZtUWNkdk1tMm1iTEhJc3RBZlJlSkI5OGg0a1BTNXBfbjlicGc?oc=5"
     },
     {
-      "title": "【美股市況】美10年期長債息衝高至4.76厘、見近3年高 美股三大指數挫 英偉達升1%、投資聯發科35億美元（不斷更新）",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPTDhEMFVlc3VuQll0Z0FHRjI3RmhraldDTTRyRVpUbVBZZnpkNktjcTdabi1FVXA5VFlTYVJMeXpXZmltVEVrbHdRU3o3V2RoSG9xQVYtalFNdU5BYi1ReXRwa0M4OUpQUWpycGZvSFBLYXp0SmIybWpNQTVHOVBuZWZMa2lkVEYtNmRqOG9QMHg4amV1YklwaXZmUlpVekpZN3RWZUp6MTNYVTZWQjl0NTZTMmlzZElldi0ySU9QbGFTMzlpQ2FPa25uV0FvaW93SFROUDIwakdZVkhjSldVX2ZZeEdQMGFqMWJua2lxaTFfVVhXUC0wZ3VTQlNZVkJFWnBlU29HaXhLQnBxNlJnRzYySHpQZlRuX21VUmllMGdNM1Vqd2ctT0hrVmdCTmhZSkhFUTI2QlRiSExabHpGaFU1Y2pINDF1MjIyMEZCeTh3TVlFNXN3QkliWnNQOC05bzVzdkhwekhJa1doMHFWUlNNLTJyNlBEdXlYZ21XNXpZdGRXRHB3eERtTzd1eVk?oc=5"
+      "title": "最長期美債殖利率為何一直高於5%？與這些因素脫不了關係| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tQnhScDBhM2pNVXRFajdFV0lkMFhYTDJheV9STXN5aUdIclItb3hkdVktSTE5UUlhdi16N3RXVkcyNHNfZldBeklFZ3dad0lV?oc=5"
     },
     {
-      "title": "美股早段向下",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtWm5kbFMyTWJiSzBMM2xyUWtIYUhGZlJhNm1GOEJCYWpydTh2N09sYWRJeHFwZXFyd09HWTVqYUdFaDFxRVQ5Qnh4RUItWTdhTlRPVWhn0gFbQVVfeXFMTkJERDBjemI4SDZPSXdvT0tLX004ZGlnT3pCQnU1d1JkT1pVN0VYTnoweGlJbXd6Z19nSmtzTWdyMFNvMHNUclJESEJNVTROMGVSLUtnaXRRM0Nqaw?oc=5"
+      "title": "全球經濟指標 | 鉅亨網 - 金融行事曆",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
     },
     {
-      "title": "〈美股早盤〉美伊交火推升油價與美債殖利率 主要指數開低",
-      "source": "news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hOXJ6dUJBYVptb1dLTVN1d0t6dnhIQV9yMEpydWFncTVHaWxuQVoxaElZSFA3bnZtalZVZFRyZWZXaDh1ZzVtcWNGZWpLWWc?oc=5"
+      "title": "9/1美股前瞻：美伊衝突推升油價，AI主線局部活躍",
+      "source": "moomoo.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMTRQMGJ2TVp0NnZCUGRqeGZBckdWaXBkbmdqZTRWcGdJR0RoN0pfV2dxLVZjdXAyb1ZFaG03ajJCd1U3LU9zZFc4Q0FDMjlBREdPVm1HNWRQNUluNUFxRU5iOG5JRFpWQ1lTUThzRjRUVDI4TUtkbkJuUUN2RVpaTmNWWUROclVrbkF5VlVYYzBiSDdFTDFjam8ybVU?oc=5"
     }
   ],
   "events": {
@@ -82,53 +82,44 @@
       {
         "title": "非農就業數據 (NFP)",
         "date": "2026-09-04",
-        "days_left": 4,
-        "status_badge": "4 日後",
+        "days_left": 3,
+        "status_badge": "3 日後",
         "tag": "💼 就業",
         "desc": "美聯儲降息路徑核心指標"
       },
       {
         "title": "消費者物價指數 (CPI)",
         "date": "2026-09-11",
-        "days_left": 11,
-        "status_badge": "11 日後",
+        "days_left": 10,
+        "status_badge": "10 日後",
         "tag": "📊 通脹",
         "desc": "8月通脹年率與核心CPI公布"
       },
       {
         "title": "FOMC 議息 (附點陣圖/SEP)",
         "date": "2026-09-16",
-        "days_left": 16,
-        "status_badge": "16 日後",
+        "days_left": 15,
+        "status_badge": "15 日後",
         "tag": "🏛️ 議息",
         "desc": "聯儲局公佈利率決議與最新經濟預測點陣圖"
       },
       {
         "title": "美股「四巫日」(Quad Witching)",
         "date": "2026-09-18",
-        "days_left": 18,
-        "status_badge": "18 日後",
+        "days_left": 17,
+        "status_badge": "17 日後",
         "tag": "🧙‍♂️ 四巫日",
         "desc": "季結指數/股票期權期貨集中結算轉倉"
       }
     ],
     "stocks": [
       {
-        "ticker": "EXE.TO",
-        "name": "Extendicare",
-        "type": "8月除淨",
-        "date": "2026-08-31",
-        "days_left": 0,
-        "status_badge": "今日",
-        "desc": "8月份股息買入資格截止 (Ex-Div)"
-      },
-      {
         "ticker": "GOOG",
         "name": "Alphabet",
         "type": "9月除淨",
         "date": "2026-09-04",
-        "days_left": 4,
-        "status_badge": "4 日後",
+        "days_left": 3,
+        "status_badge": "3 日後",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -136,8 +127,8 @@
         "name": "Nvidia",
         "type": "9月除淨",
         "date": "2026-09-10",
-        "days_left": 10,
-        "status_badge": "10 日後",
+        "days_left": 9,
+        "status_badge": "9 日後",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -145,8 +136,8 @@
         "name": "台積電",
         "type": "月度營收",
         "date": "2026-09-10",
-        "days_left": 10,
-        "status_badge": "10 日後",
+        "days_left": 9,
+        "status_badge": "9 日後",
         "desc": "8月份合併營收月報公布"
       },
       {
@@ -154,8 +145,8 @@
         "name": "Extendicare",
         "type": "9月派息",
         "date": "2026-09-15",
-        "days_left": 15,
-        "status_badge": "15 日後",
+        "days_left": 14,
+        "status_badge": "14 日後",
         "desc": "8月份月度股息現金入帳日 (Payable Date)"
       },
       {
@@ -163,8 +154,8 @@
         "name": "台積電",
         "type": "9月除淨",
         "date": "2026-09-16",
-        "days_left": 16,
-        "status_badge": "16 日後",
+        "days_left": 15,
+        "status_badge": "15 日後",
         "desc": "季度高息除淨日 (Ex-Dividend)"
       },
       {
@@ -172,8 +163,8 @@
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
-        "days_left": 29,
-        "status_badge": "29 日後",
+        "days_left": 28,
+        "status_badge": "28 日後",
         "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
       },
       {
@@ -181,8 +172,8 @@
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 30,
-        "status_badge": "30 日後",
+        "days_left": 29,
+        "status_badge": "29 日後",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
