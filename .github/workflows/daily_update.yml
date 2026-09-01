@@ -1,7 +1,10 @@
 name: Daily Data Auto Updater
 
 on:
-  workflow_dispatch: # 僅保留外部 API / 手動觸發，刪除所有 schedule cron
+  workflow_dispatch: # 保留網頁 / 手動觸發
+  schedule:
+    # 每日多倫多時間 6:00 PM 自動執行 (夏令時間 EDT 為 UTC 22:00)
+    - cron: '0 22 * * *'
 
 jobs:
   update-data:
