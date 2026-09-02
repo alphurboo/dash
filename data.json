@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-01 22:07:51",
+  "updated_at": "2026-09-02 11:15:20",
   "gas": {
-    "current_label": "9月1日 (現行油價)",
+    "current_label": "9月2日 (現行油價)",
     "current_price": "183.9",
-    "predict_label": "9月2日 (明日預測)",
-    "predict_price": "183.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "9月3日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "星二代開學｜盤點15位星二代就讀幼稚園/小學/國際學校名單及學費",
-      "source": "hk01.com",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPaExKUE12bWhNTGRTRTBKcG52OVlQXzNfczVUZURraXZpVFAxVE1zSkxoNjB5eTd6YjgwMy1nWVVuRnQwOUpuZ29SbkhlMDdzZkxYejg0SFZMTEMtaG50QVQ4MnZkODB5WWsxenVhSzYzSFJPZUJwdnFNcF9VVlZ3eTRZUGV1Z1V6alBZTU1SSlBRY0trV001cU1lWGN2QzFNNXM2X21QQ254Nkdtd18wZW0yMWVNZlRKU0FUVVlfM3J2aFVQQ01MQXdXQlVmbFFsMG41U0xnSTBqcWxZU1p0MDNTaUhfcUhxRjl0VFFkdEp2cHg4UXpiRjNGVVFyWExaWDhKUHZQU1A4YWFmT1RZbncxMElKclZkcnUtVDlkXzRSSXNPWG1taC1pOHNGaTdrZ0h0QVF1dWRSdHFrbWNBRWpjS0stLTdDWGtZWHpNS2JEN2hZUnJ6Rmhtb1dTdEk4ZzgxTFlFZnU2Ui1Wajd5M1hwdldtQzZXTXJMVlQxS19OX05JUFZWSFlXeUNWd3RQcmxfTVpJaHU0bzg4Y3llZDZGUE1LR0N6?oc=5"
-    },
-    {
-      "title": "歐盟高官反對讓俄參與G20會議正常化稱時機未到| 國際焦點| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ULS1udV9XX1pMenFwMWVkTFBVbTRzSnJZTkczTFdFbFlFZFRmUm40ZWFHTjhrREl6ZTJ6RXgxTko4ZmdIRDVDd25pTjdFYnpx?oc=5"
-    },
-    {
-      "title": "全球債市到底怎麼了？油價、AI與美國40兆美元債務同時引爆",
+      "title": "中東供應風險加劇 歐洲天然氣連續第三天上漲",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNcjdCbjlMS3h0WmlfSEJ0RHJZT2FuUzMwZlFaai1HM21oRUx2cFhYbl9KZ1I3WnpxM2dGT3pmcFZra2hSVDRFTmVCSzJGMGhnXzJHRHgwaGxRRS1jbzBVRXVMTXBTYnZRelVjZWhYNTRSaUV3S0ZtM1pzN0lfNk9kVGZJTHJVNlFNNFdLeWRORk5FYm5haHZxRFhRT0UzNGtMRzhEYjNmRlBtOVpPS1FfUzVrRmdqR0F2V3M4dlFQMVhUcE95RHdKU2pXYmxBVkt2ZkxQS2h1M1JLSFNTZ2hiYm5sUVRTV1UxUVZ4Rnl6U1Bncy1tZUtPc3Z2NFpVLWVQeGg1Q09kdWhCeUdiZUNoNWxpci0yUjd4bThlSkxCa084S0pUZ3V1MGw3NnJvaVQ4bjRqaFV1am1UelMycWNMcDk5X2xGMUZTVTUzMmtJemlCTGFoRlpIYzNOdjZIRWFDWTVLT24tM2pJVGVyNDk0RURiMjVsaHBHZkE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRWRoVmlOVmYySkhfSXVYMjgyaE5ULTJaaXl3ZEZVR3JCaHFKYWVaMXJEdUZFNVJleU5DYlo0MUhQelhwWXdJdjZUSXExbmQ0Y3JXcGQtVU9FOHljMXV4V0F1WUVTem4tYTVDTUpmdF9xRmVJMFJRUXJtbjFESnQ5UDhPRVkxeTVpbDkzdFYyN1BTdlpIVV9uSDJwdG93My1qQ3MzTldGbFJpVWJSNXZhb3JRWlZMX2tkVkpxbnAtR2xUMWk2b3ZvM0FsRjRObzItRGlISlJfSm1ZLWtUWVJZVHZUTnRNbGktdVlWc0VFOF9MTEY2MHJBOUp5Uy05Z3g0cEVpbUVoUVl6U2ZWcjUzYnhpMl80RVFGdkxWMEtrNE9qUEhnNHdzN3p6eTE0dElDS21UamVKMnB3TVE3MkU1MkFuOUhYVmVXNkFEa0hJcw?oc=5"
     },
     {
-      "title": "Jollibee國際業務擬港上市",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNHQxVDRkMldwckpSdVJ3cWhKeWRXaE9NWVpyVGNNempLcjd1VnB0bzNxcWFZcjAwZHZvd0tfMU5JbHI5dHNKN3Y0RjNXRjdaNUJDbHloSEJmQWk3SEF1X1RsMVRWY1FZY2Y2TVlUd0lOOGFrTk1JSEtYcUdPdUpSY2M1LU83aUZfWHlfMnE3MzF2TjU3cmJmZWxYX0dTMENYQ2VNYkZjX1VFLXJkZzhvMEt6NW93VmZSTktGNFNFam41a20tVEFfQ0NpMFg5VEd4d1E?oc=5"
+      "title": "行政長官與教資會成員會面（附圖）",
+      "source": "info.gov.hk",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzemVTOXhteXduUnhPa2dZTkJkWlRGRHk3eExIeFpzSGFlZTFucV9LLUhCVUpOMTZKRlpKN1UzdUZ5dmI4eERwbXNySTVMWE9CNjhLQVNMeFhwdkVaLWEtbnlNZDZSOFVxTEFaXzRDMGxDdw?oc=5"
     },
     {
-      "title": "伊攻擊中東地區的美國目標後 美軍再次還擊",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQSFM3aDFYRVJGNExaRWtHdnRCbHFSYk1wVXJqRzNOekRoTzA4SFBXTnRramdhYlUtTGRmTlFhSHllSFktTUdRdFBiUmVxNHltb3l0UGYxNy1NNEc2MGlNRjMxNTJHSzlrQ1BtQURmVURjUFN2ZlY4OGl6LUI4UTQ4WG1mUjVFZlE5ZFlJUmVMSU4zeHdEeDB5NHlaaW5hTXhubWhhYTZPa3ZlUWZOc201UTk5SDBoTHF6ZGwzSTk4X09wVGZnbHFHc0VyRGM2RFR2Xzc0bFdwTVhSOGZCQ3UxZzBkUFlWQzdLZXpGeHpBbzFvVDJudTd4UURRMlF6ckNJR3RXMXEzWmxGdUJJZlNRSjM1R3lURW1NMmNuYkJlSWZLNThfaE9rZ181dkZQMWFjZ1k5YWpVR2FxekQzcGtsQmxTcG0?oc=5"
+      "title": "委內瑞拉石油讓美國公司開採百年 分析人士迷惑 國民震怒",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xWmhjWWZxenpfWUhyWFpZUTgwWEpzZGlzVWR4N0VIc0Z4MHl5dzRPeUh3OFlFQ0I2dFdZUVVxUl9kNkZMX3NRdkxCTDFmbUZPa3oxVkFBWDlmMUNfalFkSHduQTJpSjlzak5V0gFrQVVfeXFMTTFaaGNZZnF6el9ZSHJYWllRODBYSnNkaXNVZHg3RUhzRngweXl3NE95SHc4WUVDQjZ0V1lRVXFSX2Q2Rkxfc1F2TEJMMWZtRk9rejFWQUFYOWYxQ19qUWRId25BMmlKOXNqTlU?oc=5"
     },
     {
-      "title": "今日外匯：進入美國勞動力市場",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHMzZWZUR0VNMXhHaTByY1l1M3BIMDFxb1duUjlRX0V6SzFudDQzdkZObVNVVzB5SFdWUV9sR1d1a1NhcXJ6a1J6TGpRZ1ZSZ05pM2VXOWxOcVo3SVJEODdWWUhCQVV3X09SUThtNk1yeXpBdHYyc0xSc2MzbncxVnpGR0dFbGtxeGJ1TFl4VTFuWlc4dTExV9IBngFBVV95cUxObEV1NGtOR3pycTVEeFBZdHRwZnBJZXdZd3RmMUxhaHEzTktuOHBIODZOSzh3b1VReHpDeXFJTGZXSWdxei1PMFI3enQxaWQySU1JOVp1X1B6akhyRkI2SXQzQmJSanQ0Nlk0a3pOOXd5SkZxV1VGcWRLS28tX05RRjFHNFc4M3l5Y0t3NkdGOVBIajFaUEFzdEEzbm9WZw?oc=5"
+      "title": "美國與委內瑞拉達成油田協議：俄羅斯及中國被排除| 蘇菲亞",
+      "source": "獨立媒體",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOOXpiTXpUXzJydWRZLTVwLW9QRlo3SVFxS3I1VUN0WjhhSzZjLWE1anVYWGJQeVNjR3hNMmpDWk9OWTlqVW9hMS1lR1diRlhBVjVud29hdTNxOVpHaFM0SnROT3owOGtIY2Y5alItWmQtYXVqSndjZnhoRWYxSXQzUFN5eU1uSlVTX29kTGNlUjNjeUhRVllzQkNDUTlLcjVUYjFOR3VwQ283Mks3MERnYmdUcExYdnJTMjdXeHZyZFhIcjkxOG5GU1ZnQkZ4NlRKZEVucGFVN2UwNFdVLTExTEdRTzFJeGowYnk1Zmt0b2hyRVM4TTdXcF9JVWhydC14cVB0cVhnNlBuNjd2Ynl0bThVVng5ZWJ0dDlWRXN2ZU13VkFhbEVMdlVyamJEZnJmMFlNX2lVS1d0SHVtREd4bXRaNXZkNW9aaDloZlV1cEVRazJzUUhYYXVFbzlwYm5nMy1xWnpmNzJIaDlqaFliWndlVQ?oc=5"
     },
     {
-      "title": "美軍猛烈空襲伊朗！川普警告：更大的攻擊還在後面 油價暴漲逾4%",
-      "source": "news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YaDN1WWotdkJLQXFib2hsMWs0YU05YVpKYVdPZW5wZExkc3l1bk9EMTZ1dU1UQzJURF82b040YUpfbzRDSkEtN1BKdHZnNWs?oc=5"
+      "title": "歐盟將加大對烏克蘭的支持力度",
+      "source": "hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXcEQyWEtCS1Fwdk1FNkpIUTdqUC1sUVF2RldvbUdJU3VCLXB4Tl9tNkFVdnJsQnc5SUdiRlUxV012RjJ2aVZjd0N4VnNBUmhickNpTEJ1R2xVbVpEbjE0NDVDREtRQQ?oc=5"
+    },
+    {
+      "title": "全球氣溫升幅料幾年內逾1.5度　聯合國籲迅速減碳",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55MlJCVndmWWotTXRiTU10eDBzOUhxV2pYazEybFA1WVlCVVppWEQyOEN3UGhyMEp5UGU4b213Q2pjM0VOTm41d3RxT2wxZ1ZTRm5razlHUGxXZEtxMVHSAWNBVV95cUxOcmJzNjA2SnJRc1Q2RHZSZmdfS2tzbWJjRktTT0k1YlUtWHI1amdNUXF4ZkVJRUlxQ2VIMnZLQjVNbU13YkNTejVqNmdGZnR6U0xxZllETGdtN3dXM2c2VVprYUE?oc=5"
+    },
+    {
+      "title": "越野王者強勢回歸！三菱全新世代旗艦 Pajero 震撼全球首發",
+      "source": "Car1.hk",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEdFSUdKZGpRVjIwTWhxY2ZURm42a2ZxbUlJaXV5bFZCNWtlOW9XMnd6a2RsSmVrVkYzYnBCNnB0YUN5eHNMckxLMDJUWXktM0RYZGN1d3dWTV9nTWdyX0VQMURYQllkd3dQd0d0WHVwTFpyTE13ekxuSmtTZDdUZ0VDbndhUQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股走勢丨道指收市跌419點 納指挫1.03%",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORDZsanBaZV80UWd3TkVrZHQ2T1FLOHFGSWxNSU5oQUJBY3FQeVl1XzhXZVJIVjBHbk1WczY0VGk5OUp3SHNXOGZOckpTODREcmxvNUx0ZF9HUnJtMXlkRHVZalJUUWR5TzdoWTdHZ0VSZVQ4Q243aHpxeWo3N29vLTUyZ1NLaVk1TGY1dGMwSDB3Z0sySWF4SDRPNTQxYkJmZjFBVjVza0VsMHFFWGhUM2NTNks0azBmUnhVTmdVdzBIYy1RT1g2TDIzQXVXd2VjMDFWZjBWX1ZkNDVGWFRrM0M4NzdMWmZ6eElSZXVZSDN1ZGs0dGVJWHF2aWg0NGJqeU1SMkJNZWxJbmlxS25iNXhIcnpDQQ?oc=5"
+      "title": "【名家給力場】美債息好難壓低？(上)",
+      "source": "finance.now.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zbjJFUW9mYTlhMnhWb0RUU2JVYUhRNDFXNlpLMWVfT0VSTVJBa1pxR2ZkckM1M3RxaWVlajNkTmliclA5V2pNMXQ4MXZfSW1mVWdTcnE2LVBRdXc?oc=5"
     },
     {
-      "title": "【美股市況】美軍再炸伊朗革命衛隊目標 油價齊越90關（不斷更新）",
+      "title": "伊朗遭遇新一輪襲擊，市場震盪加劇，標普500指數（SPX）進一步滑入負Gamma區域｜期權市場數據",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2VKSTFlVmd1TmgtZjMtZDZWd0ZxeWVuRzBJbFFON2h6Y0UzWGFaSm05MEk3czFzazZIYjNydTVXQVZIMWVpRElaT1FkNENRZXREQjk0amV0MUtBVVFaYWp3YUkzVjlmUnpMeHBnMElzV1JUYWtyVmxTV19PS2F3SUIwa2Y3WjJTRlFTZzFmTThUQkZGV2JDRHhhWFhZUkw1YnVqSlUxMVhkMGpoUGItMWtjM3pEZloyZ3pQMGRR?oc=5"
+    },
+    {
+      "title": "【美股期貨】小非農ADP公布前道指期貨升23點、納指期貨跌0.2% 油價再升金價續回軟（不斷更新）",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNVldidWJ5dGsxMEVTMnVHd0JWSkNDbFo1ekV5N0ZrSW9seWtjaW90S2w2R2VSWkVxUHhNT0NUX0JIVmNUMXNEaWozTUVxWlJkN2VBSEs2SzFUSThQcDVmWFNHYVRrajhIUUZsSVVMWmZXTmJoa0pLYkFGUmRSaW9yRUNqaHpIZnJwUk5ZSVFmRzRYb3FBQVJQRk8zNDRQbzY3Tm0wcENXUDgtbERsdHVSbF9jLUFhc0Q1SFN5clp5WkpTaU1lX2ZWRmRPNERuQXVXNlZ4VFZlZjB5VUd3MW9kRmNHN2tsSXNkdC1qTGxDOHV3cmFqYkVSWTNHNjg1S3RuOFNGVmx4V3VaQ1M1Sk9NNFVQeXJCTU54bm1McVhDN1lJdjMzUmF3ZE1mcnZ1V2E1M292alhxQ0p0QzJCcFA3UXZOY1R3bFpEOTFFc3UtdkVOSlJEbHVsRFBkYjd2ajQtdlFIdTltcXM0RkhqUjRjQlI5bE5lWExiRmVGYmlfLWpia21BbXBNZFllM0JhVUhpMVlGMzg0SGRzY3M?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxOYjNXS3RNbmt3R2pReGtvTG52eTNoRDFVektESGhDaDdsY1lrTlVRV21NRU1ER2t4WG9NQXF2TmZkZEJSZ0hWWVhyVG54bFJOZ1BoOEhtdnNrbFFYT1RVNXF2Q1NRYjRWRDdBNGF5bEJOUkFzeHhaNUloSjJJZm00RzI1V3dtS3lyTEh3US04c1BnTWpxazZGRS1DU3Y4VXFucmxtU1VCYjlhMWNxQVFYbk1SZDVkNkdnQ0ptM2hzR1RPbHdNS2dDQ3hkZXhpWDhibDBfeng3ZGVqQUkwRko5TC1qTEhKWHdUamRJN1FSWmRmbTJHNk16Q1JsZHZndlNyN0ZrQ2tQODZ6TlBYMGs4QzYxN0Z5VFdsT0ZpWndWYzRnUGp0OUxJaFpIaUx6ellZbXJpSjFJZ2ZYVmJwZ0ttdUZBVjZQeEoyRFp5cGZqOHBVNkRMcTNQRlBRcTNhTkhneWxpRER4UThIZTdwYWtoU1lXOTUtOFVRYTJEVVdQcWRFZTY3cXl1M1hSOGctVDZIdkJNbnNOaExqR0JwNzB0VVFDLUQ2Y0ozbWlwOG9IemhSbmJ1NXptMG56YUhRRmlhRzFxMGpjQXp5N19sRHJFZ3FzWTZwRWFOeEhWRzFCenl0X3cyQjV5cm1mTTNOU1ItX1FSdTNoME5BWG1tV0lZMGtjcDNKTnU1SFlPbEhjVFNmb29PMk5fY09QOURWNnpxYzduN1lJVldDblRoMk5WSkVTOUhpRnN1anFFVHFiejY2SEZXYmdSaw?oc=5"
     },
     {
-      "title": "標普全球股價上漲，市場傳出CapIQ可能分拆上市",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcVFJZ0dUT1lMS2RRSm45SG14TFZ1ZDMxeVhqX3NvM0NNM1A5ZzhOZ1djT3ljLVh1Y0hwb3owOUlTVHM1X0cxLTJSRkdQUVB0ajRzYkpWYzFXMlhFQmdvQk1aVTlEWWRiZjVrQkJLZFV4V2F3OUxFSXZQbDBfUHA5NThOZFB4ajVfcm9pQkF6a3o0M1liOUR6bzNjVVdzbVBVNW9seWphY2MxZ0hHSHhoc0JwT2V2SlFwSmpuWVJaNjBGdWpma25mbFZqMlVNbC1kNERjUDRkNHlKQzRqM2ZHZFEwdGloYzlCRVdzdTIwR0hzVnZXcHNMQmhfZlNoTTV5UFA1dFZoS29kNXdER2pmcjNCWXQ5NmEwaFNxR1hNRndSSThMeVdDWXNrRlJQVFplek9faDh0Q2REQW15NXc?oc=5"
+      "title": "美股開市前，黃金、比特幣齊跌，布油升至95美元！10年期美債收益率創三年新高作者Investing.com - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UYm1TSmYtd3BaQXZDOGJZYTEtQkEyWG51ZjliS1p2ektDOUZteHFHQWpXVFZZa3lOblJ5MEhrUzVDeWp3c3d3SmVXMHo5TjJ0UHE4dU04enBnVW1pdlVwZTlIbHBkSXZUZ2NpeTE5VC0?oc=5"
     },
     {
-      "title": "全球經濟指標 | 鉅亨網 - 金融行事曆",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
+      "title": "葉文瀚｜五厘美債真的「穩陣」嗎？",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFlLMnR5cmRoVEwwLU83bEU5ZVdkcDBmQVg2TUgwQWE4d1ZDM3BIRWpJZEhxNWRId2JUb1VGX3djR1EwWlA4YkVyQkR2eW43dGR4QWo5N2J6czM1d0p2M1NNMGhRdzJhaTlfNmZwSU1odTR3NWsweFlxUVRkVEVzZHdueVNMSkJoQXpBMGdFNXN1cHh6ME94UXViWGNXVHBBcFVDeHUwLWJPM0tZNFJMV0hWVVRCZm5VR3JWWFFEeGU4T3pHcjVvZFFZNVZZcFI3cG9XQVFfSmlmdzMtQU1PV0lDYlRhWmVrQi04Uk5YTFIxQVR3?oc=5"
     },
     {
-      "title": "殖利率飆新高美股為何沒崩？華爾街神諭算出美股耐受底線",
+      "title": "天下晨間新聞：殖利率飆新高美股為何沒崩？華爾街神諭算出美股耐受底線",
       "source": "天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OcjVDd0stWGpTTTdHdGVyRXd4aVB0V0Nhb0R1YWtIbW5oU0xMS2VtU2xHWVdLVUh6LV9FcG81M2lPSlZnX2RLcWUtQmU3M2dZaEx3NndCZHBoQjQ?oc=5"
-    },
-    {
-      "title": "美股三大指数集体收跌，COIN跌超5.96%",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tRHVTT3FQSzM1TUlQSW44NFNiZ3dseHNEelZHYjQwVlFXbUZCM3RfdXg1UHNKTG5XLVdObmtnUG5Cb1ppTHVtMVFTR1ZiWlRwWkQ5a29iOERLV1JjekN5d0djLWxkQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiMVF5QXBhS25ESHl6VkIxNHR3TjBTVzRVSWUxMDdWUVBiRUN1VkpIRzlxUVlqRGJlTklfdXUwci1vTzhkMFdVc3lDM29OUQ?oc=5"
     }
   ],
   "events": {
@@ -82,32 +82,32 @@
       {
         "title": "非農就業數據 (NFP)",
         "date": "2026-09-04",
-        "days_left": 3,
-        "status_badge": "3 日後",
+        "days_left": 2,
+        "status_badge": "2 日後",
         "tag": "💼 就業",
         "desc": "美聯儲降息路徑核心指標"
       },
       {
         "title": "消費者物價指數 (CPI)",
         "date": "2026-09-11",
-        "days_left": 10,
-        "status_badge": "10 日後",
+        "days_left": 9,
+        "status_badge": "9 日後",
         "tag": "📊 通脹",
         "desc": "8月通脹年率與核心CPI公布"
       },
       {
         "title": "FOMC 議息 (附點陣圖/SEP)",
         "date": "2026-09-16",
-        "days_left": 15,
-        "status_badge": "15 日後",
+        "days_left": 14,
+        "status_badge": "14 日後",
         "tag": "🏛️ 議息",
         "desc": "聯儲局公佈利率決議與最新經濟預測點陣圖"
       },
       {
         "title": "美股「四巫日」(Quad Witching)",
         "date": "2026-09-18",
-        "days_left": 17,
-        "status_badge": "17 日後",
+        "days_left": 16,
+        "status_badge": "16 日後",
         "tag": "🧙‍♂️ 四巫日",
         "desc": "季結指數/股票期權期貨集中結算轉倉"
       }
@@ -118,8 +118,8 @@
         "name": "Alphabet",
         "type": "9月除淨",
         "date": "2026-09-04",
-        "days_left": 3,
-        "status_badge": "3 日後",
+        "days_left": 2,
+        "status_badge": "2 日後",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -127,8 +127,8 @@
         "name": "Nvidia",
         "type": "9月除淨",
         "date": "2026-09-10",
-        "days_left": 9,
-        "status_badge": "9 日後",
+        "days_left": 8,
+        "status_badge": "8 日後",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -136,8 +136,8 @@
         "name": "台積電",
         "type": "月度營收",
         "date": "2026-09-10",
-        "days_left": 9,
-        "status_badge": "9 日後",
+        "days_left": 8,
+        "status_badge": "8 日後",
         "desc": "8月份合併營收月報公布"
       },
       {
@@ -145,8 +145,8 @@
         "name": "Extendicare",
         "type": "9月派息",
         "date": "2026-09-15",
-        "days_left": 14,
-        "status_badge": "14 日後",
+        "days_left": 13,
+        "status_badge": "13 日後",
         "desc": "8月份月度股息現金入帳日 (Payable Date)"
       },
       {
@@ -154,8 +154,8 @@
         "name": "台積電",
         "type": "9月除淨",
         "date": "2026-09-16",
-        "days_left": 15,
-        "status_badge": "15 日後",
+        "days_left": 14,
+        "status_badge": "14 日後",
         "desc": "季度高息除淨日 (Ex-Dividend)"
       },
       {
@@ -163,8 +163,8 @@
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
-        "days_left": 28,
-        "status_badge": "28 日後",
+        "days_left": 27,
+        "status_badge": "27 日後",
         "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
       },
       {
@@ -172,8 +172,8 @@
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 29,
-        "status_badge": "29 日後",
+        "days_left": 28,
+        "status_badge": "28 日後",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
