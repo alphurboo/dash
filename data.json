@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 20:15:17",
+  "updated_at": "2026-09-02 22:08:57",
   "gas": {
     "current_label": "9月2日 (現行油價)",
     "current_price": "183.9",
@@ -10,14 +10,24 @@
   },
   "news_world": [
     {
-      "title": "美國7月工廠訂單按月增長0.9% 高過預期",
+      "title": "油價升約1% 憂中東局勢影響原油供應",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yRE53UjlxUjVXZVRLcU95WXEzY042TnJUYWRZQ2d4amR1aGJZOF9Ed0pxQUl4TVUxV1U2SXlFUjNRdEZkbW9rU2ZDTlpHYlpuTjk2WmRlSTAtMjNUVmpaUWpFa0RQcmF4N2dUZ3pNaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xdlZQUjU2dlZtUS1yR0VwcElBa0RaQXFrMEdmOXdnUXE2TXRLd1pGM2JBd0FYSnFLZ0puQ0c1dkNQXzR2UkNIcDluV0NHalA4am8td0lrbVJhSDhFOVlub0tJZDZtOE9ZRVc1LVJiaw?oc=5"
     },
     {
-      "title": "美國民調：近90%美國人認為政府腐敗普遍 比例創20年新高",
-      "source": "hk01.com",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPYXpWbHNJUUVpUGhDMDFHS0JCaWt4bDdyYzNpdlZyYkcxQmd2ZGFEOGdiMURidUUyQzNneDNoR1VUVnQxNVZhR3E2STVIdU00cG9TVU1kNTRoSEpqbXczdkVsQWltbkNSem9WWk5GY2hBaXM1Wjd1bXhlNUx4MWdBdGRrQ2F0Q1NZa3FRcEpOaXpjbUU1N2J1dFRtcFdzYzhVNkxTQzlyNzVyN3Z2YS03d1F6Vm1zOENtT3R6QU5VRjNGT3NDalltb01QREFOMkF2YjFoVzR2RlNQWG9RdzJ2Q0Rua0czbGdhUHpEcTlQNF9YU2ZRMF9nay1MaW9JQ2prZVpNajlWZG1KeTB0dUFCaGtsSEdFdV9FZWFORklycjgyM1U3amp4U0YyR3NQUmYwaDlWeFNYX0NnWU5PUnJaNUFLa0UwVEE2dkFmSUFqRzhzdWp2aXZZd2NSMFl2Y2xXZHp4Tk1ER2h5REcxZWdnUG9Db3B5WGdoTThfZUthVGIwUzFteVZj?oc=5"
+      "title": "深度分析：美國財長「工具箱」似已見底 日本「早苗經濟學」陷困局",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VUG54aG9hQXBNcjAxSnNfejBMbTNrVFd0WHYzRm0yWW53dlFaWU0xaFlzU0hJdFh1Y1k5a2Jmc2pwMTFIa3R1WHdnbzFwNVVCaUpIZXQ5YzQ?oc=5"
+    },
+    {
+      "title": "G20財會閉幕 中國反對全球經濟失衡 大會無共識無發聯合公報",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPWXBlUEJaZTdvQ19HeHpHWHBzSlFNYlhRb0xuQVp5NjVnTzI4XzZnM3Qya2ZVNHQ1My1hampaZTV5X3UwTVVxVjltUmFjVkRNeGhMeWwydTBqN1pCZ2FOUzJUUzROUl9JUm9vMG84RDVxTkhiLXlkWmtxeVpadUo1dUczVVBEQVdWeWVOWFN6YmNiTWNwTHpiZzV2Z3d1M0J5Ujl5U0lua1pfU0sydTE4OE81bERMMGJaWi1Tak81T3NrNEZGbnlBcWJZaU1RbTBtWW5aVmZaZlFqdDNyNURvcUJobjdrRHBVbWYzZVJ1R0xkZHgxT2d2Ql9JVzVBNDBDQjVJOWd6VlVyelhIeFVoUmxCSEx2OUp4MDU1MTdLMjBvQUN0d0JfbmlUWTI2bTRZa0NpZlNPQTBUdVk0ZkJHUGF5cEtWRm1wN1FlOWZxTGNIVzVJdG14YUZrbXVZckhoNTdkSXFIalZfTnJVc2tVcEhWX2VlUWNTallXa29vejRlT2lwazVfME1aQ1Q0TWh0RkE?oc=5"
+    },
+    {
+      "title": "中東最新局勢發展- 國際",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3c2luRDAxQWtPV1ptdEFxUTRUdzJhd1FWTkhjWlB6UDhCaEFvX3dhbXk0N3RSX1kzaUdWVWotNU9uVTdIQVUzaUdnQWtxaU9ndm1xc1N1dndub3NseW51TGRIWndVX3ZNcTAyVFFzS3daQ0lR?oc=5"
     },
     {
       "title": "中東局勢丨特朗普:提議將霍峽更名為特朗普海峽",
@@ -25,46 +35,36 @@
       "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPbnlIMnhuRnFpRU52Q1ZWalE4RkRMOWswTUV6bVJuR1VxU205MUtpQnpfZkFoU3htbmswVjJNM3FGcGlNZDNldVREeFBHTXZkUFg4Tk5aVmExUjhBeUsxNFczY0I1ZUNva1hrc0NkdVVpQ0lBVlpZSDZTQ1p5b004TDZ1RUdZUHBaLTZvWWZ1Y2J3eFF3UkVveU1iLUZIV1diVFpJZ2dhUk83UmpFUUhCYWQ5ZGNIVWRsLVZxdVZ0WXBKZEtmcC1BNjBvZ2dHTm4zNU9tS1dkaV82ZFprSnhrWkRXVmRTME90cnFKSnBCbmxWWjlsblBlY2xZRUtUNmdYMGh5eURqSGFaWjF5TkU0aG45anRJdmE3MGljOGZuWFUtNFQzbFdfR0NwM0ctYXJUYjRBU2o5QmJMdWJUaVFOaDhtMEY3cnQ4aE5RZTd6SDI4UWVBaEUwVEo4b3k?oc=5"
     },
     {
+      "title": "萊比錫機場事件：歐盟考慮對俄羅斯實施新的制裁",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQRnk4OElxSU9nNWg2NjVYdW00aV85aklvVWR6WUN6NzFaMWYtNDZYa2VGRGhRUkwyMHFUQ0hPVk9OU1lTYWV6aUFTZ0tlZE5ZTlgya1BoZW14Tjd5Tm9GNkdyUDRsQ0hRNTAwMkNUdFBLbC1lYVdUTzkwYkhnRjB2WjQ0OWdGUVNDWWhPUG9VU1VHVGtQZTktTWVjNnN5a3B5c3JhV3FpYzd1SVJuWnBXOGxISjJnd2JRSmRmNFBDWU5LN0VrLVBJbzllZkxNU3JvdjhvaVpWNUxkbnVyN1EwZkFaQU5FeGFrVkdkZTBSZHhMeTh4R1dSTjgwMVVTS0FYTTUzak1YSHppM0tRejBsSGEtc0ZtZUlyR3pqbk1vRk1OOWY0TXc5UlliaXRaYlVFX04yOE9GUkFDRHJ0UTBZVWZjOTVHVUFhY2t6UjljcktQLVg2anZTZ3RDc2g?oc=5"
+    },
+    {
       "title": "相隔10年習近平再次訪問埃及 北京尋求在中東建立更穩固立足點",
       "source": "DW.com",
       "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQTmllTzV0M3o0aUtLQmNJLVVqWWVUeDFrQ1REdE1SX0dJSEZfWVdZSWhTU3FieDNMZVA2SWcwTFRoQncxZmNBX2hRVllYc0hBYkJTNHRjdHY0VUlMVVgzaXlEdS1veUZXWXRCandfSVEwOVk1X2JkSjJMTGtSYnlnbjd0bEU4N1VrLWlpbmphRWYzVVBMakRPY1dHQWF3aGtfTmVYd2JzN0pDN0U2MGJ3akVDUnlMWWtJcTl6eHhqZXpnVmRUU2I4dVBFT21GTGJrNE82UGpORUNRa3lSRWpVWnRNamhla1pxYzdJVGk4R1hPZmFDZjgzYXVISHFEQmNGdHllZUVtY0NkNmZjRFFWZ1AxWVN3cWZXcHZsUFBUb2x1QllyTXZIMV9MT0M2LUk0b3VqOTJzbERWdFhMLTI0dUtyMC1LOVl6dU9SWU1NSXd6alM5emhhZHRucWE2V191OERyR1loNXRNbUpkajZidnB5TExVUVdmaG50R2pQeHdVeGl6bGdTckFUclBrb3B4Um1Ca1NNSdIBlwNBVV95cUxQTmllTzV0M3o0aUtLQmNJLVVqWWVUeDFrQ1REdE1SX0dJSEZfWVdZSWhTU3FieDNMZVA2SWcwTFRoQncxZmNBX2hRVllYc0hBYkJTNHRjdHY0VUlMVVgzaXlEdS1veUZXWXRCandfSVEwOVk1X2JkSjJMTGtSYnlnbjd0bEU4N1VrLWlpbmphRWYzVVBMakRPY1dHQWF3aGtfTmVYd2JzN0pDN0U2MGJ3akVDUnlMWWtJcTl6eHhqZXpnVmRUU2I4dVBFT21GTGJrNE82UGpORUNRa3lSRWpVWnRNamhla1pxYzdJVGk4R1hPZmFDZjgzYXVISHFEQmNGdHllZUVtY0NkNmZjRFFWZ1AxWVN3cWZXcHZsUFBUb2x1QllyTXZIMV9MT0M2LUk0b3VqOTJzbERWdFhMLTI0dUtyMC1LOVl6dU9SWU1NSXd6alM5emhhZHRucWE2V191OERyR1loNXRNbUpkajZidnB5TExVUVdmaG50R2pQeHdVeGl6bGdTckFUclBrb3B4Um1Ca1NNSQ?oc=5"
-    },
-    {
-      "title": "歐洲股市收跌 中東衝突加劇通膨擔憂",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNU19Vc1dUamlCSXV5S0lXVUxzT0JyZzZ5Z1EtQldkRHl2LVlOeVVvRHdJRGZZRVVHaGUtemxEV0ZIUmpFM0NjeW5MX1NBcHhRVlhCTkhNTW5la1dYbDVkY0hCYXJ3MlBGeHFkVEIxdGZBcHhtV1RBZHFybnVXQ1c5MmdZQnpjakZUQWszZzZpOEY3aGFwbDZUUWJyc3VlZ2MyRHV5RTd2SHVaLVlqZUNla2w1WVdHWkhZalRCZnkyQ1pUZlBrdlpBV2lYdEk0LVhidWZNNUhQb3RUeUFkUElwWUtHWnhQdGlSYk0tVko2OFg2WGlNQ2xDOGVaMjRNYlM4QkdLb0o1TU1uLTNHNW5JZl84RlVGbWN1Z0IzRDlQTQ?oc=5"
-    },
-    {
-      "title": "聯合國報告指出全球氣溫升幅數年內將超過1.5度",
-      "source": "共同網",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42NVVDYkRjb3FxVUdKdW5kYXhzQXhpRkRzUlQwVXQ1c3lReEVlWm9Gek1UcjNyajVqZFZpVDZ0M0VsRWp2eE5fMVQyRkVVaDlhVWl0bEZhcUw?oc=5"
-    },
-    {
-      "title": "美伊爆發7月以來最大規模交火 中東再陷全面戰爭陰影",
-      "source": "美南新聞",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00T1ZBX3ZDNTBsNlpNRTZzbTRKcHdpLTc4ZExuYkdCRl8yZ0ljZjIxbGVwRy1KYzNnTkFxVXE4ZWFlcVNMM1E?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股早盤／油價略為回落...四大指數漲跌互見 戴爾飆12%",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrbjZXdUs2QzhORXpXVnIzSDZjaVVGblNGVlBCSGtscXNadzNMVWZRMmdLeXl2X0ZtaUUwY2xTYjN4alFWLVk0Q3hZeXd3aHI2?oc=5"
+      "title": "現貨金反彈逾1% 美元及美債息率回落",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZdTBtNGpvenA1aWNiMXVQeGlPcFpoYjJTTVJHQjdPdnNIY0wyNDdVZndiLWcteVB3S1ZralZKR205UG9NRXk1d01IVzl2TmVScndzVFBWMm1oRFZUSk1McGJTbVZKS19qQl9oTXcyMA?oc=5"
     },
     {
-      "title": "美股走勢丨油價及債息回落 道指漲逾300點",
+      "title": "美股走勢丨道指收市升295點 戴爾科技飆逾15%",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNWWgtLUYzN01wSDhaaVdCMG92aS1TenV2ZEdxMjRPbGRvZEoxNGp1WVJJQnRpYlEzcWpVeFFOU2xaU01iaE1OZFo3WGd5LVR1bnpJWkdmejA2TWs0bUg4SlJ6SWJhX3k4YjczRGliU0ZMVTRxRk1xeUtidGZPMVRQUFpTM3ExMGNVLTlmdHYtc3B0ZFlQNjBnZ1VLZ29xN05JT3dpSm04NEhQOW8tcXpJbHYxSWg0aU9MZmVYOFMyMEV3V3NGMjF1UDVvZ2E4ckh5aDA0ckVIVktvdzNxUjdzT3ZtYXVnN3lhU2JZMnhuMmJEYkFycGExSGtDZC02YmxyY3VvdmF5MlFObnk4WVd1QWN6VFJHWWs2QjlRTm96R1NSRjNQWWdqUWl2YUpFVEVOOVVB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPSGRtWHRKOUd3enZQWlBXQmItUDFIVGhldzRzX2gwS011bXMyZW8yelVYdktHUmlMUExhOWRtREpLNlVVSWdVc0dZM29qYjhvWWI4dGhXUWJpSjFsdGdqWEt6MXQwMndPa1JUbVFzYktEaVRmU3FnQTJuOWo4amtKX2xlamhkWE96b3doRVA3N0p2Y0g2RWxDcnF1M09GanBlTUxudHRjRVBjOWVLYlRTdFhMNzZRRko3QTNnc2VCeDBTVE1TUzdWcEFTOEF4alJod2RYN2gwMEc5N0tlTDFUVzRuVjFJTklLM1h2WDh6UDRQRlJkbU5oblA0ZHRIZm9jSGZyaE9fVzlIRGFtLXVTaTNlMDVGbHJhLUNNUEZZdlZ4eU84bjlvQjYzTnduaHA0dVY5QmU2NA?oc=5"
     },
     {
-      "title": "債市風暴！全球長債「雪崩式」重定價：日債殖利率破3%創30年高 美債刺破4.8%",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPWGI2eHZEMnV3amtIWVhHLUJUYTFnZ3JMSnJsMHFBNjdwbnVWSUdNZUdJYXpySkZ1LWpOYU9BVmxXQlEzTEhqQ3JSNGtGSHVHdGlacWVhOWgxVV9MVmhndjhvN29HbkdSNThwVS1zYW1reVF2NW1KRS1WVzVZZERsQmQyU0tSeHRzTjBySVhTZHg1T1ZwdHE1S2YzNUJwZExqM0djLWpVQU94QVM4NDNsamxPd042eUVLN2xFYUFINE4zN3Brc3lnQ2d1YVFZWk9QQTBJU0JEOGZTWk5fN2NDeUgxajJ5cnF1REx0c2diX2htbU9zOFZVelJ4MUFrSU1OT2FveWtfWk56enlfdWNkZEdiOVA4UE95SVZwNjJqYWhTcFpLM09SemJmeWo1YkdTRGtoX1Znb3VER0k5SmNjWnpJVGlyVFcxb3VTX19UbkxkYkFw?oc=5"
+      "title": "紐約 Fed：美債殖利率竄升反映美國經濟強勁 而非通膨",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YYXMzNGRhbU9OVHZXclczTnFHTUI0YmpqWElIbWxsTUFPa21ZRWg5aVdNQTYwVUNORi16UWRUZjhRd3BTWFVINm8tMzZpS2Q4aTVhVlVXWkk3Z9IBX0FVX3lxTE1WSGNHdE5UM2pXVU9raVFlQnpxZlJlaHZGUU9IX2IwQWp6MUJxQ1FTQ1lmUE5PWWdweno1WWhSOENPeUJhZGJyRjdrNndBeUF5czh2YlBTNFJfdlVpcEJj?oc=5"
     },
     {
-      "title": "美股動向｜道指失守關鍵技術位，預示後市風險加劇 | 即時新聞 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQlJQeEhOYVd0bU16UG9XRV9hSkRIaTgzWEdIcnhkWGxVQzNzWk92UC00NEFLNm9qekg0c213b3AzT2FnajhsSW1UOTNEUE5KcDFuZUs3TlRLckpjXzZsQmZVVDR1ZEh3QnpfcG9sWnhqd2d2b3R4d0Ixb09oT2QyWVlwbTZpSVJMTzJiWjNHZENyVWF2NURUaHN5dHJIRDlY?oc=5"
+      "title": "華爾街收高，股市重拾部分光彩",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41UGtGeUJCMVFCSWtJWFdKTWN6emhrSEtTZUJZbUF6QThxQWtGYjRpRm5TR1RZVDdycjRWdmxFSF9FdkFnaFA4RmJPUzRJTlRjSk9jbkRWMWdncjluaXo4d1ZCN3FMckNmd0JVSjdxMmhQU3ZHa0pZ?oc=5"
     },
     {
       "title": "自AI選股以來漲幅逾70%，這隻AI科技股仍是9月高信心之選 作者 Investing.com - Investing.com 香港",
@@ -72,9 +72,9 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81dEZPLTVSanUzaTJjVER3YzRHOGE4Tk1NU3A0T2JBMHViZWU3ck1VOEk2b1VUYmNzZUJaMlFwWjllejRTZVdRQVp6LTlNTWdObS1HSDBUemg5Um9VNHo3TDhueEMwMXBGSTB5Q0xINE8?oc=5"
     },
     {
-      "title": "彭博ETF分析师：比特币近半年与美股相关性低于黄金和美债",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnVFZMRVNRMXFjSFlMV0hLdzFObE1GYUpWcDVfdkJGZlk1dWVyVXdDbzMzYk9QUkl6d3Jsb2x2Tm1TMXlDU0dyNVNJRHltRTFxUDk4VUc2WGRZMHUyTWZTYWRZeHRidw?oc=5"
+      "title": "美股動向｜GitLab績後飆13%，全年指引上調 AI應用帶動銷售創新高 | 即時新聞 - 新聞",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjM1MVNfdXFCUGdYNDRfZG5YVk1PNnRqcG96N3p0aG5uRnh1dDBub2VpelMtYkJ0Z2EyRmtlZXl3b3hkTm5BdmdqWEFOS1ZZQUpENlIwMHJvdWNCeFFmeU1CcEc4dVdvdjMtX2o2ZFJQM2FrS2pmU1JaY2RhWTVYSUZBS2xMa3JlZW50VGZVa1hwaWl5SHN4aFF6NTBlUlhE?oc=5"
     }
   ],
   "events": {
