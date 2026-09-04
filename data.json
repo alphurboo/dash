@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-03 22:08:25",
+  "updated_at": "2026-09-04 11:15:20",
   "gas": {
-    "current_label": "9月3日 (現行油價)",
-    "current_price": "185.9",
-    "predict_label": "9月4日 (明日預測)",
-    "predict_price": "183.9",
-    "trend": "↓ 明日預測跌 2.0 ¢",
-    "trend_class": "gas-down"
+    "current_label": "9月4日 (現行油價)",
+    "current_price": "183.9",
+    "predict_label": "9月5日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美國第2季非農生產率按季年率增長1.4% 符合預期",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1naTlKallUX3p1ZzFWdGl4ZWRrN21PbFhjX1V4UHI0UHdPWmtvQWctaWxHdG5YNmY5RjNFTkFGTUUyVmJvUU5wSU1IWmhzSXl1VUEtZDk5TnBLUHBmQV9fX2RxWnVHX2luQ19WUDQzWQ?oc=5"
+      "title": "美國8月非農就業人數預計在7月負值後反彈至5.6萬",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaEw2UEhFbFlpQlNXZmxib0FZejNQX09nRkFGY3JXbEFMVFB1a3BFTURtR1lBVUNNUWZzaDdaQVMwOE1XQTBZcWl1cXlwSkgyWUxZRWs2d2lZdHJxVmNMWkxlS2J0el9rbUx0RnFIMC1aTTBza2VPNWFiYm5nNDlOUkFYY1JwTlN0Q2kzYWdVRm1XT3hZOXN4NEtUQzJvNXFNMEtYTEdzZ3ZwMTJIVS1hcFZ1ZXhDb2p1TFJtR0Nn0gHDAUFVX3lxTE01ZjBLZ3dGWDFwUzREb3ZWV3hTUTltUDJLZWtpSEVpNXhJanptbENSRl9XWU5tR2RDM2Z4bktjMms4TTRJaU9YTWt4d2tSeDlwVG9PZnVwX3lGb3YtMDhVNFktOHc1STdzRWg2NF90Z09vZmtGUDZSSUVLQmJ5TXMwYzFlQURBXzNmQUlNMWd1SzN1V3laakhjeTRTZDJBTkZoZURBWXh6NmtYSHk3NVp3dkFtMklBMTJhRTZVY0txYm5BOA?oc=5"
     },
     {
-      "title": "美國副總統范斯淡化伊朗衝突規模 稱不會稱其為戰爭",
+      "title": "IPO自肥｜港股上半年集資額全球第二 分貨被指變「自肥」 管理層直接選投資者",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQR0NJS2NXd3RpN1RpVlJxTmhfRHozLXRFc3BGWXRzendzaFB4QzJOd1NaSFJibmE0X0FseWxMUFRSY0tnV3ZxX3NGLTVEUkF5b2t1LU9wY1FxN2V3MU5FcHJpN1lBcjk2Mk8zaVEtbDRuTFZ3QXRUY0I5OTJrTkZjS19SdUszWFFDVENCM09NaGpfMjRSVi1QVHNGejRmamVuVW5MQ3RiNnhSS3hlcWRtUDJfX1V2VjZqa0tCdjVsV2hEaE9qM0I0cVZMU0doOF9hZndjdFA4azhHLTU5Y1hrS0oyNEFpaE5SdmpYWlVDNjB3TDB6d3Y1VnVlVmRFSVZHNDU5Rk1Bc2VZYU1zTTJQOE5ULUExTFVrZVloLTJncmpUem5zLThhWnlOMzNaSUhsejFVVTZQUUthU0lwTndWaGoyUC0zanl6bEJwaGhSUmJRYkZNbXZONGRhckVSSEdSc19RQnpvaXpPV0Njd0xCUC02SQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNR2RhUkRZVkItb0ZfOWQ2NHlxbTVESTc4blg1Z0pERG1rVEJwUUd3RVR4dmhGak14S0dsaFRiSlR0Y1g5eDhfX2c0LWxBZ3l5WXpTdjA4ZmtHY0VjUG1CaXIzYnRZQXpqMHhuSXV0QzB4YlBsaElveTZDeFdTZUNXSDJTTzlISVhTYkxTVDFBWkdvVXBYT1dCMHBEZWhSREJwekN1dE5ZSTROenJnT21Sdk15djRBdGF6TmcyU3VHSjd0d3ZaYjltMzlIcS0zRzZzdnV6c2YyLVFwUm52UUY5NkNzOGRac1lzdDdseThjLUhBVXc0TDNGYnFjaFhCSXhsaGdYY2FNTFBfcHNBSjBJWDFRSnhCak0wbnpmZFhZYUtqV1NuR1haMGM5YVRnb1Vxb0Ztb1JJY3JVb2NIMUxKOGh6dmxPY0VZVmNacXNEcmlEbVdDUzhsWFgwT1FPXzIwVll6TE02V0VzUGY0TWNEbEJHalJmeDAyQTJMTWItR0xsVWVmdnFHOXg3VmcyZnJFelVFNnEtTjJpblkyOUU3Q05kTXJ6T3JDWXd0ZXd0TjNPUjhnVWZPdllNRTlqOUJNSjMxVEh6Zl81bUprZFNZ?oc=5"
     },
     {
-      "title": "長息走勢反映美國經濟仍具韌性",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPOUJ2VFNiRnhhc0c3NTJCLTFJWnI4VVJTb1NTNjdQTllybGN4UHF3dEl1ZVM3NW1Vb3k3enJkUUJtVTlVSXNEajdSYXhzNkNPd1EyMjBlREFIejlUWU5ZY0ZjZWNaeFZKc1E5VEdvcE5MSTVmTzEwUVQ5TzJRalJTVkdwYWhtNHhGS2FjeWRwbmZ5eWtuWjJTT0lGUVQwbkozZFNMaUJVdjByWlo1U28yZHc5aXlid3FWR0JuZXFoUDRWZWZ4NDZxY2FJSEJMSS1KSF9BbnlfaG8wcy1kQjFzSzNvd1FSR1pTdTZOY25wRWJjVHAyRjdpVDF0TWpqa2dUbFZCLU1rWQ?oc=5"
+      "title": "脫歐後靠攏歐盟是「問題所在」 川普貿易代表葛里爾警告倫敦| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aSUxndTFxV3RxT3N5ZklmNVE1UWRvYWNqb0wxVm9hcmJzX2ZCaVc5S2VhSk5tN0JNQjY0STBjNkpBbjRkVV9fMGJnQ3hCRDhx?oc=5"
     },
     {
-      "title": "國際觀察/中美戰略博弈的四大因素\\宋魯鄭- 論壇",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14U3ExcXV1bVRhbFIwMFdLRTg1MUFNNmNmYlIwYTZYQVlYMlNxVk9SUVRuMGF3OFJqQkFGcDJhbS1pM3BYWVQ5TjBhU25TTVN5eDB3V0FXa0NFNVhxbFdnRW9qR3hSQ0xXbFQwNlJab1JRWUZG?oc=5"
+      "title": "美國白宮推出網上遊戲 以「貪食蛇」驅逐移民 惹人權組織批評",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jOUJPTWRsSUd2SVhKQ1YzbXBSaHF5QUI4QndnMy1VeXBicEwzUE9nVnkydkFoT1pkU0ZRM0RRTEZuSlVianFPZHRXQTJjdEw5c283ckNBZU5SdGRTbU92QlpOU21QX19GSGQ0cXZpcw?oc=5"
     },
     {
-      "title": "俄羅斯：一名人道工作者因批評俄軍被起訴",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQcWM5bWk4dGtvcDB6Sm9ib1NDcnA1TzRYQXh2bmg5c0pxQTNGeV9haXM3NmY2QnlRZTdXS0szZmtGY0RyTmVpaVFkUmR5czZmcTFwN0lTamp0YmEtanZVcVlHcE9QVnUxY1FEdE9TQlA2V0RLak1ZUk41WkpwN0xmcHh5YUZEUmlIbER5N1kzMGFMNDhfTEwyeHg4amFXYjY0SEZMc0toX1RuaFJHVjJjZ1JrRTI2TEtjWGFDNkJ0WERXRXJNYW03RHpHZGVLZDJyLXotYkphVEVvWVlhS2ZRemRMS1d3MmE5VTJBN3g2X2otb2pfRldzNDVfYlRnMXRCc2hrbU1LeUlaRG5rVGFqZlVITnNpMExUU2hRLXNTdDhzQnkxUmxlZkZsQ25XankxclZGc2M4YXQ?oc=5"
+      "title": "8月美國就業報告成為焦點",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0JhRE9HNlNLNmlXblY0dUQzOFNabmlsNTRSMXhGRUhnRjVWQmJ0d2VXdkxLUm55MXdGdE55Vy1EcUgtSm12TS1aeE5PanhUdi1abW1VdmdVYXY4R2tNZ2YzQThHbU9MNzhtam1SakhmNE5fR0hlNUU2STEwRkF4SjhtckxlLWdiU0pLYXdKbmlPMElpeWVQZdIBngFBVV95cUxOWFdhVFduN2dIQmxDZm5TaGllTGlxRTFaOE1EWDlpc1Jtb1lsZm1tUm1uZjlORngtMlBIVTZhNGstazlkWkRrdVVPX1QwZ1RsTGdOVml0VGlBaGx3ZGkxQnpMNXp1YW8xSkhVVUFhNnhPZ1F5VjFEZ20xN0tEYTdYdHJ6a0N2M3Q1cDhURFI1VnMzVkk0TWN0MGE2cVRvdw?oc=5"
     },
     {
-      "title": "澳廣視新聞｜普京:解決俄烏衝突可能性依然存在｜",
-      "source": "TDM",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEZ0lXMWVFQ05TYVVLTnFqMUhnTENwNmpjbnZjVFpwYWFPVUNyNkRFOG1NMDR4anFpLXg2WE9PcEZpSnBHdEVpWXBoTkNTRWYtSHBwb2NkX2VjM3J6amFJ?oc=5"
+      "title": "白宮懷舊風遊戲宣傳「MAGA」 包括追捕非法入境者 人權組織：人命當兒戲",
+      "source": "i-cable.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQZU16ZlN3dW12S0FIZm43YW9UVDhoWXpLbjN3RHFsYWd4c0RHSHBLY2ZkU3YxcXdsVzVhT0pmTHo0TGVCZXd5ODlEOXNTOENyVm1mRm45dVZBVURuT28yc2JYUzJrbE1rYmVweHRCVXI3SXZFMlJCQmdCcHZ6dGVyM1VKV0txZFEtRGJRTFRWS2xmbUlKWTdEeVBvQ0t0QWhUemJhZFZoRHlXM2lkSXJVdkMyLXhLRURtVkI5MlZXM1E5NGQ5SnBjSW5QMnc1ZE81ZFp1RWtVN3ZpdzJXSFRwRVNDU2NHU0xZMHVDU3VSVGNuMWZBS2dkVnBuY1NKRDRqMlhla1VNZ1dZOTAyUHpCU1Z4VXM1LWFHb2RUc1dLbkVad1oxTXIxTG9MTVJmb0FLcktFV1ZTOEVGWXZCczRMYzBvYlRRWE5tZGFZeXYzcjNlcUY3Zi1r?oc=5"
     },
     {
-      "title": "美國上周首次申領失業救濟人數20.6萬人 多過預期",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBidmxZaUg4c0UxSl9hdFg2RGs1a0dUcXBmUXR2eTQxU20tUHB1enpiajlNTXVUS3ZuVnRjd0d3WENRX1IwS3F1SkttbjB6WUZoWGQ5Z2l5ZEhybnVOQ3c4bXRlVWNjRndMMkpvcWJSWQ?oc=5"
+      "title": "BTL 成立全新激光部門並推出全球首創的融合式鉺激光 EXOLASE ONE®",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNQ0JMRHVjcl9SbTBkaDU0enJ2WWUtU0dPZ0VKdUlJQllHN0pTMjR2ZmVkX2RGMjBjNzZHNUU3azJpaUt0MGx5eENST0hSaWxaMk1jbHY2cTB5NktsTGlzOTBia1NoWV8yczJURHRPdDNnWFBFOTVKb1JwVUxzWUNqZGJ5VGh1dWNoS1BRWlYtSE1ZeHhOMU1oMDFOVDJYSkp4NUh5dWFyYnQ0N1RXbkJWNTcyMVVnQ2lidHMyeDFKY0lyZjY3T0IySzJEMzVTTUotOC1XcGFrUFJtc0szVnU3dXZCdC1rS3dXdlBmZzRTUkg4YTY1SFJ5VGlvNHU2UEc5WkRkNXg1MTVId2NWWl9HanZQeGJWMUNNTUl2ZHpPTXUzUlVQT25BbkhEblpZT0VtZHc0MHU3S21jR2dwRU1FTl90Wnk1aGtwUmFEdXUtWXlzZFc5ZXBGM1lkMnlaQnVvNVNWWnRDd3lWR3VCY2I5anJ6MWd0Y3BTeHJF?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股走勢丨道指收市升624點 SpaceX躍高逾6%",
+      "title": "美國國債點買2026｜香港買美債方法、收益率與風險",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQVduR0VON3BLdGhPR2o1N24zbG1XQ2ZoVUhKMjJ4THV5YjRXaHNTcHVNN1k4eVRzVGE3WWk1SkxoWXlPSGtVYUV1aVBNX0NRb2NmejhCdU5KSzloTFBwNWJ1Vi1vMlVIclc4M3gxTFNrUGRpOGJSQTdPWlNmZXZlMVFILVRwcC14TE9DQ1Fwbm5CWlpsemJVUWVlUEJlbjNaRFhIZGlNYTFpZjM0Rm1abEZVeGc2WFpDcktMZDhhMGdSX3BRNlVYdUlSc1NIVXdmbFg2eWhoSXpoSGRPdFRxcXhLLWd5UzcyVzVYVU0tWVktLXdMTl9sTnhMcmo4QW00YWpCNlV2NlBnem42NnZyczY3UUgwRnkyQnlMelF0TnVEX0s1S0ppYXZmdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxONmsxeFo3b2xsM3RmZE9ENlF3ZkltalFjTUZueXpfQ1k0Q2tqTTlRQzRvQzlEYUFUTVN0MFdwbmhVYUUtbEZKVnhJRVFlM005MHMwbDdnOTM5V2YxZFg2QU9QRWYzMnRZTE9CV3liTUJRdnRSNVJoRnk2em8wb0otdHVudDlrMG5fZFhoNjNfZnFEc0ZEVV9MajY3X3ZZMTNSWk9mZWNld3p4aFVJZHM4ckNFdlRjSERNcGZtZm9wTFAxcVlpbjVobTNIUlh2NWNTamtiNjFsbGxkZFlHNFVsZzlYSFhVWHptQ0RPSGdaX0JzQzN5VEZGNmEtMnZxU01xSC01MUdNcm94NFIwdFFRY18wVXNxLVVFQnB1UktQN3NRTFJRODlHb0lHS3hiRVd4ajU1UFJHUERocTQ2Z0V4UTNXUXlMZjdxTlBDMEhhZXlXdHVVdDR3?oc=5"
     },
     {
-      "title": "聯儲局理事沃勒：如果通脹數據降溫 傾向支持利率不變",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZQXJVNkF5aVI2MVpDS010ZGlycXNZNjBDd3FQc1lZX0xlcXBleHlkUDBudDkzUTVZakRlTVY5RDMtbDBZTGRLM1Q5aExoQkRHM3lCd0poV3k0VmI1N3pKVFdKdU9SQ3hhdFROTzdvdw?oc=5"
+      "title": "9/4美股前瞻：聯儲局鴿派信號引爆強反彈，AI 軟硬件共振領漲",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRXpqM3lUc1BOdmwwcHFDYWh4VWZ1a1ZzQnQ1Rm1JcVhmSzI5Q3VsU0dONmV4QXpVNWJyUVJWNzZmQ0FEZG9vRUd6eXhWU3FrSXNjTTFjcU5jSmNrcWx2NHVkY1Q2Y2tRbmg1Q2hYUU9QUlZtVzF6TGhFTVk5NzlmOFNtQ2Ywd1pCN180R1A3c0c2OGhfS0JMX3BGa0lLMUhRWU1Wa3R1WVN6dG5a?oc=5"
     },
     {
-      "title": "科技股領漲、債券殖利率回落美股收高| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55V2RHcFY0Z21YRnhNbGlGUTBocTluVmlvTExRRk1jQW1MTV9IWV92ckwtbkQtX0hheE1oN04yLVN3TjFOMjVsMHVncVZjbFE4?oc=5"
+      "title": "【專家分析】美中期選舉前後美股會點行？",
+      "source": "Now 財經",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Idlc5dzJRajF1TmQ5UWNKYkdZbWtmZkJuLWtUVGJKOUc3OGZuVFZKVTZ0Mk1rRzFLMFV4MGgxMFpWUlpoSmphaFoyUTVJYTFzeW9FMF9WQkZmR01xRU5kWXQ4ak1kSTg2ZHZ6OVQ4QUNreDFKVnlZ?oc=5"
     },
     {
-      "title": "〈美股盤後〉華勒釋暫緩升息訊號 美債殖利率回落 三大指數齊漲逾1%",
-      "source": "news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEU25uNk0zeFlNRjRjQVRUWldtU0RjeWk3UDR3RlgxMHFPaTFTQjNXWWVxWGZvZXBuUjU2NUZNNEgxY0hvV3l1YmN3a2VRWmM?oc=5"
+      "title": "PIMCO一支業績超群基金低配美股七巨頭 轉而押注亞洲",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPNVlCV253UFFZbF9vcEVBMENEVTU4V3oyYWt1T3Z0WDZuRFR3eTNONnJDMHZhYjFxWVhVZnRIdWZyZnQ5bUVGRFBTckF5LVFfZzBYNFBjR2RKZlFzVkVjRWNuVWtNVW1iNzR5MUVOREo0NlBNWi12SHdXbU94aUdqSVJTRVJ4RXNxdi1iSUwwWHcteDJVUE1va3Rhbm9CS05ZcE1RVjMwaGpXOGFMd0ZuWVg3QzdTUkc3bDRTMzVlZFhZUnA2MkhTdDJjVmZHbjVlM0FNSVkzUUltWVpmUlU2a2Jaa0t5TFRjelAtWms4eENMVy1MeC1kVEhsZENXbDNwWkl5Nk1KcWxmTVNHVk5KVjZRVnc5YzNvRE9qYkt5TkNaak5rMjZXRUtGUnpBdnAzTnBrR09kWW12US1maWhYdFdadTlDYXVWX25oNG83dHFFZzNaX2lR?oc=5"
     },
     {
-      "title": "【美股市況】馬斯克孖寶發力 日圓抽升2% 大拆倉山雨欲來 美滙美債息跌（不斷更新）",
+      "title": "【大行看法】滙豐私銀何偉華：聯儲局沃什鷹派信號難擋美股升勢 看好AI及四大結構性行業",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPaWVKMnV0elQwTDJzLXdSVUN4S2JaSVZwaks3S3lBVVpVLVRaWlhXOFZVQVdaMTlQMWg5N0tVUWxFZm9JUG1VOWlEUDdiTzNwT1Awd0xpcHBZTXNuOWc5X1VkZkxiZFkwUko2ajJZeG0zMmUzcExabzVmc05HS1F5blJjUU56QkgwSUlPc2g2YUl0cTQ5NFFQMUEySHE5VVpad2E3RklRSXZOVHk0OHNYdGVSMVB2azBIaGw2Yk1WdGczV0tSazBFenEzWmNVdlhoeHBDYXlhajJLcTBfeTNsYWRCdEFuT01hVWVvdE9VZjJVVDJRR1p5eFAtZkp3cGZzeVVqVTR4Q3BjTzNkeWpObDFvdDA5VHVXcHNUWW5TdEpxS1BmS1ZNNGNOOVY0dEQxaUd6TkpGYkFhelloUFFPSFhVQndvNl9TOWhQWHhMRlFiQ1pzSDVES19fZFdKNEZ5SUdkcW1KUjJ0VmhLa1Vhb0ZaZ1kwbUhMcFF5S0stM245V1QxQnAzcUdMbFhoMHBxX2pNWVpXbS0tRzk5U0FoOF9na1NWVmVqXzFfZnhoOFpDX254bno1Z056cjBsLUhkM0JQQ0s3aGRfak9TQkFFRHl4Ty1paWxidzgxV1JubDh3SENpMHVobUVfNTh4M081ZDJEZFdzNElkZUlxQ2lj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxQaEJJY20xNF91WUVMa2FyLWgxaWMzTmtCM2hXOHR3UWNQYWZqZmp5QVNNNDZveW1mdVJEWFdqN3NTY05XcFhERVBsM21JTE9RM1VnYlRRN0daMU50R0t0Z2p1VGpBZWxfbDZxSlFEZGVJbWFpZUlJMnR3WFd0SDMtQU96M2h4UGd3U0E1c2hwU2tucUk1YVdYLUJPMmxEY0JGa0ZQZm9vaXp6T3hTV08xV05qNWdEVDdqN3NQU1pHcEJsYnBqRkdTRlBfR0p0ZjNOcDNBVWNZaTdyaThkSDNadjM1RGxvLWFsYVRzbHd6TktVeVVzZ1Q4OFhfbXZuQ3BKX1FWVnBXM2hUZVRpc2c4allJVkxvNkZWMFROOFg0bzhmNXFTcVQ0ZXdhWFVnVktVUXhNSGI0OWlXUGpVdGhEMnVTeEVhWWdYNVVlVEhiXzFOVGVGd3haYXVVWTVJeDdPN0dYUGxIM3pNT0ZLMjR2cUljVVF2WW9VYUZfbFlMN1U3dXFqTEdwMVZZOXl3aFdrRVpnRTJfZkpQUFgyRVlzU0laeERDOWxzZUZZdDlBQ2R2X3hIRUx5N19pellhMDE3bmNkY1dBdDFzeEdBSW56T2FLSTJPQmpOakZnWHZtUEQwNzlUR3NzbkNzZGdRQ21scGc0bnp4dU4wRHBLTVlxZWFjTktLQWxIV0VDLXJxMA?oc=5"
     },
     {
-      "title": "美股午盤 | 美股三大指數午市升幅擴大，道指大升639點 | 即時新聞 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUl9zbzVIaXEtUTNJMmFocjFNYlpIZjRrb1Zzb1pBRmc5UnpRVmtmTTNac3N6dEp4S0s1WXQ4Z3R5T3oyRFU5dUZudjQyY3hFZGxvSExUM3BiOU5iWWRpbWJyVGhrWndGdmxMc0dEMHJ3Ui16c01oVWJjS2FYWGx2SDdPYVNFRGtXNTN5WVdEdFRIQzBoV1JvZ0drYVlXTEV2?oc=5"
+      "title": "日經指數收漲1.26% 受美股上揚提振",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12T0Q5NDdfcHB1eVUyTk1NcWtCTW41WE1OT2tIVkRKeGVKLVZLUUlHYV9neUg5UUVYaENlblF4SGk4V2FmUkdLcEJyZGtvV2R2M3J6R3RSVS0?oc=5"
     }
   ],
   "events": {
@@ -82,32 +82,32 @@
       {
         "title": "非農就業數據 (NFP)",
         "date": "2026-09-04",
-        "days_left": 1,
-        "status_badge": "1 日後",
+        "days_left": 0,
+        "status_badge": "今日",
         "tag": "💼 就業",
         "desc": "美聯儲降息路徑核心指標"
       },
       {
         "title": "消費者物價指數 (CPI)",
         "date": "2026-09-11",
-        "days_left": 8,
-        "status_badge": "8 日後",
+        "days_left": 7,
+        "status_badge": "7 日後",
         "tag": "📊 通脹",
         "desc": "8月通脹年率與核心CPI公布"
       },
       {
         "title": "FOMC 議息 (附點陣圖/SEP)",
         "date": "2026-09-16",
-        "days_left": 13,
-        "status_badge": "13 日後",
+        "days_left": 12,
+        "status_badge": "12 日後",
         "tag": "🏛️ 議息",
         "desc": "聯儲局公佈利率決議與最新經濟預測點陣圖"
       },
       {
         "title": "美股「四巫日」(Quad Witching)",
         "date": "2026-09-18",
-        "days_left": 15,
-        "status_badge": "15 日後",
+        "days_left": 14,
+        "status_badge": "14 日後",
         "tag": "🧙‍♂️ 四巫日",
         "desc": "季結指數/股票期權期貨集中結算轉倉"
       }
@@ -118,8 +118,8 @@
         "name": "Alphabet",
         "type": "9月除淨",
         "date": "2026-09-04",
-        "days_left": 1,
-        "status_badge": "1 日後",
+        "days_left": 0,
+        "status_badge": "今日",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -127,8 +127,8 @@
         "name": "Nvidia",
         "type": "9月除淨",
         "date": "2026-09-10",
-        "days_left": 7,
-        "status_badge": "7 日後",
+        "days_left": 6,
+        "status_badge": "6 日後",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -136,8 +136,8 @@
         "name": "台積電",
         "type": "月度營收",
         "date": "2026-09-10",
-        "days_left": 7,
-        "status_badge": "7 日後",
+        "days_left": 6,
+        "status_badge": "6 日後",
         "desc": "8月份合併營收月報公布"
       },
       {
@@ -145,8 +145,8 @@
         "name": "Extendicare",
         "type": "9月派息",
         "date": "2026-09-15",
-        "days_left": 12,
-        "status_badge": "12 日後",
+        "days_left": 11,
+        "status_badge": "11 日後",
         "desc": "8月份月度股息現金入帳日 (Payable Date)"
       },
       {
@@ -154,8 +154,8 @@
         "name": "台積電",
         "type": "9月除淨",
         "date": "2026-09-16",
-        "days_left": 13,
-        "status_badge": "13 日後",
+        "days_left": 12,
+        "status_badge": "12 日後",
         "desc": "季度高息除淨日 (Ex-Dividend)"
       },
       {
@@ -163,8 +163,8 @@
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
-        "days_left": 26,
-        "status_badge": "26 日後",
+        "days_left": 25,
+        "status_badge": "25 日後",
         "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
       },
       {
@@ -172,8 +172,8 @@
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 27,
-        "status_badge": "27 日後",
+        "days_left": 26,
+        "status_badge": "26 日後",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
