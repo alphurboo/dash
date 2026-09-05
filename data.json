@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 11:15:21",
+  "updated_at": "2026-09-05 20:15:23",
   "gas": {
     "current_label": "9月5日 (現行油價)",
     "current_price": "183.9",
@@ -10,71 +10,71 @@
   },
   "news_world": [
     {
+      "title": "特朗普特使到訪前 基輔機場遭莫斯科轟炸",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPZXVJam5ZTjdpZWw4V081UkhHU3JLV3kyM2Z6TXFjNUtBamF6NzNOZDhtcnVZVjJleElVbWdSa24ycU1FWFBQbVR3dTBMZWxDMG5mTFkxRHN3eU5WdVVEMnFmX3B3cDc1MDZQQV9oQi1NV1YzVkpMNndDWlBBY2pSR0lNOWJ3d2RkTEVJTlBORVVvN1FjX25wQmxabGN1TU9idFVaNGR4UnRqSGpnWTBWTEJVQUplcjNJOUJJaFhOallub3dXbGg4ZGRudlk4dmFJR0J6YXZVOHdLTWhqQ2hMU0FLUUVKS3g3ZkJrbWxmSnA1Yl9vOXNYRjVlVFlpWEZiOVdmQml5djhZcEFORUhkeTNobWRKcWJTcGZ5VTlUN3d2cUNvY01iOFdickV0RUM5cXFlRmJLYnZIcWVLd0RYMUxxZElDVnVpdEtXT1hZTQ?oc=5"
+    },
+    {
+      "title": "美國兩名特使抵達莫斯科 預料推進俄烏停戰議程",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaa0NBcnZXSTZWTi16c2tkM0w2LXlCV2U2ei1rUENESzJCVFVSUkR0aDJESjN0TjVBWjdxTlI3SzY4RmNtRXlZQUdkZmYwRmE1SmRhOFYyU0pOX1hmS0hOVEZsZUI4aGgtdjR2Zg?oc=5"
+    },
+    {
+      "title": "克宮證實普京將晤美國特使 並下令暫停打擊基輔三日",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PVFhpbGhxYkE5SEp1MXppQ0lJMWt6YlVzbmhyRjAwSDBzRU0wRjRQWVRPTm9pWVptbWRSR0xjQmV0aU92RjBJVHFuM00xSDlreVZybmVOYWFFNkhRRW5lNXQzUnVNal9BZnV6MWR1VQ?oc=5"
+    },
+    {
+      "title": "全球債券拋售潮後，瑞銀看好3至5年期債券的利差收益",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNMXNzQk1aT256MUN5b3A1amxkT211bmlxZ0VrOC1TZUs1ZU5CZUYtYTNHNUZZa2I5V1dIMDAtSWtaakVfcUJQaXVGcDlFaDJ6QmU3YXhON2h1NU5XNjVIUDlRdGUtcjlra2l2WktlUGxQOWVzYzFGMzNEUjA5d0VOVmpIbUhFWERRUko3NUpZa1F5UV9tT3djYXM3TVpTc0RJOWZKSHJ6YlJYRnJVTy1iUHRLN01RcTczSlhkRHpoZG1LU3RTWGJMWjE0LVBmU3ZHT3VtZ0dxMlpjbjFSUkNFM3hqZm1FWHpkMzJZbEsxdVF1N0hveERsbDB1REF3eVRwakJBVjRlMGMzaWhYd3RKeU1PdXlEZUtUb19KSE5ZM2FqbUFlUzJlc1k5Yk9GLS01M3pRYkNNVnFhUlQ1ZFY4WE9pNVk1SXVwaHEyYnl0dmRGdmNhRXIwN19NMXBKcldRak5qcExoSlctUQ?oc=5"
+    },
+    {
+      "title": "俄烏戰爭｜美特使抵莫斯科晤普京 俄方下令停止攻擊基輔3天",
+      "source": "i-cable.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWlZ6bmFjY0VsR0JFMFc4bXkwa1VMejhHRWdEUHBFMGtSLVF4bVFrWVdEQXpHb3VMTGc5SjZDRVY2VkdmcTVNZ1N4U01QbVIwanhsVHBubkRMNEhXaHUtRmVtRF9KV3FQcXFTUy0yS3BFV1JTN2tENkMzYmpSVUhXX2F6NHByVWJyeGJHaGotd0ZZaWdPQlFxdndfRmp4aS0yQ29HdGhLSW5HOWlqSjdRcTZvWUZxZzJxS0FRTEkxVjJFVDVUakExUVZ2SVRPdFptUDlmUUtBN1NhWU9NYXBkb1RfMWlia1VKQ2VCNmYyWm5UR0lieVNFY1ZjcmR5U0tvVE5kNldLNDktR0xKc29oV2FKSkxhM0NkYlZCXzRJUGRqWG1qZFl2Z0FUNFBPckl5bGkwd2RSRFlQSE01SG41MVFGbDRUejM3TUhVMEZqNTZFZjZOYjRhdDdZY21uc1Jta3dNcnZNbTBVUQ?oc=5"
+    },
+    {
+      "title": "調停俄烏 美特使到訪 普亭：停火3日",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2T25JMFVhRU03STVtWXlZX0o2OERZS0ppSXZRbUVqZHNWVGh3bmc5WWE4MFI5ZUJKT0cyNTBHbHdhRGlnOWhlaUEweW55d255MzJScG5GSVBlWVhXaVlBM0VwSjhVMTA5R1EwbmRjU29uS211?oc=5"
+    },
+    {
       "title": "美國特使與特朗普女婿抵莫斯科 料與普京會面討論結束俄烏戰事",
       "source": "RTHK News",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94TlVKdHVERlpHNWtZM3RhNVNVQVJVWEJSRlRJWWlWMTFJb1N2NzJkVzluaVRfT1BxNXR5ckxMa2JmWFhYaUt4WmZXcVdzdlo1ZXR4R2dxenE1QUphRjJaUkgwVFJ5Mm5PTXZvZ2FoRQ?oc=5"
-    },
-    {
-      "title": "比特幣跌破8萬美元，美國強勁就業數據重燃聯準會升息憂慮",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOU1dqbE52VHlJVktRVUh4MlFHZDd5Y0NvU3cxdXFOT3pNejQyLUFzUXcyRjVmb0ZlbjBqZnM0ajQxa1V0aFVIVXR5aWh1Vm54T0drV0tSWHJMT2REV2hZanRXbWUxLUhxemttUXpMZl9OV1RjLUpKZkRVdHI5UTUzWkp6XzJRWXFYM1pNajF0VTIwcExtdzVjYWFkYVJwUGhkZ1JjVGtDM0N5NTVLcV9tc0V2SDY4cGc3UEFMY2ZtU3hZRGhMVWRHZ0p0TDRzRGxZMmlDZW52dGxyME00RHVGM3BrR3Ewa285VTdFN2o5b19NTy1pallQaFVPMDBmSHRpcXpjdzlIeGgtcnB4QnZDNmQzX21XbnNMd0RWSnk2RmV2cHcxQ250ekZzLUNvektaZ1lfYl8zbFU5SDYzaW1hVndQRmFQZmhBcmZqN0p1cFJHQmR2Nk5nelRyX1VIYldadzhHeFE2Q2VWMWhqUzBmd2t0QnB3ZWNnc1lCenBqYm9BSURGeFVsTVRzOTM?oc=5"
-    },
-    {
-      "title": "亞太媒體高端論壇｜國際嘉賓建言媒體合作 以溝通互鑒賦能亞太繁榮",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xbkE0UmRmX3hUWFp2X1c0TG4wTUIyWGZHVGdSa0FMU3ZoQXpIU1QzVTlvZF9TSFNCOXZLVHJVWXBVMnpuZF9kS195OVdIR0pTZnZhX1dwUGZRX01zdUlXSUF5MjFJQ3VnRFJuZ2ZOSms?oc=5"
-    },
-    {
-      "title": "美國對伊朗為何總是“打打停停”？",
-      "source": "中國評論新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZ3d2NEtUVmxzOU5pMEtIYkhCNHAwMXV3c1NvT3hRMUYzdE5XRlZBcW5yMDNlWEhvZWllaVRicU1LMEFlMm5qelNsZldPMVFYTzZOTFdfanY0eDJjb2Rub21BbXBjOXc?oc=5"
-    },
-    {
-      "title": "《英文虎報》主辦「國際學校教育展2026」 圓滿成功聚焦國際教育與升學規劃家長踴躍參與現場氣氛熱烈",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQS2Y4SjRTb19OMXh5WUQ3UTYzRlA4WjNQWDZzV01SMU5MaThrUTI1TlZ1ZWZaRU1FQjdVNWVNX0xQV0ZJZDRsSUtrV1g3WFhKZWpLMXU3NExiWkZxVHc2V1Z6Nnk1U1p6TUUwdFc3TmNYY1hGbTNFYlJuLWhtMUFYMlJCdWhUOVhzZTZDNWJURUp4U3hBYlItaHRRUlhlcElxSldKa0FQeEtsUDZMM3N2SFJhenpveWFNU2doZmVTaEwweGVOdk1mRnNVTXBNSnpiVWFhUkdaOGpHZGR5VWpWSUxfcERzWGNXVTMwMGdrUlhWNy1EbW9iV3RyVWtaOTJCdW9qM21Cakptc01NcE5IcnZmTG5hZVAxbGcxUFVPTDNnbDRBODJ3VWIyaWFDLUQ3clgwcktQYjFnZUhYMk1XZzNkZ2NWZXlQdkk2Y2IycDF6bXVEdTdnZFZ4ZDVFQlRpSjRwV0FfZnRTdl9Qd0JLazlEWHdndGJFX3c3NzUzSGZwNE1QSzdjNV92QW1YV2tzeWQ5b3hNU0IzV0NQajlYelVjeDNmSElNNENleXIxakVvXzNhamZGSll5OUVqbFhMSzJlSTluN3lLd0o2bkdxY3hSZXcwWV81S21QalVqa2t0cW42eGZzRnlIRTNkXzFUN2h1RjNlVzJhYkpKS3Awc21iQzAzTmJOTFlvUldzbnlaUFlRTjJvTWxmMjFaNjc2ei1DVllCRVVsWlVsUmt5TlBCUmpxdEg0QWFmZGxR?oc=5"
-    },
-    {
-      "title": "美國汽車業聯盟致函國會 促年底前永久禁售中國聯網車",
-      "source": "unwire",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05S0MtVVRmTS1XOFJUZVNuM3JEbWp0TVJ1ajRSTW8zd1RtY2dseDdJeGktclVmXy1SbVhSbmVPamN1UnZnTUlSQU0wY0J2dW5JUTloSGxjRzlZRTVxRGxyRnhRS1p5cm4yb0cxTExvQTFvSnA2bmNjaA?oc=5"
-    },
-    {
-      "title": "美情報評估：伊朗打出自信",
-      "source": "wenweipo.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DbHdaYkhHa0Z1TDRYRGJHSUxwQlNham83OVBNVnQtUU0zc2V5N1NZMzVDSl96OW1waFJENjRIU2EwbUF1a2VFTHgyWHgyVGNVeWJKcTdzVnNsMU9idlNiYzZ4bV9kTnNPcGwxYjN3dldYX0hJYkJv?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "股市正出現逾25年未見的現象 歷史顯示華爾街下一步會怎樣？",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNNGtYN3pKZmV1THIzWndURkNlcGZGcThOVGEyLTdFejQ0bXVwTjB0ckxwV29GNmItZnZ2Qng2aU9UU3NPaUNUR1FScFB1dWZaeUtQQ1dSTHd5VXhyQkVHQ0xUMjhJYWFGVzBJNjFBY2F3R1NTeF9NY0hIOW5wVjlaa3BIbFZpQVI2RS1RNFA4TjVaQUlBQk12MDZYSjJxaVV0bGVuZGRXcTR3dld1RkY5clN6LXlGdGZUcUljZHNjQVlyUDZKeV9XcHZyQXl2akVQa2VDLUhiaUU4b2N2VmZtd0NyWllsYVNvMVNJYWZrZVBjYktocWsxTi1UalRUeXBwejVDeUN5LWNwbF9XVHZrQXN3Zl8tMlAtV1RFMUhvc3R1UzhxNnR2VHNXRzVvdEtGSjBwTW5HZWxOZEhaRG81aDE4NUw0QUhzR0ZxcDk4UHBJSDVTM2dxR1p2bUxMRW4zejFLMGlEeDlpTUFjRzg0SDhRaWc2TWJ1aXphZW5hMUlwdmc?oc=5"
+      "title": "學者：川普施壓降息 反而強化9月升息可能性",
+      "source": "worldjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zSWRETHZ2eWlCVE9Ca2R1bEU4dGFaVmJycElyeDhDZHFsUF94Tl9FM0VyYmJWSjBZVnJRQWp0bjJfdGNKNUlsLW8zTEQxSWRrMjRWNU9DWEFfNEF3TUFtTlNR0gFnQVVfeXFMTkJfZ1ZtTm16cWozdl9SdHZsMGRFSnlmaHAtLW84QU1fR1ZLNUhFSzlJZ0J5V1hBc2xhc2VEYUNjREdBZXBmNXFJWGVhakdlTGQ1Z0VrZ0VfX2JpMmZsbXBfTndPcDY5MA?oc=5"
     },
     {
-      "title": "【美債危機】貝森特：挪威主權基金沽美債屬倉位重新配置 料美伊衝突結束將帶動美債息率回落",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxQcGpjajNCNTRiVmtmdGxmdUFwQlRIMDVvWFZTbmt2WUJJTzRwVVB4NVNEeTdDMlVNSVpXMmEzdGY3X24weFVialpqVUx4QmpQTGRwMXlCM2FxQnBYUmM4b1pXbDFuc2R1RWdvNHVZbnB6NzVoeWprUHFzX3VzeHlkVHYweHRGNDlYY2FlbkdRVTVKLUF5TDN4aWV2RktoRm0yaHpEUHNENGhJUUYxZkhSd1d5b3RWUFAtUjdiNVZabWkzZ1pzV2FBT2N3Sk9jU3RvQVlnMTQ4R1BfLWlJcl9neGpScUgta0VZT2gtRk1LSHlVb3NTV3J4amxWdk54MEw0c19hSjB6aHpzcnJ5NThJNmNOd3o5aHlLekpkQjZpSUtyaktUN202MDNGRWY5dGlOQmppaEo5RHNGMzlxSF9aQVA4Qjhod1BTVjZUdGlVRWxzdGlvdVZ0OUxwU19GNGcwRTY4cmZMMmFvNlp5ckF5QUxGaWFDX1BPMnh2WXRfdTV1OE5mVmNhRHdWSndKOXVyakZYNklvZGcwUkNIVmtncDZQeVZySEk1dkhjRUhQdTBlZ3dXaXRRbnlWVDhJakZFcmRBLTdPdEIwamR3VTJabWlSb3ZvdVdHRHY0WWF3eGRUbkJwaHNiWXlrRUJPYlgxc2RTUE5GZnM0Vk5Ba1JjTDhWcmh2RkxtV2xMSlVRUl95UGhvcFIxNDlfRzgwcXQ5Q0ZMZ0VZcWZQZC1FZkZwRWNOZWptd2RWZm5veF9wQll1cXVlZVgxU3RaaXFmQVZTcnJqa0hLYkRUWkFHN3NIZ09B?oc=5"
+      "title": "川普撂狠話要求Fed降息！強調主席和理事應愛國華許陷兩難| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42VEUwZEtKb3FwS2swNUFxYzkzSkhmeGY4OVdxclltZU16TmY1dzkyTW91UXpsTTB3NDhIUlpFRVc5bW01WndKUER0VTVRZ09V?oc=5"
     },
     {
-      "title": "加息還是降息？美聯儲再陷市場與政策博弈",
-      "source": "中國評論新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzdVEyTWMwRW1wR1hQRmJpRzFoeGotMi1mRnBnSmNhX3JTczl5MkY1ZERKVkVPb3BCZWRHZzVvb2I0X0NfdGQtbDZrM2dDNTJYX0hJSlNFZlVxeWdPanMwbXZET1lrT0U?oc=5"
+      "title": "隔夜美股| 8月非農大超預期強化美聯儲加息押注三大指數下跌閃迪(SNDK.US)漲11.9% 作者智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lVG9qQS1CYTZBUWhCR3IyVDNFeENIMXVBUndUOTJ2STdxV1N1NVRXb2ZDTGpqME1zcWh4dUNHNTRzMWlqT3BTcWtOX0JzTGpod0hxMmhIRG5Ea2d4X0Rvd1d3TW5xZ2JNYUdPLWx3TGg?oc=5"
     },
     {
-      "title": "美銀：美債殖利率已觸頂 民主黨11月大勝將導致美債漲到年底",
+      "title": "華郵批川普拿經濟要脅Fed降息 哈塞特：按兵不動論點強",
+      "source": "worldjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XaERCcndFdmJ2WEJ2dXU3MS1rV0NjY1d3aEtpNzFDb0d4djFKdlRycWMtVVlkNDIzbnFNQnhuM09kRGRzdE51ZnlSamFMSXgtSDJHVXdVYlA2SGhYUDFlS2p30gFnQVVfeXFMTjdOVnJoNHdLcHd6Z2JVMUJnUnFLbV9zVTlnWVc2SUNIYXpSN2hPaTRTeTFyRHZjeFF6WTVjYk9pYVFMcERMeE5Wa3ZQcnNLbjJWU19xbVhqVDdNTGZqa3YyQXlXTW9tSQ?oc=5"
+    },
+    {
+      "title": "川普撂狠話要求 Fed 降息 強調主席和理事應愛國 華許陷兩難",
       "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UV3kwbEppVWhVRVh3T3Yzel9RVGI5UXVxa1RGcmpFUXh1QlYwT240OUpRa1NlS24xMUYyNlFweVpjYWFhU09OYWMtWHg5eXJuN3BJZExjLVFHa0N6clJJUzVPb3FkM3d3Nms2eHB0UC1MbkFrQ0hVWdIBX0FVX3lxTFBvTFhGU2twaXRCbDM4Z2pTVzBDVTdvT3ZwWXFjeXZiOU1LU2VYS1dRSWJMVS1Wb05RZkhFYmdlMW5CNDl2X1hrT2lHbjg2azVQZTAzbW5GVUxTNDBOUzdr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GaXhJaHFvS3lUVUxMZ3BuN3lMRjF6MFFLQ2JzYVk4bTRfcTNRdTZodG0xV25yOW9RMmdDY05ORkgxaURKaUlKSll1M2JUeXNadnFmcm15dTB0VGswUzl4WUlfMnk5V044aUJMZmZDYzl0Nkk3SnQ3RlhMZ2zSAV9BVV95cUxOT2M2OVNBZVpEWnUtVFNyNURMd2dIeVMwVDZ3aUtXMU5qVXNnZ095MXdZU21xeGhwNmhJcWRMTnJqajNVYmJzaEhSOWI3ejFyaWEwVTBFblhwdGU2NVRldw?oc=5"
     },
     {
-      "title": "特朗普施壓聯儲局減息 「利率應降至1厘或以下」 威脅將中斷與逆差國貿易",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQcnhOUkpPa09PSVdWaFE4OU5DSHZvdWdOX1NxOHJiSWd6ODdhSkROTUNyRWNlNlFNRVEyR3YtaHhpbEFiV2R6ZXpJaWNKZFlXSGtTSEdBcnljcElrNkQ5aC02eHdLc0kzZWp3dlRQMzl3elM1VmJwb21sS3V1SmhhRXB6cGtjYUhqZ0xHRzFYcVNaR3pjTTJvUlF2SVhfYWVZZWVXcndSZWQyMmFwYTlXYVFvWVFoRjlLX0Z6dHNfdG9XUFBtUjhYdFprT2czRDVSczdxS3BCMWM0TjZsRXZFRTFFME4yWHFXNlFudDZmSEV5WkxDRkdaQUpodjdSSFF5eGg3cVEyTnJUVWdkSW1pVGpUZjJkdmhkN1FRQzRHZVFQczFfUmNGcEVwQ21YckhoU1JyT3hhWEJtemVvNmlXU1BaY25lQkNHNEp6eWJtcEJXUkU4Mzh2eG5rQ1JZVUMwdUV0c3IxM3dCTDV3dGFRZGlZY2k1aEpuTVBxQW9fOEtBcUtBdmlKd3J0WC1reVlFTkwtSW5Jcmc5T2NrUkdRUDlqcTJCZ2NGVXJjMTFBQjNPYkFiekwzdHIwLURDTVNuQ3ZMaWVLV0tqcG8?oc=5"
-    },
-    {
-      "title": "花旗推後預期的美聯儲降息時間 目前認為2027年降息三次",
-      "source": "flamingwheels.online",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TUDRMSkl3d1hXZkk1ZjVZTGg2alk0V2dmN2VkQndfWGI0OTB3MnkyWkVUaF91bm93RWFnSmlQVEQ5TlBZTHFfZHg0U1U0MDNuWHFvalhMRGF4VkFWb1JxMUoxNkdheFVPS3M0MVVQbFgtVGxF?oc=5"
+      "title": "Fed 9月升息機率增加 債市拋售潮 未大幅蔓延",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scktPWG1hOXNOVG5aeW9mNFBYRmZOZUFScVVwaTkyeGxwQjhhU2xjUTE5ZkNrLW91NVNTXzByY2M1VjVZZ1FSbDk5RFVSNUN1RHNOcHI2WnFZd9IBX0FVX3lxTE8tSktyRWlTV1p5c1N5bGpJS0ozZ1BVa09iSng1S3RuaHVoZ2lNaUtVUkQ0RHlGYjJ4M1FwdUZxU3NTODVQX3hVRnJzWWsxelQtSDBQVnFTTDhlOEFMN1FZ?oc=5"
     }
   ],
   "events": {
