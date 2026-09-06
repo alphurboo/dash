@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-06 11:15:19",
+  "updated_at": "2026-09-06 20:15:16",
   "gas": {
     "current_label": "9月6日 (現行油價)",
-    "current_price": "183.9",
+    "current_price": "187.9",
     "predict_label": "9月7日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "187.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "繼莫斯科之後 兩位美國總統特使首次到訪烏克蘭",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNUnk5MGotUnY1VmNKMzV6eE1PNWtNa01WUnIwaUdURmk0NDJBNGRpSERMTG9ZUW01cUpMT096Um5kZE1makd2MXlITkd4dEdlOFZ1MjM0QTJKVjZMME9IckdSYXhYVlJWVkxybWhmMllCTGVqdTRoOHhGWHh6OS02aXloQnFYeE9ZQjNrYm96YkJRUWxFdE5pQk01SmE2aUpNOV9BLWthMnFRdU1GX0hKaExMRkd1RGpZaVNkQkZIT1JfRmN4OVFFM0VaekxZVi1Pa3F4MS1fUTdkaFVDcFRvRHoySGJ0Q2pEYUpWeEZGUWg2Y3p4clFsMFlNOE9HODZndnRIRlBnU0dnWUQ4VUl2S1pPQlNJN3RhSThsZEFZbmxlN0hWd0hLRkwtUmdGUDJXREtsRHIyNktfZ191eko2X2VnY3RkQk5YcmttajhwWVNhWTZnaFA0bTNVYUw?oc=5"
+      "title": "美特使會晤普丁後抵達基輔 俄烏暫停空襲三日",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPM1pnZjI4cC1KVGZIZnhla05mcnhOUUw5WWw1TXlmRkN3SjZrM0FadTFrUzhVcDhVTXZ6RjN1bWpvbFhDQzhkb0hHYU5NLXFkN0RFa0drM3dtM2FTUm1aZkJ6azhWRFVnSkY2QmJIdTk5LUk0M3dpbVQyN3FveUVzcV9MVVZDYVJDbWllWnFwdzRWb1F2SjQwTzIzazFVaFZlX2FmeGhOZWx6N1FVeG5rTnBqckd2RUFfVzd2bk1ETkJFaGxXYnktY3NlcC1BS19Yb1dBSzROb2JONW9QNEZkVTdvU0swU2EwSU1hN0Q4cGswV0d2ek9oRU9pVnJnUXhLbnRmU0Zpa1JtU2E3Zl92Z2Z2WWhLUmFBNnVubi1MQTBtbHk0NG5sdzBINlMwS0xvSUozRlpSOE53aXM3X0o2Y9IBwAJBVV95cUxPM1pnZjI4cC1KVGZIZnhla05mcnhOUUw5WWw1TXlmRkN3SjZrM0FadTFrUzhVcDhVTXZ6RjN1bWpvbFhDQzhkb0hHYU5NLXFkN0RFa0drM3dtM2FTUm1aZkJ6azhWRFVnSkY2QmJIdTk5LUk0M3dpbVQyN3FveUVzcV9MVVZDYVJDbWllWnFwdzRWb1F2SjQwTzIzazFVaFZlX2FmeGhOZWx6N1FVeG5rTnBqckd2RUFfVzd2bk1ETkJFaGxXYnktY3NlcC1BS19Yb1dBSzROb2JONW9QNEZkVTdvU0swU2EwSU1hN0Q4cGswV0d2ek9oRU9pVnJnUXhLbnRmU0Zpa1JtU2E3Zl92Z2Z2WWhLUmFBNnVubi1MQTBtbHk0NG5sdzBINlMwS0xvSUozRlpSOE53aXM3X0o2Yw?oc=5"
     },
     {
-      "title": "新聞 - 新聞及刊物",
-      "source": "corporate.hkjc.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOHBrTWV1NXhleDd5OG9RLTZCeGpBTUY1U3pWdS0wVXIzT2NaTWJkbDBEQWhtaWlKT3ExX2NnQU54TzV5VFNQMHBxeDZEX0VEMXAyek9fYTh6c1pyU1ZvemhzSm9OUGpxSmpaRzl3bGJ6NUZwaVhaZWV3Q3E2bEFwTVRISlgzV05PV2daZEtqa0dfd2FhT3BISFRzbEs?oc=5"
-    },
-    {
-      "title": "普京晤美特使逾3小時 俄烏同意停襲對方首都3天 美稱數周內公布和談下一步方案",
-      "source": "am730.com.hk",
-      "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOdktXdVZuSVdudXZncldUaEVnVldjX1lNT3lOM2pxQ042aF8tazNCUXZMck8xeWFZR3Bub2l6RDVSUng1TTRMMUUyVkJ4azRLR0FVc0Rfb2ZkeFMtd3RoUmY1TXlvdXM5QjFhV01jVXNtVlV6dlgwejFIQmFKc002c0RNUS00MU1STGxEREliQjZVS3Q3clpfLW9lak9TcFlJVFpPcG9KOWpEVGVwOTJhelp0bTBuRHRDZ3J2NmY1Qmw4OWpOa1pVU3pWWi1zRXZYM2JjYnVKbEpYelMwWDA0M1FFZHRfTTlFZ3lFNXpUbWZNaTRvdDRTdjM2S2gtdjlXNHRkVUxqLUkwaC0zU2R0ZVBBNEZ2bVRDQWtuXy1FWUFaWHEyeDVRWTlPdWxfbDdXemRNUkZHcXVrbkpTVHFNd1g5UUZ1dlNOMmVYeVlPdHpkWWdTXzVGam9fWUZZREgzYWJUS201QXltUmpiZG1haEttVElXell6YjFlblhDdE8yR21JMjBpczgtT1VCTE5scmNDNEl5SE1VbkFKQnNLTmM4VkRDY2VIb0UwWFhuZzJrUGZySV9TOWdYVG9QenpuZVJ2Q1dyeW1kcHFqVm1xSFVjNzVlaDhNNHI0RlJqeUFjcGtsLXU1a2lQYXJyZzN1NG0xRW5JUF8zZnRPRXdR?oc=5"
-    },
-    {
-      "title": "擺脫死記硬背 走出課室放眼世界 獅小國際化模式教學 啟迪全人發展",
+      "title": "俄烏戰爭｜美國總統特使與澤連斯基等官員會談 形容會談「有實質內容」",
       "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNY2k1ZGNvSGNudWF0VUViVmpqNE1fbGE0VjQxMjVTODJsR0RnRTdlLUJ6SmpjbGo4UHdNbmtXUFVnN2ZUZ09VMERRaTJSSTQ3NUZnUGVJZ3A1Y0w2Y1B0MmpXOWZadFJIRVpkSDQtcEdDdUNVb1ZuMG5NMnVfQTZCNnprVnpIc25hUF8zYjZxMGNrQjVpMW9Obm5RNmlZcFJmSjNOb1AzbUVhSDhtMjhyOHM0RXJqVWVDTGRjQ19xTzN2RlBGdUEtMXVmZW8zTF9hNWxfN3NRSmxvNjQ0SWtlbFV5WEdZc05NRjRvZTJieWRwSG8wNGk2dF9qS21NWE4xZjNzVkFkX0ZtVGVXY3hzM0FQVjdLenRwYVpTd21lck8wWXNxcmVKcFlTYnJEQVVmd2ZvZW56V1I0Y2FNd05PV0w2RnBRYkVJZG9RZDI4LW8ydzctWUgwd2JhS2NyYUFEaWJrNGlEbXFLRnBtTGNBVEFrNU1pTkNHTXhGZ3ItYmpnNk9JbkROS3dTcHd0SU9zZWs3eEVPRi1iYzZaWktCUFRJd0VCMUs0MXlkTlE1RGhSaFNv?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxQaHZqdm93TGdNX3JueUwtLXN2RXZaQ0p3WDYxQlQwRkM1d09aNTlTZHdEeEVPb3ZTRGJSM2JNUktERURxbUEzLTV2V0M5SW9WZFdkQmVfYUNZejdlZWpRaTJ2ajduY19uRDJOLVd6blRtZXJNWm1EbTVveWpVb2lzVEZmRlJCZktEeFV5SFk0RjNUZzBsajlxdW1IYkJ0dGR4WUtVS0dpOVl5YlloNnpTYVc5cEpCdzVheG9VdWRzRFQtZ3l6ZFJVQXdGSkVhX1FSZ2NIRWpMUVhQUVNBV2c5eUJlWmpvMzdlTXBueERuMm51ZGJVQmtlQkN5MTBRYThsZDN6dE9MRG5VOEZJOXRtaDUwU0k2ZXRmTnVoVEFsZWRPRF84VXhOM095ZEZxcUZLZktoTzEtZ3RMdGlzUlp6RHc0bHpvdmpKUms3MW9BMlhmelh4Sm1HTkRtRmlickRWdGNyV1BRek9UYkJOR2JTZlJuWU1qOFRzUFdJNk5iZVk5dTItS2FZWmhvNndsN3NvZzlwcVlqWUlzUTJqeGpYZWkxVHhiWUJWd3NXZm4wbldSTk9CQmVma2twRTc?oc=5"
     },
     {
-      "title": "中東局勢丨伊朗稱美方應認識到遊戲規則已改變",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPajJJZExlMkNvZXVYd1BqVGtkSmJxWkQ2VEk0WnQ3UnFlLUhlS0JXeFNnVmFFQkVIVzVSSmNWekxXejE2aEs0OVczc0VRaUx1Y21MWVpBOFdWY2MyLUw0WUlQNU9pNlF2N1RrTW0yVzlFcm1KUlpmWWhqSHNyeXpHSDlkV3dhaU5hNUdXUnQwUDdwWWJESU5od291dkN3OWtFbzU2Zk1jUXFwQkZ1WkZrWDd0UzVWLWJuRVV5TmFKekxLbXRWdXlrTzhldzNQdEpRVFpCd25LemlaT0hWQ1B0QXhBdFc2OUtiMFFieUNGWlZrbGJudEFZQUZvdms5aUoxeXQwUUsyTUVjM0pSOEF3ZmU3M3JERmg0a0hDNmE3VzBSLVBxRWtoSDhWc283d2o3ZTNScFhVN0R6WDlnUjhURDQxNmlxeHNreXV3ZEVzMzBobnFvU3psSHhuTGZtZkVoV2owcg?oc=5"
-    },
-    {
-      "title": "俄烏戰爭｜普京晤美國特使逾三小時 分析指斡旋未見突破 俄烏仍存重大分歧",
-      "source": "i-cable.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQTDBKVk9PaGNCZ1Y2Y1dPcks5OFVlaVM1dzVMRXFsLTMtQmlXbHlRQjVfNzNOR1BzVXJtNDg4aWRKMVE4RjBwWFpBVm50YVZaQWxYcUtfN2ZmdzZZZG1veXF2VUg2dWtXbWhNT1R5cXdiY052NHI0V0QzdG1yMEJ0blRoUGNTNTVnNlN0WGJwdGVfc00tVFJ3b2ZGUE1nMHZTU0xPRnA1UUNjYUs4cGhXd2JOanZEclBjLVllMHNjMktldmtLdXgwSE9XVHR0MzlCWkNzSzBSeEQyNmhiRkZfc1JLZmU0XzZITVBCQlZYbVRyNkkwXzV5Tk95Ym1pOXJ0UXpwdGNwWEhlaV9XZlAzMUtQMkxYTlZGMGNfR1lITjVFZjFTQV9VWk8yVzBYM1dJZ29JVkJsVXlEUi05MllURndRLUZZSTFjR3BGV0tDMUdMMzFiMjllSnJIODFCejhjMDlqbzBaOXJmZw?oc=5"
-    },
-    {
-      "title": "馮德萊恩訪問格陵蘭 歐盟強化北極夥伴關係",
+      "title": "法國報紙摘要 - 世界報訪談：“中國不會取代美國成為世界頭號強國”",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeFh4M0hrWjM5TU56WGNEQXFROGVDNzBmc0lqLXZTdWpEN1ByRTIydjhydFoxQkg3dUwyWXFOS2U4Tk1LR3V2RHNxZDB2YmlTdGF5dzlRNHB0eTY0c04yMzM0Y24xa2RBZ2d4YW43ZEh0dW4xcHNwSHhlblFGaWNMNHJlVlh1RFpUeDI5Z3hFVGdja2pVT3FITUUzZEdvQl9GSTRmRDJuRWhnSXpqTjY4dG5QVERCUm1aWkFPMzJzQnNGdDJTUm5HMTRXeUhFelYtUDFfMDk5clJ4NklENncxM3BVZGU4d2FXT2NDYksybFRsYUhZSlM4a1plVzFfWFVPMnE4aUhSSVFQcklUM2FTV0hkd2VvS3N0Q3NqaWZWa3M5YmUxTkJ2dUctWGlqYW5OMzVyM012THoxNnlocm9NelNCdXk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQOUQ1c09nOG1uWmZrSGZJckRoTkNVdDVGQ0pwTGR6TFNzU0d2akxyQm42SkI3NUpwbFE0N2EwV0h3dy16d2JwTzFmZ0VGcnhRNldRQXNnLU85dERxVU5ScnVfLU5pUkJheHVvNjI4MC1reDJfamU3TnFGaGk0ZFNOZklNc3d2ajFnRTJiR01DWTBuMEc1MW9fQWVsS2gxNnhfcVJ6V0pHWFk3Z0oxZkFQdDZ5LVZwdHROdFRXSXJMNnVHTmctV1YtVkJvVG1udzJzdEQtSTRfRkFzLXJxNzdKWFVwQzVSQXdkZzRJcmx6bkFyWTEybXlNeXNPUElGV2lRbjdiYU1leEhMTDdsdlJKWkFVYkNUUnAwY040RGFWbG50cnFYZEtGZlp6WWYwLVhnRzNGY0tVMUJYMklqVS1IS3RBNjY1ODZyblFoTjFqVGZGQVZfYl84UFNFN0tXbDdYenNHUVM0aVRRUWlHOXZyQkRpLUpKV1JIekVMWU5tVE5ocUhwQXdRcDhKWFBfWG92V0hYVFFpM1lMMFNRaW5kTkVycEplQTlTR2NYVzBLNm5aMk9sSTFHejBtdEZoUQ?oc=5"
+    },
+    {
+      "title": "美國 野火地圖",
+      "source": "IQAir",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zelBkNXJTYS1RaXljVTZWYm1lYmRjYTgtSnIwcTZWcFp3bXBpbThLTEs2bWVrTUl5VlJObWdyd05ubEx6N0ZrdTZvU2tXZw?oc=5"
+    },
+    {
+      "title": "俄烏戰爭｜美特使首訪基輔獲澤連斯基隆重接待- 有線寬頻i-CABLE",
+      "source": "i-cable.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdzJjaEJkTllBU0xQeU1mVFIyYzNPUm9Ib1FWd3QyQVo3OEU4TDU1djZlR0U3RDl3clR1WmpyMFRNUW1mSjlETGlJZjExT2xoY0VIQnM3NVdmNGZNak16RVdDRzB6MWNZSHZVWVRpWEh1RXVYZTJMR2IwTzQ5LXZUTkpWSEpSTU5wazB1N0lhSmZXd2FMdlQ2VVdaaUpzTmZHbFBFVkFNTTFJRmt4OVF4bGZkd1pIUW94QVlrdXVxckZFS0taQmg4eHRpTTRrQjI3RS16b1VmeW1qQWJiWmdiYjFuaTdhbTM1UDVQWFdCMUxaRmFzbmlTV016YWN6QjZZdDJOYWg3Q21UMVFGS0M5YWVyTVRYNVNJQzRMRXROUUJoRWI3REFLcWxSQVlUWVlFMC1feFRXOEVfYTUtMHQtaG5jYjFXX2Q0bkc2VVlBcHZUVUtIZDVDb1U0VllXVFByT2M4VzZMLXF5dw?oc=5"
+    },
+    {
+      "title": "美國特使威特科夫、庫什納抵基輔晤澤連斯基 稱特朗普有決心解決俄烏難題",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOeElwSjhUQzVJeVFwb3ZvMk53c2pjU2ZxRGdiYXlreVJFVzdkaFg1dURIckcxYm5ZN1RxX2VrakduaWRtTUFvb1lKcE1JWkd6Mk5wMnN5VElxQ0NvU1Nvd1lSaVo4b3ZrNS1xZw?oc=5"
+    },
+    {
+      "title": "美特使商討俄烏終戰富成效",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMkpQR2w2MGNUdVdyWTMtM041cnVXT1pPcDc0OVZuWFhFR09DUmVVQTFvaUpfaEhKS1doektWVjAtOGtEdnhPbF9yMFljM0RjTnRUeDdaTlowRkVVRHd4bm9nYTB3X2xhVGwtLVQwOHhVaVBabkp5OVBTZFc3Zm9wOHBaODB2SlI2TkFiZGcxbVZlX0JUSnQ1bGFPRS1sX3RVS0dFaGhTak81Y3FibC10c25LN3d4OEltcVBWYkZyTlptcDk1N1VNZm9JZ3RmZ3ZlWlRrQXBnS2VkdEtON2NNR1ZMT3BhMFg3OWw0NExEaEdpYktSazF0eWhIakp2dw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "本週華爾街重點評級匯總",
-      "source": "hk.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRjhKQ1d5VVJBVWJWYkNOaFNWaVVneWtTNlYtXzJkX21ESm1NdW5aaGFQSmtDUnNfcVNaa1B1TVIxUkRrMnJ3RXZjTERrUGRsVFYxUzQwRWFqSlFNM3FySmJLcFAzYy0weFIzWTEyc3lXNDBlTy1XYTU3WHdVRXFGSzJBRDZGRDB0cXVWSmt3OFY3RzlFb01GSXliVU9IRFRhdGw0bVVpRGgzZ1ZQNkFDZ2tsaVowcU9RdGxqNkJ1YWlwNHVjaHdjYjJEbjdGYjItOGNhcEtKdjNZYlcxM0R4OWxR?oc=5"
+      "title": "從12比0到9比3：聯儲局9月只等一個數據",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckREeXNvYXdwc281b0F6d1dvaUdOcGduZmRjLVBnMW1PWTJQS0xfYkcxcDVORHI2czM4N04tejFYVFhDV0VsMGxNSDZUOVo3cnIybFpvQ2xGWXpqblBZV0RsUEgzeDBvcFljTkd5ZFFEbnk1X21lUUlSMnFaUTRWZEFwWkNwalVJZ2MxYkMyYklBaWJ6?oc=5"
     },
     {
-      "title": "美股 | 蕭猷華：美股處於「三高」格局，多重風險醞釀回調 | 專題透視 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXpvbG53S0g3WWJxcFZqR2paTFRIQkhpQTYySG5SMm9xXzZCLXFrVEprTW1pS3BQUi1obUhEYkQxR3JQdkpTbkt2VnFqNDNVN0VRSkJqMzN4cmpoN1FwVzFmSC1oRmpVMk93dWJFWUlmejdTV3dGNE5uRlg4UHhESTdibEprZ0hKMExuS2hKLWkxX3lqQ3dWVVNnV2w3bEhhc0RjX3NlT0E?oc=5"
+      "title": "美債危機3年內引爆？專家曝市場避險訊號：全球央行大舉進場2標的",
+      "source": "Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPNjZZeGhPUGdDRGlLUDJmdm9fNzdkQVFMN1QxZTV1Q2pGUjdLT1E4RHBUQm5EQ3gwalNMOF9wV3VVUldNTDByZTdMeVJSX3FTeUdZQ0h3MzdyekJENGFuelp3WVhUbW9XeHJLSi1qYWhWTHgxZU1jeHNaY2VkaC1LUTdkUmx5QXVGX1R5UG0wWVBsRW9wUFF1dGtuS0k4N0hfanhWQllJTnk2TjlNSGVzM0NQRVphS2tZQi1IWExwQzB0Y011NW9OeVN0ZDJONWFrZzl5YVNFQkFsWk0tcUhIZVRuaTdyWUxHZ3hnVTN5ZEY2LWUxWmpTMURlRlp6ZjNwcDZaQXE2V1ByajBOM0haLUlCS2dNbTNabW9IczBUV0YzcHpZVnNQeVBuUWd6S2ltZWZ5V0NfUm81TlpKY3FrMFBYd3l3N1UyZS13dFh3Q0x5eFN1SHktdUZqNkZsVGljWG5aODlTY2hmX2hNT1d3MTlxME5RMUdoa3hBRnF4b3Fyb2YwSFV2NFpHNnVpYnZCLWc2MWVPZDZhaDE5?oc=5"
     },
     {
-      "title": "特朗普向聯儲局施壓要求減息 威脅將中斷與逆差國貿易",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFJYYU82NGo0eUFmMGhTTUw5S2FSaEhpaWtEVXdyOTRNS2loOXZxWXNSRTRnRnR4SE5BTGVjU2IzRUdqMXFjZWNFMnpqTDJWUld1U2RLRDBsZE5TTEdMb0JzOGF6b1VibmJ3T2FFQXBNMTRkOVBFQmhGd21YbExzVm9BZTd1cVZCRy12aXM0Yw?oc=5"
+      "title": "Anthropic萬億上市作餌 延續美股派對",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdGdBN0dNSVBaX3NSM1VYWmFrWlM5S21IY1ZIU2ZJWmpIVTV5cHEweGdKUWxlVHY4NUxkWFhIZXpQaVc1MllUQkhzZV9DTkhLOGNBREpfYWpTb3dCV2hMNDdYLURyUnVmMHhhYktQZnpmbEJWbGtwa2xzU3c2dGRyUS0zR2huLUFZazM3MWx3TG5RYjJpUWZtN3I1SzdSVjJDWGdqT3hxRHBMVmNya3k3bFluQUgyc3NOVWZVQXdYWDZjbF9Pekd6Z25VZXFRLW5pVFNLc3lXUTJMZzVMRHU2akZSYzNCNXc5dEZ2RUVnMHJrTTByQjBFMkhqanVLaFU?oc=5"
     },
     {
-      "title": "美債殖利率直逼5%天險 專家教戰投資策略 | NOWNEWS今日新聞",
-      "source": "today.line.me",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JdWxSUnJRcUF1N1JDVEg1OTFxT2xvT3IzcFlZUDNDdnY3Z19zaENzTEhjWmJRVkxpbk5wN05DUDduVng3ZE5XbWp5WmFfZDlqMmRrZHNn?oc=5"
+      "title": "科技股ETF吸金力強 近一周流入16億美元居冠",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KRWxuU0lUMEQ1N3V3cDlzR2RkcXRoQWRjX0FDVFBvMlhyeU5hWVJ2UW5CRXU5TmpBLUNNWHJqMGFyb2V2WUo4SWtPVUpIOE5sQS1F0gFYQVVfeXFMTTYxbUM2YkVmand5a0Ztbjd1d2wtVGNkRlc1U05lM2N0cXZ5YmRpNjBOazlHU0xwU1Zpa0FTLTJQeklPcWFsblhBOGFVT1NMc2pnX3Zjb0JJLQ?oc=5"
     },
     {
-      "title": "非農就業數據引爆美股９月行情？聯準會還升息嗎？｜豐雲學堂 2026 年 09 月",
-      "source": "sinotrade.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQY21HUGhfR2ZLMXZxbFRKTEhFZXdZOFNRbWdtc1o0d0l4WGxxYWJxR0NqOXRkbjhsQUROZnEyYnlZbDZOUC1fOUVwa3IxVUV3bEhVLVlpUjg1Y3YtdGhEMEFFMmNLalByWEg0VGZmWTBxSVRCMHlzdDdEWF9pUVg0b2xicnM0RXR3MVljdUZVR0RfczVnbl9jNXF5YV80OXNQWF9lYndnYUJVZ3VpaXJQN1QtclNmOGpZODFSZ3I5RW9ZOWs3ZlpiSERrYjgxaTY0N3drbnYyYW45eGxETm5aTDI2Q3czNnQ4dzZlWTlIZGlhU19zSzZ3SGtLY1VOcFNHQllBS1BBMTJUbkVyTjktNEZTbHVGa2puSDFvXzVTY1Q3OEtEZ05hdjE2cFJDMVZlYlZSQXN6WFI3VFRVTFpHc19HcUlXWl9hazVBVV96R2FueTlWdmgwZTdabHpwSGNRdDFVcGJYODl4RHV5bTVrRDJyUllPbi1xemRCLVM0Tm1XQUU?oc=5"
+      "title": "美股下周展望｜美股距新高僅1%，CPI真正考驗是10年期美債殖利率會否逼近5%",
+      "source": "news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SbFB2UTE0M1pvVXpDQUp6b2tJdldqNm1haFdUVEJnWWtUQWI1LW13QXRnbllHU18tVFYtUGJUY0NvblZ0TnVqLWRuYS1kTkE?oc=5"
     },
     {
-      "title": "若聯儲局在2026年加息 歷史為投資者帶來好消息與壞消息",
-      "source": "hk.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNbjNzMXJ2WXpfQWJvZXRRbDBrNExPQ0VLRUtETkY4Ml96R1F0V1E1eDVBN2xlSkw3OUZib24zNVZYMG9KSnM0T2FmV1B0S2JHdEpHUjczdFBkdWZTX0ZmUkZCdW51MXB6RHNkbVUxUERRbmF6dFNKblJmWHJLb01QLUdRM3h5cDFHcDV2dldnVnNxNDE5MWV2WVhlSmlpdXRsYV8wWkExUkEyeS1yVkQ5Y1l6Q1ZaVzdteW9FNUNuYm5PWWJPOGtFZW1RR1NqZTdBZEFmVUhWa1hhTHNiQ1lQdXJCVkNZN2FBN3RGOWRwa2N0dllEWnZRcVh1Y3pfREV6UzFSM2pMTE03MTA1LWpPMFhmRXRGcldQbGpTc0VOYkFFckNfckRCMXc0dHlsdVNkd3pFMGx3Xy1iTG5xVFM5RGxBblJaR1FiVmkza2xpRG1mRkNPMXoyS0VJR1NFWHByXzVhY0tTaE1LMGdibkZ2Q0ZRWkZWUXlK?oc=5"
+      "title": "討論牆 | 美債市場新隱憂！避險基金槓桿激增恐比中國拋售更具威脅",
+      "source": "LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41Rm1lTmgzYlc4dmR5a0JyWTJndEpsMVhvNzFJY1lIV0JtbGNJWnkwZm9iT3VBbWNuaVNta2FxNzRLM1YwTEZGeTNrbTVvOGJsSWlzRFRwb1NoN3ZHSGZ1ZXY4WXk?oc=5"
     }
   ],
   "events": {
