@@ -1,18 +1,33 @@
 {
-  "updated_at": "2026-09-07 20:15:18",
+  "updated_at": "2026-09-07 22:09:09",
   "gas": {
     "current_label": "9月7日 (現行油價)",
     "current_price": "187.9",
     "predict_label": "9月8日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "187.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "澤連斯基與美國特使會談後表示正籌備後續談判",
+      "title": "美收緊移民政策衝擊學界 中國科研人才迴流、國際學生轉向",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOeVFYY3UzQjlWZzJleUN6YWt4dG1MODRaMGlySnZhNURMTlIxU0RXalZPeW5KVTd1dDhmVFpIRXAyMkFZZGNMNHhWcUh0Zkp5MkZyNGZFMWNvNEthVWMyYmZfVm9tZHAzZFl6VjllMXRtTHVLNVQ2UndmLThMSzdqMllweE4wREZEaElwTDM0ZlRzRXdSZno5bWZScVRBa2VnYnFnMVFCSW1scDVRd24yX2U1TXFyVHh1WUE2RXpWNlZlX252LS1TZk5rU0ZzZ1RxTFBRLUFaZm9xNEZmNWtmRFdYdzVnTlpDR3h5Q1FsUmZvYlFuZ3FCZG1EcHp0QTM0SzlzXzVWQ1VSX3hmWkRRZnJmT3JMSnhMa1J0RkMtSnBmVzk2SEh4RFptbzBjbW9MRGNhUzZqNjJaVVpyM0pNNVlMOUhoOHdRY0JPMkpXVDU1bWdBajBlS3haQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPOW9rLWR5WVRyX1doTkFyaVJEbnNGVlo3dkRtekN3SGM2WUxfYXV1THZobWFPZW5BbDFIQ1dvZ1pFM3h3SHo0SnZuNG1RYWl6N2hrbHhJWWxoa3VtYkFkeTNMVkRBUm95WUh6WW5hOFcteVlYQmtYU0Q0S3hneFctX0ZaZHF6cG40QzhwTGxZS3REVUZJUl91NkFRb09GbldweWlYNVhLNG5wc0VNMWN5ZkxqeDd6RmdFejM2Qk5QTjBOc2ZiQkhpQmtEdmV1TWtxRmdyQkZJM2xDdGpwM3pUU2kwbG1MaFMwUUFuaUpyTUxnbFBUTHFoSkhvMTZZaEFGMThxa1VNY0hNSEo0M3JFalpkZS1WaEZZYzNkT0ZxeFlNQmVDbkF2TDQxNHJ6R1k4RDNUXzNXT21BUmtGVmkxYkpRY0preVJPWlJDOXhCYjF3QlZIME5hZ2RwcUxPQTR4Z0I5dmhMWF9VdDYya3hVZ0dQcV9UTUxIUk9oSU1seUcxNlg3eW4ydGV3ZU1xUQ?oc=5"
+    },
+    {
+      "title": "印尼盾：石油和美國通脹構成風險 - 三菱日聯金融集團",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRUdTbmZDNDBZTXd1SzU0Ym9DaC0tNDRSb2ZWZG1QclFnTmR2MXVIUEd6dFAyRnBqNGtGdkN1UXBvZE95c1dHWkdDZHlfTHV6M0dpaUdSODY4ODA2Q0lDOXZYa2Q0QXVNRmJKdkFLN2QyLXBRVXBzRjRDWWp3ZHBobkE5Vk1obTZoRzJSWUtHelZDdkxEbDFobnNXdnhuWHlEUnZhVmctVUVueFhnMFBjbXF1NldWeVBVaEFZY2ZHYVFXWU1yeGhIamtMbGc5Q0RfRVHSAdcBQVVfeXFMTjczdnl1MWYwQlZncjlkb1FFZU12bFBvcldNVjBXQmdKQmEtdVNkMmI0NTdmNUs3NTVwRDloN1BpcTVkQVJnV19qNUNQdU5pWmtHbmc2d3VPd3A0UjlKT1NqTHJVMUp4TGRHVjE3NzlqMXRSYUV4V01kTWJMZkw5cW9mUzdndHlPSF96YlB0d3BNZklIT1ZsQU5SZXA5c3pUNmh0UE40VjJoOEEwZmFQRXdWdHEyV1pVZW1EYjY4MVd4b1ZjWnFoM1R3dGJrNlRsQk01RXJZa28?oc=5"
+    },
+    {
+      "title": "卡利巴夫警告區內美國能源基建岌岌可危",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lNF9TTmJORWxxMTV0R2pXSV9PSFc5UDhYeDVwaHV0ZnVURFBvSDZhMXFfdUM5cEZMb1dZR0s0dk5DcUpaWUN3UXRLMFo4UTc3WHp3RFNQMWp5amtqa2fSAWNBVV95cUxOMERySGJMRjZ2MXlSQVhwel9pUl9jTXVZdHpFaGpGSnV3bkJoY3plQWctZTFqZzBDWjFRSnByR3ZPSzhsdkNGNnh2Wl8yNm5GTUxoN3UzNmNGYTk2TUFkT3dMN3M?oc=5"
+    },
+    {
+      "title": "美特使調停俄烏無果戰事延續- 國際",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jVXlmX0RGalV6Mjhrb1Myb0pwWDFvdm12eGNKVkVwQS1Rd0NQTGxaSmJGQk5TdkxBek1HNkppd0RFZFpOTmVSQUFYZTFKUW43dzd5clJwdk42U3gxbFpjcEU1UWt4RUVaUi1vdTY0LWV2S05x?oc=5"
     },
     {
       "title": "歐盟宣布向格陵蘭投資2億歐元 馮德萊恩：格陵蘭的未來只能由格陵蘭及丹麥人決定",
@@ -20,46 +35,21 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yMUllZlFXdWNmNWVqMXJzdXhxREpjRXhmVHJ2dGwyUUxZWlByZGtISkpvNFhCMDJWeTZHZHRsVnFiVWl5ZWxCMEk0czFsWkNjc2pEUzhna2JILW1kR08xTVVrbVl2SGR4SlNGdA?oc=5"
     },
     {
-      "title": "新聞 - 新聞及刊物",
-      "source": "corporate.hkjc.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeW9oRkV4VDQyc1NUblRHMmV4OTJZdmdDY2xlTWUzdy1QNTdqcVpmR0NHR0NzdzhhWEFWcU45WDdjYmM5dXc4YktMVTBuOXYwV0xrOEl1ems5OGJOS1lwYkt0cGtlMklyTHU4RFJEbTN1U0hxcm13QU1VT0ZSNVRwb09MTlZwOFFYR3pObWNDNUhad0FHbmZid2VrVFU5U015Z09zQnNoOFk5dDZ6WFdkVQ?oc=5"
-    },
-    {
       "title": "英美首腦通電話 討論俄烏停火",
       "source": "信報網站",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcnZKbTFiTmdaR2hrQm12NnpfLVdrMnQtdmQxSFdna3l6bXR0X21qUmVETlNVbWMxQWp0WnJyTWt2dFFTam5wN2NwOXdjcFRWQlZEWTVkUWhPLVppQ3AzRTZiOC1LYkVPWG9rc1lvMTBGN21lUW1hN0dadWpNbUdsUkVSeG5jUjJnVzZ6eUp3bDQtTzk5MkNmN09NMjlLeG1QRHBkcDF0RkZ5Um9ZaDRXaXNTWncyT0p2c2VLSzNDOUJIUTgzQnRWM3FtZXdham96cllmUjZucVE4NDZJM3BWcDUtaXdJSXB0NmR6eVpINEFFeC1DaEdRU0J0ZDhvUnVvUmJPekNB?oc=5"
     },
     {
-      "title": "WTI 原油上漲，因中東供應風險仍處於高位",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1NlR1RPdmdOb0RFaVR5OVk2X21DaGlIeFJUUm1TV0QyZkZrd3VLLTVOTGhDNnIza1lGMTg4YTNXY1VMVDJpZTJPNTUwdE9zVTZrTW9JWHA0ZGRvUFVkUnJESUt3YnRtOENGWnZQTHhoWXV2R0stamhtaGpfdFRUTENRQlpWZV91OU1QVDNKRWVudXdGNm9nWDRrY0t0dlBHNTQyUDFDdVpZeXJkdldCZGpBVUMwOUplSXNveUhn0gHDAUFVX3lxTFBUWU5NWXJaTFlQYmpjS2djem1XSll3UkE2MWFfeXEyRHhlMXZIbWIzWjZVWVVZUzA1SkE2VzluajVDZ3ZFZGZ4R2V3XzItdW9feUZtbzdGZjBMM3hNOHVUTm9ybF94T1hqcjFTQ09CeldHV2hPMm9WeHJJeXJoQV9OS1VEaFhyNzBnWEJ5ZVJyYVdJQ3RmQWdRdWJuUDNNc1ZNX1VHRTY5R1VmUEUzbVQ3dzFMUzlOTE1JWHlCTldXaG1adw?oc=5"
-    },
-    {
-      "title": "川普狂發文稱買股「為國家賺數千億」 又嗨喊月球屬美國…網傻眼",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IWDhMY0ttU3ViRzc1bzQ1SWRERzczcmthWnRINjlWS1FHTkVuTk9zX3U4VlpoTExMb2N0RUxxU2tpa1prY1VjZUJLNEM0ZmRm?oc=5"
-    },
-    {
-      "title": "美國特使在俄烏間穿梭外交：雙方分歧未解 澤連斯基預計戰事將持續到冬季",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81aXh2Y2ZQc29KSlNBMDl2UEFyS3FLTFlGbjlMOEdBMUtVWGg0TGlkQkVaOWhJRVJWdU83U3FaNzU3WmVrc1gxdXM5Nzd6YTk1UEdhMFNCaVlEdnd6NXlUYTV0QnYtUdIBa0FVX3lxTFBiemdpN0Ruc2owRVpGMjhJSUJTMWI2cUJWd2E0THlSdXFFblBSQktkVXZOdmNTdFZDYW1RV2xNZ3FOWDFYQlcxMmZFY0Z3VkdQbXNkTTJWejEtT1IwellVaU1sdmtmb19IWWE4?oc=5"
+      "title": "美加貿易爭端升級 特朗普威脅封殺龐巴迪飛機在美銷售",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOOFZtcWdrN01MN0Vjbk50MkU5OGJuTFZoYUlGaVR5em80VlAwd3Y0d2cyRWptNFBTbGtrX0hPdWExNkVreENLM3VuQjdiVDhxbzNySDB6a1ZwZXExVkxHbDNYaHU2Y18tbU5sc3p2emZBTzJHWjNQMmJtNktha1RieTllcE5TVWRNRmNvSXBrQUlnTkpfVWVjWG5EWnIwTzVRY1lHY2c0U2M4RmhUQ3Fza2hEbVEtcmdORFJmRjl1WHN0MXdHZGtQYnlLa01EdVV2bW95aXAyS21QNFMtUEZjVWRyM012c2JtM0hBZm5vdmg5WGJMNm1JREFJdzR1d1RIMUZZMUQwSF9oUEkyVlVqN3FXVVhfdlF0aUxxT254X0JNREtOZ1RoMXpGR2tRYU5hbk5VVHB4NEpzMnFOS0szUllzRkVYWk9QekxLMlhWZ1Z0Tm5UY3BlQS1YbzhvOHVMbTJGMmJYTElrZ1VOQmdFd3cyVVV6SkltV004RVRfN1E?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股因假期休市",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtd1BnZ2ZfWHVRazFQZ3NDZlVSbXg0Q3JoLThnSkxMMkxVa0xjWEM0bFQweTNtWGFJS1ZiTHZpMlFzQ2tfenF6bF9iUFhpSFRrWXRISnlNY0NOQ2ktMEx5N083aHNEbWFOM2VjZTkxZw?oc=5"
-    },
-    {
-      "title": "日本加息提速 美債負擔沉重|香港經濟日報",
+      "title": "【美股期貨】沙特煉油廠遇襲 油價升 美國勞動節假期休市 道指期貨半日跌329點（不斷更新）",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN1c3RU1ESk1aNTNEdVVHSmhXckw1V25MMEJULTFhdnBSY2VSbzJqSWVzdjV0cFJLSkZkelE3SGo2cVpIblFSSjVldkVkNWQxbENxT2RZdU9vVV9HdXpGOExKS19PX0YwMHVLRlR0YXlnRTJsaGdsN2Z0OEhxbTkzMmhvY2Z4c2R3Nmx3dGNrLS1UU2pjTzJja1dzNkZUeHVDYWwtclk1SnAxcUFnNC00RVNiRkdnZjNNVl9lWHlsRmttdXVvemtpVkZQV2xKcEthbGx6M3dUU3psZmJIOUsycDFxNXkzQQ?oc=5"
-    },
-    {
-      "title": "全球央行拋美債搶黃金？美聯儲官員析真相",
-      "source": "大纪元",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UQnNwWGxhV3J1LV94QlhFUUdPbEpVX1I3bF9tellKYWpMY2t2dHpXcnNoam1na19vd3RXenF5R1N4ZE02WDNrcnFOWERlN1F3cXJLYTNWLTBBSDBBQjNv0gFkQVVfeXFMTnBSSkROdDUwQkpRWEUzSjJYbUt4VGRCYmVrYmJvU2xwOWlHdnpIQWRGakY0bk9TZ3VyZXhONzFuc3d6X2hPRjVZRjdNcExBS1hMSHhVN254ajlwenp3QlFELVBuMQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxNTzA2aVZ4VzNiLU56b19QNVpSZl9FN2ZDMmF4WFk2X1VKeUNxZW5FeEtKdHkwcHNtckxYOFVfdUZIQmZfRWlhT1lwdlpXOXhYN19uZFBvbGxTR2lLTGFKYmNIYzBDNzVMSnlhTEViZEV1ZXl1ZTJjdTQ2aEZ0R2owQVBLRjB0dHVNUEtPMloxYUFobk5hT3lqNFFRcS1zSUV5RERHR2lYcUkzbS0xMWlVUHQ1Qy1SRW51YmNWRWxIN3pNRHpuNWJUT2JtcGdadkp6R2NadUJYRDBFV3NGWUYxT2ZkNWZPaHRkNU9zdjhseFJoak5aTExDUkJVQkgwTE1RS0JRTkNQaXE1Wkl2bGV5NFBsdE5aYUVRbDFsVExTUUxsMEh6dE1QNVQ2bFBxQ3ZiMDZZLUtZX245OEhJMFZhYi10NGF2VERUWjhDVTN5SkRnSmw1a0NmN3dLczFpYWlVc3FzbHk2a3B3UUtFZm1EZTZqWFBUQ2xWVWI1UTk1d3lYajN0czVKclJVdXpuVGJjeHdBSWJUS3U0RlQ2Y2tyTk9RN1YzQ0dUZDltODhQUHJEbXliQmpYRmFLYUxxM2VSSEpoTkpRbnIyUUJjajhfSXNyemZMS20zaW9PT202WFg5NzBGYzRJdzZSbURWTnJoX2VSUFVLY2lQQlMydkdhN05aVVZxQXJIanZBYVFmSmU5N3dEUUxEbHhGZmgxdHlxWjlWakduUTc5QXpBMGVMTko4TWVJQmRZOHZBQ2NYaG1ERm5KRWEtWlJhTDdyTmVwVUpSUUFCWmNNQQ?oc=5"
     },
     {
       "title": "歐股個別發展 美股休市",
@@ -67,14 +57,24 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVXVjOWRTNHUzT0JHczVFR2ZRX21WbU1ISnQyQkJYNjd6WEFPQW8yYTBLbWtjRms1bkU3SlpjX09jSDBSaXBsOXFCYVZJczltTWxJbnhEdnV5SzB0WWcyZ3lUNVo0b0dEUVNBZnd0aGU4LXMwaWdTc2w1Yy1KZFpzMEZUWVAxVDh1VlZ1MFROVkEtUWV4OGczOGo5dGJWeWY3UE1uVHRzQUY4TE1ndml0ZlNRSWNaVjlIYzBsTmRUcXhodFdxdWdSM1duNEhuME5pQ3RMS0dwOHN5MGwwTEhVdTlHcWFlZ1RqWmc?oc=5"
     },
     {
-      "title": "債台高築的美債可有靈丹解藥？ | 名家觀點 | 專欄",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZWJNYXZPdUx1RGJrZnF0clNsaWtYTE9aVDdISF96OEJsOEtQZE12QkFJVk9YbV80aG9abjhEbW96bnk0T1g5RDJfYzRiX3hZaVVrWEZpTGdhQQ?oc=5"
+      "title": "美債恐比想像更糟 頂尖經濟學家：殖利率已進入「全面應戰」狀態",
+      "source": "news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NVFB3MEg0QlpxS1NwSzJ1N0tuVUlPRHY3ZmZ6Qkh4dGt0YVNBdktzUHJxZERHc2x1bU5JaEExTEZPYUNLVWo2ZFVQMlZ5MXc?oc=5"
+    },
+    {
+      "title": "全球央行拋美債搶黃金？美聯儲官員析真相",
+      "source": "大纪元",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UQnNwWGxhV3J1LV94QlhFUUdPbEpVX1I3bF9tellKYWpMY2t2dHpXcnNoam1na19vd3RXenF5R1N4ZE02WDNrcnFOWERlN1F3cXJLYTNWLTBBSDBBQjNv0gFkQVVfeXFMTnBSSkROdDUwQkpRWEUzSjJYbUt4VGRCYmVrYmJvU2xwOWlHdnpIQWRGakY0bk9TZ3VyZXhONzFuc3d6X2hPRjVZRjdNcExBS1hMSHhVN254ajlwenp3QlFELVBuMQ?oc=5"
     },
     {
       "title": "市值蒸發近八成 #Nike #標普100 #美股 #am730",
       "source": "facebook.com",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOEZwQjdLT0ZGZFNqS2xmUWVoV1BzUFBSSjBzcFJVS01HUFhzVnpvTnNUa3dqaXp0TUlVQ0E3bGpXdm5QV2VheDI5X25hdFRkSzUtSmtwSlhsR0RLSVV2S1UtRzc2bm9Ed0Z3SHAyYUpSMzcyU2llajFWWHM2NjZPdXgyM2pOOFk5SkJua1ptWV8tTG5iNTk5aU5aejlWMzhNMzhDUzRGdk13Y29RRG13dmdQbU1lMXdqOUx4MjZHYUE5ZE8xLTdHeWE3SU5mUnVZd1RJWlVLZ0ZmblJfVVdIUlJHTmREamlrQXd1UmJxVl9rRUtGb0ZnNHhLRU9LQ3B2?oc=5"
+    },
+    {
+      "title": "債台高築的美債可有靈丹解藥？ | 名家觀點 | 專欄",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZWJNYXZPdUx1RGJrZnF0clNsaWtYTE9aVDdISF96OEJsOEtQZE12QkFJVk9YbV80aG9abjhEbW96bnk0T1g5RDJfYzRiX3hZaVVrWEZpTGdhQQ?oc=5"
     }
   ],
   "events": {
