@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-06 22:07:47",
+  "updated_at": "2026-09-07 11:15:20",
   "gas": {
-    "current_label": "9月6日 (現行油價)",
+    "current_label": "9月7日 (現行油價)",
     "current_price": "187.9",
-    "predict_label": "9月7日 (明日預測)",
-    "predict_price": "187.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "9月8日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "要聞分析 - 美特使見普京後又見澤連斯基，俄烏止戰最大困難依舊是領土問題",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxOa1JoNHdtb3VpczV3YVEyMlNmU0R4TWVHSVJjZVBNbFBudFZEX01kWDZsMmpSa2M0OUZocHpReS1zcmdUaU1fc25UYVRvdnN6YUloQmxQVmJtdEZWMmwtRUpuYTdmd3JDc20xeXd0ZnFvZG11ODBoV2VEd0RfLWtuX1RtYmdXM3ZUQXh1MHIyM1RfYndVTHN3SWZHU2lmVEZmRzh5Rm94SlNTSzFnZE1RQmtqU29lNkZnTWlNY3Z0TFhsaFlNNUg3YzBhTk5VNER4bmJyYWhHcnZEYW90Rmo4RV9xYjdaU1h2aUpOaTdDZUpxR2M3aTJ6bDZCYTJweFJ1VTY1NVp3X3AyU3diR0I0aEhvQVQ1SVd2djRxVm0yNGp4NFVHV0hER29lbjJka0V3ODZDRDBydHlXVVlzX3kxcFdabGpOZHdTcWM3VUUzX3hCbms1M0RweF9oVkJMOXJLd2U0WmtiX1N3cVd5ZEZLUUQzVnY3ZFlzSVlVbzNvaG1qYW93bW1GMkJhZTJCT3JYYm1PaFkycHN3RGpNUWdtcmdhaENSeFJGMmJxUG5tbnZrZFNZMlV5Z2wwUXhjUnlnNDkxUE0weE1pSWdtYk5NbUg1RU5iNVY5dTlER2pCLXJpc0NvYndSM1ZYQ3lFVUNmSzB6MlloYnZKZTUtZkRoOC1nM28?oc=5"
+      "title": "美國特使在俄烏間穿梭外交：雙方分歧未解 澤連斯基預計戰事將持續到冬季",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81aXh2Y2ZQc29KSlNBMDl2UEFyS3FLTFlGbjlMOEdBMUtVWGg0TGlkQkVaOWhJRVJWdU83U3FaNzU3WmVrc1gxdXM5Nzd6YTk1UEdhMFNCaVlEdnd6NXlUYTV0QnYtUdIBa0FVX3lxTFBiemdpN0Ruc2owRVpGMjhJSUJTMWI2cUJWd2E0THlSdXFFblBSQktkVXZOdmNTdFZDYW1RV2xNZ3FOWDFYQlcxMmZFY0Z3VkdQbXNkTTJWejEtT1IwellVaU1sdmtmb19IWWE4?oc=5"
     },
     {
-      "title": "澤連斯基會晤美方代表後預計俄烏戰事持續到冬季",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05VDJoTTB2QTN0VlJrZlRfMWNveUVKRjhwYm9LSVZLZkV6OWlxYWFZYUlQNlBCSlQzN2NLcWQ4REUxaWtkcGxqVjJ5WkphVmlGOG1wNnZJT0ZUc0xra0HSAWNBVV95cUxPMThuaE5OalNvaWY0Qkg2cGt3WlA5R2xianE5THRyc0tvNG8yQ1pnZjBROTRmcU5JTjIyRE16Qkdoal9FdkNlQU9JQnpES01oam8tNkhwS1FQWVFubnVING9lck0?oc=5"
-    },
-    {
-      "title": "美特使會晤普丁後抵達基輔 俄烏暫停空襲三日",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPM1pnZjI4cC1KVGZIZnhla05mcnhOUUw5WWw1TXlmRkN3SjZrM0FadTFrUzhVcDhVTXZ6RjN1bWpvbFhDQzhkb0hHYU5NLXFkN0RFa0drM3dtM2FTUm1aZkJ6azhWRFVnSkY2QmJIdTk5LUk0M3dpbVQyN3FveUVzcV9MVVZDYVJDbWllWnFwdzRWb1F2SjQwTzIzazFVaFZlX2FmeGhOZWx6N1FVeG5rTnBqckd2RUFfVzd2bk1ETkJFaGxXYnktY3NlcC1BS19Yb1dBSzROb2JONW9QNEZkVTdvU0swU2EwSU1hN0Q4cGswV0d2ek9oRU9pVnJnUXhLbnRmU0Zpa1JtU2E3Zl92Z2Z2WWhLUmFBNnVubi1MQTBtbHk0NG5sdzBINlMwS0xvSUozRlpSOE53aXM3X0o2Y9IBwAJBVV95cUxPM1pnZjI4cC1KVGZIZnhla05mcnhOUUw5WWw1TXlmRkN3SjZrM0FadTFrUzhVcDhVTXZ6RjN1bWpvbFhDQzhkb0hHYU5NLXFkN0RFa0drM3dtM2FTUm1aZkJ6azhWRFVnSkY2QmJIdTk5LUk0M3dpbVQyN3FveUVzcV9MVVZDYVJDbWllWnFwdzRWb1F2SjQwTzIzazFVaFZlX2FmeGhOZWx6N1FVeG5rTnBqckd2RUFfVzd2bk1ETkJFaGxXYnktY3NlcC1BS19Yb1dBSzROb2JONW9QNEZkVTdvU0swU2EwSU1hN0Q4cGswV0d2ek9oRU9pVnJnUXhLbnRmU0Zpa1JtU2E3Zl92Z2Z2WWhLUmFBNnVubi1MQTBtbHk0NG5sdzBINlMwS0xvSUozRlpSOE53aXM3X0o2Yw?oc=5"
-    },
-    {
-      "title": "美特使晤俄烏總統 推銷終戰方案 威特科夫庫什納首訪基輔 英法德國安顧問加入會商 - 20260907 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxNVW8td21RclpsY3lFbEdsejY4UDlfX2lQZktzSWQwajdNR0Q3SGZpYkhBMXJFN182amMtSC1tZENmZmhrR1NwdzN3S0VuNlp0NDBFUkdXNFRiOHFQMm4wWnFCS1lrTUFsOVFiWll5Y1ZKcDJ2UndjNUhGOEFERF80ZnkyalVHaXBpV3dEMlFCZlRmRWhQT1dmdXJYOWwyUkt1MVZHMmZfY1N2bjFBRktnUFQ2YTRDeXVpZEVxcTlMVG9NcFIwaFMxY1JyT01EQWRZczJ0VzlBd0k2NndDakxzVUdqX2hyeTFqWWplQVh4ekREaXhGb25XRFRwa1VJVmxWd0d1bHhlcU8ydjNOMWdvVGh4RGRqNVNSLUVBNE5CRTkyaU5jNkpBalQ2bk9MWDFPYWliclczd1FNM1l5NUdVVTFkMkNTMnNLcDVuYnp6OGphZXVHaExJVjFHSkxKRXhjalBDZl9kM1NoQ19iNTBVTVl6OEttZi12SVhWNXU1Q1p1NkFQaDdsZzh1Z0lXR2lYUXVQWVY1UERYMTY3dG9ETGFnaTVGZlA1YVdnZW5fS2NremM3UkN4VFdNOGQ5dnVSM3FBUGFQUHBkRGlVYnhocnlKY2ZjOVBLa2Vwd3h0Mkg1LXhRVDcwOW1MaXR0czJhOTdBQ3JrUzNmWi1LTVJaTFJZd0RuVGIwU0s2ZjVWYzJOazRSWWw0MGo2a3NVR1d3cGxkYkdfLVlWVElqOGRGT3lqbXhleWZrcml6OEpUSGNDUW8?oc=5"
-    },
-    {
-      "title": "普京會見美特使俄烏暫停互襲首都三天- 國際",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NT2VTU3Z6OWY5aGFaeHdzOGhubTdtdjVQQXpheTIwenVUNjlodDlSQmoxbFo5UmJ0ZzFkWFl2UkZ2M3ozM0VKMWhvYVFfM1pkVFB4ZS11SS0wN2FFcS0yTFJRYkNBel9JRUw5VjV0Y3hOS3Z2?oc=5"
-    },
-    {
-      "title": "美國特使結束俄烏斡旋會談 澤連斯基稱準備迎接又一個艱難冬天",
+      "title": "中東航運風險升溫，油價或衝上每桶120美元",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQbml0R0syU2taeW9qbk1GRC1NS2JuMWo2c0dZTlVrU210MDhlbVd2X1VVV01wSTlLLVJyV1Z6M1lHZ281Nld5M1o0TTB3akMzbVBSdG0xYktMLVZkbWM5ODdnaVpuLW9oZHFUMHhlX3pqenlOMDUxU0s5ZnROMVRhMjVDdTBEV0NRVTFPMUg1YXZMdWxzUzR1bWlzZjM5LU5rQjJhX2Uybk5JRW9LSHFjbVRtUTh6LURDWmZoU3ZtY0ZNd2d6Tzk2dTNhcHlQVUlqa19HcGI4aGZNN0NnQ3hwSldTTk5VTXVlc1BoYkRLeGdyZnprNi1WdHhtZmc3X2k3aUV6Ujg0N3h4WDJkX2tOSGZPNlNLZGpwSkxocEUwdnFoNk1MNmluckEtTnhXeHVyaEpPektyY2tMdkVTdnc1eEhKUmt0U2c2dS1UaXlPRHpEZ0ctdmExWUtzb0EyVU9rU2FrV0h3VGZsX3NZZkN4MnhMQzI0Wi1zVUFxYUV1RnN4Mm1XLTV6TnpXQ2NSUkJQR0s3OU1vbFJRVnZtTTdQNnFiYVA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNaDZMQ2tvbjZCLVhMb2NEbzNwTjZBbnkxNFU1Y0diWnBPaGx0dmZkVWpFTnhka0hHZUdFYVZkWS1KbDhucTlZOGFPZkxtTEp6dzBlcjBFZnZnLTBGNWpQYmh4UUQ3aDlBd3VwcHZyTjZBLVF4c0d5V0xDaXFZS0R3QUlCT3Z5Rml1RTdHQURjSUFaSHRxSWpPclpONndVQmhNVnpwUUJhSHVZYTZzVnI4LUdYUzAxLW5pS05veGpjNUJjaVNXLW5uNGFsanNiZ2Jkakh1N0NEanM3NGcyVWlIYTRpS1RabFVoZ3ljdlpxUV9acFRKQkRaT1JZNzhEQllNYlcwSjgzQ0I5QmFLSzN1UmlKOFBnTzliYllHLWx0OVdMS3o2ZElvQjFoNm9Gemc?oc=5"
     },
     {
-      "title": "俄烏戰爭｜美國總統特使與澤連斯基等官員會談 形容會談「有實質內容」",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxQaHZqdm93TGdNX3JueUwtLXN2RXZaQ0p3WDYxQlQwRkM1d09aNTlTZHdEeEVPb3ZTRGJSM2JNUktERURxbUEzLTV2V0M5SW9WZFdkQmVfYUNZejdlZWpRaTJ2ajduY19uRDJOLVd6blRtZXJNWm1EbTVveWpVb2lzVEZmRlJCZktEeFV5SFk0RjNUZzBsajlxdW1IYkJ0dGR4WUtVS0dpOVl5YlloNnpTYVc5cEpCdzVheG9VdWRzRFQtZ3l6ZFJVQXdGSkVhX1FSZ2NIRWpMUVhQUVNBV2c5eUJlWmpvMzdlTXBueERuMm51ZGJVQmtlQkN5MTBRYThsZDN6dE9MRG5VOEZJOXRtaDUwU0k2ZXRmTnVoVEFsZWRPRF84VXhOM095ZEZxcUZLZktoTzEtZ3RMdGlzUlp6RHc0bHpvdmpKUms3MW9BMlhmelh4Sm1HTkRtRmlickRWdGNyV1BRek9UYkJOR2JTZlJuWU1qOFRzUFdJNk5iZVk5dTItS2FZWmhvNndsN3NvZzlwcVlqWUlzUTJqeGpYZWkxVHhiWUJWd3NXZm4wbldSTk9CQmVma2twRTc?oc=5"
+      "title": "今日外匯：中東緊張局勢令投資者保持緊張",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2tTSTJSeDBNZjBPUl9XMmF2RUFsMVlhbDBnOXFha21TVkgyVUtpdkxmX0xWSXpfd05FOTEtRTJOZEQydXpITVhyYXQta2tTejctYUFZYUJibnNiNjdhRko2TU1uUnZTcl9vVmEtUHNmbnplRjhiQm5JZUZpdUNTZ3p0NFR5RlZPYkhpcU5sYk1jUEgxNVBjV1NQUGxqcmtnb2hEa1c0emxHV19tRWdkRHc0LTJhYWVVUGfSAb8BQVVfeXFMTU53bUhDSUgzc3NLSG02RV9UMmYwVGFobjFWQ20xZGlzdkZvTWVMZUtaN0JzUHlyUG1kYmFDSkZ5VTFRR056V2tUOXFYTG5aZm1oWjRyeVZrekdQOGRfckVuZndqRTdWMUFOOHd1TEZReHZzWE5fblpFbHhXbDZub2dvMS1PR005aENKRmk0RGxMRGFDOGsyT1JBSG52U2hGdWJsaHN1bGJBbnZOWExZV2VuWWpRQzRRQUdpVGVHWW8?oc=5"
+    },
+    {
+      "title": "美國非農就業人數重新引發加息辯論",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnB1NDZjTlcxTWpKRkc5WkxLQy1LTC1RQ0tLQWlHNUJsSVhoelhWOVJRUE5WejJlLTBrN0FHVll1STNrd0ZteTY2M19uVjFXZWpXREVkNVhUbWdkLUJkbTgtcFozZG5IQVA1M1lFTUFzWFY5bDM4YUdkVlJISVVXVjRNcUE0UGM1YUxqaVQycUUtUTlPb3J5NUxDQ0E0QXVFUFlyemFTUGdKLUFQeHplWGRueXPSAbQBQVVfeXFMUDZwdTQ2Y05XMU1qSkZHOVpMS0MtS0wtUUNLS0FpRzVCbElYaHpYVjlSUVBOVnoyZS0wazdBR1ZZdUkza3dGbXk2NjNfblYxV2VqV0RFZDVYVG1nZC1CZG04LXBaM2RuSEFQNTNZRU1Bc1hWOWwzOGFHZFZSSElVV1Y0TXFBNFBjNWFMamlUMnFFLVE5T29yeTVMQ0NBNEF1RVBZcnphU1BnSi1BUHh6ZVhkbnlz?oc=5"
+    },
+    {
+      "title": "特朗普發圖將新墨西哥州改名為「新美國州」",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YMEV3SmRmTUxvZ0o1MHJtSWxYUVRSalVDQlhUcjMxUzU5anV4enJTeGNaNVZZdW1NTWxmOWZzdHNDNWdPNG1tWDRQa2wwVXBwX09CcGRIWVVYWUVoR1Y3dFVNQm56QUhSN29ZXw?oc=5"
+    },
+    {
+      "title": "選舉在即｜特朗普指上任後為美國帶來數千億股票收益 「為了國家，不是為我自己」",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOZmMzZWRqRGs2U3RuTjRIQlR5TUNzUi1YWHZVTG4wNF9CY2ZUcnRIck0xOUxxOFMtYXZBT2s1UmZjbDZpQlM5THVkdXg1NFRwRU1QWDVTeFFvb3c4ZHlvSmFBOURWOEY3THR0dE1kWU9LaHVSVDU3ajNPcnhpWUFrT2NkODJIbEtfR2EyMDVNODFONWVZNjdZRElmZ0cwTWIyUWg0Y0xDZ3JqX2JwVmlQLW5TUWEwRC1LeHdYSGVYSkplbWxoaE9TRzFFNjdrUmR5c3ptSnhjMDlSVWM4V1pwRXdmQ3duZDBYMVl1WVhLOG9DZGVDQTFmS2dKVVoxZjNVWGhtUjQxTG5CVDlid0p0bXFtak5nOUw2YTB3a0hDWENvV2VaZ3RVZ0N1ZndxdVBaVV9fQmE3c2FZcXpJWmxRek05eEk3UHhxX3VJSjZ2WEJDTUhmY2RPaFhyVUZvaXUwWHRTckdrVDVHUWo0ZUxJR3QtRm1xMy11UGQ4SzVUUjRUT3Rub3M5X3NGZEt4X01wWVh1TzVGUFFvcjJEZ25vMkJlRlNVT0x3R2kyMXNIdzFCWkNwSzVlYjVsOEw1cVMwVW9YN2t6VnlUV1ZlRklHLVVwUmM0YWxRRzhIVmFPa1NVVmRDdmh2YXpscXJzMzg?oc=5"
+    },
+    {
+      "title": "澤連斯基﹕與美國代表團會談「非常具有實質性」",
+      "source": "litenews.hk",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWldXa21kdVgzNFNrOHUybXQyQzRUYVN3YjVLSEZwLTFxRmU5MVVmRjJiUS1qNVdmVXI0MG9paDg0ZjBNTFd6OGs3clY5bzRDTHczSm93bktQWVlKOGZrOVFXN3c2cmFEbXp4UFdIa29zV1VPVTI0aGxWQkFDVGhfXzN0SElyNGNfeEpoNVRyWEZpdzItQ1Z5SnJZT3k0dWljLXlyU1NETjA2ZzFtMHdPMTUyNzVNM3E4SjlOWlMzR2JFU1ltU0JPaWtYc0sza0F2Sm1XRW9LMkIybzAtVjl1ZC13M1F0eXlGb3kxSnhIVUZZNi1xbnc2WGMtSGZOeDBtbWVGWU9QM202QkItb3gxR2VBbVVfSUFwODB5emc4ZW5RaXlHY3hHOGx2aDdmTzJicGVMTXFnLUNRREx6ZWFBT0RDWTcwT08tX3N0NmR2dnAtOUE?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美債要崩？想多了",
-      "source": "日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjlLU1FFNldmM1JRc1lybS1qVGpPMHJWeUV3aFZpdTZFU2VYX0ZaNGxFWHZnS0RweTRCRVVvLUFDSlVycnF1SF81Q3BVWko0N2dZVWVqaGFudzVIZEo1UXpKMHhBc01DVDE3eTZMSXhLYXBtQlh3R2pRVnpGX2ZwYVIzaVk?oc=5"
+      "title": "加息潮醞釀 美股憑咩升？半導體股急彈 資金準備歸位？日央行被逼加息 日圓大轉勢？",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPdXZYVXBkdDA3S0xwT2lpNC1udVQ0N0piU29WS2x0V25ZRGJhVlVKOXQxZzkzcTZBS0xYeHlCbUlqcG9UMUY4MlVzOWFuUXU3ZW9ONXBaNUZTSTY1dVZNUEdMU0VzTzdtSDJVaUZMVzlPSWZ5WGZKblZ0alh5c0hGd0dUakZXMHBSZmUtXzd2dEF6cklCWkxEQlZ0anMxVFg2QU9sOUxsV1VRd3ZOMEwxcE8xRHNtT2xhTDJXUnBPbWJGNHZObllrWWVSVHJLZTM5aFRHY1B6STJlVjFWOWpzNURkTTNra1JxUHQ3LXUwNmhuRWNBVzE1UDVSSkoxUUF5TGJJb3FpdmJjR0JrSHUwMzQ5OHB0T1FMNVhsejVJQWNWZ0dkb19xNE5CTlR0S1BOWGpOU3ZNRlo0YTlGQjBuNGJqdWRkOFJFU1Q5LWZYWEI0SnlCUng0d3JsUXg4NTE0Q1cwUV8tc0Z0UFhITW9YelVwNk1xN1VSSXVBZUJQejBfWlMtUmdWQjdFRW9wOTJ2VmNfZDFoWGc4U3pUeUxTb2YtS3BIeE9CU2paWFlZRXJQdVNtQ1NNaUlKZWVjZnFHUFpBNnNxX0x5UElfMU9oM3c4Zl9jd0MydGdYMF90M1diMklkMWJ4VVN4MUJRWFQxMTB5MjNhOVBCVFJ0TFNtUklJUmlsLTNoUFJ3ZWFBbDhQLUJqUjVQYlZNcWk2NkEtMFNvOVN3?oc=5"
     },
     {
-      "title": "美債交易員嚴陣以待 新的一周殖利率曲線兩端均可能大幅動盪",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPcHFqU3RZVzIwTGpPSUV1WXBkTkdFQnhWMlRlMVhkNzJYMW9YWVNoRDJLQ0VtOUE4RThyM1BuV3VuVmtXS0N2U05YNmFMSU5hTmxzSDU5MXlSOHdVRjdLOW1ZRDNvMGtVdzUxUVNqeHFTMmRXdWZ4bXozUHFKTXloNHZmR2JCM29RTU93SFRjWEFfQzVMdGFuNTdlQlNCX1hDcjRpZl9EbEdPeGNWR3llMmpmTElvQjRFOVJ0V19CU1JyU3V3TEVBa3daRXZPTVZjM3RIQ0xOUnFPaFZtZGd6Qno3bFZzbWRwUG1tRDBiLTUwdl9RcFhQRTFEODhkM04wZjV2a3YzcDk5M0hCdUpUVHRaY1JCNHFWMlBuX3V4Sk9RWWVFX1BFTWl5WVFBd2E3STFkb05pMTFyMnh0ZF9zTFk4NUIzOTBCQTlJVGNJcG5NNFVfOHY0QTIzSUk2eVNBWklDeHA0Y01FU0lRMWI0dW9DSERxaWJCUkxlUGM2U2RXNXM2MGNOeERXNVBodTBPejVFdV9obVQ?oc=5"
+      "title": "今「美股休市」晚上不開盤 2026美國10天休市日一次看",
+      "source": "Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNS2QwLVBIU3ZEcmpmWHZqLWVBeUVqZV8zN0owOEMwTV9WUHV3bDlVRWtpNmlSSUNFUnIwTTR6RWNxNUhsX2k5MWN2RVZqTy1HekFiS3JLRkFaVlBqNDhZM0IweFZ5blVDOTJNSUdUSGktdEx0elRWcTM4U3BVZy1fMEVETGpEVk84RGVtVS1KUHdLZy1fLV9VamkwSjhNSU93NV9Gd1BwZFdGODUwT2ktUy1TWnpiZ2wzcHNzeEVBNTNERGVvNjlDMC1BNE1mUnFWc1p4TjJrajgzcDBXZlU4M3hTekIzYy11Q005c2l2V21PTDdkVGs1R01Zb2VnWHY0U05kOUpkTldhNml3aFk5WER0R2ZibnpxOVJ1dVFHRTNCV3piR1VzbmhkMmdQZ0JESGM2YXljQWY?oc=5"
     },
     {
-      "title": "金針集/主權基金沽售美債危機加劇\\大衛- 經濟",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkTHVCZXpXMzJiN3RESTN0Qlk2cktEOEtrWDhSM2xvWktiX0ZqM0ljZFNjaVdmeER2Qk1ZMVFVelIycEFCaGQxUmtJUkx2WU81d09wUHpxVUhBYWM1OXRHVDNPOFo4UFI2Qy1xbGpraXY4czI2?oc=5"
-    },
-    {
-      "title": "從12比0到9比3：聯儲局9月只等一個數據",
+      "title": "🇺🇸 聯儲局官員沃勒傾向於9月暫停加息",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckREeXNvYXdwc281b0F6d1dvaUdOcGduZmRjLVBnMW1PWTJQS0xfYkcxcDVORHI2czM4N04tejFYVFhDV0VsMGxNSDZUOVo3cnIybFpvQ2xGWXpqblBZV0RsUEgzeDBvcFljTkd5ZFFEbnk1X21lUUlSMnFaUTRWZEFwWkNwalVJZ2MxYkMyYklBaWJ6?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjkxd0hzNWRoZzU5V3NtM1ZPaVlZQV9HNENCQXVBc3FCRFUxMXFFWW9iaE9FdWFpdVU1NjRMWjVhOXEzcjZkYkNpUDFnelJXcEw2ZWJxQXhDMWtaNmtxTGY1QUdlN29hM2RDOXU5VW5PSVo4X202WEhOVVNub2xzZmd4SWJPLTJkRVlNSi1sM1FGY0NJTTNzNVI0TU1vWm9MM3Ficw?oc=5"
     },
     {
-      "title": "Anthropic萬億上市作餌 延續美股派對",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdGdBN0dNSVBaX3NSM1VYWmFrWlM5S21IY1ZIU2ZJWmpIVTV5cHEweGdKUWxlVHY4NUxkWFhIZXpQaVc1MllUQkhzZV9DTkhLOGNBREpfYWpTb3dCV2hMNDdYLURyUnVmMHhhYktQZnpmbEJWbGtwa2xzU3c2dGRyUS0zR2huLUFZazM3MWx3TG5RYjJpUWZtN3I1SzdSVjJDWGdqT3hxRHBMVmNya3k3bFluQUgyc3NOVWZVQXdYWDZjbF9Pekd6Z25VZXFRLW5pVFNLc3lXUTJMZzVMRHU2akZSYzNCNXc5dEZ2RUVnMHJrTTByQjBFMkhqanVLaFU?oc=5"
+      "title": "《宏觀脈動－吳永強》加息風險升溫：美股組合應如何調整？",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON2VNU2ZfemlUVTVIamtVSVFuRXZrdGxDUEk1VHFVU3FTdUFVNF9sa3NHR09KR0hrM2hQOFY1c0VSQnBCLWdHMzFzY3hHblgtSTlEb3I5TnZ0aDN2ZW00a3AxQTFMVmN5SWNlZnBZZDdFbzhLdWVWVkRTRFpwZWowQ0tHNEhtSTVZTmJrbU5ueUljLWJYYkkzQnQxOVpZcEwxVzV4QkZUa2ZfMDhLM2ZSbHk4Qng4bE1qcWR3ZHZB?oc=5"
     },
     {
-      "title": "川普頻亂Fed 投行看金價走勢分歧",
-      "source": "自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzOUJVSGE4RE92TXdEZ0xadHI1VUxTLVlyakIzMmhNMHJsaVZmcDVER2pqcl90OHdtYTdoMXluOVIwME9YYndycHFrREUtWjNGRWYwUkhn0gFbQVVfeXFMUHlieXhFLW5vYkptTmRxSVJVdlIwd1Y0M21zUm5qQzcteUJvemlOd1dYLUhEZGFSYkdzYy1qazBuS0pNaDlTcHc4b2dCMzBsTjNJOEd2ZzJPZVdVbw?oc=5"
+      "title": "美債多空迎關鍵一周 兩大事件恐讓長短債同步劇烈波動",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xc194NGVPWVNjVHR3eTEzalktNGFlMlhyM0Uta3R3TkdzeFNfT0lyYVhqLV94RWNuS2ZmR3g2eGpsV3Y4LUhPYzRVbw?oc=5"
+    },
+    {
+      "title": "Nike遭剔出標普100指數 18年成份股地位告終 股價5年暴跌近八成 直營失策成致命傷",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOUFo4WmE4d2lva1lmRTd6MGl6WGpLTy1XeVlPYWRUX1hrcWVkUnZZQlNoQjlMTUZ4Sm9xREI0S1FnLUNFZ2VHbkpUYVA4c1V2Q0phcV81b3FTSnUzWUZ1RzZVYlQ5dmRZaVpjQTBNRjRkTmI2V1k1UExHZlZJbWxaUG5OWlJOSTM5U2JpYWJXYjZ2MUtMM1ZpTEs1S2RDR2NHR3V4cUdWenM3djFWNEpGZDl5RkV6QmlTdjFXY3BRUURVV05lT3NFUDhHQ1JLalFONTVsUFE5ZzQxaUVRbkgtQ3o1ejVtTE9rdk5KNVNFVm9Va3VGYVZCNEVWMHRBX2NGU0dJLTRHd3dQZUJNcDY4NERsX2JEdDNzWlRRbkhKenZCQVZHemhkamdlX0pIOVd6NW1PMUNmYmNUYndIeWY3RlRXRzZ2bWcxMWJvMVlQcDdxTk5fS0FQU2F1OFdSUXQ4TnNhbUVCR3pKa1h2VExxV0NNbjlhcGliakIydkNuZHB1dUJYT096WWFOR1QtSG8tQ3NTZ3NYSmtlRHdyOGJQSHNDNkEwSXRzVVpBeVVsTWVXM1lGVnNmOGZ0NmtUNld3ZnNIUnYtWFRMU0ZkRVloc09jVmFLX0pTLS0xTGExcFhSdw?oc=5"
     }
   ],
   "events": {
@@ -82,24 +82,24 @@
       {
         "title": "消費者物價指數 (CPI)",
         "date": "2026-09-11",
-        "days_left": 5,
-        "status_badge": "5 日後",
+        "days_left": 4,
+        "status_badge": "4 日後",
         "tag": "📊 通脹",
         "desc": "8月通脹年率與核心CPI公布"
       },
       {
         "title": "FOMC 議息 (附點陣圖/SEP)",
         "date": "2026-09-16",
-        "days_left": 10,
-        "status_badge": "10 日後",
+        "days_left": 9,
+        "status_badge": "9 日後",
         "tag": "🏛️ 議息",
         "desc": "聯儲局公佈利率決議與最新經濟預測點陣圖"
       },
       {
         "title": "美股「四巫日」(Quad Witching)",
         "date": "2026-09-18",
-        "days_left": 12,
-        "status_badge": "12 日後",
+        "days_left": 11,
+        "status_badge": "11 日後",
         "tag": "🧙‍♂️ 四巫日",
         "desc": "季結指數/股票期權期貨集中結算轉倉"
       }
@@ -110,8 +110,8 @@
         "name": "Nvidia",
         "type": "9月除淨",
         "date": "2026-09-10",
-        "days_left": 4,
-        "status_badge": "4 日後",
+        "days_left": 3,
+        "status_badge": "3 日後",
         "desc": "季度股息除淨日 (Ex-Dividend)"
       },
       {
@@ -119,8 +119,8 @@
         "name": "台積電",
         "type": "月度營收",
         "date": "2026-09-10",
-        "days_left": 4,
-        "status_badge": "4 日後",
+        "days_left": 3,
+        "status_badge": "3 日後",
         "desc": "8月份合併營收月報公布"
       },
       {
@@ -128,8 +128,8 @@
         "name": "Extendicare",
         "type": "9月派息",
         "date": "2026-09-15",
-        "days_left": 9,
-        "status_badge": "9 日後",
+        "days_left": 8,
+        "status_badge": "8 日後",
         "desc": "8月份月度股息現金入帳日 (Payable Date)"
       },
       {
@@ -137,8 +137,8 @@
         "name": "台積電",
         "type": "9月除淨",
         "date": "2026-09-16",
-        "days_left": 10,
-        "status_badge": "10 日後",
+        "days_left": 9,
+        "status_badge": "9 日後",
         "desc": "季度高息除淨日 (Ex-Dividend)"
       },
       {
@@ -146,8 +146,8 @@
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
-        "days_left": 23,
-        "status_badge": "23 日後",
+        "days_left": 22,
+        "status_badge": "22 日後",
         "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
       },
       {
@@ -155,8 +155,8 @@
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 24,
-        "status_badge": "24 日後",
+        "days_left": 23,
+        "status_badge": "23 日後",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
