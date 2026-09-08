@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-08 11:15:17",
+  "updated_at": "2026-09-08 20:15:31",
   "gas": {
     "current_label": "9月8日 (現行油價)",
-    "current_price": "187.9",
+    "current_price": "186.9",
     "predict_label": "9月9日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "186.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
