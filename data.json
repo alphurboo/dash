@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-09 11:15:22",
+  "updated_at": "2026-09-09 20:15:20",
   "gas": {
     "current_label": "9月9日 (現行油價)",
     "current_price": "186.9",
     "predict_label": "9月10日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "187.9",
+    "trend": "↑ 明日預測升 1.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
     {
-      "title": "​保安局局長率領紀律部隊首長出席江蘇全球公共安全合作論壇（連雲港）2026年大會（附圖）",
-      "source": "info.gov.hk",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Z3ZWS0FuUTBWZkhxMUplSF9pdDR6TDdoVm9mTGlFcWhOSEhBZnZlaTFoMmdwXzN6YTR6VDQ2SFJ3RU5sWHdodVotcHBQNk5KR0tuQjdTQ3RiMUM4b3R4dm5BZGd5OVYzZDdjdVNVNGVaZw?oc=5"
+      "title": "中東局勢丨美伊互襲運油輪 爆開戰以最大規模攻擊潮",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcEh4aExucjhidHBXWXpWOG9oYWlqMHE4YURwNFdHUWRvLTctMXQtdFp2RGdHa0dEdWsyeERDNEJYTVF4aEpBbjlYSU1ScGgxUGRrT0NHZzFzYjJzcW1jMlJGT05CRG9sczZGeVhJb2JjRWw2TURQbEdjNFdjXy03YXlzTHdYQldxdHRfN2pMdHl4TmFmNzZ2OURvME9LT2R5eUtDczQyM1BEZXhfSjM5alVvbjdON1drMm1nTzZDeXZZemExcnQwSjVRcGsyblVFSFd1NEV3Y3EzU1lqN3ZROUJwMUZQX2tQRE5yTER3dlB0U0pfbXAwOHIzWHJScW43VVB3dnppOVZwMEVYYTdZUkcxVkpDeXRJcWpUTl9XOV9YUUxOV0I4bG5FM2ZEYzZ1ZUNRanVkeW44RGJFdVNVaDVRV2l2cXdMNDVtTV94WlFXbV9DV3RFYlFIOGdWQVpGcDlEcURGWnZVemFER09jdmxVS3ZrTzdkc1hnSkpuVFZMeFlHWVE?oc=5"
     },
     {
-      "title": "強攻美艦升高衝突！伊朗斷定美期中選舉後必打 出招對抗川普施壓",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZSG81TmhOUzI5WHhkeGNPdkVTbHMtb19QMHU4QjlXTjFMTDZ5WlBKVzJQaDQwbHVHTVBocWctQ3FPbC0xT1NlUFVpWW42d1d6b3VV0gFYQVVfeXFMUFNLOWZRSFpLWEtGTVJ5dWtPOHRNaHVQNDlvSkZrcXNBOFUtanA5VlhnZGlrSzlKMXQxUkxCQ193YWtJR2h1R2pEOFJYb2p1TzNFUFUycUstMg?oc=5"
-    },
-    {
-      "title": "金仲偉：為何AI戰場只有中國能與美國對決？關鍵在「網路主權」！ | 編輯之選 | 名家觀點",
-      "source": "當代中國",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNanZ1dlF3cFFYV2xsMy0xLXBwZFJBa3l5VkFKeDAzaHhXLVNUakc1NURKTGdyTDRTMFdzcFNRSEhoLVp0SGlQTmcyYmQ4Y3c?oc=5"
-    },
-    {
-      "title": "關稅最終將讓加拿大人和美國人付出多少代價？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYN0RiRVlEc192a0lKOWp6dW1IR0psUXNNNUJLZDA4NnpFeGRLbHhIbzdWcTRNRmFrNDJjVXJhMXNqLWtfNjhaSFU3TGl2S291Tk15bEtCR09DQ0pnMGpEaTg1TG9mV0NDOEVV0gFrQVVfeXFMUFg3RGJFWURzX3ZrSUo5anp1bUhHSmxRc001QktkMDg2ekV4ZEtseEhvN1ZxNE1GYWs0MmNVcmExc2ota182OFpIVTdMaXZLb3VOTXlsS0JHT0NDSmcwakRpODVMb2ZXQ0M4RVU?oc=5"
-    },
-    {
-      "title": "【樓市指南針】若美國加息或影響炒家入市",
-      "source": "Now 財經",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BWHNwNjBBekNjYWlyZUZRM0NQdnlZOExRRTRRdUNRRklBaUJSWTBveTBvV0ktNUk5eTI3ZkdMN3FyQXlhMFBOTWRnOHFTRmVPdHNFdVhMYi0yQVRiRXVpWjF5TFg2akJqQnpYRA?oc=5"
-    },
-    {
-      "title": "加元走強，因中東緊張局勢推高油價",
+      "title": "今日外匯：焦點轉向歐洲央行和美國 PPI",
       "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFNyeHMwa0dxUUJKNkNUZ0JYaEt2TXZTelV2V0pRRjhMQWsweVowMUltSWJkQXNuZ0FzMFhJYlp2dHZpSVcxZEt1NjI2bUc3anUzRkF0QV95bldTT3lnTUItS3BoS2p6Rnh5WG5RM0JYYWswN2NNS2lqOHltdlRkTlNJWXMtMkt2VkJkTEJsSHpvMm03cDVOS1NtNE8xNmI4Y1RvZVdpWElMYnZo0gGyAUFVX3lxTE56aHc3VU9EVGtKLXBwSXZTWDkwbTBEZkh1SGVFUTdnelJWMzNydlhYNFp6ZkQ4U3BsTkk4cl9qZEEySGV6V0phcWtuRDdkcE1DcXpwTVpTNkQwN3BEUDV6SFJSaWc4eDhCcDd0Ry1qaXE2RmpaWEIzSmF2c1lvRVdrOUNCVW5DWXRRYWtQd29venEwX0RMWWtWd25HMW1zUjliNHZSWEN5T1RSNENlZUdBeFE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkhLQnhVYW8xX1VBelQ5X0tQR1JkZGIzdVFRa19CNkN4V2wtN2l4QlhIZkt1ZXlGbG5vZUJhS2V0UU5rSGFUSkxxTl91dDBzaTYweTNvdmh2WFl2LTBWQTMwaUdaek4wNmRKMjZTaW9hdHlVOVRmVWUtVXIxTjRrZmJzQTFRUWlZeHNmN1FhWnd6b2NMaWtRWDBEbUNWLWp1NVNBLU5WZTAwM1YxejNlTdIBtgFBVV95cUxOejFvUmNaZjRjbnhtOHVEb0pPTzdsUHN4Zm5tTTYwc3NvdlhNMWVtYklJdl9FNExVNTBMNUhmQlZHYUpLN0JPTG9BczduTHhtRDA2dksxdlZmS3ZrYUNDN3dYU0lfbmcta3pxNThhQ1liQVRaZEJKX0RmZV9DcVFUcnVSdkZ4Z19IM0lzY3lkSzZjemNwM3I4T3BwRmttVWR4dk5iVWJHNHE3YTB4Sm8xeXVjNGxoUQ?oc=5"
     },
     {
-      "title": "美國將禁止部分加拿大商品進口 包括汽車及乳製品",
-      "source": "AM730",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOaXNnWVRjQUVJNmR0OTlpWF85SFN4X1h3SUZBdjNBbVZXeTJxWFJLN21xc0pKWll2cEQ2REtISWFuaWxldEJtbk1leGYyWFFHYWI5dHZHcTREWmJwMGpQNDJhUGpWc0xtZ1ppazJ3MXM1SThXaWFneGtkeXdRbUhsMmpkWFczTTVTV3B5blRXM05oZ0Zna0dIYXJxd3lHa09SdkkzdUc2LV9OeTNEVmY2YkxaU0Z2dEZGbGdWVUU1OXdPODlINFk5dWpubUdRZ0YyN2o5c09tY2pzdlBROWZMS05ydTN5MXJydjdhaUdoYzljYnhfbEZyQWY4bWp0Y3dRc2l3bmdvTzhPVUQxTVJUUVNWUkdzdkkyVWJ1NWMtTnB5UG4wbjNOZjBsRFMxc2JtcXJ1a0hqSVRZUy1ScTRpX2o5RFR1MjdOVGxNVTNTM093ejhlQTgtaHF4MlJFUDZwWW9oSnpTUV96VVU?oc=5"
+      "title": "「歐洲優先」：歐盟公佈公共採購新規",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM3M5SVVjSk4wWUJhcXcycVAtU1lQWWY1M2NaSUxkNENvYUk4VDNueEppeVZJRmVzbXVTVmlWRDc1SHVnSVVWVi1VYTBvZTdMUEY2ekRjTkFDQmNLMXZuX2pGcTloSnJ4VUhhTDU3a3l0Yy1JWUoxTlFhUmhpQmVtd0RiSHhmbV9HeThZN0U0SkFpYm5qMDVKSExoR1RKTGQ1cUdiWWw0SVlLcGdnY1p3aGtQWHR3RHN5NERrNGlCOFYwT1pNQUJQaGZ3TzF6VHFkQlRVeUdFX1ZVUVYzak5GeF9PQ2o5SHBRMk5sRjM0RjlrTThhX1Q40gH3AUFVX3lxTE0zczlJVWNKTjBZQmFxdzJxUC1TWVBZZjUzY1pJTGQ0Q29hSThUM254Sml5VklGZXNtdVNWaVZENzVIdWdJVVZWLVVhMG9lN0xQRjZ6RGNOQUNCY0sxdm5fakZxOWhKcnhVSGFMNTdreXRjLUlZSjFOUWFSaGlCZW13RGJIeGZtX0d5OFk3RTRKQWlibmowNUpITGhHVEpMZDVxR2JZbDRJWUtwZ2djWndoa1BYdHdEc3k0RGs0aUI4VjBPWk1BQlBoZndPMXpUcWRCVFV5R0VfVlVRVjNqTkZ4X09DajlIcFEyTmxGMzRGOWtNOGFfVDg?oc=5"
+    },
+    {
+      "title": "特朗普：普京冀達成協議結束戰事 俄烏領袖互相憎恨窒礙和平",
+      "source": "hk01.com",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQZGRXUWJESHRQbzctV2F0dUlrV3dyWE5lZEJtRFEzYmd3ejdkNnhFb2RjR1BvNUhnN2JWZW5nZjctTmMzS3dmemM5Q2RXcm1BRVJ5SmZ4Sm5VeW93YlZXTHpIT2FqQ3c0aXVwRG9vZjg1YWJVVmtGOWhYcnFYTlNwNEVWWWZvenRoeWJuNndVdkhyQ3RfOHRnZ3hhMDAxSURnZEw3NGFuSUVzMWQ1MndEX0hZUENvVXFaNmQzaWttS0VmNXk0cmdEb3J3UldkYVNLMGI5SmJQcFJBclFZbVFFVHUyTUJIRDUzRHZfQ29HQ09pRlppMGpic3RFMjZ6Mm5KaFlONTlKOTAyVU9pLWhGSzBwb09WSVdGQ0hlZG1SYko0cFVIbWhTV21vbkJ6U0NOMjJZRUVtbXBiVF85WEliaVA1T0JpMVJBU0I5T3RmMS1HMEtmb3BwdVd3RlNSclZ4bFFyU041MDI3ams4QnowX1M0aG9Ra0dfcWtuTG1vNW5MVG5xNmdvZHZ2QkJqMzc2TXJrYnhtZWFPRkdkMlNRSE5wNjZ5RUViMHk2dWtSWGM?oc=5"
+    },
+    {
+      "title": "美伊戰爭｜特朗普料伊朗戰爭在美國中期選舉後立即結束",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQT0k5M21fSGd5dkc4ZFJyRm95QjR1MDNHU3RrWGN2TmM4NmIxVksyRzh2TDdpUzRpU2JrczJUakpLcU9WTEw3OF9ielJYaGFiWXlwb3l6Z3VPOXJlM3VJeW1CaHlMQXdoUFAzZWlJU1pEb3RIcHFCdEE3T2xRQjkyelhrWU9iQ2xhcXA4MGpQZVJ2M21KaDRPeXJfTUZTYjRXeXQyUXNkbDR2UV9zdWg4aDBhSXAtU2lNY3RSOTh3clNzUEZ2bzRtYTJKYmVoNUVPM1RodEktc0h4b2I5b3dxWUc4d3dCek1GOE0zdHp5aDc1cmhMaDRCS0VTWDdwbmVSTW93aV9vX0huX2QwMGFWaWZQdjFwV2xxYk96NkNvekhTTWxXZWdfX2xyUGk2ZXpCSXI5N3lBSm5yWG45Y2cySlVwWHp5QVJ1LXlxWVBwUWdvTWF3ZWRpZGNDQTFBQkhONENqZm9jTXRkZmxqNHA5bm1fUFExazdiWWtEOWVyRQ?oc=5"
+    },
+    {
+      "title": "歐盟擬收緊Airbnb等短租監管，歐洲房價15年漲60%",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNT24xNnRSc0V5eG41Zlk4Y0RjWmIwaHkxc3Z4UHN6RGhPOXB4U2QydUd3bHdDZkVMTzgtVEprdXNqZFFlT3VDREpGT2kyRk1tMlViX0NCMWgzSTFPX3pCU1U3M2tMRnBQRFBEbUZXUUcyQVFjdnluU0IyOENZcklGMWJ1bVdkRGJOTHp2UWVQcHFEbE80UHhIVDZYYmlnZWpjRkQ5a3VCWFFOR0ZFdl9qXzFSek81YXNrV1JSb1hHM28tMF9fazV5SzZTZlhxaE1CdU5pSXlNTDRZNVl2c3A4MTBrLWVBQ1A1RHZqb1A3ZFZTYmZ0MDZ2bGQ4Q21tb29xM1lNXy0zZ3N6ZkkyT244MkdqTHJ1MEhOdkVzUHE2WjFmaE52MzZlTmw5QzdyZDhha1FlN2YxMG4?oc=5"
+    },
+    {
+      "title": "撒馬爾罕將舉行史上最大型國際象棋奧林匹克大賽",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVURmS3o4WkpFaS1EODU3bUhLYVVqbjhvMHJQV1FqYVdFMDFwN29Pa0Qwekt2Q0xfOHJoaGp0T1FmclAweFNQR1pNaVdGc1k1U200TC1tNkNJMzhFbXdyZ01waE90NkxnbVUtMmhmRl9nR3FaRDlCOG9GaGNOMF9Zb2lvSGZEQnJuX2V3cTVNcjFXdWF6QXp4NTZMTHlVTVRkM194NUx3ZDVjOGVUYV9ZQVE4MGdUNDhLV1NYdC1DSlk1U25OYm85OXMtTjNWN2ZxdThONGVxdk9RYktKMmdOS0s5c3B1UjB4T3NVS1JtMWN5b2dkd3pfMDdhdHZUbjVjWDBGNVZLU296ZHdlWC1sOXBwNWJ6R18zNXJwN2EzMnFqNnBLSDFjNE5VMXRqcTJaZnlzMDI5UDZmbV9Cb0ZlcU45eHZzOGlxN2dJZmdsZTNBdEFOWXpyeXRLY1oxM2tvSG5QRm13?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "【名家給力場】美債息高企同巨無霸科企發債潮有關？(上)",
-      "source": "Now 財經",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15eTVSbkxXUUVIR1UtaUJtVVlPbXhybEl2SXh3SXFtUUpSUk9xME43bUZRUFhaaEdIQTJLZjRjLUFnMFgyY2xXcFpYa2xDcnpJLTlpcFRCWjlkdmFyS1pUVnlKNzMwTDZJdldkN1BLcV9lX1lsdEFR?oc=5"
+      "title": "中東局勢升溫！「油價、通膨」雙重壓力襲擊 美股主要指數走低、台積電ADR同步下挫",
+      "source": "Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOcUd0MVNBa1RFWEx1RzBlVlhZeXkyMFl3YjFjRDkwNzQxcDJNd1MyUE45R2V3YWFUM1JueFljdU53UFpZWHdDcUFYVFBDZGxqV3ZXcVJ5YlJBTWctRVR1a191WkxIX3BpdUxHaXVRY1RsMTkwTkNHdjZQRTVVblVPWTFhZHVoV0pwcmQxTWdZa2dneUFqQ044eUJvRnozMnl2LTl4T3BNbjd0czJESUZOYVFMNEFnczN1ZDBtTUNnY3lnUnk2YmZiWVFzVG1DYXVUckx3UVJJeEhMSXNJSDUxZEltaVJ2VERJQ0dkdUNMVXhGdXhmZFJDaWh5R2xFUXpfX1dkX0pLS3JJNnNQZlEwaFl6ckk4VkhvMy1QSnhGc053cnd0Ni1NT0pKY3hHM3FwYWItYzNxVllPM0NuUjA1aWxSYzEyTkY3TGpHbVkzMERZWFMyTnFOQ291TlRITDJ2S1psa2VGbW9uUm02TlZJd21vMGc3T3FoX0lBQWF5X0U?oc=5"
     },
     {
-      "title": "日圓漲勢能否持續 華爾街策略師看法不一",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUXJmNlVIVWVhQTBya0YySHp4bXJIbUdxcHN3WENKZHdpc3FYcXVSYUpuTUhZUnpXVFRRUDVPZjRScG9fYlA4YnlQZFVIQ3RFZGFUeXNDT3Njek8xclBVVGtDak8xNUtsSVQxX1A3ZWFrSDkwMGpDeGR1QmJybmJqSzBtRXR3OFp1bTAzVWJYNWNhOTMzVks1VGN2UlM3MnhILXgzSlhRQ0g4MFVsdEJoMldlYVprYnpuNThxeVg5WW5PWm9YVGpnTWxKZnB6SUxMQWRiWERNczlINkJ3ZkVQYUdENVpYdndOZV9uaUFWcV92Ym8tQlBzZzNkeWxsX2xKRlEyWXJPSE9TMU15Z2NSTzh3QnYwSTkzSVEybU1IMm9XM29rVk43UVRNcw?oc=5"
+      "title": "美股3大指數初段下跌 Meta逆市升近5%",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93VWktTkhnYmgzSXZjaWJBWTZhb2wwN1hHY3MycHpHM0k4cEdNRFBNOFBIbWt4UXNENXV4RkIweDJ6Q0RReU5YM182NXJsal85dmVtRDNPeEhPTmxlRDJ6UEIxR3QxMEphRHF6MzlHRQ?oc=5"
     },
     {
-      "title": "温傑：舊科技股比較缺乏方向 資金九月重回新科技股",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4dkpJNm0xN0x6dkZjbnBzcTRSNmdBSnJ3MDNYVEZHX0pOZ3cwNExqX3VJNHBOcUFwNkJzOTY4dUpEcTNXMmYwVzl5OVFicGRPRkE?oc=5"
+      "title": "美股走勢丨道指挫逾450點 長債息不跌反升",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOVGdCb2dIYjhuQU5hSWV3ZFZsamRsVDhUaThZYUY0SXVoODF1TlBUTFVUN0NrNm5odm1lWjRoVXlaeDBxbUlrRGhVYmFPb1hxeldSSTlrUXRTRlRGWmJiRklTY2JQTFNUSFlmWVFLTjN5a01OMVphUjRiMFJGQlZiNjBJYklwOUU4Yml2VVJWTlVmbDdRWHRvSkE2cUpNSlVTTUUyVTlPZVBSZ2NINVI4MTFYdTdYQ1dMYXdzbXduV2NQZF9qcTdTYjBuM1kwaTRwUmNBckQyTE5CMGZqY19rSUJVWnhyY2hTSW5wRE9UZmhtOGJaamItTnc3N1NPZm9nakt4SlV0anZEUXJ3ak9qU1IyMUFQQTJvb29DN3daeGR4THhwS1NwTk1KRGszbmd0bGhZOEQzZWRxRFpJTXB6cm9R?oc=5"
     },
     {
-      "title": "股票：科技股限制跌幅，美國股市普遍回調 - 德意志銀行",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEhxQ004cFk2a0pycDY4MjdQcS00OXp5OV96WUdjVDVzMU93LUZtMmJtVlRVQklhb1ZRbnczT1ZjOWFwWlpkc0dFbFVxR19Xem1JbTdzUEczd2ktNlFsMEtTWGlncnM1YUt0QjFTNGczR1d3TDMxeE5nLWpKcjJKSHBDajU3ckpfVTZjOHZoamR3WEhUUi0yZkZORW11MmhTNXd3Nm00SENDWUhHU3U5UU55RGhCNmtQMkI4OWpqeUY5WEXSAcgBQVVfeXFMT3FFemRHUk93bW9MOWxWUk1mM3JMaXZKeVIzR3hVbXI5aDROVFRoR1BSZ1l0SzZ0Nnh5dG0xcEdONFZpZXdFNlBZeEE4M2pSTEtnOTk0UFNoM1hCZzU0RXV0aXVBekoyUlNFZmdFdTE1UG5EN1ZEQTlCanA1OGV6R2NkOHFxcXVqSFBQMTlhdi10TGRrVEhVOVBXZXk0ckIyRVo0ajNEa3QwLTdYT3VCOGFvaUJtZmJZd0IyTTVJNW1oMU1KY1NrcnI?oc=5"
-    },
-    {
-      "title": "9/9美股前瞻：中東局勢升級，三指齊跌而半導體逆勢領漲",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTlczSlZKbS0yc2ctNDNpXzUxSWZNM0EyWXZWV1N5NWJ4bFhlMEZIdmdjWDZRVXQ3cV8zVkQ2bnJQV0wwS2o5SnFBamExVHpSNWxhWGM4ZEY0N1BZT0FieEZMclFvUGgtVmVZT2NtNFVmbFZNT2xieHVBdHQyeEs3Nld5UHV0OVdqT0JpZkxlTXlMYWpraWdzTFVzOWVLZVh0TWVNWHp3cWh0TU5faEUw?oc=5"
-    },
-    {
-      "title": "美股異動丨Meta盤前升超4%",
+      "title": "美股三大指数集体收跌：SKHY上涨7.78%，Meta（META）上涨6.55%",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mZVR1aENfXzVfRlpSREtfSmxvaHRnVEFwZ0NPaWRUdUZtamU4YWZwVXpnQ3FxS0tVMWJaTW1reUlRRHNCQUF6SU9QQ2xJOE55UnFOWVRjOWpDRzA0NG00R1Y2QjB1THJkZUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LU0tSN3hyd2NqeGlHVUdaZ25VQWRtUEFhLUZleW5mUFItcFBsY25MNTFZS0IwNzMtalBkTUpRRGxvQVhhZy1hRHZRVnBldHNpbGFzanJ6SVNvMVN6LXVmdjZneENwQQ?oc=5"
+    },
+    {
+      "title": "美股早段向下",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzLTQ1emRhRE1lMzZSWUhJeGJQbFd2cThMaU9tWGJBeHl3RS1IbXlkQlY2ekZuVHJVdGk1cHdQcEstT3FRWWwzaElyb2JhMjlQU2FWN2Jn0gFbQVVfeXFMTUxReVNiakxsdUJyNFhJR3NJZjFRcEtWS00xNHpKcmE4TnVMdTh2c0k3OTZyU01qazUtMVdsSm1WYUxIaE1uNVRlZzFDWmQ3b25nMkZJNzRTVDk5NA?oc=5"
+    },
+    {
+      "title": "黃金突然上演「高臺跳水」！美債收益率衝上4.85%，PPI、CPI成下一關鍵 作者 FX168 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52MWlORHpsWUx3NjZMTGI0N256VTExOXV2Z0JGUVFobkFzWlp2UjFCRWFRSExPUEY4cEE1U2ZOSlJKUnlKNEk5M1hWeEZ5clpvTGVvRmlMOW5fdTZFUVdtVlUzbzFWVVJqclMwQy1iQQ?oc=5"
     }
   ],
   "events": {
