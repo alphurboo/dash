@@ -1,18 +1,28 @@
 {
-  "updated_at": "2026-09-10 13:44:45",
+  "updated_at": "2026-09-10 20:15:20",
   "gas": {
     "current_label": "9月10日 (現行油價)",
     "current_price": "187.9",
     "predict_label": "9月11日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "180.9",
+    "trend": "↓ 明日預測跌 7.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "美國上周新申領失業救濟人數20.6萬人 多過預期",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWNE1kQ2ZJMzN6UmMzMTRYcjZ4T04tN2FudTlDS0xZYWEwUU1oWXEwU2hhVTVlNFREdmtsY25va0ZxRUs5d0JEMm5OVTM5LVR5X1liQ085S2M4bmM5UXU1bUdNb0VqRUEwUVhkanRWWQ?oc=5"
+      "title": "報告：美國企業對中國市場信心回升",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVXphMVdxc1pXb0FqdjN0M2VuTEFWZDJDcE9zX1VaU1pqS1d4Wkc2Qmg2TzJTRDk5clZUeGJYenR5ZFlMWndia0VPdzRCeEo4cjNfZDBETjR4SGNpQ1hadVVxSFVvdzdIN19GYlhkei10THNGZkY5WlJQTy1TTEg5ZEVLVDdhWjVWaDVnX2UtOTY2R0lEaVVCTWhnemhzdUxneUczX3d1N2ZUZjhCOV9nU3A1SXZhcXJyR0xEWDZkU0FxUDBfb3FJWFhGc19JSC14QmFOZDdPbzZhQnBpdzg4dDBNZTNicTFKYzNQOUgxRUdvM2QtbVExdklLdHhmT1VaeDdzUmtERUg5TkhMdVlTdUFhRWU?oc=5"
+    },
+    {
+      "title": "火熱的美國 PPI 和 100 美元原油推動收益率飆升，黃金多頭退縮",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUmpNS2FFXzUxNE5Udm1qWWRRcnN1ZWcwZFhUQ1MyQ2FOSzdqSGc2OF93UGdZTjhFODNSUGRPU3ljYTlWeFlnTENBQndHWDc5T0swVGV3cU56Q3FQaWR1UkQ4RXU0ZXUxWm13NFhUN1FJT3hfdTFmRHg5Y0N6VUlvMzB4TjdkYXJBbW4wV3hDYVNWdDlfZVV0OXU4cURyR21GT2M4STRrLWpPSlktOE54UV85cmZlTklMWVYwRVpTWl9RbURnSWc2XzJlb1BzajFMRWdWdjlDMWFIYzFncnfSAeMBQVVfeXFMTnlBSzdWVmpIblpVQV9qNEJ6QnJXbDRvSHhweHZsYTZVRXRyZzdrb25pWkxjOEl4N1NJRS0xeUkxNDdmRmFmMEdFcWVXRWNqLXJ2YS1SMWN5c2cwYVVheG1ERlNsMkRoSF9MV0dsbkwyY0p1dEpBZU9lSHQyTUxuQnJzUmE1TlBGWDZEb2dITzR2UkFHemdHSFlYZ20yc1NuM3hTS1ZaNXh4TEJvX243eF95NmFhaXJucmo2SjJYeUx0WmxPczVwVHhFWVZZVFVxX3Z0bmRHRG1lMzk0eWdna2JCeFE?oc=5"
+    },
+    {
+      "title": "美國8月最終需求PPI升5.4% 高預期",
+      "source": "hkej.com",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYkkwWEwwVF9RQ1o4Ukx1UlRUOEIxZHFzZEpBOUpsek9Za1IyY3hBeUR4Y2hhT2VGYjk3c09YZ1F3UmNaQi10LURJeHk4b3Y3QzdsNEZQMnZuT0JaQ1NyX0JYRUUyS2ZaaWZiZGRhSm5JeUktZ0Rvckd4QnVBYXdDdlpTaGpIZllKck5IcDh2RjZycUJJSDZFMW9ORFpweWNaNWhldk54UmtKWkZOdUlzc0ZFWFMzc2lRMGZpYkJlX3hpQ3NaMkc1X0VfVGpuT2ZoaElGMUh6Ti1kci1TLU85UzFxRl91VGlvZzhXMktWaHJ5X2hYUlJkU1BnbnZIUTlIU1FB?oc=5"
     },
     {
       "title": "美國8月PPI好壞參半美股期指挫低| 全球財經| 全球",
@@ -20,61 +30,51 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11eEJWaVJHblFDa0pGbTFfbVBxdEcwRDBBWC1rOWhwRW5DVnZUOVd1TkdRcF9idUo3VkExNk5LNjQtcnBWQ081X0t6N2E2VUdp?oc=5"
     },
     {
-      "title": "美國8月最終需求PPI升5.4% 高預期",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYkkwWEwwVF9RQ1o4Ukx1UlRUOEIxZHFzZEpBOUpsek9Za1IyY3hBeUR4Y2hhT2VGYjk3c09YZ1F3UmNaQi10LURJeHk4b3Y3QzdsNEZQMnZuT0JaQ1NyX0JYRUUyS2ZaaWZiZGRhSm5JeUktZ0Rvckd4QnVBYXdDdlpTaGpIZllKck5IcDh2RjZycUJJSDZFMW9ORFpweWNaNWhldk54UmtKWkZOdUlzc0ZFWFMzc2lRMGZpYkJlX3hpQ3NaMkc1X0VfVGpuT2ZoaElGMUh6Ti1kci1TLU85UzFxRl91VGlvZzhXMktWaHJ5X2hYUlJkU1BnbnZIUTlIU1FB?oc=5"
-    },
-    {
       "title": "路透社：習近平訪美前，中國採購百萬噸美國大豆",
-      "source": "DW.com",
+      "source": "dw.com",
       "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNWXJlNnZnWXBIZGJCUlh3bmU3VlRzd3ZYZk1IYmg0OENrNTlwbFZFLVFZQW56ejBpVURIWjZSY1JVTFBObEdFV3BSbnNjNy12Vm9HRVVCVFZrUWxwY2JyNXp6ZUd5VFdvM1RYdWlFSGlVOHFGNWJjUHdVQTREd0hJTDYzbF93RlFjbFVxbF8wZG1VVkRtamNpT19nbGtoYlJEWVVsb3VQY3ZxTkF3MjcwQkgzU3l6bXZteWVrMmljYnBZemw2ZFdvWXp2VlRYS2JmRlNCdE9kTVJCMlFOenVXalA3VHNQcWpTcUZwQ3A1Njk1aHZWV0VuRVpSb2J1U3hvY1JRZXprV0JKZTdyM1RsaGpqZGk2TERwUmRLa1pQaWRCX1BGTnhycHZncGtVT2g3cDNuNGYxRjV4ZElSSEdV0gG_AkFVX3lxTE1ZcmU2dmdZcEhkYkJSWHduZTdWVHN3dlhmTUhiaDQ4Q2s1OXBsVkUtUVlBbnp6MGlVREhaNlJjUlVMUE5sR0VXcFJuc2M3LXZWb0dFVUJUVmtRbHBjYnI1enplR3lUV28zVFh1aUVIaVU4cUY1YmNQd1VBNER3SElMNjNsX3dGUWNsVXFsXzBkbVVWRG1qY2lPX2dsa2hiUkRZVWxvdVBjdnFOQXcyNzBCSDNTeXptdm15ZWsyaWNicFl6bDZkV29ZenZWVFhLYmZGU0J0T2RNUkIyUU56dVdqUDdUc1BxalNxRnBDcDU2OTVodlZXRW5FWlJvYnVTeG9jUlFlemtXQkplN3IzVGxoampkaTZMRHBSZEtrWlBpZEJfUEZOeHJwdmdwa1VPaDdwM240ZjFGNXhkSVJIR1U?oc=5"
     },
     {
-      "title": "曼谷專欄 - 中東戰爭升級 能源危機來勢洶洶",
-      "source": "rfi.fr",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPaDljdGpreHJwRk1SSHIweDJ4dzdtM0VLWkRzMGpkVk16VUxCRVhBVG1WNXJRdnotRHpPX2lZN3dlZTA5MnEtT1dxU0w5SlVmUHh6aTQyUVEwQkpwZ19uWHFBT3Fpak84NVpnVkl2WDI5M090RDQ2OWdFdnNhTDd2ZnVsQjV6ZFM2QVUzQzdram0xaVNyLVF0VmJLTTJ1Vk1WcVZWaFZHS3BhbkI4Z3dmRUNjNnZhaW94TXZMLTFNcEJXZ3hmcVV3U0JpTVM4N0c4UFJoa0cwMlgyb3doQXZoOXc0Sk01Q1p4UVJkaklid216OE5DUmNHczBVODN5N3JkWmdiYjdUWWxkaTZNSmJfTU9yUjN2bVk0eGxzX05IS25fV1IybzROSFRwMldWZFVUWjdpUzlCemx2T28zbTBwdUNkeGFCSjRMS3Z6MzZ6endiUQ?oc=5"
+      "title": "卡尼：加拿大仍“準備與美國達成公平貿易協議”",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTGpSYXowY3lWYndKSWRobmVCQmMwc0hoZ0h1MHlHZzU0S01FQlVxUGpublVQMG1YbVM2NVRoX2JubVlRcGdtby1LNmNhZkZVUTM4djlDSjRIZzNQSFl3SmRoMG80enhZemxmWTFYNmFwcVI1Y2Nzak1Vb0kySzdPa3g1a29IOURXTEg0TGptbmdvQ0VfOHA4NXUxdEw4NEhXZDA0ZGJ2Y1pqS3hid0Z3X1k2LXpoOEdWNlZQajZ1ZUdpbE41WkVyNEdORllpTmpCNkJZcDFuT3Y5Y09BQVc3Y2hORTlEeDZoVUFPMzJnQXdpdWRraTREUmFsUjNaN0lBS0lmNEdUR3IxUUhvVllaZjhrRnViQWIwWjRvSE9JalpnZFVzY3drMHVHV191N1BZdmxhSmRCdUFtbVBQYURueFhaWFdOdw?oc=5"
     },
     {
-      "title": "歐盟氣候監測機構：8月創全球歷來最熱單月(周諾姸報道)",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kaEp0ZVZCbU1Mb3drTlU0ZFI5YlpuMF9rRnY0M1doaWRsa0VlUk54RlhLWkY1SnI4dm5GeVFzMEFqU0tnY21OSGhVN2g3RjFIQkpveUZwZkhQUHZQeDRVTll2cWVSbkhZRXNWSmp6UQ?oc=5"
-    },
-    {
-      "title": "全球政治領袖工資誰最高？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hdHR2ZkZreEgxZEx2dlhKM3REdHBWSk5SazQ1dHBFNkx6bVFyNEN1dU1scGRCWHpiNndGeWw4c1U5N0N2Q3JYT3VGUkg4TmNuZ21kbWdQTDRycnJaZmRKS1Q5NjMxd9IBa0FVX3lxTE43Ry1FWDhNSUpMVS1mZjZoXzRoS2NQajEzV2dfLUozTFYxYlRfbHlRT2V3MUxxTC16MmJBNVExVUk4b1FhNUZyTVpoMUIxM3FOQTdIX3Y1aWdTSExWcjE5N2F0R3ZEMWdoN01J?oc=5"
+      "title": "美國8月二手樓銷售創逾1年最低",
+      "source": "hkej.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPY1oyQ01malc2N1NiSzlSWU1XTXppSjR4Umpyb3ZMUEpFSElPUDZNTEpncmU4LXN0QmlWT3hwTmFvbVMzekJpck0wSmxwSkRsZHhfU3YtSUVRT2VoX3YtdXNKUUpWN21TSDdPZmhWWkVZT2c5Y2h3dGJZcmRTSnVxbDFSZENiUmxVOTVLNF9VOHktV3lycVFNT2paejBQQ3J3dENaVUszbm53Z0F4clE1aHdrSDg2VlhCcXpWSzcwVU9CcVgzVmVlWnJyejFDRkJKSWtxajBmTUVTM3dScnFmQmxLUkY1SnVQbUdhRGI5dHJObnRUYW9zRTZZTHQzZw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "香港金管局、香港交易所、迪拜金管局和納斯達克迪拜成立策略工作小組深化兩地金融市場合作（附圖）",
-      "source": "info.gov.hk",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rTEhGLTY0SHhHSFlOSVd5YUpvYkFZb1czV3I5SmRJZUVrVVp0U1l3UWlGRndWVmZHdFlfZU1RVDVnaWItVjdVZGtRV1gydldSSlVWZU8xQ2NuQVVvSFNfbkVHSEc3bXZJLUg3Ulh5ejZrUQ?oc=5"
-    },
-    {
-      "title": "鄭嘉如訴《華爾街日報》解僱案：香港法庭裁定出版商局部有罪",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qbmFEb1AtRXhONFpwbWlPS1hueGlNN2hidG9uTjRZbnhzZjcyMUE3ZmFKRXZHcWo2LW9tLVU4M0hNSFVCQ3UzSmg2RktuZUEwOVBHUDl4d3kwNTBQd290MWxzdjlwQdIBa0FVX3lxTFA1UVJpNkxpQzFrMG5vb0tjZ1ZTNW9RdHRQeGlvNTBKUEpPZnBNd011YmU0bUp4akp1eFBfMUpIdmlLbG5McUlubDctMDB6VXgxV2tWOTFxaWgtN2t5WnoxRUpTWEU4WHVmWGN3?oc=5"
-    },
-    {
-      "title": "香港交易所、香港金管局、迪拜金管局和納斯達克迪拜成立策略工作小組加強香港與迪拜金融市場互聯互通",
-      "source": "hkex.com.hk",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sOEhxRHdBMGtFeHFRN2pieGR6ZHlxUTV6SzhUNll0NmhORVJXWUI3UkViZkpkdXhJa1l1c25pdlBwbHQ4RzhJOUhtcW9ySndiT2M1R0ZxVFhseUNDS0hwY052Y1pNaTBDNTdKelBaaG9RdlpsRXd6N1M0aw?oc=5"
+      "title": "美債殖利率全線上揚 市場聚焦30年期標售和財政部回購",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQRTYxd0VxbWY5X243WEJOV2E3anZ4VGROUnpNM1o0c3E1ZWRlWHg0Z2pqc3ZfZlhMTVZteXhLTXNodnFuUEtSTElxd0dDMFFmdFZrOWNsZW9VeGVfazlMZzM1TDlQcW9WYUM0RUJ6Q0FMRS1wVXdOR0FBTWhtdEFnNDMydzJwSFRxY2hYM0p3c2JPT2JQSHlTUDVIemVkQ3lxNENlQVQwMkMwalJ2a3hmSEtJMVRZNzRobW5BSUtFZ200WFhva091eFFWVC1DSlc3M3Y0YmtycDdaRWp4Xy11N01GaHhjdlF3dnRyYkRNY3N0YmhKN2ZTbHVHaV9xaXJfWGxUMkpKYlVYTU5uTWR0V1JwQklIYVBYeFhBUVptZkhvS2lsUFRFMlV4ckVOS3BPWlBVVmM3ZHJZOXU3bmxFSWxLV1J1eERnc2V0dW9URm1EajFQNTJYZGkxczU0NE4yZHFCb0NZYURQQTlkWXpGTHVhd2tyQQ?oc=5"
     },
     {
       "title": "美股初段向下 納指跌1%",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHZzTUYxcUpvaU9xbEpQNnhpU3JueVMzNlVUM1dzbXJybGlGRmRQdS1hNzBEQTlwMTZKRFlTcVFIZUZvM3VXNnFEcHRwLVlaTU5pWHctM0QzdXJrUU01aTZYWDV6Q0c4eXZkd19LNy1qcTFfRmhia3BGT1JqTXQxWE51eTJDMWs?oc=5"
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Wb2YxTlJtUVgxQzlXZ3YwMkRvT1JpTWlncUhlQ2czRDVfU3FUa3RhU0duX0lnOHN3R3pYaHFPai1GYTJvU3ktT1hMclVhaURCLWNNREtEdGpyOHdtdnh0OHZYZGdGUG0tLVlJNlkzYw?oc=5"
     },
     {
-      "title": "美股走勢丨紐油破百美元 道指早段跌逾百點",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQOEpCYUZCb2I1TmNpQTJZSEUwS0R1a3l0U01uZjhBSS04Q0MxTXMxU1gxT0JmVERGX1BwaGVYQ0pXeUZGdTJPYldSUHVzT0IwZ290WDVtbkR5TEM5bDhOd003Q2RfX2RjaDR6QTA2V2JXcGFubVZobXZIRHhNaWVVNmRuZTFPN3FIT2NfZE1EYmdFMkQ4NTNTU0VydWprMWJLZ0lHUWZ1cE41d29VRmdYM0hrdnNRYUlEYktnYjJWMVpsSWt5ekw4dmxVdEx5QzZnOV8wanp1WFFLWllzMnFXWU9CS2xjbTNabW9MWlRFcHd1bU5ZRFd2WVhMTUIyMXRxQy1UaExxc0FrOHZ6QmUwS2pXeGpYUmVtRGNKeEVfUmNWdkk2OEVkUVYzb1I4eVEtSmxCOVE0dEJKTWprNmhmU2VDNy1nSnAtaTk5ZWpUSXJQVzI1SGc?oc=5"
+      "title": "美股走勢丨道指尾段跌逾400點 蘋果逆市升",
+      "source": "hkej.com",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSS14bmFhOElvMkVPLWhXNEE3NzUxTjB2T0wtQVdmb2NxNFBfVjItWjlMakdBMm1ZR2d3ZVpMUE5hdml1endNVFFzQU8yNUhMOU1yTzBoYmFycldTWm9BYkEtcnBheVltTmxWc1BkdTdxbUkzeDVHWnJlcEVOYlI5MnJkWVdpMkNCQi1UV0kwbzllaUtnQ2dNcHQ1Qk1kTmYwLTY3SHVsbjY3czZ3ZXJTa0pXQ1RnNlZrM2dISmZGOHYxVC1zY1dUcDdmUzJKbXhsLXJScDhRS00yQzRGa1ZLcXcyRV9fc0lpZ1BzanRyd2VxTVlrNDVvMS1RNkk1MlNTWHJINVZNTkhOdWRLN1BnQnJkeDc2ajUzUzltdEEwRjBfWHhlSFd1NXRMTzdCRG1USlQ4?oc=5"
     },
     {
-      "title": "【美股盤前】PPI即將發布，布油突破102美元，記憶體晶片股普跌，SK海力士跌超3%",
-      "source": "TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmhiQXlMTEYtNExtYk9WdDNNbDZwMWpSWVhpWFBFVUtNLUJkQ28yVEJ2bUp3ekR6Z010YmVaSjdfOXJYMjZQd3dkTTNwMDhPMk5EVjVUaWE4TGduNUpBMy1rdU1JVkpsdy00bFlvTHU3SWlMajJXRkFjakJMYnhCWnY2SlhKZFpadVBBM2NwT19mTHUxdWxsUmNB?oc=5"
+      "title": "美國8月 PPI 好壞參半 美股期指挫低",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtOEF3aURma3RLYlpDeml4YVlOOVp4RGF2Nm5aOWd0Rkc2VW9zR1B5aUdTTmRRV0NxQlhjdnZMQlY0M25Ydy14QmZ5TmZRTzE4dDh2SWJOaEp1YkRM0gFiQVVfeXFMTUpmNnhJWGVacnFLQm5SLXZGdEFTUDlNTGE3aWtuZEFUWTA2YUNWLVlBcmdBTmZYVnhFX3RwMnk1TkxQc1Bsbkl5bTBRR3F3TEZXMTdtT194Um84MGZZRnJaOXc?oc=5"
+    },
+    {
+      "title": "標普500波動率指數(.VIX)股票股價, 市值, 即時行情, 走勢圖, 財報",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPSVBKTmt0T1phcjQ0NUVZVnJlTTk4SGYwdlZIZlhoVFlEclpOUzgxM1JuRnFObFVsYnZocVRjS1gxRVZ4WlZGUEVacVN0ZnljRFZwVW43OFhVMUROdGxRYlowbGhvdGNWdXBOOWJSS2VyWFZ0VkhSWVB0MndCYXFxOC10WWpKNlNxdTlhMUdsY0h0bVJURkFNcVdiVzVDVWF2NjRWLUF4ZllqMUJaNFlpREFaX1ZucU82MTNoV3NOel9palVUUDZWQlAyamh6Wm9NSi15b0p2cW92dXF3cTRXSDF1TFNKVVFHRXlFSmsxQWNRNlhmdXBYQ0RyUmdNeF9VLUpvREdkYzk5THM1Y3ZYWmluN3pyMmRwVW02SExZOENOQUdHQmpWUFpNRmxCX28?oc=5"
+    },
+    {
+      "title": "美股午盤 | 美股三大指數午市續跌，道指跌284點",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFZyU2huUGlFUVdIeUdpSF9uOWx5NVVzeXNfSkdiYUtZbmg5dzBwYWxLem1LdXNDYlpLbEVHRlNrV0dVbXEtTG9telZqYnBNem1IU253TnlqQzAxemdLZTQ1c0V4T2w0c181c0ZheDJFdW9EbVl2SWFTR09PUk1aOWhZSDZKZmRmR3JrSzRpYlhlUEdXUGM0a1pwZ3p0dXJl?oc=5"
     }
   ],
   "events": {
