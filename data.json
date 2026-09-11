@@ -1,23 +1,28 @@
 {
-  "updated_at": "2026-09-11 20:15:24",
+  "updated_at": "2026-09-11 22:08:22",
   "gas": {
     "current_label": "9月11日 (現行油價)",
-    "current_price": "182.9",
+    "current_price": "178.9",
     "predict_label": "9月12日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "184.9",
+    "trend": "↑ 明日預測升 6.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
+    {
+      "title": "特朗普稱美國永遠不會忘記911事件 將繼續戰鬥",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9seWhHcWtTeHMyMjlweTdneThuaVl5ektMTks0VVR6T3lGb1ZSXzNFZVJ1emlaR0hjanRGbjBmU2lpYTBaUi1KVUFtNW9pMVg1WWdCQXJoRWZfOWNoVUhYRXBHQ0tLQXMxalhrNDNBVQ?oc=5"
+    },
     {
       "title": "特朗普將“9·11事件”與伊朗戰爭相聯繫：美國永遠不會忘記，這就是我們今天為何而戰",
       "source": "RFI",
       "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQN0tiQVZRN3NkRDQzX1RnLW8zbmJGLWdRb1FPTy1IcmJ3TDBEOWZ4cXpKSjR0ZldqTndQNi1uUTJrNUdYVUVNU1pySDRkZEI0aGZjeE5TS1k3NUJ3QWhnYWV1TGo3SGRnMVF5Qno2UVBiOWE5WmhwaUVjaFdOZlU5MnpCQ2VvOG5TYUZlTE1WenBqZy1TWkNNOGlEazdpZ2g3R2dlS19DNGhrX1BpYzBaa3hQYm13QjFsTjVDUmNUXzNhSFdvYWNPWGtLZ0FQZHhKTmU0bHh2UzRQcFM5anA2QTZnY0NibnAxcDZiQU5OZ19BZzJNMHBnbU95dkNCTDVPN2VTVDNlZTJqc1FjU3p1bmxGTXV4SE5Wemw1Z3VnQXlsNW1INUZuQU5MR050a2EtdHZtOExWbE81Y0daMjRnSjFwNDBSQ1NVOWdTbjNmanpoZHQ0eXZkUjJqNGtIRURaLTN6eDFyWjBQeF8xbWZIdk1OWjlmNGYwaE55cmo4djMtMzNQdHhDUDhweHVqQ0JXVjBBVjNXdUhKZ3lzS2RGY29jREVzc2VuMGN3U0pTT0xFaDNFUmVMbGQzVGVsODdfd3J5NDVFZXFqamw3ZzNGaGo5Uy1sNVBxN1h3STdOSmRVX2JjdTdfWXJHSU16MVVJSW5DZEM1M1dXZDhkZEYydTVMRnlzc0U?oc=5"
     },
     {
-      "title": "美國8月份CPI通脹年率如預期維持在3.4%不變",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZnl2Qk84emNHc1EtSC1YZnFWb3BLNGJZeWJpTkxpcnFyWUNBYmJ4Y0tlNmZCRzZKTmZUNFo2SWNwVTFybVRBQWU1bnExZldfSFdFdW1GVE5ubWdBNGtCOVpLdHgzWEpjeW4xYUQ4OWdncG0wSHFVVV81TURpSm5VNnNNS2V1MUVrM0lNY29QRlN5dUY3WWZrYWlwSk5TZEJnSDFFV0FPTllteXAxaVNrd2xvdG9RRzBHclY1UUJmX1AyMEgxZjBJNmJIekh2OHctOUpEVng0V24xZ3U0YTNwetIB5gFBVV95cUxPUFhlZ3pDWEI4dTFQM1NQcHBweUVtMlJRUUg5U25xU0Q2RUtmVXd4X1pOUlNsbXQ5ZTVjVXZITnRfRGpiYndDeG9XOEpSZmFveGpCX3gwR0p3Y1ZZSmIwdDlMVHBEalRFQWRnajVtME5Zd0U3RUJNdTlod2FNcWRsN2VPMk1yZE0tU0EwRzF3amh1b05TdkFjMnpPaUVFeXdkb2JPYl80aGtvdHQxc2ZEeU9OaUpueWFxbkN2c0xGR3N2bGJ5LXd2TEgtbGRtN0cxT1VLTFVOTXBCdXlHaWZmUU96bnB6Zw?oc=5"
+      "title": "第十一屆「一帶一路高峰論壇」圓滿閉幕 開創全球合作新篇章（附圖）",
+      "source": "info.gov.hk",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HcEo5QWVoRFhSVGFYRnBVU2RRdkNDTkVWckM0c2pHNnhuZU5QQ0dTMEZjWnoxbVNUT21lNXdLdjJaYlBZN252eVhaTnpnV05aaXpiZ01yRG1UTWdfR0J4T0gtVnlaMXVaanVJMjU0WkNsZw?oc=5"
     },
     {
       "title": "中東局勢丨遭多次襲擊 沙特關閉東西向原油管道",
@@ -30,14 +35,9 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03VWpvU2pUUkpFNFk1MTF6MjFDdlQ1elBXeW9Kd2RKVzY2OGYtTmJienhZRVR1dDRSR1VrSThWTWE4cnRqR0NaOUl6NVJOMEdvUlBGT1pjRy1xc3h1UEtzWkZROFRwa3lWOEpISTRRaw?oc=5"
     },
     {
-      "title": "美國8月CPI按年升3.4% 符合預期",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BLUdVc0JGRC12S19JYk41ZXR3cWEzOU1jSHhZRXlfWnB3cGl2S0ItOXpWRzh4Ml9vSktsLVdPU3NCWkMydmduLWhPYTlvZ3o3U0NiVlV0ZkZtaHlVXzdFMnJPWWU2Q2d0N1dCeU96aw?oc=5"
-    },
-    {
-      "title": "美國911襲擊25周年 全國各地舉行悼念活動",
-      "source": "orangenews.hk",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOMERPRi1VT3RoSjkzN09uTVdSckVCcFJnblFlRlljQmpwWDc0Z3YzaHJ2YndlZFZGZnRHYWJuRzlxZUxDeVZmLWdnU1ladml1a0lGODlQOGd4eGRxTXpUZDFNN1djTmJLcm83MXdMYjdEeF8tbkdjU2ZKaElTTW9EVmhsOUZ6UE1ETDVEek1HRkE3cTlxcXJRcjZ3QVhwTGJuM1A3OW5zQlZnc0k1QlJVSlZwRUdDWDY3cEg4N3h1ZXhQOEl2MC1INmhrWkhHYTY4dHBwcGFXMG5OREdnZFBxc1h5NjdDWkpadTAzb3MtT1l2VGNJZ25uZzVBWGZwdlFudWxjV3VwUWVCNnJmblBEdXlXZkNvMFBTbjZfMngySnMwdFpqMGJmbEdCWkU?oc=5"
+      "title": "特朗普真的能向每位美國成年人發放5,000美元嗎",
+      "source": "bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4RzhnQ3B2ajdPVl9DYmc1ME11THNId21SMzBGQnhLNVFHaVFXMXREcDhmd09hN1FRNzRKMlN4V240MWp3RFM0dUpvU2FqZU1wZm5xRlFWWDZ4LW8xWjFCMndTMC1WQdIBa0FVX3lxTFAwNUszRmVWV0U2d18yalZzakFTdC1iajMtT2ZQUkl4RDdnYUlxNnZTaDhVcVQ5TVQyQlI1al85bzJaLWJvQWV4cnZhV2YzRG5yVjFsSkFxejNESVB0bENCQ2dwcHBxbGpWYlI4?oc=5"
     },
     {
       "title": "要聞解說 - 9-11襲擊事件25年後重看地緣政治格局重組中的美國",
@@ -47,34 +47,34 @@
   ],
   "news_stock": [
     {
+      "title": "美股結束4日跌勢 道指高收509點",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fbWE2Ry1yNTlOWXlLbXVmeHBEbXdyaS15M2ppWVFKcmp0OGVnVmhETm1xWldCcVBabzJWcHFTLUR2cDJiM1NSRURTU3l4S0VhdmhGeWFLWmVRc3FpbVg1NDVfamg1aTlXOGs5UTk0OA?oc=5"
+    },
+    {
+      "title": "【美股】高長債息對不同板塊的影響",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qc25vVWNpVElqWnZKeml2eU5Rdk1iQ0QwYjhBUktkbGxTbURxWmJIS3BHUXdLMjZQR0F4MnRMaDNOQUM3OHZLMGxBRnA2c1hOODFHbWNB?oc=5"
+    },
+    {
+      "title": "經紀愛股/10年期美債息逼近5厘 風險資產承壓\\鄧聲興",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBM2szcUFRbHpnaW5XMFNRRGNyNVAxdERfNVdDZ21wc2N0V1JublJzWm9tYm9RMGt6OG0xQUpwZEJLT2p0QllFMEdUVmEwNE9Pc0tkZjVMYnpYMjFQYWk1RnBtenU4VkVFekMwOTlMM2VkRGdC?oc=5"
+    },
+    {
+      "title": "量化策略分散美股風險|香港經濟日報",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRlpITDBkeDJsaHJQcVctOW5RNUdMVDFJdm84Tk10eFZqY2k1UEVhMzY5UFpUVDRveks4SnJGQzlTMWlhbmgzS0lxemU5UGJTY095a0JHU041WDQydEU1MUtMaDJPUkRLcW9Sbm5hSHd6Mjg3WkRLTWxieWhnQ2RmaE5yRVY1djNhQ095V01WMVRKWDQydWYxSmJidzBJZXVhTTdiQXdCSUlvWWYzVmJPSlVWV2FNVjZ6VDlNSFFIX1dGS1NCUWNpR1BB?oc=5"
+    },
+    {
       "title": "美股收盤 | 美股三大指數全線向上，道指收市升509點",
-      "source": "etnet 經濟通",
+      "source": "etnet.com.hk",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGxwdlQxaE00NEVMSjNLR2Z3b0l6em00ZDdpWVl2UldWYjhkMXZxc1lGZG8wTzVzaEpZenl1NG5kLWFXN2NsNEluSWtyTDJYWWVNSmRFZUE3TnF5ZUhvTEpBMVFLT2JIWmVhcEhtYy1XNDUzYXhpeENMNzd3MVgxQTY5cF9rRl9IZUtQMllaMmZaUWhYWXlfMlAzQUVzaDBC?oc=5"
     },
     {
-      "title": "美股泡沫可延續嗎？|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkRzdktHMjROdmxNZE1mZnEtYjhXbmoxWER5Q2RWcEJGUXYzQl9XU1dDbk0xcDFxT3NLOHFpZF9PZWdyZmI5Z1RjX1E0NXN1U0hsWkZ3cjBSdU9KS3d4OWxpNkg1el9wbDNSZEFudFFLS0w2V1lYcDhuOWoyMmVYUHRPbENaS2l3VzBrYkVJOFRZSXU1MFZBemJtSU5aSUVCSHF5X3F1VTVlMGRSdzlMZHFnZ0dLNW8tNHFQZ0FR?oc=5"
-    },
-    {
-      "title": "美股初段升1%或以上",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YR3lUTlZNZDFBb25NcENVRzBLV1NDQzd0cVQwNWhPWmc3WHFxdlBnYm8zMWZTVi1xWUJpYWJOMG84TGl6RXBFY1o5cHFYUkFuOEYwNGJROHF2MDhhMDBGc0hOXzg3RmYwcmFYZGR1cw?oc=5"
-    },
-    {
-      "title": "美股走勢丨美債息及油價降 道指早段飆逾600點",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNQWR3SEk0eTdrMWpyZEJmTzFGSnhxMVViZTRpQ05TYUxVOElaMVhPWDNWcEJkV2RGU3NIRDlVclFwOVEwNmFIX1BtajlHQm9iZTVjVlpvdno1UE5iRVVXYUUxR3ZuTW42TWNmblgtb2NhMFBLeHR5Qk8yOU9hQ2UwWnpRZ1NXWXlGdldfSWRrREg1M0FzWjhVSHFTbmVQYnVCN05vcE5aam94Q2hBeGo2UXpOTERMN1M0ZGs4bmYxSzdUeTNyR3YwRWtWU2prRHRmaERyTWpZYkp1V1c0QW5fU19ud1BjWFI0TE9GOGo2Y0Q0c0ZiUVFReWZDRzdfMmFMTFFKVFZienZPaG1JbWJwN1BvQ2lLdXhQRTJBS09nUkcxUUhWOEdnenVqdUVDWXhLdF9tVDk5X2JpMXcxUW1FM3hPNGJZSHJ4cDNMSGpGaWkza0FJRE5sSzd3?oc=5"
-    },
-    {
-      "title": "納斯達克綜合指數(.IXIC)即時行情, 股票股價, 今日最新指數, 走勢圖",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQZVk1TklmMnpaV3hEVnYyQkZwaVZsVTBRWjExSy1SWTFvMzltczZYVlVWa1hJbHlUQnNKTE9mSFdBcFREY21faGVXTUlxRFpXUE9MVVBKTzVuWE1xWVdnUm1OUjF6eVp4NDNfcVlZRGhZMXlZVEx1MTBEeEFUOWt5bmo0bllXYVdEYVlKc1hlNWlhVUVfVWlqNTdpRy10SEFqWlAyc0drbzhibms4UWc1NTU1NmItcHdwaFdtYnZkRHJUU2hfOUtPZUZrVGk4cTFRQWZSME9UVllhTThtVUxuczctRkZCS1A3M3VJX041WmRwdm1kVURVTzg5OGVacENOeDh6Z3dLR25nMHkwSTA1eTN6N1FlSHJ2Q291RnNKY1RUeUREallhaERUY3BNejVKaXQtaHk1aF9Eby0zXzJ3Tg?oc=5"
-    },
-    {
-      "title": "美國債市：通脹數據推高加息預期，美債收益率隨之上升",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzRXRrRmRvai1UVE1XQi1JTzdxTGdkRUxPX3N2eThWaE9FcWlRQ202R0pSYWtGMjhldnpNbU5xQkgwdkZWTlNVQk5WeTk3TnJtTXJZbDAyb0tQblpoV1J3cnVueUM2ejJHbTU2c1c1My1LOEtWdDU4?oc=5"
+      "title": "Fed升息幾乎成定局反而大漲？美股接下來才是真正考驗",
+      "source": "news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sRTV1b3JfazZPV2pGcEs1eWFMbkYyQ0FDVkU1amwxbFNlWEVCa0NxV1R2NDE3eXVUWkhGdFJJSThwUlJsbU9qVEUzNlBaY3M?oc=5"
     }
   ],
   "events": {
