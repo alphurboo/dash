@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-12 11:15:18",
+  "updated_at": "2026-09-12 20:15:26",
   "gas": {
     "current_label": "9月12日 (現行油價)",
-    "current_price": "184.9",
+    "current_price": "183.9",
     "predict_label": "9月13日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "180.9",
+    "trend": "↓ 明日預測跌 3.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "美國加息概率升至90% 抗通脹只是藉口",
-      "source": "hk01.com",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQX3VyeFNKcnl5Y1ZVZFVKU1dyQUEwWjdaanVwNmpaRkVaT0c1d2Y2RUlsTktPUjhGcC1oUmwwaG0wQ2VsTllESGdQc0ZycmV0NTJFRld1aTVTdzBOSHVKRzZjUnVrdW5VbXRRVGR6YVF4YjdrT3JVSU0yWGhPaUN6bDBQMDgtLVRhOTJ3dFpNSUZCTDRja3hKVV9MN1FuUGhFVWM0bktiVVR4UE5TTnVOcVdFV2RuZmNMVnpOem1QM3d2ZHd2dUxhdEFHMEdVYWN5YUFrelR6TDd5V2tQUTV5ZDJUUzZxQk13QzF2d0ZPYm9qRHRTUVZZWUhaU1NoOEphNy01bnp5VEpqX2J3RF9HUGZLb2VuMERjWFZBNVduOHBvX2JZZ2I3QnlMZV9jZw?oc=5"
-    },
-    {
-      "title": "特朗普表示不反對中國在美國建廠生產汽車",
+      "title": "美國移民執法連3月創新高 ICE夏季轉向低調街頭逮捕",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQZ0lvd0Nzd1A3dWs2cHYtS2FqT2NFVXk4c0xnVUxHbGRpSEw1V0JGMnhucjJkeVM1aFc3aklkd2laTEtvYVdYaHBWcm9PTUwybDRpTVB3U25XMm1jNjdHOURUVlYydGotNXpkcjQ2Mzc0TkhsbV9sMGRfYmktOTMxY01VLWdBMld6Wk1xZFQ2UlJWRnBVSDQ0RlNMVjE5Wml4anJlSkFoQWxOcnlqSGhvbTdHektPV1VIZ3NPTHVrNGhyRTRiaU9wbzNITnVNemtINUhHY3N2Uk5zQmZhaDhuUFJnTnBJOElZS2xlS3VPWHJvWTQ2dXB2N1JWa2poYWVXUVljcWpsV0lPdmdSWWVGZy0wQl9zeEJ4RDdYUnpDSUtBcDh0a2hYZ250VkdoZGJ5ZU5kc3Z1NmZaWWQ4VzFxa2hCR0U?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQNE9sS05lMVdvUUNES3ROU3VVZTJ5S0Fld1dyMEZfZEFLZ1VOc1VYbEFsejRUTGtUZ0RUZnJaOTZGRnlqMTFHZUl6UnNxSG55bnpJNFE2LTFkTDNyZWtGeGtiUk9oWjhUYkNnZ0x6dG9sYlhZWlpKc0s0bGdpR0ZoYmVaQWp2WDZ3aHp4cy1QUVpaZUtRTXJ1SGxGakFkaHV6dlhldG0zN3drdkllWjBwNXRKRWlORXVvYU1wTHBJcVB4VE90WVB4blROaWhHZkRPSXBjM3M3bkNXaGMyekNmcDd2elZmMGFLZk9EbzN3TkxzVW90R1JHQ0ZKVkJIdmt0OWU2Skt3WVlnR3FtUXk1Z2R4X0pHbUh3QVlzZVVDdnQwT2VESnRFT0YwUWJtSGxmWEJwUmgtRWxJNVVwa3haMFZkME8tS2x4bDRsQ2FSQkVpNFZORk5fajc0MlEyRHdJb0E?oc=5"
     },
     {
-      "title": "據報美國限制運油輪通過霍峽的防空時段",
+      "title": "金磚國家關注中東局勢升級 籲避免進一步惡化局勢",
       "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZ3Z3Ykw3QUs2dzczRkNwelRzY1hqM0xBOW9uZUVOYkNtYWhoTzlHRTFpaVR0VDZ2MGlDOXIwZjQyUWI0ajNQN0M1OUtocnZCNmdrQnNJdmZZbWtVMkE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zTThtbEJDUnFqQUQtR1B0VGl0ekFUVHBId3dFWEZwTkFnMDZuWjl0Mzl0MWhJQV9DOGxZaU9HcE1EaDNFdmR0TzJ1V25PQmtOM0FUaElwM3Z4Y2VBT3c?oc=5"
     },
     {
-      "title": "中方促國際社會合作應對恐怖主義",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKd20wR0I4Z3VKc1FPaHJScm85dzBQNVNDTE1zaHJpaURVNXVscU9QeXJjdk0xOHVtT2o3ejlKN1lzN1Z6LXcwNGxxLVV3TldVaHdiXzN1SEMzYmQydzJja3QwOWdaSUdSX2NpZndQZw?oc=5"
+      "title": "沙國輸油管遇襲油價看漲 白宮考慮擴大美國煉油產能",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aZDg2RExUbWMtM1oxV2hWQWNiX3B5bWw1QnVDTWtMZEZsSkJTT2FlMXZrOGhFRDVNSDBicU9wTC1DREJBVEVCcVpqcUlFdzd40gFWQVVfeXFMUGVGSDRlYzZCRUtIeUtuWEJKdHlaQVducEFQNWlGMm51MGhGRDFXa09fc0o1ZUQyR29MSHRSTlYwUUkxYkVmdWFRVUtyNjM3enR5bXBsMnc?oc=5"
     },
     {
-      "title": "第二十四屆中國國際肉類工業展覽會青島啟幕- 各地動態",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aZktXRFFWaVpNOVp5SHAtcWlaUDN5bVcwVE41TFcwWWtrM3ZlMktoTGRjSE5rX0FycTVlUkttWmhoQlpIR0ZKSVE1Y1NTMjFpeWJPcnEzQnhBazJVV05wMW9jQ1lUOFZmTDkxMS05Tmo?oc=5"
+      "title": "DW專訪澤倫斯基：願去美國見普丁",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVlmcHFBWFVZYUt6VnZJOU9GRXljUTVZZU90a3FmRHRaTTJHWVhqT3FNZW1XVnVCVXpreUs0REJVT2FNdkFEY01SSm5FbGd2Tld5VHdRbllfa3JRcklWaXVkRWVfNFFYM3ZmTzlZc1RBZ2FrdmJLdk1BNVVHamIwU19YSlFFRkJaUXgzRlJyN3BrOVRSQ2ZBamJ4RWMyWlVxOUNaV2YwTWltR2wzQWJBc08yZndSQTZwV2prXzEyRXdQcFVLenZpdTFzMzZSMjBLTHNnYVppS29NVnFJME1rX0ZYUjhrczhxSUVVZWxPVEw0M00?oc=5"
     },
     {
-      "title": "特朗普指不會反對中國車企美國設廠",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aU2N1ODlneDRwalNIZWlHaGt4OThyc2JfTm5OS1k0dTJtTnhDb0hHaFZpY1BaUFA2LTlhbmhOMzNZMUVoM1VjMDNqU2xnUXZEaGVfbDRQRy1xVVBIdFl5bzRlbUJ2alB2eEZJLQ?oc=5"
+      "title": "美國政府面臨新困境 胡塞武裝推進也門威脅紅海航運",
+      "source": "Singtaousa",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR09TM1VxN1lkSVpEazI0b244Z0tOMW5FeFpDM0pKTDh4REJFUVlWMDJ6QTM0c2RRMVZ5S1hjVUs5ZHU4Z21DdzFSV01UcUZZM2VBZ0N2ODFfZmtYaEpFT3dKaDZPMU44SGtRQzBrLXc1SDFDN0pnSDJQX1pxenNQSDBqQzVBc2RjRk9fRXJ0OVFhTHJvWWY3eElJTTU?oc=5"
     },
     {
-      "title": "美國據報限制穿越霍爾木茲海峽油輪防空時段",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPdlZGMjNvcVNPbVdPbUp5Q2VEMFVfT1ZCbGRFZ3RPd2w1V25oRW02ZHVUX2tyTnZQY25OcUlEakZZTVdjZVRCeV9UbThHc1Q2a2ZNTXRSYXEwX0RGU1BQaE0xNWQ1Z3MyclFEcXdkLWhpeTZjeEE1X0ppN2dkaGd3QkJKX3R0Vm13Ny1mdWM2R01fY2VnRzgwUFowUTRKOUVKNjdoSVdZVm0yclNZQ2QtSFgwZUJ1MlNYS3c3UC1YdXBGUE1VTllRQWhxWTJ3SDRuRWdYbjkzbVdLaUFKWWFQYmV0Y3pVcWtHUS1kWm9VY1FpUVpsTXo2TlRDOG81LVBkOXFsQ0t4QmdENFU4TU9TY0w3bl9HN08wSGJueTdZa2ZLNFZ6ejItbDcyeHZYd0hOaFZUQjBmOWppQnNONjhmV0play1OV1FrWF9EY3c4ZXNlbGVtRW00Rw?oc=5"
+      "title": "美國為何針對加拿大打貿易戰？　能源、乳業及美加經濟互賴成關鍵",
+      "source": "singtao.ca",
+      "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQSS1LSldKM1d1V1JKc2ZhYzNtS0NlYlVhekw0dDEtYklMMTBZU0tUOTBsRTJsNlBZY3Axby1oWjk5aTF5UzNGTkhqTkROWnNQUHF6U25ENVcwOFdxVjdKdzAzTHZncUdYVUlWZ3dZdjlaZlFwMlhwQzJYdFBsclBrSE01U1VWVFZRNk5DUVp4TDdYUmZOZzBzWnJKZTFpSTRGV20ycjlQRlRkYWFuZHhZUkJwQzF6bkM3aTg1eXFlb0puSGVYMTRwTEpVbW41bmJtUTl0T2xMTDQ3SlRWU1pubGpXTWN2bHMyUTMxemJEaVdPN1JCN0VtbXFla3lqU2xDVFV0cTN4UkZvQ3hTRTJFcnZmSFVxZlcxcVVlaGN2MGFiRUdRNUNMNTd0cUlKZ2JMUlVZR0ZCVWV5WGhwQ2F0S2NlWFRzV25rd25SS21EVEtZWkZ3eXpNa3B4UjVGQWpnWUpuZ2JVbFhBaC0yaU5FOVVBRU1ES3VOX2F3N0ZXczdaZ2RjTEhGcEhKMFRVdDBDaURmWWxfSFFSXzMtc1RUeUpBSHdEcWNWczExTU1tbmJpUGxXekhyTEVFZ1VwWlY5LUpOR9IBigFBVV95cUxPUTNvTGZVdjRQaVhMNGNITlZkZVp4c2RrNlJUbmlMbXZjamI2QS0wSHoyRnhySDZVaWtZMXNXN3Z5TXQwYkVWM1ZGbHhlSWRVQ014elpIV3hCcmM4eGtJal93alExTmdrT181bUlzM2tRcDFXYkoxTGNLT3UtYlEwQ29qYm5YaXBYaVE?oc=5"
+    },
+    {
+      "title": "特朗普：加國渴望與美達成貿易協議 協議可能很快達成",
+      "source": "news.rthk.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyRzJuQUwxYkNaSDFmTV9kc2thZGFmVFJWRElwTE1NY3k3c04tN00xX3NMaC1qZDl5Y0x2MW1Eb0pxbUJhWUl4WHpLcFQ5YWN3c01WUG52NkRyZDZTN1l6WllGZHhzQzFvWWNnTzVsaw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "Fed升息恐非一次性！專家估最高升6次 華爾街警告：AI熱潮與私人信貸藏隱憂",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNOEVTVE1HZXNOYVJFVFZTM1JrOUFNX05HdXJFLXVuQWQxUGhmWWc2NlFEV3JWVDZSVThyTFRfMVliLU5PenZPNG5NeWVXS05fVnZHdk82U3VYN3g4c3pnZy1hNHphX3ZYV2w2YUVINkpyNy1zZFJzazlVX1hzem1qSXJOYnEzSm9GVUJWUHZtNzdMbHprdFM2RXgwSHRnbmRhM29aSlgtTk1IZ3E2UWxBMW9MQWpYcDM0cmJlRGdvcnJpOWZVajE4MGV2aUZEYWRCemJKQzJ2OFIyRjRobnY1djhJYzd4MXhSNGFSTkswS2o3RjVqbW1pMkxBRXY3QmJtSFRkVmFnTFZOeGJHR25iSTNGcHh0aXByeUNRYzFkUEJ0YV9IbW5iTUF4UVJzcDdDbUhtQklzVFA0b05ncU1wYVNfNW9YYTBwOHFuZ0dZSW9EQWNQTlhYNmlDbEdPQlc0YlhTOXM0akJkUkhyYU95R2N0aWxvbk5ULUV3NHB1Y1VPbTdfdExNamZTcE5qWDZ1ZFJRa2JfNTNFb1RkVGkzeGVkTGtSVGFZcFNteGRUYTB4TFdxcDhJREUzRQ?oc=5"
-    },
-    {
-      "title": "傳奇的九月暴跌與聯儲局預期加息。（影響與市場方向）",
+      "title": "SpaceX在納斯達克100指數中的權重將獲上調",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGdReTRNVWF3Y19XREtnTlRYREJaT1dEZUNMcEc4eWRXNGVzdXhLX2xvZUd4QzRmekxiQ1V3cEhaZ20wcDNSR08wNXU3dXFlNkJJYmtydGVIYkZwRjlBTU1Gazg4UkNnS3lSd3p6cGJsaTJmMFpDdENXNDRyNlh5aUFaQkJpVTlTNUUzOFNNTDR1WHlpS3dIYnRFbnl2Rjk4YzdZTDRzSjFHcndTVTRXUHpTUkd3U0JXWHczS21tUmRnalU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DWHA2bWV5dE54ME95MUw3SUFWMG1rN0wxa2Q4R0F1bEptT3NlUlpUYkNNb1lkZVpGLUhSY3pKaEZQOGJtT1RNNEVsbWVKcURkRGRfV05TWFRLZw?oc=5"
     },
     {
-      "title": "美國債市：國債漲跌不一 收益率曲線走平 通脹報告支持美聯儲加息",
-      "source": "flamingwheels.online",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtZGxGcnRlV25MYnN0ZGhlUVpYRDhIbnNOTFVwVnBZcUlJYkxmbWpyNExfZ1VRYURKeUpRd0RmNVdnUGxpRXRXMVQtWUFNZGI2c2JnRmNpMzVoc051V3h3Y3Boc05QamFyWjhJYlR3YTlQWHFL?oc=5"
+      "title": "Fed 升息在即專家：對股市反而是好事| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hR0ZCa0NCUjRFcm9Nd0dLTTVYNjd5U2UyVlVIeWNtOVdSbnZmRE5vbnJiQUY3bkxWdFRma2h1Wl9ZSmNjSmwwN3NmQ1pRcWNv?oc=5"
     },
     {
-      "title": "美債殖利率走升 恐是「AI泡沫」破滅的警訊",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kX2lFcG5GcE1IWkxnVUFaRG80aGJVTzRBTlplRmxXOG1ZQzZkb2FsVVVJRnBXREtlU0FkSG1CVzBoSW9JTUk5YV91WVV0YXJMZkNuaXhadkx2VncwNkpwc0ljUnRBMEnSAWdBVV95cUxNZF9pRXBuRnBNSFpMZ1VBWkRvNGhiVU80QU5aZUZsVzhtWUM2ZG9hbFVVSUZwV0RLZVNBZEhtQlcwaElvSU1JOWFfdVlVdGFyTGZDbml4WnZMdlZ3MDZKcHNJY1J0QTBJ?oc=5"
+      "title": "若升息美股反有望迎「下一波多頭」行情？Fed升息機率飆至87%",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zaG5ndU9qZVJqYUk3M1dXODZNaHFxU3FjdXphZ2RiUi1ia0N4RFZ6MEF4U2U3dGpHR191NGF4ck9PRTdIdUE4ajlXZw?oc=5"
     },
     {
-      "title": "油價高位回落 美股三大指數反彈 (15:24) - 20260912 - 即時財經新聞",
-      "source": "明報財經網",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZzliLUVaVm1lSTJpNmRQMUdTLWhqOVRLTzZmcHpiLXY3T3NxWlRBRm93YkVuenBYX21ISHlRdktuZjM5dlVrMFdoX1YzakZFQi13b2JIT2lhZW1kaFFIVEpwbzU2TnN0Yy1nR0RDTXZBRWMwak1rT0xhcnprTHhjQ2p6bTQ0bWVCSmdwWWJ1RlY0RTVXS3ZhbzhNR3hzV1g2eFBoNWNReExLZU1QM3hEZzBTNXl2RjdxSUZEUHpuOVZBMERhc3dpQnBickhKUXpQZnVFWHppRjdEbWlLZTZOelZhc2NEdW4tdG5zNU0wR21SNElkVFZHeWZraVJ3eGZGN1BvVmoyd1hXanhjLWgwc3pCT2JWa2JFdXJB?oc=5"
+      "title": "美股曇花一現？本周Fed是關鍵- 日報",
+      "source": "工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qVEU2b2l3emlqRUN1d0M4aWtGdlhvY2xNdEUzQ05LdlF3R3oyVmRCOGV3dG51VXBmMFUzZEZKcnI3VjlWbjRlbFUwVmZlRFVaWmU5ZDFybVZQanZCWHlN?oc=5"
     },
     {
-      "title": "美股走勢丨道指收市升509點 戴爾飆12%創新高",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14ZmsyNnVldW40MVhERnRyRElxNFlzQ01pN2dyWDVWZExIYlhoQ2pwNzNjbEppeUVSWE5CZXJvZWVrdUhxMU04cXZfcVpZZFpwSm9ZVW9TbTd6YU1uNEVJ?oc=5"
+      "title": "市場已消化美升息預期 油價回跌推動美股回漲 | 太報",
+      "source": "LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04YVFmOGNtaTZqaFVvdHc0VWNiMTY5UDZINHVfNlVpOG5xcHd2N3UzUWFNUV8tN296cjZJMk9qMmdrUjIxVXR3YjJKQWJISTFyTG1QRmlR?oc=5"
+    },
+    {
+      "title": "【即時新聞】美股遇通膨逆風回跌！蘋果(AAPL)與Meta挾AI利多逆勢狂飆",
+      "source": "CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LZm5zbXU5dElab0FKTGFWTmZ4d0daVXZScDFWYmlVeHB3T2hudW51dUdRcFF5OHBvR2pERWhJYXNxOVV6UzZOQjJRUkJpNkN4cnhNZGRhdDRWejUweFF2SHdRTG91SVk?oc=5"
     }
   ],
   "events": {
