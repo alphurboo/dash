@@ -1,105 +1,97 @@
 {
-  "updated_at": "2026-09-11 22:08:22",
+  "updated_at": "2026-09-12 11:15:18",
   "gas": {
-    "current_label": "9月11日 (現行油價)",
-    "current_price": "178.9",
-    "predict_label": "9月12日 (明日預測)",
-    "predict_price": "184.9",
-    "trend": "↑ 明日預測升 6.0 ¢",
-    "trend_class": "gas-up"
+    "current_label": "9月12日 (現行油價)",
+    "current_price": "184.9",
+    "predict_label": "9月13日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "特朗普稱美國永遠不會忘記911事件 將繼續戰鬥",
+      "title": "美國加息概率升至90% 抗通脹只是藉口",
+      "source": "hk01.com",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQX3VyeFNKcnl5Y1ZVZFVKU1dyQUEwWjdaanVwNmpaRkVaT0c1d2Y2RUlsTktPUjhGcC1oUmwwaG0wQ2VsTllESGdQc0ZycmV0NTJFRld1aTVTdzBOSHVKRzZjUnVrdW5VbXRRVGR6YVF4YjdrT3JVSU0yWGhPaUN6bDBQMDgtLVRhOTJ3dFpNSUZCTDRja3hKVV9MN1FuUGhFVWM0bktiVVR4UE5TTnVOcVdFV2RuZmNMVnpOem1QM3d2ZHd2dUxhdEFHMEdVYWN5YUFrelR6TDd5V2tQUTV5ZDJUUzZxQk13QzF2d0ZPYm9qRHRTUVZZWUhaU1NoOEphNy01bnp5VEpqX2J3RF9HUGZLb2VuMERjWFZBNVduOHBvX2JZZ2I3QnlMZV9jZw?oc=5"
+    },
+    {
+      "title": "特朗普表示不反對中國在美國建廠生產汽車",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQZ0lvd0Nzd1A3dWs2cHYtS2FqT2NFVXk4c0xnVUxHbGRpSEw1V0JGMnhucjJkeVM1aFc3aklkd2laTEtvYVdYaHBWcm9PTUwybDRpTVB3U25XMm1jNjdHOURUVlYydGotNXpkcjQ2Mzc0TkhsbV9sMGRfYmktOTMxY01VLWdBMld6Wk1xZFQ2UlJWRnBVSDQ0RlNMVjE5Wml4anJlSkFoQWxOcnlqSGhvbTdHektPV1VIZ3NPTHVrNGhyRTRiaU9wbzNITnVNemtINUhHY3N2Uk5zQmZhaDhuUFJnTnBJOElZS2xlS3VPWHJvWTQ2dXB2N1JWa2poYWVXUVljcWpsV0lPdmdSWWVGZy0wQl9zeEJ4RDdYUnpDSUtBcDh0a2hYZ250VkdoZGJ5ZU5kc3Z1NmZaWWQ4VzFxa2hCR0U?oc=5"
+    },
+    {
+      "title": "據報美國限制運油輪通過霍峽的防空時段",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZ3Z3Ykw3QUs2dzczRkNwelRzY1hqM0xBOW9uZUVOYkNtYWhoTzlHRTFpaVR0VDZ2MGlDOXIwZjQyUWI0ajNQN0M1OUtocnZCNmdrQnNJdmZZbWtVMkE?oc=5"
+    },
+    {
+      "title": "中方促國際社會合作應對恐怖主義",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9seWhHcWtTeHMyMjlweTdneThuaVl5ektMTks0VVR6T3lGb1ZSXzNFZVJ1emlaR0hjanRGbjBmU2lpYTBaUi1KVUFtNW9pMVg1WWdCQXJoRWZfOWNoVUhYRXBHQ0tLQXMxalhrNDNBVQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKd20wR0I4Z3VKc1FPaHJScm85dzBQNVNDTE1zaHJpaURVNXVscU9QeXJjdk0xOHVtT2o3ejlKN1lzN1Z6LXcwNGxxLVV3TldVaHdiXzN1SEMzYmQydzJja3QwOWdaSUdSX2NpZndQZw?oc=5"
     },
     {
-      "title": "特朗普將“9·11事件”與伊朗戰爭相聯繫：美國永遠不會忘記，這就是我們今天為何而戰",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQN0tiQVZRN3NkRDQzX1RnLW8zbmJGLWdRb1FPTy1IcmJ3TDBEOWZ4cXpKSjR0ZldqTndQNi1uUTJrNUdYVUVNU1pySDRkZEI0aGZjeE5TS1k3NUJ3QWhnYWV1TGo3SGRnMVF5Qno2UVBiOWE5WmhwaUVjaFdOZlU5MnpCQ2VvOG5TYUZlTE1WenBqZy1TWkNNOGlEazdpZ2g3R2dlS19DNGhrX1BpYzBaa3hQYm13QjFsTjVDUmNUXzNhSFdvYWNPWGtLZ0FQZHhKTmU0bHh2UzRQcFM5anA2QTZnY0NibnAxcDZiQU5OZ19BZzJNMHBnbU95dkNCTDVPN2VTVDNlZTJqc1FjU3p1bmxGTXV4SE5Wemw1Z3VnQXlsNW1INUZuQU5MR050a2EtdHZtOExWbE81Y0daMjRnSjFwNDBSQ1NVOWdTbjNmanpoZHQ0eXZkUjJqNGtIRURaLTN6eDFyWjBQeF8xbWZIdk1OWjlmNGYwaE55cmo4djMtMzNQdHhDUDhweHVqQ0JXVjBBVjNXdUhKZ3lzS2RGY29jREVzc2VuMGN3U0pTT0xFaDNFUmVMbGQzVGVsODdfd3J5NDVFZXFqamw3ZzNGaGo5Uy1sNVBxN1h3STdOSmRVX2JjdTdfWXJHSU16MVVJSW5DZEM1M1dXZDhkZEYydTVMRnlzc0U?oc=5"
+      "title": "第二十四屆中國國際肉類工業展覽會青島啟幕- 各地動態",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aZktXRFFWaVpNOVp5SHAtcWlaUDN5bVcwVE41TFcwWWtrM3ZlMktoTGRjSE5rX0FycTVlUkttWmhoQlpIR0ZKSVE1Y1NTMjFpeWJPcnEzQnhBazJVV05wMW9jQ1lUOFZmTDkxMS05Tmo?oc=5"
     },
     {
-      "title": "第十一屆「一帶一路高峰論壇」圓滿閉幕 開創全球合作新篇章（附圖）",
-      "source": "info.gov.hk",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HcEo5QWVoRFhSVGFYRnBVU2RRdkNDTkVWckM0c2pHNnhuZU5QQ0dTMEZjWnoxbVNUT21lNXdLdjJaYlBZN252eVhaTnpnV05aaXpiZ01yRG1UTWdfR0J4T0gtVnlaMXVaanVJMjU0WkNsZw?oc=5"
-    },
-    {
-      "title": "中東局勢丨遭多次襲擊 沙特關閉東西向原油管道",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNbXFXUnlFWjZXQ21xb2JMQmdwdlQ2clFlUkVZY3JIRmtEeXJfcjJGUUVmV2xTVDdtQjB1NE5mWXF0dGFHVlhDYTFjbFZrc2hBYjJQVFlyaTdoeHZsbE1GVUQ5dXgyWGw5cm1ZckdGbDEzZ1NXUHNEdVhMbXlSQ1EyZTdaa2JXMG9FeHpKSU9SOXBMZlFtMVloa2lmRWk5ZEN1UGpCR2tMMzZIWG9CNnNlRHZWa3UyakdHRE1rM3A2dXlURmxRRDQzTzZVY01QVjRzalFDZm82UHM5U3dLcVktVWM3YzR2Z1V5aE5xX2lWR0lXZmxxb0Ftem1rNWN2QVlQd0tXTDR0aDBuMjg0ZFN3MkNLUjRZZHBCYzlyRlRZZ3RRc0FoNnRacHhEbEpOajQxbWJkMFR4cTRYZWFrOUdIMG5rbENmNEJfOXl6WkJ0eFRKX3dsQVNxSkdnamVDd2U3VmJwN2VGRTRPZDFTMmc?oc=5"
-    },
-    {
-      "title": "美國911襲擊25周年 多地舉行悼念儀式",
+      "title": "特朗普指不會反對中國車企美國設廠",
       "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03VWpvU2pUUkpFNFk1MTF6MjFDdlQ1elBXeW9Kd2RKVzY2OGYtTmJienhZRVR1dDRSR1VrSThWTWE4cnRqR0NaOUl6NVJOMEdvUlBGT1pjRy1xc3h1UEtzWkZROFRwa3lWOEpISTRRaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aU2N1ODlneDRwalNIZWlHaGt4OThyc2JfTm5OS1k0dTJtTnhDb0hHaFZpY1BaUFA2LTlhbmhOMzNZMUVoM1VjMDNqU2xnUXZEaGVfbDRQRy1xVVBIdFl5bzRlbUJ2alB2eEZJLQ?oc=5"
     },
     {
-      "title": "特朗普真的能向每位美國成年人發放5,000美元嗎",
-      "source": "bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4RzhnQ3B2ajdPVl9DYmc1ME11THNId21SMzBGQnhLNVFHaVFXMXREcDhmd09hN1FRNzRKMlN4V240MWp3RFM0dUpvU2FqZU1wZm5xRlFWWDZ4LW8xWjFCMndTMC1WQdIBa0FVX3lxTFAwNUszRmVWV0U2d18yalZzakFTdC1iajMtT2ZQUkl4RDdnYUlxNnZTaDhVcVQ5TVQyQlI1al85bzJaLWJvQWV4cnZhV2YzRG5yVjFsSkFxejNESVB0bENCQ2dwcHBxbGpWYlI4?oc=5"
-    },
-    {
-      "title": "要聞解說 - 9-11襲擊事件25年後重看地緣政治格局重組中的美國",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxORHI0WXdHOVpja3hESG1URjlmczZ5TUVvSWVmaWotRDFCa3RZX1VOTm0zUXl2MDVKS1BMTHAwVmhpWXNuVUZwb0Y2R19fMWNLdDJ3NUU0STJ4STBEQllIemJ2eEpjeGtmaUthX19YbXQ0N3U0QU9TTGpUc3lDQXpXZHotWW9BZkFlSkhoVGNReE1aRWJvZEVCYzNDMDJQNmpGSEQyS3ZadzFRUlY4cTQzd1gtNXd0NnFUdi0tYWZiSGIyX2Z5dG1sbTZ0bUZyR2c3SXhWRndTMTM3aUs1dmJZT1ZtcUZBdGpoaGIxQUVrVThSOGZVa3htUTBqandWYjdTYjctdUZ6cFMwUzh6cXV4UnplaTh6WDc5MzQ4Wk1kbnJXUjF5NHpyaGlkV1dRdi1Md0N2dno1SkNJSV9TT3ZxWU1qcUZRd2hvblh1aWRTZE5SQXk5OTNrbFlJM0JxZGdzSVZabFgxd0lPQ3JLZ0tKWkNZM2dvSTgyTUxpQ0h5S2liaHp0ZWduMWNsRkxwS0xwZDFER2k3eTZiSDJWQTVBVg?oc=5"
+      "title": "美國據報限制穿越霍爾木茲海峽油輪防空時段",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPdlZGMjNvcVNPbVdPbUp5Q2VEMFVfT1ZCbGRFZ3RPd2w1V25oRW02ZHVUX2tyTnZQY25OcUlEakZZTVdjZVRCeV9UbThHc1Q2a2ZNTXRSYXEwX0RGU1BQaE0xNWQ1Z3MyclFEcXdkLWhpeTZjeEE1X0ppN2dkaGd3QkJKX3R0Vm13Ny1mdWM2R01fY2VnRzgwUFowUTRKOUVKNjdoSVdZVm0yclNZQ2QtSFgwZUJ1MlNYS3c3UC1YdXBGUE1VTllRQWhxWTJ3SDRuRWdYbjkzbVdLaUFKWWFQYmV0Y3pVcWtHUS1kWm9VY1FpUVpsTXo2TlRDOG81LVBkOXFsQ0t4QmdENFU4TU9TY0w3bl9HN08wSGJueTdZa2ZLNFZ6ejItbDcyeHZYd0hOaFZUQjBmOWppQnNONjhmV0play1OV1FrWF9EY3c4ZXNlbGVtRW00Rw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股結束4日跌勢 道指高收509點",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fbWE2Ry1yNTlOWXlLbXVmeHBEbXdyaS15M2ppWVFKcmp0OGVnVmhETm1xWldCcVBabzJWcHFTLUR2cDJiM1NSRURTU3l4S0VhdmhGeWFLWmVRc3FpbVg1NDVfamg1aTlXOGs5UTk0OA?oc=5"
+      "title": "Fed升息恐非一次性！專家估最高升6次 華爾街警告：AI熱潮與私人信貸藏隱憂",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNOEVTVE1HZXNOYVJFVFZTM1JrOUFNX05HdXJFLXVuQWQxUGhmWWc2NlFEV3JWVDZSVThyTFRfMVliLU5PenZPNG5NeWVXS05fVnZHdk82U3VYN3g4c3pnZy1hNHphX3ZYV2w2YUVINkpyNy1zZFJzazlVX1hzem1qSXJOYnEzSm9GVUJWUHZtNzdMbHprdFM2RXgwSHRnbmRhM29aSlgtTk1IZ3E2UWxBMW9MQWpYcDM0cmJlRGdvcnJpOWZVajE4MGV2aUZEYWRCemJKQzJ2OFIyRjRobnY1djhJYzd4MXhSNGFSTkswS2o3RjVqbW1pMkxBRXY3QmJtSFRkVmFnTFZOeGJHR25iSTNGcHh0aXByeUNRYzFkUEJ0YV9IbW5iTUF4UVJzcDdDbUhtQklzVFA0b05ncU1wYVNfNW9YYTBwOHFuZ0dZSW9EQWNQTlhYNmlDbEdPQlc0YlhTOXM0akJkUkhyYU95R2N0aWxvbk5ULUV3NHB1Y1VPbTdfdExNamZTcE5qWDZ1ZFJRa2JfNTNFb1RkVGkzeGVkTGtSVGFZcFNteGRUYTB4TFdxcDhJREUzRQ?oc=5"
     },
     {
-      "title": "【美股】高長債息對不同板塊的影響",
+      "title": "傳奇的九月暴跌與聯儲局預期加息。（影響與市場方向）",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGdReTRNVWF3Y19XREtnTlRYREJaT1dEZUNMcEc4eWRXNGVzdXhLX2xvZUd4QzRmekxiQ1V3cEhaZ20wcDNSR08wNXU3dXFlNkJJYmtydGVIYkZwRjlBTU1Gazg4UkNnS3lSd3p6cGJsaTJmMFpDdENXNDRyNlh5aUFaQkJpVTlTNUUzOFNNTDR1WHlpS3dIYnRFbnl2Rjk4YzdZTDRzSjFHcndTVTRXUHpTUkd3U0JXWHczS21tUmRnalU?oc=5"
+    },
+    {
+      "title": "美國債市：國債漲跌不一 收益率曲線走平 通脹報告支持美聯儲加息",
+      "source": "flamingwheels.online",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtZGxGcnRlV25MYnN0ZGhlUVpYRDhIbnNOTFVwVnBZcUlJYkxmbWpyNExfZ1VRYURKeUpRd0RmNVdnUGxpRXRXMVQtWUFNZGI2c2JnRmNpMzVoc051V3h3Y3Boc05QamFyWjhJYlR3YTlQWHFL?oc=5"
+    },
+    {
+      "title": "美債殖利率走升 恐是「AI泡沫」破滅的警訊",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kX2lFcG5GcE1IWkxnVUFaRG80aGJVTzRBTlplRmxXOG1ZQzZkb2FsVVVJRnBXREtlU0FkSG1CVzBoSW9JTUk5YV91WVV0YXJMZkNuaXhadkx2VncwNkpwc0ljUnRBMEnSAWdBVV95cUxNZF9pRXBuRnBNSFpMZ1VBWkRvNGhiVU80QU5aZUZsVzhtWUM2ZG9hbFVVSUZwV0RLZVNBZEhtQlcwaElvSU1JOWFfdVlVdGFyTGZDbml4WnZMdlZ3MDZKcHNJY1J0QTBJ?oc=5"
+    },
+    {
+      "title": "油價高位回落 美股三大指數反彈 (15:24) - 20260912 - 即時財經新聞",
+      "source": "明報財經網",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZzliLUVaVm1lSTJpNmRQMUdTLWhqOVRLTzZmcHpiLXY3T3NxWlRBRm93YkVuenBYX21ISHlRdktuZjM5dlVrMFdoX1YzakZFQi13b2JIT2lhZW1kaFFIVEpwbzU2TnN0Yy1nR0RDTXZBRWMwak1rT0xhcnprTHhjQ2p6bTQ0bWVCSmdwWWJ1RlY0RTVXS3ZhbzhNR3hzV1g2eFBoNWNReExLZU1QM3hEZzBTNXl2RjdxSUZEUHpuOVZBMERhc3dpQnBickhKUXpQZnVFWHppRjdEbWlLZTZOelZhc2NEdW4tdG5zNU0wR21SNElkVFZHeWZraVJ3eGZGN1BvVmoyd1hXanhjLWgwc3pCT2JWa2JFdXJB?oc=5"
+    },
+    {
+      "title": "美股走勢丨道指收市升509點 戴爾飆12%創新高",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qc25vVWNpVElqWnZKeml2eU5Rdk1iQ0QwYjhBUktkbGxTbURxWmJIS3BHUXdLMjZQR0F4MnRMaDNOQUM3OHZLMGxBRnA2c1hOODFHbWNB?oc=5"
-    },
-    {
-      "title": "經紀愛股/10年期美債息逼近5厘 風險資產承壓\\鄧聲興",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBM2szcUFRbHpnaW5XMFNRRGNyNVAxdERfNVdDZ21wc2N0V1JublJzWm9tYm9RMGt6OG0xQUpwZEJLT2p0QllFMEdUVmEwNE9Pc0tkZjVMYnpYMjFQYWk1RnBtenU4VkVFekMwOTlMM2VkRGdC?oc=5"
-    },
-    {
-      "title": "量化策略分散美股風險|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRlpITDBkeDJsaHJQcVctOW5RNUdMVDFJdm84Tk10eFZqY2k1UEVhMzY5UFpUVDRveks4SnJGQzlTMWlhbmgzS0lxemU5UGJTY095a0JHU041WDQydEU1MUtMaDJPUkRLcW9Sbm5hSHd6Mjg3WkRLTWxieWhnQ2RmaE5yRVY1djNhQ095V01WMVRKWDQydWYxSmJidzBJZXVhTTdiQXdCSUlvWWYzVmJPSlVWV2FNVjZ6VDlNSFFIX1dGS1NCUWNpR1BB?oc=5"
-    },
-    {
-      "title": "美股收盤 | 美股三大指數全線向上，道指收市升509點",
-      "source": "etnet.com.hk",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGxwdlQxaE00NEVMSjNLR2Z3b0l6em00ZDdpWVl2UldWYjhkMXZxc1lGZG8wTzVzaEpZenl1NG5kLWFXN2NsNEluSWtyTDJYWWVNSmRFZUE3TnF5ZUhvTEpBMVFLT2JIWmVhcEhtYy1XNDUzYXhpeENMNzd3MVgxQTY5cF9rRl9IZUtQMllaMmZaUWhYWXlfMlAzQUVzaDBC?oc=5"
-    },
-    {
-      "title": "Fed升息幾乎成定局反而大漲？美股接下來才是真正考驗",
-      "source": "news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sRTV1b3JfazZPV2pGcEs1eWFMbkYyQ0FDVkU1amwxbFNlWEVCa0NxV1R2NDE3eXVUWkhGdFJJSThwUlJsbU9qVEUzNlBaY3M?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14ZmsyNnVldW40MVhERnRyRElxNFlzQ01pN2dyWDVWZExIYlhoQ2pwNzNjbEppeUVSWE5CZXJvZWVrdUhxMU04cXZfcVpZZFpwSm9ZVW9TbTd6YU1uNEVJ?oc=5"
     }
   ],
   "events": {
     "macro": [
       {
-        "title": "消費者物價指數 (CPI)",
-        "date": "2026-09-11",
-        "days_left": 0,
-        "status_badge": "今日",
-        "tag": "📊 通脹",
-        "desc": "8月通脹年率與核心CPI公布"
-      },
-      {
         "title": "FOMC 議息 (附點陣圖/SEP)",
         "date": "2026-09-16",
-        "days_left": 5,
-        "status_badge": "5 日後",
+        "days_left": 4,
+        "status_badge": "4 日後",
         "tag": "🏛️ 議息",
         "desc": "聯儲局公佈利率決議與最新經濟預測點陣圖"
       },
       {
         "title": "美股「四巫日」(Quad Witching)",
         "date": "2026-09-18",
-        "days_left": 7,
-        "status_badge": "7 日後",
+        "days_left": 6,
+        "status_badge": "6 日後",
         "tag": "🧙‍♂️ 四巫日",
         "desc": "季結指數/股票期權期貨集中結算轉倉"
       }
@@ -110,8 +102,8 @@
         "name": "Extendicare",
         "type": "9月派息",
         "date": "2026-09-15",
-        "days_left": 4,
-        "status_badge": "4 日後",
+        "days_left": 3,
+        "status_badge": "3 日後",
         "desc": "8月份月度股息現金入帳日 (Payable Date)"
       },
       {
@@ -119,8 +111,8 @@
         "name": "台積電",
         "type": "9月除淨",
         "date": "2026-09-16",
-        "days_left": 5,
-        "status_badge": "5 日後",
+        "days_left": 4,
+        "status_badge": "4 日後",
         "desc": "季度高息除淨日 (Ex-Dividend)"
       },
       {
@@ -128,8 +120,8 @@
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
-        "days_left": 18,
-        "status_badge": "18 日後",
+        "days_left": 17,
+        "status_badge": "17 日後",
         "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
       },
       {
@@ -137,8 +129,8 @@
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 19,
-        "status_badge": "19 日後",
+        "days_left": 18,
+        "status_badge": "18 日後",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
