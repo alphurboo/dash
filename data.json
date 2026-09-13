@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-13 11:15:19",
+  "updated_at": "2026-09-13 20:15:22",
   "gas": {
     "current_label": "9月13日 (現行油價)",
-    "current_price": "180.9",
+    "current_price": "181.9",
     "predict_label": "9月14日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "180.9",
+    "trend": "↓ 明日預測跌 1.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "金磚國家呼籲「中東各方保持最大克制」",
-      "source": "dw.com",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNc1lXRjBUcFRlUThJSk94WlpMN2d3R0xUN3BRb3ZFVG5tenNkR1l4VTRlMXRHck5oUGEyUDZ1djU4MzJSRkpTWDBxUGZJWmJZUDU1V3F3Qk1ZcXBXSVpKSzBUak1VNGtGcVBrb3dlNTB5MmpDdHc3bTlBT3o5aklrVUtpT2k5SW5rT1FTaEJTT1IzYlg5dU1HX2pMYUF1UDkwX3hDX2NvZzZHYngxS2ZnbXQzcG93b1dMM2Yzdjc3bUh0VGFBVGlVYk5BdFdxMXJOVDRYelF6QUNheXRTWEstZmJvbVdSbld1MUhJQThkNjIyZTkwcmNsUFppRXM0WjdpYjJqR3BXQ2RzZndGdnRz0gGPAkFVX3lxTE9xTlBJb2dxLUVadkUxcU5YOEZMcWNxb2VfSkc1dHZHbGgteDVQVE5OaDgtSGhmbFBhN1dRMndaN21Pa0hrRzJ2VEJORVNiMktXellWZzEtUFFMZnZieGRqVnlXSVJKRHpuR0gtSzN3Nnh1bzBXMUc2WFZrUElqTGotMFFWdVZxbHIxc1F4SFBLUlIybFVPRlJZSk5EOGExQ1ZzY25oYzk0UFpiR0Y4WFVrajhrZi0tTVc4TkFwWFhvS1VLc3VXX01qbVFwQXpLQ2ItT0dNMUxNYVdyRHRxTjM1c2dudE1QSEpJTHAyTFV6d0s0czhOYzRXdWhvS1pEeTNUVDZNaHdzMDVOcFRsbjA?oc=5"
+      "title": "金磚峰會閉幕 各國呼籲「中東各方保持最大克制」",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQOENFRG52dFNhYU5yOU1ZbDZWUlh4dkljaFg1UjM5SUtYNjh0YnFYUHZDUWFxUlhCaHl2YlF0X0VRVE94R2pZOWxCam9zRWM5SS0wT0ZkeV9sckJ6TDVvSEFFVWppSXV5TUl6T0d6MVQ5eXA3YzZfdHRDd2Jac1BDRDhSdFJqdk5FdF9namxZOGJpYUR3VHB4MjVqbHdoa1AzV09oem9jQ0YxUkhza0RzdEdoWTRYQzlWRmZtdU45eDZzSko3bk9xRFZkenR1LUlfd3VjTFlqcXhRN1E2dTJQM0FPSDZicnZIYUZrNW1fdEEyTlVvcEVuRmJKRmlDeFdZeEt5NUVQR2p1cmRhSVVvWnZYUE5kQ1VFUHhnVU93al83WTdTNGczUERTNmVCWEtTVEZUcU15NzNVbWRncnBiNtIBwAJBVV95cUxQOENFRG52dFNhYU5yOU1ZbDZWUlh4dkljaFg1UjM5SUtYNjh0YnFYUHZDUWFxUlhCaHl2YlF0X0VRVE94R2pZOWxCam9zRWM5SS0wT0ZkeV9sckJ6TDVvSEFFVWppSXV5TUl6T0d6MVQ5eXA3YzZfdHRDd2Jac1BDRDhSdFJqdk5FdF9namxZOGJpYUR3VHB4MjVqbHdoa1AzV09oem9jQ0YxUkhza0RzdEdoWTRYQzlWRmZtdU45eDZzSko3bk9xRFZkenR1LUlfd3VjTFlqcXhRN1E2dTJQM0FPSDZicnZIYUZrNW1fdEEyTlVvcEVuRmJKRmlDeFdZeEt5NUVQR2p1cmRhSVVvWnZYUE5kQ1VFUHhnVU93al83WTdTNGczUERTNmVCWEtTVEZUcU15NzNVbWRncnBiNg?oc=5"
     },
     {
-      "title": "法意等據報促歐盟對塑料等化工品實施進口限制",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOdllHZGlHWGxtSHFXczdGQ05ReHN6SlhEVjE4bjF5UzVLbmw1ZHppYXdIUFc3WlB1aDM1a1lkSlZnSTBITmhJbm5zUFhuNDhZYm0zQ2V5NXlRaVczRjVYOUdfRGRfM2RXWWR3dW5yYWVLU1BtbXprMkxSMFJNeHZUZkpZVmROc3MzZjVVelBLSDh4ckRhMUJ5OWw2REo3bXQxUXNQZlBDZzA2dUMydEV5VlQxajc3d3ZKM1FkQ0htYnFIS2loTWd2N0pJN0tHOXptMlJxQTdYZEViejdmT3FGYUtRV0NUZ2xtOGRxLThKWHpkTEVRMUZyLV9HTmpKbHhvUFdLMm82Mi1aZUQ4aXBxcWZONjJHWGt2T2d2dUpNd0lqNmhTZW92c0ZKbDNBcXJqeUZwaEpDNDdINldsR3RDMjlhcXcwWDk3V3p2Szk5bzBXYWhNdTFpLWRSdFR4Y2pDY0txNThYdEQyQnR6?oc=5"
+      "title": "特朗普再次重申支持愛爾蘭統一，並承諾取消愛爾蘭威士忌的關稅",
+      "source": "rfi.fr",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQRndDWFpLNnlXZm1DcXRLVGF0UVJMcUdWbWVGb1hCRWZjTmVTSFlkQkF1S2hNVDluV1M2LV9nZnFnRnYyUFZlU1VMMlA5aTBXLWRYSG8yZ3Vfd2NRcUxfUlJaQ2RrZGNFVGdBOWtrOWtYVV90YTFfSGtCWWtwRHR0eWRNWFVCZU5QSHdEdVhKOFpjVkdpU0poSTktY2xkNl9tS1dSVl9iV3R3MURaVHV1RUhsSVByMm54UDF3RDM4ZWJ1UFQ0Vk1FNlNySExiU1dqUmR2YlprWE04MEM3cUdmTGN5R2hzeVRtSzhrZUdaWXItSVNLT0xxT2RyaXBncDl0aHd3U0pNNXhLVE1LdG51WXZPZkVWN3paZjBxc1dnMUNmUE1MdjJBX3VGaEFkbGx6WEF3ZTIxUnJ3akVaVGFtN2Utd3lad3liRGNLbVE1Y2hmUkdHWWFvOG1uMUdrMlotSTAzdnpOdTlWeURFbFloT0h4ZWFqVWdORndCd2VsNFQ2UzdrYmtMc3haU1dLMVgxbG9QeGM1NWx2cEJhd1VSaHd3Mld3RTByRE9iU2xLMEVTeFFDWXhBdmdBaw?oc=5"
     },
     {
-      "title": "陳茂波：可在創科及綠色轉型加強與中東等地區合作",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JeVl0OXo2MENkenk4Y1RHS0ZSTjNmeF9kWGd1cEFmUlYyMDJJWDhEa1VGZkFrN0NzM1M4Q3pwYUhESnhVSFl4c041b29HUGNBTEpjTEhpb0gyenNIaGlsbTEwUUE?oc=5"
+      "title": "連番精彩對決拉開「2026年WXV全球系列挑戰賽」序幕",
+      "source": "Hong Kong China Rugby",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNenVRZVRWblRxRjhtdVpPZVVhbnZXUnJPNjc2S3Z0TUpQeWp5dTkyTFNsVFp4bTM0eFBxajcyU29Uc1hsTmZJR1FDdVZqbE1UdkpTRWVXM1B6b3RiMVV0NGFwUU83VWJyV1dlNDN3bzhYVXFzWnN5WHV3U2lEODFYNzhEX3JJN18wUkNaX2tNSXRLNTRXam1janBiQ2pibmszRlM2cndzRE13b2s1ZVdr?oc=5"
     },
     {
-      "title": "習近平出席印度金磚峰會：時隔七年再訪，與莫迪、普京握手背後，中印關係破冰？",
-      "source": "bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xWG9SV2NsV1VPNEUyOHUzRy0taFFzNXQzRURSLUhCanJfRFdPdUVabElKMW9xa0tOTlZJNzJTMnV3Rkt2T0xkaHhBWWI3c3YtT0k4bl84VjBZUzdwaU5haWRwQ3k4QdIBa0FVX3lxTE9IYzVMZEhXU213VlFvT2l2YmtsdzVOUnN3NTAtWTVGTEVRQVpPOHdGS2tTem1hUGFLNTJpd2kwWlJ3VFY5dlZqVnFWalVCM05qX0txa3FkTTdrRGdUaEw2SFV6eGJDM1hJNktV?oc=5"
+      "title": "華爾街日報﹕加拿大研究能否成歐盟「準會員」 (23:00) - 20260913 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPeWZ1VTRIajEzanFFUU5aMFdFd3pKeUFzdE1DS0hQbS1fRlpCY0JzbFo2SEJ5R29uN05md0NtbGR6X0xlUGZWNnh4b0NRTk54aVozZ0ZNY3FUUEVNSHRpRW9VcHF1Z191c01RRER4bGkyalBBc0ZhVTh1LVFYZzhGM0RRUHZUSjh2Qm5pSGxMaTNYQlJpdUVZemlQVWhvbkRDMXBqcDVDM195N1MyaE1vMzZkZHFBT05TR29aem5sV3J1dGFCNlhCX1d4RjhyVEMwT2NWcXFQUTlPY2FXSTFDRTczMUY3bFJpMHo5NU9ONXlyUm1GSFVJaG14cGZuWnVGV2Z4czZvLV9od3RIa1dwQkEtcjZVWGsxbzZOODA5YktZc3dLTjJIaFc1d3JTOXBDNFg2YVdrQy1OTHd3R2pEQk1OdFF2Ylh0a005RDJWTVplOHZwZmhFUUM5MC11UjJDekZKWnpKMEdwSldQNkt1UWFIVHJqT1QzellaXzZUdnQ?oc=5"
     },
     {
-      "title": "法國AI熱潮揭示歐洲融資缺口，初創企業紛紛轉向美國",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPcXR3RnJiYWtKUlhpWmpKcGNQa3o3WEJGdzR6VDhjWmUwUHVxRHlFTzR0bklNWEphS1RsRUZPcVkxbjVRVnN5Rl9OV2ZWWENhWkpXdVdJUTI4X1dfbTZ4YjBvVUc1UDRjYmhreXcxcHF3N2tKclN5R3UtdEVmZEl3LUExVlNYaVNiVV90TXpnSU84RWt1eDZpc1pQZ0FSYk9MTTZPamgzNGsxSWRhRlRLZlBMcFNfcWdrb203ZG9hY2VVX2d6cktISm9aeEk3bUFVaWxsNzhHemthbGJiOUtFMTA1YzRfTmU3NC1tallSd054Vy1xekVMby02Ull1aVNpcmxBQWs4RFFSa3JnT2lwQWlyM0x4cFIybTQzcEZvMUxfZ3pSa2stZV9tRE41ZGQ4UVVtbHZLNTVlYnNKZW5NTnRBdXdYNkZfUmNwWXUxSVplOTlPTG9YN096VFRRSU12YlpBbF84QkFIUQ?oc=5"
-    },
-    {
-      "title": "據報白宮研援引《國防生產法》　提升美國煉油產能",
+      "title": "特朗普再稱伊朗戰事將在美國中期選舉後結束",
       "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iaDdRME5GX21reDZkSlNfUG1qMS10NnR0MTdTSkp1Q0lOcUIwZGtYbkVKUUlyT1VpM0NFWDNyOUZ0aU84RFpKeU11N1pJZjFONV9fcTdRQmdpaW5Lc1HSAWNBVV95cUxQOUloZUIybW1WZWFLem5pMnltVXU1SGlrYnA0MXJuYlhSb1NROGp1bE5Ga21tYjdPUXktemJ2MTc1VVdsVkQzNTlhdWhHbnBBS3VHYktJX3czRGs3QXB3Si12ZjA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fS3ZFZjlGUG9SZjVCN3lXRUM3VEQzYlZqLXZuWm9STjlfb0xlSmdwbW9SMXRpTlZOQUt0MjFMak5vSWdreTZtQ20xSVNuRk9KdnBjZEJ1a3JaT1ZOVXfSAWNBVV95cUxNbm15cDdZbTFrdjF6Y1ZsSmRrZlNLRTZ3cDVXUFN6VklZZkhXUldLdEV0MEpPSmJYdkFtaGNpWldDZXRjMWxDSkNMeHZaS1pHakNVWkxJNVIxS1BPSFBpSDVKZTQ?oc=5"
     },
     {
-      "title": "伊朗總統發文譴責美國 稱“絕不投降”",
-      "source": "Hkcna.Hk",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sZWpicHJBRzg2U2dyVVpDREpKUlVPQXFUbDNuczE3ZFUwcjlWVWtpOHpaOFRnNjBnRGpiTS1wUVRGWHhxQlpDdW1rQ3BfdUN5Z1k3MVluaDFWVWtMQjJRcU1rODh4Zw?oc=5"
+      "title": "王毅談習近平訪印 指是十五五開局之年面向全球南方國家重大外交",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1UHBGR3NoZjFQbGdEQ2MzMjRaamg4bGRWai1va0ZjekFIRTJLREpHMWlpQjNidGNwQnpxOXNpT0hYMEZwcmFtZFhDcmZiOV9KYWQzVnBxUVNBWkt0eE9fbjM0UUVDOHdubkVTZTVVYw?oc=5"
+    },
+    {
+      "title": "加拿大尋求成歐盟「準成員國」",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWnhna3U3U0tIWl81TkRjYVhvYXpDNDNYQ2plcjMzWW9OYUlZSm9Xb1ZLY2JpeGgxQnlEMG9SNWUybVpULU9seFU1c0xqMkRpMVh3TC12eWh0SmZwWEpPeDJGRlU1Qy1CbE9oV1J2WV8tbzRsS0RkcEZXemNCRVhmbElmUFhGMmloXzZVU0FuYzM0SHB4SzhTNDBjWVFKcU9jdUxXZC1wNFdKVFNhaVVSYmFRT050QUxGcElYeks0TldiY2M5THQ0WEtyT1gyYVJLNjY2aktmRnNZUWQxSXB6M0NBMkVEdUt1TnhyWkdQY2JhTTI1eHFMOEVLZm5oZWxxcmo3d2NBMDRodjVfVW1scVBzMFB5QQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "「聯儲局線人」：聯儲局加息幾乎已成定局 不排除繼續加息",
-      "source": "am730",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPV2hRTFBOR1ZxYWdqWnhSY2tHYWxkNEtORW5JZl9KdzZVeXlqeUo0V3ZJZVhRT1JqdV9ieFNYQjVIMUl2QTRvNnRyR19ibjZCSGlSTFFOeEVtOG9YcUxfX1dTVHgxTEw3VUZBU0I1eTVUUGpqeDVMazZteXZlcVJES2RSMTczbThndXdMSVJDbUFZQzFTOFFPa016cWEyMDF4cFJOaE1jMnhVd2lkcHFXU01zdWdnM1Y4MDlwb0Q4MmxyMnpKQ09GYThET0dqQWVrUWlZT01QYk0ySHBXVTdBTnhLYllTNkxLRVVHYUNOSXJveDNXTlRmZWg1ZEI0eUowZDFIYlMydzVyLVFKcjNvcXhuMDdiZDVrWFF5aDg4cG1FV0pjc2R1X0EtZ1k5T0ZjVHhHamhPWVVQNFBXMFVRVmRnaEZJRW5ocVE0Q1ZiTk5pR1UyTnlkcklZN2J6UWZZbl9YRjFHWVJwRkE1Skdsa1VHdVVQNkd4dnc?oc=5"
+      "title": "美股動盪一週：油價逆轉牽動市場心弦",
+      "source": "Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVDQwdUZZT2hwMm83d3dDQk95OERxZFBGc1I2MVNtZlpJeFQ2WktJWUgzbGZWZUR1Um5QYjlRNEdYbjFSVEppbjRuTEFyNl9NMjd5UEpWdmtYWk9naEl4R2hYYUw1NEJoU0FmVU55OFhpOUJBb19SeGl0aEVjODlyN09UR0dEY3U0RE9TV1dLeDEzVmpJRTd1MnBqV1RtNU0zOXhPbWdkWGozZXJHWVJzdm5FWDU2czNDY01qeW9qczRIZXBqVkh2WHREaEtXWkZXeVUyeEswcGUzVm5BdS1TRGZEXzlFTlRWeTdDY2ExOVNkS0ZPM01vTzZaSGhkQUFpZFl3di0tUWFaRWJOTkZwSVlB?oc=5"
     },
     {
-      "title": "黃金週評：金價連跌三週，華爾街卻突然轉多！美聯儲決議或成「買消息」起點？ 作者 FX168 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wS3RoWXVJaERZM3hWNmtHdXNvSHlqWXhkNWFPU0tYbi1NWmd3Y0U0anhHNmVnOVVqR2puLXpJcklTb3M2OGxwV2U0TEFBSEhGbk1MQ3lic3FqMUxUZUNiaUh5TG96MUloYnVGcUFXdw?oc=5"
+      "title": "美債高息搶存款 港銀最快本月加P息",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRzRTVm53TjJDSHd6QWxtU0NLQ0F2LW5hN0d0WnBFb2Z5eXZ3MVNxZXFKMFZfZmlLbmFocUJyVFNSMW9yQy04M0tUY0d2cVJCOVRuX0V6UTlJdXA4cmNPZ2NycGc2TnlFUkpTdnhHM3VPeWtGMWFmd1lwRk1XQmVLV05WN1ExRWVSNFZaTHAtcmF1X0JBVks2czZycFVEV19tYXBVSlRtYS1tVWZiTDlNM0JVM3RUYnQzSGFsbjA2UDFOVjBPNVZrOS1GS2tpcUNTTVZWMFJ0X2pWN3Y4UnJKTVZ0QVRCb1lzRkFDeFFKbS1QbUlITkNrNVdCZ3ZvUFp4ZURscnZzVWVEVEdqaWtjaHd1WERxX2d6MUdRRA?oc=5"
     },
     {
-      "title": "納斯達克100指數將提高SpaceX權重 數十億美元基金料將買入",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHZ3ZtRGtnbkpKeXVYSE42UW1jSlhKS1NtTGtPb0tvNmtvZTJGMk1rZm5XNTdwOUZWTXluMFBvQzZOak44M3ZiZ1dnNTFleWUtOWZBUGU0Vzk4NWQ0MWNYb2M0aUREQlVoTHc?oc=5"
+      "title": "華爾街日報：歐盟或對加拿大成為“准成員國”持開放態度",
+      "source": "rfi.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOSlVDeDlsYUFUZ3QzSTNsamdlcnRqWU8tTWdzZjlQQ3YxZzM3Z08zOGRTVHh4dUtTQi1OMUVndEplSmVaNHkxblhMclJob25IY3lNeGpUZzFlVkI3bGVvWjZ4NF9ZQjg4UnVxXzh1bkJRajRrOWJXbWdmTllPcHhPNlBoak9HM19UQTM2aVRoclo1Ujc3LVFGRkFod1FiMVF6TUZKUy1zYy04NzNKRFllYUJxWmxsS1ZvU1RlTGJuT2lEUkZfOXRJUDBCZnFXVTVZUGMwNmc5aXNlMVRLYlgyVHJvMlp1eUdlNjdDZjByUHpkeEx0STJ2TUFEdDR3Uk1TZnE2RURxczBoaW1velgyMlpOdFRULXVIcXRWRFE1cThKQUpQc1kzRG00V0NJbjdidlY2c3hDdU54NGpxTDcyRFFuZjU4dVE0RXd3RHBKX0s5dlVSN2NYSmJXSHQyWloxbU9RNXhtSmJxRmxfUVBRRkREYkdMUmM?oc=5"
     },
     {
-      "title": "AI 行情進入獲利驗證期！鉅亨買基金：台美科技股這樣買最抗震 | 科技新報",
-      "source": "LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jX0tNdlBEZ0V3dDRRMWFVMTQ0QjhIV1NXTzJMYlRJNU5xWTk5VmdXU2dZcDlDSHhEdDVackZqMXFWcldpTVlMM2pOTUJQM3hocEU1a3BB?oc=5"
+      "title": "全球市場觀測站／科技股Q4有望重返主流",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OWDR5R21pd0FOT3ZvWWkzQ1RBYWdPdkd4VmJZN0s4c0NkRzhkV0t3c0QwdUFlT1I2Xy05amZfUUJPbGRzQTBrOHp1eWowTEFjcVHSAVdBVV95cUxNOU5KRzNzdm12Vk42ZDkzYXpJYmlfLVFYUUpNelVra1h3VU1ZRnZPOEtxMjVJNDR1d0wxczNfaHdMbHZiNXd0WFNsVktnRjY2OG5XTlZRdmM?oc=5"
     },
     {
-      "title": "科技股警鐘？奧特曼、馬斯克罕見示警AI過熱 專家曝衝擊：提高現金水位準沒錯",
-      "source": "Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQSGF1WnZ2OFgydUdON3k1VmdNcVRlbDlvZFZxSmk3SkxBZVlVVWZkTGxkbmpMckdwTU5LWGI2by1KRE1PcU5qSjc2UkhSaHZ2dlJXOERUQ2dvdUdZajV2QlQzbE5BTDMyTlp6RDFCRGFwUkFYbTBYV203dnVnVDNSNmVWZEFsQmJpY01Mc2xTaWJYdkpaek5RLUk3cUU2bjZKaWlkZmcwOG5sMHlXSWFBZDhidTYwRTBGXy1ZeEQ3aXVGQllEQmdsOTJSRENtTzk3SDJuSnc3WTZVN1FSQ0w5U2ZhRlNFNE9mcXQwTkN1NU51V0ZUckk1MFVjREs4ajUzUW5EQ2c0czNwaS1pWFRZbFk3UlN6VFA1b1ppcDdFM3pMM2ZfeFZSOWVOalNmMk1VU0ItOF9TUzNIbktqN2xaOWpJOWVMTXRwNDRVRnEzQWtIbGF2SEU1RnNKTnB2VGVyM3Jnek1KTE1wMlVSUDE1NVRsS1diRU1DTHNBZGdHOEN1SnZ4aF9rdTVxWl9rN05IY0JPdUliYjVKRi1MZHZ2Wkt4ajNRajhIR1U3VjlnWFJZSmVELTlZd3VibjViWk5BSmJlQlJITmlhaGdXQmUw?oc=5"
+      "title": "華爾街日報﹕加拿大研究能否成歐盟「準會員」 (23:00) - 20260913 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPeWZ1VTRIajEzanFFUU5aMFdFd3pKeUFzdE1DS0hQbS1fRlpCY0JzbFo2SEJ5R29uN05md0NtbGR6X0xlUGZWNnh4b0NRTk54aVozZ0ZNY3FUUEVNSHRpRW9VcHF1Z191c01RRER4bGkyalBBc0ZhVTh1LVFYZzhGM0RRUHZUSjh2Qm5pSGxMaTNYQlJpdUVZemlQVWhvbkRDMXBqcDVDM195N1MyaE1vMzZkZHFBT05TR29aem5sV3J1dGFCNlhCX1d4RjhyVEMwT2NWcXFQUTlPY2FXSTFDRTczMUY3bFJpMHo5NU9ONXlyUm1GSFVJaG14cGZuWnVGV2Z4czZvLV9od3RIa1dwQkEtcjZVWGsxbzZOODA5YktZc3dLTjJIaFc1d3JTOXBDNFg2YVdrQy1OTHd3R2pEQk1OdFF2Ylh0a005RDJWTVplOHZwZmhFUUM5MC11UjJDekZKWnpKMEdwSldQNkt1UWFIVHJqT1QzellaXzZUdnQ?oc=5"
     },
     {
-      "title": "投資人對美債殖利率上升容忍度超過5％？《彭博》調查：破6%才會調整投資",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIdUp4VHl3SXRXTDZBMEh0WUxscktwY0FCdTZGM0tBOGliMEZmSElENUlhS3dhczhzT2NONURnZWN6U19oOTk0S2tqYw?oc=5"
+      "title": "特朗普：被問及聯儲局下週的決定時表示，我們的利率應該是全球最低的",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPamRzd0RxYl9XeUx3QlV0OWFEVHJVWW1KZENqa1BQcF9Vdm10OV8yR2kxbGxaLS1pM0xEcWVjVFhyZHBuUExyN2xIZkt0UnM5ZXdoQ2I5RG9CamNMcUJSVWdQcEoxZ2lUN1psWEpaMEM3NUZlVGhBdWxFVkgyaGk0WTllR1ZhX0t3MlhVSGhJX0hLdG55aWJCVEM1QTVKUlltLWRVVFBn?oc=5"
     }
   ],
   "events": {
