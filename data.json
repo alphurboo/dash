@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-15 11:15:19",
+  "updated_at": "2026-09-15 20:15:18",
   "gas": {
     "current_label": "9月15日 (現行油價)",
-    "current_price": "180.9",
+    "current_price": "182.9",
     "predict_label": "9月16日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "182.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "【名家給力場】美國通脹好難降溫",
-      "source": "Now 財經",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WeWZjYVc5c1lWdGt4eE5ZVWkyVjlrVVVtWTVZZUZZWm9vLU8tWWlTRnRuVjdnTGRHRWtQc1lQMW5FX1REMC1LZXFEaU94QTgwcEE0ZWFxbTVFalhjWFVubHpkd0MyUzBkWi1zLVFwcGNWbU9qRnVN?oc=5"
+      "title": "北極大國博弈：歐盟尋求新戰略",
+      "source": "dw.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLVpvNGRBai02V0NlSkEtZ29JaHlCQU9EYzE3T0FHaDNFNWVzMmxhNVRWUU9UelVPVDdFaDZhaGJWRTBNU2ZBSllqRjR6QlVVcDljS2pacEgwYXlwUktZM0k1eGRyWDBxYUhDU1BqMEk3aDV3WHdxSm5GaXdLek1DU3EzQzk1MHg2WEthTXNpd21HVmF2aHQ1ckR6eVlpenZxT0pQU3ZFRFZBVXgyLUluRjdaOXBtc1UyX0s4TURPZlhwNkU5dGRpOEIzdXVXRGVQaU12YXNpSWtKVmRXdHpZR3NtWlh4cEExODFr0gHrAUFVX3lxTE04VXF0YkJQTE5GV1FESFNGcDFfVTZPV2ZwNDB0ODVRcHBGdnozRnQyWjdVT2JqTlJLRXdxZTFpbkZ3Yjd1ZmR2Z0F0M1pHa2dPSE9tWWJ4VUJtODBzSnlpbGQ0X25iMEZfcG9fZE9hTGdFNHRrVkhEdHRBQkZYcDh6S0JPUE1sTU8wMGZsM1RxUV9ETGpqY25hZ0pfYXFzQzNDcVUtTHhyVVd6UEpvclRmU2U0TVB0SEtnOXByeDh4WWJKQ2d1QkxZX0F4T1B4LTB2VHpnb3ExanBTaTJVaUhUbzJlelMzRkdXV2s?oc=5"
     },
     {
-      "title": "面向金融強國建設人大國際金融學院正式開學迎來首屆碩博新生- 各地動態",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VajN4b09yMzVJa05lRGZ6NmxyWERtUklnbEY3UVFLV3h3UU5FdXozYTNqN1FMdzZyZDNCWXRwOWlLQW1vOEh6ZWpmSERCOGVVTkFTbGpxV3NQMmMzV2RXYk5INE9Vb2RSODRxekdUdjQ?oc=5"
+      "title": "俄羅斯指願意透過雙邊或三邊形式展開俄烏停火談判",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XVGZmbjRvdV9idGYyWjRGYTFQdVFfeVNoRVR5S1h1WG13NGVja2lfR0lENlB3bVpoUXhoelQ2LVBfOXl1SWo5TE9IVnI1UE01R3JocFlyVGg5alN6NTZLTXUxd1o0TzR1dV9SelVYYw?oc=5"
     },
     {
-      "title": "美國防部報告披露美軍先進武器庫存出現短缺",
-      "source": "Hkcna.Hk",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53ZW5iMnV1cjJRSFpLMTVBUjJIMHY0Q3FuQm1pUzhTYUVTRnVFQ190M0UzRFhqdnVUTXNVWHlSUldud2NSeFZOUVkwUlg2NnZCWS1rRElIcjJrWlRIYmt4SVZSU2wydw?oc=5"
+      "title": "油價上升 產油的美國一樣吃不消",
+      "source": "AM730",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdVVGdHM5Yk9UY2ZQNzd5THVnbC1DYUpjUmx0bGNFaUEyOWZJcDRZTkZtbnNFaHlOSHlMdG92RGxLNUtGT0Q5NkZMZ2NBS1hoYWYyT28wM19GdG9sZFYwdmV4YVBJYXpuNXhjbjVoRUg3a1I0akNWZFhnWXVFR2w5N0loZGZCdW4wUks1dmZncnZ1Rkd0UW5Ob2p1NW53Y3FGV1cyQWxDWUhOVTFrR3BWdE1iU0dFalY3b1hwTmlFX2NGN2J4dGRTaWd4NUlkVk51U29JbFBZbV90cTl0UDBMbDRyQzJ3THZRQUowLWJ5OU1hd29pdmx4d0hEU1JMcWc2OWlCWkZHaXJJeDkyLVlYVHItazk?oc=5"
     },
     {
-      "title": "美國防部報告：伊朗戰事首4個月成本已逾330億美元",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zWFVPdEtKek01UVU1bkpVNmpPMU15TkM0TVA1V2JJazNCd0lTd2ZDbWNzbVZndG16SGVHNURrWnI4bkIzU3lkODk0cE9vd3o4bUQxNmN4anA5dmRsQ3fSAWNBVV95cUxOeTBmelVhMTdPMG91Y0V6TGphRmRzaEFXUVFfZWo0Y21oQ0pZRnp4TFhZNlhmb1V1bVoyOHl3djJEaHRPQTNqc21Cb1dSZnVkZEpNMkdRTHBUc081cWtORkhpVUk?oc=5"
+      "title": "華盛頓稱在太空部署了武器 中國敦促美國“停止太空備戰”",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOZXhFTjhObDZKZDNXWXFIeG1QWEpQTU1nWUJwZGpoMWF3Qm1OWDNVTDlidDNWWjdUWTRtWjh4V09Obk9abGJDcllDMDVqWmgxcEJKSE1aSWFDRlVPa3RDNEJYSTNMdHM3ZjB6T1ZIYkwwNDNfNkpVdUxjNGl2TUd0MUJ1X1lsREIwdmpWZk80TGRFckpTaTIxd0NZRjQ4X0VzeWpfU05udVdOTkRfSjF1X2lHVUNsU193UTB0Qm9tQ25lTnFPQU1ic0FKZmtGSzhvRkFKM2lVUEtacUhKUUgwMERBTW94OXcybjMwY3BoQk5LNWZKTzVmM1dKNEVRRnM0YjNlSUE3SE95NFJLNGFJODBpbUUyeXF0U3hxdUN5LUNFOFUxcklITTBTLWZZWFpXeEtxZWpYWTdNdFBmbFlQemVrWjMzSjExQ1FwUERrNUQtZzVzLWpIb2gzZTY2ZzR2ZS00V2JaNGNNeWdrbXY1dE9tdllkR052WDByMEhfYmFHQQ?oc=5"
     },
     {
-      "title": "不滿世界沒幫忙！川普點名1類國家 伊朗戰爭後補償美國",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fY0c2ZGhQUWZWRERzSzVLNnBldFNXcTNpd1dnaGtBNFZpRE5KSHlGeHpJLThhQmFhTjdmUlBrWkNCblhjajhVY1g5VHBZWDlxX3k00gFYQVVfeXFMTVlrNldnWjd3N0UwVFBCV0g4VUI4VWZIc3ZPamRPNVFQOFlVczZxQkllMFdnUndoU1h6MThJUURfMmFYQjI5MWVZUFk0SzRMWkZPLUdBQXBBaA?oc=5"
+      "title": "韓正出席香山論壇晚宴 強調世界多極化經濟全球化大勢不可逆轉",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82Qklab1ExVEdvQUtJV1A4dDNQa1puSUtCeXRhbE15V2xCRGdBLTFnckN0Z3oxaE00dFdXU3pwRW0tYUxicnotVzlJQ0V1dk90TmVjQmNCdm9nRUwyNFduMXZoZTUzZTVJYWNnWWw1bw?oc=5"
     },
     {
-      "title": "美國首度證實於太空部署武器 中方重申堅持和平利用太空反對武器化",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOdDZrRkx1elNhbmVzOVNua3h1a1hxUl9ITzljckJvOTFXcDI5U0NmdGlkMjdwckZjNk1tUDlzQWsxQldvZHBrNkNqbVJXR3pROGZGOUdLdGFocEdrZ3ZRQ2E3TlZ3VlU5YW11SllDdDZwSUpfdUY2NGx4TTVIZTNScUlDZzl0eVZpNUVIYm5hNEh4WW50eW4xcURncnFCclROdDM2QXdMTlhxN0l0REItaVZUYWpuSjUtdFlRTnRXZU0tRFEtSWc3R0hMNmw1MHo3YU1UZ2JpbmJEcmYydnNpMWY5SENQV1YzUGFQd3VYWWhVRm1EREpETFBvYkZCb1lYc0EybzFBaUFIWElTTi1lMzU4aXp2cmlRazRzMU5BS2s2WjhwM1JrRUNvUlFRRlY3U1FKTTZsWTJQRUt1ZVRoMjRKYnlsT3h4TXh5RjlJY1U5eDh5bDdTZFJlTUJaR09UM2I4NjBfUE5IXzlva0NPeGtlb2JPV3Z6cjNDYTd2UW45Y3d0VEJxZlZ5WWhJcF9GeUxQYUhSVGJfd19rM01YSlhoT09NN1dQWEpOdGFlMA?oc=5"
+      "title": "法國報紙摘要 - 《費加羅報》：推動人民幣國際化雄心與資本管控政策相互矛盾",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPWThrWUUyLU9NRzlMdktXTnd1VWUtLUxmZC13UlpFeWU1Ykw0cUdDQVZsVnJKNFVJaFYwTmtnZ0pmVlRlMDZYcDh1czhYZ2hCODZJaDBQYW1GRy1zcUl1RnFjSXl2OFN5VWRXRmdDOEJSZTlsVFZyZXBvNGVOdkdSOGNJLUlOYlV2ajczck9DbHlfcnNLVlpzUTJmZDg1V3oyNG9ld0JyajgyVmpkSWY1cjJyWmZxZ3JtS21hY3JoTHpQVDZmSEJWZjJlUVBGNUxidjVTRG1yRDJVU0xCS0t2Z20wUU9JSUdWcGYtY245dnl4ZVV1a0w3WWlDaXJTTndlaVdSMkJYeEJIbDJaUDFFbTVWRUpXczRkUFVoWEZleXpueXZIZW85WHpHWEh1eXE4TjllaHl3N0U5WHpYSXhNLWpDQWVUNC1zR1N1TkRHb2JWcFdwMFc1LU4zRzJLSUlHVEpaU3RSM1ZwMmxvY19FblFpYldFaVJBbmkweXFSbVd3S3doOXAwLS1aWUtPSms0TzdCTVVBaDRvTTlpTnNjRnpXa2Eya1BPNUJWdThaZ21kN0ZNVjRpUk5TYldtbG5UcUZoMzQ2bXg0RE9Cc2ZNOXNEMVhILXkzZnBEUmNNU0JZR09KeDIxd3p3RmQ1QQ?oc=5"
     },
     {
-      "title": "美國取消燃煤和燃氣發電廠排放限制",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UaE9FUzNNQXBoS3NoNGhmMWc5a0lYd3otTVl0d0gzeW8xSmszRjVXODBhdmtHV0otTGMyMGJOdUVfdVVGRTBUUE1ab0J6dWU5dDNKMXNOLTY5Z2xmaWhzMzJST3MyZVnSAWxBVV95cUxPbndkNERUSjBHWl9HTUxVNGFveUhlcFhtd3hIUFdyVENMMV9qS3d1ZFIydDJoc0hiZ0hTVDNIU3dDQkV6X1BiYWlPRlNxQmFHbEp4dndTNkM2Qndxb19JZnBaSDloNzVHU1V4MzI?oc=5"
+      "title": "美國證實已在太空部署武器",
+      "source": "dw.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeHJNWXQtZFppVlZiZm9rRHdwRlhlRVdnX1o1RFlaSHFFRXJHcmJKOXJUczBLaGVqMkYzMWJBbm1jTUY5WExDaFJFQ3pPRkNyYTdvVm9HeHpiX1dxaWJyYkRyaG9fa1ViS25Hek5HUzlYT3lUS2RtR0FSaDlIV1NmY2hZSWVFUm1OUXZ2S00yd1A5Mi02YkNuXzhQcURrYkpQTmdqemJJMl9ydzJXNVAxVjA1MzRtWG9aSVAtNDBkUEVzLTZ4ZXA0UE1zeGhaaWFFVFl2YzhadGNLRkNFam9n0gHfAUFVX3lxTFB4ck1ZdC1kWmlWVmJmb2tEd3BGWGVFV2dfWjVEWVpIcUVFckdyYko5clRzMEtoZWoyRjMxYkFubWNNRjlYTENoUkVDek9GQ3JhN29Wb0d4emJfV3FpYnJiRHJob19rVWJLbkd6TkdTOVhPeVRLZG1HQVJoOUhXU2ZjaFlJZUVSbU5RdnZLTTJ3UDkyLTZiQ25fOFBxRGtiSlBOZ2p6YkkyX3J3Mlc1UDFWMDUzNG1Yb1pJUC00MGRQRXMtNnhlcDRQTXN4aFppYUVUWXZjOFp0Y0tGQ0Vqb2c?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "【美債危機】美10年期債息升越5厘 創2007年以來新高 增聯儲局加息壓力",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPcVE5NUt6eGppSmRPMW1hRUh1OWFMTi1WSXpMSkpaa2lOdFF6Qmx2OW43R3NCRDFwUncySWFEazdFMlpfaVhxSWg3MXZLX0EyZU83LWF1TFNwTkk4LVBqOXpvS205WUlPckRYX19BQ2RKNFZ0MDFlVFZGWVlpdVRNcEZvNkxEaUFHUk80emdsaENKZzMxM095alRrLWNDMUJaUEtOMVhpZlNLWm8yWmJKNmF0VS1fel9LbUhJbWdXTDM0Z3pTbWROR1Jrb0o4b2E3bHltWHpkazF3d3phdlFOMmtVUTZvNWZRTUdmRGtvUm9ES1NmSE5XV3lRbGZDWnJrclN2VnF0MzkyeTZidkttaUtSUzhycngtODZvRVNCcC1ZV29LZ2Jlc2JYMENGVWY5OHJqT0NGSEdLSzVBU0JEVmdlU1Vfc25Iam5FcGRaY2tYbWFFb1Q4SERXU2VzUlVHbmRoUmx5cUVuV25IT1NpdHR5dG1Ia2EzVlFpTVh4OUsxUFNhWW9DbW95aXJCeWNmaUd4bzdvdHYtMHd4LXcweTNPVUtoakNPajZKQ0dZZ1M0UTNjbnFOMU5MV1lTaVZMYUE?oc=5"
+      "title": "納斯達克(NASDAQ)股票股價, 市值, 即時行情, 走勢圖, 財報",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNMGZGRmFLNGxJTlhjU0RUZXhqSW8xOEtHQkRyNUducE5pNnBTelVvazBISnFQU2h0ODhqSjdkZmJjSTBDcUtyQ0d6LTFhZzZHTGJOeGdpTGxKdHBNS2tuTTJVZlloc25yaWZ5RThwYzY1UmRJdlhESk1lTzBGX3h6Q1BiRFloZjdDTEtJc3RDNHgxRS15ZW85Um9OVGkyMVRVMDBPdXdwdlVFV2VrWWRmdmc1MDFVd3RoZHloTkhmMWRtUkxWZkxvRm5mdmZBOUhnRlhybUZXbGZwc2lUNDRpSG9GQWJCVm9Ba0VBTjdoNWJYS1RTUWltRG4xazNXVS1lUkdzVG03NmRaa1BuUnpWeUlMTFk4czZVNjlxbHhGRUQ2UjZqTHJaVmd1M0c2TEZaU09MNldwRUtNV1hW?oc=5"
     },
     {
-      "title": "聯儲局加息在即，AI策略中型股選股累計回報高達580%",
+      "title": "美股初段偏軟",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83YzJxN2doWmhuRnF3Q1N2VEN5RDl5WGw1ejgyT0xjZ1VGclU0dndSM1p6NlVrWkVNWjFtRUxfRVJFNGxIYURhd1pjYWMwVTMxMllRQnZiNXJVU3ctNXRyMExvSTlZYldmZ2hnMmtqTQ?oc=5"
+    },
+    {
+      "title": "美股早盤／油價回落 費半獨強 晶片股回神",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFcHFnNE52RXpVVFVCeEczTnRLY3dTcHRmaGtrZkNVUnMyOWpLZUNOeUR3b3oyRUhiMXJubjB5N2FCNEJyaFlnYWYyR0YySGtFczhNNWRLSmg1R0hP0gFiQVVfeXFMUDUxZDlXLXJnYWxPV3NVejJlQTROR3h3ZkxNVkdTVWpxeklSazdoZ0ZPckZHX3hNY1J0TjAzTVJXNk1CZHpteXY2LUZFUUJrdzBRTG90aHVOM1Fqa2dRZnBPUnc?oc=5"
+    },
+    {
+      "title": "[深度] 美債殖利率飆升再添難題 貝森特靠成長擺脫債務困境談何容易",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQdm42YXpHVWJxQVhfcjVtTkp5ME5zQlVIMWJLdGNUV01VaWhfakp4d2RKcWZUUDk5eFo5UnpoVGZjb0F1Y3gtZlAycDBBMWd0Zk93Q1hrZDA3OHNfNWFnWmZjV0Z3d3MzcWpMcEUyTk53SGttZWt3OWVza3FlN01tSWpRSU5hUW05Z2xGTUZWalJJeU1TT3NGX19Dd19ubmJ4Q19KZ0o3S2c0cmQwcFg3Y1VZSVl3MnhEVUc3NDg3akFXSzItMEgwcTJaZ0FXR3VmTVhEX0NZM1dLY3gyS2xBblB4bUxrMi1jRV9HTXk0QUVFZVl6SEw5X1RFNDRlOGVLLW9pbkJSOTVZN0o1QldCV25HLVhoY1JHMGhFYWJBRlVkamdWclNXSFo3ajJIYWRlNVhBNHctVVRUYmRUZGVDMzk0TUZJUGN2OFdFdWFfUE1GM3lFdWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNaEpxR3luNVFHbHRWNW9MaWRVTzF0MUIwaElCZllETU03UmVsSUZGOEZuX2ttT3VQWV8wVWNnOUlsUVNjbzJyQmpBR3hKTFlrcWV6LWxFR0pYNkYyYnhZTzA0bmpUMjBmOUpnR1dlMUxPd0xWaHJ0aWhkbXhfOHNEbS1ndkwxcV8yMWlwZmU2SURRMFZCaHNFZGFGamp4eUJfMmtyREVIQV93cDVyUUk1TVRQU2lpdWJmNFNJU2ZxalQ4MUExRnA3eXdUVlFhazNSVzhkNjBBdXhTOFRFa0VtTC1wV29DMkl2UjZKRUxMWHVpMVJGaWxYSUw4Zi1JMV9FM2VNQmJHU05yYmFKV0lYX3djS1lseldmbm5oYTFNQXI1RkwyNnZJaVVYaW5XckJpQ0l0R0pxSXk4c0tRY21feHdZVV9TUFBWLTF2dnJXOVppUDRxVVZaejUwUF9UaFRYVVN1T1dSUER4OXpWSmhIcnd6VmZ1YVVWQVlwMGFUUWVaVVN3TVlHME1TSkRPWGtYNkVVcmVPTzFxcVF4SDdUR2w2YVlKYXR0ZVNMUmpCVzFna3FqdFZacUFCN0Y?oc=5"
     },
     {
-      "title": "10年期美債息創2007年以來最高 5厘債息料成新常態 風險資產勢受壓",
-      "source": "stheadline.com",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOa3JxMDdqdlBtbFZ1QndreTZBblJ5Wll6aFlpUDdrNHpJNC1kYXlCazQ1UExoUmJxQmRuNkEzQmk2S3p5V01Cd3pIWW9UOVpNLVRPRGplenFVUmhTX1BEQXBIWmJ5RWVobjFYd2NIaFFJYzFXdTBNQU9ETFk4eURfRGhWWGYtaXZMS21OQmEzSnBKZkM4amtmbHF4UGgxVlRndEItZEp0Q0RMMmhWLXpPWXQ2dzFuRnJSSXUwQmdJbUxJRUhQZkRUVnFNSlhlUGJ0UWRydGFXRllNeU1MOEt4Y1I2TXY4cDRuWUtiWEFHdEVaT2JKalFSVndTU3BmU3VNVHk4LWdlLVl5YjFESXZxNFNYNElha3VtOWNQWndacGppYWZsNHpvT0ROZXlXdzhxRjZuWDNQdmpfUktGM1F2MlpMZk5SRWFYVEhUa05na19TdmFZem5hODhUU1RxWXNPdVNDMnU4LUtpMmdBYnVvcFU5dEpCeFJveU9XWnc5M3l1cXlLREJfbGhnelkyTU1CdUwwcXg0Vjd1SlJaUS15azhGSQ?oc=5"
+      "title": "聯儲局重啟加息呼聲高",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVVVoR3RpcjVGV2JGRHI0RV9QTkhnMXgwQTExTVhFTktlSEMzd05nY09feVBySmlyMnlvTU1oLXA4VDlwNU9zdkxzbFB0dXpYNGhtOFZxX3NEcEVzMGtGU1pvazhjd01wSnJBZnBVd3FpNVNqUnNPT2lXZ2ZkdUVmYW1sRDlHQVNRLWNwWWFSR05TWmxaNDA0QWpjZHRmWURmbmhXa3BoZDduZWZFaEtCZzVLamtiM1BJUWtnQVJ4XzhlMlVLTXhOekM4cGpmSzQ1UGVLZkVn?oc=5"
     },
     {
-      "title": "標普500走勢：30年期美債殖利率突破5.40%，美股風險漸行漸近！",
-      "source": "Mitrade",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FU1NJX014Rng1M0VDbEVvS1hqQjFfSnhRY29YNUMzcDVDTEhyMVpGSDN6dTdRRkcwMFJocGFPYmxLcm85Z3o5bWdiMWR6VXdGZlRic1R2ZUI4SG0xaDdlbmM3T0lqdTg3Y001RlRRbUxWdTdhSjRR?oc=5"
-    },
-    {
-      "title": "【期匯決算】Fed議息後美元或回落",
-      "source": "Now 財經",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OdHhMVjgwd0NUTHRLV3MzWXJxajV0WDRuc0NiTzRneG9KTFNYYm55UUxqRTZWYTZ5RTBXUjl4MHZLTlFFbGhYbThvZmxGU3lxMG4ySTV6Ympva2RiV0F0WjJYUmg5cUtxeHZGWXJOazM3UE5hM0d3?oc=5"
-    },
-    {
-      "title": "擔心美債爆煲才是好事- 湯文亮- 宅谷地產資訊網",
-      "source": "Property.hk",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qX2VGRU9VV1ZyQWF6bnNWVVRiSGdLMS1CWkhSRmg2eERxb1JGREZON2QzTl94Y1VpS19nT2Z5QldmS2s2clpjREc0R0JQSVZ1blpBOWFFN0M2al9MY21SaHpLdDRnbWQtTWJSamMySTk1Z3Y2YUlGUw?oc=5"
+      "title": "全球市場突然「變天」！加息概率飆至92%，美債破5%、道指跌超450點、黃金逼近4260、原油漲破109、比特幣跌破7.6萬 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zYVRSdWxvdTcwSmhRY0JxM3RVcG14dDFaNm5rdWZHeTlZb25aTWlFMmJJal9ZUy1ZNk5HYWhQb1BETGx3emhsZDQtNnJoaWdMcG5kVEVEeXoyek03eWJSVHJfLWs5clU?oc=5"
     }
   ],
   "events": {
