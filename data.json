@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17 20:15:19",
+  "updated_at": "2026-09-17 22:08:33",
   "gas": {
     "current_label": "9月17日 (現行油價)",
     "current_price": "180.9",
@@ -10,24 +10,14 @@
   },
   "news_world": [
     {
-      "title": "要聞解說 - 歐加靠攏引特朗普嘲諷威脅 歐盟安撫強調“不針對第三方”",
+      "title": "特警告加國當歐盟準成員「具敵意」 - 20260918 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOa1kwa0xFMmQtaUlIaUk3UnBrTEQ3dnQ0cXVxdFNEbXlFRG5ncktEUmZ2STdyLVJNUnY1UDBZZXEtbXVSU3Jpa3lNQ0Y5R0FTZm5zMTFhWGxtMksxeDU0UDFVNjRmWEZNWWNGVm9WQnJwQ1AyZDhjOUJjSDdzMElDeVZTR3MwZjhOYXg4Uldia2t4dHNVREZzOGRPUXpUMFpzTjhfaG94dGpFMWhjbHppcUNOWGlnb1h6aHh4NDJRcE94N2JnZzF3ZTVnUnFKelJxSDBFTVc5WHQycXk0NkU4a2dPc3N2WXN1a3FBeTVvcU1xT19PYy1adW1FRVJOUFduZGdEOW93LXBSNS02Q2pHOUJES1pVNUQ1dWxKRkdtdGFTRkRjRUxkTnNPellkcEVsUXhrZHBKM3hoVkk1MHVJam1DVm9JNWJRU2Z2bWZ6RQ?oc=5"
+    },
+    {
+      "title": "美國批准伊朗高層代表團簽證 可赴紐約出席聯大",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQOGJEUHZsQmxRSjN2dUVLNlUxV3ZYanFRdjE5eVZhN3FGdEZkVUNVTklCc2NDNVBTZ1pfTm41MjRPUXdGbTVJaE5wTDRTUW9OaHhUVkpfc2xpMGpMYUtzSDZ4U0ZsQVdKZHZHVk9rNWt0R0hLdWpwdm1Vcms0b1Z0RjF3bkZnb0RmRzBwUXVHcEwxalJPck1FTkNrN1RJdVNDbVNRQnV6eTZ4OHlYY21IRlBNQXFqOGQwbGdCVjdkekoybVNIS2xMM3AtN3gwZkxHdDZhRnZjejRGenlwai1uM0wxaW5BMnJWd2dNOUs4Rko0RFd5c1VzYmwxaVlKU0toaHlJd0p6eTFoX2N0cFZSX2w2NFpMcTRXOUZpc005UzBkaGYyQWZNZEE2RWZXWDhDVXRkRjk5eWptaTNuQ1Z0RktMd0JqeXExaTJkRGhsbVJRTk5XaEdjSWZIRV8xTllza25mQVZ0eTduenh4TnM0V0NseDdHLUs0ckRSNThPNUxPWUxnd2dZNFhBbDNZVVJWWG9qUzNMLUNHY3BYY1Q4UXJNaHZFQ3l4Qmk3c19zWXFTZlNNSGNBYTVsN1FtdzhtamhpUmltcU1VSFU?oc=5"
-    },
-    {
-      "title": "德語媒體：歐盟必須出台強硬的對華政策",
-      "source": "dw.com",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdGVJY1FNSzJxTHFwSVprcWktVTF2T3NjS1dxQnpyZGozNG9NVmQ4cEFIUkxjR2hBRUNITHhKNEFob01MN3M0aE9iX1JWaVlLOU1taVdsYkpLRHBvclBwc2JGS045V2xCb1BadmpHeC1KZ0EzNHZ5Y0xPZG9QS2t6YzI1TDlpNFJOLTFOQnUwRVlkTVZ4Y24zS0tiZEJGT3ZkV1RZVFF6ajFMTnVwSGtJY2RrT0Z2VThfMGQ2NHlzSzhNZFpnQm9UcW9UM2dBVjh6YkpSOW5iVHkxdVlnQ194ajRWaVBDX1Q1RWtIRllHbW02S3BCUzl4bDJjalJZSEtwOFVBUEI5ejNlSGxOdDJOM2VFY2dhb202aUtz0gGbAkFVX3lxTE90ZUljUU1LMnFMcXBJWmtxaS1VMXZPc2NLV3FCenJkajM0b01WZDhwQUhSTGNHaEFFQ0hMeEo0QWhvTUw3czRoT2JfUlZpWUs5TW1pV2xiSktEcG9yUHBzYkZLTjlXbEJvUFp2akd4LUpnQTM0dnljTE9kb1BLa3pjMjVMOWk0Uk4tMU5CdTBFWWRNVnhjbjNLS2JkQkZPdmRXVFlUUXpqMUxOdXBIa0ljZGtPRnZVOF8wZDY0eXNLOE1kWmdCb1Rxb1QzZ0FWOHpiSlI5bmJUeTF1WWdDX3hqNFZpUENfVDVFa0hGWUdtbTZLcEJTOXhsMmNqUllIS3A4VUFQQjl6M2VIbE50Mk4zZUVjZ2FvbTZpS3M?oc=5"
-    },
-    {
-      "title": "【百家觀點】美國年內恐再加息資產價格波動增- 財經",
-      "source": "wenweipo.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VcmpLR2ZPUUJ4S2tGSmpHVE5Vc2pwRzY1bTVXTVVIYjNYMVF5eGRnZWF1cWpoUEN0cURoY2ZMMUhqSzlRMkN6UmE3OXlpVVpsRVBwTW9tZ3kyVzBJU0RpRGlyVVZ4MkluenZseGpiN2NVRTJUOVVB?oc=5"
-    },
-    {
-      "title": "美國8月二手樓臨時買賣合約指數意外上升 新屋動工跌2.6%",
-      "source": "news.rthk.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGcDdpR1JCNzZ2V1doSDBaZ0xBbERpdUFQSG5BUDNPcEs2cjUydXllTGdmNk1melRXSjFEcnJVNy1YNjdjMlp6eEgtZ05ySmJiX2RXaWQyOGFLUHYwQmNVSXZ5bzdoV0xLcWZTZFEzSQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPUE1UVkswUnc5RGRfd0VNZDVuRnVnQ3Znb2hRQlljUWctWnZNOTdPRzNGN0hfRTU4VGg0cnp0VW9JZUljNXJDOHE1THF2ZHA4STRCS2NQLW0teVlhSG8xQUsybHhsN1lEVF9sM3FaWTNWRDJ6SWZaRnVqNE8wMVAtcHdvbWZYeDhZMmpmU0JfdnBENEFFakdGdngxLVI3RkY1QUtrMEVaZUlaMS1PWkFvRE92QUdPOUplbGdjUWpERi1DN2lmeGJnYVMxdnJRcXdFQzlVbjBjUm5GLWpMLUs5WjM1REx3WFBZM2FMTVhyUEh5MnFCb005aUJYdWYxRTZUY014S2Z6WmtUZTBKLXoyZG5uNmNSNVNTZUFLeFJESUx5bTFMNzRscnUySFIzVTlsVjg1VFRrbWZwdnNKT1pycmhtT1NHVTN4dHZLSWZPQWlETTVrYWxuOUZZYWM?oc=5"
     },
     {
       "title": "美國三年來首次加息 對全球和中國意味著什麼？",
@@ -35,46 +25,56 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkZWN6SFRPZFgwN09FOFJVSURkLTkwaHdRTkVYSEZfQ2lFZ1ZsQ3VCWFhESXJicS13MVRqTFNKSzlQTlVkdmsxd2plajYyNUp4QmVlTVVvd2ZvbW5hbkxhQklkOTJjQTTSAWxBVV95cUxOOTk2b2RfZXdTajFxaGM5dVljY2RxeTNpR2dlcDhTQ2RpNWNuZVp4ME1VSGhJUllJbnZFcERMRV9YdjgzemlMSzRYVXRPd18zLVFlak5QUXJJYmFnWXNwSGJVcVFiR0xlcXI4djI?oc=5"
     },
     {
+      "title": "歐盟傳促中國限制混動車出口",
+      "source": "hkej.com",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWVpEaGpPZUFISGdfcDhPcElRQ3h4ZnZoMzdrUEQwLURLNHhoTUoxQm1XNHBHbmZXSVZFWFFYUTFLM1BJLWRxbUF5WC1NcTVBdDF1ZjNQTHNneFk5MkRnMmpibXFtckZBR3JuMTh5ZDRkTXpaQzBYQmI0Z2dPeDZ2aVBTNnhrZ215ZkJPVDdJeV8tNHBDZHdTbEpWazhZZkxhNExob3VlNzJQeDJtcGhCeC0weVVDR096b2VDRFhldG5ScEU2TzgyY3I5U1BmaERYUlNZUzhZd2lJNVFtRVlsazFvanVSYzl0N0oxLUdLOUFqMTNzN1B0UTN4MlhyS1FKbkE?oc=5"
+    },
+    {
+      "title": "德語媒體：歐盟必須出台強硬的對華政策",
+      "source": "dw.com",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdGVJY1FNSzJxTHFwSVprcWktVTF2T3NjS1dxQnpyZGozNG9NVmQ4cEFIUkxjR2hBRUNITHhKNEFob01MN3M0aE9iX1JWaVlLOU1taVdsYkpLRHBvclBwc2JGS045V2xCb1BadmpHeC1KZ0EzNHZ5Y0xPZG9QS2t6YzI1TDlpNFJOLTFOQnUwRVlkTVZ4Y24zS0tiZEJGT3ZkV1RZVFF6ajFMTnVwSGtJY2RrT0Z2VThfMGQ2NHlzSzhNZFpnQm9UcW9UM2dBVjh6YkpSOW5iVHkxdVlnQ194ajRWaVBDX1Q1RWtIRllHbW02S3BCUzl4bDJjalJZSEtwOFVBUEI5ejNlSGxOdDJOM2VFY2dhb202aUtz0gGbAkFVX3lxTE90ZUljUU1LMnFMcXBJWmtxaS1VMXZPc2NLV3FCenJkajM0b01WZDhwQUhSTGNHaEFFQ0hMeEo0QWhvTUw3czRoT2JfUlZpWUs5TW1pV2xiSktEcG9yUHBzYkZLTjlXbEJvUFp2akd4LUpnQTM0dnljTE9kb1BLa3pjMjVMOWk0Uk4tMU5CdTBFWWRNVnhjbjNLS2JkQkZPdmRXVFlUUXpqMUxOdXBIa0ljZGtPRnZVOF8wZDY0eXNLOE1kWmdCb1Rxb1QzZ0FWOHpiSlI5bmJUeTF1WWdDX3hqNFZpUENfVDVFa0hGWUdtbTZLcEJTOXhsMmNqUllIS3A4VUFQQjl6M2VIbE50Mk4zZUVjZ2FvbTZpS3M?oc=5"
+    },
+    {
+      "title": "歐盟「聯席成員」Q&A",
+      "source": "epaper.tkww.hk",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wY192WUJVUlE5dVFWbURZa2FDYU40dXVweFhQZVBzQTI5LWN2NEZRYkJ3Yi00cm9HcUR3RzYzcUQ3RmxnR0RoNk5FelV1ejI3aTBSQXg0Tmh6VWlhWENSUTdNZ2owcm03N2ZZWFZ6Q3VUcWZI?oc=5"
+    },
+    {
       "title": "美國二手房簽約量意外小幅上升 高利率仍抑制需求",
       "source": "Yahoo 財經",
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPaXFyajJBS2hod3VkVTVmS2p4T2JQbHl3Qloyak1Idjd3al9ERlVDMzdxdXZ3dnBmWWxoSjhoMGN0RHJpcE8zbGRvaEJaWlJGb2RHSXdHdHRsMkp6MElWR3R0eDBueURQZ05sVkN5alY4cHpMUHExTXpnaThENWVTbVhMdXVub1Y4YzM1LVQ1aDd1UGNYdFZiOG9faUNfdUZWMTMwVnlUcXVGUUUxVGU4UUoxWDJ1bDJNZnUta1NjekFuY1BmOVdqRkIxR1lta05qZ2FEUTM2MmhmbEpsZDN4cjFHTTYwYWpCd290UUVGVjdmUkdlWmVCbWM5VDBlT1RzejdxLWVxYTdjSzNTSTNYamRNRWVEQkRRcVdLZVd0bTVVUGZxbjhhclhnQzlnZzZ2bXZiUWJ5N0hzNE9xV21ja0ZaMkw2YUZkVVdRLWV0d1JsMm10TGdoRzZ5OGNKWDd3QUtDc1BCaw?oc=5"
-    },
-    {
-      "title": "戰時通脹不易除 美國幣策陷兩難",
-      "source": "hkej.com",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYnN1YW9NTmJ2REkwRVozQkNEeDZ6bVluWWVzMXAwMDdJM09lX1NZVzdJdjBIRUN6alVodzcwVktrRlhRQjMzQmVNUUhUQXYyQmVyYjRFSjhocHg2TlZWM1AwYk9WOG9MY0wwWks4WUl6azM2WEJXRngyYmF4c2xFUk1yZjQ2WE1YaEJsX09Jd29JVFlWZ1VWUlpyQ1lJbXlsU1hXWlI5V0tmc0VHTkFYQUN6WWkyd1loQllEdWllS0tQdW1Xamw0T1VoRmhDUEotSWkxQU5QcDN5UmZwdEozM2tWMUhJSmY1cGxMTDRwUERobXEyWE9kUGJRRTEwY29PeFYwWHBDYnJzOFc4MVZXN0tiaw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "解讀｜時隔三年聯儲局重啟加息 專家：貨幣政策決策框架出現明顯轉變",
-      "source": "dotdotnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wOFVmdVM3U2ExZXBZSUZSYlV6RDQ0cDhEZDVyYVREZVJ6NWxFQjFLclM5enhDeWk2RFMtV204akZWSXJuQTMtaEh6bFRGbTNqZnBCVHgzR3Z2ZkdQcmFQTTYySkU0dDB6a3o4UFRIeUJrZGNmdEVWa1hn?oc=5"
+      "title": "金針集/美將持續加息華爾街面臨震盪\\大衛- 經濟",
+      "source": "epaper.tkww.hk",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OY25KbU1RWDRoTjdKbTR0THBRc0xWcF9tcnZqX2dhd3J1YkVJZExXRHFseVhlT014bzhmVXNMMmVaSXJTUXd3eExwS21NQVBJNFBOX3p3Y1djM2pFSHktblBlWlNPaEV3X0Q5NW9vVXlUZXk4?oc=5"
     },
     {
-      "title": "華爾街評聯儲局升息：「鷹派立場已達極致」",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOdnJyTFdVLWtZbEtKbmRBVFJwN0ZZcGJaN0dsZTdBU19LVEc1N3oyU1NyTWVlbDRmb2lySGdFaUZJY1pOQWlVazJIcWNxby1OTE1CT0kyMDN6NVd6TUZmU09qVm5uUDFCckFaOUxFNzFIdVFMN1JPTVp0b0Z4Um93aXhKNk5RbWtTYWloMWZubGQ2UkNvcGJPMHFBU0trcjFoSE5CZzdjbHJuNW1YQkN6bHItYkdMbWVWckNMWVdBbklxcldFZ1cwVHpUMVhoSnNad0pDQ3NueHUwNGdHdnJpUnh6cHlaOS1kUDFzckkxZGQ2VHRYb0pXTzhXdkR1VXMtdUxrTnk0cjBQNkJQUE1Fem1CNEJwZFRsNzRuVFAySGVZc29WSlk2cU9QZw?oc=5"
+      "title": "美股收盤 | 納指收市升439點，科技股領升，油價及美債息回落",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONGx2bFFaZXhvNkhhSWxtZzRvN0RiYzU4OUJRUURNN19SVjN4MGNEb3RBNlRmUWpjSnZfZjJxUWg0ejhsYWZqRUxHeE5zV3V1aGUxMnJjeTc2WFc1cUM0VTFwSkZmaFFselFvaXFEdnA0clNWWnBINVVtYm5mVHlYUkNEV1FGMFNRQWlTcmlsZ2V3d1lMVWxhanFqZUdnbkpZ?oc=5"
     },
     {
-      "title": "美股三大指數初段升近1%或以上",
-      "source": "news.rthk.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OSWdScHF2LU9ZZ1JVWnhYLUNTTlRnTTdGd05YZEVvOU5hXzFQNzgzYUxvUlg2al84UWtpYTU1SVpxM3RIT2JoQkx3TGU3Rks1RElWb0lVdHMzRkwzbWc5bThJSk1WcXotRUg2aEFPbw?oc=5"
-    },
-    {
-      "title": "【銘察秋毫】聯儲局重啟加息：新周期序幕？對香港有何影響？",
-      "source": "wenweipo.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lRy15SXBhemdOUXl3NjNZRmxETjlUU2g2Zm9aS1FXc3lxWEU5cjItNFU4aG9TZ1JCTHloZ2JZM05yTFNvQV9GWHRMVE9UZ0I5aUJjSi1jYXZ3TnVpRmtZTm5DUV9LTTVRYXNaN2c2cW5NM3lxRG5B?oc=5"
-    },
-    {
-      "title": "美股走勢丨加息疑慮掃除 道指漲逾200點",
+      "title": "外國削美債規模 持倉量9個月低",
       "source": "hkej.com",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOc2FVQUIzdkxfYS1qa1hlQVFFbjBMZnBPZUVsS1llUDhPbnkzNHNvOWt4dlVWSG5JWFlNem9JcjRLRmE3VjFWeDBzMkNzM1VoQjdWMFk1ME5wQm01dllPdjVlMmt3U0lTNHlYaWlMWjBoTVhYTVgyS1VoQnJfUy1GbEo5RHhrTFJVeXAtbV93WGtZbW1OU0RwOE41NG1FQWpKTDlKTUNJUFV1SFRIN3JKek5PVUdpcDROcnBvREFob2x1OU04VWhnM3ZDYkc2Q1NEVURWOWRrOWZ4eFBlQ3FUV2ZNdG1IT2ZfMml5dTBodFhWMVppMWsyb0pBOHNvdlhnUmo3NnVtMDZveU9nUzdNeUZYc2JJMUZrbXFSQ0RhaXhPcEZfQXlr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPa3U0Yi1jcFNIbW1Cc0xXdGZiTzlKWnAzZnIzbFJHU3JWQ0JySVlwVkV0alBybHhEOEZNaU9RM1hxWmg5OFdKUm1kVGk1NUIxbVBKa215ckMxd2NhODRHQzVHendBV0RSSjdpR1NuSnFmS3RBWEp3STFQRXFwWmtCWUlKSzd1UmJYalk3akxudENjakkwOHlMQW1XU2g0aUd3d2dKTGppd3FkTEZtTFA0VDkxaE1zWjlEWEthVzkxZll4TlcyUkd4cjJtREdTY0FINFcyQU1vNGQ3SGNtblg3MmY0emdTeXJCdHk1cV9vLTNnVzdLa1lhYzdiT25UWXk2cldXRDBn?oc=5"
     },
     {
-      "title": "美債價跌 外資續買持倉仍創9個月低",
-      "source": "東方日報",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdUo4dmRweGxyV3M3NTZWNHJTeDJ5NFBXaGk0UVFoY204a1g3QWlnR3hyb09XUmF5eE96UU9XMFR6RHc1MUNVaHl2OUlMUDRPSC1YOWlQb2FjTnUycXZCcndrdE1iV0dVdUo4Sk1rbFloUXoxdlB0dHhMbXhBWDJ2a3JvUEJRYTdKMlF6YVI5OUlyQW9XZy16TTh5Z0Jod2d3N3lmcXJacFcyNzdCdGY2aUN6Qld0ZHZDZjJCSnUyOUxXa2JDOUtJZktwZVZFZ0hYN2cyT0IybXZXbVhfNkFqZEplQ3ZqQXR3TUwzRU1idTItVHJvcnliRHl1bUx0VzFSOTVNZ0lJZ0tqc0wwajRPMHpuS3hzS3B4QWpTVUg2aU5NY0hpNEtIblVMZ21saEFYNUtqQlBrQm9TVFlOdXo2Mi1CNA?oc=5"
+      "title": "道指反彈316點 納指升約1.7% 恐慌指數創近兩周新低",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SLUw2SUNYMXA5TVdTVFhQUm51eEJ3ZzBjbzNHQjZ2VllpbXZndWVGa3hKalVhb3QzRDlESlNSTWliZDBIeUd4b3plMkZNcXlCUnhqRkhBZlZvQzBaNUFvZDVyNWdyT045SC11S1RPaw?oc=5"
+    },
+    {
+      "title": "聯儲局「預防式」重啟加息！中金：加一次夠唔夠？",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQS2kwcEdyVHNYQWx3ZVpBUWVmY2h4Zmg4a3dQb3dxSkxqbHZRV3U5NHJ4QV9Qd01QYUJ5Mm1aZHBLZ2o3N2tPcmdqWXc3T0R1RHg5M3BrbUhRSW9raXZmQVpkSVdkN19QZTlDNzl2bGFWYlR6YUExQUlCVWtFazhlQTRjWlk5SkVOeVc2dTRaNGhmMzVVMDQtMGM2bkxzWUNMbk9hUHlDSmRKMFNMcDByX3Bpdng1ajBZRmxFRlo0WG9zSmRTRTV3TUpmaVg4NDU0ME1zRmhjMzdHU1h2ODVlNWxBZ1hLMzVqZ1RTaXlqNTgtS09waUk3VVF2TGZlTE1XeXBGTWtIX1NWbnRmSXlid1RGRk1xUkw2Sk5ybkMtdEhicEtfeV94VU1xRjYtaHBFSGFKSnFNeXV5VW9xby03OFFGM0diQVZtVG9Cc1pIQmtHRi1RNkZJQm01bEFKVnpxd3p6RmFHYUZtNUk?oc=5"
+    },
+    {
+      "title": "美股收評：大漲只是表象？一個信號創2000年以來罕見紀錄",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GZGFwaF9lVFRkd3RjUnpEV0lBMURYVTlDRXZvTkJ2QmVqNlZ4emxIQjRPS21xOGx5TjQzQzFpaFRuUHN2YjhIVnNTZ2V2ZC1oRWtQSUZDQ2p0LUhmQWFfbVNLU04?oc=5"
     }
   ],
   "events": {
