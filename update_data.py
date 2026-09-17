@@ -8,7 +8,7 @@ import html
 from datetime import datetime, timedelta
 
 # ----------------------------------------------------
-# 1. 油價爬蟲 (CityNews Toronto / 數據自動滾動承接)
+# 1. 油價爬蟲 (CityNews Toronto / 數據自動滾動承接 + Historical Values 自動補底)
 # ----------------------------------------------------
 def get_gas_data(existing_data):
     headers = {
@@ -23,7 +23,7 @@ def get_gas_data(existing_data):
     today_label = f"{today_dt.month}月{today_dt.day}日 (現行油價)"
     predict_label = f"{tom_dt.month}月{tom_dt.day}日 (明日預測)"
 
-    # 1. 今日現行價：優先滾動承接昨日存落嘅 predict_price
+    # 1. 今日現行價：第一優先滾動承接昨日存落嘅 predict_price
     old_gas = existing_data.get("gas", {}) if isinstance(existing_data, dict) else {}
     old_pred = old_gas.get("predict_price", "--")
     old_cur = old_gas.get("current_price", "--")
@@ -42,7 +42,7 @@ def get_gas_data(existing_data):
             soup = BeautifulSoup(r.text, "html.parser")
             text = soup.get_text(separator=" ", strip=True)
 
-            # 抓取生效日期與目標價格 (例如: on September 18, 2026 to an average of 180.9 cent)
+            # 抓取明日生效之預測 (例如: on September 18, 2026 to an average of 180.9 cent)
             pattern = re.compile(
                 r'on\s+([A-Za-z]+)\s+(\d{1,2}),?\s*(20\d{2})'
                 r'.*?average of\s+(\d+(?:\.\d+)?)\s*cent',
@@ -61,21 +61,33 @@ def get_gas_data(existing_data):
                 if target_date == tom_dt:
                     pred_price = f"{target_price:.1f}"
 
-                    # 若當前已有今日現行價，直接相減計算差額
-                    if cur_price != "--":
-                        diff = round(target_price - float(cur_price), 1)
-                        if diff > 0:
-                            trend = f"↑ 明日預測升 {diff:.1f} ¢"
-                            trend_class = "gas-up"
-                        elif diff < 0:
-                            trend = f"↓ 明日預測跌 {abs(diff):.1f} ¢"
-                            trend_class = "gas-down"
-                        else:
-                            trend = "→ 油價平穩"
-                            trend_class = "gas-neutral"
+            # 🛡️ 備用補底：若第一日運行或 data.json 清空導致 cur_price 仍為 "--"，
+            # 直接由網頁下方 Historical Values 提取今日現行價格
+            if cur_price == "--":
+                hist_pattern = re.compile(
+                    rf'(?:{today_dt.strftime("%B")}|{today_dt.strftime("%b")})\s+{today_dt.day},?\s*{today_dt.year}.*?(\d+(?:\.\d+)?)\s*cent',
+                    re.IGNORECASE
+                )
+                hist_match = hist_pattern.search(text)
+                if hist_match:
+                    cur_price = f"{float(hist_match.group(1)):.1f}"
+
+            # 計算明日相對於今日的升跌趨勢
+            if pred_price != "--":
+                if cur_price != "--":
+                    diff = round(float(pred_price) - float(cur_price), 1)
+                    if diff > 0:
+                        trend = f"↑ 明日預測升 {diff:.1f} ¢"
+                        trend_class = "gas-up"
+                    elif diff < 0:
+                        trend = f"↓ 明日預測跌 {abs(diff):.1f} ¢"
+                        trend_class = "gas-down"
                     else:
-                        trend = "→ 預測已更新"
+                        trend = "→ 油價平穩"
                         trend_class = "gas-neutral"
+                else:
+                    trend = "→ 預測已更新"
+                    trend_class = "gas-neutral"
 
     except Exception as e:
         print(f"CityNews gas fetch error: {e}")
@@ -209,7 +221,7 @@ def main():
 
     data["updated_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # 1. 抓取油價 (CityNews Toronto / 滾動承接昨日預測)
+    # 1. 抓取油價 (CityNews Toronto / 滾動承接昨日預測 + Historical Values 補底)
     data["gas"] = get_gas_data(data)
 
     # 2. 抓取國際焦點 Top 7
@@ -240,7 +252,7 @@ def main():
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print("✅ data.json 更新完成：已成功改用 CityNews 油價來源！")
+    print("✅ data.json 更新完成：已成功改用 CityNews 油價來源（支援 Historical Values 補底）！")
 
 if __name__ == "__main__":
     main()
