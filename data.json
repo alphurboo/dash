@@ -1,118 +1,101 @@
 {
-  "updated_at": "2026-09-16 22:08:21",
+  "updated_at": "2026-09-17 11:15:21",
   "gas": {
-    "current_label": "9月16日 (現行油價)",
-    "current_price": "182.9",
-    "predict_label": "9月17日 (明日預測)",
-    "predict_price": "190.9",
-    "trend": "↑ 明日預測升 8.0 ¢",
-    "trend_class": "gas-up"
+    "current_label": "9月17日 (現行油價)",
+    "current_price": "190.9",
+    "predict_label": "9月18日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "黃金也在「逃離美國」？",
-      "source": "日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVkzZWhyVnhsTnlXYUVCeW5UVEZETjZKemU0ckg3T3IyTFhwLWp4a0lrUlBUNkR4Q3NoWHRmQ1Q4a3ktSEU0SGRzandRakdrb1lQdVVoTTZGRDRlOXpUSUMwMTlUbFZiUTVTYjg0RlpXc3VLaXZIYjBlUFl0V0xZSEpEdklfYUw3Ymc?oc=5"
+      "title": "歐盟邀請加拿大成為「准成員國」，這意味著什麼- 紐約時報中文網",
+      "source": "纽约时报中文网",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFpuazV6MHJLamdwQjFxbW5wVUxxV29XRE5GeHVjTmdkNXQzWkkzN1NwR2hmaVAzSWRUN1hrbWdjYnA3bFBIOWZORjJZT2drTk14REw1cmxja3BiVlV4SEJ2Y19jYXQ2VnhOeHFKUFZJeGNBak1vMUNwbGI2QTNXZ09PbU5NQQ?oc=5"
     },
     {
-      "title": "美國會報告：伊戰耗2964億 推高通脹 揭彈藥庫存緊張 未來每月再燒234億 - 20260917 - 國際",
+      "title": "川普：向加拿大發出邀請是「敵意行為」 考慮對歐盟祭出關稅",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxORElHT0FNSTVQV1hMa25aZGtjV2w2SGtmeWowUzJGMDdNakxGMTVhZ2NCcE1VbW5xRXBaZHdJcXM5U1NPM1VtLW1oLWo0TlZJeWRzNHBhTjFjVjlyNzlGRllBMUtLLVBuMkdxeWFXc0dsSkI1dlFWMlZyWlhSZVFqNFRpNHFVeU9KZnU0dGk5NXU1ZkRZZ2dHUnl0ZDNLOFM2WjdxN0pBOFlGVUlZTHZYY19VQk1UOGxLZ3Qzb1RTdEVmamdxY0NBeWFNNHBka2RDT2lyQWhpaDlBVWp1VGZ5dkNzMGtRcFRxaHRFdDlDSDRuTzBOUS1QaDJveXBIWEtOSTlOU3FVUkRUdUR3dDd6bFRweVdHd0hISTdBeWFSdm1uTl95YUpUY3R1LXBBdXh3dzRxcTBQcGxuOTB1UlFHRXdvQi14UFZyTEo2Y2xSRXdWUGlnNjZ1LVN1X09Fc1NLVVlId0NUX09jVGZXYWNyR01LS2p0ekl6SlpONUdlcF9iUQ?oc=5"
+    },
+    {
+      "title": "歐盟邀加拿大成「準成員國」 特朗普批荒謬威脅徵嚴厲關稅 (18:05) - 20260917 - 國際",
       "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOUFViM2dlNU5OSHpFa1BsRXBGeC1EaU1FQ29aSXRtbzVYeXIyT0FDMW5YTHNSVUd4RHZnMDhUSTFGdUZpOWNzdFpDZFF6VFk0b09lcjQ1T01VSEYxcVpmNi1ST1BKemhBRWZVbUpXQzBBa1RlLWFqR3VfLWNLZFFIbVdKNldzWG0tU3ZZVDU1M1B0eTk5bkxPV1o3VjVGVkpRdXFkSlBpMXczbUVEMl96MEpNTG9nZTlvMVVBeXM5QTFVZEpHOTVib01vVW43NGRhazNHa2ZoY2lkMWlaMVFJc2NwWVdiS2doeDhmakpyUG9zck44bVo3NjNTOTRBbXRVdmU1WGFEWWg4SjE5MFNnMEY5Um5vZ2VFZEo1UUVGTXNkZnMxSTRYWG9XaUtTRF9tNlhtWnNTZnZNakNuVzhiT0NHTy1QT1g0dHdZdGl4TEhUa2dWYnNQRUhkX2pFQlNTT29WQjJNTjU0bEhRTGpVdkdycTUxd0dvQUxXV0ZkNU05ZldXZEpya19IWGg5MmdyalVwcGdQQUhCYk1pNTg5TVIzelk2NnhsN0FJYW5RVkxrVWJIblRmVXNWRmpwQUxKZlNjbnFRUGpOWks0SlVfRkJ4azRSNjhYdE5rbzJrcS0zdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOa2Jpckxpd1ZEQmpWejhJOU1pSVo1R0IzWU55bS1sX1pmWDZtMEJNelFmTHk2TFdMT3JFYlNjS2VYaWgwaTg1QXd6YkpBTkpGYTV4d3ZpZG85R0g5Xzh6b09md2dNTEJRbENrM3hCQnVvVzhYcEw5R0pvU0E0dFVoUlFIMzc3YjNIM2tkNktjUDZiWDdIcnZCR1UwMGtRcWU4OU9Ud0l0UklsbklzZEYtc0lydzU3ZlFpYjEzUi10NkpKVzc4ODE2LWFoR0ItR2ZYNWJJMFcxakplaThhVEd0NU05U3g0bGUya0R4SmszMHBHN3lKTEd0ZmZTeTVFR3VxQzk1UzdldmVnTzRPbTN2VjFDajBzM09WQzlZbHhGZ1U2djQzVTV0Y0poS1luajRpdmVfN3g0enNsVHBxNnQ1MWRlLWt3TnROX1JhM3ZhdEJPM09Fb2lrQ1Qtd1ZpcV9xR2NWYzlWQ08zTGJzRTRXdk92RVhrVlRCaHFBSjY5Wl9HWGJOcUVCWVU4Z0FSazB6STJfb241cThGSW9QMjRjX2ZGcEtZeHNwTG5KbjdSVWZCaVpRTEVyeUcxWm1la0xERTRaMkhESlg?oc=5"
     },
     {
-      "title": "美國會聚焦中國科技進口風險 籲降低供應鏈依賴",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPRC01dUZQX2dXZy1FRlJiREJLR0N4RlhZQlJCVFpYWDBGTUU5dXUwcmJuOTJNUlRSa2V4ZlBWUWI2Y2ZrS21iMnNIX1hXYVNucDdndzlYREpxYmd2UHJra1pSR3E1b0hocXRlSzNkLXY5cmJscjVFeFM2aWxiTUlJd3k4Y3p1TEpmb3ItRU9zUG5FdnFVQ1lYd1RHSjlpZUxxa1Y2cUs5REVLejlWRGVualAyTWEtQjByNm1QUHpEUHhKQ0RZTGlObVJfMFpjR1JibURFUWQyS3MyZDFqYUN6Mm5KRUNqVVJ3bng2UTMzalBSdUtaSEdhMnFsNVJFNFZKVlhlRFJEMEJSUnhsOU9TSmFqYjZUdzRQRzBlV0Z4STNWWW9TQ09uNUlkLUhrSk9adG1DbDRLeV95dmg4RUxwUTZaQzd0SmVKa2d5aHQzYVpZTmJocFVrVlVaV24?oc=5"
+      "title": "歐盟邀加拿大成準成員國 特朗普威脅加徵關稅 美國大選選情追蹤 - 專題",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOdzJXakctUWVoOGpvYks1ZFR4b0pLR3RlaTRCckVtVDk5eEowa0Z4LUJKLUdlUHNTR0p6WHpsemxUaHk1WVlWZDVZekhablkzeGZrbFgyeTUtWnBmT281bHlhVTZsN0JDWmZranotd3pqQVFqbjZEVDlvbGlRV2lUUEZMX1h3ZVl6dV9vbU45MVdLS01hYVpHZjFsV0JwMk5Rbnk4M0w4NmpqLXBMa19JZFZEQ05WaVZTeDdhUlJoM0pLQmhmc2ZuYWNVdmxRUWtKTGxIalVSRkpBVjlUb09IVUdkemRkdklacEJWdm1OVUdMWHJxWGo3dDQtUHJWV3lkVFZ1OE02cjlWbmlmZ0JfeWRSY3lzLUhMQVRRS2ZzQWNROHE2bmtkN2d4X0NwVE1MZjQ5V21pSkNLVVduS3lQdkJteEJlaWVkUHR3MTNVdWZCZkt2b2VtSFowazdmVnJNMmY0TnB6ZnRFbEhydmpZMmlad1Y5dFJnZl95R2V3aE5fVmhGUEFoclktazl6MElMcW9QNkNGcGR3dUx3U0RzcUJ2b1U3MkxnbENISE5iWQ?oc=5"
     },
     {
-      "title": "美國靠不住 盟友各尋出路 歐盟邀加拿大成為「準成員國」",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3ZDB2bVRfTEswNUZUZ1BMdEYtSDZ4bDN2QW1sSTJpYmtqVnc3bGNhaG1PMzNSSEZaNnN1QkQzMTVZaHM2RjF5RjI2WXdhenR5RUtsNVBTcV9WT05vRzdhMUluS09La21LTUVINkpodTFJYWRn?oc=5"
+      "title": "美國加息0.25厘落地 開啟一輪小加息週期？ ｜點經",
+      "source": "hk01.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPM0kyNEM0MUxIcTRjMGhBbUJJZ29QdjFkcXBIbjJyNDVZOEZ0Y2NXTTVVcGRfWnpvbXVGSk44SHVtald2V21SYkhFZ2w5cmpnWHowY0h2TzhXc3pRUEhQOGNyVEljSjhxdWFqUDNIc1phbU9ycGhkMThSVFY3TVlxZHd4MTIwdllUaGFEZWdSbEFSY2VRU0JxdE5lVFNDMTlsZlpNS3NjVGlmak9Vd3dqVDNrUnN5VmlNdzBhQ0NxaENJWEg2RWhpZ29SSEV2akRfZHVKX1V4MXloamdPYkQzcGxxbDRZZHFwMk4zVThaUU1SMHpKVHlnbkNoVzRERUVPLXZyaDExWkN0VHl6Z0Y3Q0M2eC00MUJqOGU1b1NHSjlQYzNYWTlnaE9oNlV0UTFzemlDbVZRSUxfTzNMa255YjMyeEQ3eWY1eEZPcUdMSUxuRXNRRnc?oc=5"
     },
     {
-      "title": "美國能在外太空部署哪些武器？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iR1p5ZklSSGpaSTdBSWZCQTBsSERBallwUVlIdmdhbjI5M3VhMHdRaVZYLTZYMEctVE5pM1BtX2JmdnQ5OGNSVHdUeFhaZHo4UWhjR2FBalpVcGhOU3JUaFFHcE9laWPSAWxBVV95cUxQWUNUU3EyMlJRYjBaeGY5NnBJOWI4YVpuTVR1eU9GN1ZMYlAwX0hQTDNPMENwMVE1VUhEdFNmdUpBSmUzNGxodzFkT01aNVJacmx2WjBRQTZ4UFdMTm95Um1uX0gyNkR1bVBQQms?oc=5"
+      "title": "來稿｜美國霸權算不清台海成本 對台軍售當不了談判籌碼",
+      "source": "hk01.com",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPTzJXSVY1VVNja3c2cGd1WE5YNEdueWJ2RVJGWmpJSnNvRnd6VzVtX2NTdXd6QnhrREQ1QmFTaEpuUUhJWFM3cDVxWGEwTTlkUHJQMDVwbHY2bjdJejVQN2hWdFdzblNyazBvTExsNkcwakVoNmtVcldlYmVTdVVudU9aUTIyVDZUamZ0RUpuY1IxQWxQMmtETUw1MXpYaWdBbUZwMEVCOE11U2NTZlVraUtDbTlRV1pFelRsNHpMVEllNFNpTUZDdDUwbnhVUHV1OVU3S0ZNbFdhSmgxZUNka2ZXY3AwZzU4UkZzOUN6SGI2Y010OWdwazI1ZEFwdml3WUR6YXhoRjhCeHhOcU1sRDNwMTZRa2I3aE44SEtjTmhKRG1COHUwbXI1dHQ5YzNzbE9tS2NlR0NWWE9ZdFdGQW1iZVBHanRjamc5TVRZcDJER3MwUGprRmd3RTRUWGZadkZqWHN0RlhzVzNSNTNJX1Z1cHE0d21raEdvV0pzeFdwNUk?oc=5"
     },
     {
-      "title": "美國議息｜聯儲局宣布加息0.25厘 點陣圖：今年將再加息一次",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNUjhPb2liblBsTi11RWd6bmxlR1BPV3lyeC12b1FHMjlpLTU3cUNvMDcxOUxYbHlNaVhxRWttRkUwTkxtcUtWdmJnR1lkVWVqcXY5SFBzZzVOU1dfZlc4VVQ4MGpaN3FsR1FOYzZadm5KbTJyUjh1RlhBNDh2SFZZVEFUY0lRVExVWHotcXBHaEJXUFZRSHk2eWFaeWg5RUhiSFAtMG1DbHBQbm1IZ3J0UmZKc3Q4SHRCYWJZZXZCX0VZV0hTUUctalNBTkR1YXhiLU5VOXlUdjN0ZnNPTTF5V3ZNSDhVSWZabHQzYko3c0QzTXFibzZWQzFRUF9NNWsxVVVodkItR3Q5aTRFdl9RVkNOendTekIyMjM3SUROa3g2VVVDemFjVTFHd2ZmTEhVd3IyYnBiRWd0Q0NQczk1VThQbTdRNlhQTDhRd1ZBMC1GcTltT2NIc3p5Z040cHFjVGFYM1Y2RHNWUUoxQnA0RVB0WVZPY2sx?oc=5"
-    },
-    {
-      "title": "加拿大若成歐盟「準會員國」究竟意味甚麼？",
-      "source": "singtao.ca",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObzgxTFVBLS1IQ3BMTGZoZC1VeXBDVmZsaHhfclZuc21CNnpRUUQ4NTZkMlIyVVdFOGl2NzZQdlF5bEN4Q2g0Nm9kTHVpajRJT055bkg5OGh4SVl0U2FyNmdCcDlxc2FzQnFEcFZXVTJSd00yZGJYb0luTlRMTGc5SHE0ZDNTVkFCUGZqZjhCSU1MZ9IBkgFBVV95cUxObzgxTFVBLS1IQ3BMTGZoZC1VeXBDVmZsaHhfclZuc21CNnpRUUQ4NTZkMlIyVVdFOGl2NzZQdlF5bEN4Q2g0Nm9kTHVpajRJT055bkg5OGh4SVl0U2FyNmdCcDlxc2FzQnFEcFZXVTJSd00yZGJYb0luTlRMTGc5SHE0ZDNTVkFCUGZqZjhCSU1MZw?oc=5"
+      "title": "美國加息｜滙豐等四大行維持最優惠利率5厘 不跟隨美息步伐",
+      "source": "hk01.com",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNM19xUGwydnAwT1ljWTB1bTZJa1dHS202SW5COVBDX09DWGtWNFJIZW1HVDRUYkhGdWFuMlJ6bU5ydE8yeUhWYzZlRFVTR29lUUtCalR0VEJqVzBaRUs3TVJuTlRtOHlKVEt0TFhNbTdqU1lFcm8tMk5SUEFBQWhOQUdTZFBQbTFqNk1xalB1NVhjRWM1UFNZaHNZQVhRQkd3ZkFQZ3otY0Q3YzFGWUxwbklUZHVXRmVvSzJLbXpkajdWMjRNQ29meDI5Zjd0Y1Y3M3RrNjJ4LVRkb0k4a1pEOEZXcFlzdEtFYll5WjlqXzFhMS1zYTZJUzZQZmdvMjdNaFVfN0Q4d1NBSElUX0FvbXFkN2NaV1pER1pfTGJDTWxCTzhGa1hkNzVEbXo3WHU4dENaemsyMGdVZXpJTzdvNFd2NTRkV3hjYzlhZWFzdVV4UHNtQl85OVhKd2JQemdVYzF0dHRqWC1QTncwRExKM1QwTXpJQzd6cjRhSHVwZ2FIZnlDWEV6TXpkSXUyLTJ0RUFtT283WEJ0c3pmRTFRN0tLLXd5Zw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股三連跌 道指低收631點 聯儲局10月加息預期升溫",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMV2Y1MmNKcmR4QjlHUkVfNHpEaVV4ZTY2Z1hsVnk2Z09ybHdZYTgxQ1FEakhWUDJsbTNEVG9TNi1UWXU5aHEzZHJ2cEFCSzRBSk0tdlM4enhWdjhLTmdEUjloMlAyaEMteHNpbGpobw?oc=5"
-    },
-    {
-      "title": "美股走勢丨道指收市挫631點 銀行及能源股受壓",
-      "source": "hkej.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQWVdFTmNQTDN1Vjd3NTJWQng0WFVubHB0RmYzMHJmbW5DRDJsVlRpUXlhUWFuUE1ZN1E5UE9pSW9iUEp5dmhLY1NIU0pYTWVxZjNhRUVPLVNLVnM1WlZxc091N0R0aTB4Q1JBVTRtWU5yZDJINnYtUUtDbEdXeGNIZlZtX21VYjFUc1pDRGQ2N1V6RTU1UUFPamNuYVZ4YmFvNzlwVV9nRndubWk3RnI1N1FTbTB5bFlVbUJjZmJ4TENLX1BHVGRLei04LVhfUFJNNXJoZ2RpU3lUUm9RT0VrRlVjYU9uTXJGU2c5UEhXS0FHSDB3RVVOX0JxNjlqNzYybGZvY0tWdG5RaWdaVC1JMDBIcHNVZTlhTXBXWU9TbGtTTnBmcHFvWnYxV0pMZkZ3cW1adGVROVdaaUstRkhCb2N4NDZHT2liYVFuMjVnVFJ3NVNuLWlNbnhR?oc=5"
-    },
-    {
-      "title": "一文掌握Fed重點決策：升息三大理由、拒供前瞻指引、迴避川普施壓",
+      "title": "Fed升息後股債雙跌！10年期美債殖利率再突破5% 市場憂更多升息",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxORGtvalZEbmNXMU1MNlM0V3QtSGNvWmhybnNaWjVCNDQ4Tm41X3ItWG9jREQ3eVU2eDNhel9OdE9UTm9DZVRxUkdsWEM1NEMwMGpKa1NjeHNsX3BkdnpyX2JrQ3V5TnhaRVNxR18tOVNnbmtQM2tWcnlkNjZIdTV2T3BWY1QyUURySncwZWMxN3BTUy1yM0h0LXh6SE9PSlhoQnZ3N2pkR1RQU1dQVTNhTm9XZ2dyQTljTVNIbllKT2dpaTVCdnYwVC1LVVUySWZDS2lXdVRGbGVPMUFqYVdicUduTFJjd29pQVZUemZZYW1keHI1LUhMUVc1VktjeDZma2xXWTFIeU5oNGZYQWdiM00zdlBzU3FwTEd6WGszbEkyUmNGX3hCdGJ0ZVVXZEdTSDM1aWpkcWgxSmVud2xkbnY4TUpBMFJqUFczWGtnUDdjR2ltVUQ5cUJqRjFaLTYxTVVhdDlCVEU3cnlhVkd3NTNMaVRzVjlVRjlTUnEzRFU3NXJnZFJHUUJBQlRjekRMS2c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQZU53VTFIQlhtMDViRFYzcmFyRkpVTVRUQ3FmRUphYVF6LVRObzJDSGUxTGdJT21tYkg1bTlRTk9wZUxiVWFnWldKRk1RV2JBZGFtT1MtVkpfQ19KRDJmUTc2a1pOSENxZHpXUGpsYjhaZ0ZwdloxNldvWTdmOUh2RlVHVmlWVzZ1UExGSHdiRVd3UlhnRW1NcVY1b051VTFGMnJHTzcyWHRQSVJleTRMZ2JjUlpkMDljUzJIVmJtT3FBcW9HUkkwak9mTWtDUWtacDdvbmZsQWJobThWMTc4V2tMQ1AyQ2pENkRxQTY4RFlXNmh3NE5zM3hhSm83UTlaR1RGdkZqSFlkM2FsNHpiR042NzVkU1JWbHYta0NiZmVPMi1EZHJHZWdtQ2xXalNYRURhZVlsWnZIcHRHeVM3MzJibEVJVngyWno2cllWX2tQY09yWGEtemswam5xbko0MkJ1UzRLQzdzVnQzNlktU3oyMDZ5SEl3Y1FTVDUtQWRHY0loN2paSw?oc=5"
     },
     {
-      "title": "【美股收市】沙特將重開油管、油價跌 儲局年底前或再加息 科技股硬淨（不斷更新）",
+      "title": "聯儲局再次加息：股市接下來將何去何從？",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KS2xWU29jS1hOcm02dVphT3RBaFFuZlEwczZidmtLdTZNU3FYSE5iejRTTGhvWEwxWXJhdUVwQ1N2Vjl0VHhJZ3ZJVExtNDFkRnFhWnIzMkdadw?oc=5"
+    },
+    {
+      "title": "美國三年來首次加息 對全球和中國意味著什麼？",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45OTZvZF9ld1NqMXFoYzl1WWNjZHF5M2lHZ2VwOFNDZGk1Y25lWngwTVVIaElSWUludkVwRExFX1h2ODN6aUxLNFhVdE93XzMtUWVqTlBRckliYWdZc3BIYlVxUWJHTGVxcjh2MtIBbEFVX3lxTE45OTZvZF9ld1NqMXFoYzl1WWNjZHF5M2lHZ2VwOFNDZGk1Y25lWngwTVVIaElSWUludkVwRExFX1h2ODN6aUxLNFhVdE93XzMtUWVqTlBRckliYWdZc3BIYlVxUWJHTGVxcjh2Mg?oc=5"
+    },
+    {
+      "title": "聯儲局加息丨花旗料美息第四季不變 明年6月恢復減息",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQXzFQRTJ5TjVneE5xalJhRGhaM1luV3NWQWNIVDBrMmd3dDhQQTZiM0VPWDltMG5xSWJ2dkpNcFBLeFRzNnNNc3VWMUdIOUxQNEw2MHExeWN6QXlSRUJDRGk0QU12VFZTLUh6LURSc3Y0OVc1Q3dNdzRmTTJ0THdkZTlUTFlDVW1WNFVoVWFIenZkMU82b29ScTM5X0VLY3VsNEg5UHFXU1RLWnB0NThYZjU3SmE0ZkRHYUFmcWdyZkZHS3c5WWZybTZGSFZlX2tsaHBGVS1na0x1OF9oYnBBcnJ1QXJnU3E2ajFXVGtkX2J1UnI5UkVaNjI3LTZfSzhhSGEzZW4xUkwxcU1ZNnN5Z25icVktVzVMRzZ1d3FNdi1yd2pGUXhzMzBwQ2pwWk1lTndGQlVnQzE4Q24xcm5FSW5DQ3JKbWNwcnRhcnZKZVREbHBaZDBwVGVPNEx5ZjFBRTZOV3R3TUE2TU5yX0tYU2tPY1BBdTVoVmdSbEpjMWFrbDlWVTdV?oc=5"
+    },
+    {
+      "title": "美債保衛戰｜沃什抗通脹姿態安撫債市情緒 全球債券反彈",
+      "source": "hk01.com",
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPb0FtOHJsZlJzXzl5SlhvSklSbzBRNEJrLW5UaVhvQkFWU0VtQTlpZ3pJVVJVckcwR3VGcU5FVUxpN1hKUnRhdkZ2am4zZEp4SnpmUm5MdS1mRF8zODdxWW9DVGpmbGtqbWEwR05DNFRqOG5TVlI3RGtQUTlQcG04WlZYek13UGRNUDRLRXJQS0d1VWc4QUtoUm91Y2d1alJYU29zeklndUJPSlBXSXpmcXh4UW5lemJ5YmozQ1pHNjJwSGd0eERmOUk4X0JTSEVHd3p4ZU5oSTRVb2FZbW1XQTZtUTA1c3dXOWJ6eXVfbnFwN19jYTZtUm5oUWVnaXhtcVJTLV8xLUg1VGRZd0g0N1NoOHFSdWlCWWpRV3ZBc1lfSFpacVdYUTk3aFBBbFRzMndLRklnb0xrV2FRWFMyR1lLdnAzZTlkajZBdVJjRWlTajJHbU5oYmY0MzJ5N0dDLTF6SzREc19IUjJYNEdBeEpsT0tYb3oyWkk3akFDR19udGwyVTNBOGRCclRWRi1NTG0wX25PbVM?oc=5"
+    },
+    {
+      "title": "聯儲局「預防式」重啟加息！中金：加一次夠唔夠？",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOQ1FYcV95WWlmQWg5UWRFcUtMb2VnM1pjLXJIbFV2bW5ZRkdoeEpROHUwRmZNUkluQ09uemw5b2RSZmE2N1ZKbmt0clM2czdPTzBZTWdWbmFySm9ubmlhS3d2Y0RkNG44X2ZWaTgxa3hnTEpUNXdFc1dQNzhiMzhNbndjU3dIcENiT2ZTNTZqNGNSMF9uQ3Z6ajJKYmhwenhySXNvS1AyZkxZTUVKM1psTHQ0bXg1VTBLVDFCVWxQRFZFRzRZY29qN1BFZzdlVlRQWFFBWGZVb3lUeWdXR3VtTmhIYWxkOTJvcFBmbE5DZ2tQaEctLXN5bVlHaXNvZ0xLeWE3Qk9NdEdsTnRzTFVmdmRLVmt6VjA5TjByUGxTY3RxaGFMODVhMUxPWFhSQ3FLYjhDZ2dQVzZNaDNjS3dSRnl3OVFoLU4tZ2xmWUhEUEZ2R19iRmc3WnRiemRsUTVmc0dibHFiam82cTBJX2d0Q0dRM254cTVKN1owa1RiOGhuN3dYazBkM0pQaDVGQW5yRGpsb2lCdkVmVXl3Uk5WUWhhZW5SbndyRUp2eEF1M21YeTUtbzM0b1V2a0JFQUlzYjRKRGt6NTJ2R3o3WTRIU1VaZnpzYTFnMHdPYmoxMXBQakY5bmZITmFWN2JRRkxVLXJ0YzFFdkVNSDI2NkhKLVNpS0daekZubmdDNDVvN014M3VD?oc=5"
-    },
-    {
-      "title": "工銀智評/美國債息料持續高企- 經濟",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIa1FGSzktZW53ZVpTeGpuRm9LWF9VWGRxYjItVHlYNm5IaHNlbzhMTnF4SWFFNHpicm5MWGZWWW1lZlp0OVVtajlOX0IyM09pRl9uc3lTMklwTzI3amNNR3NWWUx4RWo5WFpKNFRRaVlyaDJN?oc=5"
-    },
-    {
-      "title": "美股收評：沃什一句「通脹太高太久」震動華爾街！道指狂瀉631點，美債收益率突破5% 作者 FX168 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hMmNIby1mdEtEMW9mTi01QWZ5M2kwdkdMdkpoNlBKb0xjN0hERkNTOUhNUl91dTRHRHpPZDVGeG9EWG1lMWNMVXY4OWRaMmwtR0xiQkZOdzU5SU9BaFk1bFZYM2Z5ZkRtLXp2QV94MkI?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQS2kwcEdyVHNYQWx3ZVpBUWVmY2h4Zmg4a3dQb3dxSkxqbHZRV3U5NHJ4QV9Qd01QYUJ5Mm1aZHBLZ2o3N2tPcmdqWXc3T0R1RHg5M3BrbUhRSW9raXZmQVpkSVdkN19QZTlDNzl2bGFWYlR6YUExQUlCVWtFazhlQTRjWlk5SkVOeVc2dTRaNGhmMzVVMDQtMGM2bkxzWUNMbk9hUHlDSmRKMFNMcDByX3Bpdng1ajBZRmxFRlo0WG9zSmRTRTV3TUpmaVg4NDU0ME1zRmhjMzdHU1h2ODVlNWxBZ1hLMzVqZ1RTaXlqNTgtS09waUk3VVF2TGZlTE1XeXBGTWtIX1NWbnRmSXlid1RGRk1xUkw2Sk5ybkMtdEhicEtfeV94VU1xRjYtaHBFSGFKSnFNeXV5VW9xby03OFFGM0diQVZtVG9Cc1pIQmtHRi1RNkZJQm01bEFKVnpxd3p6RmFHYUZtNUk?oc=5"
     }
   ],
   "events": {
     "macro": [
       {
-        "title": "FOMC 議息 (附點陣圖/SEP)",
-        "date": "2026-09-16",
-        "days_left": 0,
-        "status_badge": "今日",
-        "tag": "🏛️ 議息",
-        "desc": "聯儲局公佈利率決議與最新經濟預測點陣圖"
-      },
-      {
         "title": "美股「四巫日」(Quad Witching)",
         "date": "2026-09-18",
-        "days_left": 2,
-        "status_badge": "2 日後",
+        "days_left": 1,
+        "status_badge": "1 日後",
         "tag": "🧙‍♂️ 四巫日",
         "desc": "季結指數/股票期權期貨集中結算轉倉"
       }
     ],
     "stocks": [
       {
-        "ticker": "TSM",
-        "name": "台積電",
-        "type": "9月除淨",
-        "date": "2026-09-16",
-        "days_left": 0,
-        "status_badge": "今日",
-        "desc": "季度高息除淨日 (Ex-Dividend)"
-      },
-      {
         "ticker": "XIU.TO",
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
-        "days_left": 13,
-        "status_badge": "13 日後",
+        "days_left": 12,
+        "status_badge": "12 日後",
         "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
       },
       {
@@ -120,8 +103,8 @@
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 14,
-        "status_badge": "14 日後",
+        "days_left": 13,
+        "status_badge": "13 日後",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
