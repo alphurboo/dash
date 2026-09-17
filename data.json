@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-17 11:15:21",
+  "updated_at": "2026-09-17 17:49:10",
   "gas": {
     "current_label": "9月17日 (現行油價)",
     "current_price": "190.9",
     "predict_label": "9月18日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "180.9",
+    "trend": "↓ 明日預測跌 10.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
+    {
+      "title": "要聞解說 - 歐加靠攏引特朗普嘲諷威脅 歐盟安撫強調“不針對第三方”",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQOGJEUHZsQmxRSjN2dUVLNlUxV3ZYanFRdjE5eVZhN3FGdEZkVUNVTklCc2NDNVBTZ1pfTm41MjRPUXdGbTVJaE5wTDRTUW9OaHhUVkpfc2xpMGpMYUtzSDZ4U0ZsQVdKZHZHVk9rNWt0R0hLdWpwdm1Vcms0b1Z0RjF3bkZnb0RmRzBwUXVHcEwxalJPck1FTkNrN1RJdVNDbVNRQnV6eTZ4OHlYY21IRlBNQXFqOGQwbGdCVjdkekoybVNIS2xMM3AtN3gwZkxHdDZhRnZjejRGenlwai1uM0wxaW5BMnJWd2dNOUs4Rko0RFd5c1VzYmwxaVlKU0toaHlJd0p6eTFoX2N0cFZSX2w2NFpMcTRXOUZpc005UzBkaGYyQWZNZEE2RWZXWDhDVXRkRjk5eWptaTNuQ1Z0RktMd0JqeXExaTJkRGhsbVJRTk5XaEdjSWZIRV8xTllza25mQVZ0eTduenh4TnM0V0NseDdHLUs0ckRSNThPNUxPWUxnd2dZNFhBbDNZVVJWWG9qUzNMLUNHY3BYY1Q4UXJNaHZFQ3l4Qmk3c19zWXFTZlNNSGNBYTVsN1FtdzhtamhpUmltcU1VSFU?oc=5"
+    },
+    {
+      "title": "美國二手房簽約量意外小幅上升 高利率仍抑制需求",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPaXFyajJBS2hod3VkVTVmS2p4T2JQbHl3Qloyak1Idjd3al9ERlVDMzdxdXZ3dnBmWWxoSjhoMGN0RHJpcE8zbGRvaEJaWlJGb2RHSXdHdHRsMkp6MElWR3R0eDBueURQZ05sVkN5alY4cHpMUHExTXpnaThENWVTbVhMdXVub1Y4YzM1LVQ1aDd1UGNYdFZiOG9faUNfdUZWMTMwVnlUcXVGUUUxVGU4UUoxWDJ1bDJNZnUta1NjekFuY1BmOVdqRkIxR1lta05qZ2FEUTM2MmhmbEpsZDN4cjFHTTYwYWpCd290UUVGVjdmUkdlWmVCbWM5VDBlT1RzejdxLWVxYTdjSzNTSTNYamRNRWVEQkRRcVdLZVd0bTVVUGZxbjhhclhnQzlnZzZ2bXZiUWJ5N0hzNE9xV21ja0ZaMkw2YUZkVVdRLWV0d1JsMm10TGdoRzZ5OGNKWDd3QUtDc1BCaw?oc=5"
+    },
+    {
+      "title": "美國會通過法案制裁俄油買家 北京批長臂管轄",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPVVI1MTR2YXEzMEJDY0R1QUt4dG5xbHpSMzl3U1dCaUd4WTMyRVcwQjU2VFNUVzd6emExZ3BLWmdwTGU5eWxENW9ieXR2REExc2NDVWpQWVQ3NEM5MFVicVlnSy1QNnZaTkNFYjNQS3VXSGxuaWRfNF9Cc2lvd0VSV281d210eUlxTjM4ZjdfYlJVU1ByZzJkaUR1SHpYZ2NkS19adkdnUGIzOFcwZHYzM1lYQzNSUEUwc1FlVE1majUyOEkxU2pQV0t6TEFTcS1qcHFNNTB4YnVFdTJXUlRtOEgxWjZLSVVOWlZySy1NT1RTSm5rU0RwVVFFYndBTlpuZjN5d0c0ZjN3N1VPX0ZiQkhuMEVNb3V2UDdOX1J0ZjA4VENRQTJ5dTl3ckFEa3V3Z05RbkxLUmNlTlM5MXl2StIBwAJBVV95cUxOX3B3TnVnVkhtb2FkWElDYkRNRzR1MjYwQTBWdzVMNVN0QVFNWnZpNlZGNlUyTkxEN1VsN0hId1FhdVZxNDByX2poSFNXTmNSUkRXMjBLVElnMVpUWTcwMWpfbUNpaFdUbUtsWmdCWHNZa0xUTEZGbXk3dWZscTV6MjFzRURzLVAxUGoxX3kwc2ZkbXdndG01ZFh2SlNzWHIxN3BVZlpCZkxsbGcwbFoza0pOQnFyY2huY05lbnJyX0VQU2dWOVNMM05UakdWd0hXdkxpOUMxeVBHaUdjVFVMUE5Rc3BRYmYtNGlmZ3Jad25CWHNUVHMwbXIteGQ3UzFlTGl3MTlDenBiQU9pSnhxVnRZaTZLYmVwVm4zRUl4Nm5JZURGaEh3Q3oyQTFZTjNnMklud2UxR0RCSWJnaFl3NA?oc=5"
+    },
+    {
+      "title": "美國政府希望與日本新內閣擴大經濟和安保合作",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NN3JMTVNocU9rS05EYkV1VTdNb0ZBcFVwaUZCRV9sVWVDSU1JRnRJQ09GUE5JSkwtTGZxSDdWTnNSSEFmQ09sR01sSUVqTkhTLW9YTV82RlQ?oc=5"
+    },
     {
       "title": "歐盟邀請加拿大成為「准成員國」，這意味著什麼- 紐約時報中文網",
       "source": "纽约时报中文网",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFpuazV6MHJLamdwQjFxbW5wVUxxV29XRE5GeHVjTmdkNXQzWkkzN1NwR2hmaVAzSWRUN1hrbWdjYnA3bFBIOWZORjJZT2drTk14REw1cmxja3BiVlV4SEJ2Y19jYXQ2VnhOeHFKUFZJeGNBak1vMUNwbGI2QTNXZ09PbU5NQQ?oc=5"
     },
     {
-      "title": "川普：向加拿大發出邀請是「敵意行為」 考慮對歐盟祭出關稅",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxORElHT0FNSTVQV1hMa25aZGtjV2w2SGtmeWowUzJGMDdNakxGMTVhZ2NCcE1VbW5xRXBaZHdJcXM5U1NPM1VtLW1oLWo0TlZJeWRzNHBhTjFjVjlyNzlGRllBMUtLLVBuMkdxeWFXc0dsSkI1dlFWMlZyWlhSZVFqNFRpNHFVeU9KZnU0dGk5NXU1ZkRZZ2dHUnl0ZDNLOFM2WjdxN0pBOFlGVUlZTHZYY19VQk1UOGxLZ3Qzb1RTdEVmamdxY0NBeWFNNHBka2RDT2lyQWhpaDlBVWp1VGZ5dkNzMGtRcFRxaHRFdDlDSDRuTzBOUS1QaDJveXBIWEtOSTlOU3FVUkRUdUR3dDd6bFRweVdHd0hISTdBeWFSdm1uTl95YUpUY3R1LXBBdXh3dzRxcTBQcGxuOTB1UlFHRXdvQi14UFZyTEo2Y2xSRXdWUGlnNjZ1LVN1X09Fc1NLVVlId0NUX09jVGZXYWNyR01LS2p0ekl6SlpONUdlcF9iUQ?oc=5"
-    },
-    {
-      "title": "歐盟邀加拿大成「準成員國」 特朗普批荒謬威脅徵嚴厲關稅 (18:05) - 20260917 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOa2Jpckxpd1ZEQmpWejhJOU1pSVo1R0IzWU55bS1sX1pmWDZtMEJNelFmTHk2TFdMT3JFYlNjS2VYaWgwaTg1QXd6YkpBTkpGYTV4d3ZpZG85R0g5Xzh6b09md2dNTEJRbENrM3hCQnVvVzhYcEw5R0pvU0E0dFVoUlFIMzc3YjNIM2tkNktjUDZiWDdIcnZCR1UwMGtRcWU4OU9Ud0l0UklsbklzZEYtc0lydzU3ZlFpYjEzUi10NkpKVzc4ODE2LWFoR0ItR2ZYNWJJMFcxakplaThhVEd0NU05U3g0bGUya0R4SmszMHBHN3lKTEd0ZmZTeTVFR3VxQzk1UzdldmVnTzRPbTN2VjFDajBzM09WQzlZbHhGZ1U2djQzVTV0Y0poS1luajRpdmVfN3g0enNsVHBxNnQ1MWRlLWt3TnROX1JhM3ZhdEJPM09Fb2lrQ1Qtd1ZpcV9xR2NWYzlWQ08zTGJzRTRXdk92RVhrVlRCaHFBSjY5Wl9HWGJOcUVCWVU4Z0FSazB6STJfb241cThGSW9QMjRjX2ZGcEtZeHNwTG5KbjdSVWZCaVpRTEVyeUcxWm1la0xERTRaMkhESlg?oc=5"
-    },
-    {
-      "title": "歐盟邀加拿大成準成員國 特朗普威脅加徵關稅 美國大選選情追蹤 - 專題",
+      "title": "美國上周首領失業救濟降至19.6萬人",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOdzJXakctUWVoOGpvYks1ZFR4b0pLR3RlaTRCckVtVDk5eEowa0Z4LUJKLUdlUHNTR0p6WHpsemxUaHk1WVlWZDVZekhablkzeGZrbFgyeTUtWnBmT281bHlhVTZsN0JDWmZranotd3pqQVFqbjZEVDlvbGlRV2lUUEZMX1h3ZVl6dV9vbU45MVdLS01hYVpHZjFsV0JwMk5Rbnk4M0w4NmpqLXBMa19JZFZEQ05WaVZTeDdhUlJoM0pLQmhmc2ZuYWNVdmxRUWtKTGxIalVSRkpBVjlUb09IVUdkemRkdklacEJWdm1OVUdMWHJxWGo3dDQtUHJWV3lkVFZ1OE02cjlWbmlmZ0JfeWRSY3lzLUhMQVRRS2ZzQWNROHE2bmtkN2d4X0NwVE1MZjQ5V21pSkNLVVduS3lQdkJteEJlaWVkUHR3MTNVdWZCZkt2b2VtSFowazdmVnJNMmY0TnB6ZnRFbEhydmpZMmlad1Y5dFJnZl95R2V3aE5fVmhGUEFoclktazl6MElMcW9QNkNGcGR3dUx3U0RzcUJ2b1U3MkxnbENISE5iWQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ2xzcmRiakZYRTl3VVBMN3YtTGo0UWxoNkxWMzFPNUpkSDAxOFcyTnZZMDJsYzdLZ1RIM0xkTnJ2UEZyUm9LRjJKd0lxVWVrYkV4STNwU3FRczluTEVQQ2FxdUhrbWhsWnFiVXBFanV6S2d6WU1oVXRydjl1eFZWZjRxZnBVQ3lGSDY2cjRCR1FKOHA3djdNME85TXRTaGFSVXVfWU81Z3BEVVNPR0xveTBzQlpTYVlmME1oZ2FxTVQ2VHNZdlJIMmZGd3l4dWZfVThwWmJEMXN2RUdLT2tsU3ZLUFgwa3g0dTlWTlJYdDJPdElFVDBGYlJiQWRkRUprbjZjOVlmTUFadUQ1?oc=5"
     },
     {
-      "title": "美國加息0.25厘落地 開啟一輪小加息週期？ ｜點經",
-      "source": "hk01.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPM0kyNEM0MUxIcTRjMGhBbUJJZ29QdjFkcXBIbjJyNDVZOEZ0Y2NXTTVVcGRfWnpvbXVGSk44SHVtald2V21SYkhFZ2w5cmpnWHowY0h2TzhXc3pRUEhQOGNyVEljSjhxdWFqUDNIc1phbU9ycGhkMThSVFY3TVlxZHd4MTIwdllUaGFEZWdSbEFSY2VRU0JxdE5lVFNDMTlsZlpNS3NjVGlmak9Vd3dqVDNrUnN5VmlNdzBhQ0NxaENJWEg2RWhpZ29SSEV2akRfZHVKX1V4MXloamdPYkQzcGxxbDRZZHFwMk4zVThaUU1SMHpKVHlnbkNoVzRERUVPLXZyaDExWkN0VHl6Z0Y3Q0M2eC00MUJqOGU1b1NHSjlQYzNYWTlnaE9oNlV0UTFzemlDbVZRSUxfTzNMa255YjMyeEQ3eWY1eEZPcUdMSUxuRXNRRnc?oc=5"
-    },
-    {
-      "title": "來稿｜美國霸權算不清台海成本 對台軍售當不了談判籌碼",
-      "source": "hk01.com",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPTzJXSVY1VVNja3c2cGd1WE5YNEdueWJ2RVJGWmpJSnNvRnd6VzVtX2NTdXd6QnhrREQ1QmFTaEpuUUhJWFM3cDVxWGEwTTlkUHJQMDVwbHY2bjdJejVQN2hWdFdzblNyazBvTExsNkcwakVoNmtVcldlYmVTdVVudU9aUTIyVDZUamZ0RUpuY1IxQWxQMmtETUw1MXpYaWdBbUZwMEVCOE11U2NTZlVraUtDbTlRV1pFelRsNHpMVEllNFNpTUZDdDUwbnhVUHV1OVU3S0ZNbFdhSmgxZUNka2ZXY3AwZzU4UkZzOUN6SGI2Y010OWdwazI1ZEFwdml3WUR6YXhoRjhCeHhOcU1sRDNwMTZRa2I3aE44SEtjTmhKRG1COHUwbXI1dHQ5YzNzbE9tS2NlR0NWWE9ZdFdGQW1iZVBHanRjamc5TVRZcDJER3MwUGprRmd3RTRUWGZadkZqWHN0RlhzVzNSNTNJX1Z1cHE0d21raEdvV0pzeFdwNUk?oc=5"
-    },
-    {
-      "title": "美國加息｜滙豐等四大行維持最優惠利率5厘 不跟隨美息步伐",
-      "source": "hk01.com",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNM19xUGwydnAwT1ljWTB1bTZJa1dHS202SW5COVBDX09DWGtWNFJIZW1HVDRUYkhGdWFuMlJ6bU5ydE8yeUhWYzZlRFVTR29lUUtCalR0VEJqVzBaRUs3TVJuTlRtOHlKVEt0TFhNbTdqU1lFcm8tMk5SUEFBQWhOQUdTZFBQbTFqNk1xalB1NVhjRWM1UFNZaHNZQVhRQkd3ZkFQZ3otY0Q3YzFGWUxwbklUZHVXRmVvSzJLbXpkajdWMjRNQ29meDI5Zjd0Y1Y3M3RrNjJ4LVRkb0k4a1pEOEZXcFlzdEtFYll5WjlqXzFhMS1zYTZJUzZQZmdvMjdNaFVfN0Q4d1NBSElUX0FvbXFkN2NaV1pER1pfTGJDTWxCTzhGa1hkNzVEbXo3WHU4dENaemsyMGdVZXpJTzdvNFd2NTRkV3hjYzlhZWFzdVV4UHNtQl85OVhKd2JQemdVYzF0dHRqWC1QTncwRExKM1QwTXpJQzd6cjRhSHVwZ2FIZnlDWEV6TXpkSXUyLTJ0RUFtT283WEJ0c3pmRTFRN0tLLXd5Zw?oc=5"
+      "title": "環球動態 | 歐盟擬接納加拿大成首個準成員國，美加貿易爭端升級之際拓合作",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVJ4QWVibTZYdnBNU19FdEZ5eFNFaU9vT2NMd3FLc21ab2pvZmR1eU9ha1lMbmk4RE1FUzUzZ3hsNHp3SjQzT1ZxOUthN1dPV01QUVVwRHVZNmhmQXV3VmRxZ2FPblNueUpUWERLNlV4U1owRjdlZ083aDJENGJjT3BZVmNjWkNCczdncEppQVVPVU9la2c4dmFRblQ4dzAx?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "Fed升息後股債雙跌！10年期美債殖利率再突破5% 市場憂更多升息",
+      "title": "華爾街評聯儲局升息：「鷹派立場已達極致」",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQZU53VTFIQlhtMDViRFYzcmFyRkpVTVRUQ3FmRUphYVF6LVRObzJDSGUxTGdJT21tYkg1bTlRTk9wZUxiVWFnWldKRk1RV2JBZGFtT1MtVkpfQ19KRDJmUTc2a1pOSENxZHpXUGpsYjhaZ0ZwdloxNldvWTdmOUh2RlVHVmlWVzZ1UExGSHdiRVd3UlhnRW1NcVY1b051VTFGMnJHTzcyWHRQSVJleTRMZ2JjUlpkMDljUzJIVmJtT3FBcW9HUkkwak9mTWtDUWtacDdvbmZsQWJobThWMTc4V2tMQ1AyQ2pENkRxQTY4RFlXNmh3NE5zM3hhSm83UTlaR1RGdkZqSFlkM2FsNHpiR042NzVkU1JWbHYta0NiZmVPMi1EZHJHZWdtQ2xXalNYRURhZVlsWnZIcHRHeVM3MzJibEVJVngyWno2cllWX2tQY09yWGEtemswam5xbko0MkJ1UzRLQzdzVnQzNlktU3oyMDZ5SEl3Y1FTVDUtQWRHY0loN2paSw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOdnJyTFdVLWtZbEtKbmRBVFJwN0ZZcGJaN0dsZTdBU19LVEc1N3oyU1NyTWVlbDRmb2lySGdFaUZJY1pOQWlVazJIcWNxby1OTE1CT0kyMDN6NVd6TUZmU09qVm5uUDFCckFaOUxFNzFIdVFMN1JPTVp0b0Z4Um93aXhKNk5RbWtTYWloMWZubGQ2UkNvcGJPMHFBU0trcjFoSE5CZzdjbHJuNW1YQkN6bHItYkdMbWVWckNMWVdBbklxcldFZ1cwVHpUMVhoSnNad0pDQ3NueHUwNGdHdnJpUnh6cHlaOS1kUDFzckkxZGQ2VHRYb0pXTzhXdkR1VXMtdUxrTnk0cjBQNkJQUE1Fem1CNEJwZFRsNzRuVFAySGVZc29WSlk2cU9QZw?oc=5"
     },
     {
-      "title": "聯儲局再次加息：股市接下來將何去何從？",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KS2xWU29jS1hOcm02dVphT3RBaFFuZlEwczZidmtLdTZNU3FYSE5iejRTTGhvWEwxWXJhdUVwQ1N2Vjl0VHhJZ3ZJVExtNDFkRnFhWnIzMkdadw?oc=5"
+      "title": "美股三大指數初段升近1%或以上",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OSWdScHF2LU9ZZ1JVWnhYLUNTTlRnTTdGd05YZEVvOU5hXzFQNzgzYUxvUlg2al84UWtpYTU1SVpxM3RIT2JoQkx3TGU3Rks1RElWb0lVdHMzRkwzbWc5bThJSk1WcXotRUg2aEFPbw?oc=5"
     },
     {
-      "title": "美國三年來首次加息 對全球和中國意味著什麼？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45OTZvZF9ld1NqMXFoYzl1WWNjZHF5M2lHZ2VwOFNDZGk1Y25lWngwTVVIaElSWUludkVwRExFX1h2ODN6aUxLNFhVdE93XzMtUWVqTlBRckliYWdZc3BIYlVxUWJHTGVxcjh2MtIBbEFVX3lxTE45OTZvZF9ld1NqMXFoYzl1WWNjZHF5M2lHZ2VwOFNDZGk1Y25lWngwTVVIaElSWUludkVwRExFX1h2ODN6aUxLNFhVdE93XzMtUWVqTlBRckliYWdZc3BIYlVxUWJHTGVxcjh2Mg?oc=5"
-    },
-    {
-      "title": "聯儲局加息丨花旗料美息第四季不變 明年6月恢復減息",
+      "title": "美股走勢丨加息疑慮掃除 道指漲逾200點",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQXzFQRTJ5TjVneE5xalJhRGhaM1luV3NWQWNIVDBrMmd3dDhQQTZiM0VPWDltMG5xSWJ2dkpNcFBLeFRzNnNNc3VWMUdIOUxQNEw2MHExeWN6QXlSRUJDRGk0QU12VFZTLUh6LURSc3Y0OVc1Q3dNdzRmTTJ0THdkZTlUTFlDVW1WNFVoVWFIenZkMU82b29ScTM5X0VLY3VsNEg5UHFXU1RLWnB0NThYZjU3SmE0ZkRHYUFmcWdyZkZHS3c5WWZybTZGSFZlX2tsaHBGVS1na0x1OF9oYnBBcnJ1QXJnU3E2ajFXVGtkX2J1UnI5UkVaNjI3LTZfSzhhSGEzZW4xUkwxcU1ZNnN5Z25icVktVzVMRzZ1d3FNdi1yd2pGUXhzMzBwQ2pwWk1lTndGQlVnQzE4Q24xcm5FSW5DQ3JKbWNwcnRhcnZKZVREbHBaZDBwVGVPNEx5ZjFBRTZOV3R3TUE2TU5yX0tYU2tPY1BBdTVoVmdSbEpjMWFrbDlWVTdV?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOc2FVQUIzdkxfYS1qa1hlQVFFbjBMZnBPZUVsS1llUDhPbnkzNHNvOWt4dlVWSG5JWFlNem9JcjRLRmE3VjFWeDBzMkNzM1VoQjdWMFk1ME5wQm01dllPdjVlMmt3U0lTNHlYaWlMWjBoTVhYTVgyS1VoQnJfUy1GbEo5RHhrTFJVeXAtbV93WGtZbW1OU0RwOE41NG1FQWpKTDlKTUNJUFV1SFRIN3JKek5PVUdpcDROcnBvREFob2x1OU04VWhnM3ZDYkc2Q1NEVURWOWRrOWZ4eFBlQ3FUV2ZNdG1IT2ZfMml5dTBodFhWMVppMWsyb0pBOHNvdlhnUmo3NnVtMDZveU9nUzdNeUZYc2JJMUZrbXFSQ0RhaXhPcEZfQXlr?oc=5"
     },
     {
-      "title": "美債保衛戰｜沃什抗通脹姿態安撫債市情緒 全球債券反彈",
-      "source": "hk01.com",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPb0FtOHJsZlJzXzl5SlhvSklSbzBRNEJrLW5UaVhvQkFWU0VtQTlpZ3pJVVJVckcwR3VGcU5FVUxpN1hKUnRhdkZ2am4zZEp4SnpmUm5MdS1mRF8zODdxWW9DVGpmbGtqbWEwR05DNFRqOG5TVlI3RGtQUTlQcG04WlZYek13UGRNUDRLRXJQS0d1VWc4QUtoUm91Y2d1alJYU29zeklndUJPSlBXSXpmcXh4UW5lemJ5YmozQ1pHNjJwSGd0eERmOUk4X0JTSEVHd3p4ZU5oSTRVb2FZbW1XQTZtUTA1c3dXOWJ6eXVfbnFwN19jYTZtUm5oUWVnaXhtcVJTLV8xLUg1VGRZd0g0N1NoOHFSdWlCWWpRV3ZBc1lfSFpacVdYUTk3aFBBbFRzMndLRklnb0xrV2FRWFMyR1lLdnAzZTlkajZBdVJjRWlTajJHbU5oYmY0MzJ5N0dDLTF6SzREc19IUjJYNEdBeEpsT0tYb3oyWkk3akFDR19udGwyVTNBOGRCclRWRi1NTG0wX25PbVM?oc=5"
+      "title": "美股早盤／油價跌、Fed升息隔天股債齊揚 費半噴逾3％",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WZTZycy16X0NyUVNkY3lqMDhtcF90MDBWR2hqdFRqQm1aZFpySkJidjZ6eHhSbkZNcmxxLXJDNEVzV1hZa09mRFFkWG1lNVFG?oc=5"
     },
     {
-      "title": "聯儲局「預防式」重啟加息！中金：加一次夠唔夠？",
+      "title": "北水撤退？甩賣4大科技股9.3億！阿里慘遭提款 MINIMAX逆市暴升|香港經濟日報",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQS2kwcEdyVHNYQWx3ZVpBUWVmY2h4Zmg4a3dQb3dxSkxqbHZRV3U5NHJ4QV9Qd01QYUJ5Mm1aZHBLZ2o3N2tPcmdqWXc3T0R1RHg5M3BrbUhRSW9raXZmQVpkSVdkN19QZTlDNzl2bGFWYlR6YUExQUlCVWtFazhlQTRjWlk5SkVOeVc2dTRaNGhmMzVVMDQtMGM2bkxzWUNMbk9hUHlDSmRKMFNMcDByX3Bpdng1ajBZRmxFRlo0WG9zSmRTRTV3TUpmaVg4NDU0ME1zRmhjMzdHU1h2ODVlNWxBZ1hLMzVqZ1RTaXlqNTgtS09waUk3VVF2TGZlTE1XeXBGTWtIX1NWbnRmSXlid1RGRk1xUkw2Sk5ybkMtdEhicEtfeV94VU1xRjYtaHBFSGFKSnFNeXV5VW9xby03OFFGM0diQVZtVG9Cc1pIQmtHRi1RNkZJQm01bEFKVnpxd3p6RmFHYUZtNUk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEVBbkl5ZkEwRkVFOUJRbmdQa3JsM2tnRk4zZHNON2czUkRBT3VxcjhHaVFGenZadXBEY2lLNWhZc0RfYzlmVWdKOFZNU05Jc0U3bm9SRkw3RGdPMkI1YnBVTlVDUjQ5aEZXcVNtNko5bWlvTVlxdzdIUDhicmR1M05ldzNvcFFH?oc=5"
+    },
+    {
+      "title": "美股動向｜聯儲局加息25點子後三大期指回升，SpaceX及Candel異動受關注",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFoyNnVuTkYzMGxhT1Mzdk4xQzVMWFZzLXNBM3lPVEhVbzFrYWxXQlZGQWNINnpmZG9BSGppMmQxTTVCbldMUi1XZnBubUpnMEx1bEJMbGVxZTVFTEVGYmxfVTZtTi14ZDdzclFwcnRJM2ZuVE1MNlJrd1ZQb2oxc2N1WHgxRGJ3V3FidlkyNTZpd3ZNcnY1WEtiUU9oRVM1?oc=5"
     }
   ],
   "events": {
