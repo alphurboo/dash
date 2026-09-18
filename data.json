@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-18 11:15:18",
+  "updated_at": "2026-09-18 20:15:19",
   "gas": {
     "current_label": "9月18日 (現行油價)",
     "current_price": "180.9",
     "predict_label": "9月19日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "182.9",
+    "trend": "↑ 明日預測升 2.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
+    {
+      "title": "王文濤與歐盟專員談稀土 十月會晤",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTVNTVzNjT3JnWk9JVlNwVEVNTzYyQ1pzZl91QzdXb2otSEZPbzVuLWhEWUZ4MURYV2E2UnJZdWpzNHRMQVBlNkdOVy16TkZrbnFfXzFJeUtTTmZKdXlhQXFlUEhZWWg1b1FJT1pRUTRZVnFibWp0ckxYU3dWWnZGbVBXRllnQXVBNWZqX3VqZGdpdnF1MHl0Q3lSSGNPX3RncVpjcVNxdG9xMk1YQVpfZVdMS0hRMVpLTENfeGtvbi03dVJ1aHNwWWQyRXhZY2diMnQ3eW5pNXFvWnNDN3pWZkM0bXpvNENNd1kxUWNUY0o0a0hUUzY1Yl94RDNoMTFLODhYN21YZF9iMkUzS1ZUVDFSVnU1UVExZ0pGVg?oc=5"
+    },
+    {
+      "title": "國泰航空再於年度Skytrax大獎榮膺全球最佳航空公司三甲兼奪全球最佳機艙服務員及最佳頭等貴賓室殊榮",
+      "source": "Cathay Pacific",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNQ3NWckVJZTB3S2FMd3RsMkl5c3ZFNFQ2bm5SUi1fOWRIUllUZFR3SEFBRUxNaWlBV3ZLZ1pZSThFV2tLTjhnRU42WF9QQk9hYlZ2WlV3R0VUSnQtX3BvR28zUFlYeE8wOXVNNVlnc0dlb1BwVlFmUU5BeHVqV2RRYW80Wms3VFdzdmZCSHpLczNKUnlpTUVVZFUtMGVQUEViQzZ6QkZqUUNrU2RFc0F0T0dnSzdaYlI4OFR3NndsTnotNGh4YVBRNTVnSy1ZSDBlM2trRkFvR3B0Vk54RTVZVmJFX1JEd20tMUVFc21UWXJmcldUTV9ydlA5WlMyX2lvc0todlBWVVM1enpxRHdTejNCalc0Z2JGT3VQcEdwOVRwWGI3VUNvNXdCTHFGZDNsZERiNHZhbnB4c0R6cXBIUUFObzktbnctQ1lYVXhHaGpabURiYkdBeFc0b2xic3ZkdXV0eWQwX0Vtbm9NdF9UNTVUTHJ1YVVublMxXw?oc=5"
+    },
+    {
+      "title": "美國8月份製造業產值出人意料出現今年以來首次萎縮",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOclJrRnZrS21XUjNlSTlUWGlGQWtpWUJFZldsdVVCcU0wTHl5bTNkc1lCNG5qMmVPakxRempuc1J0Zy1fajVCZEU4Z29fQU00VUxLdmRiRGpzU2xQY01hN2J5MjJRTnJSdjhYa25FZU0tU1J0UmNyTzNHRUNaOWlpMHlSbFBrd1VTNnF4Mi1iWml3MG1iYVRvLUdRdGl5MGtfVWlmXzFwYzd1TVc0aVBoa0dsLWxZcDNSQ2RwbE5sckhEZmx5QU5IYy1PNlZlVTVLUWx4YXU5dFVIX1RyNWlITFFTYjBRZFNJSzBBenBYQ1VQTS1KYndpZ1hOci1EU2FRNGw3dm1CTkVtc2dvLTJ5Q0xHMVBRdjBmRnA4UVJhSEI2MkdCTDdqVVE1MzUyMk9kX29wSElfdmxxZ0JyaGlHcXRQeVN5eXFmckRQU0g1Y2FwTFRFVXlJblIwLUJQRVhiZFB0VS1PcTFIMVZpSHhrdkpjQQ?oc=5"
+    },
+    {
+      "title": "新聞 - 新聞及刊物 - 馬會知多少",
+      "source": "corporate.hkjc.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzZacXBxeTBWNEoxSkdmUHhoRnFhSVh1OVVQNzJKOXBvdnVteS1MMnZON3l1czZZWFVEUHZHOVBRQ29DZzBmWFhERkJVSEpVcEI5TGs0TERJazlpM1hEWWpCdjBOY2tRRkU2MENoakRNWmhoajV4bTlPZUFSUzJ0M0pybHEzNXF1OUNQb1lzODFzcUpvZ2FRN212Zmc?oc=5"
+    },
+    {
+      "title": "歐盟望中國自願限制混動汽車出口 中方堅決反對",
+      "source": "on.cc東網",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUpaaVhhaUJ6S1JwNXhObHlLRkxTamlZNmlDdl8zbkdRb0JnNFgzSlNhckpQdW9OOURCTld4anAzcVFjMEJxeUtRRWJPYlhqRExFNnlhWFVDd2pQQUc2eW81OWxQc203Tk9HeTJ1bzd6TUIyTWI3SXplT05fUU92cjlLT1paYnlMbEgyWm9KTQ?oc=5"
+    },
     {
       "title": "美國據報將推遲針對產能過剩問題的關稅措施，直至特習會後",
       "source": "RFI",
       "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNU3pWdzRCbTRqc3hZVFFPYUxwcUtnUWU3Q3dNSEtnWGxRTDZreEdjSzlyQjhOOFdGQkd0eGVYdVc5MjhQcS1YaXNwaUhPZXk5OEJ3ZndxVzd5dGF6NzNlM09JOGJtTTdLTlExUFhyZGNKYlNmbjNrRTRFeGlMRDBZa2JPMnVQNDFXajNieDVTTkdNb2d4WS1uTTVtNEVkSWpQQXI3akhLbXZ0aFlZejZjdEQ3S0cxam1NcDZoWWZ1cUlxdm1tVUh4aWNJWHdaeU9Fb0J3WnhtM1hXa1lJblhXaUN1RGVaMlhMYVJnOHczWW9tc3R0VDFNZWNXR0doMVZNN09EWExMQzgtdldLRkVxZXJqV0xtUHNnQjJtOWl0ckowRU0yN0JhWDBIU2dRZ255RUZ3aFpFVlpvbm1mS2c1bkxRWjVLMUY4R2pXUWV2aTh0MVBBX1h4SzEtV3Vkbi1LbFY1TUR6bU9VVjUzVFRhbFo0dl9DX2xNU3dtSjNsM3lpUlZjUEQtSFZkeWczVEVXcUhNRm9iTkNqbkVheUdpaDlGbw?oc=5"
     },
     {
-      "title": "用中國模型｜美國政府網站曾使用阿里千問AI模型提供搜尋服務 被發現後火速下架",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNY1JUaTRFcDZLZ2Z0bXlXRmxpWG04bGVON3pQYlo4Y2dBWUxBbVBCd3pXaEp4aXdDbnF5WUhNM0k2Znh6WGhSUWhLeGpBN3pYLU5aSG5weE1WQ0xlVWVwaWlja3hzcnVxbkRVNUVGZzlYT3I3WWY1am9TVy0xWTNKLWx2NUlVanc3UURxRjhpRS1lQ2NxOWNyd1ZUckFoVmhXaXBRRGlyUGpGV25CRVAyWkdFQU5SMFBGMnhPbmJWWTlmV0M0Q0ZQRDV4Zm42c0NmeDc2ZWxTS3pwN2JGT3JNN3EyZXNzRmxMSGJBd2I0Qkt2SWZFcGFYTVJEQkNidHhmUy0yZ1gweXVHVXNMZDBoSHgyR2JJMlRkU0V6NE1jaUUzTWhLa0Z4WnFDWDZqV0VvbW55aFRHNzZjQ09wOW9SbnJONWV3X2xKajlJVmFQdTQ2Rk1xbGFKNEFpWDYzMWJOQkY4T2JLbTByUVZNR1hBQmU4ekF1QWJ0TERvZWllYnVXYW12a0p3RmMzWXcwTGdzSW85YzdDcHptejJLM3Rnd0RSQVM2czZBV2MtMzBmM1U5RFlDbTlmMXFGYkU1QUZsMWxoN2JnME1ZNFgwZ3BZNl93NDQyQzVmSGtUVXRDYVJUMmVQMEhtRTlxRFk5UEYtTkRBYUdiYnNqM0k?oc=5"
-    },
-    {
-      "title": "習近平訪美前瞻：當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rTXlTMVpuOV9US3BubVBHQS1RZ0M2bDZsMGZ3RXllT2c4SHI3WGlrRG1TTXhBX0VfZnJNRlR1dGEtNFJCWnB3VlVfYzdLTnVfX0JSakM0VERJWkV1U0FJX1FEN1R1b0HSAWxBVV95cUxPRWNsZWozaGpQNmxGTDQ0NW1PdGxQYjdNV05BOWZzTGl2LVpjd0lQb1AxWHdNMUpjbjRGcHlvY0szY2xERk9HbGNkMy0zeUlOT1FRV211Wk5fUUE2aUxuSk9DWUZWMlZMNjM3X3o?oc=5"
-    },
-    {
-      "title": "台海戰爭澳洲不缺席？前總理斷言「美國肯定輸」：澳洲將承受後果",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90RzluNW9fOFZLLUdEWEhCbFV5NnpZMTVEdXg5RGNhdUZPQm5GRjBRa1JSNWh4TFRMVF9sbTgtSHZoUFR3cnhjdWtLUHpNNlMw0gFWQVVfeXFMTl9NWUZZcE1ZY2NhTUNYeHhjLUZ4Y24zUXE3eXAxbFNnSS1XRDRRdVlUMk1qLUFBTnV5aDNvRUVHVE1nUzNkUlB5dmE5eWQtTmplRUNEVVE?oc=5"
-    },
-    {
-      "title": "在2026年「Gran Turismo全球系列賽」第3回合：新加坡「優勝者預測」活動中，獲得最多2,000,000遊戲內貨幣！",
-      "source": "gran-turismo.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xZHhYajUtREtvTjVjMVIyZGlEMGQtZmM2NmxuRTdmbHRkT1hPLTVMMUoyUEFEcko4QjdIS3dSMTdPam94R05KZ013NU5Od1h6OVZybnRzeGhxQXU2UTNxblRR?oc=5"
-    },
-    {
-      "title": "高市早苗與特朗普擬周二在美會晤 旨協調對華政策等議題",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNMWhYcTJrcHdfRnlTaEwzMFVac2drMEFlOHl3ODVxRFBvMUpkejE4SmZ4SHZtOFp4VV9LclJiOTF0MjVsT1k3eXg4MEF2djFJUW1ORFdhbTQyUTV3WTFZTGhzaXBRb3FlYWhqWFpNOW9vYl91NVduQjNaWHpXNktfS05qM1JlTW0tM0c0R2NLQ09lTF9EODcyV1RDd25sb3RkMVdVX0lIRVI5MWVaMXg4b2hRTTBXOFZFZVI2WDN5YjE0VHk2VFNUU1ZNMEhqT3MzMDNBV0tsLXBjSk5QcFB0bVVjWERYNDFxa0NhMm96YzVDbW55cnl0OFhrUG51RUlwbjVFVlJqN0RYeDhwZkNaRWdpMk9JVWZQM18zQWMwSGpXN1lWNUktcGdaS1JHYThLTEQ5c0FrM1dTWGFkTy1JNEplT1hPMUV3ekctSktNbjNaV0pkT1lLWG10MGd0Y1dKZDVvTXZza1pWR01mSXp4ZzNYUWRNV011YUtnU0VfZ3hiWlh3T1J2ZzhPemw?oc=5"
-    },
-    {
-      "title": "在2026年「Gran Turismo全球系列賽」第3回合：新加坡「觀眾贈獎」活動中，獲得兩輛特殊賽車！",
-      "source": "gran-turismo.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXS2NGWnYzSnA5U3JfSThEV0Z0MnpQNTN4Z2JRZTY3Zmd4a19vZ210bmY3T3REQVd3ZDRnWHFIUGkwRUN3UDBZMlhmU1dkV0RkWDBLclFWWklKRnNkTk5QZzRn?oc=5"
+      "title": "俄擴大禁止歐盟人員入境名單 回應歐方制裁",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQQ2w1UklBSy1PTFJDaTNWRnFxdzhKTW9CYUVqQ0czTHAzUm5zcGJQZzRkLWhGTzMxN0JRLUZjcGJlYjJ4cDNhc2RFYURZcndOc1hfZk83aE03dnluTVJSaHNxZVBiSTBCRTd6ZmR0RUpMZ00za3JUbVZvQ1otVnp4RnVVWWF0YVR3NnhINXp6d3pHTzNmb2xwYUp5SFUxQ2xOQkVQQjVqQXZIanE4TVZ0Z2t2VUpiTzJBZ3RWTVZhYl9zQXlUNEU3b3NpTlo5RXpxX3gxRF9rcjlfYzlFWmdKQlVKZVdKN1ZZWm5UN0I1dG43SVY2YVBDNDhsVnVtTjdvMEFxTDUtVVZPU2Jydm05NThTSElNSVVwem5TUUFCVldpdHd3VVlfUmdwSzdjNG5zOURqdjhsel9HN0tvVnYzZmtkQkJLT0E?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美債5%回報不吸引！專家稱「毫不猶豫選擇黃金」 小幅度加息難改通脹前景",
+      "title": "美股初段變動不大",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IcWtLc285SFMtOUZzYzNqS2hsVGZ3VlhZSm1jQ01idEhEdC1FMEVvUkozbDBtXzRXb3drOXU0TXFnVjNKUnpvWUlPeC1lTW1XM0ZDclZMd1h1cVBVWnUyNXBMZ0g5X2F3bEd5RmRZMA?oc=5"
+    },
+    {
+      "title": "拆解聯儲局議息影響|香港經濟日報",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNRG14UU9yY2pSUWt5VFlvT0ZnYzRTU1ZpZVVjRzF1bmpRblBzNXl6Rl9aVEpjUFdmNTFSOHF0dXVzeHVNU1NXM29hYURyZ3BLN0ZEZkJKc0dwU2hwYjQ0dTRrWDVfSHM5ZHZiYjMySE0tTlFPMnZtUGktc21ENVFZc0ZIRE9VR2xTSE4xTUdha21ibVpDaWNaRHpFejZUR1pZRWRWZ3NMd1RqZ3BZd21iZlQwMFlVTkxTa3B2T25NZGd3WjJMUktKTjhSbm5sSjBSb0xiSHZ6SkVXbWpHOFE4NjhoNlR4RDltVkhONV9sc2tsMm1iXzltZG5lY2xVYTViQ1lwOEVhNGs2U0diVkJvU09JeTFtQzR2SXJNZ2RKNWRyaFZ1dC1pS2Z3MkgwSFJfOWRiZnc0WnJYaGhYXzlDNFF0VU84bGh1S1lBNkpvdzlRWndINlE3Qkp1a2xPMjYzV0R2cFRoTjV2R2oyby1WRi1TcXFEOW53NXZSeEJWdUNvSUI1cGkyV2dFaEtSeFhKS2pXVDN6Z25paXpobFlCMi1Ic0wwSDhEd0FUbWxYZzJRcjI1bmZjbHNDMFp2a3dLaWVQT1lUb0QzZUdvVFFENEFYZVhRTkhaQzZNLXpKU18?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUjgzLXIxNFBfaUl5Z2FLXzV0eS1ITi1Ha3d5NEFFTjJiamlkUVJveWVZUzJVWkgtSXc0SVRuWFNGWEJYaDlMSGRVOWlkUTdVTGlWMWs2MHJoZjgybHlUYmJEUkI3WnFUNzZ2VHBKbGpRSDVVX0JnTzFvclZXMnhTaHhwN2xhOHFlRlo0a0d2YkRLZXV1N3E5R3lRa2FMbGg4dVZxQmZOc3EtSElTVk96eGQxQUQtSFFOTFNQa3Rn?oc=5"
     },
     {
-      "title": "美國債券收益率走軟抵消了偏鷹派的美聯儲和看漲的美元，黃金試探4400美元",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUW9JMUJSWVhXR0pYOEN4M0JJSlQ3ODhKUVcwTXNicGR2QlNRajdEa2xZNlZhRFBISm1lWmhkYjVobklMMkIxVngyOF9MNVBxZUpIZ2xvcnI2a0RFRDRKZi1hRWNya24yWGxVVUY2SXh3UUVvOElqRFJ1anJqc0NINjhSWnUtWU5ReWtYOWpHUmR4anoxeW1hS1RRaFJYaHJTWWJwbTZ6Y21IaW1YMjdlZnpyRVItdkpiQVJRZ0hmR0llV1pnNmxKOUtJSHhzRU5DN09TbkFuTVE1OS1QYmlNMkNPOEZOd0FqNWZXaWsxenpOcnpjV1Y2Q3hyaU4xNGhzQlUxRl8tQdIBjAJBVV95cUxOb2VuQU5VWEFJWF9QZXhMTnpVWGtoV3RuXy05V2VxVDJFWDZtOVB1TUJPZWJEbi1CZ291SDFsaEItTFIzY2huUlgxUjRCaHNNOGFnVmVZTHpaN3hxQWVrcE54YXFjY0pCTEZmNXhQNFlaS3hZelNfQTVIZ2RIWXA5RHJsWDZWamdoem9EVmc1OVMyNy1FUTB6SWJlRFIzUTYtMzBRbkliOTFEbUg3WVEyVHRvXzMzY0JuaWM1eHBzT0hHdDlielZFSTc0bjlYUld1T0doZjJTUDlWVmZhSlE4c2RyRVFRd3NaY1F1M21aSXJOTENwbDNWX2NGem1OQUtkRi15Z0k0YkU3a3Rz?oc=5"
+      "title": "美股「四巫日」4大指數僅費半漲1.2%！晟碟飆5％突破1700美元、台指期夜盤站穩47K",
+      "source": "Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMEJ0N29ycURCNDQ2bHNOUl9fNUpCMmpzU2pPQmw4ZlM0WjF5QkRmVVA2Y253amhDRnNNN1FxYUtOcURvbkhlWnUzX1R3YXBBNkc0M2FrR1FFZTFHM3BHeF91R1o1NU9sblh6VnBzams4UlRSemo1WV82N1k1dWhFRVh6NWNIZGh3NWFBVXpQb3BtdzFsQmpkemFYeFJjSkJlNzdrRGtocWs4NE14OE9SaV9jc1ZzamtldFZBTDVDeTRJVE5PZW9XWGVOSUx1RUFsQVJkZk5DTW1MVVVQX3Y1SUZpTDlzQkZtLWRMM2JFUUZMUEY3bFE4U0laTWRwcDI4bkRkZFRlQnlSSVNYWXZ1SVBTSlF1R29EcUE?oc=5"
     },
     {
-      "title": "沃德通闖關納斯達克 挑戰重重",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZkdYWFFwZExxb1FCazkzOVhHRVA0UmQ0SEdlcU1iNGRwUmIyRVBONUp3RDloOEdkQnZ5bWt5R2VzZDdHdnk5OWxjUllGVU9Uc1ZxLWNVSTFJYVR2NFd4U3djeWhfWnBCWEhFU19jd0RiVW5aMEh1Z0JyZEM3ZXJLR1VTN2NQMWs3OTRyVHQxUmlQb1hNd080UFctektqZElFTkRqU2tfRmVtNU4tOU1MTmlsOWdoNG9xODl6TGZHRWFWNU5hZFdtVGpYR1Nib05vdGpRLXg4dVVNdnpyVk55dXNOQ21CT2ZxbUJ6bHgxMlQxRzhtNzV0QjZCYw?oc=5"
+      "title": "代幣化股票 SEC開綠燈！美股全天候交易快要實現",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UNUpVNXduLTVRVkxrUzJESmZSekhteGtOTnBUeHBJa0d5bk9hVERFU1h0VTB5V1I1WVZmN2p3YXV0QldwUlk4UlpDdC1ZdlZQ0gFWQVVfeXFMTWJ6cXhFWjJfYmdVQ3QtY213ZC1iYWx1WnF3cjdXSUF3VWw5ck9GTXZ1eVlIZEY0dnZ6QUxPZkFqdFduR0w4Ql90bC14eS1LVlUybUtPVnc?oc=5"
     },
     {
-      "title": "聯儲局不顧特朗普反對宣布加息 抑制通脹恐揭開美股震盪序幕",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNUkpDYzRxLVduQlREY1RGNFFXQ2djYU96dXBHT1NJYnAtTjM2Q0dLcENXLWpNZWw4Nm5vNHJNWmFKQm01cktBbjlsSC1YVGNMdDlmSmk0N0ZSelF5X1Q2SGxOSlNOZmtTSFR0V2NLYmxleWRtaEkwS3ZsdHRUSW8xOVJfWjZLRmtvZEJrRGpEXzNTNGJTYkoxeVRrWnROSV92aDUzRnZSVjZjVW5wZGp6bFFzMUt6TGtkLXlJN0NiLXI2d1VrMkZqcENIaWVxVUFRVnBPQm9ybGNIMjBfbmlFbmVTOWNiVGJzb1dDWUNpMG9DNUJHQnVLMlphRy1ycVBGd2FuY2pYd3VUcG9tSF9UOW9fS3Z5c0pVMFFzbjZjVE5ObFE1a1llMGktT24tWUZUaHVzZjV5XzQ2UmMxTmk4YjY4UkQybE9adlFkdEJMM1MyRG1BUXVodjNMUHkzN1RqY09kbkh0ZExTMklWRHhrM21XZk5SSzdRMGEwME5vS2tpU2FuUzlsY2ljMFRWUk5LcGVsOUVUaGQ2TlVkbmxJZXNyNHdKUElLX0dNaWFFUXpWN2dldjRJNjE5bw?oc=5"
-    },
-    {
-      "title": "加息、油價、中美會談同時來襲，港美股下一步怎麼走？",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmI3eF91bjgxM29ZNy1TNm44RzA0SzVMbTBnVGpkaVFwVzBUTThKaGFpb09RZ01KQ2hEOTk4MG5BUlpWRlYzQ0FhbUhsMGU5b3NIcVVaS29nRVBJX2czQ0kzT1VYMnp3MWktTjZHYk1GOW9VWFkyY1M2TUR3ZTVIZmlEQmMxZGhCMTBZQ3pCQzJMMGlnTmhJMXpfendlVE1JWWc4SFJpdzlGazI5?oc=5"
-    },
-    {
-      "title": "多元資產策略｜在科技股回調、板塊輪動下 如何分散投資組合風險？ 公司動向特約專輯 - 專題",
+      "title": "美股走勢丨美債息升穿5厘 道指跌逾200點",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQSkVYM3lLSV92RUJDMlVhOVZfVWRrbUloOUtoTnhJaGVsV1BBbHBrSk1wWFY1S1RGM3paOUIxTWZOZG5GcTFieExNUU9fUlN6SXA0eTlZcjlqV1RxbWpJZGt2VUFzQjl2R3h1LXlmM2ZVeWpjeExuelZBemF4Q2otSVJZdFlMOFBqLWVXbFAxSnJmcVV6WTY3RzFmNTJPLW5ONnJrYWx6WGoxZFA4dUVlcUQ0MnRVUGxYYmQ2Rnp3dDVBZHczVHZBSXRnemxLNzM0SmI1NDZXaEVXOERQeG90Z2ZfUk9Id1c5RFg4UUZOVGJxTENNSFR3RzB0MWJDeFBJYmk3Rl9BaHdSNTI1YnRGRkJBYkxUM1czdGtvQk9CZmo2Y3FnNlgyUTJmWHF0VmhUbDJ0TFdua3ptUVpNdGZSRDJXVWtPdGJLS1pxQVdBQnVBMkxxVjlEUnRzU0RuRjdaa2l0enFoQjlXUUJOMWVtdlIzUkJyaURWSGNzeXRobDVSYmJ4c19HbUloTk96Szl3S1pTaWF6MUV0ZENJMWc1ZWNsTENyUmZiTVEtMWhOWGs5TENNSVJpVGxPUFRZNlREdnNuUDBkZEJnYlphd2hnZTlBU2k1MTVMaDlJb3QtV0doZTJKVlV5dC1tOGNJNDI2cGZLQXpONHVhcjBSbDNNV3BKVWhxMUZoS3hTa0ViTlNrUHlGeXhEX0Fia19ZNl9WZFZLaVBkb2U?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOWlhwY2hfc1JrWE9BVW50RDlPUmJ6SEs2SENvMEJ3OFRvWWNlY1Y2eEVkUk1DaFd4RzVFSHlySFJla0tjV2sxZzU3bkE5QXR1a1pPSl9yZkhZQ3VlRlpvN3E3MFRoaGRhUHJlTldyOVE3Q2xOdzRUU3BsNkxOMTVTaDFXQ19SS2tGVTFtTks4ZXZoQzRSOVFIMW5XdlhpVjRzUjdIMnY0WVQzTHUyT1BmUzdaWHQza2thVVVlSkxMcUUzNUotLVgzUVBFTzB2SXgtRGhCbllMYTJLM21aTEpFZEJ6YjgxRUVBdGliaFFLdDgxaWhmRTFBbDNKZ2xnckk3SDhSRFNnZXp4T25hMVR6bTFodm9ERnJFOVFWZEQ3aDJ5OU4zNnBhTA?oc=5"
+    },
+    {
+      "title": "美股三大股指由升轉跌 道指挫逾200點",
+      "source": "on.cc東網",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkQtS0xmd1pHN1dWaXhyMFZvaGplZzFfVFlCZFhWbEo4SmhPMkw3YUNMekZJbWVXZlFlaGw5MERGdHN1MFNtVU9hbXlzYjhXMU80ZERLaGc0UFNtVV9POWtxMjB0WmxWV0tpeUhSbHpqMjl2V29VQW5JMTYweEhBRW9HampHaklKbmphZ18xTQ?oc=5"
     }
   ],
   "events": {
