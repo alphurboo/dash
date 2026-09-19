@@ -1,101 +1,92 @@
 {
-  "updated_at": "2026-09-18 22:08:36",
+  "updated_at": "2026-09-19 11:15:21",
   "gas": {
-    "current_label": "9月18日 (現行油價)",
+    "current_label": "9月19日 (現行油價)",
     "current_price": "182.9",
-    "predict_label": "9月19日 (明日預測)",
-    "predict_price": "182.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "9月20日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "俄羅斯大幅擴充禁止入俄歐盟人員名單 稱回應歐盟之前制裁措施",
-      "source": "news.rthk.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ycVR5blNhWUFvMy15WHRtSnFBQmVuLXE1ZGpzYzJqV0dTUHF3S1JycGFWUlRpSGlVSU53UmYxU25yTExsTUFmSUpmR3JMXzE3MDlNVnlyNnpHaGdwaDhDOG9yRXd0RkJUeGM5ektVUQ?oc=5"
+      "title": "白宮公布習近平下周訪美行程 特朗普：成千上萬的人都想參加這場國宴",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOYUdDWUdYaXdiUjh1ZFBBMGRTRDY5VnpEZ1oteFpHc2pjTzBNcGJkNlZSa0xQbTZNaXVUSkp4bDVjNHNCNGQ1VUZncFVUU19jM2JWZkphdVR3U1ZqNXdFTzVXWGZxTjVsR3BYRTkxb1FXbHlFMGs5amFNazR0aUdfRFJnS19YRVRYbkhYWjRZZU5rNER2QzNOTGxWQ3ZLT05jYlNxbzZHR2lfOE5VcHZrejQ4SHN3Z1Q0a0pJLWRRTDM4b24yWVpLM3BmV0VGaFQwQUNsMnNiR3hRWlBPZjhEMDcyVVpzVGVTUzJFeHF1RGMzbjBjbDhTZnZ1V3BQblA5aXMtZ0lGMTk5ZmVEWGc3YTR5bXpDdmtNajRlZ0RDdzF3TzNPVmtyRXJxOUthdkRIRkRJQlpVMnBtekpqdWRJdjNZNlpPQ2xaWlBCOGdqYk5VaFkxeVRMdklRNm1ENTdiTFJiQkkxT09wNnF1VTVvWFI4NHR0azBtLV9QYlhmbUhNdk9UWWdrUGtXemY5SUlGQTBBd2U0dVVWODZFWC1jS0x1MlFQRnByZVM1VG5HcG5YMmduMkY2VGh3RUFVN3Joam9NWEQyX3RQQQ?oc=5"
     },
     {
-      "title": "美AI監管議題掀白宮內鬥財長等官員主張加強監管與黃仁勳等科企巨頭打對台- 國際",
-      "source": "wenweipo.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwNXlxWDc4MzNvMm13U2JKSzNkSU0yWktGM0tSTk1EWWxUY1ZqR1ZTVjBjTUZOSUNsSS1EWDlPRjFrQ2NnVWw2OFpfc0R2VG5fTThWaWVQNFBJdlNzZUJfdlRMR1c0SkhCYzRNOE9vYzRZNFc5Qlkw?oc=5"
+      "title": "美國丹麥達成協議 格陵蘭軍事控制權易手?",
+      "source": "dw.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNN2VkWXFodHZqYU1wZ2hTZGtWWXZPQmhqa2xUNmxIOW9tZE5kSmNIenl2MlkzcGxNYXE2TWtUZEQwSVF4X2I2RHY2Mm1yNURpS3dXRjhxUm5CQ0pLdjBJbWFIa3FTSU5PYldOQTZXMmJGRXNQZzAxTFhOOGZDV29IMV82Vi1yVU54LWQ0cDBrZ0RiRURWdkt1RDVDNDhMb24xdG9KUmp2RmlUN0tlN0V5cTFhanVVRnE3TXVHNG9SM005eWoxMDN1YW0zT1NjUmFlcGlXV0ZYR3duRkFTdmNnZFBpLUJpMjV6T0otbGVxcFlZRjdsTjVQRXdHSmtfbDg4dnRCQWM4N1c2N2Z4c1dpU2RRTzQyTTBqRHJaZ0RDa2FBUjRaMS1UetIBqAJBVV95cUxONDhoQjBQa0lvRWZMWEdRc25LX0pGYXZweks0WGxQZHlGSUthZFB5QWZfT0cyU0s4NXMwSVFsTDR6YXRpQzU2dVZCRC1HOGRYMjFrS1FrSmM2ZVUybzBRa0lEamxzd1hMSTVmTml0UWVRQjVwcVAtNURBZy10dUxkRG0wWUtkUnp2TnF5dGpoNHhlSmxuTmpZVWh0NFNLbUxLaFZqdGx5eHdEY3l4cTlvTDZMVmlsckJHYmp0Q0pPMEhSWS1sOGc1N2Rwb0hraENRR1RGWm1RNlJsQ3RYRnpxeDhsMjEyNWVBcTl5b1laN1VCaDZGRDBKZkM0Zm9XcGs1ekZBUXBpd3Q3b0prOW40NGpWY3ZoR3BBSlRsMy1USUFnUmdLcGViYw?oc=5"
     },
     {
-      "title": "美國汽車業遊說團體要特朗普封堵中國汽車在美國生產",
-      "source": "rfi.fr",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQWUpEdG9UMUJqQ3dILWp0d010Mm5rT3lOeWtnUmc3LV9GdmNGSEdDUzZQbzh6M0lPNVR1RHNqYnE4bnl5TjlObVRUdWIxTHpSUkc1bzhCa2J3U1J2M2UzZFREaC1oQzVhOVI4VS1kblI2dGZ0ZmJ0eE5LZE1qR25OZVlzWm5QeHZrWEoydlZwSzRzdk5DbUxNRDJTNzVBQXRLUnZIVFJJak42UHE2SGprckdjc0poYmVQN2N2Y0xLaGRmdndHMmdjbDd0dG1hSlJsTlV3TXltRVdzTHc2VkhNTkI2UGctQkh3TzFjaUNZQV9OUmM1YVQxRWxyZFNNOGVFazVmY2d3dmoydHFtNDVTMmNLWEdld1l6LWw2Mm9aSEc3RlMtNl9oV3ZpQmFCMXJSdHo1bzlpYThiM1JCcGhQUEM5U20wOVZ6Q2dCV25zaWdwTnV4RDdEOW50RVlpT3dsaWd3dTAwSS1ZY3pEQzY3Mmx5aFZEME8yWUdYNEd1NA?oc=5"
+      "title": "特朗普再禁三家美媒進入白宮",
+      "source": "Hkcna.Hk",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wV0FqSHZBTllUUmduMTZlanNSMF9ZRzR2bEprRThVY1VNN3VHMllXLXYxSmdGZGkxNXo3V0tYemVtLWxYVlBhbFhoLVNBZU9EZnlIZktSRTZTR25lVXZYX1RfWTBNRjhDWmFaOEJPSmw?oc=5"
     },
     {
-      "title": "特朗普禁3間傳媒入白宮採訪　指他們不斷報道假新聞",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ENHh5VUdtTUNCaVlacjlQcmhqQkZ0MVhlX0JETnBoNFBlaTM0cTJoTDJybXdCVzhjSERGOE5lWm1jbzhWRzg4WVRlQU4tWm9Kc21lME1zbDRSXzZBZUHSAWNBVV95cUxNV216cGRual90Tmk2RENOWXlScmhuX1REZFhjeS1WV1pVaDNuSEJDcl9KYjZDa0M1ZTc0QTc3ci03SG1sMFNHc0F6c3RUZl9NQ1JkVDhyQXZvZGVNSlI2QThySnM?oc=5"
+      "title": "特朗普禁CNN等三間傳媒進入白宮 引發新聞自由爭議",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RZFhrTGhHbXMyb3czM3lTbzRaTmZKdnVoeHJHVVRHZnJCWXUzTVRzbWo1blZZZXlfYWJBNW5OUHJmeXdYMEQydk9ENGJYNGlzSXUxZkpxRkhjTnBxLU8xWWhBTFo0RVBPUDZ6Wg?oc=5"
     },
     {
-      "title": "美國10年期國債收益率重回5%，全球緊縮浪潮推動上漲",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVnJ3MjU2UEI4d1Z1VGdZWVM0eTROdDV0QU1WUFB4NnBUZVcyZFdZVGQ5T1V5STlHS29ZU1FHUkRmeklZRHVHQVc0aTdMaHhjVGJTazlCOGlvVDY2ZUFhNmxlSkc1Z2w1MWpXYUN5WnpTLUN4aFQ2NV8wcWpqX3hqOTZSVWx1QV9nc0FpWW5yb2xWOHRGSWpqOUZPakpVZzRDZmZybWwxMkNEdGFaRXZBR1ZYU3ZrZ2FYdElJQlVZR2lWQ3pXNWc2ckdnNWRWQkpiUDE2ZnBR0gHbAUFVX3lxTE5kZDgzRi10bWwyTjM2VWhNemNLVmNuTGc2R3ZkY0gxaV90LTF2REpDUXB3Skx4aHZmdWZFZTRTczZIcGdqaGhldFV4Q0JwT2FTQTJ1VENiQjZaS3ZHamhHN3JXcTQ4TWczcUJ1dkhoVjROdzlTd1VZd2RKeGF1SG5ZcFBUNEE0ZnNaRVVGZVZXdDAzaWFVU0loLVVCUU9jb1N0UFRkZV92YXlDOEZzVGg1eFM3ODhvelc1Sjk5ZnhpdThSc3hjVE5Ub3ZFd242WVZCVDZfa3oydXVZTQ?oc=5"
+      "title": "習近平訪美：特朗普將赴機場迎接，待遇比肩教宗和赫魯曉夫：回顧兩國外交禮賓細節",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xa0xrelJrMlJ3Mjcwekx0QkN1ZzdaX0hIRlBxYThnUHNDUXcydTNnV0NQMUFrbi1PSmJIT2V5Z1E3RDBOR0ZaT1pHbUU5Y0JFTzd4ZDh3d2huM19RVUpxMjR6TGt3Uk3SAWxBVV95cUxNQ3NTRmR5Ukt3RDNYc0JaNmFWZ3A3QVlTZXdUdGVFQUM5LVl0MHRaVlN6Y21rUDFBSF9YQzJKQlVETEc0V1lidFY0bmVZclgxelI5S29CRHFmQnhiMXVZWmxRb3c4amJMVWZ5Skc?oc=5"
     },
     {
-      "title": "聯合國專家：美國或在伊朗犯下戰爭罪- 國際",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GWkw5aGRqVU81Z0hqWGR5V0l2OEttQkVwWFl1Sl9ZazFOM3M5TEw1dmJGZ0piSnYxQzFGcm10c3NGZHc0eUJmSGM4N2NFS3hzNG9YUncyaXM4OGliLUZXZzJEVWtJLVBVSUlLWm9rdm5TUHJF?oc=5"
+      "title": "特朗普禁CNN等三家媒體進白宮 斥持續散播「假新聞」 (17:13) - 20260919 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNcWU4ZzdsNW5KaHNzVTBRNWhYZXlFdWZXeEhVUWxpek9SYkliOWtxWXctRUxPbU43QzZqQ1lPR1AtRGdsR2c0Y21McVRZZk0yVmdhQ0V2blRHa0hneXZBVWpkNFJKZ0xNYlNVTnVwbW94RFpjVUxjbXNBTnlaWU1tR002cG0wRVlsLTV1SGRGNjJaMXc1ZnhUZy1rc25CSDJVSkVBMDBONHZPR29lWTZ3WG5TcThPSzczV2x0aW8yUWQzelZtSzNvYlZ5NHBFWldPUGl2SFFWWVhYVUhGeG03dmVNY1d0eFNIUjlmeGdzX0RTLXAyRFJyWEE2MTUybVcwRzNsc3M1ZW5YN0w4c0l0T1FaMnlxQ0hvenlfaXF1bVVQWlN2eVhmSllDTGktUVJjWm02dl8zV0VLdGtWY0Nob0N2djhyRVNyaTk2VHAyUVhtbW55Smd3N3NvQ0FqMU1LM1ZpZ2RzTHg1aEJERFpJUnVIYi1aMXVOeEtfQ19ZMmRNUFBQOXV1SXNoZGxueVQwLXUxRlNhSGYydHlC?oc=5"
     },
     {
-      "title": "「持續報導假新聞」川普禁CNN等媒體進白宮：還有更多",
-      "source": "worldjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yUHdiUzJnX1llVXdXdmhkN1ZRN1hDaVp0NmN1UmJoTDJpRC1ydkgyeF9pc1p6NEoxbGVJb01DSEVqQmQ2VFZaMmZhTUY0R2F5Ny14c0h2clNnQmc3dEpnT01n0gFnQVVfeXFMTnVBc1pxX3BSUkEyeS1NbHlrSFlfeHdBM1hBVjJ5eGRON2NTZDZWVmVYS2I2YUxqajh1MVk0N1A2VHVjRk12cjl4WUhKWXQxTmpzN253Q1hBYlBNS0pfY05IZVdRMjVSdw?oc=5"
+      "title": "美國升級對俄制裁：可對中印等俄能源進口國徵收最高100%關稅",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPZjRuMjhFUEswSjlDRFhJZGdZa1ZfQzhONFRlZWFVaTVNc1FvbDVjbUdkaTctM3lQQUlmZ2ZZRUhGZThQLUhNcjdmaUpSMXZmNWNCR2JGaERGUWdXUTYybmxOaWd4NGdYRUd6bFRNZEo4SkEwSWxIamNZNzY2UWE1NjFIcnRpa3dpc3dpam1GbFhfN2NqOUJJd0VNajVRQmdqa21hbmF4LXJfQTlSaHAta05VRDFHR0QtaWZmQzlmbmdPM25OT0NjemthVEZNOU84QkNLTEtwS1lsN3BwNGpKRHhNYXdubW1jUUJNb2ZzOTRrTTB6QVhaaTRuZUktOENaUlhmQVBiRGN3a0xwdV9YRXpiV2R5VzVVWFJtNTdZTHZ0aXpWcHFYNk1VblV6WjhEcjhOdlRueVZsN2JZbWtNOGxDSUNsX2NJcDhjZWZUY0VHdmRHbHl1Tm1LWkRHRzNIOEhiTHRpLTlpSGQtenRrWFNHdTFFQUh4VGpiQVlJSjFvaFVsaVo3aUpzcHlicHZBUEE?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "全球央行調控通膨 美股漲跌互見",
-      "source": "money.udn.com",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DOXdvaG02SzBGRzRHaXI3V2pOUy1YMzEwaFNOQnE3ZnJQVmt4dndaSUFiQjlKRFZJNDdaUV9Hank2NjVtYUhzc1Rpa2E2VWJvWFI3bGhVX3ptVnFM0gFiQVVfeXFMT0hNcTZiVWJjUmJEcWUzRUVtMkRiSjcwUXRraDFhWFFxRHh1NXVia2JRdko4eXVySFFjRWVBOV9kcnkwaDNPS01oem5uemdxNDR0TENzdHBBQURCV3JjUTY0MlE?oc=5"
+      "title": "聯儲局突然宣佈升息! 🇺🇸美股🇲🇾馬股會崩嗎?｜FED Hikes Rates! Will US & Malaysian Stocks Crash?",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3pkSTZ5RTduVlRncWlRSlJvZGdoN244amZQR3JURTFLb0gyRUoyVUVYVW8yLWZfT1MzMmNmdUdUeDJ0bTBCaS1lUU1qQzFseHJjdWpkZ1hLZnZmUG04ckFIM2pkd3dXLXVheFNTQ3FySk9KTmdLbS1nLV9nek8tSTFUZmpRSTFUTHFjNll1bHFZM2RDRXowZVpNRXFKZ3p4emROcDhjLS12MEJmX0h5ZDRfNFBLNlU?oc=5"
     },
     {
-      "title": "美股收評：華爾街遭遇「三重壓力」！道指創3月以來最差一週，貝萊德又陷監管風波",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Lc1RVVFRoWkNLUEN4WEk4MGpHMVNmYXBFQ2VPQTNOb3Bybk5Oa1BwZURobjRNRGNESTVNQXhERFN3NUl3OHBCWXJncjI0UmVDUlgzTm5DZlM3cWZOTGlfdnpZeE0?oc=5"
+      "title": "7兆美元期權到期 美股遇「四巫日」資金解封",
+      "source": "Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZ2x0eTFkemt4aUhWNGJYa2RFRS01WkJ0c2N0OHNPdU5MaDJGaHRmd1dWWDdXSUNQejJHNV80X0t2dDVORmRxZnlMUm16N25IdVZodlUyckVCcXVRTDJiSzNSS1VjOGVQNHl5ai1LcU9fQTA3R190enU4eDVZVEJHYV9OSWM4OHFwcnV4UVJYb3JVb1FPUHBCT0xTU2R3UEVuWWtDR1pneXBBYVJsbS14Z2NhQWI4d0htLXlTTG1MeHpFamx2b3l0Ymk1cnBOMDhoOHJPcFphWW1OMWdkVzg4RTR2aVF6Rlh1WjdhNWZYaDJxemg2ZlVtZTVBWFZYYnlOQi1MQmsySFNXS0pDTFBMcDdLZ2tFZms0NjU4ZEN0LXlaQjZE?oc=5"
+    },
+    {
+      "title": "美股三大指數個別發展 晶片股帶動納指升0.4% (16:18) - 20260919 - 即時財經新聞",
+      "source": "明報財經網",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOTGR2T2U1QWQ0NGEwRXF5NUJHcjhNaUI5ZW1jNDhVUkt2cnRXallQWWNFSVlRUFpTVll6cFB4LWQ2QzRCZTBBZWNMcElFN1NWaFNldkVLMUpWbXhDYVI2SWU5eEQ5S2luUDUwSjF4cFJiM0dCR05SbHNJNzlrVVZnRFJldkY2cW8teUtkWjYwdUR6RkhDOUFHR3RFV3N5OXc5Y1hiSTdCdGF2MkJaMUNEWUdCcms0bXVaaW85UHFJZUNVOUtHbDlZRDZEdk1STkJCTTAyYndTWmI3aHYtZGhLdTJ3TDkzRkh2NXhEaTdLRUlqN3oxNE90VmtIdXp1aGdzdVdKSjk1SnFYVks2ai1sUU5WREp6VE5GdllCMkJJMktiZzAtYk9BMTRZdkJqeUtIOHNlNWlwaGtkRWNCb3pDdno0T2U0U2J1RW01amlsYw?oc=5"
+    },
+    {
+      "title": "晶片股連四漲撐住美股 下周川習會、油價與殖利率考驗漲勢",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11N2hnVGJPb1E3UjE5MkRGNkxmdTRRaFVxRHpyVDJ2NmtyTDNUQjdFQUdVaU5MMExLUzBnbWd4aE0tTGNnMlRlbFNJSExFMm9MU1ctSlhrQjdCdTB3MHdvNHFB0gFnQVVfeXFMT1RtY2wxQWEyd25WUkxLM0RMUUZJYTRBdDk0VTRTNDR5V1pGTkR3N0hmY3Q3UFBoX3VCa2tESGtDTVIyNHZTR2VzY1dyZVRnUDhrb0lVakVGWTRneXBsNjZyZEVnRk0xNA?oc=5"
     },
     {
       "title": "美股走勢丨納指收市漲0.39% 比特幣升穿8.1萬美元",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPd2daMGs2UTNzaW5KTXdSY2ctX0lUdWZVaEo1OXZ1SE16Qm5SUDNsQlFiYkR4WGRJeWxLZGJwckc2LXNNYzJoaGx6QmprN0lCSjdTc0VjZ256c1BNQWRNdGRGSk9YSjRUbGZ6YUEtZVRZT1Z3VDlJekY0RjN0TW9sSUJsd1ptQS0yZU5mRzB5TGZEYVdYcXhmN3ZsYWluRmpRQTEwTzJZd2ZkV0t4M3h3bUZkUm9ZZWZGb3FubERhN1Y0TEJONmpQekkwRzM0bnZhS1JLVVBqTzl2R0tPcXF0bm5VM09WZFdmR2tSaEYxeHcxQW55RW9jZTJmM2RNV2FRQWllTHp5aG83c19RTmp2bjdSQjAtRU1BUjhJallpLVo0VFpBSW5yMEN6RVNCV2MxbGlMcXh6VXU0YnNoLV92bjNndG83dw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84TTBfd1FvR2FWMlhFSmtwLVZueUE4alJlNTdhdm1vSVlJMWpySWkxa0xWajdySWxOc1lreFBpMFlHT0VZNmRXZ1hNVFpwaEJsSzJHdXF0N3BZaFBtNnhZ?oc=5"
     },
     {
-      "title": "拆解聯儲局議息影響|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUjgzLXIxNFBfaUl5Z2FLXzV0eS1ITi1Ha3d5NEFFTjJiamlkUVJveWVZUzJVWkgtSXc0SVRuWFNGWEJYaDlMSGRVOWlkUTdVTGlWMWs2MHJoZjgybHlUYmJEUkI3WnFUNzZ2VHBKbGpRSDVVX0JnTzFvclZXMnhTaHhwN2xhOHFlRlo0a0d2YkRLZXV1N3E5R3lRa2FMbGg4dVZxQmZOc3EtSElTVk96eGQxQUQtSFFOTFNQa3Rn?oc=5"
-    },
-    {
-      "title": "美國債收益率在5%關口波動 或引發連鎖反應",
-      "source": "大纪元",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJMm5JNWptWTFkWVNmTVRIVWwxSTdlay1Na3hxazNXcnkzTWZfZk1ZY1NWSlBRZVdQQ0FNdW1kTTJGLXNrU1EwMmR4cTNTMEhiM0RZbHRVa1BmUEFIUmdaZtIBZkFVX3lxTFAwbFY2bW81T01jNmZmYW9Sak9XQ3BSSmZLbEJOUnRkTVV5LUtUX2p6YXZUR3liWnJWRUZEdmJfc2gydkEwclllYXlfRXJfa05WQTBBRUVGRGV2V25XcFpmY0xLdXpQdw?oc=5"
-    },
-    {
-      "title": "大行報告 | 摩通上調美債年末息率預測，10年期料升至5.05%",
-      "source": "etnet.com.hk",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQnAwN2pqZkdacVBTY18wUjZlNWdFdU5qRHBaQ1lkMzRwQWZJMTFwUnNxWThXaDZUMlIxZTFzZ3dzRVBPVGlLaHo3SU5KM0c4UThRdkx1UHg0N05vQkVBRXM5WGNkTlUzeGRicWpiZ0YySEtZLUg5YnRuNFBxejVzTGxvUWdIVGVBTFpuMVQ5enlEN3MySGRmSzFZV2R4YTJy?oc=5"
+      "title": "美股指數調整下週一生效：Bloom Energy(BE.US)與Everpure(P.US)等獲納入標普500，中小型股亦有變動作者智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GOUxsd0VicXB0VFZZXzhIdWo5V0VXOS0zSFY0N2RzUEgwZmNUeHNXbkZnZW1xeUNtaHltVHlFdGZob2ZRenY4TjM1MkVra0hRVGMtd3lmTlIxNXo3SHhOTTVNeUJMLUxDZFlScnhPU0E?oc=5"
     }
   ],
   "events": {
-    "macro": [
-      {
-        "title": "美股「四巫日」(Quad Witching)",
-        "date": "2026-09-18",
-        "days_left": 0,
-        "status_badge": "今日",
-        "tag": "🧙‍♂️ 四巫日",
-        "desc": "季結指數/股票期權期貨集中結算轉倉"
-      }
-    ],
+    "macro": [],
     "stocks": [
       {
         "ticker": "XIU.TO",
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
-        "days_left": 11,
-        "status_badge": "11 日後",
+        "days_left": 10,
+        "status_badge": "10 日後",
         "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
       },
       {
@@ -103,8 +94,8 @@
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 12,
-        "status_badge": "12 日後",
+        "days_left": 11,
+        "status_badge": "11 日後",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
