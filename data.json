@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-19 20:15:18",
+  "updated_at": "2026-09-19 22:07:56",
   "gas": {
     "current_label": "9月19日 (現行油價)",
-    "current_price": "182.9",
+    "current_price": "183.9",
     "predict_label": "9月20日 (明日預測)",
     "predict_price": "183.9",
-    "trend": "↑ 明日預測升 1.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
@@ -15,14 +15,24 @@
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNaVQ1bDVKMkJwUFlNdzZyNkZ0dW9yYlV6STUzTV9mTU5ITExQRVh6UjVibFFXb3ZhNF9FOFVWdnhiY2REOWc1LWQxY09GMURfM1ZrNnpGeFVhSmdPWUlDQ3dKbnkwd29fS29fanJNMHp6V3pkdktneFNfRjgzak1KMzV4Yk44SV8tdG41dlE5S3hFZEw1d1g4ekVBTWJVd09OVFFpTGhEcldMdTFNUDg0YnljNVdjUUdMdXU5NXdLMG0wQk8tdFIza25XbTYtS2UzczRKNGVqZnZISXdHbVBwcnVtdkRmNXBHSmFfSmt2Tmk3bHlRQUJYdFdEbWhYNFZaYWd2QkIyZUc1N1o0WkMxclBwSmlqM0c2UGd5WDVBOTR4TGNnbW96M2JQWS1vNnVjUzdlbi1VbWxsOHNpV2syMy04NVJSZTk4SEFETllCOGR0QQ?oc=5"
     },
     {
-      "title": "AI捏造情報 美軍險在中東攔截中國船",
-      "source": "dw.com",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbi1IUHp1Z1NRZVMwU1FfTlh5UGhQZUhPX21LcWNnanFzcG9LMU14TzJfY0FnYmJUZm9vSGoxUXVGWDFUNTAyQkl4VDBkdE5ZREIyWGc2WTBXLURYQXd0U3pBS1Z5NzVTeDBmLUtJbnIwSWFNNjVzLW0yb3Zha1hseHB3NXNMeS1XUXUtNFhGcmZDbmVlaENOQm5jSHFzNmV1OHlMUDF2VS1TeEU5Nk1ST0hvSE53X216amkyX1p4aUt0aVctUmRBdjVoaXdONThJd0o1ZHVKeW1ZbU1rbklpTFB0SDgzTkpESUJ4OVk5cTZkR1EwVEs1eEFjVdIB-wFBVV95cUxPbi1IUHp1Z1NRZVMwU1FfTlh5UGhQZUhPX21LcWNnanFzcG9LMU14TzJfY0FnYmJUZm9vSGoxUXVGWDFUNTAyQkl4VDBkdE5ZREIyWGc2WTBXLURYQXd0U3pBS1Z5NzVTeDBmLUtJbnIwSWFNNjVzLW0yb3Zha1hseHB3NXNMeS1XUXUtNFhGcmZDbmVlaENOQm5jSHFzNmV1OHlMUDF2VS1TeEU5Nk1ST0hvSE53X216amkyX1p4aUt0aVctUmRBdjVoaXdONThJd0o1ZHVKeW1ZbU1rbklpTFB0SDgzTkpESUJ4OVk5cTZkR1EwVEs1eEFjVQ?oc=5"
+      "title": "特朗普再禁3家美媒進白宮- 國際",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CNDdQUzl6MkZOYW4yRkI0VzJMdThyUC1SdG9ySXJvWXhEUUVvLTZxVld5aWYzVm9SY0IwNU51V0laNGJOQk5RaklYMXI2cFZhRFJTV3hVc2pMeVJOQkQ2Z3J1Q0RUemJEVlZGd1U0Qmt4YU8t?oc=5"
     },
     {
-      "title": "習近平訪美：特朗普將赴機場迎接，待遇比肩教宗和赫魯曉夫：回顧兩國外交禮賓細節",
-      "source": "bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xa0xrelJrMlJ3Mjcwekx0QkN1ZzdaX0hIRlBxYThnUHNDUXcydTNnV0NQMUFrbi1PSmJIT2V5Z1E3RDBOR0ZaT1pHbUU5Y0JFTzd4ZDh3d2huM19RVUpxMjR6TGt3Uk3SAWxBVV95cUxNQ3NTRmR5Ukt3RDNYc0JaNmFWZ3A3QVlTZXdUdGVFQUM5LVl0MHRaVlN6Y21rUDFBSF9YQzJKQlVETEc0V1lidFY0bmVZclgxelI5S29CRHFmQnhiMXVZWmxRb3c4amJMVWZ5Skc?oc=5"
+      "title": "上海至美國東海岸貨櫃船運價升至4年來高點",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVYyVi11ZDRTclpJUEV5VXpURVlUVlZ0aGVvN2t3eHN1Y2JXcWFFTlFMcFNTSzdqZlpYYjFRSWpZMkE1Mlhmb2Q5V1VERFpqZjNTWEJBVW1hdkE5N3FNNEtsOWtoM3k2UTJDM3JaVlR2ZkJTLTRJYzZfTmJtX21WcHQ4d3V3OWk2RkE1cQ?oc=5"
+    },
+    {
+      "title": "意甲｜國際米蘭連續3場落後兩球不敗 作客2：2賽和羅馬",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOZDNIczcwaVMyUnlNamFEUWVTNlhha3N0VUJCOXBuQnczYXpoLXdGRkR4a212bXl1Rm1VZnRsRmpkeTIzSnUyVWFnNXlSMmtkMGFyTURvVG1pcHAtZ1dMemxkREYxVEZUOEF3XzVXS0hPMmFxQ3psamYySlA1dDRMcUlCMjl0eDgzTU1oVXpSUE53ZWdVWEJJMklKNDhpeVVlWVNRaVl0TDk0Wl8zWjItRW0wa2JOWllVbXhtcXhIejhRMjdhUlhEdHEzUzJ4X2ZrOXdOeWxOVFZUSXppa04yWnlsT19WamVlZHM2eWhGRDF3OG1kVVhJWDNaNTNXdkJWVlBWWEdLNmQ4NzZPZnlobHJRZ284ZE5vYnJCZWJUUGhzWktFU3NkNm1oSnFxUFY1WGxaOFlITTM0eFByQ3lRcVhoeXVfYXJlTm1lRzZJZlhfNmpkcDJwX1lqc0V5NWc?oc=5"
+    },
+    {
+      "title": "全球各地生活面貌 透過照片呈現日常瞬間",
+      "source": "bastillepost.com",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ1NXU0lFUDJSdmU3Z0RPWnlqS2tQOTM1ZlROWTA2MThLa21yZlZQcGFJcWZnMjRoNEl6UDJ3bzdtNEpvMVcxRmtqbkRTUTdtdGd3Z25VTmRnVzBaVGVDY0lMbDRXWjdrSE9oRGg3dlQxeWF4ZDRWS2pKRlRfSjRfbDFhbjdkUjBhMVBDa3hMUXhGNjBLUzdtRXpEMms4S28ybURkS1pNemUzUVFUWWJad1BhbzBQazNqYXAwbG9ERXFKdkJGS0RCSnVKUXVDQWc4d3hHc003NUtxTmxaeUo0OWNBdGxFamppeS0tSmJnYkJLbzdwVWpuS1oxVXNZN1Z6OTg5bFNsYjJUYzhvX3B6S0VVaUVYMTJRU2twMHZ0ajljYUVPMzBTRmlxaGVHUDFHSFFzeVpyeHJFTkY5NTdJ?oc=5"
     },
     {
       "title": "伊朗稱是否退出《核不擴散條約》取決於美國舉動",
@@ -30,26 +40,16 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43NENNaXpFdG50X1hFYlJZRnplUkZ0RWhZTUpBRkI1am5aUjh1bUpydjhydkVQVmJzeXlSMVMtd0xVYWRWWXFBa2wybi1QUXdKa2FXRmhrZGpqOWdCVFJiLVhfUdIBY0FVX3lxTE43NENNaXpFdG50X1hFYlJZRnplUkZ0RWhZTUpBRkI1am5aUjh1bUpydjhydkVQVmJzeXlSMVMtd0xVYWRWWXFBa2wybi1QUXdKa2FXRmhrZGpqOWdCVFJiLVhfUQ?oc=5"
     },
     {
-      "title": "丹麥稱協議不損主權 特朗普指美國將永久掌控格陵蘭安全",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNc0RHTkVGRmNKcnJFX0NqWWZBZlZmekhlNGZRTFNHNHVwWEZPSGRuNUw5V3FQbmIyMGZkQnItdTRXOGNaeksybTAzc2JhRWRxc1ZCMmdYdjJtMHlSLVdTM0I5SzBhY1MyaThnV1dZUWx0VWZ3N2hjYjhJZGI4OXlFdV9MM1A5WWZGMmViTXVnMUQzOGV4blBFaWlIZlNheUowOFhUVThuQ2dvWXhyQ0luQ2FTTEJ4b0FKRU00WEZqaEx3cloxbTBodDMwdElmd0RCejhnZzdtLVgyM2JEcFFDbXlRd1lwbmpBYTRhSnlkZTdDOUhqdk5SUFFrWldFM1d6ZHotYzZqY0toZ1lfSEFxOXBJNmdiTHpOc294QXFvSmhkbGxlNVp0eFJlUG9MTjBIaXprV0ZzN0RiNUd2N0ZrRkNMS2NFQkREV0hpcU5hQ01BM2pfYUZpRTJfU21Nb3M2YUhBOWFFZmxjVWxkaXFNNG5nS1ZTdUVpcFI2R3g3NXpwMFNVNEVubnVwaw?oc=5"
-    },
-    {
-      "title": "白宮落實封殺令 CNN、MS NOW與Politico記者遭拒絕入場並被沒收證件",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNLWVsejdmbEcyNDFQRkoyakZfbm84N1pxV01LbEgzMW1PcmQtbEVlcHFiRjVoTHpEVmdGS0pMMER5elBJSk5ldDdXbnh6U2dOaGFwV2ZiWGZrWERwZjhHbVlYZUN6UWl1SlhBeUdvb1hPMHFOVEpJQk80T2RuRlNBMXNNdS1JNEpqbmlBRVlabTJSU0Y3VERrUGJOUzF4cE9UMEV5eEVhdGNFVW45ZVQ2ZkowYWRPeG5PN3pCVzBEUjRXVmRmQVlqNXlYTWlHakZ6cjc3VlcyV1FqNVlPdHZpdzVDdXZmSm5RRjdzT0ZiQ1ZVZk9fWVRmaGpTNV9GcGJkS2hiWEkycFpWV0gzNVNnWHRoWnZZMEpkamp0UTdocmRKcE9PZmExQUZmNHVSTUdoWlVVTWh1TERJZ1RVZ2ZRNmtDSzVNSi1POVNyRWNYRldBcFBRem81YUdmQ1lCSjRzb0FOSEt4andqQlVTQWtpYm1LNDc?oc=5"
-    },
-    {
-      "title": "中國持有美國國債降至2008年以來最低水平 真實規模難確切掌握",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQelR2clFOX3NqTnFINFRWRjBTQWt3YzVtaUlMR01GaTdMSlR4ajJrTTdoNlZKS2VTTTc2RjJZQXFmN0FhZl9heTIxSU9sZkdUd1RBT3YweWl2WjVOQUVsN2x1Q3BraGFfRzBraU42eTBoa3hfT2xSV0ZXZnFmV3gxaW9Mel9FeHBiOXlZOXhoOUdELWdGbjJmTHV6WlJMYks5YmlrYzVESEVCbzhUV253TTdDV0hhN0ZMVmctLXo5Y0xFUDhMWTR6LUNZYWVFalZkQl90RnROYW12ZmhiR29LTkkxNEx3RDdRdmE5SHlmb3FLeVJJcXhxQUxrazRjbG5GLTJyakl3dFhKR3BreWJqZHY1SXI5eGMwNXNna3lhNVhwWFBnM3ZmTTNSU0JaMnpXdjMyRC1fbXZVbE5uVkROWGQ4THRlS1c5bmlBRmNfbDlFT0lQdjk5bXF0S2ktUk1JYm0yckJyRzRqcjhncjBLUlptVWNkc0RfQWRac1YzSW4xN1J2U2d3a3hkU0VmbUFKZ2ZZaC12VUxtU1A3Nnc?oc=5"
+      "title": "圖輯｜國際中秋綵燈匯",
+      "source": "集誌社",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzdMVUVZWVVMSnRuRFZsX1lWdEx2bm5TYl83RjJhNU5rZ2RYYnEyWl85aU52MGZmTDhnWmxZVnVzWVBJdGprM1BONDUwQnJpOE5LelpabXZwSkdSZjhxbWI2dGZjRmp5RjNBZTM5Smk0d29BU1c2Mmszb2o1a1lNOFhfR2RwTUZHYm9penZfRWRXQThUSFRGUzNTaG92dHdKTTNvdEJDZkZwRTExWkN4dEdUZU1mWGV1RzFZ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美債息高見5厘無懼違約風險",
+      "title": "美債息高見5厘 林本利：銀債派得少非壞事 無懼美違約風險 「爆煲美國人最傷」",
       "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbml0Zy1McGdkZ2RyNDBzSlF2a1hWN3ZlNUw2Q0Z3S3hudjZnZHJBM2tNbkpEOEtacjFDUVkyVnJRLVNwbkZiWGhEREN2YkU4Nmt1S3hubTMtdThOTXlQdjJhSThndktfVndPNGE5UVRTTzlZWnhPYnVqTTVxUVBxbXcxNTRsZkdtNTJFQUMtN29hOVZfVjluaW9OMW55anNWOUJNcnZkVE83dUV3N0xZQXVZclFDcGRnTndzZHNJMXhjY3Jla2d4WndlcU52NGdzVzZrZnhwMlVXOWk3eGwzZm9WNGhvdVcxNkZLSUtFbw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQQXc2ZERZQXNJcF9nZ3liMjJEYlpFY3FvUWFRXzlFZlhDbGhEQmpnQlhNTUwtUzVqLUExRmc4eTJNbG5JTG55MUF5aG45dHZtTkdfMXNWMVhOT283V2pCY2M2SkRuRU04TDJrMXFXUDlCWk4wRnpKVnZ3ZmNmNUxXamdFUl9KSTJpd3UxbTN5aXdZVF9JMzk5bldFSkpLMVFubDk4ci1PSmJRNDJVV2x5UkdsQlJ2WGNJR3pwRXhTTGtucnFZVE5wOFlMNmVBZmtRQk5FcVBpZlhCRENtQUNsYVZJWnZpdzR0ejBnZTJtR1VYOXRQWFFtd0JBaUFuT2tiOEhObDI4ZHltSU14aHlDd2NyR0NiNTJNRlBpOURxbkdkZ2FsS09lLU5RUUktb0xheFlCTlo0U3ltVVlmYkZvUHFpeWhybEgzaERGZnlmTU5ObDhoQV85NU9VbnNyRHg0LXNRQWNCclhqdWdHb2pDZlhwRFpLNFY2eTYtZmUwNlY2NHY2ODlBYVo0aUd4YXlibk1rdUVYZW5pMExXNUY1SFZYN3pCTmpSXzR4bU9FcHN5elVoMHh6Z2h5ck1Da2hQcC1NSnBjamVJYm9hdkRtSVN2OA?oc=5"
     },
     {
       "title": "SpaceX在納斯達克100指數的權重將於季度再平衡後躍升至2.82% 作者 Investing.com - Investing.com 香港",
@@ -57,24 +57,24 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvaXdEV01NMUlhX25XQjIxNVdkTmd5dHQySU5aaEdxQ3c0NkZEaVF3SkxwRGhwcU5hMUZCSVpxU04yV2g2QW5fYUMxeVp3MkJnWDl0TFFZRjlPT3VaMlpZZ2hpZXh1Rmg3ZUcxeW8wQ3c?oc=5"
     },
     {
-      "title": "市場脈搏——9月14日至18日當週",
+      "title": "Invesco標普低波動率ETF將於2026年9月21日除權除息，1股派股息0.14243USD",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXdrSENxTmFBVV9ITXFxTWNzX1lNUWZTVGlkS3h1anR5S1ptZlAyY1NYOXgydFIwWVBYSHpLWlJjbjZhZFpfX0ROQVBxU0V1OF8zMURtOGxCdEtDNFNjTGJ0dE5CeXQ0Uk4zLUdEX0tsVGJnalkyNmM5djZsbHg1YXBDWi10cGxuNjI4dmg1MzQ3SmFwU2dUMWR0Q0xOQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNXTDczaXpFanB5SW1ocXFlNVNOYjY2UGNhTU1yWVZKZHlGQzdkMm1lSmRwUE5ibDBEMDdMOHJsSmI2VHhDLXk4TVBGcF9WWno5X2dGRnBpR1dRM1hYb0c1MFBXOUFyc0pSZHpXeUVMZ3Z4UDZBaGVIdEhQcC1TMFRjc181R2dzMHpiY2lSbFdQbWdI?oc=5"
     },
     {
-      "title": "美晶片股連四紅 本周 Fed 官員談話及川習會牽動盤勢",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fd0hqN2N0TUVGblA2RzhOS0tKMzM4UVpGQ1VwRmNIYXE1MHNzenFmSlJGeTNoVG1BMnptazZUN3kwdHR2b1ZYcHRZYjdia3FLUW5lNkJvQTZEemlx0gFiQVVfeXFMTTNxdDBNdHN2enY4UTVCTlVrQjZfUlRFaTdLaFhIQ2R3NzNzVVFKeFBXRjFJakZKMzB5TWkySkVPeF85VzhiVGxQUmZ0WmhNWkRRRVV4elYzczhwT2J1VkF5UWc?oc=5"
+      "title": "日圓升值引發美債拋售潮？央行︰勿誇大疑慮",
+      "source": "自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45RGJ2RXExZG0zSC1VT0ZtRzRESmtJdGQ1dzVaeTRuaV8xZGczbVRxTE5ZaDdNZkhVMWYtLUVrOC1wX1RaUzdKS3lhcXFPMjFQWGhGNWpn0gFbQVVfeXFMTW9iNGFZMzJFXzlRQkhlM0FFN2RzVVAxV01qX090dS05WEFQSU9WSWF2czZUbW85ZW54eGlIZk1ETG5wZ1BPSmFDOUZkVzA4S0VmejBWQTN3bkc3SQ?oc=5"
+    },
+    {
+      "title": "17%財息兼收好過做定存！香港電訊(06823)抗加息神器|香港經濟日報",
+      "source": "invest.hket.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYlZKUi10dlNtQzRVc1JIc3dHRjhzazlTS2dlM0NXWkllV1NTcnljMEJSNkJuQTUxaXJrS2dKbVZuRC1acUstX0VmMFp4eExmYlRrUXJpeTEyTFV3TVNaOEpvY0MyeGQ1NzdUa2RoaHJVQmd6MVF2by0wcmR5bE16amtySHRsT3IyUnMzNEg4UlFBQQ?oc=5"
     },
     {
       "title": "SpaceX在納斯達克100指數的權重升至2.82%",
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mY3FOU3pDU0JrNlBsY2VnTk51d1p6VXJlMUhQLVFmZEFTeFJLdFdYanVCZTZsN1o3TE85RWh3U1VydWoxdU16d1JMT0ItZzJhenA5MzVEdlRwaWFJTEIzbTNwNUtDTTR1S3c?oc=5"
-    },
-    {
-      "title": "10年美債息揚升 道指挫95點",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS293SUx3WHZqeld2bFYtNGVBUHB5dThnbjBUMHRYS29EbjZJdmVqeXBQMjlic0UwVlozT1ppdURXMExqQ1pxS2cxMF9odG5UQlJieFp6NXZHZVVxdjVXVGQ0dmNlbndRZkZUU1lRZFFvam5xMXN6ZjVYd1hBamdMUF80Tk5Ic1JQdjMyTUs5NmlxelFmdFB3UWM5Z2J1Y2RhU3hfRzU1NFVncEtsM2dUVEpIQ2xUajdnbjdzSkZFYTI1ZGNaU2tjSVU5eXRfb0R5UG1LWUR5QjF6d3Vt?oc=5"
     }
   ],
   "events": {
