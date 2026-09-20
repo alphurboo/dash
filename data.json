@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-20 11:15:18",
+  "updated_at": "2026-09-20 20:15:17",
   "gas": {
     "current_label": "9月20日 (現行油價)",
     "current_price": "183.9",
     "predict_label": "9月21日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "183.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "沙特已退出中國主導的多邊央行數字貨幣跨境支付網絡“貨幣橋”",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNTkV0cHZNdTJMUGpGek5jT2poR0tjYm9PRkt4c0k0ekVoYkNnYXJwbFJUSGI1RlJ0cmxveFA1VVZTZFRSR3ZHN00yd0VPUldkNFpsdDBzdzl3LTNuRG1pRHJ6WWIyZXo4T1h0bjI5d1pya0RzQThlamRVWXYyY2N3MFZ6WDdPenpfTkFBRV8xRkhuX2V0OGNIWGlac3NvSUhtQk5oS1pfd0lGMi1aV1JjSVplQnRBdExRUDNYcWpvWGM4aTRlaDlRcGllb3RCdzhzS0tTTlFCcUlhV1l0bmpKQmpHVGdiQnROQ0RYcHJIS0phR1k3ZWt0QVFqOHhnNG1LSXJ6eHR3d1NEODZ2dklYTmN4dkItTllCcVdKNUhDaGFUNzJKTzhZVXhmOVFxdVlpck5YTDJ1ZC1lWWYzVnU4M2NIa2VwRzQ1X2FrMVhVdTlQREhKcG5JQ3NJOV9tVFRYVFFyR05WSlA3Nm5ycUxyM3pwXzNDaW1pOEQ2cGJ4eWVsRHk1UjRfUkxYazRxcEh5bW1Ub0h6NWFneUhSaVBEVVRuZU4?oc=5"
+      "title": "白宮豪門夜宴背後殺局",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEtIX2pUX1MxVnIzSmJaY0Y1amsySTdRcUlmYkhoV2ZsN0gwM2R0cld5V1VUa0Z2Y1BVcmNTY1FwMS1jbWctdENJNndyMmNIWnY2dGNXNWJpZG93QjZNMWhOM2xpaXlVTkNCNVByUXNZWUxra2NXWlMzN3lEUGVCblowbnRMNy1HZzdBZ3pIR2wycktweHZKRDNaak5TWWltdG9YdDNkX2VJNm1LcGhlUUlKU1k2T082WWF3S1ltbDFUSm45clpSMC1kVk1qVEI4c3FuU3pCdVhkdVVSbWo4MF9B?oc=5"
     },
     {
-      "title": "特朗普提前結束大衛營周末行程返回白宮",
+      "title": "特朗普：胡塞武裝同意不與美交戰 美媒：美軍不會發動進攻性打擊",
+      "source": "hk01.com",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQcXd4dk12aVZDakRjN1h0dXJ3TjlldmRmakZ4S3FwR09OSWVsWlMxbXUtek9tVVRZYWlXdk1KdDl6LVRIOU0yZDRoZE5HVUFTN1RjTk1xVy0tZmpLdG9velNtRVJHSUpXTHh6R1oxTk1YTFVhX0tqQmhwSTRYb3RuWGxBUG5wUzdNYmFYdGNTaWRSMkd3LXhZVW5JQjBRRFo4eEx6WTNFZ0owX3VqWGFaeHp1N2Q0Q2JGcHJHbExDY2FOZHZ2aU01YXBGUUZoU2N1SVFOX1FDV0ZxVkRYMThxaVZrekpncEpNZ1BObzFjOGtLXzJXRzRENE5ramVPTjRTVklyOW1KbFBLNmRxaTZGU1VZYzdmMjhUNDB3N0ZER29HejAxQ05WY1NFZFlRRWNOUk9kRFBwVVhnNmc5QmhuWWV1aEhLdERFVS16aEZ3V2Z2U0RIVTlSSjFRWWFod194ZGpXVWpaQXBTaTExZDc4RU5fdk9sMFJmMFU0OXY1OWJjbWMteV83MnByU3JuRk52ZGNmNkpjamhuUmdiUWVuNkhia25fTkUwLU1la0VQTC1VTWJPXzhXMkNDc29tZw?oc=5"
+    },
+    {
+      "title": "特朗普稱胡塞武裝同意不與美國交戰",
       "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iUDlrZjFnZWVsY0dtQmFZUGxhNzBOZ1hoVW5Qdm5OcloyVXB0OXkwRnVSMUxLRUNRbndlTkloZjUxenh2TmJ6d1JFS09PRzBUMnFhVm5UVlNrdGF4RlHSAWNBVV95cUxPbUJQYlQxRUpmZ3R2aEU0NXVRMEFsckhoODJ4NWFjSG5sNGRFMElRejFWMWpza3lNWnBtZ2l6OURvX1laMWpLSER3NDRpbnlOSlRubHRrdTJjbHo0dV9ZQTdWbWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14VXJUQ2hYS3BuZ1RScmNHN0xEampBSmVxTDJSb0c4NUxOX01RSG5pMDhtNi1Ec1psRjgwSWJfMmRUV2Fuanl5Ykk5WHVJbmx6QVJhVk9BOHpJdk9UUGfSAWNBVV95cUxPeDljT2xoWE5tT1dVUzFJQTFMQjZFUzVsTTlSaTBqbFJqSzMxOTQzZUZ3dElqTnNOTEw3TENGOTJsNFB5eTg5TUFtZmxpQXdCMnVnalJhN3BrdnY5UlVaeXJQVW8?oc=5"
     },
     {
-      "title": "特朗普提前返回白宮當局未作解釋 或關乎中東局勢",
-      "source": "bastillepost.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQU1lGWEgtSmRjaldDNHVCR1U2ZHpnYksxQzVJNmRFajl0VkoxYndlUkluZEcweUZTeWxKYVMzb01hcUZFanhsVjZVbjhHRFpLTmxGZ0Y1VURHT3ZhendDeGFQZlRRRWxBX1VaSTZIam9ISlRlcDJEalBHdWFWWEY2SnlxVVNYNVVYVG50aTBuUklXUnRTSGlIS3BlZFJWTnJEOFNTeHNVTEJZeTNLSV9ZS1dHcWdSeTRPX3h4ZWdLV01zQ2hGMHZWb2tzcnZJNmVDLTNCV1FNZ0J2RDdQLXVRaHFCOHNkbEoxUHdrTVdPUUVCNmN2eFNhbDJBNEtQeEV5d2R4c05oXzNld0lCZzlDNm1aemx0Q2pzU2hmcEZjdE9SbEc3eEJSTmMwaTlYSFpBZWIxT1VZWU02TDltWjVGclg5Zk1uNTJhRDJoMllfeHlSZ1haTmJSelBpTmQ3MGI3bjA1eGNwZExiN012NDVV?oc=5"
+      "title": "川習二會 川普對中態度變軟",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hT3pZeG5SWlB1cWxZR0l1amNFbzhJbWxuaXhhZ1d2NmZsMnBIRXlxa2Q4LTZueklqSm5SeXpfUVFjdmtoUXlWNkwwLVFUUWxk0gFWQVVfeXFMTThBVE5vZm5PTlhoeTRDclRDNVY3RmFUOVZhNWRkYTlwT3dmc2VyTVY1NlNJNUluQk9iWjhQU05yY0R0cjJXMHI3RnFRUnRrRTR1MFQ2QkE?oc=5"
     },
     {
-      "title": "聯合國專家：有理由相信美國在伊朗襲擊行動中犯下戰爭罪",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZjgwTlQyWFc0Q1MwZHJuMjVtNzZSRUR5UXVSVDZqazdScUl1Zl9nNVlPQURBWDZ4aWdjWFhIb3BkTGRBb19MbG90cndMcDlpRGxSNEhfZG9XVm1uQl9XeVllWElUVEnSAWxBVV95cUxNTzZJeG12aDFmOHRfWnZxZWtZelA1SE5TZVdQeHo0bnF4akFqSlI5QUhEZFBtbGZWZlZ2VGRHVXZPUGFLMERTUjVKMFRMcmZqUlRGSWc1NVVwNWZHR0gzS1AzWXpTYWZKQlJQak4?oc=5"
+      "title": "空自墜毀的偵察機「全球鷹」部分殘骸已回收",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YVGF1NjBUX3JSd3FFOXRZclMxYjlZdGI4RGhlYkY0WVR1Z09zbHRZRWFvUjM4VjBRVjA2WDZmOThmbDFPb3ZOV3hyVFJFeXNEdF9WTFlBYXY?oc=5"
     },
     {
-      "title": "特朗普提前返回白宮",
-      "source": "hkcd.com.hk",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15RXk4YlBYYWFHdWUxU21IbjU3d3FpR2E3aE10bXJPZ1R1LVJUN3o1Ti1Fd1BMUEZZZm0zQUVYVVYxS0hFWDFqcWpzZ1NCcVVjMEVYUmQwZjlHYm9kdWY0M19UMzB5b0V4REUxNE91eTlHTEVrQ3pVdTZKNA?oc=5"
+      "title": "澳洲、美國強化太平洋島國海事執法",
+      "source": "ipdefenseforum.com",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQUWRSeWNlcDNabHdySzAwb2lRdExjVkswYWZVOEtXREJtNElObVlkV2VuR1liSXBZWVAwX0ZWMDYyTDY3VDhuUHRneGlXM21ualZIQmpkc3llbDdRenNBb3ZOOUVqY190Tjl0MnZDMms4MWlIWmY2X2RXay1wRWRweW9DeEE0UXB6UVpnNEs5eG41bVZ1WXJkZ2V4RzhNTFNEeWVCSmEzUDMtNTFvcFNfNjhqcHVsRU9aTWF4Q29tc0FMRHF2S21XdnBFdzdFWjh1R3h5S293V2Y5dVZZaFR5RUJYaUNvQXV5b1dsUGI1WUhIcEJYbkl1bHNBdHRnWVQyUEs0bE8wOGM3MldQcmhwdmZKamF1TDg?oc=5"
     },
     {
-      "title": "中東局勢丨雷扎伊稱美國除接受伊朗條件別無選擇",
-      "source": "hkej.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPRTU3MUtxR1VGMTh4UWZDQWMzOVVPeUNtQXpUMmJRUk1UUl9xVkg5Q2Vvc0licEpuZ25ESVZhYnlvVHc0eXZGYUd4SGVxNnJVRHdTMEpoaEV0VDNwN2loUEhZQjZHZzBZdDQwX0ZkNGVjeUVBVG9hbXpwQ0lhSVVaQUk4dnVHTm45b09PVk5pUU15UFRHMk41TTdfV1lMbWpxRHNvbDQtazg0Vk00WXgzVmF0R04xTE4xaXpCS0dybEFWR2h0cTN3all4NFZtTDdBUzNNRmpuYVV5R0JtV1hmS2NqVy1pZ3dicXk4anUta19WeDhoeDFWejhLcDdFUUJKeGpkUjB4bEtXVVNHZjYxN0lmeFNaT2M2djhDVEQ1RFoxYzI3WDk0NjQ3QU1jS3B4bFlLNjF3TmhXclpuakhnZDBGOXdFaWt1UEJicXdyQWhrOEtRQVJNcE1FZFVjdS1WNjdubGdLYzNjR29GUmRPRQ?oc=5"
-    },
-    {
-      "title": "哥斯國際賽生涯完結 祝福德國下一代",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YaTdjb1dBTk56R0RLc201Y2Z6cVAzY3dKZWRzLVlwU3RON2traFRpTC0zT1pPcEhGeXJGNFRiakU4c0U2Z0pqaC00UmxyMjliVWZCZ3Y5ZUxIVHNLVlJxckVpUVprTWJQLXpaWmMycw?oc=5"
+      "title": "要聞解說 - 特朗普為何要以“最高外交禮遇”接待習近平？",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOcEVyaVRubjRYRWwyQTJmcHZGallaNV9rXzBwN21CMnk2QzJzS3p4cmpfWXROdmNtMU1zNlNlWE5fcUFIWHd3dzc1cF9paF8xWnNBTWNpMjI0OGVRTFBPSDdIXzFBSFh1RGtPc0c2SURsN3B1MUNUS3BuM3hoNnpQZ0k2Q2JxckREVVZqaTU4TTB0VG1OY0dhaG02dWVxaExXeVR6WE94OTFwLWxjQ1hJZU1OUmZYczYyakZwOV9UN3hBaUxuODQ4Q29ERnJ2eVNJcl80TUw2cjdSUnpETjRpT2VaSUNvODZqQ0YyVmlhbWVZLVg2cGdaYU8xYVB0aExmNGlPWDBmT2RaNmxnTEUydXA5cXdJOWI5QnZKaWx4b01LUGFtYWNJYzRMUGZVZ29JTThEYVh5clIwUVhXZ1pWUGpxMGU2bEU2ck8xRldDd1A0cDh5blFLUG03TC1DNnFTLUJsbC1IejB4bjZLUFNDeE5zdzQzcTd1TFU0cHZZZWUwT0k?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "SanDisk週一將加入標普100指數！被動買盤會帶動股價上漲嗎？",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPSi1scTYxQ09BSGZFMXo0MG0tbklaay02aUpKRUNfSHp1c2FwaERHRzZEaHhfdE5IOGhMZnJLN0pEOFRTOUExMmw3VlVQWGxKeXFZVFR1MGZrVUh5X3A1UlNsM0I3V3FVdVVSSm9jSERUcW54a3dIbnNZUkxFX2pLZFA0eVVBUnkzcGRnUjNycE9xejdGSi1PT0NEaTV6bTVETHMwTzZZVjQ2eUFmOV9sanBxTzN0OUxOR0FWUWZ4Vzc2THpfaUxEREMwZmJPZXdOZUdTYlk2Q0NRalhrWXBjTHNhSE9FTHBiR0NVY3BJZ3RDX1YtcEpGLXZ0bU81aERIS0ZOSDR5VzFZank0a3FlX1p3RzYtUEZybVJEYnRHeDhJazE5eUQtU3VfR0RqSHR5d0ZJdTJtWElCaWlKcGd2VUFWaXE5SXpseFFNOEJBajBiTEVsNEVoMHBpNzhhQQ?oc=5"
-    },
-    {
-      "title": "【美國加息】聯儲局加息未觸怒特朗普 沃什如何做到？",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQcFlrZE1KUjNLdFJFY1BucW1FeGIzcmp5SGVvZHV6b3dmTGpmVERGeWxrZWJrSXd5YUVGZUlFQzJyaG9PNk5XeGpEcU9HUnJoTjEwV2dhV1g0eUwwY2JkcWdlNjVXNVp5WURSUXUycjlyTnYyUEpxMjh0UzhydGlVelVtZmw0akRGTENmOGJ4ZDBRWjZCdlFEeXFjMExaTHl4QV9tTUM2MW9KRThEbkpsMG1oeWFURGdTNzR6ZVNTYS1iR0t6aU5ELWJtbHhHeWJ6R0pieU11SHRzck5VRXFwRVVUaXJ5UW95eUZ2cW9Ldm5HYTFIN2QzTGpEWDBpODRSeVg3UEZWNG5NNGVZelZYcHVSQllCQ2dKTEFGNkFtemxBNmdLbGEtZWVxWW5FZW1feXRVMUo1THFXaUpUV1ZXOEthOVAyOHV1VGEwZHdmbzNncGdMSUtkRFpuaEFzT3pBM1Nkb1k4cEk2ejMzWlM2YUlXMkFfVWRDNUItMg?oc=5"
-    },
-    {
-      "title": "納斯達克100指數調整周一生效 SpaceX權重增至2.82%",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOVERMdG1jWGlxMUdJOTFETDNTS2xUajlKMjlVUXNGeUFEQVFSNDBoZWU2NmdRaFZ1VE9HSHdDcXhrSmFFaUxIaGJKQnBsbXRTOGZxS3R6eVM2NkF3QWhKZHhCdEFVQnVRWUx6LVoyTE11UGxKMmVzMW0zdzFrWVlKY0RoZ0Y0ZXJHY1ZwV012VDdLZ0JZVGpSTUNGQXlXNlBqZlFndG5zeGNNVmVUSzJqcWhFYWdMdGZJMWtHRlJEcF96RFlFSzN4T2c4clNGOHBHd0x6cUpsT191UUhWbFZjRUdoMEZJT0oyeUZ2eHFiSVY2U2xjMFk4OTNuWDAxMl9YZWpPd3RadERDb3NkMER3T3pobFBsU2Nhd3h6eTcxTm9NUWhzeEdKenFlY0ZPUQ?oc=5"
-    },
-    {
-      "title": "下週展望（好市多業績、標普100指數再平衡及美中峰會）",
+      "title": "moomoo AI 實戰打卡第七篇：美股科技七巨頭前瞻估值與成長性綜合排位全景量化",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUJROGhhZnZfOTNtZjAtLWxWNE9zVjlnTXQxMzhhWnZKSUhPZjNPdTgyOWpvYU5uRjZ3NlMxVDVqQ2lCdWJHamR4ZXhZN2FVN1VmR2c1ZWlWZ1hfUDFNOTJzXzdRSHdsaDdZazlaSC0tVlE4ajd2SzA5N3BYdUpXb2dTYnNzVENwcWJGekZqWjNPU0ozNUt1TW40cFliUlhMcXBna2djLVdtOGRxUWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbnFtQUVzZ3gtNXVzTVF3bVF0M1d1eTlRT1NGQW4ybEtKNnNhcWU2bGdLNUo2dkdIR0hRdHZOMWt4VXNpbEFJcHFDZTNaODUyeVd6TldRNlF6eVJVcU8zdF9QZDJ4aHJfRC04Y1lYNno1MVc4WjJsSElHeFRCRnByM2VmMW5pTm14ZFV2alRnN2QwNHpWNEFOX2IyQ1U5LUhGVlhxVXBMU0JPMkpmR1A0Y2NNNXljNF9QNE40Qkp4b3A?oc=5"
     },
     {
-      "title": "聯儲局議息結果｜通脹周期結構性轉變未止：長債部署策略一次看清",
-      "source": "香港財經時報HKBT",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZ1hPT2Npc1QzeS1jRWhCc3VmUFk1bVo4S2xUZGFLVjg2RTN1S21xbzU5NVpuWUJnQWZJYk5Rd0x0V3NrSzY4cGJwNURnWWRzNXRmbThoaGtlS1BwV2o4UzdjbERvZ1dqeHFCbE8yYWlReXNPMk9ua1l3eDlCaGItTVlraFJjN2h3NUFxMjZWNVhEVVltTjBVVFpnYzN3djMxeGFGWnE3QVZ0VzdmUVZQYXRtN2JfZHlkektPVjEyV28yZV9rSUdDRy1VclM5OTJhcmUtcHF0dmpRUlBqQTVSajgtQ3J5N2E3c1lqR0NpRk5CbC1YbTZLbUhXeGhqZ3RDUTJHS0d0ODZUSUQ3NFk5VXNETWFqSzF1dmJaVkRpRGtjRU5XMDAwWE1XSkZpRjQ?oc=5"
+      "title": "不買美債！中國持倉量砍至18年新低",
+      "source": "Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZlp2NDEyX3BIUmM5TVJXUE9KakNROWhQd284R2hzSDZ5akR0MXVGOXNYLThHUl9BeWNEQzRFNVBfQ3V6NlJ3WGZGMTVYMHdwMkxEbUFNVGdFamlBaEhhUXA4TkN5cFJ6ZEdWQXNKV1p5WXNxRm5ISGhLRGdBaElkUmNuLWRtX2Y1bHRsU2tBQkRXSmdfZ0dvNGxHMHRVdUhmeGlGZlRPQXAxc1VreE5hWWdCMXdIdUlWaUVXQmp1MlpPTkU5LUFGOHg5M090WlNvSXdNUjFHVjR3QkNSbldpU1c1MTdEOHlmUXAzd3JyZVhrNUQxZVVXTkJwdUw0MWc?oc=5"
     },
     {
-      "title": "美股離歷史新高差一步 投資人關注3大變數 | NOWNEWS今日新聞",
-      "source": "LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjWHhNS29nQXdfeUI0NjVtcTBqWEpWbjNONEs4bTFkR1N4alhkVmg0MGdCX0ctMG03NEh4Mm56dVBkb3lkT3lRbXNfUXRVb1REVGh4V1pB?oc=5"
+      "title": "美股熬過兩關卡 蓄勢上攻",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YRTI3V3BwUkQxYlgxNU43X3BrOEYwNklveUFHMFZyUzJwRkEtZEJOR0l2VkhRamtCX1lEb1ZzWkRzdjJvZExuQ0RweEFJT1k2czJwT29hWENLV3JJ0gFiQVVfeXFMTkEyYUg2OW9GclFDVVBxek5sVUxnR0hUeXZQZW9DdmxnOWRmT3NRaXBNQVJCSThObm50eHJhekJQWmV5ZXctZ0FGUHlCUmRzMDhudzZpbS1UblRlVEJTbTVGNkE?oc=5"
+    },
+    {
+      "title": "超級央行周加息周期序幕|香港經濟日報",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSmhWWjYtWDdXdXVTZEJuVkNrNGFqdFNzTVZHVXZaMDREWlQ4Wk5CeGxhc0FYV2V1dS1JMHBkTGNDblZFUjdreEJFVXpRemdhNWduTEc1MC1RODNRVGlNNDBTdzlZVTBDS0NuZVZScDFlWTZoWEFISklQSVpheXA2Tnp2c1dObnA4Y2VsRm9PVi01ME9xNWNLTkxtWHEzTUhSY1JlMDlzdFRtYWRCcFNRamFlQmYxLUpyZDEzN1FRUW9wTE1GSUpxcUlSaThDUkN2YmQ5YU1n?oc=5"
+    },
+    {
+      "title": "輕舟已過萬重山 巴隆：美股熬過兩場大考 蓄勢待發",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtZmp4aHFxamdPcXp2YUpXODNfa0hXenMybndzWWlmZ1IwcmxzODRzOWNiUXFia0pCcXEydnl2b3BxR0dLeHA2WU5DZTBERE5hSDY3cUowNGhSMHZMb0lOYjBB0gFnQVVfeXFMT1o2VU02RG9QbFBkSU8xNGhBSFNGV3ZOZjhtRFI2U2JMSDdqazdkbGdDU0tOLWhUTFhhUEhCQU00cUNHM1FCcHZjNy02OGJDbjR6eHJLdzBab0RLbFZHamxnRC1lSDkwQQ?oc=5"
+    },
+    {
+      "title": "債息油價高企 美股迎波動市",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTmJ4X0g2d1V5b0thclV0cDlBeVVHajJjQzBaRnkwSFdRRXVrSnFUZTB0OHBQRzFURUJjbGFEcVFhRFJnT2tQcVlIWU5xUUlHSmtObzhpZEh3X0VveFZtbGlyMlROT253UTk0YW5DdlVyb1ZwWXVuR2lNcXI4VDhXby1LSGxmaEY1RzdmcXVTelVMbXk0ZHQ1NTVIckh0V3JIMnFwUVZnOXc0WXItUlVnQ2hsVnVUSHlEVDIzWXBiVmxEY0VuRnpUelVINWFlY2pXMDBjQUNYeUpVaDN0YV9CQkFDT1JmYTREVGE5YzNETlUxV284b3RWRkdtMzNUc0k?oc=5"
     }
   ],
   "events": {
