@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 20:15:17",
+  "updated_at": "2026-09-20 22:08:01",
   "gas": {
     "current_label": "9月20日 (現行油價)",
     "current_price": "183.9",
@@ -10,46 +10,56 @@
   },
   "news_world": [
     {
+      "title": "中東戰火騎劫油價 政治市最凶險",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdDE2TEFSbDV1VGE0bWpmbkw1NmZkZFZCcVdNM09KT1lqLUxfczU2RkFRNG9xbG5UTzMwaWJ5aG16NGprSERHTzdfOFJjNVpHSDBhYUI4MDFSZXNpSWZzTkRPVmpTTVU3VGJHYWFzci10R2J3Q0ZJN1hxWmxaZlJnQTc0bjRuZTJ4cUt2eGZHTXlXZGxvOTY4SEttQW8xYnViTUd6Z2dTSktiamJlQnQ5dkFXQTBQR1pJQ3ZXaGRlYkJwTmZzWFBFQmVRNlNDdnBVLVJ0d2g0d2RIblFIN2Vab3R4T09iNmVxeTYwWE5CN085QzFGejZ5R3Nsa2JXRUlTUWRmYVo0RUhPN0k5N0Z0NmNjdw?oc=5"
+    },
+    {
+      "title": "伊朗向美提出重啟談判七大條件- 國際",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NUE02djdXWHM0d3YyYkdOS1FaUUIxVjItVXZoNkJKczFxVzhGSmpneUl0czYtTkVVdl9tT2pLT0ZqdFkwR3dRRy1MRmJuUDk0Y3d0VkVySFFyY1JJZE1FQUZpWGRBd0Q5ODdRdDhHdzRTZWJx?oc=5"
+    },
+    {
+      "title": "圖看世界：火頭復燃 - 20260921 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMTVXallDWDgyRHp1V05rZ3hDSjlOaHpKVVhkY2hYbnphUHU2eUdRMU01M04tVkNYelVJS2h0amJkN0h3ZXVzdWxzbWdIbjBpVW10dnhVMDBpcjJnNS1pcVFDS2tLUEtHdkZWTHBZTDJRNm1nUU5kMGZnd2VrUUhyenJscmpTbkItTFQzTGF5aDNLNmJtUUNWdFRmUGRaTVBRMlhTY3pxNU5hRlZVUUFWUG9KT1pneXBZbUJHT2M4RW9vaHY1ZlBrT2dIZ05RT1NHRzRHeHNwNjhscnNkSVQ0VWVIOFdqTkVjaEhvd28yU3E?oc=5"
+    },
+    {
+      "title": "金融觀察/全球暖化亟需發展氣候金融\\鄧宇- 經濟",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5aGhfWTl4YlRvY0RWSEV5TzJDY2NId0VUNkZlM0NUUU9JN2h0SUVHT1Z0TXJSYi1EWVduRy00VWZ3RFhsa1RWMDJoRXVCZWN3OXc4eE9VVHlPSUF3eHZzZG5iRS00ZEo4QWFCZVpaUnJGQ3Rf?oc=5"
+    },
+    {
       "title": "白宮豪門夜宴背後殺局",
       "source": "信報網站",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEtIX2pUX1MxVnIzSmJaY0Y1amsySTdRcUlmYkhoV2ZsN0gwM2R0cld5V1VUa0Z2Y1BVcmNTY1FwMS1jbWctdENJNndyMmNIWnY2dGNXNWJpZG93QjZNMWhOM2xpaXlVTkNCNVByUXNZWUxra2NXWlMzN3lEUGVCblowbnRMNy1HZzdBZ3pIR2wycktweHZKRDNaak5TWWltdG9YdDNkX2VJNm1LcGhlUUlKU1k2T082WWF3S1ltbDFUSm45clpSMC1kVk1qVEI4c3FuU3pCdVhkdVVSbWo4MF9B?oc=5"
     },
     {
-      "title": "特朗普：胡塞武裝同意不與美交戰 美媒：美軍不會發動進攻性打擊",
-      "source": "hk01.com",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQcXd4dk12aVZDakRjN1h0dXJ3TjlldmRmakZ4S3FwR09OSWVsWlMxbXUtek9tVVRZYWlXdk1KdDl6LVRIOU0yZDRoZE5HVUFTN1RjTk1xVy0tZmpLdG9velNtRVJHSUpXTHh6R1oxTk1YTFVhX0tqQmhwSTRYb3RuWGxBUG5wUzdNYmFYdGNTaWRSMkd3LXhZVW5JQjBRRFo4eEx6WTNFZ0owX3VqWGFaeHp1N2Q0Q2JGcHJHbExDY2FOZHZ2aU01YXBGUUZoU2N1SVFOX1FDV0ZxVkRYMThxaVZrekpncEpNZ1BObzFjOGtLXzJXRzRENE5ramVPTjRTVklyOW1KbFBLNmRxaTZGU1VZYzdmMjhUNDB3N0ZER29HejAxQ05WY1NFZFlRRWNOUk9kRFBwVVhnNmc5QmhuWWV1aEhLdERFVS16aEZ3V2Z2U0RIVTlSSjFRWWFod194ZGpXVWpaQXBTaTExZDc4RU5fdk9sMFJmMFU0OXY1OWJjbWMteV83MnByU3JuRk52ZGNmNkpjamhuUmdiUWVuNkhia25fTkUwLU1la0VQTC1VTWJPXzhXMkNDc29tZw?oc=5"
+      "title": "IMF警告全球債務創紀錄須緊急行動",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOakt6UW0xYWw1Mk5PX0ljdzZMT095S1BPSUcxbHFrVUJ5WDVpdXJRa3YyTk02R3pkaDZIakNjTElRNFR1MHY0elJYLUpZXzRlT0lKNUJvT01ERTFOazRrLURfdlV2cXhlQU1ab2hQUjNiLXN2elJZalVxbC1ibEV4R0t0Y2VpTFJ6RWJVMV96elhrYTVmeVFhWXJoRkYyN1VTSTcySlpSNURKQmJLMF81eHJhTEpTWFVXVlkzZm9DMm80Qkl3RG5oOTVRdnRQenlsSE5kOWF6cjJkbGFXWEgwMVQ0azFSWWdkWGVYQjFPVjZFMjFkbm9hZlZfQzhwN3RLQUJMUHJqbFlncFk?oc=5"
     },
     {
-      "title": "特朗普稱胡塞武裝同意不與美國交戰",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14VXJUQ2hYS3BuZ1RScmNHN0xEampBSmVxTDJSb0c4NUxOX01RSG5pMDhtNi1Ec1psRjgwSWJfMmRUV2Fuanl5Ykk5WHVJbmx6QVJhVk9BOHpJdk9UUGfSAWNBVV95cUxPeDljT2xoWE5tT1dVUzFJQTFMQjZFUzVsTTlSaTBqbFJqSzMxOTQzZUZ3dElqTnNOTEw3TENGOTJsNFB5eTg5TUFtZmxpQXdCMnVnalJhN3BrdnY5UlVaeXJQVW8?oc=5"
-    },
-    {
-      "title": "川習二會 川普對中態度變軟",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hT3pZeG5SWlB1cWxZR0l1amNFbzhJbWxuaXhhZ1d2NmZsMnBIRXlxa2Q4LTZueklqSm5SeXpfUVFjdmtoUXlWNkwwLVFUUWxk0gFWQVVfeXFMTThBVE5vZm5PTlhoeTRDclRDNVY3RmFUOVZhNWRkYTlwT3dmc2VyTVY1NlNJNUluQk9iWjhQU05yY0R0cjJXMHI3RnFRUnRrRTR1MFQ2QkE?oc=5"
-    },
-    {
-      "title": "空自墜毀的偵察機「全球鷹」部分殘骸已回收",
-      "source": "共同網",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YVGF1NjBUX3JSd3FFOXRZclMxYjlZdGI4RGhlYkY0WVR1Z09zbHRZRWFvUjM4VjBRVjA2WDZmOThmbDFPb3ZOV3hyVFJFeXNEdF9WTFlBYXY?oc=5"
-    },
-    {
-      "title": "澳洲、美國強化太平洋島國海事執法",
-      "source": "ipdefenseforum.com",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQUWRSeWNlcDNabHdySzAwb2lRdExjVkswYWZVOEtXREJtNElObVlkV2VuR1liSXBZWVAwX0ZWMDYyTDY3VDhuUHRneGlXM21ualZIQmpkc3llbDdRenNBb3ZOOUVqY190Tjl0MnZDMms4MWlIWmY2X2RXay1wRWRweW9DeEE0UXB6UVpnNEs5eG41bVZ1WXJkZ2V4RzhNTFNEeWVCSmEzUDMtNTFvcFNfNjhqcHVsRU9aTWF4Q29tc0FMRHF2S21XdnBFdzdFWjh1R3h5S293V2Y5dVZZaFR5RUJYaUNvQXV5b1dsUGI1WUhIcEJYbkl1bHNBdHRnWVQyUEs0bE8wOGM3MldQcmhwdmZKamF1TDg?oc=5"
-    },
-    {
-      "title": "要聞解說 - 特朗普為何要以“最高外交禮遇”接待習近平？",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOcEVyaVRubjRYRWwyQTJmcHZGallaNV9rXzBwN21CMnk2QzJzS3p4cmpfWXROdmNtMU1zNlNlWE5fcUFIWHd3dzc1cF9paF8xWnNBTWNpMjI0OGVRTFBPSDdIXzFBSFh1RGtPc0c2SURsN3B1MUNUS3BuM3hoNnpQZ0k2Q2JxckREVVZqaTU4TTB0VG1OY0dhaG02dWVxaExXeVR6WE94OTFwLWxjQ1hJZU1OUmZYczYyakZwOV9UN3hBaUxuODQ4Q29ERnJ2eVNJcl80TUw2cjdSUnpETjRpT2VaSUNvODZqQ0YyVmlhbWVZLVg2cGdaYU8xYVB0aExmNGlPWDBmT2RaNmxnTEUydXA5cXdJOWI5QnZKaWx4b01LUGFtYWNJYzRMUGZVZ29JTThEYVh5clIwUVhXZ1pWUGpxMGU2bEU2ck8xRldDd1A0cDh5blFLUG03TC1DNnFTLUJsbC1IejB4bjZLUFNDeE5zdzQzcTd1TFU0cHZZZWUwT0k?oc=5"
+      "title": "美軍在加勒比海打擊「販毒船」釀4死",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5LWJselQxeTZPUF9ESnFGcEdUMkwtOVR3M1ppTXpYc1dqSGhnZXltbDJkYWxEenJlWngtWHo5WWE2UE8xWk11Vnc4Zl9uX24tMTYyWjJMaGFsc00zWkYtal83bFBsQmlPaENOSlBfaldwd3BS?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "moomoo AI 實戰打卡第七篇：美股科技七巨頭前瞻估值與成長性綜合排位全景量化",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbnFtQUVzZ3gtNXVzTVF3bVF0M1d1eTlRT1NGQW4ybEtKNnNhcWU2bGdLNUo2dkdIR0hRdHZOMWt4VXNpbEFJcHFDZTNaODUyeVd6TldRNlF6eVJVcU8zdF9QZDJ4aHJfRC04Y1lYNno1MVc4WjJsSElHeFRCRnByM2VmMW5pTm14ZFV2alRnN2QwNHpWNEFOX2IyQ1U5LUhGVlhxVXBMU0JPMkpmR1A0Y2NNNXljNF9QNE40Qkp4b3A?oc=5"
+      "title": "美債孳息率升 未來走勢如何？",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOUZvaXB3VWl6dC1XNE14VlR3Q3ZzWmJyS1pDd0x2c09NVnZzRmVOVVRLQXU2SmptVWhSWEtvaF9YZ08tRGF5UmZpUjZZRTBfbzB4aHZuOEQzd1dzTVVPbkNhdk1rcGF5dTdCc3BVeHVWWHgzRnRVWU9DZEY5VVg0Q0RKMklFcXBfVTBhOFdTZTdqOVN6XzRYS25XS0VuMGFxUkhYakRtVkFYM280V1VXUURhX01yNjNBdDZ5THlDMWc3SC00SUFZelRCRVZodXZBUWdVUTN0SUpIZ1Y4cjR1blBYR3d6ME9iRTJRb09naGFxaElEcUUwbk5sZjd2b2s?oc=5"
+    },
+    {
+      "title": "美股本周聚焦中美會談及PMI數據",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWMTVpekRXYWV1MlFNNFNQQWN2SjhGTzBWTmVLMTZSaDJuX3RTaEFEMklxdHV6UjU2V21jZmJiUmZsdk93cTdmVW84Tk5DWEItYndXalFndkhHNVB2dTdJZmJXVTNQWmN5ekcyTFV4SQ?oc=5"
+    },
+    {
+      "title": "凱基國際：日本促資金回流 推升圓匯美債息 - 20260921 - 經濟",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUjdnZVNiTXU1N3A1SXlfcDNpUnVzQ1VGZ1k5TWx5X25iQ1c4bkY0VV96QWRJQnQxMFNGRmxTOFZ5TW1EeHVRRkpFa3VJaDc0SFEyT2lXZ09iVmg2cHc2RXJMR3NiUW1uSjA1ek1YRU1SOU9iMkJqUFo1V2gxWUJ6aEtSTlV3c1FDUVhpOTEwTGRBRUN3eU1XYXVybUNRbDlvY252QjhyMDFjdDl0S0Joa184SW1MekpnU3doWV9WYzQ5a3UxZU52TlVuSVdkbzJJOGhVQUtWTFNLd2JnelJjOGNpQ2xZYXdBRXFSXzV2UHE2Z0xCMUozNDk0cXl5bjJtVjdZY0l2UjNjdWpSWV9kZTFKQTk0aDczOTY0MjNrYkpKc0syR29qY18zTElEN09IM0xGUkNkY2x5dU9iRzFRSEM2akZMTk10YWdXMld6Zkp0SGlHMnZLRDFYQlNuZDVTNTJ2THNreXFUUQ?oc=5"
     },
     {
       "title": "不買美債！中國持倉量砍至18年新低",
@@ -57,24 +67,14 @@
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZlp2NDEyX3BIUmM5TVJXUE9KakNROWhQd284R2hzSDZ5akR0MXVGOXNYLThHUl9BeWNEQzRFNVBfQ3V6NlJ3WGZGMTVYMHdwMkxEbUFNVGdFamlBaEhhUXA4TkN5cFJ6ZEdWQXNKV1p5WXNxRm5ISGhLRGdBaElkUmNuLWRtX2Y1bHRsU2tBQkRXSmdfZ0dvNGxHMHRVdUhmeGlGZlRPQXAxc1VreE5hWWdCMXdIdUlWaUVXQmp1MlpPTkU5LUFGOHg5M090WlNvSXdNUjFHVjR3QkNSbldpU1c1MTdEOHlmUXAzd3JyZVhrNUQxZVVXTkJwdUw0MWc?oc=5"
     },
     {
-      "title": "美股熬過兩關卡 蓄勢上攻",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YRTI3V3BwUkQxYlgxNU43X3BrOEYwNklveUFHMFZyUzJwRkEtZEJOR0l2VkhRamtCX1lEb1ZzWkRzdjJvZExuQ0RweEFJT1k2czJwT29hWENLV3JJ0gFiQVVfeXFMTkEyYUg2OW9GclFDVVBxek5sVUxnR0hUeXZQZW9DdmxnOWRmT3NRaXBNQVJCSThObm50eHJhekJQWmV5ZXctZ0FGUHlCUmRzMDhudzZpbS1UblRlVEJTbTVGNkE?oc=5"
+      "title": "moomoo AI 實戰打卡第七篇：美股科技七巨頭前瞻估值與成長性綜合排位全景量化",
+      "source": "moomoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbnFtQUVzZ3gtNXVzTVF3bVF0M1d1eTlRT1NGQW4ybEtKNnNhcWU2bGdLNUo2dkdIR0hRdHZOMWt4VXNpbEFJcHFDZTNaODUyeVd6TldRNlF6eVJVcU8zdF9QZDJ4aHJfRC04Y1lYNno1MVc4WjJsSElHeFRCRnByM2VmMW5pTm14ZFV2alRnN2QwNHpWNEFOX2IyQ1U5LUhGVlhxVXBMU0JPMkpmR1A0Y2NNNXljNF9QNE40Qkp4b3A?oc=5"
     },
     {
-      "title": "超級央行周加息周期序幕|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSmhWWjYtWDdXdXVTZEJuVkNrNGFqdFNzTVZHVXZaMDREWlQ4Wk5CeGxhc0FYV2V1dS1JMHBkTGNDblZFUjdreEJFVXpRemdhNWduTEc1MC1RODNRVGlNNDBTdzlZVTBDS0NuZVZScDFlWTZoWEFISklQSVpheXA2Tnp2c1dObnA4Y2VsRm9PVi01ME9xNWNLTkxtWHEzTUhSY1JlMDlzdFRtYWRCcFNRamFlQmYxLUpyZDEzN1FRUW9wTE1GSUpxcUlSaThDUkN2YmQ5YU1n?oc=5"
-    },
-    {
-      "title": "輕舟已過萬重山 巴隆：美股熬過兩場大考 蓄勢待發",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtZmp4aHFxamdPcXp2YUpXODNfa0hXenMybndzWWlmZ1IwcmxzODRzOWNiUXFia0pCcXEydnl2b3BxR0dLeHA2WU5DZTBERE5hSDY3cUowNGhSMHZMb0lOYjBB0gFnQVVfeXFMT1o2VU02RG9QbFBkSU8xNGhBSFNGV3ZOZjhtRFI2U2JMSDdqazdkbGdDU0tOLWhUTFhhUEhCQU00cUNHM1FCcHZjNy02OGJDbjR6eHJLdzBab0RLbFZHamxnRC1lSDkwQQ?oc=5"
-    },
-    {
-      "title": "債息油價高企 美股迎波動市",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTmJ4X0g2d1V5b0thclV0cDlBeVVHajJjQzBaRnkwSFdRRXVrSnFUZTB0OHBQRzFURUJjbGFEcVFhRFJnT2tQcVlIWU5xUUlHSmtObzhpZEh3X0VveFZtbGlyMlROT253UTk0YW5DdlVyb1ZwWXVuR2lNcXI4VDhXby1LSGxmaEY1RzdmcXVTelVMbXk0ZHQ1NTVIckh0V3JIMnFwUVZnOXc0WXItUlVnQ2hsVnVUSHlEVDIzWXBiVmxEY0VuRnpUelVINWFlY2pXMDBjQUNYeUpVaDN0YV9CQkFDT1JmYTREVGE5YzNETlUxV284b3RWRkdtMzNUc0k?oc=5"
+      "title": "傑富瑞看漲標普500，預計2027年底將升至9,000點 作者 Investing.com",
+      "source": "hk.investing.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jVW1YQ1pMWTJrMGxDU0lvQW85aEdXZEtPcVZ3VzFfTTEwU3ZWLUVaWHRCTGthcWZ3T2k3QzhEb1lxbDV0OTBiVm05d2c0M0MzbGZmTk9OTDNvVmpYMUpkR29zVWo1T3VxMlhEVHRBeDQ?oc=5"
     }
   ],
   "events": {
