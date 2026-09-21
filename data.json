@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 20:15:21",
+  "updated_at": "2026-09-21 22:10:24",
   "gas": {
     "current_label": "9月21日 (現行油價)",
     "current_price": "183.9",
@@ -10,9 +10,19 @@
   },
   "news_world": [
     {
+      "title": "聯大一般性辯論今揭幕 聚焦AI中東俄烏衝突 料近130國領袖出席 專家批特朗普打壓致聯合國陷危機",
+      "source": "wenweipo.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rTXZ6RXRZUzBQUDNDRnNtd0FGSG9UNlV4cVNwZ1FSRG5sRWs3UUxzWlFiQ2lpUlFqdmlESWdvTEtMSEZmLUR4eUpZcHpZd2pjenhYZXhLZ2ZhNTRrNU9xT2xQRm1lVDBSOVBHRDFkVFNyX3RMZFVB?oc=5"
+    },
+    {
       "title": "美國五大電視網停拍特朗普活動",
       "source": "RFI",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNFEyUUt0Yl95NHRnT1diT3JOa25EbmVGRXpZUEtjdWlCR29WNWRlNXY5eEdTNTlYS1JGZndDSWJ6ZW5xQmEtV3kwcXFncllObTMwT3kyTkJkSkozT1R0WW9vdTRyTkVBc3N3NmlIclhKanFjQUhyRGJpQ3NydWVoSmVhcThxNGJnczAtYnVzd190V1lGenpDc0JzdDVKbDByVHVXS3ppRHBsMXl3SG40bkJGdEVVU3MtdXZha3doQVFRUExqTm5JR3FZYUtENTJyeTByVWswY1VWaWRrR3Q4aUMtd2d0WkFnTlRrTFpVaEZzbVRPdWV1RXc3MTc5NFVONExwWUpQTQ?oc=5"
+    },
+    {
+      "title": "坦言集：中東戰亂",
+      "source": "東方日報",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTE9kenk1MHpUUkYwT1NnMko4TlV5ODY1UnpnUks5WHpDMXI2ZTlGWG1EVmM2VmJWWlJhYXpxSU9VdzlMWUg4VnM2MlFreXk4UzBiOEU0cWc3YkZLQTNQTzdhaUxYamNrQjBINFJEa1V0T21hdVhqLUVZSjJsV3FkVVV2dzlibUZseW1LVC1XRnZtbkpucENVeUhGNlpqNkxZSUhNV2taZXI0TDFDZ1BaSnJHai1xOE81cnFsX0pMQk8tR29Wa1dPZTFkVUhEZnFrVlUyNmtSUVpybU9FYlZhTmhTdUJSZndLR21XQjh6aEE4ODktS3ZBbzRzeEREa0Vybl9Z?oc=5"
     },
     {
       "title": "美國控制格陵蘭 北極成博弈熱點",
@@ -20,61 +30,51 @@
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQXk2LU0zcUduaVRnRlRaOERLWnk2c1hkUDNWNWdnbUY1VU9DVHlETFRGbkc2ZlNNQWc3bEp5Y0tvd0hnWWJBUU9xTkpzano1ejROYXJfMVVZMS1uNUpIa2FQV0RCbFl1YVZlMFB5NUxyWnFCTWlLaGlteXUzRUI5X2dzMFkyal9Xd1FpXzN5UDE4SVYycGNfbGV5azZNekVudS05TlJWMC1yOU9JTkdzQWc2QzJMZ1VNUDdyWS1rQ3RBdkhyWEVjUnhSbXZ6V3d0Y0FGUkFvNXdmMGh2WUF1RS0wVUpfMjNUdlJEaHBOTTRZa2dpT2o2R1dVTk1NWWRleERzbEYwWWlLUEFET1YzRnNNSQ?oc=5"
     },
     {
-      "title": "美國3新聞機構入稟法院　尋求推翻白宮採訪禁令",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wNG5hYVY5LU5jRkdteXRpUU1jdklLeE42bGxFSjVQN1NjQUp3R3FxZUtidnZlX2RwWUNsWGhtci16Z0lwNU1tMTdDejVBR2Rtd1BJd1RVUHBCb0NrZXfSAWNBVV95cUxPa3RhTlhwZkVCNVl5LU1ieXlDSENwZzl4aWZna0E4ZGJzSVBKaFlRUVA2VUs2X2UyS2VkUy1wbUFQZm9Kd3c5MHBlYXZCN0VDQ1lCSkRRa3Q5TmN4UWdsY3dPdlE?oc=5"
-    },
-    {
-      "title": "川普回應三媒體提告：白宮打擊的不是新聞自由而是假新聞",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOR2ZyWGZadGhrMVpVRlIxNklXd1hoVmtFa3N0dEFnV0Jma1ZCcnYyME1hcHBpUG1nbmlCZ1Q5Q04wVVJqdzVpYTNCVV9kMm1CZWxjM1pvd3JDMlJ1ZUZPWURtNklnSTVWT0xGNXMxWk1pUGx4S21wOWw3NWlvWkJBU1Jjci1MMzlPRmhaTFNvWWVyTGVnWUdXcmcwOTJWaWt0N3NsTWJiWm52Q29XWTg0UWI4c2prOU5NUkgyTFhnVHNvclhPYjktQlo2U3Jid2F1WHdwdzJ0SERmUGtPUHZEdEQzTWctaGs5Xy1INWprMFJabEROX2ZtS1kxSHlfZXdJR2tmd2NCNXNrVDJZZFhTQndiZXZhVS1vb3VXOXNjVzBwTlpzNDQ5Zl9fOHdPa1RuVjg5REZoWHNYOThVUHlmeV9lQVBuTmxNLW4tb0k1RXdyeXFHbzlnWjRqUFhOM3pBSmE2N3EtVXlDYVFVeUVCNjNNRXpjTC1QcXkzOXhnVFJyMW1KbnJiLXdqaw?oc=5"
-    },
-    {
-      "title": "CNN等3傳媒被禁入白宮 控告特朗普政府 (21:15) - 20260921 - 國際",
+      "title": "法國加拿大建更緊密關係 暗批美國 馬克龍強調尊重國際法 卡尼籲增集體韌性 - 20260922 - 國際",
       "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQcEFCc0hYTkZ5M0YxMlVzRUdKUEwtYTFCWWJ6VlBDYURuako2RE0xb3BFSUFfV3I3eEhXSDE2eGtiTXNPWk8xaHpyRzVVMWtoaUlvNVZrUm1Xei1xZmtlLVlVNDNOWDdNY09hQlI5WFRtZk1ZTmNQSkJ2SFlyb2RPU2xUN2d4aklGX1RmRHlXLWJGbGpScFdNMm51Tk51VnY2Vk9iWkhPMXJXYmRPVkUwY1NVMlVrYktNcmg5ajJFdUh2VTJuZnVIQU9RbUh5N2R3aVZnM0s0S3ZCTmdpSGJPM2xNN056ZHZqcVhQOE43dEU4RFZJUlhhME55VlNyOGZtZTFWT3VVRGRTSmhtMFN4OTRXNzF1VDRLVXVqNlF6Si1QRXZDejdQM3YxVWV4U0hkZl9ocS1LVC0xbUJtNUZXVjdGN1ZBOWJzSEE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxOdzBuWFNuMUJ3RWFEdnI3T0t1U3lpLWh1V2ZpS0t2NjVOWmFBQ1VNSEZ3UElHTHh1TnJSYUwxWU5wV2VQblB0dVRab3VhSm81Vk9YNEdNMW5SMk00aElDZ3RSVHRtZFpmRmtNeFNUYmQtTHpsbG52TGVjT21OekZvSGdvTndSQ0l6bG1hTmxwb3N5T0lEYTc0TWh5TWpsUmVNRmxvNnJPZE9tQWxiVEFvWXNGLWkzTEJTWjNSMmhXLWllZGJVbndDTmphcEU2RC03U0hpSmhvM0tfUmM0aHFRendzQk1vTXhzcTVteEd5RVhKTUVGV05WOUhuWDFLSGVfb1g5ZUdOTXQ5a3dFZ3lGR0RrZGxZdF9SQkdTTjJwbUQ3SFNobmt5Y1h4US1jeEwwaFF4YlJ4VEdEaDN4SVI3aElGMEhXWGRUbEZjb09Jb0tCZW5MUTNVdGw2QmRIVk51VTVVV1NEN0p1RXh4Um5qQ0dUa0dUdl83RkM2Qk5sWkpJdFB2UklDVXktaUpqWDcxbmNtMVVLQWxtX2RKNGlRN3RzbktxNEpNS2ZlQVVXbm1PWEdTOVAzVEFNRHpSa3FsS2VrZ1ZsazM4WU1RbUE0aFY4YlZIeHBJY2RINVZqcE1zbzNUWFVZZmZ2blRGYUtoNWg5ZUhnZ21TVkRUcTFOTTNqS1lycmJvN3FiXzNTV3owcjdET2NoSUxGa2tYNlk?oc=5"
     },
     {
-      "title": "歐盟準備解除對兩名俄寡頭的制裁",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUllDZmpZNWxFb3M1SG1HMDlaazdRX0c3UTVaeTNJUkpkejBCUXNKNnNYYmdGNDk3QVJMMGNRbXNjVjNwTlRIRkpqOXE5ZlJwQ01oRlVhNnI4aWg3M2J0Y0h2M3FZenB5dC1oaFA4UVBGSFVSS2tqM2ZJQXdFQ2ZnMGZZSGFNWkU5dVpHdDdVVTdtNGlUR1M3SnlvUTNCUTdBaU52Wm9PTTZwVkpEdnlJM2cwVHZGUmpwOThMZ2Q5V1BZbTE4eXNpNk5vVnp6Qzc4b1ZRbDFFZ3NGUU1ISmVBd1E4NU1xT3QzOVNQeU15S2N3blF0SUFnRElzazN4RmV5bzczM2UzUXJULWdjUzRWc2dCaw?oc=5"
+      "title": "美國醞釀「全面制裁」國際刑事法院- 國際",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZOHJ4VG9Va3pBLWd6SnQzT19RM2ZRS0J6bFRQYmE4Q2R3MW1KTVMySjBoV0N3bkR1YXFIVzVDZ2ZHVDJFZWh1c2ZVd0xydDV4QmtybER1a1lSM0RTek9nT1ZuVWdRdllYVFNMM1UwM1YtbHp1?oc=5"
     },
     {
-      "title": "貝桑與何立峰談貿易休戰協議 美方據報提議延長6個月",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcWR4OXB3QzhERlZoVElxMFQ1RllZS2FxNVhKdlRvNGNrXzJZZ184TC0waHF2VkZZbUtFUGhWREpHQ1Jfd2VhZ2RGMDRBYkF5alVCc2NWOGVRSDhVLS1JX3VUYUk3cTdpUWJ3SEdQb2NBUnZnRTk3YmhpTG5sU3RqQ2hmV1VfM1ZsY0oxRlMzOFN3dzZZNWVacmdKcTNVbXNSbU15Wnl3SS0zVUdlTENVQk0wUFJ0SGItVTZwQTdIY1pBNVZINlR5ampLb1NzM3hOeXlVdGVaRmNaR0Nrdk1WZnNiVzV0bGtWc19sOUFncDI4eFBKUXFLN3JHMEZFUnVJeXFRNlJ4OXV5RVIxcTNDN2FtMDdDcmVjdWowbnNhOERrWTZiZEFZMHZiWXQ5Tkp1SW84ckxKM0MtSnlpZVpOeERZU01uMFpMbng5YTRBMlBVV201WTdSN01ac0J1ZHRqMnAwejlSUGt0ZGZydmt3c2h0dHBmWEVa?oc=5"
+      "title": "習近平明起對美國事訪問 外交部：元首半年內互訪具里程碑意義 將探討兩國及世界和平與發展重大問題",
+      "source": "wenweipo.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VV3VOcWpLTkM4WlVFRVZmUlM4eE45dGpDNjdpQ2FpZGhaT0lmQ3ZUTW91VHhLX0pVMzVMTUdrSnVLUVFHeC1NU3dVQTNVeXYyc0UyVDN4UjFTYmhGTlFIWHgwMkRKT256M3FTUmMzMkM1SzVVaE04?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股初段造好 納指升近1%",
+      "title": "【美股收市】Meta AI工具登APP商店榜首 股價抽升11%、納指新高（不斷更新）",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNVXh6TlpaVUFDVllaMFI2b0hWZVg4ZjA1UDNtdkJOSWR4ZjNOVThsNmo2WEJFUWctZzhaOUhQcjNVUnpHc0RmcF9QUnByM29lVXNVTFBsYmxZMHhjbXRieEFCd2hTeVhZLVhFY2R2NGdfVWowVGRrWXlzaGFxaW10TE5FQzJBa3FBRWhrMV8xclVBbEktZVd2YlJsSjN1MUFrSmVGaVdGMVlwZjBvblo0MWlHOW13aEZRM2hycEdKS2lLQXFoUnlzUlBkUV9hTzFzcXRCN3BtSllnRi1CaFZnVUdpMnpSazNteHBfVnZjMFRkZWk2SzdncXFjSjRxY0hXMFpjbXdnWVRHSXNJTUFSQWtRYjI4cWduTmRTSTNvU1E5MklNcFlpeGZ0RDQ2RmlJcjJWZDBTODFjM2ZPc1llaVZLVU9RTFI4TnR4cmpLc2J3YkFkUVVLTm1xbC1MZmVNWkI0UTJJcTNwdEZsc0Faa1lCUDZlYUZiU2NuN2pZVlpOUnlMMVh6Vi1ad01qSWZqUGhVTnFWZG02TTNNVEI0NExqVzZkakxtZTMzLXFQZHRkbE1qbkNlbA?oc=5"
+    },
+    {
+      "title": "美股造好 納指創收市新高 AMD市值突破1萬億美元",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tZ1IyY2JOdnpVcUNNaDBnM2NlNVVYNFlmVXNMc2pubHBuaVV5cmh0Mm9PY25uUjltTnJ3VXFnLWhOY0hTbzZLenUwQUNoLXk3N2NWOVBJZy1ucTFoNFJnSnNLbzlIZ2JfUW5XMWVwbw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EdUdNam42LVV0M2IwSGVXTHdORHdFVE81dEluWG9XVlhLa19EYU91ZlAxUVJhWFhMUURrbWxNVC1TTXBrMjU1Ymgxdms3d2g3UTkwbE1fanB2U0FtX0dYNlZYWHlKTVg3XzlaN2tMbw?oc=5"
     },
     {
-      "title": "道瓊斯指數、納斯達克及標普500週報：利率走向與國債收益率成焦點",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPaUVlMmc5NWlGRm5fMHc3VkxxUmVvZ0hJdzd1dE1tSGRyNUdYYkFiOUtlNnlwSkZ6MzhnS1B6QjE1OEtucEE4cEhKQl83b3pQTVU1WTlrZmNxSXBURzNfck44ZUIxSlFxYWNEbXRhcGxaSUR0bFl1dGp0Vm4wcmVRUnhxdDZ4VF9YRm81VUphTXhlQTdHS2p2QWV5SEpSM1Vwajl3TXg0LWltNGhkMmlUanpvVEQ0ejZJUmZPdE4xSy13SEpXQ3pSdlYyRnhLQndjc0Fhd1lXdWowMzNwbWdrMjY2MDNOWkN1cXpUVV9KY2Ntb28zbTNPenhndEIzbXFTVnVmRVZXX1RSc3lIUm9GbUVhRTZLemFKLXhLeUYxcVE4TzFiRWowclpFTk94bENtaTRUcnVfMVV5d1hHWGYtdjVwQXBSZEY0Ml8yd0poQU5TV3dZbjFVY3Z0bFlXM20wY0R1M2M4WTYtWmV0N1JCMTIzTHZpWE9URElUN1NJaS1pY3RGdVBJS2hwaUVVUkYxZlg4LWgzOXlLZ2R4X3Rnc3ZuNUpZMTg1?oc=5"
-    },
-    {
-      "title": "聯儲局丨古爾斯比:強勁需求正推高美國通脹",
+      "title": "美股走勢丨納指收市升2.26%創新高 道指漲366點",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNOGtmNXY2aGV3TXdOZUx4bzB5TDJTLURLVVZiN0xIRTN2SE5pMF9vQldzXzFDS2xjY2c5c0t1TmlsaTR3d1JBVVJtVnQ0cFNHbFNFSFFfSTZyUFJoV2poMmJRQnZPMFQtekVjWHhDY1RjM0VMZmwxYWFtY0N4MjRocVFaX3Mta0tLbTVkdThLbFFZZGJwb25hWTBaYUNzbEtSYUlfUEY4ZDJBekdyZ0w3MDJIa2prT05Famh3Z3JlTDdKQVhpcm5MbkxmR0ZxRGhLX0JKeXhlWHdqX0FiZE52QmRHTDY2cFBiSDZfTFB6T1NVRVd4Zm1TQkFTOUpqYjhScFFDX1paN1RQT0QwM2hQSFo2cVZkXzJPMlJsblR4UDZMREdCSDF2T21mVTdHVllKYWhUTjd4VThlblRoUFVVUXhpR0VNT0ZIakRCUFV0cThDZmcyc3dSRQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPYUpoUDF6VEIxVTdRTmZ1V2c1QkowaEt5enFjVkVzTTJtMXg3ekZGS3hfSUdORjd1M3pfdWZTd3RBTXRWaGpCYVlta2NxbkplTmlOZ2hRSU13bWF5NV93a212T1RBX2NET3FYcG1mcnV5ZlljU256bjE0WC1CbC1WZmx1U2VkZDZ4V0dIVmlnVmdjZExJQVJzSXczNS1hU0xFX1BVb3MydTIzQXhWOUwtU0tWUVBQWTk3NEs2Q1Y1d1lwYjUyLUJaWEZDSE9rYlhpTVhMVURzSWRFRk82aGFfSnpWdU5jSnB4a1Y2V2V1eVJhOXU1SXlhek50VmpPdlJPUVl5STNBdkV4QnJZN1pNSVhQemZYSjdXRkhRTGgzSmxmeDdNeDdVWGhGbF8xdUo1VVJKN3RRYUJhQQ?oc=5"
     },
     {
-      "title": "美股動向｜AI股反彈帶動大市高開，油價急挫逾2%創11日低",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRy1Sakczb29iZzZtc0hJVTlTV2JXMnhRZUk0N0Q4XzlyZTVTZkJ0V3NPNDZvNGZ3R0o5OWlhczV6MExqY3otQTZzT1N3bFlKYnhRbHRnYUc0a0JSVEFrXzJmd0Zic2toLTd0WENNdlRYanVDbTgwV3ZCeVAwQlBlZGd1V0RkdFVIckp4eFNQandQX1FNdDNISmtxbTA1T3Vj?oc=5"
+      "title": "〈美股盤後〉那指大漲2%創收盤新高 AI股飆升、油價與美債殖利率降溫助攻",
+      "source": "news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHclNXdTNBUDBuYmVhVk1oTkFlb1BwWmprYW1lR1ZoblZrTTNBMlNFRDJ2d21GV2hKbXlzTTFBMnNNS2RwUGFubklWX080Z1k?oc=5"
     },
     {
-      "title": "全球經濟指標 | 鉅亨網 - 金融行事曆",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
+      "title": "美股收評：AI狂潮重燃華爾街！納指創歷史新高，AMD首破1萬億美元、Meta暴漲11%",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WZERSZHJrbEozSV95VF9nVGFxZ3FRWVRCYWRWZFp3UnpYQkJac0Fkc1JZdnZjV0tDSFdSUWtHVHduU0J2MVY1RTRabkZMM1FFVWNvTVMxWXVXV2wyWEpkMnZPUE0?oc=5"
     },
     {
-      "title": "美股早段全線向上",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpdkt0WWluekNzWlZIZk1oazAxLWF1RTRTV2dwQXVDakIzaVRkM3pKQS1aSG1mMzBrLU9wbHA1R3NhU2Z4d2k0bFhXQkl0clRuQzVhTDdB0gFbQVVfeXFMTkJhUVZSS0Y0eFBWUTY1YXZlSndmQnI2WFdmYnczTkJWVmJVdjBFTEZhd1p2bDdmaUhnVzhKWUVXR0FMb0p4elB6aVVVWkZ2bnlxUTNSMl9Fa0txUQ?oc=5"
+      "title": "納斯達克收盤創歷史新高，AI交易熱潮再度回歸。下一步走勢如何？",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92eGhLTXNIX2lZNjJfMHlJN0VhYWpoY0E0SXYwM290VXVtR2E3UVcyTXJRSW4ybXI0QUxMT1pKRlQ2ZDA4RGVVM0Z1TlI1NDd1R2lRT3pOcnRoWTJ5SmNZa2s5NXN4WkZpeU9wRjdsd09IX3ZobjFLbUd3?oc=5"
     }
   ],
   "events": {
