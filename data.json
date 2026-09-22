@@ -1,23 +1,38 @@
 {
-  "updated_at": "2026-09-22 20:15:18",
+  "updated_at": "2026-09-22 22:07:47",
   "gas": {
     "current_label": "9月22日 (現行油價)",
-    "current_price": "183.9",
+    "current_price": "180.9",
     "predict_label": "9月23日 (明日預測)",
     "predict_price": "180.9",
-    "trend": "↓ 明日預測跌 3.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
+    {
+      "title": "國際關係/中美元首再會面背後的大國博弈\\宋魯鄭- 論壇",
+      "source": "epaper.tkww.hk",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVRmZvSklTV1R6WXQwXzFSM3hwSDlVNTBKYkNRdGszb0VhVzYwT0NGYTEzQllnWTZFNXRDYXRpM01CY1J2UjNtcmFJUEF2Z3RHTWtQSGwwVzJWSUQtNW1oOFZWbF9WV052ZjhVdlZtdWV1Wms4?oc=5"
+    },
+    {
+      "title": "澤連斯基晤特朗普 稱冀在美國舉行美俄烏三方會談",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JT0d5RWpjSjJtZ2R4YUdIa25ndW5UVUVIcjdJaEVmeGlodmJzUmFLQWxtbGVjMC1OY0JZY3hBdnFDVFBiUTlIUlo1UFJTT0MwMGplb0R3VHd3M1hlNkxwenh6ONIBY0FVX3lxTE5JT0d5RWpjSjJtZ2R4YUdIa25ndW5UVUVIcjdJaEVmeGlodmJzUmFLQWxtbGVjMC1OY0JZY3hBdnFDVFBiUTlIUlo1UFJTT0MwMGplb0R3VHd3M1hlNkxwenh6OA?oc=5"
+    },
     {
       "title": "中國歐盟商會：歐中貿易失衡不可持續",
       "source": "DW.com",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbjJNREZDQjZLa2piSnRheFRNWTcySnY5TE0ydHhybXhmd1FpZlNzcG5lYlUzQnlZeVJLb2JGZW01aUxXMlZnNXFwaGxMY0ZNdXMyTXJtUnkyN2Rmb3dpZWF2b2xIQTQyTkFoRDRCTGY1eUg2cXJObGtrUTJWRVZtU2wzc1pMRkFTZmRQaHNHTFdERkpDR3VBUEhVSHl2NzRhU0pSV3F3SkF6X282ZGVSSmFoaXdsQnFtY0RXbnh0SVBqYjBYampJXzIwekRBU0hGYktEZ0syTGR5SGswME1CbzN1cHJSZEhScWhQc2lkN2VycEhVWXFfY3pCMHA2UXg0VDY3d1I1MFdrT2ZfSkxr0gGPAkFVX3lxTE5UWHhDRU5wS3hCWFB6T1diSFZXS1FBVEJTZmFsVktyMDlFa0IwLTVvVGMyLWU3WndsWkxjLWhmbThCZ2VDaG1YQWxHV0NFWDdfQW9TeUgtNnVDOWZDTnVBTlNZT0RhUWtIVTY3TEZfYzJ0ZUkzaXMtdmh1dmZ1Z1JmbUptdzYyZUkzT2s3LXVaQlNxRW1UbzdLTW52LXE2TFBMWExjTHNlcWEzUDZ2clFpQTJFNDczUEFqZEdUWElFXzZkTGFQX1JlZ3FNV0VyaGNmQkVhY19yal90V1VFZnZpdVFZMHNEYTlSR0pIa2ZIOWM2SEhMMGk3WXdhZ3YxZ0hxZEZDdGV1bExVeWhMUm8?oc=5"
     },
     {
-      "title": "特朗普：‘別把美國柴油賣到國外去’",
+      "title": "美國智庫研判習川會：AI安全存在合作空間；都有動力維繫表面穩定",
+      "source": "hk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUTNkWlJOcTJJamY2alpnYnlCVDhON3NKS0Z3cWQtdHlOR2d4ZjZpb2YwVlR3MmdieExTUkdUc0h3enZONU5YdWNXbkpfaXE0SWtoa3lYZTctOFQ3TkFFS1VZYlJCdkhZbHRoNC16VEE1Z0RidFNZRnZHLWVFRFYwdHExRFZXdENjNUtqNVdRWV9DZ3hmLXU2ZFotNm8zbkJPZ2ZlTkd0cE9zTE96bXJWUU5aV2Jrb0tCMF9wbnpJNmxMdkt2VDNBX3ZIa3R1WFN4NC1PQmUxUlBiSGk2NzNiVFBGTFNFYS15NWFkQVpLdWtTOWdmNVMxU2lRc1pTcXJNVnI4LVkzZnQ5Q0s0dW4zS2dFSGFpQXpFaENRZVFxYlRDWGd3bk9sZV9PM0ZYODNMU0RsMVVwSkFHdmc0MlVhdmtEQWNnaDR2b1MtOHl0dTR4cEhlS1UzWml6UGpVT08yaGRydXFZNWJRbU56bFRtbjR2dzMxX1l2VXV6akRlMHBqWC1VS0Q3ZzFqYUhkVG9NVnZheTd4c2ZoR2tiT0ZEZ1U1a0htS3M?oc=5"
+    },
+    {
+      "title": "美國將在格陵蘭島設立兩個新軍事基地",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYl9tdU9nd0l3b3JMaDR3NVJFYXZJU1ZwcWZQV2MyOExRcUJJb1RVTjVuMlI4QWJJaWl5c2FZY1dhVEVmbWFQc0dDVnNJX0lGek5XaXcxeWxQM2MzZ2N5LS1fb2dlQ0NBRG1kdkpiTXlMVWt0a3V5Tk9rdmR0c3ZtaS03aGF6TzIxcDRVQ2YyakVScHJNT2xZLXhrVXBmTkE4OEJZbHM4QmYwc1A0QnlORTFHMC1TS1lhclZhV09BRkZxNmYxUWtpTzVEaS1kX0ZfeE5PTWp4Z0VRTEw2QzRpUkhNUDNFeVJqc01ZWlI1Y0xwUkhadURNWm83Mmh3dGVSODlBeU5TR1U?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNTnpxNzJzMXVBRTZ4VngtVUk4NFdidm42d1drUDBWTGdlODZTQzJDTkp0dmJXNnUtdTFDWkVrMnVwaHl6OFFiUWxHc0FDTDd6el80QlFfa2lqUG1rVC1HdU5iNTJfMTkweFRaOE4xa2RJSzB4VmcxbjF2SmFQeC03bXlfTnhuV1FFQjlnN2kxYVpsZlJSUEx2N05SY2IxTWNGcXFUUEVvVXRVZDVjMmdzSk9jRnJEZzh5RWhOdVBqSEtlT3JCSmJMdjNSTTA1YndOUjBlaXQzTjJEenU3N3pVUzUtM3dtaVdfUFpCMzJiZThXRGpoSEN3YnVwa2duM3NFNTJJejNzZTZybHB5ejA0V24ybEhEbVRhU25ZeGNJVGl2cGIwbVIwVFJqcw?oc=5"
     },
     {
       "title": "中國記憶體佔全球產能上望三成",
@@ -25,46 +40,31 @@
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMDlibU1TZGNkNHhjZVVYRlB0WEJoYl82SHo2UXFDVGNVRWR1bWk0dW9LRlJKRGFGLS16TEQtZW92YjlKS0tnT0xITDRPZmFwNDdpVkdzTW1TMnltQ0p0ZnpBbzFVb1NhZUpiSHY4VFNpNEpXbDNuUWpxQlBVOXNlQ0NlaFoycHZlZXJQd3MteHZKX1pibzBCTXc2RTFWbXVndncwdkpnRkRXR2R6eGVFTEdkcUZlUzVzT3pVNVQ3MHlIX2d1TktZSzdGMmNSUUtKN194T2l6T0VqRGdTb2NlQ3hEMXFUTHVtREVlRHRGTUk0YzFJVE5MSF9uTHVYTUg3V2ZiZmVQRWhuTGpuakpr?oc=5"
     },
     {
-      "title": "美國丹麥格陵蘭簽署安全協議 美軍將增設兩軍事據點",
-      "source": "singtao.ca",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3pTdks0bDN3b0poTjBFbGMzakNJckxVMVA1R09LdlB6OHVnZS1qTzMyUEh0QjNELWUtVFprRG53NVhjS2lJbk1CbTc3UWVidXlNcGMtSks0d3YxWDVWNlVTWkR4T0NkMDVBYUhMREw2NjJsREtUaVNIRlhJTml5NmhVZGNaY0VZOEHSAYoBQVVfeXFMUE96U3ZLNGwzd29KaE4wRWxjM2pDSXJMVTFQNUdPS3ZQejh1Z2Utak8zMlBIdEIzRC1lLVRaa0RudzVYY0tpSW5NQm03N1FlYnV5TXBjLUpLNHd2MVg1VjZVU1pEeE9DZDA1QWFITERMNjYybERLVGlTSEZYSU5peTZoVWRjWmNFWThB?oc=5"
-    },
-    {
-      "title": "川普向曼達尼突拋「白宮邀請」：來看看我是怎麼工作的",
-      "source": "worldjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iRHhoUVVWcVd5SEk0VXh6UlhpREJwNUZiOGxFTjM4V2NnMGdvMkJZc1hTeGI5VHNzYlNsUnhybnZfMWJOV1BmSFhNQWRqdzM3MEI2dmcweWZYSEgyVHUxcE930gFnQVVfeXFMUFhISGl5U2RiV0NraXVhUlQxb0p5eFhJcVJQTFhlSkdaeFlRcW9jcWw3ekRuUlZUQTIxMHlieXpjTlc5UVViWks3ZVhpNUhLUmotN1FsclJibXJUeXJJWURsVDFXZXB5aw?oc=5"
-    },
-    {
-      "title": "美以伊戰爭｜伊朗：若美國願意緩和軍事壓力 七天內重開霍爾木茲海峽",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CUTM0Qm9QeEtsMDhRUmlVMlNHS3hKd1dUNEpxS1MtUllYRkJsNWZpRmxFWGoxNmxnWUpJdDVsNHAwR2gtLTNaX2lYbF9PVWMwdmFvWVFrVEx5cTcxSXlWdHdfTWFjdVhIWmVucQ?oc=5"
-    },
-    {
-      "title": "歐盟同意妥協版制裁協議　將兩名俄富豪移出黑名單",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3MXFBaUttNjY0OGdYOTR6Y1Nub1NfU252WDlySkJfUDJIdDhnQ2lVTDZtZzFaM3NaM2VtUkR2clZYUGYwNURackdCUUU1YlAyd2hGOWt3cFNtUdIBX0FVX3lxTFB0aHlwUUU5a21VWUZmRU5TUnFHMW5qdkNEOGZHUkhpVm9Hb00xR3BVdjVwUVZ1dnZDeTFBUVJlNlh3dU5hQ3h1N0Y2czV0bHU4MFpGVTB5QzJ6a2pnUTB3?oc=5"
+      "title": "特朗普：‘別把美國柴油賣到國外去’",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYl9tdU9nd0l3b3JMaDR3NVJFYXZJU1ZwcWZQV2MyOExRcUJJb1RVTjVuMlI4QWJJaWl5c2FZY1dhVEVmbWFQc0dDVnNJX0lGek5XaXcxeWxQM2MzZ2N5LS1fb2dlQ0NBRG1kdkpiTXlMVWt0a3V5Tk9rdmR0c3ZtaS03aGF6TzIxcDRVQ2YyakVScHJNT2xZLXhrVXBmTkE4OEJZbHM4QmYwc1A0QnlORTFHMC1TS1lhclZhV09BRkZxNmYxUWtpTzVEaS1kX0ZfeE5PTWp4Z0VRTEw2QzRpUkhNUDNFeVJqc01ZWlI1Y0xwUkhadURNWm83Mmh3dGVSODlBeU5TR1U?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股初段造好 納指創新高",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zYmZPc20yd1ZIOGx4RVJzUjlmZmFuWTBRNzE3NXdwTUVyU0VpUnBTQkp5S1Y2VzZVRUpaMUhVRkhJNW5XWk9TVDdUNUZDdGVKd2RsdkZ5UjJXYkNyUUM5S3VmXzVzTUhTUS1SSm9Zdw?oc=5"
-    },
-    {
-      "title": "美股外強中乾？「這一幕」本世紀首見 上次發生在網路泡沫前",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUVlrVWJBb3ZZS3g1NEpCU09WdzdwMldGczdwUlBiUEs4aUdSaGVJZUlSMzNZWkVBNE9ZbFBzU3dUTk5EZGI3b0pudVNkeGFDSFREVE1TMlA1dEFSR0xOZldHa0VpWlY2QnlCZjdqM2ZfTEVTT3NNWG5sWHppUG5iWV9rczFRZHVCdjFrSnZ1NU5rMnR2RzVOMFN4SklRODdBWllVcXFpazNMUzZvenA1TE9wNGtKZXVuNVhad2Q3VnUxaTg4VGRobUk2ZGwxVkNwSDdQbGJvNkp4RVU0Y0p3WmVQLXVjS0FrN1R3VlkwV0F6OGJSRFlLd2hSSzZSSmJRaWZXdWU1b3RLNzVHOTNLUF9EOEE4UVFNTk4xa1dHemQ1MFJ0OVFITGkwOHNidGFsdllmSGdnb0NMRjh4UWdPUFktTEl3bTg0OTdZam5QYzk4UTlwX2JCZXBzY01fc2tFM3BpTnNmbHZrVktmUzBuSnZmT2NBaDA?oc=5"
-    },
-    {
-      "title": "貝萊德：市場過度解讀聯儲局鷹派立場 維持「親風險」取態、偏好美股及短中期債券",
+      "title": "【美股收市】美伊談判3小時 洽重開霍爾木茲 油價下跌 納指續創新高（不斷更新）",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1USnNIWHR6bk83SFl5VlE4U1E1LWVrdXBhdU5obU9ZVmlGZFVjUk5VM3IwNUhqamx6YjVWYm5VQU5IZWg5RU5tdURLMzA4MTRqZjRjZFg3Nk1IRXRDVDRLYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxONWs3TkJ6NlJFdGlBRmNwTDBZOGxaYlhNdnBGYmpidGRmcG1lSy1CS1FhYXJIaWdLazN4bXotaDBEbXYyWXFhNzNNWWNHODY0NjdQX3NQMWZCR2tNbC13c3BDeXlaNGw5VlZuQTlZeTE3bm5BV3pkNjcycGRMaTV4OW10ZHIteDFuaklyY0c1UTdfSjktODhsczB2aWdLeEJnMVZpa2hjLTZTcEZTX01kWE85VHVIMElyY290aFI1RUVYX0l2NzZBU1lxbVYtc3cyTnZQVHAtb090bEdodkg2enozOFlPTzBFWU9aQnFBMTJ1eHdkNTVCS3pjb2hydnYxMHFsamMxT0lyMUR1TldkUTZhN0tkM01KUWV2NHdKYXdNY2hsaVNZMFNjenlhaGlnQXNXSE80WHQ4UG11aG91bXhDRzlCT3NuVlU1YkFnSC14WEt3VFVxUFVLU19HcWc0dXpHaDdzRGNMcDVRVVRJQkFrZmYyaTU0NVI0UVBIYVJabHN4NDJuWWpVcVVINVhmNTMtTERRaE9iUVprN1lrX0pDcG9lcXBfcTNLTXhLUTNoRU1KaUlTY3U0Y0J6SnpTTU5GaWtLV2hnWGpCNENPaWY1WTJKcEVNUVZYS0FFcElqVHFYUEFqN2dtUzVuRTFkTUhxaVFJYlJGa2hKNFlxWTl3?oc=5"
     },
     {
-      "title": "美股尾盤 | 美股三大指數個別發展，納指升0.4%",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzhfSmNtVDVIT3lOY3JHbWhJR2lvOEpjdVBlenBVa0drMGFHQkUtbE85eW5Kemt1UkE2Q1M0S0pia2VwSVQ0Z1M3aTBrMWVaWkI5OXVCUHIwUDlNSEwyemphR3JFLU1fblV3b09mNmVvVmR3Q2JGUVJiRHgtbEIwVW1QNzBnVTV6azJ5OE9HdU8xTy0wMW9NZ0Zsa0FUMGZZ?oc=5"
+      "title": "美股走勢丨納指收市升0.45%創新高 道指跌185點",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOV1NjUmJyNUpoZHREeG4tM0d3SUgtMExSUG50TEVCdGlLMVJCZGU3VDh1NXEtT2Qxal9JWVhUczVaWnFGT2VJVEk0NXlwVDBadklZeExmaExyN2VpQmZTMzc0bHNiaU1BeFN4cm1NYWs5Zk4yUWZuX3VrMGlSLXI1N3VsS0JmdHBNRzlCRHlHVFI0SmxjX29Idkp6STNnOExYTFo3Mk8ydVI0OXVYQm5PbGxYQ3FfakVwUmdGd0llMVRfcGpaV1BHSUxDZUZvdzBkdWRpRm1QcGx5Q1RzdkxKU1NuNWNhVFhsblZJZEFXcGVlNlduU3dNelItZUx5Y0hrcG9DS2ljd3VjYWdhTzFrMW1pUG5Ld2RVeVNkSG9jY3BUeG5LQ1RUelNoenVKbkEzamFlckU4ZjEwTVA5ODIyUjlycU4yNVlxbU53?oc=5"
+    },
+    {
+      "title": "美債基差交易規模降至逾兩年低點 套利空間縮小或反映美債需求堅挺",
+      "source": "hk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxORURodmlWOGw5c1BkZFB2dzBRMTdXa2VNc1luYzRzY1pPeWdVYjBEMUtFUFM2UkQ4eF9ORnJxelRxT09qMDNReUowTFctTmhIM1N2bnhDTjdZOFh4bE5oSFRkeERUSUlUZ3RzbWU3VkhIVWlab1ZFZGN2QVlNN25QY3FLREFSWVd3UkRGSFQyTkxwSW9rNWxISnk3NnNNTzFnakhWcFFvRC13dG03d2dBTE12YVFnektRVjBTZHBYWWpqZzVwN3dVcmZsU1lyeWUxbG43ekxPd2VrNlpHbnVkclNtdGwwc0M3c1lxdW1ZMXpIUldUTWpIZEY5cE5EX3h0MjBBZkd3ZlRrekZRVHlLeGp0UWN3Z3JDZmFCcWVGRXdGUVdDMzBlN0FMRjh6QzdZalc2TUplbTlaWmFrNktiUzdaNDljclp2RjZuRkstX0lQZmMzdF9ET3ZFd2RZaG9wSmUySllfRE1jVEpQMkdGUElxcnVBM3VJNmdyY1lzZDdLc3ZScC1DRk5iVXljektaamtXcGdvWXhVS1pzcGdlSUVYbzJnVmVwZ01FMkRQdUJ6QWNTWHFzeE5ia0tZbHZNNE9MMXBWZw?oc=5"
+    },
+    {
+      "title": "《華爾街日報》文章涉誤導謝小華：香港堅守自由市場原則- 港聞",
+      "source": "epaper.tkww.hk",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MbGU3YUduS28yMHpaNFY2dzFpTHIyYnA0MF9aVGxCdF9DT3Z2VEtSR3VLYlVrM2hpSTM3d0NCZ2NySTFGTTRxWWVUVXFNdU1ra1RRaFljNkEyc0hiS0xSNGlfd0VjeFRvQ2I2am96TC1WS2tV?oc=5"
     },
     {
       "title": "獨家：SB Energy納斯達克IPO按計劃推進 作者 Investing.com - Investing.com 香港",
@@ -72,9 +72,9 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBadjVrcXUzVE5xUG05SUVrWjF5Nm9ES3lBVWdlYV9PcE1uR3FzT0Vlc2pjclg5bThoV1dHRUpWNTlKMEJzMVFobjZUUGNhRkFvdkU4Ny1ETHJHeE80a29fcEM2NEQ3Q2xLbUVYcE9oc0Q?oc=5"
     },
     {
-      "title": "美股走勢丨特朗普揚言美伊將達成協議 道指仍跌逾200點",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPZVk5YjliNnR0dXI3M1piR1ZzRDBNTUluS3JzYUhOMkhWV3hTS0IwZ3FFQnVVb2tSRDJtTm41UUZzcS0wR25QUmlSZGNxOWtFQkdvLVNFUFJvOThlRmMxNHJVbzI1LTNmMlRlbWh2cW9kT1FXV3ZYQXd6OTZKdWVjZ2RsY1J2UnhjeGRyeURDTVBPT2t5clRuMXlPUk9nNm1tekVEQmpIVWtqQ2UwNURVT2ZMZlN2alBaVGFHTjZJYy1xQTkyOFY1LXJuQWVCU05vU0dRXzRLZWxnamljZ0NXc2Jsc18wQXVWVW9aQ0FSQndhQ3MzT1FNLUQ4TWpvTjJIdURSM01pY2hjc3pDQ2M3bWlPZ3l3d3h2MVhQQW5ZV1YtMGtacnJPQ0lVZVc1U1c0ZzNSN0tWanJfSXVmOGNGUTAtbFo4bjJyc2dTWGpSbTVoSEhuV2ZvS2M2cTh3YTQ5SS1JOFo5OUNXYm9vTlNnY1FFd3Y1OUdTQ25R?oc=5"
+      "title": "美股動向｜標指逼近歷史高位，牛市續靠科技巨企領航",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWNPeFhsYWJWMS1NZHE0Vzd1VS1GbVlFLTdXUzZVUjNIOFJYaEMySmRGcTRyZ3J3STJ3alNNa0lJVGcxaW9nN1psQi1CcjloU3FWZnQ2UFBRS0JvblMtOHdRMHBJQmxIZzdBQjcwVElQSjNRSDhpLTd2UWR3RDJONGNhU2NNZzA5NVNhcmNMTEQ0M19MSVNHOWVoUjc1STVp?oc=5"
     }
   ],
   "events": {
