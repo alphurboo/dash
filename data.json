@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-23 11:15:21",
+  "updated_at": "2026-09-23 20:15:21",
   "gas": {
     "current_label": "9月23日 (現行油價)",
     "current_price": "180.9",
     "predict_label": "9月24日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "183.9",
+    "trend": "↑ 明日預測升 3.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
     {
       "title": "習近平即將抵達華盛頓，美國學者、政客怎麼看？",
-      "source": "BBC",
+      "source": "bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtYjVkd2kxc1VRTDRuUlJvMG5jS0RtNkpZWnY3YURBajVHMnJ2Y0pSMGVNM3FROVlCN2Q3V0JTYkxrRThaVWFxd2ZKRDJFM1Y0T0kza201VVRCcEhvZno2Ty1yR1B1bDDSAWxBVV95cUxPOE51UGxsa1Y1OFRaZlF5LXB6NG5PSnRoMFVSS0g2cXd2bGlzRGJydXJKRnRKWTlwMzMwSlFDNTU3cU1xdkZTQ3NoWXN0TS1oTVF6TGplM2t3Mm8xYUtsUktGMnZLQjc0TFFiUGM?oc=5"
     },
     {
-      "title": "一場美國輸不起，但特朗普贏不了的戰爭",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPV3JLeGF6NEtkZzZuNmRuY3VQYno4NGw2TTh6QVROaE1PZ0hnYkd2UzRobnJNNjBfS194T1NHdExYSVBpQzlBdGV3N2dfWkpYN3F6MnJEazJIY21HTkszRTNQQU9LS0lkUnhoZzYxbS1KSk9fS2FKRk83QTZfVHFWQ2dEMFZwX19kMUZ3MmxkaWoyeEw2NUdNMHA1b05hQ0podGJkSmd1OUI3RE9SNl85SzIyNlpsbXR5RzZiRFczRXdpX0tYeEdkTTJpSjVpWDlobHN0S0h0NmIza2RvU3NWNUtHYVowYVgtSDM0b0RGMFlNWGJnZk9WY1AxckhzLXFNYlJzWWRTaDFybnMwRnhRQnJEdVFEcGpYdHRRRTBOUHBZVVo3ZV81aU1DNnlGZERta2JJYnA1VlFiWjQtS0RtMEZZbF9MTFRESzJZQmJLVQ?oc=5"
-    },
-    {
-      "title": "歐盟所謂年度報告內容偏頗不實- 政務號",
-      "source": "tkww.hk",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44VEt2Qmdrc3cwQlktc3RCRF96YUJnb1daQWd5WHNKbDZJN1pCWHg3Sm9DMHNHODZSSFVlS2g3WlpVekNlMTNXbHVaWC12b2NqS0pzdHJTcmktYk5rOURwMldsc2lMSUdLNE8xWldseVE?oc=5"
-    },
-    {
-      "title": "運輸及物流局局長出席亞太經合組織運輸部長會議及全球可持續交通高峰論壇（附圖）",
-      "source": "info.gov.hk",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5OUJnbGlxNW5Sek5ZQ2dJa05VSG56dktVbUk3ZzFwYVRzeGh1UEpQSFl2VXlBYU5CdHBjU296V0VabDJTZXBMOXhHNE9xWFJ6TVVYdDJiTEVrQXJWTFkzc1ptSnk1TFg0WUJubUE1bVZ1QQ?oc=5"
-    },
-    {
-      "title": "CNN：美國2028年大選已開跑 賀錦麗及萬斯都有動靜",
-      "source": "AM730",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNd0hsZlVjaHdKRXhoTk1zRGJjVm5IRGFpVlZnY2tCb2RITDM2Wjc5eW5tSk5FbnV1YkFGSnh1ZjFvSnFLTlFQc2ZoMFc3NmJxMVNFOG9uRk1sbWJ6bjdRbFY2U001XzB6eklBekpOUW5fWWprVmQ1S0ViX1Z2TXo0YXpzRmFzV21nUU80Ml9hdzc1enhuNk8wTUQtU3pySlotaWF5eXRlVEtyWG1jX0RDNlU5Nk5qbHhPRVQzc3kwN2dUcUFZRGIzTkhXc0UwWjF1d0N4X3ppM0JTVnRXeDVNZmRnUXIwY3dZekUwSXBlOVJwWnh0TkxSVzhta1d2U25qZXE5bWt0elBJYVhTLVU4VDh2Q2tfc2E2VVotd3lJS1JMaGVaN3pqdHNUNkNGdmlPWUJzcGZPQ1pCSk4tSVNLbTFCS2xtQQ?oc=5"
-    },
-    {
-      "title": "聯合再生啖美國非紅太陽能商機 模組廠明年Q3量產",
+      "title": "關稅戰打了八年！美國真的贏了嗎？中國零組件換條路照樣進美國",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOdWJKVnFEVUZJeVJHRUNtbEU3eUVqTjhfZE5HdEYwMEozRDM0T2t6TXJfdlVhdUJpcWNaMF9aVFdNUlEzNW1BQnNUSjRqNTBLUWpxbURxZUtOcVkwTzVUWDZ0d04wdzJjeUhXWW55b2paem9sTUpmME9ualRGc0tzeTJMQlNweFphV1ZWakJnRlR1bGM4U1FsYnprWTZIWEpsZGdBcjc3UGl1cHFxbjRfb1BBcW9OMG1vbjBRdmptTkNGQUJiOVdTWERBMU5YYUp5VVJZQWd0TjJMdjlMSDZ0N1dVQWZIT2xqc0R1X2lsTUdiRGdvczlEcUpsdGdXU25UZmxpVHIxNGRQQmllbk5UYWF3X1ptUWZRdjNBajN4MXlqVzE3c0JheUtvLXFvcnNNZDhxekFPRXR6YWNNMmlmZ3JlMWYxUXRYNGZmRmNiRXdoR2ZCSDBIQ05nNVRYUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNak1Ram5kREpCZWNrem1sMFJZc1BZTm5uZldpNEFyVmpncWN6cHVVRS0yODdmNDlFVFdvdWtybzJ1UFhibERvdUh6WmtzX2ZySHVIS1lTM1haME1WT1NrX1g5dTNMWjRxWVVCeTdQQ25NX2Q2Q3pfcExOU1ZuODdrMjNvUko4UW5ydkhBcGU0bHFwMVRKQ3loOWRGYW1SdFdJS09ZMG1oMzREdGVMdlhkQzBYRV9nNU9KV3JQWFpiSmpHSEQtaDlfTldURkRUbmtwcmpWdk1mandjMFhoSHhzc1hSUWU5WTVNNE5YLXdka1hHLVU3ZExiSHpaM2FtRnpRdjdfay1JYTcySkh4eEZsOUFHM0JuSDRvZE9xV1o4NHhwa2VFelZOQXN4S2JSVmxJYk4tWUVJbV8xQkdQZnF4d0ZVRnoxUndxREp3SGkwbkExbHdFaUswOGs0d0kwcTlOMXlQaDNfUk9lcHpzNzNFUzhjb0R4N09Jb1A0N1FaSUliaEoxMlZoSGZxeDZzUUxibEhUMnRMLUN4U01PakFhdXVCQmc?oc=5"
     },
     {
-      "title": "習近平今赴美國國事訪問美各界充滿期待外交部：妥善管控分歧不斷增進兩國人民福祉- 中國",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kYVBScWg3TXdaeERRSThuS2t1WHJ2YjVSWUhZemR2Q3lYQVNhV2VPbnFKRUI5UTdpNUJYWDNuWGhCUFM2YzB0YkpscnVqOWJLVV94bUg5Q1RSLVh4Wlo0ZGlEUEVqdmZ1WG14bjVhZVh3aExW?oc=5"
+      "title": "法國推動下，歐盟解除對兩名俄富豪制裁",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOamR4UDRVN1NtbldVZXRQU0VKZEEyZ0hucjY2eTUtWnQ2ekIzdzNvTDNRQkIxTGdNSWhJQnd3SVR3TWlvZ0tZVFJUanh2am9hZGhyTGdOY1JuRlgxREpMWWI2YVR3bGR1ZjNZUXplZjBXUFJJQnkxM3NaaHB0eUhUT1o1UGFrLVBwTjE5cmtIb0tWaENmUU1ZMW5kNFR0Nnkwc1U1ZV83dnZlbVlxYnhvRWJZQ3dFZmN0V1NxTV9yeThRMHZicWdrdWVYSFhnRG1SZy1za3ZDVlp4YjNTeGF4WEpXM2E5UHhKRmQwaXQxbzlNTk52TGo3a3V4RW01cjhLaVJEeUhHOHR0emo3WW90eVgzTXdXY1VZSjF4YUkzcUk5akdSYm5ESXdzQVY3UnBPMHVfUUN5OA?oc=5"
+    },
+    {
+      "title": "美國麥當勞宣布斥巨資升級餐廳 股價曾跌6.5%",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQT0ZFVEw5WnpmRnJLckRQVWJNVnNiS2VhdVFwQVJZdzJXeUJqR1RSbXdtTmRqb1NHMGtmbFZXZlVGRXVxa2Qwbml4LVNQN29YbVlKMHNudVNGQlktZFZCVXhEQ3VMc09wS0hLck0wN1R1VHBkb2ZhSTQzUkVPX2JhX1c4RDU4QkRVVUcxTHZMUHhXbDF6Q2xnZ29zS1JGZmRQUXphLWxjVFZ0cmhoVGxZdlNvVnIwUXA1eDlpakdoMGttOTVVUlBJUVFIT3ZsMGhJWU1Nc0k3T3ozOVY4eTBZQ0phaWtrZUpZcTl6bVo2NWltOGFTcWJRM1c3c25Ka3V6TVZ4Uy1IR1NGeWpuTnlUejc1bXRoM3Q3eUp3blM0dFdxNVktcEtRNUdUc2VBLU9oVWJhZUpMN3laMTQ1R2JqcTZQOHVtX29FRnI3bHlBRzFPdw?oc=5"
+    },
+    {
+      "title": "習近平避開紐約 川普在聯大強調美國優先",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQS2hpOHJITmpZMXMzYW85WXpPaktoMHRiNHBONDBzVlVKWXlVU3dENGpJd0hGcEVOTFFVQ3ZHd0Mzd0w2aU9od1E2SGNaLXk5Rnk4eGdhX3NUZmd5Q2o5U1dmYVFDM3daOFdPYzhGQkVfUjg0R1cwdVZhLTRJalhzM1YxTndHdEZrWjlJeEsyTXhOQnpYaUhYaXNzWVlZajh2WU16OGNsQ3BlWUpGWU9jSHlwVkpNb3ZJU0hPb3ZPZEI0RG41MFpQY1pFOXdEaGd2VjBueXN1bVItRWxON2RuQVl2R1BheC0yQVVTUEdfNXhZcWhqUlV1MFBXNFlTSVlRZjhMbEJrblM2OUl4dzAteXVHTUlxSHhRa1pFRXhXMjdpYzcwNDB1YdIBqAJBVV95cUxQS2hpOHJITmpZMXMzYW85WXpPaktoMHRiNHBONDBzVlVKWXlVU3dENGpJd0hGcEVOTFFVQ3ZHd0Mzd0w2aU9od1E2SGNaLXk5Rnk4eGdhX3NUZmd5Q2o5U1dmYVFDM3daOFdPYzhGQkVfUjg0R1cwdVZhLTRJalhzM1YxTndHdEZrWjlJeEsyTXhOQnpYaUhYaXNzWVlZajh2WU16OGNsQ3BlWUpGWU9jSHlwVkpNb3ZJU0hPb3ZPZEI0RG41MFpQY1pFOXdEaGd2VjBueXN1bVItRWxON2RuQVl2R1BheC0yQVVTUEdfNXhZcWhqUlV1MFBXNFlTSVlRZjhMbEJrblM2OUl4dzAteXVHTUlxSHhRa1pFRXhXMjdpYzcwNDB1YQ?oc=5"
+    },
+    {
+      "title": "中國使團斥歐盟涉港澳報告干涉內政　提出交涉",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0WTAzUnBPd1NRajlLb0RxOGdDanVfTzFfZzJ5Q19OYThwaDJJOFhFczRpNFNPUVU5eU4wM2hIMDdTRkJySWZKRTdseThLTHNOUGJ6b1RQTWoyOWFXZ2fSAWNBVV95cUxNdkJwRGU2VGhLRF9tR2pKSW1PYnc1b2ZJZlVPenAyTjZRbTVHVE9tbDhXemh4SWxFdkE3R2RkdGZqVlptUmdWR2FaSEY4ZE54LVlqb0FYaTV0SXR2YnZCRUhRc3M?oc=5"
+    },
+    {
+      "title": "魯比奧與拉夫羅夫會面後指俄烏均有意有限度停火",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3MXVVSjFKLWJHT3NrMTNGZkVDVnJPTzhOZ3BuSl9MNVdKUks4OUZidVJicEJrTk9MRzBUZF8zaGxUeWQzaXRYbTU5bWNNZU1JYVN4MTZ1VlBzVmRzYVFvOEo5Tk14OU1DTFlQT1M0RVYzSjNwYWc?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "投資標普500和納斯達克100",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEdmRjN3QUlYOWE2emFYLTRrczF5V0Y2alo4NU1sWGNOLXQ0dGc4UUpaMVR0ajJ6MFFqSGtPS3REZDZMSnFKdzZETnZlaXpQcFg1cFBINm05S3hUVGhZYVJPNjhRTUVDVTMzOWpMbWpVUE40WC14YURKU3M3aUwxdWxZbjc1T0x0RnpEVFpxLTFLTTJPMnc?oc=5"
+      "title": "「川習會」倒數計時！市場觀望情緒升溫 美股4大指數全面下挫",
+      "source": "Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOcGpvdXhJcHI3dUVTMm5TdEdwcFRPc2hMRlVHX2pHaEVnRUJLMnJCd3o3blFQUXFNTHlWU2MySFJNRHBpRU5VdlZpaEUtcFl4RFdxZF8temJkcGJLZjFpVnk3QU9qaXR0VXVLaWZNa0xEZEJLbHRDaHdsU1FSNnYzN2pyeWJTemZ6OXJwNzFVbGVsbF8tZ1BlUTZsaC1LZW9wRUxqeEFSYVBiek4tLVZ6QXZwV1htcFVRTmlmd3JYVjJXQVlpcmNQbENJaTg5SEo1aERvQ0FvdG5GbGYwYkQ1WW9WSzNBbF9aUGZNdTNWcTRHY0Y3U3Q5UUJmRHpGNGhDeFExNlQxd2JMY0ZLdm5kY0NzUDhDZ05FTDhrdXhzdnN0YnFrNmlmQmtDaVlET0d0ZG1TdGVBSmpTODh6ME9aT3QzNEQ4SlhrcDNBT1VOcDBsQlhXUzF4TEZtWWdDMnVzWVM1ZTdUQzFLQnBDTm56VktfSmFtSlUwNzRZbVNYX20?oc=5"
     },
     {
-      "title": "高盛維持聯儲局10月再加息一次預測",
+      "title": "美股初段偏軟",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5UlUyeEgzckc0SjBuV1BHek8wSmcxTUllVmRmMkJYcHlIUHpiQVF4eTZoTXBUSzZEMGhLYVAyQjl3SF85bGdwaHFfZVREMWl5NjRlVk9FOU4yNVVvQ2ZYd2VIcXFlSGRmUW00X1Jkdw?oc=5"
+    },
+    {
+      "title": "美股早盤／布蘭特漲回100美元 10年期美債殖利率破5% 四大指數齊跌",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBESVZNRlVyRDNfTEY1ZkpNX1BoMmYwT1dLckxxaDYyVGZDTTFfRWlwME04ckE2ZVNPZV9ERjFDRmE3TkdoUlhVSzh5TUlWV0dadmwzb2ZlYnVqcXda0gFiQVVfeXFMUGp3QnhYM3dnZFAwNm9DbHhMZmttVzVsd2ZBNU5wRjY0UDY5RkowZ3dnZkFOYTFmTGlTaHBXY3NBN3gyd2tzUVNYSXpzWGZBZjhkdjVOVThabkR2RXQzcHZvemc?oc=5"
+    },
+    {
+      "title": "美股走勢丨美債息升破5厘 道指跌逾100點",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZmZJMXBfUGpKVERkQkdLX2FIb0owaG0zVXplUnA0RUlVaUp4azlCQjJYdFR4OHZxODlDcVpzZjhZczBtRGlXclZ4TmZGU21Va2hqNDlIeHBTVW5tOFA1WU5rZnpwcHlSUjU0VklVLVZ6TzVBMVU1aktvcWo1Z2dLRi02Z1I3WGxBNC1IZ214X3hGUlhxRkxndWdWVnk5SmhXckR1QmlOd0xMRmlFRjlsOEpXX1kzd3hVOEJwVU03UVJLMjFCcDg2TGJieHBfTU1MQUl0U0c2OTlDQUpMTEc0d2ZUXzVnOHhXVWJjSU1WSl9ZZk5XTGllcDJhOTRHYkRTVm5IMHAzUE9MWHlmSE5sQW5EMW5mZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPLWcyeTJBX1ZPaHBrVWRsUmEzQTNRYmI0UF9OZmxoZkhmQnNpMlZORjF6WWtDQ3NsZnBRRUcyc0tDLVR1VG5MYXpIdWlTMEZlZGtSQXU5MUE5emhQSjFjbWRfU0lZNXVLeWozd2djc01idFhQdXJIVkVLZFBDUEpLd2plM2tvSzJrWlN0aVI1ZldDYmpwMG54VzR5LVJrY1VuZW8xRUtVbm1iQzJEQmtGYkV6S1UybV9pU2c1U2hhSUNFZzhKQzdCMXBWTFprWVNLOVBKM3JFRXlpZ2JDWE4wTzlucWpiNGo1bmpINWdhV0FvSEd6SGxVUDVuOFc2WlhWeDhVUkI0eDZHQXg2dTYzb01xRlFaSWR6YjhLVjZnVEF2Z2xwNkVnbQ?oc=5"
     },
     {
-      "title": "【美股期貨】道指期貨升54點、納指期貨升0.1% 油價個別發展、金價偏軟（不斷更新）",
-      "source": "inews.hket.com",
-      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPNzgzRklkdkRLajJGcHJOUVRYb3RmUUF3bDhwek8tSFl6bjh2c1VubXZtR0NqZGNDcmdGN2czaUYwaDZ2TUJuUzByRXZWZGZHOEVCZmZjejdnOFlKLUpYelZmcVBUOVVXeXNqeW9fN3V1b0VQbnRycDJGY1lVeDNhLXpPTFh0Q3hsWko4MkZlUzF1M3U5Zzl4QzJOaVM4bG1GdXd5TGpZOUlXUl9sV1hqUmpJMVU1ak8xQnRLYXlHdHYzRnBJeWdBZ1NCcFdpa0ZsZ1IxNEVqS0F1N3dEa1g0WGNpMWZsZHBBemZyM01RSm5DdThzeE80Tml4clJldjNmSFQyNElhVkxFMXpRTDdhRGlEQ2xFZmY1RXVjMHZyMzkzTThDTjlyWXRpQ3RJOWI4SzVWQnV6WjFfUWhsY1FMNUlJUXVreHdyZFVmR2VwSWZnMlVCMHRobVVHcnV5VnBaeEJ1cW5SZ3EtWUNZQUJiNFBpYnBhLTNrWTBURVFzS2tGaXIzU2d1UkNWZXNpc0pIM1NMRWQzaTNwTWlXdTY4d0lWOXVhMW9yWHd0MjYxZTJjZWxnSzFBanNZOVJhcHlSRERVM0JNRmFiblB6WHluS05wZmNKVUJTQ3ZzWlRFeGY4dWd4b2FXVjVrZ3hrNDdQbjRWLWlISlpFRjNXcEpFZEV5MlB5NFg0?oc=5"
-    },
-    {
-      "title": "【名家給力場】美科技股回勇有咩啟示？(下)",
-      "source": "Now 財經",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4ZzRrQl8xUXRuYmJJRDlZTXJTZHdxZzhWRWV0RWw1Qi1VdkFRamVEdWVXcDlPZTlaWkpZeGVwUEhzTV96YnE0dFhXZE9PZHlFT3hCVnhONTFfeE13RWowbEFaRnJVLTBuSEtNQw?oc=5"
-    },
-    {
-      "title": "華爾街期貨持穩，市場關注中東和談及中美峰會",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSlpHNE8xRmw4TGJVX0tXXzA5c0ZKeWxQRF9RSkl4Z3ZZcVFUYVBYMXgyOHMtMlBEcmdJTDZ4YXMyN1dyWkh0aGJ6NHg1ekFQUGZnUVdpdXhDX20yUVZTOG9kdWc5bkhzbm9rd0s4bmE4UVlDTU5n?oc=5"
-    },
-    {
-      "title": "那斯達克連漲五個交易日後再創歷史新高 作者 Investing.com - Investing.com 香港",
+      "title": "小數據引發大行情！美債收益率創近19年新高、美元衝破101，美股高臺跳水、黃金跌穿4300，加密市場4小時爆倉2.8億美元 - Investing.com 香港",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44cDF4RHMzOW5INDM5cHphRXJNLVg5azdjUlc0WXhCdElCcUJiUDN2TkxkV211d1hEa01ZcVFPUjJaVGZpb3huMFI0eC1oZ21rc2pFNWthWHViZzgzTXJNT2tpVjRNUTVuVWlBbkZ6cDBlejc2QTNR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLNklLdS1HbUs5MWZ2UGtzbGcyMXFwQXVzU3FBX21TSXI1ZFNJN1NVN1RoUUNjRXBxNVZRRzFjalFBN29iXzJ3MDdyTW1oTGFoTnBqdnRQVURvaV9pUXhzYlZ5a2c1cWc?oc=5"
+    },
+    {
+      "title": "美股動向｜納指100勢創6月以來首個收市新高",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1NDMmdvWFM2MUhycnF3elJZakhUNTkyaFV0VDhPcVNmenRoZndYSy1hdmliTXl2b2hqS1FzSUVHUUlpMW5OVFFwSzJnNGtkcG9HTU5LTllUbHNpV3pQbnd6Y1JER19DTkJNTTlZZER3NHlRUElJVUtRWGRkalRwSFJBbk13bVpNMGEtVThoRjJDbFQwZVRIS2ZnUkVHVU9O?oc=5"
     }
   ],
   "events": {
