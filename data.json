@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-23 20:15:21",
+  "updated_at": "2026-09-23 22:08:59",
   "gas": {
     "current_label": "9月23日 (現行油價)",
-    "current_price": "180.9",
+    "current_price": "183.9",
     "predict_label": "9月24日 (明日預測)",
     "predict_price": "183.9",
-    "trend": "↑ 明日預測升 3.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
+      "title": "特朗普邀請普京出席美國主辦的二十國集團峰會",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNTFd5WXYtZE9tbk5hZl9yMlJsNGdWSHh0cVRaSWxQYklydXdjQWY2UWV5bUFNejd0cW5GcHNBdVdNaXNtVWREdXgxTGR4dEFkeWFFZkFwdUtNTUdnRjI5bTFzSWRlaDVJejgxNDRzTXRoNVVacFRtclhWN3JVRjFQWGp1eXJxSTZCbEJkc19ZX0hvQUNqMXpsMGdXZzJXTHBXNlhLV1lEbkJpaGZNNU9XMDJmRmdWMllzVVpuS1NKQmJyaWRtRzY4MjlLakl1OTlGRDNrQVBPYzA1dHVZQkZGVC1CS3VraTV5SjZWTmFrS1hpTkFFcWJtQkpZZXd6akg4ajh1dlFFblFWMnJFSkgxOXpMTVdDSVRfZy1KNDhFLURWNnEyekZrV1l3TnFNVldRQk1WckpwTVdqMjZqTUE2SXlLTjNLY19IaTIyeVBYQWNQSXJuMENHcTJlcw?oc=5"
+    },
+    {
+      "title": "滿紙不實言論歐盟涉港報告自欺欺人- 評論",
+      "source": "wenweipo.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jY2Y3QkpULU9SeHp0c3psQktTTDRKSWZNQzNBUnpyLU1iUlJ4YTJXMUREQUFoTXV5MzJ1RVdjQ2xkSW13amlKNEZwVGw3STllUUhjQmV2allzbEFBRGxMQUlscFY1ZXNVNUZxc0Y1VFphY1R2SWs0?oc=5"
+    },
+    {
+      "title": "習近平專機抵達美國展開國事訪問 特朗普機場迎接",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQQnFuREV4T1ZSb1RZQlNmc3BLUWRNV2xFYVJ3UEh3SmVDV3FpY19XbE1fNU8wVnVxMTBFUzQ0UlBsN0dCM0tiNno2c2o1anB6Rjh1ak5ySkVwd0ZGWWFscGUzUkpCUG5xQ2NlWW5pUXotQ2I1aUpKWUR2ZG5WQkhTY0pNWGdCVm1Vc3JOQWtXcmRZa29IZnktb2xZNDd1NUE3bV84bC1WRm1kNUV6VWRRQ2l4YkhPOHF3LTFFV1Z1aDVTaGJRZ2luejA5dE5wZGk5VzFFU3F6b0t0YnVfc2hYR1hIclRid3NWNU9obm9pdUFCcEJXN2hPQW9DQnpRUUZEbF9LbXZtVldHT244eGtoT1paOS1FVnpsZU9VbF9fSHVFa3BfT3dYWS0yUWZaYWt3OUZneHdNOEVGa1JKRFd3cm9ENjQ3TGptT2c0R1NyaldTbU1vVmUtRkJTOGgzQ2pvMERRRjlMTnhaT2c?oc=5"
+    },
+    {
       "title": "習近平即將抵達華盛頓，美國學者、政客怎麼看？",
-      "source": "bbc.com",
+      "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtYjVkd2kxc1VRTDRuUlJvMG5jS0RtNkpZWnY3YURBajVHMnJ2Y0pSMGVNM3FROVlCN2Q3V0JTYkxrRThaVWFxd2ZKRDJFM1Y0T0kza201VVRCcEhvZno2Ty1yR1B1bDDSAWxBVV95cUxPOE51UGxsa1Y1OFRaZlF5LXB6NG5PSnRoMFVSS0g2cXd2bGlzRGJydXJKRnRKWTlwMzMwSlFDNTU3cU1xdkZTQ3NoWXN0TS1oTVF6TGplM2t3Mm8xYUtsUktGMnZLQjc0TFFiUGM?oc=5"
     },
     {
-      "title": "關稅戰打了八年！美國真的贏了嗎？中國零組件換條路照樣進美國",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNak1Ram5kREpCZWNrem1sMFJZc1BZTm5uZldpNEFyVmpncWN6cHVVRS0yODdmNDlFVFdvdWtybzJ1UFhibERvdUh6WmtzX2ZySHVIS1lTM1haME1WT1NrX1g5dTNMWjRxWVVCeTdQQ25NX2Q2Q3pfcExOU1ZuODdrMjNvUko4UW5ydkhBcGU0bHFwMVRKQ3loOWRGYW1SdFdJS09ZMG1oMzREdGVMdlhkQzBYRV9nNU9KV3JQWFpiSmpHSEQtaDlfTldURkRUbmtwcmpWdk1mandjMFhoSHhzc1hSUWU5WTVNNE5YLXdka1hHLVU3ZExiSHpaM2FtRnpRdjdfay1JYTcySkh4eEZsOUFHM0JuSDRvZE9xV1o4NHhwa2VFelZOQXN4S2JSVmxJYk4tWUVJbV8xQkdQZnF4d0ZVRnoxUndxREp3SGkwbkExbHdFaUswOGs0d0kwcTlOMXlQaDNfUk9lcHpzNzNFUzhjb0R4N09Jb1A0N1FaSUliaEoxMlZoSGZxeDZzUUxibEhUMnRMLUN4U01PakFhdXVCQmc?oc=5"
-    },
-    {
-      "title": "法國推動下，歐盟解除對兩名俄富豪制裁",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOamR4UDRVN1NtbldVZXRQU0VKZEEyZ0hucjY2eTUtWnQ2ekIzdzNvTDNRQkIxTGdNSWhJQnd3SVR3TWlvZ0tZVFJUanh2am9hZGhyTGdOY1JuRlgxREpMWWI2YVR3bGR1ZjNZUXplZjBXUFJJQnkxM3NaaHB0eUhUT1o1UGFrLVBwTjE5cmtIb0tWaENmUU1ZMW5kNFR0Nnkwc1U1ZV83dnZlbVlxYnhvRWJZQ3dFZmN0V1NxTV9yeThRMHZicWdrdWVYSFhnRG1SZy1za3ZDVlp4YjNTeGF4WEpXM2E5UHhKRmQwaXQxbzlNTk52TGo3a3V4RW01cjhLaVJEeUhHOHR0emo3WW90eVgzTXdXY1VZSjF4YUkzcUk5akdSYm5ESXdzQVY3UnBPMHVfUUN5OA?oc=5"
-    },
-    {
-      "title": "美國麥當勞宣布斥巨資升級餐廳 股價曾跌6.5%",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQT0ZFVEw5WnpmRnJLckRQVWJNVnNiS2VhdVFwQVJZdzJXeUJqR1RSbXdtTmRqb1NHMGtmbFZXZlVGRXVxa2Qwbml4LVNQN29YbVlKMHNudVNGQlktZFZCVXhEQ3VMc09wS0hLck0wN1R1VHBkb2ZhSTQzUkVPX2JhX1c4RDU4QkRVVUcxTHZMUHhXbDF6Q2xnZ29zS1JGZmRQUXphLWxjVFZ0cmhoVGxZdlNvVnIwUXA1eDlpakdoMGttOTVVUlBJUVFIT3ZsMGhJWU1Nc0k3T3ozOVY4eTBZQ0phaWtrZUpZcTl6bVo2NWltOGFTcWJRM1c3c25Ka3V6TVZ4Uy1IR1NGeWpuTnlUejc1bXRoM3Q3eUp3blM0dFdxNVktcEtRNUdUc2VBLU9oVWJhZUpMN3laMTQ1R2JqcTZQOHVtX29FRnI3bHlBRzFPdw?oc=5"
-    },
-    {
-      "title": "習近平避開紐約 川普在聯大強調美國優先",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQS2hpOHJITmpZMXMzYW85WXpPaktoMHRiNHBONDBzVlVKWXlVU3dENGpJd0hGcEVOTFFVQ3ZHd0Mzd0w2aU9od1E2SGNaLXk5Rnk4eGdhX3NUZmd5Q2o5U1dmYVFDM3daOFdPYzhGQkVfUjg0R1cwdVZhLTRJalhzM1YxTndHdEZrWjlJeEsyTXhOQnpYaUhYaXNzWVlZajh2WU16OGNsQ3BlWUpGWU9jSHlwVkpNb3ZJU0hPb3ZPZEI0RG41MFpQY1pFOXdEaGd2VjBueXN1bVItRWxON2RuQVl2R1BheC0yQVVTUEdfNXhZcWhqUlV1MFBXNFlTSVlRZjhMbEJrblM2OUl4dzAteXVHTUlxSHhRa1pFRXhXMjdpYzcwNDB1YdIBqAJBVV95cUxQS2hpOHJITmpZMXMzYW85WXpPaktoMHRiNHBONDBzVlVKWXlVU3dENGpJd0hGcEVOTFFVQ3ZHd0Mzd0w2aU9od1E2SGNaLXk5Rnk4eGdhX3NUZmd5Q2o5U1dmYVFDM3daOFdPYzhGQkVfUjg0R1cwdVZhLTRJalhzM1YxTndHdEZrWjlJeEsyTXhOQnpYaUhYaXNzWVlZajh2WU16OGNsQ3BlWUpGWU9jSHlwVkpNb3ZJU0hPb3ZPZEI0RG41MFpQY1pFOXdEaGd2VjBueXN1bVItRWxON2RuQVl2R1BheC0yQVVTUEdfNXhZcWhqUlV1MFBXNFlTSVlRZjhMbEJrblM2OUl4dzAteXVHTUlxSHhRa1pFRXhXMjdpYzcwNDB1YQ?oc=5"
-    },
-    {
-      "title": "中國使團斥歐盟涉港澳報告干涉內政　提出交涉",
+      "title": "美俄外長會談　魯比奧指俄烏有意實現有限度停火",
       "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0WTAzUnBPd1NRajlLb0RxOGdDanVfTzFfZzJ5Q19OYThwaDJJOFhFczRpNFNPUVU5eU4wM2hIMDdTRkJySWZKRTdseThLTHNOUGJ6b1RQTWoyOWFXZ2fSAWNBVV95cUxNdkJwRGU2VGhLRF9tR2pKSW1PYnc1b2ZJZlVPenAyTjZRbTVHVE9tbDhXemh4SWxFdkE3R2RkdGZqVlptUmdWR2FaSEY4ZE54LVlqb0FYaTV0SXR2YnZCRUhRc3M?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Sa0w2UExITUlLRFl5WGxiQnNzVVVvdExHQ2M0UlRQaXR1aVpsVmJQWjRlZElueEVzY254V1RyTzJiemVwTnpzR3RGSjFXRVB6TVlvN19wa19JMnRXVW53TjJXMNIBY0FVX3lxTE1Sa0w2UExITUlLRFl5WGxiQnNzVVVvdExHQ2M0UlRQaXR1aVpsVmJQWjRlZElueEVzY254V1RyTzJiemVwTnpzR3RGSjFXRVB6TVlvN19wa19JMnRXVW53TjJXMA?oc=5"
     },
     {
-      "title": "魯比奧與拉夫羅夫會面後指俄烏均有意有限度停火",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3MXVVSjFKLWJHT3NrMTNGZkVDVnJPTzhOZ3BuSl9MNVdKUks4OUZidVJicEJrTk9MRzBUZF8zaGxUeWQzaXRYbTU5bWNNZU1JYVN4MTZ1VlBzVmRzYVFvOEo5Tk14OU1DTFlQT1M0RVYzSjNwYWc?oc=5"
+      "title": "習近平抵達美國首都華盛頓- 國際",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUTG1SSi1BUS1iRGdvMkFUXzRpSmp0cmh5UHgxTk9JWjRaVGhHQThoTk1kaUdTQUpaRXA0bVgyOHd2ajMwNGE4azJBSUtDZWNfX3VXZUU0X1pBVkJIN0NjMVBLSEwwcDh2bldQZ1JOZVg?oc=5"
+    },
+    {
+      "title": "直播｜習近平抵達華盛頓對美國進行國事訪問- 國際",
+      "source": "dotdotnews",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJRkp4dXB4NkVfS08xSm5kM3hGeVhrLW1rTmhXdFJINi1QRTY0TUVFZGxLNURmSl9jd0RabDhYZUV0dzNEV2NLMXNJZmlXd3dRRl9zTVhvcnp5UlJuOThFdTlDZDZmem9zSjR6SlpyYUFXRHB2Q0xrcF9R?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "「川習會」倒數計時！市場觀望情緒升溫 美股4大指數全面下挫",
-      "source": "Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOcGpvdXhJcHI3dUVTMm5TdEdwcFRPc2hMRlVHX2pHaEVnRUJLMnJCd3o3blFQUXFNTHlWU2MySFJNRHBpRU5VdlZpaEUtcFl4RFdxZF8temJkcGJLZjFpVnk3QU9qaXR0VXVLaWZNa0xEZEJLbHRDaHdsU1FSNnYzN2pyeWJTemZ6OXJwNzFVbGVsbF8tZ1BlUTZsaC1LZW9wRUxqeEFSYVBiek4tLVZ6QXZwV1htcFVRTmlmd3JYVjJXQVlpcmNQbENJaTg5SEo1aERvQ0FvdG5GbGYwYkQ1WW9WSzNBbF9aUGZNdTNWcTRHY0Y3U3Q5UUJmRHpGNGhDeFExNlQxd2JMY0ZLdm5kY0NzUDhDZ05FTDhrdXhzdnN0YnFrNmlmQmtDaVlET0d0ZG1TdGVBSmpTODh6ME9aT3QzNEQ4SlhrcDNBT1VOcDBsQlhXUzF4TEZtWWdDMnVzWVM1ZTdUQzFLQnBDTm56VktfSmFtSlUwNzRZbVNYX20?oc=5"
-    },
-    {
-      "title": "美股初段偏軟",
+      "title": "美股跌約0.7%至1%以上 科技股受壓",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5UlUyeEgzckc0SjBuV1BHek8wSmcxTUllVmRmMkJYcHlIUHpiQVF4eTZoTXBUSzZEMGhLYVAyQjl3SF85bGdwaHFfZVREMWl5NjRlVk9FOU4yNVVvQ2ZYd2VIcXFlSGRmUW00X1Jkdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1faHRnRFAzR09DaVhNWEd2YWZuaEtLZTBvUnpxUnViNWo3bERQTWtnX1FEOHViSFhKWkJUOFVaRy1OU005NUZsWjh0Y0VDaDl5Q1E1Y3QwNXpSOXUwVTJ2M29WcExGUG0zWllZbUV3cw?oc=5"
     },
     {
-      "title": "美股早盤／布蘭特漲回100美元 10年期美債殖利率破5% 四大指數齊跌",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBESVZNRlVyRDNfTEY1ZkpNX1BoMmYwT1dLckxxaDYyVGZDTTFfRWlwME04ckE2ZVNPZV9ERjFDRmE3TkdoUlhVSzh5TUlWV0dadmwzb2ZlYnVqcXda0gFiQVVfeXFMUGp3QnhYM3dnZFAwNm9DbHhMZmttVzVsd2ZBNU5wRjY0UDY5RkowZ3dnZkFOYTFmTGlTaHBXY3NBN3gyd2tzUVNYSXpzWGZBZjhkdjVOVThabkR2RXQzcHZvemc?oc=5"
+      "title": "美股太貴，該加倉新興市場嗎？",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjc1dVFKLTJfb0owTW0xbmh0SkE3OXZYWjJPY2FDazh2Q3haQUZ3a25YXy1yckVLRFpLc3d3ck1YNFM0cVpocXhmb0ZQem5UY0pSYXNfdkpwX1ktOFMtYkpZcFczeFZOUzh3SWJ2M3JydXFLbDVsQzdSckhhTTBKcGNqd3Q?oc=5"
     },
     {
-      "title": "美股走勢丨美債息升破5厘 道指跌逾100點",
+      "title": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5%",
+      "source": "聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LUjA0MkltQms2aG9iTGVtVGY5Z0NZay0tYTgxa2JGMndrUGJDWFJpdHlXMC1lRHNCdlVIVVVCeG1iYWF6aFc1akFKUEJGZVY3?oc=5"
+    },
+    {
+      "title": "美股收評：靚麗數據嚇壞華爾街！美債收益率創2007年來新高，納指重挫逾1%",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wSERaZE03UXIxcmhXeWVGMWc2aDNDYTEyVE1oWU1iQXZONGt6eGZVNXFJbU5LTjdVRzBIQ0FPMUhOam5RMENxRHVoWi1CSnI0bVpOOVRWU1NoNnVhTVFvRmFvblA?oc=5"
+    },
+    {
+      "title": "美股走勢丨道指收市跌352點 納指挫1.13%",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPLWcyeTJBX1ZPaHBrVWRsUmEzQTNRYmI0UF9OZmxoZkhmQnNpMlZORjF6WWtDQ3NsZnBRRUcyc0tDLVR1VG5MYXpIdWlTMEZlZGtSQXU5MUE5emhQSjFjbWRfU0lZNXVLeWozd2djc01idFhQdXJIVkVLZFBDUEpLd2plM2tvSzJrWlN0aVI1ZldDYmpwMG54VzR5LVJrY1VuZW8xRUtVbm1iQzJEQmtGYkV6S1UybV9pU2c1U2hhSUNFZzhKQzdCMXBWTFprWVNLOVBKM3JFRXlpZ2JDWE4wTzlucWpiNGo1bmpINWdhV0FvSEd6SGxVUDVuOFc2WlhWeDhVUkI0eDZHQXg2dTYzb01xRlFaSWR6YjhLVjZnVEF2Z2xwNkVnbQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWm5sZ3A2NlYwTmVIY2pBVHhsMVlCU0Z3amltOHFGUWxISlJUWlRFS2p6VHR1aGFreUhvNDFMX0JIdTBkM1ZFYnprRHdTMlVkZnVpVGtFSjJfV2x4dEJuUUhPTm9RSTRxSTJuTXpKUUJoRVNhWlEyaFpPZDlITkE5NHNNb05KODVINWFXN1B5bzl6ZkRyLW1kUzFOeE5tek5TclFrUWpTd2RuSk9DSEtnSTR1MDVGLTVrQWx3RTBGY1VnR1V3T2JVY2xKUm90X3hNNjVtQUpXX2hCQU9JeWlvWE51TGN0MFlfYWI3N2pEYkxHVzdTXzRIdlQ3ZlQtdWhTRlE3QVoxS2ROa0QxUjJGTzFXbzUydw?oc=5"
     },
     {
-      "title": "小數據引發大行情！美債收益率創近19年新高、美元衝破101，美股高臺跳水、黃金跌穿4300，加密市場4小時爆倉2.8億美元 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLNklLdS1HbUs5MWZ2UGtzbGcyMXFwQXVzU3FBX21TSXI1ZFNJN1NVN1RoUUNjRXBxNVZRRzFjalFBN29iXzJ3MDdyTW1oTGFoTnBqdnRQVURvaV9pUXhzYlZ5a2c1cWc?oc=5"
-    },
-    {
-      "title": "美股動向｜納指100勢創6月以來首個收市新高",
+      "title": "美股收盤 | 美股三大指數全線向下，納指收市挫1.1%",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1NDMmdvWFM2MUhycnF3elJZakhUNTkyaFV0VDhPcVNmenRoZndYSy1hdmliTXl2b2hqS1FzSUVHUUlpMW5OVFFwSzJnNGtkcG9HTU5LTllUbHNpV3pQbnd6Y1JER19DTkJNTTlZZER3NHlRUElJVUtRWGRkalRwSFJBbk13bVpNMGEtVThoRjJDbFQwZVRIS2ZnUkVHVU9O?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHg3MVNmQWhxY2EzTU5hVkI1OFFNa3JUTWpfUEhFQkxZM1pval9IOGo4M2VqZGkzZ2pvVDRXbTlhcV9qTWZxNVRPLXRKbXBTN1c1YlVlRG1vYXNWc2R5X0VuVzkzcTdVbW4tRU9ZZzB0dlJsVFlIRlVJV3FvUWVhZnFQdmhwaEFieDdYMXhmNk1SZTh5Y2JJR0Y2NkRnRXlq?oc=5"
     }
   ],
   "events": {
