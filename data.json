@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-24 20:15:24",
+  "updated_at": "2026-09-24 22:09:00",
   "gas": {
     "current_label": "9月24日 (現行油價)",
-    "current_price": "183.9",
+    "current_price": "187.9",
     "predict_label": "9月25日 (明日預測)",
     "predict_price": "187.9",
-    "trend": "↑ 明日預測升 4.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
@@ -15,66 +15,66 @@
       "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPUGFRZTVpb1g5NjlDOGNIbi12OGZDRmZDYXptMkc0QXNFZVlnT2NPN1VxakpacmJFQTVXWERraEN3NW9zSUlEYzBiVWhDckV6a3NQeWZjNk4waWRKa0hUbFNVU05WamViTjIxeHJzWlhPZFN5YnRBZ1RsVEdWcUFsX3d4Vk9jWDJsYlQxS2pBRXVuNEVEZUNoQWI5ZkRGQTZxU1NBWHNwNVhpYVAwSUpra3pEUjhFY09ub2ZDZmlHbnVlRmVGeGlIbGRQbkx5T05iU0Y5aktmUnZqTnllZ1hOejVJMUJYUGxmX1BBZmw3Ql9fZkw0UW5DS3ZRSXE1ZWdVbC1kYldmeEl0b3BZOFRtOTZkMnRRLWdMQURDODBuRXNYQVZxMGJILXJpRGQ3YU94WS1uajZoVE1lQnhOZjZKdHVJeGZwUnZsalYwX25DQ1JNSG5fX2tRU1JfR3B3TVMzVG9KQTRXNXlMeFRtSWJCYTdJREIxcGh6OE5PLVdDNDdhZzRWSTF1Zmlld0Z5Y2ZMWWhTQUpPbzR0MnVKaXV1ckhJMkdTV01HSjRaLVc4RU16bGM?oc=5"
     },
     {
+      "title": "習近平：未來5年邀10萬美國青少年來華交流學習- 國際",
+      "source": "dotdotnews",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zdUd1elB6ckgwQXNIUGdxWWk4dnNJcW5MeE1xX1dQSmxKOHViWGNWM25TU3NVSm16andndDhnQmRyWl9BVWpLMGpSMC1oZTZoeEpxcW5yaXhILWhuMHREYjNWRS1DSVpPRm56R0NSQXN4TmlweHh4d3pR?oc=5"
+    },
+    {
+      "title": "特朗普白宮高規格接待習近平 美中峰會料難取得重大突破",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQZ1pyN1dzbl83TmJuWngxbTIzU1Q0OHBxNDRwUkxSdU1pRmhVUVJyYkZwQ0FqYjZXd2dnbFpTUC1rdnI4c3hTN19ic0p2N2UwM1NBNGlWTWhmMTdNV1ZLOXdkZkkyTmtLTFBCcVFEZkt4ZW44R29nT2VRUndzUnQ4RzdXMUJHNzE5RUllc3hDOVdvU083RWxYajdUekNkamlMcmJwVGJja0ZSMTBaZmRHa3dDd096Ni1Wb3RfNTFxQU1raEMzUlJoUm1CdVY5WGhTdDN4QUZyN3FIcnlEcXBpTDhBQzdSQXN1NjJOZnl5NDR4RkZNaXFvRWNNdEstTEJaWHVhM2syRHdlb3ZycUlMa2gxOC1rZ2xqOFlWNWVraFQ4MHVDSHVoZ0lsaDZIeTVVNV9UZW1leFVxYVZYUlQzNUxSVUhJc19xbTFTQlJVUEdsMjRxdUhVemVmWEFPaW9lcWRROTFNd1V6NV9RSFI1UmhxcUZ1VXRJNzVRZEhucVB5VEdjNkpRcWxwM0s?oc=5"
+    },
+    {
       "title": "特朗普和習近平白宮檢閱儀仗隊",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tc2xLX19WdHh4Q0prazllMk1venUtZ0wtSzdnR0owcFVwa0kzLVlDUzJ0UW0wTDhuOWU4UzV3T1hQX0J2MlpJcWdOYWFuSEdKYXpJbFNhU0c2NFNGb3hhanpoZDBTTUXSAWxBVV95cUxPcTJWRXpENWs4YUxja3RjM3NHdXlHaGx5Q2s3VmNNcFZlTHFyTnhkeGRIZnR2Q2g2Qy0tWm1kQ18xanBVdkZFb0Vxb2tfNjVwTy1aU3IwSVpXakRlWGRwaTAxQ1dJQ0FDcnVWZnA?oc=5"
     },
     {
-      "title": "（有片）習近平出席特朗普在白宮舉行的歡迎儀式- 國際",
-      "source": "dotdotnews",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sQklCaUFWR2JmR2FnLUNDQlQzMkdFSk0yelVBVjk0UjhuYXJQX21aYUU1Z2JybHJldkxkREt4aC0zNHVGaEFQNGhJYWQ4cnhmdkFocjl0b1VXbklUbmZWRGt2c19GbjBQbGxBd2tJOENwSXZ3X1pmR2V3?oc=5"
+      "title": "社評：促進中美戰略穩定關係 美國須與北京相向而行 - 20260925 - 社評",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPQWZxRENhN1RGLWZGcUFyVjFIZTI3MnNHaWs3OTc2dEM3YklSeEhfZV8waFZzVkRlOENKUmlsWEdrWlR4emp0Qy1KMkJjcVhmSV9zOGFyTmhGZmJwRUxCWEFuVTRNSTBPT0VwcGlsSU1kNTlYeThGR2Ftb3pEZmpCUkpHakp6WWZ2b0l0MDV6YWEwb0JSaFhpSmdCd0pYNE42a1dtZnFCU0hqUWc2LWd2ZWhkbTlDZTZERjZZaThUY3pESFNGd3VRbVhFd2d2YlV5ZmxlcTJBdnUwUzI3dEVVajEzUjlSTUpiamxwQ0VEYkFHdEFtOFN3d2hhYVBJX01SUXRuOFRURkhUWnNLb1BzTnlsVHNaczhMYktRZm5fU1lzMnk3di1PcjZVQ0I3VDdiT18yVkllaXZ3ZTJUdVRNd1JKOUYzNFJWdFdUY2xwb0Iwa01Tb3l5YVROMHlUT0dsRlZUZWhJTUNFN1V5NjJYSGRyVFRmZE5xSHRYUU01eXVBNmVmNU01WmJ2cWZFMGowOHN6dWNlSzdudw?oc=5"
     },
     {
-      "title": "習近平同美國總統特朗普小範圍交流- 國際",
+      "title": "聯大聚焦中東局勢美伊和談分歧仍大- 國際",
       "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLN2dSQXdsUjNPQ2tTcVlSRjY4TC1tY2pmOUxJLXB4cUw3M0hOMEZ6MEtuRnZWeXBkR0pjbjJ6ZV9uY3dQNExKTDhXMWdOWXU5dnZpWjNKa09Tcjd0dE9tSUtyVzdaSlFwR1Izem0xcUo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Rdnd2OXZYMTc3dWZaUXpsV3VuUlhoMnZMMXpxU3c4cU9XbExBeHVQS0lUcUY1c1RfdnZhYnlZUlJIZzVQbmpzYW9UMTI4Nlo4b3hyWGhLSUxib3E5MXZYbVpETWZYZ0VwZDVzaHQ3bTRsRHRM?oc=5"
     },
     {
-      "title": "習近平出席白宮歡迎儀式 表示沒有兩國合作 世界上很多問題都難以解決",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WbkZnSTRsUHpDNlVzcmlUZHRBOFlaVS1ERWFYZW9XbXVmWXNiS1pZMU12UkFzQlRWZU84d0xkbjR5ejc2cTF1SW51VmJyVm5oU0JGUWtnNzBhZEQ3UGVSUWZCcktiZ25aeTRmZw?oc=5"
-    },
-    {
-      "title": "（有片）習近平車隊抵達白宮特朗普夫婦熱情迎接- 國際",
+      "title": "習近平在白宮歡迎儀式上致辭有這些金句- 國際",
       "source": "dotdotnews",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FWTA3czRLbmJfdUp6aVR3MDhmd05rUHRadjd1TVJydjJIVXdqMlJMMEVQQ3J4LVY0d1RxWHpMVzl2alRfcWpPUmNORDlYMElyWEdiUHhVTFZJaWpucEF0eDdQejVpRkpiaUQxUjRzbnJMdzVHWDg2eHNn?oc=5"
-    },
-    {
-      "title": "白宮公布國宴菜單 包含黃南瓜濃湯、芝麻脆皮海鱸魚等",
-      "source": "hk01.com",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxONUlJRkxkc2Q1YVJCaURhMjZFd01tVEdPd0s3MG1SNlI5T3pyT1c2WmNtdGRMMHg0VUtxcHZwckJzZThCTkVoOVBJT1ZjVkRGa0ZaU3RjUnQ0ZHNNbWczMUZ5aTFSS3BtNFV4b3AwSG1pcGwwUHlNQV9YZ0NXbHZ0TDNmX19VMUoxNXdlMG1zNlI0T2xBelU5eWRaMzA3LUp1Wkoxanl6LWxSWVB5RzdVMDBPUjdJaHFxZWdMY2ZmV21OSGl4RnAxRXRjTGI5dFUyVFkzTFBxNzJJZDZhb3hvbDhKT0QxNmtMbm1NUG9BNEtiNVFCT1YzaFBaRU9lWWNpYnUxVHhlejVYalZTZUhuRGg0MklrRm5VZGVTb0xCQldMSUkzOS1naTlsM0EwT09VVHFIUEdPYmxzblcxcW1fb3c5UkZmQS1aUEU5U2twMFVVUmVqdUF0dElsaThJdW5lSXZRWTZSblh1VVdDVFFUMGpCY0FCQzcxWnd6NFYwRk5JSmtRYzNQY1VZUEE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yUzZUeTR6ZVlDM05PWGpsZHdfR2ZMT25JVFc2RW9lSTQ4bndXcE11SHB6b2tscFFBVG8ycnhEcVloYVR4QlVzZ3RUc1psbl9HMFVLZDlaOWdYcFM5WUhqSVR1U1EyNVY5d1VOTnZZbS1qal8ycUV1ZjZR?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股初段下跌 美國30年期國債收益率曾創逾20年新高",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNVJKbGVmRnN2ZVE2ZG9Lb2M3SE9jUnNjUE95amRYbEdkSjUwamk2aEZFblppQmlDUndhYmxlNzBpd0FhbXhyYmlvdU5yWUZPSkdzYjI3eDFlTXdLS09TQ04yVjh6WmpLTlRfSFpoVQ?oc=5"
-    },
-    {
-      "title": "美債沽壓重 道指曾跌近四百",
+      "title": "【美股】留意$100和5厘這兩個數字",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZGZlUHNCZlVKUmFiZ1VHcWIxNmt1bzd2cWV2aUtXa3BkRjE5Q2lwa3F0QnRXR1p0TmF5dXA3SUJpWkNUOFllSkY0b0pHVmR6NXNNbUxZZW1ReVhDUVk4X0NNekJxRVNqcGw3VDdCYWdjaGpPM3JES08xbmdMWmJjelpzMTlRYmJKUm1BZlMzSjZBM3hXdTdOdTZsdjF4Z3ZZc093LWcwNWtrYXVZMVRGdmFMY2xURmt5cnFQNFhlYURuSkc3VDJxNzFBQWlwY205anhDZmNRLWFaZkxHQmdaU3ZOalZGeVdxT2RHb290cUxWMjIzdWc0Vw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOT1pIdkVObS1QNjJIZkNxMVo2RHZvYkoyeFlfOFBCSm9iQVpINVQ4UWRBLV9OVUU4aV96cTNlUFVkdGVMU3VRY2FyVUppN2k3OWlETTl4WWpPdWlGM0FnbE1SRV9FU2dhRXNvUTNQdDhPYWZEeVFXUy1UNm1SWnkyNW1WS1h3ZmQ2VGx0cEtSTGJaUGIyRmxIX19SdVU1cVpMUkVfTUozS0pBYl80YnF0ellTOHBQemo0X1FRRXYxdm8tTkxlUjBsMEExSmFOaDJUc0R4LUlhVnVfem1TRHh2S0xVb3FoOTgtMWYwckdSQ2JPNGkxQjBXcmc0NXpSVzBDUEE?oc=5"
     },
     {
-      "title": "聯儲局觀察：聯儲局官員稱或需進一步加息",
+      "title": "聯儲局公布穩定幣發行機構監管框架草案",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPei1Sc1FQS1c4MnpYT1BwT0FkMnFCN1NXUkdjRVNoaDJ5M0xMdmlQNGllOUJqNHNzOGNELUhILTM3OWllU3BvUGxvSm05bi15U0s1WG5tTWJ6Z0xXblplYl9jY1J6MWNCUGt6QXp4OERZeGZRMzgxSmlqU0w3UURxMW5YeEFQRTNZTXozdTJRakZ3YnR2VVQybk1mRV91bXZuMGpMem5yd3FfbHoteThrbHd1YkJmUXZleHFaM2x1aW5IZEVZNTJrZDFtVXJhSkh0NEdVYnNKa0lkc3otVVFmaHpxel9lTUFsUzVXbmQyQjE1YlRPNjUwSkZpaWlhVUFKSnJoSENXX0FQcGJreUoteTJ2UUY2UHZCVlppYmxyUEJDTFdBdUxoazNPdEc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNZTVOak5EOFF4MFdpd3hhYTFMMnVOc1ZCcmpmR05GbFBXeFhITnZTdThkSTNyU2ZyWTZNcVR6QVlTMWdTaEotV05aOGY0ampqdUwzTFEzNjZ3OHYxQlNxdFQ5eUlxOW1JbjB6VFhUdEltSW1oYTlzdGJ1eG5yNERiOGpMbDdNdEhrS3dudHFqUEk3S3VSUW9tVi05Si1yTHZsa0NtUVJ5eVF0eDdZMG5QZ0FDMWRVZElrdHlycFN5RHFUMzczaGZrek5LV0d5bVhzbkNqQ0Y1UnUzTmFqejFiYkJrV2YySXZ0WGttSVBkejNjTkhHcDFEMm5VbzcxYzRUaEN4NjRzbzNJRU5ULWhDNGRZY1BKUkpzN1BDcF8xaGpRZVZ5cFdFazRUN3ZMNEw2aHZTTkV3?oc=5"
     },
     {
-      "title": "突發新聞：聯儲局鷹派立場加劇加息擔憂；美債收益率達19年新高",
-      "source": "moomoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzBOWk9tUWpNVjltbTBER1p2d1VhVUhVNTN5UXlKVkNtU1M1MnlvYUVORUxFOTJxRzNkMlY2azBWTHNIMGNFOW44THJQbm8yV3cxN2ZSbkxCMHUyeG9yRzVoRmdVbTV0c2xndFo5c28yWDV3a3ZHNW5qRzQydEFUWWZpSmU4dm1IM3l6d3FPVTI1Nm1xa1RIUVFpVHd4eWtoazNyblQ4QWJ4M2oyYXRReWx6VHVCZE5o?oc=5"
+      "title": "美股收評：華爾街驚險拉昇！美債收益率飆升、油價站上106美元，「科技七巨頭」逆勢走強",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lYXMwc2kxZjdkZWZOblU4V1J1MHA2MlRYTW52OFZCYU0tdU02V3JMNFM4bElMaklXRVQwRnV1ekpRQUtYcWpfSjVZeG9kblo2VWxLZFVQNlhUcTRZanI2VjhXNk8?oc=5"
     },
     {
-      "title": "黃金危險了？美債收益率站上5%，分析師警告：跌破4235恐直奔4000 作者 FX168 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EZWo3ZE42andmWGRENE51d09uZUFmTURPNnVlcFJOV0xpa1JmakthaWVNQ2pHcGhlNWxCbktaTm0zMDRXNWlEc3VXb2VfUXNHTmRZUmpUUGdIVVYzYWxNTDlLVGZJX3UxT09IZU5aWQ?oc=5"
+      "title": "【美股收市】美30年債息驚見5.49厘22年高 道指跌161點 特朗普：與習近平進行了非常好的會談",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxORGlURTZ3MkNTWDNobmR3MjJwZ09ab2NmX0tWUHFvX0F2T29Ocjl0cEZCOWg5d1hkUlVRd3paNDZtN0lndkYtYTlDRFFPQnBTSVNaLVFUYTBlclVCR2N0Z2dYa2gxNmhjbG5LYUtwakRUdjk1VjdqU2dYckhzNDR2UmVOdm95b3NEcmZOdllkSGtCSUpMdlM3b1N5RFladlZDeld3Zmg0aUl5ZjFrazFBa3hZdWR4SlhDd3NHWnVpYkgtX0IyRTFhNU1wQTFEN21kR0kyLWs5c3VMdUp2VTFlYmZHY1B6SGItZWJxODg4LVdHUGtOMW5YMF9tcHZpYkxlMmVZanlSc3FzYjBHNjNYSlEwRXllV2psVVNWUzdvRlpoNWUtbzRaTV9hSjhXd1lvSFlaYmtSRmFibWUxd3dKcWhzQUhpSEFTaHpPUDZCN2d4NDRJRnk2cFZnbUtXbEdkd2otUkwxNjZOQVpJY3RxM2VSQ2RELWxKZll1RGNTQi1DcnViQlRiSVFyZkdzRGt3bXdCQ3luTkFBUVFIN2tUN3BiQnBDXzYtWjZyakw1R3MwVW04U3JSNWg5eGdaUTh0Y2tTZ0FZeXBaQ2pjbHUtQjhHRVVSRlVyanZmY2tNN0hkM1M3aFNXaXVPcjhNaGJHaXI5aXRPVjhsMm9TZndtbTVJZ3FPZzN0U2xIeEh5cVBpV1MwbVl5MDJWc3VDSVpKcndOeA?oc=5"
     },
     {
-      "title": "美股選前布局 有甜頭",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91a2lYbzVMVEZLdkQwWTVCWTUzSTVNNFM0N0t2ay1uTUQtdURIbkt0WDhtRVZtZDQtdXYxdEZRSXhuU21XUDdiSGNHTU9LN3dj0gFWQVVfeXFMTmZseXlSR0dwVzBjLWsyNkQ5MmgwUG9oYkRpUEd3eF93bEs0enMzbUdqRzl6WHNDdGlTcE0zd1dWTlNXM3NkNXMtdDV6TnJLUlUtRmRuZkE?oc=5"
+      "title": "美股收盤 | 美股三大指數整體偏軟，道指收市跌161點",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVZ3OFpFaDBKanpjZlBsYTB2QndVcTE0U3JXNXZGdWtLY2ExbTVhXzdLeWROM1dsdER3WE83ZUNQSTNSNUhCWVZVRC1RV05JSjhYeWtocmh3VjdSVklXVGloNDZJcFNtZHJkY1FtZmV6Y28yNXVkd3RjZVVJSjVDVmJzd1VvU21BaXJBOVRRY2JjR2VVX1lfWWxpazF0eHJt?oc=5"
+    },
+    {
+      "title": "投資人聚焦美伊戰爭　美股多收黑",
+      "source": "自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sVDNWV28zYnRiLXc5NFJLZDdRNXFnYXRRS25ZX1JoT2R0akFPNlUwSWxWZ3ZaR0NFMVczMnFLN1FpbVZjVzd4WGU0NWg4bFI3OVFUdUVqWkZybmFuT09r0gFkQVVfeXFMT0E2d1ZWVEZ3bjZLN2VVX29sOWFZNWRaRUNZOWFYVU5JWTZ1XzlydWQ0UU1nTVVpUi10Ny0tY3M5eGZKS214VkFWYnF5d1JNWU9tNllDU25YdDhmYU9ySC1hdVRrZA?oc=5"
     }
   ],
   "events": {
