@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-23 22:08:59",
+  "updated_at": "2026-09-24 11:15:27",
   "gas": {
-    "current_label": "9月23日 (現行油價)",
+    "current_label": "9月24日 (現行油價)",
     "current_price": "183.9",
-    "predict_label": "9月24日 (明日預測)",
-    "predict_price": "183.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "9月25日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "特朗普邀請普京出席美國主辦的二十國集團峰會",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNTFd5WXYtZE9tbk5hZl9yMlJsNGdWSHh0cVRaSWxQYklydXdjQWY2UWV5bUFNejd0cW5GcHNBdVdNaXNtVWREdXgxTGR4dEFkeWFFZkFwdUtNTUdnRjI5bTFzSWRlaDVJejgxNDRzTXRoNVVacFRtclhWN3JVRjFQWGp1eXJxSTZCbEJkc19ZX0hvQUNqMXpsMGdXZzJXTHBXNlhLV1lEbkJpaGZNNU9XMDJmRmdWMllzVVpuS1NKQmJyaWRtRzY4MjlLakl1OTlGRDNrQVBPYzA1dHVZQkZGVC1CS3VraTV5SjZWTmFrS1hpTkFFcWJtQkpZZXd6akg4ajh1dlFFblFWMnJFSkgxOXpMTVdDSVRfZy1KNDhFLURWNnEyekZrV1l3TnFNVldRQk1WckpwTVdqMjZqTUE2SXlLTjNLY19IaTIyeVBYQWNQSXJuMENHcTJlcw?oc=5"
-    },
-    {
-      "title": "滿紙不實言論歐盟涉港報告自欺欺人- 評論",
-      "source": "wenweipo.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jY2Y3QkpULU9SeHp0c3psQktTTDRKSWZNQzNBUnpyLU1iUlJ4YTJXMUREQUFoTXV5MzJ1RVdjQ2xkSW13amlKNEZwVGw3STllUUhjQmV2allzbEFBRGxMQUlscFY1ZXNVNUZxc0Y1VFphY1R2SWs0?oc=5"
-    },
-    {
-      "title": "習近平專機抵達美國展開國事訪問 特朗普機場迎接",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQQnFuREV4T1ZSb1RZQlNmc3BLUWRNV2xFYVJ3UEh3SmVDV3FpY19XbE1fNU8wVnVxMTBFUzQ0UlBsN0dCM0tiNno2c2o1anB6Rjh1ak5ySkVwd0ZGWWFscGUzUkpCUG5xQ2NlWW5pUXotQ2I1aUpKWUR2ZG5WQkhTY0pNWGdCVm1Vc3JOQWtXcmRZa29IZnktb2xZNDd1NUE3bV84bC1WRm1kNUV6VWRRQ2l4YkhPOHF3LTFFV1Z1aDVTaGJRZ2luejA5dE5wZGk5VzFFU3F6b0t0YnVfc2hYR1hIclRid3NWNU9obm9pdUFCcEJXN2hPQW9DQnpRUUZEbF9LbXZtVldHT244eGtoT1paOS1FVnpsZU9VbF9fSHVFa3BfT3dYWS0yUWZaYWt3OUZneHdNOEVGa1JKRFd3cm9ENjQ3TGptT2c0R1NyaldTbU1vVmUtRkJTOGgzQ2pvMERRRjlMTnhaT2c?oc=5"
-    },
-    {
-      "title": "習近平即將抵達華盛頓，美國學者、政客怎麼看？",
+      "title": "習近平訪美：特朗普親迎 三天行程正式展開 貝森特宣佈兩國貿易戰繼續「停火」",
       "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtYjVkd2kxc1VRTDRuUlJvMG5jS0RtNkpZWnY3YURBajVHMnJ2Y0pSMGVNM3FROVlCN2Q3V0JTYkxrRThaVWFxd2ZKRDJFM1Y0T0kza201VVRCcEhvZno2Ty1yR1B1bDDSAWxBVV95cUxPOE51UGxsa1Y1OFRaZlF5LXB6NG5PSnRoMFVSS0g2cXd2bGlzRGJydXJKRnRKWTlwMzMwSlFDNTU3cU1xdkZTQ3NoWXN0TS1oTVF6TGplM2t3Mm8xYUtsUktGMnZLQjc0TFFiUGM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9meVowSGdPaXU5LWpwdTNJZEswb2U3ZVZKUUJHc2lwQ2JvbmQtRFBzbkhFc3h3OGh5b3RlNlFUUnkzTnpWdmU1YzJzY1JWdEFRS2ZjQVVkTEk2akV4RFlfTmJHWkVrZ1nSAWxBVV95cUxPVG1WRmVKenE1M3ptdVBpUEFGOFFvUnk0aWVQVDFiSy1SeTB5bld0ekFPemt6MjNJNnB3M0JEcXVRMFJ4b2pUQzRianlLenhOZ0lJV05kZnRIOC1xblIwdEEwQ3AtWE1nNk0tX2Y?oc=5"
     },
     {
-      "title": "美俄外長會談　魯比奧指俄烏有意實現有限度停火",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Sa0w2UExITUlLRFl5WGxiQnNzVVVvdExHQ2M0UlRQaXR1aVpsVmJQWjRlZElueEVzY254V1RyTzJiemVwTnpzR3RGSjFXRVB6TVlvN19wa19JMnRXVW53TjJXMNIBY0FVX3lxTE1Sa0w2UExITUlLRFl5WGxiQnNzVVVvdExHQ2M0UlRQaXR1aVpsVmJQWjRlZElueEVzY254V1RyTzJiemVwTnpzR3RGSjFXRVB6TVlvN19wa19JMnRXVW53TjJXMA?oc=5"
+      "title": "封殺CNN等3傳媒白宮敗訴 美國聯邦法院下令即時恢復採訪權 (16:42) - 20260924 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOY3FvbEF3RGlDTFhVR0U5WjhWQXZhYm9xTGk1bU1wVklYM0VvTDlzeEt0SzBhQzhoN0V3QkxPdGxqTkNOT3pROEcxd005T0I5bnF3djdjOFcxVC1IamZUTlgtS0xDZHJmZU10VC1GZ2J3a1lQZmhPa21MTzIxTTdYaGc2bFpINFNIdTlhS19ZTEUwVjNOR2dfc1Z6U09QMGlrUWZ3aFpIU2FmZER4NDFGZ3kxbjcyek9iX1RYXzR0QS1mT21QMWxyOWdldUg1bWdsRThJMDVxQWV2X09GLW1OTUFQbXlEclNPRFdvdVlodkRCbGtTTEVBeEtnVlJDZXE4WEkzQnZqZUxnbVE2SURBbi05dkMtWXZSSHJIT1BRNF85MWViYTlWWkpkQ1EwaHpoWHBKLUY1bnVKQjV3VFBxY2Itb2R4SDVxT0owU1c2cUNabVpzdFQ0UTkzcUcwR1lRQjE5T2lFb2kyZlptT09IQ3cyRDRNMTgxUjgwV004LW1Gb01maDlqN0t3VS0wczdIZk9veExhREQtX19ZQlNzbzd4STJRWHFoZ2F0WXcwdWhfMzQ4b0E?oc=5"
     },
     {
-      "title": "習近平抵達美國首都華盛頓- 國際",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUTG1SSi1BUS1iRGdvMkFUXzRpSmp0cmh5UHgxTk9JWjRaVGhHQThoTk1kaUdTQUpaRXA0bVgyOHd2ajMwNGE4azJBSUtDZWNfX3VXZUU0X1pBVkJIN0NjMVBLSEwwcDh2bldQZ1JOZVg?oc=5"
+      "title": "美媒：白宮擬禁止柴油出口90天 傳貝森特及能源部長等反對",
+      "source": "hk01.com",
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPc0hmUk5SOUZRbzByMmd2dUF2cGo2X3FVSzc5czlWT0NmRGpOcjFZSFFoYlVUN0o1a3RZYk9POG1vRktCbk4zZkFMcjdkOXJsYzlhUnZsVWxuNXpwb3dMc0p3ZHVqaGFVanFxZC1KNFZ6OGR2bFBBTUE2VGRZQl85c2tndDdvZ3pOWXZPc3RLWEZqaFJ5OFVkMkllUF9ZUUZIOERYMzdqOER6RGx4TWJmYVotbWVoV3lRdDZaWTdNUmhEek8ySm9jZWdjdFZlOGZhQ3NqdVE1Z2M4U0Rld3M5QkliS09wR0tmeFctSTQtVG1ucXF2aUg4V055UGFXVVN1c1R1QW15UlUtUnZDS0kxQzJJMGgzc1F3RV9Td0xTM2VsblJuU3ppd2FHRUNVa0VkeDFkX3FTdGZnSm5IQnN6Q2RtOWJ5cFNLZ2hlZi13clRUdEx3VjFpbUVmd2psTU1mYjR0SFh2S2l1VVdva08tc0pjbHVGckZQRzZsR1dEd3JySlNGakNFLTdQZzhXV3FhSFo1UmFFaHNra0E?oc=5"
     },
     {
-      "title": "直播｜習近平抵達華盛頓對美國進行國事訪問- 國際",
-      "source": "dotdotnews",
+      "title": "回放｜習近平抵達華盛頓對美國進行國事訪問- 國際",
+      "source": "dotdotnews.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJRkp4dXB4NkVfS08xSm5kM3hGeVhrLW1rTmhXdFJINi1QRTY0TUVFZGxLNURmSl9jd0RabDhYZUV0dzNEV2NLMXNJZmlXd3dRRl9zTVhvcnp5UlJuOThFdTlDZDZmem9zSjR6SlpyYUFXRHB2Q0xrcF9R?oc=5"
+    },
+    {
+      "title": "今日體育 - 國際足聯主席因凡蒂諾 : 願意磋商改革該組織治理結構",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOSUtpTXh3UXdvcEJMbThoeFF1dnN4YnRGVVR2SVdnRTMxZngwRFZRNUlGRE8zM0Z1elN3N3BKUmV0T0o4djdUZEZJRVptay1UWXI4Skl4S2RhZU1JNnNUdnhKQmp2ZkJWTmtBS0lQbUVQMlRDSXZEVlZHRzV2bmhKWG9meEQ5Y29UcUpzV1NpWFNjWmZvZjNRRUtIRDVtTUxIeEVvdERPM2xjbjBnN1YyeW1NVU9SdzBMMldfODdaUXZqd1NaVUZZSG5uUlpDTWdSOU9uUWNCQVdhYTRWaTBtX1hOVlpnSm9sRjBfdWp5TkZmak10TjRlMVZkMzhzaXhVdkFxNXFEYUJac1NKaVdkLTIxZm5NTUNyOGVPN0cxSWVwczJNdmFfQ1RSazJLOE55eHhNSk5Ebm9VTGt5YzZkb25FQmZJUHNjTE9uMjJmVEUwdlRtWTg3NGl0WkpEQjd3YldQeWdhQzEzbkpBR1VTVDRxYmdXNVNEZXJQczZnaEpnU0NGMEdiUlZaVWhDZmEtY2xXelNVZVdhdk1VRS1iM3R5S1FRZ2hQZ2s1aG9idWZvMUFyak9mUzVxOXRidw?oc=5"
+    },
+    {
+      "title": "美國法院下令白宮即時恢復讓CNN等三間傳媒進入白宮採訪",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GT2VkNERWT2tBZWtCUHJyNmRmcWVadk1nc3pDVVREc1ZINEhOSWNMa2xobXJFcEJiSWtSbGFidEc0QnY3UXc2ZHJpWGVpMldKZTFpdW9vRy0yclRpc2dTNnJoWThmSzMtNFFlVw?oc=5"
+    },
+    {
+      "title": "習近平訪美首日看點：誰同行？第一夫人角色？高規格接待引反彈？",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OWUE4OFhUbzZoZENCSDhDeW1xbHVIeHVzOFZYeWdBc2xVeWV1OWZ0NXFzbjN0c2FsUFNyWC1zMWw1eFl4dUlXUXo4bXZCVm5YSXVUQkpmWFdYV0RTcWFBUENjTF82QUXSAWxBVV95cUxObFFsWXo4MmwxT2F2dE9NdTFsRFhMdHk1UHBtRlpJVVd4MUdsaUo3SnVUVjhpWU1DaHVmNDFVdTV4RmdIc0V1dU5DSllDZ2hFNlNiTkVXTE1hTTBuREV3d1M5c040MVJxU19Ta1o?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股跌約0.7%至1%以上 科技股受壓",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1faHRnRFAzR09DaVhNWEd2YWZuaEtLZTBvUnpxUnViNWo3bERQTWtnX1FEOHViSFhKWkJUOFVaRy1OU005NUZsWjh0Y0VDaDl5Q1E1Y3QwNXpSOXUwVTJ2M29WcExGUG0zWllZbUV3cw?oc=5"
+      "title": "中秋連假懶人包：台股量縮、美債殖利率衝高！PCE、非農、美光財報接力，節後行情怎麼走？",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPMUYxLXQwSW5QaVdDcXI3TUtoVDd3UWttNjNibUxxY2ZaMVZjSmhmVjRybXNxdUFZNzBMTV84MkRqdldPT1p6azFPQ3k1Q3dWaW0tdkhKYmttWGxUY2oyVng2MkZxWnE1Wm5OY3F3R0N5M3pqQkI2VXZLLXFCeldzRVpWYklFTFczb1VSQm5RcUlpLWo3ZDF6c3Q5aDBHb2FFSnFRZkJoUElneWJMMV92bmZaSmszQTlJbU9DSVNXYmItdDRkYTlOaFRNdkZZN2xWYkFTRFIwQ2I5TjQ0S040aE1sam5WUEVMbW9zNzhXb3RZVkZhUElnYldzLXVQVGFLSGRDTHBURlg2Z01oUTY3RDc5NlRNV0dYWkZGUFdmc2hrLU1NN0NjWlFCLThucDEzdTZSQVl4V3U3UEhCaENKVHFwa3dTcW0yM2RTRDdrX2dFQlFCTWNR?oc=5"
     },
     {
-      "title": "美股太貴，該加倉新興市場嗎？",
-      "source": "日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjc1dVFKLTJfb0owTW0xbmh0SkE3OXZYWjJPY2FDazh2Q3haQUZ3a25YXy1yckVLRFpLc3d3ck1YNFM0cVpocXhmb0ZQem5UY0pSYXNfdkpwX1ktOFMtYkpZcFczeFZOUzh3SWJ2M3JydXFLbDVsQzdSckhhTTBKcGNqd3Q?oc=5"
+      "title": "美債拋售掀起全球債市巨浪！全球平均收益率逼近4%關口日本10年期觸及30年高位作者智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VU85NkE5NkFNUnVxY0VaMTlXQU9uMHVMaU14dUdVQ1hUN3BoWC1yQjAySEkzSGlmS2NmS21UOTdBYk90dHlZMjRIOWRROEJvNWxQWXRaZkJRMGNGUGdjY1pqeVRUdmprR2VwaURYbzU?oc=5"
     },
     {
-      "title": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5%",
-      "source": "聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LUjA0MkltQms2aG9iTGVtVGY5Z0NZay0tYTgxa2JGMndrUGJDWFJpdHlXMC1lRHNCdlVIVVVCeG1iYWF6aFc1akFKUEJGZVY3?oc=5"
+      "title": "美債拋售潮蔓延至日本 日債10年期息率升至3.075厘 創近30年新高",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNdGYxN29oN3ZXS3gtUWczRzlwN09kWXRkb1JGZVB2MnpqODRFTEFDcERtWUdvelo3eTF2UTR0Mk5hRTFrdlhOU1V6RUZnc3NydEhoWlNNSE9weG5aWFF6NFFaUy10ZXBlR0s1dFFsZTF2bGJNSE4wQ2tzbVF5dWg5QjJCWlJYMk1pUERtWXl6ZEJUVlp4SGtlWkxpTFM5OUNXemJvclJ0QXBsNVVab3pBVXctdURnU2FxM0JTQXJBRnJjMWJoZ2FEazY0bllxMnJNOENZcjRERGFhMUJyNVN1LV95TW9MWFhhZVRKOFJZMjRxQ0NNQzVWeEp3V0hkZnRxdGY0T01uOEdTR3czWWRQNlMxbUZpb3JkUjVOdDZDSVdqVy1BVVZCM1lQZGVLNXF3QWNvcmF0STFROTNYVGdOVjNCMkhpN2Y2SmlsZ1NJcVNRUnBPN0hpTTA0UHJHNlk3X1pmNXNKXzhZb2R4SE12am16OXAycGRFVFViR19Ja0RXTUFtQVVUUVpjcEc?oc=5"
     },
     {
-      "title": "美股收評：靚麗數據嚇壞華爾街！美債收益率創2007年來新高，納指重挫逾1%",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wSERaZE03UXIxcmhXeWVGMWc2aDNDYTEyVE1oWU1iQXZONGt6eGZVNXFJbU5LTjdVRzBIQ0FPMUhOam5RMENxRHVoWi1CSnI0bVpOOVRWU1NoNnVhTVFvRmFvblA?oc=5"
+      "title": "美債拋售、30年期殖利率升至2004年以來最高：對香港樓市及供樓有咩影響？",
+      "source": "美聯物業 Midland Realty",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT3NWSVl6dS1EVm1NZHRobzM0X0FlQnVISTVraHdseUYzbHlFQkZWMG5ieHJBN3JUQ0RONDh4ek5qYmRESjkyV2lWY1VmYjhuMTV6TGo2MWVnbUpfMVVMbXFRWlBySlhCZlZDckdxUUtsNFNfTXo2UF9Jc1ZILS1oeTNsRXZwZDNLQ0E1Z3NDQ0VORVBtX2tqYVhDWTU3SDBRQVV1Y1puQjVqUElxeXFLSlBSMjJZZVNuUnNkdGl4NFZhYUdM?oc=5"
     },
     {
-      "title": "美股走勢丨道指收市跌352點 納指挫1.13%",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWm5sZ3A2NlYwTmVIY2pBVHhsMVlCU0Z3amltOHFGUWxISlJUWlRFS2p6VHR1aGFreUhvNDFMX0JIdTBkM1ZFYnprRHdTMlVkZnVpVGtFSjJfV2x4dEJuUUhPTm9RSTRxSTJuTXpKUUJoRVNhWlEyaFpPZDlITkE5NHNNb05KODVINWFXN1B5bzl6ZkRyLW1kUzFOeE5tek5TclFrUWpTd2RuSk9DSEtnSTR1MDVGLTVrQWx3RTBGY1VnR1V3T2JVY2xKUm90X3hNNjVtQUpXX2hCQU9JeWlvWE51TGN0MFlfYWI3N2pEYkxHVzdTXzRIdlQ3ZlQtdWhTRlE3QVoxS2ROa0QxUjJGTzFXbzUydw?oc=5"
+      "title": "美債賣壓燒向亞洲 全球公債殖利率逼近4% 日10年期漲至30年最高",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qdlA3X1RHZ3hjbXE4RkJqb2VrOFhuZlFzZzR0ejFoQ29qNllKd191c2hLVVJmem1sUzdfamFhZW5yRkRYMnRQZDFHUFY3cHA5cVo1XzdKX0YyeDktMEM5WUZR0gFnQVVfeXFMTkxUeGZjX1hzLVpSelNrdWY0aWUzZzNXdXlqdWlkcnZhQzhoYXVsOWQxeU9sYkJsOW5fWWF5N0FtZVhPZ3Z0UmpYaEIyZmJtMTJiX0o5RjFHWlY2M2xwcDZPTWF2YzJFbw?oc=5"
     },
     {
-      "title": "美股收盤 | 美股三大指數全線向下，納指收市挫1.1%",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHg3MVNmQWhxY2EzTU5hVkI1OFFNa3JUTWpfUEhFQkxZM1pval9IOGo4M2VqZGkzZ2pvVDRXbTlhcV9qTWZxNVRPLXRKbXBTN1c1YlVlRG1vYXNWc2R5X0VuVzkzcTdVbW4tRU9ZZzB0dlJsVFlIRlVJV3FvUWVhZnFQdmhwaEFieDdYMXhmNk1SZTh5Y2JJR0Y2NkRnRXlq?oc=5"
+      "title": "【美國息口】聯儲局官員威廉斯：年底前再加息屬合理 坦言通脹仍為主要挑戰",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQYlhKNXFmZnNGQ2staXlUUHN4SW1tcGVqaFVSMXQyOWJLek5zX21sMDdTYWJ2bW8wNENDSG4ybnBReURIZ1ZRMkFpcEMwYlZBUkUtbzF3TWkxQmlrQkF2WjFrb05TMDdmYmxIbUlUdHJfcVBRcFJvOE9iQWtfYnF3T25xRDdiRjNlT1RFVlUwTWNSZktSNUVONkw5ajZOd2ZlRVZMWnBGdXZKMmE0N2dMc2JqYS1PQlZjVTl5NmNVWFZVcjFncHE5YW9XdTRwZldkRVFybGdoMUFoczFMQmFyNlc2RjJMWU9nQVIyX2ZJYjZZUE52Yy1QYWlsdnZEM2ZBRGczbktWMU5hR1RIeVMtU1FrQV8zMzZZQ01QcUp1TzE0cmxUcWtiOWVlWEdUSUdnMC1USlBqc2ZnMHU3alJVWmtHX0NkbUdJTjdiVzFHbWlPd2FCQ1dtU3pkSURnVDlQX18xQ3Z5ejgwbTZHbkpJS2NEQzlSSzdyRTBJNTU0LVQtaXNiNU5uWFJKdkR6aGtYd2JfN1RvbGtVMXRzNlV5N0Frd05yZVZCLW1ydkwxbWxaN0Z3MktST2dUNXFaSnFfbzFoWkQzUGk4R2hYNzhDYk02aTU2bDFOajJ3R0hzLWRWOFMwd3BoTzBWVUZlSzZxbGotRA?oc=5"
     }
   ],
   "events": {
@@ -85,8 +85,8 @@
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
-        "days_left": 6,
-        "status_badge": "6 日後",
+        "days_left": 5,
+        "status_badge": "5 日後",
         "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
       },
       {
@@ -94,8 +94,8 @@
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 7,
-        "status_badge": "7 日後",
+        "days_left": 6,
+        "status_badge": "6 日後",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
