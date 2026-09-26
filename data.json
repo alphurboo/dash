@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-25 20:15:21",
+  "updated_at": "2026-09-26 00:21:12",
   "gas": {
-    "current_label": "9月25日 (現行油價)",
-    "current_price": "187.9",
-    "predict_label": "9月26日 (明日預測)",
-    "predict_price": "188.9",
-    "trend": "↑ 明日預測升 1.0 ¢",
-    "trend_class": "gas-up"
+    "current_label": "9月26日 (現行油價)",
+    "current_price": "188.9",
+    "predict_label": "9月27日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
+    {
+      "title": "美國將落實對烏克蘭軍援撥款 首批裝備已開始交付",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQLTNTLUpucEk3UmxXLTdiS1ZHXzg4UG5yM1RWR3VkN3pZUkx1WmdBdUg0bUxXVUxIN05nc01odkpGWmlHcWRYX2tKMHZibk4wQWIwT2tjZzBMbVpYQm1RNEtJeGpKbWI5U2NleXpVOGhVN252VDRSNEFxN3p6V0VTNWNERk1sZWQ3SGI5Y28tSE4ydWJxY1FwRkl1T24yMnRtSXpfR3poWXpEa2tweUVRdGNPX0gxc3JFU0VaYWh1WTFMenQtWVVZZHQ4MzNEVnNFZjJSVlJBRjEyUnFPZTJ4NWRhV3l2dWd6NUtJaDF4LUVmdlVDVlZTUzRfMXdXeC1lVUlXR3hJT3ZmWWJuMVlBTlJSeDM0M2Y5OVpoZnl3Y2NqZjNJMWx5WWJXMVl1aFl6cmVOTjhZbldhOXMzNE51N05wSkFVRzA5T0tiRWc2UXdqdTF2ZllrQXp6SjZ5WUwtWTNiVUF6TDc?oc=5"
+    },
+    {
+      "title": "一片睇習近平主席美國之行- 國際",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNzZ6Tm1PdGlMTWdTYjA1aXhKX3padi1QclpFbjZRVGo2a21wbWVDb2RYNUtpcF85Z1dSME1VS19MN0wwMWJKU1hNUlNtZEVjZE5EM2JMWktQSktqNHdzWXJWckRCRzRPWW5nRFczam0?oc=5"
+    },
     {
       "title": "習近平訪美：美中各從「習特會」得到什麼？",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Nd25MZkdPZDg5enV1SGlRN0IzUGp1OWxaV0lWWFFRMkxPMnJYcmZyTGVFYWZFRVZwYi1hejZKSjhDSW85ekFTZTdxb2lJTGFzSmtUUkdMNGdYNGhjNFJjcHk0cVpiZ0nSAWxBVV95cUxQaVYzcUlXOC11dFJFQ1V1alRxbTJpMmMwMm9TcUp1TGg4Y1ZkQmVaSHRtUUwzdGx4cnBxVGM2QjBtZ3NJMXFnRV9YZkQ5NVBweFc5bEFLMVg5SGktTHh5V05abm9XY3J0YXlQTG0?oc=5"
     },
     {
-      "title": "習特會｜習近平再訪白宮與特朗普茶敘",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FSFNWSTFhMW0ycGtQR29oVHZrc25GUzFsUkgxZ0ZjN29hX1hjY05XOVVPR2FXNWE5TGVCcC1sUHlaSlNoYkx4SGNyLVZDWDJMMVZzSFB5VmYwckVWaGMxbW5Zc1dkMTItX1RXaG9YMA?oc=5"
+      "title": "伊朗向美國傳達計劃　若滿足條件7日內重開霍爾木茲海峽",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNcWRxV0pFaHMwZEF5Q050ajc4RVVFSEZpVG43V25vQjVGZ3JkcmlON2hodThRZFc0REYtWTRfRnJkeGhHdU42Y0h3RmNfaXZjNml1cGt5enpjbmlZR0HSAWNBVV95cUxPQTI4VWl1ZklUUWtCMEhYaDc5cWotclJudVBwWTA3S0pVamJsY2M1M2Z4YTdqdzc0OU94eG9wS2NndGZ0ZG43bFd5NUlwS3hsQXFMaTJId0t2WFphZjJxam1rVHM?oc=5"
     },
     {
-      "title": "中美領導人將在白宮私人茶敍 再參觀國家檔案館",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdl9OV1RIZTR6Z1k2NDFYR0d3TTdVYmpMZFV2aG5CdDg3b2x2Nl9rWlpHV3FvX2NkZWo1VzdPLTBZb2lGT2JvcTdRc1l0bEg5S0JBSS1FRmlyVFRRRFU5YzdDcHRhRlIxVkE5Ulp5emJBVkZrUkZBYzZhazVPWllTTXF4SDlfcFBpZ19rV1J1UQ?oc=5"
+      "title": "中國記者白宮「爭位」 與特勤爆衝突 - 20260926 - 中國",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOV1B2anNtSzVvRUs4MWdiUWNFTHJrQlgwVjVjQ3loeFJyUm5sSmI0amw3ZjFLcjJHSXk3N2tXVlh3Zl9rd1JMWVBJZ0Iyc0pBM1g1Mm5ZV2lCNHBjSm1fTXRXV3Q2bGdSdEoyTU1xc2xxSUtlTW9VTkNXYzcyaG1XZzkyZ0plTnBmaVk2MjVROFVid25QWGVFYU1hOHdCVFJEejdSTnVpclItYTluUkpaR0RRdHRYN1F1ZHczNWc5a2ZFMV9SUk5hUHBudVZveW5JRWxvMWoyUllUX2hNZldTbmZRNFZQSWhFcVJ4WUdTc2tCbGNrTzJGdE1FZnVmeEpud2h5SldlREhMbVJHMHdGc1IxWlVOdXlMLVpsU040NW9IXzlWd0JRQy1hOXE2aGxMVXprQWNSUTRDRGNLYWFNNF84VnJvbjdUc1JDMlpTODk?oc=5"
     },
     {
-      "title": "習近平圓滿結束對美國的國事訪問- 國際",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZZm16bTZxSHBMbExIZ2VrU1dIU2hvU1lfWUtYTFp3bEtlWVRaSnVJcEprUTBsVEtfYmY3QTdhWWw3RXpBVVBmRkNOTThqUnNacGVIbTdxeWRHdWRUZXB5TGp6UWFWc0YyWDFsUmJaNEE?oc=5"
+      "title": "（有片）中美兩國元首夫婦共同參觀美國國家檔案館- 國際",
+      "source": "dotdotnews",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUlVHZFg2dFljU3VrV0xOSnY4QWRGY2ZnZXByR3hZak43OWllN3IyUVVtVklvTkRhMTJNYjBFaWJDV2ZNSGxOcF91ZXVIcUxhRkZiODR6ejk2bkpRTkF5bTRHN2xsY0NjZVcyQ0VVekVYSW1Id1hSZmh3?oc=5"
     },
     {
-      "title": "習近平在白宮茶敘展望年內與川普再會 歡迎川普夫婦訪華",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPRzNTcDdXTmtqajQxRThxa2pjanRRbHFyUVg4WnBYZno5UWpvMlRwdjF3LUN6YThWS2pORHlXc0JKWjFkWmV2X1RxVHJlMFBDb2wxYk9GOVBMVnBQZzhOblQzdktpNE0xOS02VUVncUp4UTF1dENsc1BFWkNRQmlZbXN4ODROWHFqaFRWOHZyMWFLOG5sUmdKendYNTlURWFDbUpPOWN2RXVUN1pEb0VDMTFPelN1dXlORHpvRGd1ZUxZaVZKUlNqaDdQZHRtZG1HNkVESTZpbGd6SnY3bW1USk5kQnFFazJpcW8xczVUY2JfamltZHlnRjBEV01yMnFQM2J2OXBCd0lKaEQ5TkZmME5UczBHLVJyVGtZQ2Z2V2MyYldVSmVXdk9zTkRKcFB3d2xJV1BnNVRHSVdqQXIwMzVHTlBoMGNmanYxZXVYaGk4YUZkRVZVWHB6N1NzODI1RnBoeW82dW9PeWtDOXNnTU41LUJLU0U4RjRJWGFlUjVlYzhUeGQzX3BVbw?oc=5"
-    },
-    {
-      "title": "美國棄打台灣牌 轉向日菲制華",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORHFYN01FSWlidTM4REYwSmZ1Z1FkeV92NTBQOEJyaFpsT0JqeVdFTU83ZWZxZUJYUnA4RTRPZXY1VkpXcVdSYmV4dDExTTM5TFRhWVdEcXhuNXVaLUlqQ2lkdFlRcU43UDVBY1I2RXdiWmhlV0V2YUZ4NnJNeUFidHcwZnhheUlkdXRhVDE1WFpDTHN6MFBTbUoyTTA2V2FVWlVrSU9jam10X1J0YXQzRTVDcl90N3dGcUwzNF9Md3cwenprQkloU05oOFJsOXN0bjY0YXoxWTk4cXVGSFoxU2g1ZFpQZFJadFhfQnoyTWdFRkRUcGg4OTVnMUVYdUVyQU44OG5ZNA?oc=5"
-    },
-    {
-      "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MGFTbC1YdlRYN3ZNcEs0WnRKSWpXXzlEOFVKZ0V6cERmLVNfSjM4bXVUeTl4Z0RVb0hWWEg0ZG9yMjhDZ3dZekFMcTh1V0g0NGU5WVZjcjJJT0JJMEJOLWxhY2JxWHPSAWxBVV95cUxOOXB0cW1KclR1cG91V2I3SnFlYmt4Y01LcGdwMUZtTWlJVkR0MGhMZDduZ1pMWUJsWW9wUElKNmhJUlFkR2FHekUtNG9oV0dIZVVVejh3SnQwZVJCNkpRN2Z4MWFiS0NLVHNrR1Y?oc=5"
+      "title": "特習會 特朗普要求中方停止支持伊朗",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxONVF3Ti05ZWVTZVFpSGFmcHhXX1dzQ2hPcFltTUlXSHd4bVNVUFd6dlFjaTJRdUFWMlNZVW5ZY0lxUERka2JWODJaRjN3LVE3YmI1Vll0VEZUbWVQZ1FMd3FzQjUwWG5HbzdoWG84VmE3YXJyMjdvWWhObzhlTzVGMG52SmxUUHJaTmFDT0Jzem5kdllubHZGbVdTZDhlZFRYdlFwWEpUMGRhbFNtYjl4V2ljX05LVjVoc2ZIR2FjZURRaDA1RTlHUElYZ0hsckEyRlFFSWxmN3BPSnJQRkx2T3Q4TGxlODBhTl94eTVFNjBHTFdJWjBINGs3YWpWUzJmZXg4MXlkblJjR0J3aDlJU1JydEZqM3pBXzY2RFY0TUY?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股初段造好",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HeS02VGhBVkdsTXA0QWN4Wm45eG9yME1aOWlIMkx1ajZGUDY3WDBuaFRiTHc4NVo3ZjBEanFpRDEzVUw5MHdiNWF6bnJBT1RGUEZhUVU1RVFHOVFGbmZXbDZVeUVoQUJqT2NMUFpRNA?oc=5"
+      "title": "〈美股盤後〉傳美伊進入技術磋商階段 道瓊勁揚近480點 三大指數周線收紅",
+      "source": "news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
     },
     {
-      "title": "美債「坐五望六」？ 大市走向3大情境分析|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOVEJNS1Z0OGRsSUVsekd4ZHd4UUxQbi1LOElrZXREUHdkcHgyMlRoR1ZhenEzQlAyUzNwa1hadXlWdklISHFHZ1VPQ0NIYTFzSkpmSDQ5ZUtpdkdSWDA0TFRBamZPYmpIV3d2RzBESmlWX3pESzB1NF9DdUN4RlBKSUpZMDF6UVBQNk5IT1RJV2VIMWYyNWpQMXRqSDRLQmV3MlZZSkhQbE5KWklpbG83c0RqQU02ZzV4Mk4tLWJVejUtQUNMZlJmTnRjTzBfWTE4NVdkVkhTMDFHVi1QbHZBWjhMMldoWWZDX3F4UnRXWlBZMVFKZjFJMElvZFJrZHVwQTEzZWYtR0drXzdIRlVYRGVVc1JSSVl2dm9VQ2VLckJTdDZoTm9IWXA4TElBZE0?oc=5"
+      "title": "黃金收評：金價反彈仍被「5.2%美債」壓住！加息概率逼近七成，下週兩大數據定方向 作者 FX168 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uSzJMckp1QjFKUDFsdlNxSk01Uzg1U1Y1aDJtUjdRX1dBdlRqRUxwclZ1NkZpVHdqR01SaEdYUzdhRVgyNEFPOVl2NUFwVE5qeFhWSGo2VEl2MjRESVVmbVZjWHpjbl9TZmh2QW5OOA?oc=5"
     },
     {
-      "title": "美債沽壓重 道指曾跌近四百",
+      "title": "川習會落幕、美伊談判傳進展 美股全收紅",
+      "source": "tw.news.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQ25oNEhROG9LQmZIRHNZZ2pidmVneElRbGxYSEZPRW1pcS1zVlZBSU45bHI3S21CUjBpQXFoa0NLSFJ3U1RGNWxHT3k5REhISzVSX2JOM3JiMmh6d0xnYXYtRUpkUzV0NzkwZEpWY3BDWWlua0F5R3B6cE83d2VwMzdUcl9hTWw2M2xNaFVtQm9sMU5hNHhGOUJKUzFvTkhZZlh5VXcwRU9KZDRNelh3MDBfRnM0RjBqQ2lmTm41UlpYeTlGR25hZDBuTlJGQ1JQUmlmWE5JSzUyeHZLQ2ZMeF9qUU1mbzd5ZnEwV1lIZ3RaMTZMQ0xweXdRY3pLMkQ4TGhpcV8wQzZ3T0hyZ1FDNm4yWXZ3bHVCYnRodW5kOFR6dw?oc=5"
+    },
+    {
+      "title": "美股走勢丨道指收市升478點 納指漲0.48%",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPakFBdnFMMml1UVhZNm5TbVBOUElCYUg5WXNUU19zT2FoSmJLbWJaUE9pYkhKREZPM19WN0xNVUF0ZkVQblBuaEIxUkFPbC10dUNITWo4Q1lJWEF4ZUwweU5kZ0ZaWU9fblYtbWpmUTI5NnRBbzY3YkRwVU5ZOHB0aVNrUklmXzJTSkVDTTdGTmk1VHJURVFnRUNWODBwbDdTTmE5bzZQajlIU0RkUUFYaHhJbWE4RVg0QklYdVR2emtZNlFnVFp2ZEE0eEREalItRzlPeDA0ckhaQkZBam5STnYwRXpTQ1F3U0lBLWlBNXVkX2VydkNwck9fTHhFWGsyQ21kdWgwbW1vWFZ3Ujd4SnJJT1owOVk5cFdWVXBSZFVfOXNjSEptRGtqc1ZkLTF4Uy16VjF1aE8zY2s2LTlVOHUtX2tOc0JVS256NXpwR19MM1VYNWhKUg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPakJxSjlrbVI0ZTNnS2w2N29jSWxfaEozcUdJTjZGMFM1dUlJVDR6N3Q3c2Z1cW9TdU1Ec251YjhZS3ZDbUxPeFlHSExWQUlROTBIdFpuVmVBT3pFYnV5SUxPT2Z6aVRIZVlDc1BwQzVzUzlmdTQ0aGNqSXdOemY5cGd5OTVreXRGUnA0VWFWZmdHMkgzSlJwWTlSMEhHaFcwaUFYcWFJUkUzeC12VmVrOC0ybW1ZVERTVk1sejg3TXE3eTZKM1F1dkdHd0t6ZnVuZFNGUmJtWXoxem0xaUtaYWlQNzZ5dF9zTkJmYmZ4YjJHLTJZa25HRlZVZ1VVbmhfb2J3OFhyWUtLNjFrU0tuNWFxZ3ZIRVhxMFdCUjhwc2VtQjY5b3ZV?oc=5"
     },
     {
-      "title": "聯儲局官員施密德質疑AI生態系統是否已「大到不能倒」",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdnZSZmVGQk5kcVltY3R3d0RYanBHdXhZT2haMkxPbDdRdzVLc1FLbDVPeG5qS3RCZFJxM082RnRfQVR6VmgzQWhyazd0TUdKc2JPZ2xzNGtEXzkyZk9kWW9sOG1neGVQSjIzNXF6QXpRWm1RdlJxZkI2Sno5cjBJQTI3N1ljS3ktelhFdUY1a0M2dGZsUkk2VVo3bjZiUE5JUUJVZmlUOEM1cW1iMm0wWE1LSm9pNWxVUU5SNjBKSV9LVkh3WXFmZjNCZTJFblpnWHVVNVltQk1hbGNHMFRBdGlNX3Rxc3dObFNpNG1YOWFTRVE0YTVoM2tVOC1PY1JJOHBfSDQzU25PLWI0aUNOWDhiWmphSXpjZGZwOEhpS1JEcGFJeTI3UEJxaHBrVURVSVE5OFBDdFc4ZWRZSnFFc2w5NVlEUWMzSmpoYUlpVVFMREJFcjAzdjRqSkhGOWZPbGR4UkRBZVcxQQ?oc=5"
+      "title": "道指反彈478點 納指高收近0.5% 3大指數全周上升",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00bkJLTmNTRjQyaVBsSU85VV81T25kU01mNVBnOGZSTHpxYkJnSFYwTkh3NmdDUFJoSmNpclJnS3p6ejFYMmhfZVpPRWZ5bWRlRFJmTkt3cU5xelIxR1ZhVFg4RERGLWxDNEVMMW5qOA?oc=5"
     },
     {
-      "title": "美債動向 | 美債息急升成聯儲局新難題，主席沃什陷政策兩難 | 即時新聞 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORHlSY19BT0hCTkx2MTNFTkZWYkdWVE5ZeUdZUEIxajg3emozS1RueW5ld0t4UWk4ZGxJbU1iMnlPbkp5Y1RKdWhnbnNtQVIzZzRyY2hDSDRJdk14YzdudXR2Z2JkSmdsWXlWaWhDV0hxX3FndmRFakQwMkgyTGVDQ29TTHVjMmVLeUVaTjZLSGNMRjBqZVJoQ0tvOXI2N21W?oc=5"
-    },
-    {
-      "title": "華爾街憂心 美債殖利率「急升帶來風險」",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40V2FCNkQtSUNjUHJQN0JqVG9rVF9nVUJKaFlGMUJDYVcycGFnSkR6VWlzSmtaRXg5RXZWWVpDdWE0elJOSk9xVmJaZ19NQ1VD0gFWQVVfeXFMTTZDREJQenpUdml4ZXlGYmFWN2xPX2k5Z0hoN0tEcEp3Um9FZTNHb2FMUzhPdXQxUzNpa04xaHRmUU5jaUpsVV8wQllvY1VWLV9SaDRBanc?oc=5"
+      "title": "美債息逾5厘勢成常態",
+      "source": "東方日報",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMHJXd191YmRfa282TkdEN0dTcHoxX3pKZ0FpYXZwU0ZTd3RRbW5PNUltRnFCbGpkenpSMGVLd0pJZThvSVZfNExZRjNqOENRdnhKVzRwTS1kYzhPdE9mekhxTTJXVlY0Yl92bEJFWVUzdXJRRkpiQ2JjN0g3OG1QLURGalhpbm1uVEJxbXFxZy1FVzJWV2Y1d2NlSzZpQkVUTHFUb2habExjYWY2Skt0WTUwbm1hQ05Mb0FXaVBIZktOVl9yRnA2OWdRN29WRXNZQjBEYmgtYnlqVm9QbnpLckJ0TzFxdS1VSTFCY2lrZjR1cmlXT0JqcQ?oc=5"
     }
   ],
   "events": {
@@ -85,8 +85,8 @@
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
-        "days_left": 4,
-        "status_badge": "4 日後",
+        "days_left": 3,
+        "status_badge": "3 日後",
         "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
       },
       {
@@ -94,8 +94,8 @@
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 5,
-        "status_badge": "5 日後",
+        "days_left": 4,
+        "status_badge": "4 日後",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
