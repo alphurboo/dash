@@ -1,43 +1,43 @@
 {
-  "updated_at": "2026-09-26 11:15:18",
+  "updated_at": "2026-09-26 20:15:20",
   "gas": {
     "current_label": "9月26日 (現行油價)",
     "current_price": "188.9",
     "predict_label": "9月27日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "181.9",
+    "trend": "↓ 明日預測跌 7.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
-    {
-      "title": "伊朗外長：美以襲擊致5000餘人喪生- 國際",
-      "source": "dotdotnews",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DNEpsZnJfdjBkOUl5dHZSSGZjVWRENUJNd0tMT2dVOTY0Vk82Q0gybERwY3lSMXR3VzJYcjRST093Y0loX0tnQzdzcjdnb3ZkUGdlcjZxZ2ZFbm80c0lVT3BDbU1PbUdvMk9kY0ZhczZESUZaZTRaV3B3?oc=5"
-    },
-    {
-      "title": "習特會丨白宮稱中國明年起兩年分別進口至少1000萬噸美國煤炭",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNUnMyeFF2bE9hTS03cDk1Wjd0V3dmMU5KRnU4RU92ZmtpMVl3XzYxLXRnb0wtNWJNNlRPbExaLWUwanh3RkpkOGVyaVJkX1VJTGZzVW9la1FyQWtVV3p6TzRYaU1aREljNVNUdFJESWN2QmloTW1yekhXeFdjSkxSaGl2SEJXUEdPaFVsWmlEeWVPOU4wNWR1ZF9pQjgzZEYwRDk5RE50WWRXRVRkVkhxeHhRMkF2VXFtY3dGWFRqdzlkZzAzTHUtMlJBNU4xbFJKUFozak1BWmJqbFJ2MlJGYUV5RHA5Y09nbTBTd0ZHZDdhUUFkMThKU2owYUxWLTI5UG9IMTNUcnBrVm4zUkNRV2NqMzNzZ1J4VXVkSC1jMXAyYWVjNE9mTUtfXzJXNHB5ZDBZY1NKSndXTVNnSDZoWWVNZ2NuMU9PRmFzLUhrOUhTbjA1bXRrbzBkSEdFWXVlX2dCczhfQkROTFNQX1didjFOcWJWSVZQODhfN1Vzdmoxbm0xbGF0aVVDMkEta3czOEthMVBfSUM5Y0k4?oc=5"
-    },
-    {
-      "title": "白宮再限制CNN採訪 禁乘空軍一號隨特朗普出行",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0dKcU5vS0dNYnFuNGpiUUJRNzV3MFU1djlWSFB5dTlOcGQ3ZkcwdlVMZmwxUno5MnloeW5VVG5hQ0kzbVgzS05iMEpjVjZkQTRNNmtZSHJqNmtOUlJjVmxTUjAtNXJGaW1JZzNmbHlMRVRrZjVNdUk1MHpaYXRxQTdyR0dXOEl4LS1EWkZHZw?oc=5"
-    },
-    {
-      "title": "外媒：中國變得更有底氣美國很難迫使單方面接受條件- 國際",
-      "source": "大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAybE5mdVFZdjFRMHJ5RDJLaXgxMVhOZzQ2TXBWOC03X0owMHFoOVdIWUNuN2VOZE1nRlFLZVRYZkE5YXdTY2x1UDgyeUJyWm9pYUtFTlBDbTlYU2tfWUs4Vmo4TTlLUTJWR1IzZDVBcEY?oc=5"
-    },
-    {
-      "title": "韓正提出推動全球發展倡議四點建議",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2R2NOOUIwT25qX203S0R3Nm9BeEl0S3o2R1hYNXVGY1J6RWF6T1hNYzRackxUaGctajYzMmI1V0NkcFZyVm5mWWRYVWlEQnl4cUFIZDJWVGx5M0hOMmfSAWNBVV95cUxQaTBvNXl2NEh1b01KcjdDbXU5aC1GRnBXcllDckpoSWhzVVlzUWhlWlNpNi02MTExTHVkZzdIaThkZWQtaVl2WDlXYkdKVHo3bm1CSDQ3VUdfTl9WZHU3U2pIZVk?oc=5"
-    },
     {
       "title": "金色相框｜習近平主席美國之行- 國際",
       "source": "大公文匯網",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNzZ6Tm1PdGlMTWdTYjA1aXhKX3padi1QclpFbjZRVGo2a21wbWVDb2RYNUtpcF85Z1dSME1VS19MN0wwMWJKU1hNUlNtZEVjZE5EM2JMWktQSktqNHdzWXJWckRCRzRPWW5nRFczam0?oc=5"
+    },
+    {
+      "title": "白宮指中國未來兩年分別進口至少1000萬公噸美國煤炭",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PMGxNcTlvdnJoeExfVzR1LUdtRVM0dzlXdlFDTkdNd2Z5dEtPaTNyVldaYmE5cXdnRENuYWF6SDlycHp1NDAyaFpLbXM5MGFTXzZ5QmM2Znh4MDA0YXfSAWNBVV95cUxQOTlMUUlnN21hWHl2Mnd2RlNMM21qTVJhNUJ5UXZpT0JtY1QySWtfUTRjS2owS1BKcjFJaFI5R25rWmNOSHBRbGJhcTJXZnZYUTZCamRnZHZpUFIxcUM5SzhnZWM?oc=5"
+    },
+    {
+      "title": "美以伊戰爭｜伊朗向美國提議七日內重開霍爾木茲海峽 特朗普拒絕",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JRkxyT2Nqa3Nxb25ndTJmRTA1cy03RkVGLXllek5rbE4xNXIyRFRZX3k4SUlaNEpGQWhpdkJOYm8yZW9MLTlESXpCaFI4Y1JQOFlibElJZ3VwcHdyYVRuQ01yaHBjbEtFNlI2SWVDcw?oc=5"
+    },
+    {
+      "title": "白宮打擊媒體再出手：CNN禁登空軍一號",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTnh6YS1obTVaS0V3bTU1dnZQdWNIXzUwQ2VMYVM1d0Z3c1preVlPT04zOHZNVG5zWDVveEEta0stVUJKSlJSdTY1ZzRlcHdlZmIyc1lwT1o2R0JZVURseHFpV293WHprM3VJZHJzN1RobHdFUDNhUXk4dWxVN2FSLUxmS0ZFdkFUb1ZJUTh5QTV3a0IzRXRpN3JyN2JRX1lndkNYMWlFcWRJMnMyeEJyR1JtV3RvTFF1UlR1N3UyLTdEbE84XzhvSnpkY18yd1BwZlFVSDdDNmZ0Y3djZVRjS0xINUlwZ0o1MkJZenU5WkVfbkN3RHp3SXAwdmJwNDVpLXR1MlhYZ9IBhwJBVV95cUxQTC1GaFlPTmhSbWplT0xPekY4SE1FRkh5ekp1N1AwUXVoRll6dUNJUDZsRE95bTZObk1ieDRpNWVuODBKbWJUVFJXSkNvd3J4V0JoZmJHSFVjZmwzTk5NaXFhdWxOS2VjX1Q1TmVHeV8wZFpydm45TVA1UzRkd2hHaG8zZEpfN2QtN1BscTM3bFA5Y3NUTWZJbGdZbWJnSmRocVdWNThmZGVJWUdMSlV4b1RlSm5ULVNqSy1xTGVQV1psa3Fua1czd2FpcnR2QlpKemFSaDVnT3luYjZrS1JWWFpvclRTdXdfNFY4VmtKUFl3c3lXcFBSY2hsd0M1WHlsVHdTQ21iRQ?oc=5"
+    },
+    {
+      "title": "WSJ: 特朗普拒絕伊朗7天重開霍爾木茲海峽計畫 正考慮11月中期選舉後恢復空襲",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNcHBwY2FkQ1FpNGlZUDl6ZGRvdGZIMTFYU1BwSzh6aFYzX0hUTkpHVW43eFp0YTB4ZWdNZDRzeXd1dDlVYnFOcTlYeDUzdDJqNFNDdFN2cUhoR1hkMGZZUm1NRlJqa1o4a0pENjl0bEpWM1pqbFRLZFRmU1Jxek5EYkJlT0hjRmRSMGRSZWFwMUhNZV84WUhOQmdxY3JON05Od0lRYUs0clktbUU1eGNEenFISnF4UkdKaDNFcHJ1X3luY2VMWlhBRUJCYXVqUmRFMFBTaG9RQ0V4SWJyR3U5MzdDbHBUQmdnaXNhOVJKTHdnaE0xT1Q3Q3YwWWRaUWxmNDVyMWtHTjVob240U2xna19rcG16SjUzUDVnMHM3VFd5OW1taEFKZ0VzeUZFVWg3S2FSeTV5NGZzS2x2QnJNZ0xWZ2E2a1o0dVlBdGtNM0Y1MVU0UnJJSzhCVF9WR1M1UkowaDktZ1pXTE4xa1l1SldYNXo1Rmo3bmlXTnd6akZkdWZyT0lvMUR3SFh0Wnp0d1kzWG05U1lRZTNKeUZjWEJ5NGtfejhuU0dwNm5vZkhDRDNkZWFLaElSQjFlWnZKMG4wa1l1R3ZqQ2xmdGpXcEgwNENEaE9STVEtLWVn?oc=5"
+    },
+    {
+      "title": "中國大陸醫療器械貿易談判卡關 對歐盟態度表達不滿",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QZlYyc3JZS0VEVU1BdDdGYy02Vks3bmUtUWR6YkQ0SGU4bHNlQU1WTmlaaVdhZFF3bHJhUGVPc2s4V1paUHEyUE43U3JKNXVO0gFWQVVfeXFMTWtHdzNHMVFhUzFFbVhldVFINHMxUFFCaVZMMW1UQm1zaWtEd0ZWQzd5SzMyLWJaU0wtdUpSU2F6S1Z4X2Q0UDlkMkxnTjN1UmdtOVFjTkE?oc=5"
     },
     {
       "title": "專家解讀：中美互降關稅對全球經濟格局釋放積極信號- 兩岸",
@@ -47,34 +47,34 @@
   ],
   "news_stock": [
     {
-      "title": "巴菲特對華爾街的1,870億美元警告 在其最愛估值指標推動下比以往更響亮",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNMXBTS2JhNGptZHdmNHloWUhNR1BOMHMzTlBfOVBwZS1yS01OdGVjMklwcDIzaGEwZm5xQVhuMXp2TkhGZHVRc28zMUpEZWtNVVQwMUo3R2hDYTJCMjRQQy1tRXg1ZFYwd0hMbEpKMFBaXzdxWkJiTFdRYzF4SHhVU1pDR0QwWGpSdlFNNHJUZ3Zoemd2dEFrc0hGY3ZzYnFZRlItU1B2MkhEQ0pYUC1uVXRURDhnQ080bHQ2ODB4UGxTWFFuaS1rM3pBQ2l4VWMtbWZRYUdadW1QLVVaTlR0ck80UU9fX2VBbjYxY2lMRDlsd2J3UVJKUzN3V2xLa3NLU3pZSVkyTzdKbS1tTnZldjd0ZklDZTBwSGlFaG81aFpwaVBMS1ZJajlZNTdadUFsMjJWQ2REdTJDLXlfYzd1VEhoVDRRTW4yRmp4RTloZnN3bGw3TjlBbUk3NGI5Z3RQVXpNQ3VrX01EMlBSU3RzZ0VwV3NvbzlETDM0M21fT05YaTFPTFpmaEhKVG5zTlg0a1FKcWpOWW12MzN6S0VnSFRNWjA3M0xodUYyb0ZBZDh4dHdhUUtzd2FYZ1hjc1FXZWZXRXdqdjBuQ3A4Znc?oc=5"
+      "title": "專家示警：美股崩盤要素已全部到位只待導火線引爆| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QZk1Ub1UtVDh2MUwwN1ZiNU5zV2lkZ0g4WlA3eURJeEVrRFRzV09ZWlRlZVpHY1AwRDcwVTVGdm1FdG5oRnl4WGpaRGFFVEtK?oc=5"
     },
     {
-      "title": "納斯達克綜合指數(.IXIC)即時行情, 股票股價, 今日最新指數, 走勢圖",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQVXVsdmNFQlFvN0xDSUVSLV8xbTFUQ1J6LXhPX2p1UG9LLVJQSk8tUXRiTzRuc3RLSXVCSWpfX3pJaG1kclUzQm4yQWVaQkpQc3FDU3U3RnYwUk9TMjVSazNrTGdQQ2pRMVlmUFI4TUpWaEdBeTZERVNfZ2NrNVhuQUtzU3hrSmpON3B0dWRrWFJiN1p0ejA2UTY2SjA0amxuT3puVzZIeXFTSm1JR2ZfeEZhdU1aaUVMVnRQWmNtcHFkMzhOSS16NTBSZTE2V1VwZUtVRzZqQmNlYmVyUTlYZ0xUYXZKVkc2d051QjIwM3pnMHFURVJiNXJLRGM2dC1pbzYwSElSS3pLWmlPd0lDNGczZXR4ZGtuNzhvd0x5QnFBXzQ4TFpLOUxIZW9CQQ?oc=5"
+      "title": "專欄作家：美股崩盤要素已全到位 只待導火線引爆",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3T1dCS1BfWmtvQjhCX2VFNVRDWkw5bVJOeTNCTXUzU2JlSTZaaG82VGR4aXVLZy1HTFltWHdFUE9OQmwtYTBxRDdkZXhtbk8yVjZkVFBZLV9HZ1JwOVhBRUhn0gFnQVVfeXFMTmhMcE9uNENrd3dVR0pzbW9TbExwcFhEbjdDM2FjQ2JOU0JqMVMzbjhkNkdfQW9qTVQyVXRaZUtnbDVDemExRHdPamRwS0RCdnFIWjNTQnUtVGx5NENGR3NhY0NQZTk2QQ?oc=5"
     },
     {
-      "title": "AI狂潮硬扛“5%美債收益率”! 納斯達克創新高強化“80/20”格局，華爾街重估股債比例作者智通財經 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVWpySGZmZFcxalN3NHdFV2JLc29mdTNWOGFTdlk4azJiN2RENTB4U3ZSX2xxVjVLTTNyUUVweGlTS09fekxlNWFGWHl1ZVI0LU1XcV82cUZ6cy1DNWt2a19ZMXN3cF9TM1pQcHQtNTY?oc=5"
+      "title": "財經視野｜美債新高，科技股要見頂？ 該擔心的不是利率！",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQZW50S3hDSTJhazZVbGpoNERCZlQ0WWdDYTJfMXNzZFhoeW1UNjM5VUlpdWRHbnRjZVhRRzhLM2xjVjdTWFlvV1BBc2NtUXlkR0tua3RRQldiRXFSTmZiSG9faVUwa0ViMjZES1V2M2ZpaG03dnd1dXd4VkFoemdFMzQ5ZjdYZ3VpMlVGY29hMHVUQXp6M0FzN0hsUmpnY1NfTVVFbkxiN2dRNHNmMHhvdkNPbVJVVTNQUnZwdUNsTjc0N1hvQXJsYm5mZG85ZTdpQUVMVWRvU3YwSFNPVlpGWFBFQ2J0NmhKUlZ4REZsQ1hQbmd1dzlLTWJiNFgxUWVZdmphb0pab1JpZXZXTkpkTGNhc3lvTU9tZy1aM2tmU0tKLUdrTkFodHZNTEVYeEN2d0ZHYURxMTJ2cFAwUEJ4X1k2LUtyT3NOZTdYalYwaFMtVWdwajJuQTNnMWUxUnFKaS1vV2wzSzJWQThvNXFmNGpKeklrQmhhNUVEZ2ZDbWRvdw?oc=5"
     },
     {
-      "title": "9月26日收盤：美股三大指數收漲且周線齊漲 市場無視債券拋售 蘋果再創新高",
-      "source": "flamingwheels.online",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DN2toTzVHZXo2R3RjMDJMRjRKUVNKbWJBNEV2ZWtTeDFkcWp4VUpGd0ZqM1B3YkhQX1g4dWl2MHFNVDFaTXNQeDBOY1hHWVFQVW5DZV9TREFNOXYzR0pFemU0azhuSGI1c282VU5jSVR2S2Nv?oc=5"
+      "title": "華爾街股票「上鏈」對港挑戰",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOOTBScktGUktRa3JHSjEwdFU2SlhBLVpJbFVjVktKVHEwWEhKeW5SdlE3QWFNYVNDU3FRaGZRNUppOVFZclBzd1V6VnhlaTdvWHBiVmhrRVpqdU9JU3Itc216X1hmbmFwME1TMlZZclBoSExfQUF2NFMxZzIxZ24xcE82WTBTSDVTUTRmOGh4Q2RaRUI0d0dfTXdJNmFYblo1bVFWT01Oem90cW9XWUxFd2phR0tkUVFrYjU0Mjl1LTZMUUlwMWRxTHpIdGNiN2tURWVLQy1FVHhfX1MxbjdQUW9jVUVqWWpGb3lrZHlkbTdOalk5dDZSMjJQX010bm1ZSWdGVGJfckRVRm1YUkMzSFZqWHRxVFktb1NjOGVwZ0lwZ2czdUZJTHpnNVFURzNWc0E2TXlrQmZRdW5qYnd2SmNZdk5qRXlo?oc=5"
     },
     {
-      "title": "聯儲局 加息路徑重於幅度｜穩定的現金流比預測市場方向更重要",
-      "source": "香港財經時報HKBT",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPdkcyQW5UVVpsQVlMa3Y0Q1RVem15S2RqT0hXcVlRZHF4SG01S29QT1ZzZUl1S0xpeFpjZmJCVmtselZRRmFETXZIWEt0ejhldzJRZ3dwMF81NUxaczNmbVdiaXFhcDVrTGlrTzJybVJkRlpfSkpSMC0zRmlhQkVmZ3lBeWNHLUpQWjBvQ3psRUtnYnN1eWkwd3R0M09IZ1l1U0NneEpST3B3ZS1fbFUySVJKTjd3ZGtCcG9WeVBSZWsyamRUcEtPTDJqdlpDei1tY3F4Ry1FRmkyMW5XSlR5Z2Q5ejF1Q0ZrR1ZjS1NVM2ZYOFlaTlpscDZ4VnVWdUtDTHc1TFNCaXZiWXB0SDJVYjF0MVBORGx3TXliQzF4WTdxNXRVQzFueFhPNEFWSTZGdmpuOFE3M2k5T296ZEtfWmc5LWJYS2M?oc=5"
+      "title": "〈美股盤後〉傳美伊進入技術磋商階段 道瓊勁揚近480點 三大指數周線收紅",
+      "source": "news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeHpNYXZad2NWWDgySklEUGxaV2dsU3Y5ejFnZlNoLXBSTkRHcEVnaFdFcnpVMGRVaVh6anN0eURGSG9HcXJoWWpGM0Z4U1U?oc=5"
     },
     {
-      "title": "美債進入「5字頭時代」華爾街迎來高利率「新常態」",
-      "source": "cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjMXdsTU8tVnYtOFJHOWVvNW9oV3VlMnhqc0hQQjE4UWNOeWUwSGRqeF9KRm5QS1ppOWNWZTNjM2N2dUY4YjVOWEh0Zw?oc=5"
+      "title": "據《華爾街日報》報導，波音指出737 MAX存在影響著陸導航功能的軟件故障",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IUXpzcjdjdkxIcEc4VGRVUkluNjhYcElqRVY0WHZ6NWdrOHhhNFRGR0d4ZTVCUWhCSUdmZXIwNnBSelcyX043SHozYUowQURSVHZoVF9vVG1xZVcwRlo1ckxNZ1NzRWNyeUVJSmdJR1ZqdHR2NFhB?oc=5"
     }
   ],
   "events": {
