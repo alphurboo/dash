@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-27 20:15:23",
+  "updated_at": "2026-09-28 00:16:46",
   "gas": {
-    "current_label": "9月27日 (現行油價)",
+    "current_label": "9月28日 (現行油價)",
     "current_price": "181.9",
-    "predict_label": "9月28日 (明日預測)",
+    "predict_label": "9月29日 (明日預測)",
     "predict_price": "--",
     "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
+      "title": "美駐聯合國大使沃爾茲表示 美國曾與中國就伊朗戰爭進行對話",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPOTJ4TVhjV1BJU016Wjl1dFE1aHFjbnJ4UGJ1NnpLNHBORFhxTnhpWnFyWDJla2twNkhxcEdYY2otSGdXWERFekhqRGhWY19tbVNGMlRBeHhZVmRuRVNPT3hoS2hfRF9FTmd5TWt2V0tkb2t5OW1UNEJBQ1h4LTZjcDUycGdGOUx4SzZuQ1JPUnlGTnloalhDcmhhS1hQdWR0TmlUUTFneU1UaFdFM0d3SGR0Q3ZialFFUngtc2JoTzJJdTQ3M3BxRE50OGxDLTNYX2FXM0pkZ0F4NS15YnJFT3BRZXhGbmpXd1RxMzNEQm43N0otc2VFSGZJaUhZR1ZzYTQ2ZlVUYUtmbGZ6OURWX05Hb1RkcDl0dkRncjgwQWp6Vk1uOGZOZzEzc3h6QmNUMmdoNW9JRUt0ZDRYRGlQaElVNHdjZ3BOWXpocUVJcDdLNE1lcE9rTXhRYjFtLXVNREYyOEloeGtSQkxtZmRnVnpVTUpodU41MUhmQVJZUnJra3hFd2xTOVhyUkt2c3EyNExMMy0zZENOeWQ5Qy04U2dFcVE?oc=5"
+    },
+    {
+      "title": "聞風筆動：歐洲商會訪歐盟提「火車論」 鼓勵與港互動／文：李先知 - 20260928 - 觀點",
+      "source": "news.mingpao.com",
+      "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOc0xLek5LNjhYMDRzNEhhYjMzeXhFRzRzRXVNRjdnOE1yVVcxVmhWa3JnazBPRWJaYnRBWWFMRGptdUFIS1Y5cV9DWmlHZFlrUFBYVDJpbW9iM2RCQUJFTWE1ekx3LVZLYUdKUEhMVW80U2JudFNrTDdGSmwySlZxVXdQeFlWTjJIQVdpY0tpU3VpMXZReGJPaDBlaE14cktrN1RxYUFhamZTOHVoaV9sYm84c0xOWXJNZ3BTVzJoSXozU2dHbzhDRG9GOFBOaGFWMVlNbGxvNXFCZWpUc29kNFBCRU04TnBBRjVqaFk4UjMzVnYtWG5wWHNBaFd5NUdTN2h5b08tVzgwaGRuU01xaFlpTEU1X3BBUkZZTVpPTWZwUzZud0liUThtTFhkMWdLQ2ZaMkt6cGFlSEJGYUV3aVdhVllLZ0pqZWVXVEtlWUxad19DTjZYLWN1cGRJQll2elZVaUwyTHRaSjZvQ2c3bW05UFA5d2tHMHV3eGtVeFlwMTNjaE1VMnM3cW0yaHBmN2pMSkxrdnp1WmdlTkg2YjZrdWg3cG94cTZVS0RkNzI5Yk5TWXFoMnVQZ1BmeVRjRE9hWm9JaGlJZ2w4aVhZRnFUYzlIQ18y?oc=5"
+    },
+    {
       "title": "中美共識劃定中東“終局框架”，或對油價施加下行壓力",
       "source": "FXStreet",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGx5dDFXU3ViamdNN0RYWW5HQjV1Vm5HVE9ESmhPYzZnQzhVMFJPY3pnc3pkdW0wdW9NTW9OM3VPUUZzSkpHbHd5Sm4xNFVuVnVYWUVfb1Bud3FrNVQwbEM3LWIyUG9sUXR1UjhtTEZzVkNwQ3VpeVZyVGNXU09WcFhDWjBiMEdfeU5vT0tiSHY2UzZROV9kZVg1bGlDWkRBcjVBRGJjZTYxUnJvSlNOVWlpbVFvT3JBNmthYVh3S2pxQ3Exci1CN3ZfbHVZYUxpMUllT9IB2gFBVV95cUxPTUgzazZfNGxUTDFOb3ZQUXJaaldQNy1PZk1MUnAtWXhnRFItbGRuQmYtdWl2dUVxY2thT1pRQnRVQUlkWkNnZGd3U2VRaTNJbGZxNE9hcUc3ZEJaTG9DcC1HZFgwRVIwenJfRHF4Ym5JRmhTeXpDMG1tb1Jib1hTYzBtVkZ1Zlk2RnN2QVd1UjFXRjFyd3lPc2F6R3pJeEtkRW9RSHFCY21qTWhEOWJEbW9ZWFd4eWlLOW5zS0toRlN6VTZ3cGhjcDZ3N1c3TnprcnMxRHViZlE3dw?oc=5"
     },
     {
-      "title": "法國世界報 - 《世界報》: 亞洲疑美論擡頭，日本成地緣政治重組核心",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQVXRwbnJOaUV0a29PTE54d0R3aGt6bmt6NXBOYldDV3hXNTVsUE9WQlFCcFBabHJtTGdMTGNGNXJzTmJkbWtHMFlCdGwtRTIyVk4weXJUYU5DVmJzTnoyeWVObnVWa2tONkRfbXlUZzBMenRxRWF6QlR3dDV1bG1NU1lOWk5nc2NvblFzY2xVY3dqZXRTM0lSM18wVW5FM1hwdDhfU0FXSjBfcm9UTEltU24zWjktSjUtbzBRV0ZXVkdRRVFCQWloMU5BdUMtZzVBNUNmSkpabTRfaE5zSnRNM0xMTlZCc1pxVEtEaXhQT25qWTFjcUpobnhiU2xha2lRSkNfeFJsTkRqUkQ4VldadUJabXY4XzNDUl9fZzVHX2JEUXZKa2hGaGk5dWdRWkdXd1c1bnJrenVZQ1ktVFdkOG5SaXRwTkc3NXpJZEdtQnVKZGFQTUJ4b1BsYUlDMV9tWUtoc04tNTkwbllSaHdjd1dPRDcydURqVmxBYjItaFE1MFBCcVhmeHV3R05xdGprUUhTcEx3b3QtZzJGRWlHdXFkcW1ramlCV1NPenhFWVRYSURMbmFpYzNBY0FtQQ?oc=5"
+      "title": "防冬季能源價格飆漲造成短缺歐盟呼籲抑制需求| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IeWpYU21IUlJRTkRoLXJ3LXlqMmEtSkROM1RzRFBxMFBnZDZGZ1ZKSVlXRkNtSWRzWHkzNXpkYzBoNGJzZFI3S3cyOGttMW9q?oc=5"
     },
     {
-      "title": "美國不抗中 台灣怎生存?",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYnpCakxMVm9OWjBNeXZvZ09YclhTRUxvQXZoejFSdVVwUFFWWEN2cUwweFpUUm5BbV9VOE0waDBnd0dVMVVoWXdUbVhtaFVRckhqRFNleUJpNW9ueldIRTdkc1ZQMjNyVlU1RzM2UWlzNkdCUmRtWHl2UVhVMEhNQTRubzJVM2JuNG9CTnZkckU4VS1RMVpRTEVEWEItVmtQNE9uYVI2QU5MR1BZYW05R1QyZjhJbHVxcVBYcU5EWEpNRjZlY3NadUdYdERQVWpuXzdtQVhieHVXZ3d2bjBrdkdmVjh3X3p1?oc=5"
+      "title": "美國駐華大使稱中美峰會後對台政策沒有改變 還在繼續磋商軍售",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQVjJXSkZuaVItVG9QbzFfbm1DaFR0LXU4WVI2MmxJMkJxQ2UwbWdRZVA5Sl9Pcnk2aVp4STF6NkJ3VDZ4VGRtVWJReGlZcHBYTDJxOUNMM1ZKMWl6TVZvZ1ZVbVFoTVVvc3NUNFRIZHM1Y0pwd1ZfTFVOWWV0cWo1SXJhZkwzTVJaRXhxR2plTkp3ME9MYzJYYUhraEVkVjh3M0RYUWxjWG5yUzh0ZUVtUnF2UTVMYTBEaW5qZ2N3ZUpyMEpHamoxSVNaN3R3cklWSDlkQ213NWE5dzFJVnZxWGRDOGlXQzZzT3A3ZUxSVDg5ZlU3cU4wZ1I3NENwcDRRak9TVGcwLUFfX2VabG1rbUZGMHVoV0Zmb1hyUk9waWZLaC1YYnZtT0Z2dmIxRURQWWRseUljWVh4MDRnQ1NUUi1UeGlGTE4zRFUtZUludGtVMlFBZTRxRjVlMjAzdEpKWlZKREFtLU5pbV9pYVBneC1GLXU4LUJuQllfa2I1VU4xVGNKdE9ZN3NvaEdIb2hxNTQ5cHNlTmRnc3B5NFYtZWFyZ2JKcTlaRW1YVG0wZw?oc=5"
     },
     {
-      "title": "「五眼」內訌狂加關稅歐盟躊躇作壁上觀- 國際",
-      "source": "dotdotnews",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5odXg3Xzg0dVBRS0FMc3dXMkpsUjlwd1ItVmhJVzNDMDdCUDFiZzdCNUhtU1BtVkdWMGE1dXdWM0ZZRHp5SkN5dFV1V3lWS0N4Z0JuNng0d3BVZXY3YWh3WXZzTV9wdjhraHpsaEFMV3JzdjhhcFJRbFhB?oc=5"
+      "title": "美聯儲加息週期下，該如何做全球資産配置？",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUc5V3ctLTNtYldmTTY1V3FFeDlQZEx3TEtoTV80cDhORUFNbGFnTGRqM1hUTjF3SWEyX3FwV3pwV0FmV3FXb0dIbGpuOWYxTF9oTlFfbjFfb3ZMcUIxUlNRMDdUQWZfWlRhb0JUVnF4YWhUcHFmZGtBMExyVHZsYW9xRE8?oc=5"
     },
     {
-      "title": "中東轉機大亂，全球航空版圖變天！杜拜旅客量年減31%，歐洲趁勢搶下亞歐轉機客｜旅遊經濟",
-      "source": "Bella.tw儂儂",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbkpWelFFMmYyU0szQkQ2bURuVUhnX0JsM1RBY3NmTTR1UlRJNUpGdE5tWmJ2VVRfQ3lFWlkySFZteUZYUXZNWWJ3dFRNY2FMQUlFMmpUYVJjOVhUM09oVjNtUUtfN2h4MU9nTTVxQ1Q1XzYxdGEwaHpYdHdJcE5sSWtTdV84S1daWUE?oc=5"
-    },
-    {
-      "title": "大熊貓「平平」和「福雙」抵達美國亞特蘭大",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04VFkzeURuSmt0cVdqNEdpV2hWMDBCQzVudVJtekptM1dERllwR2NzOVZXclJ1Szh1dVZyMVBSeDRncDVLR2tUNkE4bzJGcm5NOWRBb1lGeGowdEdrMlHSAWNBVV95cUxOWXZ0NUc5aFN1a015WWN5dVMxWUh4R3QzbTVGSmpvQmEwcEhkX21LeVBUMl9rOWlfbDdPOV9GaVZaTHlnZGxEbGVNekdTR1pBR3R3bTJLZjNDVGxkQ1VvMi1TOGs?oc=5"
-    },
-    {
-      "title": "美5電視台達協議 恢復白宮聯合採訪",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZXl0LWZ1WWVFbWlSNHNaSDBPZ0dlaDJHRXNHYlVQMnU0dXBROXgweXNnRHJMelh1Njk0UmZMczZCMUdLMTBxYk9OaElTd0x1bTZBYUozb2JpQko0OHdsX3FCUW9raTdIdHR2bjRjZ2l0UUtLT1dzdlptZ0lRemhmR1NvVk9vRnZEQUpKcGl2cEhlZ1hCaVluZV9ZSTBPOGgtSUJYYzNxWHFlMGVGV3cxS2xnMmJlR0p5VTlSekNDaUxMSkFqQ01qS2JwRDdGSGpVUEs0QTRYUGdxaXZ2ZmZVQ0ItMXFYdjFaOC1vSWVWams4bXctaGtycEIxZ0Z4dXU3ZS02R0lLQ21oZmtTdWZJOWd6NHpOcVBwWEZYbDI2TlduUkRmZ0E?oc=5"
+      "title": "伊朗：等待美方對重開霍峽計劃最終回應- 國際",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TakV6TW1fMk1rTV9JckNHcXhXZkpYbGE5R0hodkNvbmw5UE0zRDJrS0xnVXo3enlONHRMWjBaSmR6RW5SUHFaZENSRVhLVDdHcGxPeUZpOHhreTlLNllMXzlaWjMxeGJvRXo1VktxQko5UklS?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美債有何問題？|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2hqWGh3ZlByUm0xMEUzSTBiRHJoUVQ2dE5fcWw2RWZaTVBWNDNCT2lBblR6bGs4eXVXbC05ZGNPRjI4TFpDZ2hMZ2hmYnlwdXB4QW5GREQ1d3l3ZkxmTUlqMUNocXNuZGhXa3BZWjJwYTJ0YnhwWUJONmdsQUxURnktMFlqM3oweGl2cHBGNEdOVzBvZjdEN3hMeEZyZksxUWhYemN3?oc=5"
+      "title": "美股本周焦點：就業及通脹數據、美光業績",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qR0hTcmFtWGQxYmFmVUJaYndEa1dCcXRPRnNrdEZUV243eFVNUmhDVHJsZjloZXk5N3N5SWZMaGxJSU95TmdqLS1xdFlLRExrNHM1OEk3T3pTTmhpbUJWck1UVl9HWEppNGc5YlFRTQ?oc=5"
     },
     {
-      "title": "貝桑促聯儲局保持開放心看待通脹",
+      "title": "財經視野｜美債利率都5.5%了 全球資產為什麼還沒爆炸？",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQZktVWGJaUkNPUWVlY05iUnVCTXRKRTNmb0ZqNUxHZEZxZ05ybkVkTWtlR2o5LWYxTmc1em85ZFlub21jUHFtd0JtTmdFX3AtbFdLUTJ1YzlRWmpMandFeGpqM1JBZ080NkJaR1NpXzBTM1dHc3RSdjVScktNWmdFb0QzREdqYUlWenBQb3dCRkZEVmNrYmF1aFBNSHN2WGlSdWNiak9uWk5BalA3b0lkU1JfSkpDQjR4dUppR1ZMWVhqaWY0Rjd3TFJQQThaUUdlYzBySVI1LXc3RzZPNXJkckpEVU5iN0UxRkVrSjEzZWZSdkRCUUJNdkNYSDVVSC1NX1JGOWgwLWdoZ1lDU0JJUkpZOWwxdUNKekFSWTZ3WEJZakdYTXRiOG1sRkY5bFBWUkpuY2R1eDJwV1RDWDh0Vm43a2VFV0pjV0ZDSHVDUzlLRmtuZHBXejFRcHkzYldyLWdjc2V6d1ZNUDczVFY4V3FTZk55ZEMxTlE?oc=5"
+    },
+    {
+      "title": "金針集/美債風暴升級大調整逼近眉睫\\大衛- 經濟",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uYUdhc252RjdwTjB1T1NibUVIb29nRXY0MXhENW5jNmtQbTI5U05ad3E4VTlPSGl3WWYyVW8ySExOV0UwSHVJNi1OMkpXWGxfbkdjOE5IZGxROVQ5WWgxX1RmaC1MUk9laFlLSFBheWF2d0N0?oc=5"
+    },
+    {
+      "title": "澳門日報電子版",
+      "source": "澳門日報",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xLVRyZzVVWUxTaFJUem9jNFllWmpmSk9BN0o4cTFNcTVSTk1kVzludS10d0JHc0dUelU5TmZfYnNxWWxjUGJnVE1YeTY2eW02dW5LR3FJSmxlTk8tMkt6VWpwUWV5eERqRnJDc0h2aw?oc=5"
+    },
+    {
+      "title": "美股加劇分化 作戰好淡並行",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPUVJ2d0lvcTlJNlRLbTBGb1dCUjlWVGVYRFlxN0tUOGt1cGpJRkhJTW4tbFVra2o0dDBTemdkS3otSUlfaU5oQUVuME5CclFRN3lya2VXUXFFMnktaldlN1BjZzhwaElJU0VlQ0hKOTF1OFdPZHdaNWRFRU9uazRGZEE1RWVITzVvb0hTZ1g1LW9uVGMzaDNjUzVzZV9wb2pyQzJZQktVRUtURGF0bWdTVUtzMWJ1ZG9Qam5qZ2lEakpiUkF1WG9GekFyNkxVNkNzdDFxWWw1WXJjWjVLa1k4ZVhBUkZwZlNoSUdGUWtFQnpHZW9qNlJoZXRDSVFsWXYzTVBBSmRFSUpXYUtjVV9hc2owdU55c2lmcDZ4R3JsaEVEcU5T?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mamhtVTNGY3NuZUtmaDZwLUJqWGd0UFlHT05udTVNQWw5QzhPNld2ZGpGbFM5Q01nOU5KcmdqbkE0NHhPZGN4MG9TUmxPM2tGVThFbWhibkRLb2F5b0E?oc=5"
     },
     {
-      "title": "在多年大舉買入之後，美股散戶交易者似乎正轉向觀望",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tZVFtTUZMbTYzSG5sNy1udnNTY2Y1dmRWa1hGclVaemtyNzRBaGtOaWY5QnBTZWM3WTNXNFRNaUtsZjNfUFI0QVZ2VTdXdDc2UjZzcFFpYXVOc2Js?oc=5"
-    },
-    {
-      "title": "外資今年來大舉買進 帶動美股走強",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91NUNsZG1NSmM4UV82cHhvRTUxbWtCVnhneW9MSk9QbDVNZFJXWDhxTW9UTzFYaWNfcUJQMlNiNS1DdUdvYXVTT2Izd3pUTkY1THFNeEc5WXRKNVYyeUtRaHVR0gFnQVVfeXFMTkkyVTdZUXBJYXFybWNzOU9IT2s4c2hwWHRlTDRWLXVUQTFuVS15ZlJKbVllN0U1QVVCeDhpa09DS0RobHhQOGpBbkttaW5RTW5LVm9POV9CeGFTZnh1anJBcHBrVENRNA?oc=5"
-    },
-    {
-      "title": "ETF布局 Q4股優於債 透過台股、海外科技股搶成長商機",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Objd2Z3h0UXJueFdGSEdfeHF6M3dnRWZlTXA5c3pvTkt2TDAyaTZycEJHX2ZnV0dYYTJrQ3F6OXVPOEZQbVplbmg0Sm1neXJheDkw0gFYQVVfeXFMT3ZEd3M4cnZhUUZ2bS1GX1Fjb0c1NHpWY1hPelpoRWlaMm5PdzNMTnNWOVRFc3RBOHJvM2JYUHQtZ3Z1cFFQb2p3VVVyaDJhT09YX3lsMC1fbA?oc=5"
-    },
-    {
-      "title": "房東收益輸無風險美債！阮慕驊揭房市投資2警訊：傳統邏輯失靈",
-      "source": "Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOWU1CSElmbG5FTWdsOVFyQlVlbEpLX3VYdzVna1pSREZtTXd6RVpETjBsQ3hoc1RUeTJudEhvQTkzNTgwY01CcjRrYWthTC1ONzZ3ZlNJRjkwTUlHZHdKWWMtOVpEcm5FTmU0cEl2VWdwbzlMSlVqb01mWEkwQk0yM0QzWXBVdlF1Sm5Uc3htdHZVc2xSamlWV2RRZjNDb0U0azJCcF94T0FSYk1sd2xvQ2RUbWRWWE80MmVWYjc2Tzk4WWtJWDNCeVpzdHFZRzJ1VldmYmt4Q0NrS3BsWFE1aXczaHMyMEJkZktoVkpHMFc0N3l0d2NabkRTMERwYkpxV3dWdXE3aFBZaHNEMmtGVE5OdUtxVm95Y0dPQ1JtbVpORnhHdEE0NHk3N3pibU1sVHU4OGliOExRNUVPUHlNRDJDaHNHUERzbjJsdnhUNG5uV3lpN1BpWEIycUlkSXFzd1pOaEdJTVBmQWNMTVllVTV3QUNjQmxFVHZXdjBrcEt1YnU0c0ZqZ0gxX0J0OHc?oc=5"
+      "title": "美國股市：AI相關科技股提振主要股指收高，公債收益率飆升令投資者不安",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLNG9YRm16SllsQnJmU1lsT2M2bEVQUjNSTWc2NFZseXVQM2pFTHhabDkxOTRJT0RyVkRHV1hoQmdMYmRtZjlha3RsVUlLMTQwRS02MTg0VExSSUphUGtYMmpEeGtVSy1LdkRBcnQ5YlRQQ3pRQ3VB?oc=5"
     }
   ],
   "events": {
@@ -85,8 +85,8 @@
         "name": "TSX 60 ETF",
         "type": "Q3除淨",
         "date": "2026-09-29",
-        "days_left": 2,
-        "status_badge": "2 日後",
+        "days_left": 1,
+        "status_badge": "1 日後",
         "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
       },
       {
@@ -94,8 +94,8 @@
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 3,
-        "status_badge": "3 日後",
+        "days_left": 2,
+        "status_badge": "2 日後",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
