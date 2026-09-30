@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 01:02:53",
+  "updated_at": "2026-09-30 07:15:24",
   "gas": {
     "current_label": "9月30日 (現行油價)",
     "current_price": "180.9",
@@ -10,71 +10,71 @@
   },
   "news_world": [
     {
-      "title": "中國揚言若歐盟加強限制將動用「強力政策工具箱」反制",
-      "source": "hk.finance.yahoo.com",
+      "title": "美國制裁13個與伊朗武器採購有關的實體和個人 含伊朗軍方後勤部駐京代表",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOT1hfbnVnYkRfZVIxV2x5WEc5dnhxUHc2c1JjZ09CaUllMTBXTjBDRTZMUzZXUldhMFFyOHU1R2hmOTVaN0dqUld4NS1BdnpPSWhSdWZoUUJEcHVjdklnbDZNMUJOanAzdUUzT3pMTFJ5aUZVNUM4UF95ZHVPX1RrLU93Vy11Y3dCZUFkd2dJN3Z2YXRIOTJwaXVOTjRlV1dna3RDOFZXVGZwYlhrQ0RsaEUtbGpzOFN6enNsQUJMY2VUUjduOXVTcHdtMElIVV9zcjgzTmRhQkVORnR4S3hPNzVnLXMxaGY5SnBqNGpTTndjeWRrOGVDVGZLdk5BQW9EM0hxRC1MZTN2c1JBQ1NHSjhPUnJrZWxFWllGU3lZQTJRQmUyZW5SZ3l4c1V1TjhkS2dBaVJJSnFuWFYya0VjX29uMFo1VzdDeHZ1b2ljX1k4YkhGSGpxUDRyUGE0RTNDQVFQdzdDdzMxQk5DMDl1OWI2SUFZcWI2emdRdDlzNm50bDBsVjRmSXRmT01iYTBudEJ5TjBiRVZVWlNzaTZSZjZEZkVKcGRCaHpFT1FrTXlLTUNTZ3k5OVdKcG5lZ1hZUGJ2Q1RqUXV0MmU3YjYwUTU0dm1yV1ZFc1VyYzljN0NGNXM?oc=5"
+    },
+    {
+      "title": "伊拉克告別美國駐軍時代 伊朗歡呼勝利",
+      "source": "dw.com",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQRS1zYlp1VDZROXVEUTJDcFBjZEd2QzNtM0lfMkd4YnBJYmpaNWwtWTVnMmY2aDM1alVuSkppT2hHUExGZGo3Q25GOGVSZVZUdHdwc1lMcXJZaXhCVmlJRFExRG1MV0NQQkFJd2ZZMGRXR2pJN1JQZkxlSjVkclB0NC1oN2xZbXVLdVRfSGdfZkRHUThha1Jqd3pxbjVLbDBUMDNoYXVBZnFxYXhVQl9rX01uMjQxOGxsRFR0YlotSU9ZYWZkdnI4THc5Z1dHYmJMMGVEVkU4azI2VEhoT2VHdmpZQ203dHh6ME1CSXl0NFFqRDBaZVhiQU9aREN4aUFJSjRVOVZfN0JWVy1fdU5HZXFWdEc5clhKSGRJV9IBnAJBVV95cUxPM0pHamNZSzVabmtPZnZQdnFkazFaYlh1ZGZaUkM3UFFxekoxRkhSUXRyRm9YTVRSNWpQaUM3T0JyNm5DNHVnQVhaMFhMeDJqYlZDVXE0YU5TRUVhNzZHMEpGZkJfSGRWZS1KaV9tekVyRS1hNks5ZHIxR1BSdTE5N1JwR0FFR211NnBoWFhEU0VkTUJac1ZGVWFBcU9DUzlxbllLMVljdzJJSWhscTRKZFBvVmtPTEI1bXdPa1ZVLTBEdzhoeXFhOW0tdWNTTlNiSjBBMDg1Zm5FRXNvZjI3TjI3QkUtMGpXTWhpRnF6Z3luVTVZdS1NSGJlMTlFQ0FzVVlJNWUtZXpSdGxrSUJlRVkwU2NmZWEzWHBaWA?oc=5"
+    },
+    {
+      "title": "國際｜俄羅斯明年國防開支擬增至17.1萬億盧布 創俄烏戰爭後新高",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTkVrYThOSGNJZVdjNmRRNllyN0Jtbkx4d0lRYnhKUDQtSHZzOU5EWGJQQ3VlMl9RcUtRZzlORWgwY0UxcWlWWVAwRm5rNzktLUJNNHFNTVBVdkd5clgya2JYbkFrTTVWbjRrX2NZYm51TnZISy1GLV9RTWZ4X3JFMlRLZ212MDJHdEFYSlo5SmtZb1dfVnNlR2FxbGJjck1WNUF2UnJtOXR4bTlkck1CclY4Z1JpTm5Ea1V3V19mRlNYYTRfdFBsMkJGSGpuWlQwdzMxX2t5djVsX0hveTZHc18yU1lfOERrNHNaVEt5UmJlb2otRzNqNEtHWWpMSE0xV2hhRVFLMnNuQTEyMEREdGtZWVJMU1ozenZDUjdqOXVERGZpb1JYNVJhaTNKR0VxWjI2SWp0UldlS3JkOHdHLTVucEZQM21iMTF1RXVCYTFLZ3drdDZQSVNSRFVOaXg5YV9XVHhPUWc2bUtFYTN3c1FhTHRISnRSNDI4ZGNybWtRbmtOWkdtMjVsYzZXOXg1ckdwd0RQbGY3Y09vQXc?oc=5"
+    },
+    {
+      "title": "國際刑事法院締約國大會舉辦地從美國改為荷蘭",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYZGVsNUtlTGhET1dDMllEckU4eEpRWWlSM25wTFJsWWFpUGZpcXpoYXNGVXZLS1BoRVZxVVgwQXp4Q1FnRmc5dllNM3JodFhjLURRcW81cFM?oc=5"
+    },
+    {
+      "title": "中國揚言動用「強力政策工具箱」，回應歐盟可能升級的貿易限制措施",
+      "source": "Yahoo 財經",
       "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOTmQ1OWx2MjR4TlJZa3YtTlNQWlZLQXgxcGNLUURwaDJVVkJPbFBtd3dwUFVxRy1ubVZyZ1kwT1RwVHVmRkFYNi1TYTJsODVzZ1VXcjFaNU1scGNiWHZZZ1pmSGpQTV9Sa01ZbGFGTk9KdkFYanNpQ2xfMk1vV0N4cC1XcHVxNVJSdzRlQTQ3QTFVTFFYeWFXQUVQLXozb3EwZ0VKVDlLeUlyV1RVUVk2elhSNzdkS1laa25hWWNVN3FZalhldXNJdVU2R0NRamtNRGtFY05uR3JsZnpKaERfQ0xEUXV3bExFUFNGREVyQkhQNEUxamZFcy13LVFtRUpuVVBYLWNjTUpPMWVUOFhOYkNNcFVKRXVHMy1ERmtPV1BYZ1pzUUp5TTRrWmcxR3NMQ25lVlJOVy0xeVNWWXN5emxMYmNUMENyOVNOUGd4SVBvNGhrczJPWm1zellaSlZTd183R3A3Q3lHNjRleGcySUItZnQ?oc=5"
     },
     {
-      "title": "THE世界大學排名2027｜港大排第33蟬聯全港第一八大全數打入全球前300 4校名次上升",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPQ1pUczRkZXI2c2RHcVJMbndNeTJqWXBwaGVrckIyS2dHZ2hMcnNBcGFaUVBnd0pMZTFMR205ckJzM05tcUt5ZU84cTRHckI4SkExVmhpY0xmRUM2VENtVGpwTDFiNHQtSlotblNhQnlxdGRPTjNvVUFuRXMta0tFd1pjZkNUSmpnb2VEZ2xDQVhUYWhoaUg3c0ltX1lrWUtTc2ZNVGFXemNEaWdORTduMU5qNTdJMC11QjJlUG1KUGgyWDRBenBKUHRhb0g3X18tbTlneWNIUVJYeDRxN09BS1JYUmxuQXlSTHl1VDVtVFA4MTlVNDBZZG00UWlPVDdUSWx4bjF0dGNGTi1Hek41ekdMYWJydnFsWm41dmFmY1EteHR6bXNNZUs4V2loSzVNcVJ6RWl6Uy1zWHN6SkpSdzJpQlRDNmc2VGZsekp6VHhpaG96RjJFdEt5ZmtRbmlrRnZVbU1UMy1ESHRiQl9McWZHOTlKVmgwUVQxWjI3ZVBxRWd3alVsRFl2Wnh3Tlo2SGdzWlRuc0NfYWJoWlVLcFZkaDJWXzNDU1lUdjZMam42OGF3R1RGLThuMmdxUUNqWFpkTTVNZFhGQndjaTZGVVZjV2pOUmIw?oc=5"
+      "title": "中國警告歐盟若出台對華限制措施 或干擾中歐貿易磋商進程",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPOTVoSmczUVVVdTBZMHlrOTdMalAzWW9VWWJjZk05RmY4TEFnVGtHamtQTUFtZmFZUUlKakZjZEg4SzBmclJQbFd1YWVyUkN0bkdkcjFKQTBSemsycGFic1Q3Qm1RTFZGbDJvVTVZN3gxQVM3LXRqa05NWk5McDFFSTlTOTIyVjlaZ2RxYWRCUnhsSFVtVkhuV0lNS2hQaHRSNjBFR2FramZtdmVCY0N2WEtYUjVRNjA3VWhlbWdKT3AyMHJDaFJnZTFzazVLT3ZyMWVfTTBMT0YwbndPZ3ZiU0lOQkJoRlVBWWxBUVR1QUlMTXY4T0U2OThfckNyUWg4TXlHMVRweFlVWkNjRzRERldXcjlmMlRwd1ZGTS1SZF83NnE1U09pbTVMajM0OVZWVmdrbzY2ZWd2NlhIaDZidFNYUDVFYzBJWTZ1WWJYdDJPZXJrVFZ1TmU4Q2dGYzloMlpBcDlsZ3VqNkZlU2RZazdxUmxaMlFVVXRBbmdoeEJlNzdTczB2MTRKdEVLenJWZi1oRElBbw?oc=5"
     },
     {
-      "title": "【樓市頌點】美國加息 港樓必跌？",
-      "source": "Now 財經",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5dHRtbi1US01MTTlocE52MDNjdzRVQUtHdGpxUTltTnNnd3MxYkVzZWRublFrbVdFUmI4UjNna2NGTWg2R0MyVFZZUFpUYzFrM2FXTkNFZ2xpejNDT3JYVXRKN3M4SlN5M3dKWA?oc=5"
-    },
-    {
-      "title": "美國民眾想要打破傳統政治標籤的民粹主義政策",
-      "source": "华尔街日报中文版",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOaUpkemdpOThzUGNVZFVjTFpfZFNORld0R3VaMVVQX25PeDU0VXVTMG15T0djZXpCWVIzeWVUVHBvenZFTndqeFJaNVZsanpnbGhZOWNoaEozNWdZeHlnR1p2QzlmT3JlTkZjUzJBSGhTQTlFWWVlZTRma3ZVOHJkckhMMmhsQlFNT3FvTE15NkxwMmVKd1FjOXBhak9SMl9mczg5VHp5dHNEWWYyYmcwdDRwdXFrUmFWd2FqX0x1SWxkVUdkQ1U0NGkzdEZOMmd2TXlMLWZIT2ZReWhTRC1GZG9tLTRGZS1EcmxBM2pKUENMNUR3ZDQzclc4Y2FTTUFiaWhYMFc5aEtCdmlGU1dvVVlJZjRFSm1XdDlOQ3duUHJmLW5LLVl5Y3lldWEzOXZBcG0yaG50RlhQenFMR19zVzJ2SzBoUl9ZNkE?oc=5"
-    },
-    {
-      "title": "17歲131天！阿爾拔成美國隊最年輕入球者",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Uc0dITmdNOGp3WUx6ZEdTaG14VVNQLVBPbFg2WHI0ZktYZFAzQ2g3TTZuSHBSWDM5NkZZUnFRd21fRlJwNjZqdzl0UnJhWFU4dFZMaFRUOXlScnhMbG9BNVZCSEdUY2JHcVFYb1B3UQ?oc=5"
-    },
-    {
-      "title": "福特CEO：應以歐洲為鑑 促美國對中國車廠保持謹慎",
-      "source": "hk.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQOXM3Q0pGcVhsOTNIdERoeDRNNVphZFFSWFVPRXdXUkxjUjBXNnFrTW5oUElKQTJodDNkTE9mNEZtU2JGYXJaSk5ZbVdnTkcxQXNBRnBfT1ZmRFhrU3VVeDNmVWdSSFRXZHAxTk1wd0JYbXE1V04wUThRQjVlVFU0UkhuQ3dHbkh3MVZTdThSRDhwU1dGaTZyWlJBODkzbGk1Zm15N21pN0p5dXBVQWxJWmFVY1NKTDdRYUlTZVVMc012QkZSYXlQekk1OVFpZGk0ZXp2QV9JYkEyaXRqLUdzdHctcDFHZ21oek5MZVIzY1pSMjVOUFZ1azJnZ3JYYUFUcTlULXpCeUZscVNGXzlBMngyMFVJRDUxQzhMTXlVX2dYQzhXYVJ6bDZYUXJQcHhjUVlnT2k2N2FubVN1blVQRGJqeVFTWGd2SmNRbGRFXzBqSDRi?oc=5"
-    },
-    {
-      "title": "特朗普排除美中合作開發人工智能的可能",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbFAwbVJNSnRVZ2JHZ1llbEVTM3ZIVFVSQlFQQjJhRHhKNk9abTVrNUttTHpaWExYdzNVTmh0ak1YM2lFQ0o3czBobFVQQVoteWtzbXFERWtvQTVnVV95Y2VBQklrWknSAWxBVV95cUxOR1FfdDVTUmJybkpoN01IZmV3RVo5VmVnN1VrMzlyek1hYkhYVVlSb2dsZE5BbGM0OG5pTnJxd2tEVHpPRlM1eWF0N2E2QW5xWm5PZ2FNUERQQzF1TEFUX0F1dUJDaVZ6OGk1N0w?oc=5"
+      "title": "全球供應緊張之際 俄羅斯延長柴油出口禁令",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZHZlYllscDBHUFlHemtJd2VFUVZhZzN6bGlkSXNoV0l4RjNpTW9RMEpZbGJNSTI3eGJqZnBaR1RHTHUzSzZvVjNrWDRueElESFZKS085VjE5Z0kwSXdBbzNMdlo2b1hIdXVhSGUzZllaaEFQNVlPWmlCajVtX3daSXI0RGFRdjktNWxvb1BUeHgwUm1Ecy1jUkREMUtRblBUYzYzX2N0LTExbzh3aUU2Y0pZQzBwT2szRVlBX2lTTlltdWJOSktNOVpWOURvLWwwVHBzc05KUURiZHJUVnNrTERXdkNyaEhadjMtZnoxN2llajU5R295cGctbFNyUUhuZmpYcXdydmN3dWllX1IxUHp1MXY2eXNuTWxHZTlPQnVKcW9JUkFwZWk2ejVydWRBM0FESG5TTGgybkU0bGJodVphdw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股兩連跌 道指低收131點 債息持續攀升",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tMlI5Wk14RzF4cU1WbTdGNkVPSzlTS2hlWkV1c0EtWVhuWDhxcjhDUDF4dVFtN3NPSGtVMUFwb29TQkFJRWdvMW45Uk1KQXVBYllSX3d5MDhyZmpoRHR4Y0gySkhYRkJGeFRzd2M3Zw?oc=5"
+      "title": "美債息急升，為投資者帶來的啟示",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUVNXa21LRm5RY0RJeS1BaEoyZHZiczNYOFI4MFJFMDhJYkJGbnZTeEF4YTNjRUhwNFVoeXBLYWpWZHlGcDNmN3o3MlUzdmZRSVpZTGlXSFBkVGZWc2lOd0ItakhBeXhRcUU0OGh3TURYRk1WSDUtcmx0cFFVajFLOTBVdnZQcWZnamJkTVNXbE9kR1V2MGJqV0ZUT3FVZlRFWG85X3pmS2xFcFJSY1pBaVd6NDl1YVU5N3hzYUIwSm8ycHRJZWlYUkRnbFhuYnBGZHEyZTRxZVYwbXI0VmE2Z3o0UVBrVmxDczc2QUNCVzZyNEcxYWNER3h4S1VOdkx1d19aZmo0T1Qzdw?oc=5"
     },
     {
-      "title": "【美債危機】美30年期國債息率曾破5.6厘、創逾24年新高 其後聯儲局官員正面言論促債息回落",
-      "source": "inews.hket.com",
-      "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxPSkVmTnc4VHVJd1dyX0tBVGpydno3bTJuVkdiZlFWeWNvQmVraGVyMkdWVm5ubURlZ3RReDBBWWZNb0pId1k4bW9xREMwa29RX2Z1UDBYelZZdGtyUHdGblFzZWh5TnBuZnVlOFB0dHVQY2VYYjROWEcyV3lSaERWSXcyWjZZSW9LamxGVVFqUXNiMDN6VFUzem5kY2VfZzg0YTVBQUlLZWhtcFpxaXc5aDRBajVVUkx5WC1SYUhyQXAxaXVJclBrUk41dlZ3aTNOU1BEVC1HTkEycGFwMGlNaExac1FJSXZjWHh2OWpYSlJCaldqOEdoU3lJWlVpWV9YVzJmWlluNFVqTVpDeGRkTjhURGdUSTBpNlVqSVY3RW00MjZsQWdqdHhzTVZrQ3BEX2pZNFh0T1RJUTU5aUp1VEpCck5iZHU0N1VkQnpPSk5UOW5vUVp1cmMzcld0YkVaY01xV1BLWkZlOE56ZDE5bWQ2enNBcU1BTW1qNjBwV0UxX2tDNHdHbkFQOFBwcExIRmRhbUdfc2ZVcVdlb2VfQ1NqSFJiX0piVVNVbG52TUtXMW5wUWs4a3hmckh0a0Y3OVdGWDNaSmN4bVRlOXlnVnBGendQZ0ZINUFrSG9kQ3N2WHFHX3ZFLUVCUHp4azlvVk1hQWMxbDVRS3d2Z00yQTlrRkhuNjc4bjZQYlhoX0ZZQTdWVS10blZmbmpOcmp1UWk4bHRUd3VBVEZ3Wnc?oc=5"
+      "title": "道瓊斯期貨上漲，因美聯儲加息預期降溫",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnFVZG1tbUoyS2paUWZVTnRualNMUldDWGJ2ZWc0SHZaZnJOa3JQWVhXRWJILUlHdlhxQ1R6RXFOanNCOWlMellOQ2ZROHRHbzN5SDVkTVlIM0dlNnpfVkkzZ3V5a0RkWmJmSDFneld5aEQwOXQ1WE9Ob0Z1eFdZWHpKZXVsczcxc1oxSENwVDFVcmNNYWxvLWlNSkZqQ1Y3a0h1S2RBVk55a01mVzZQaHMzb9IBuAFBVV95cUxQd1RTZ1pCZkNLVTZkTmROODA5RllSNXhsLVdncFBxOEQ3aXFXbXhHS3RvQ242emdKM3FLY3h1Q1ZmaDBEbERTd0tsRnQwbkt6M3VjVjhON1lzRER3OG1UOHYzTUhJLXVRUDZIaFVyN2hFV1ZkVHZfZnNWdEduVTEwUVVXdFF0TG9XMkZsNk9NRXR2d2hsSC1CN0M4bnd0SEd2cjc5OUxyaFFZLXdCd3ZBSE5nU0NLdGJ4?oc=5"
     },
     {
-      "title": "30年債息衝破5.6厘 美股受壓 美國大選選情追蹤 - 專題",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQXzQwVDVNdzNpeUIzN2pBMWhGejV5RURNSjBxZVRyb2FaU3R4TFk1Q3pvUFNGX0xjSFhHaENCVU1QaTlzNzEzYkJHZEtyMzctNHBRZ20xTkJKM1d6Qzc3NFp3UE85NkdFNDE3M3Z2a3QyeHVOejQ3VWc4eEhDTHJMVHJqV3lQb1locnlwWDhEbDdzTUhlSmFrX2NTUU8tRTMyT2RpVFhJc3RJNlNTQUp3aHQ0ZWtLaDhQaXlSNE1oVjdaVUVJNHF2TDM5bGdfX3hibGVtWUIwd25ueWFpZnJSOWF5anRFWUlNR1l6UmNWdUhfTFFRSkh3WVJrZTVadzNtOVVqSGgwZHZDcTd3LXlHT3NrT1hzZFlGR3M0Y1YxQVhXT2tYWGVfblZQakJGSUhkVnYxUE1LSE1IOEJ2NTJB?oc=5"
+      "title": "十年期美債殖利率可能升破6%，可以抄底嗎？",
+      "source": "天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSMlZ3REc0OUwwMDJudDF4T1hWbDFzc01QUC1QUDAxMkZoUVhJblMxR2VVYmJ5ek1ySEpZcFpqR24yWDk0QmstTUNsb3VIdw?oc=5"
     },
     {
-      "title": "美國30年期國債收益率升破5.60% 觸及2002年以來最高水平",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDbGtWLXAzX19mOXNzWDJ6LV9zNFQ1Y3V1aGs0dVFielJERm04M3MtVmlweVBZTUo0YUhxdTFFTm9rajhSRWViVENCYTJDbHRNOGpETW5tNWJwNGM0Ml9KSHA5TTlSRHFINVZvS3dYdk83SnJsdGc?oc=5"
+      "title": "美股異動丨波音盤前升超2%",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoOThTRVo1Sm5GLTZqNDhnNzRPWl90cnpNZ1VjSHpqNUJVVWk5eFNBUzVqU2NKOUVPTTNFUEhEM3o4VTBDRlNUS2htNHVxMHlET1M5RDRTRUhmdFNUSk1QMFFtWVVOaHloWnc?oc=5"
     },
     {
-      "title": "匯金天下(30/09/2026) 美債息繼續破頂，供應憂慮降、油價回落",
-      "source": "i-cable.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNbnQ5NEhTelQwSXhCaVI2WTNLaGdGd3Nxd3I2VnBseE5rZVBoaGtseGZ1aEo3bHZVbnFIYmRrYThtbDJMNkN6Zy02MG1JTjJ3UUhSTU5IaEdOdXl1UndlZGRLa0QydmlWWkRNRC1qUjZDOWVOckpkYS1YWUxyZEszelNmR0RsY3pSRjdrR24weVRQLW1NNG5Dd3RzSlJiTGN5RUtoYUZiVFljQmxLZlgtV0wxU3hGWkNHZUFaalBSUDc2SE1jbnZydzBVYjBjNjd5bXdqUWhsYW1mUnVPU1pwU0RBaHM1OVZTTlNHa0FzaEFXWE9IUTR1b1FmdHU1dE5BSHhWRWV6ZExCYnc4eTZ3TEJFZE9Eem1vLWI1X2hqbmJ4ZXY1SEJod0l2TzFEemxRLTYtRDRyUzNiLTVZM1RzbExxWTJDUGpsaTRFNXdoRlRjNWZtSzZUYmJFRkoyXzdk?oc=5"
-    },
-    {
-      "title": "【美股收市】道指跌131點 蘋果擬炒中層跌2% 郵輪商嘉年華飆13%",
+      "title": "【美債風暴】長債又遭拋售 30年期債息衝上5.61厘 逾24年高",
       "source": "Now 財經",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxaGdHUlVqbV9aT19hU2dTRXRJVWtDNkpQUGdzUGllQWFyblFVdlZyakZwT2tBR01DclJvT1BOdDVDXzFIWC15REExOFNJbmhLZ180Q3h2TzRPX0E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jR3R3dGNrNVowek5kSDA1NzlpcFBadzVYdVlZSDBYUF94T3luQzVXUFNiMHhYXzgtUlV0WWp6QnhfMFVHVEFwaHRQakxhOXI1emVKanJQYnVGbEU?oc=5"
+    },
+    {
+      "title": "油價回落疊加聯儲局加息預期升溫，USD/CAD連續第八日上漲，或將進一步向上突破",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3MwekluRVl2Tkk0NFQ2eWZhZFZlc1gxS0hBNlpqSkJYXzNkUldnMWpaU2M0ZThHVGhkVlg2ZG9LNjBFRVQ0ME1mZjl5cFNoM2pnbUZmekE1MFc1TWk2eUVfTUVIZko2d1FWYmpFUW50clY2MHpoam1heVlyOEdBQUhZY1JoN0Z2OVg5ZHF3RGViYncxU01JRlJ3cWhtQm5pSU1PS0VuajZ3RzVRV0E?oc=5"
     }
   ],
   "events": {
