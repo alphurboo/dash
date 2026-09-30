@@ -280,7 +280,7 @@
 
       <!-- 輸入框與按鈕 -->
       <div style="display: flex; gap: 6px; margin-bottom: 8px;">
-        <input type="text" id="custom-monitor-input" placeholder="輸入想睇嘅 item (例: chicken breast, salmon)..." 
+        <input type="text" id="custom-monitor-input" placeholder="輸入想睇嘅 item" 
                style="flex: 1; background: var(--card-bg); border: 1px solid var(--border); color: #fff; padding: 6px 10px; border-radius: 8px; font-size: 0.75rem; outline: none;" 
                onkeydown="if(event.key === 'Enter') addAndSearchMonitorItem()" />
         <button onclick="addAndSearchMonitorItem()" 
@@ -557,7 +557,7 @@
   }
 
   // --- 自訂 Monitor 物品清單記憶與管理 ---
-  let customMonitorList = JSON.parse(localStorage.getItem('DASH_MONITOR_ITEMS') || '["Chicken Breast", "Salmon", "Avocado"]');
+  let customMonitorList = JSON.parse(localStorage.getItem('DASH_MONITOR_ITEMS') || '["Mama noodle"]');
 
   function renderCustomMonitorTags() {
     const container = document.getElementById('custom-monitor-tags');
