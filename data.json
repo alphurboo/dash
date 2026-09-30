@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-30 07:15:24",
+  "updated_at": "2026-09-30 16:15:18",
   "gas": {
     "current_label": "9月30日 (現行油價)",
     "current_price": "180.9",
     "predict_label": "10月1日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "178.9",
+    "trend": "↓ 明日預測跌 2.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "美國制裁13個與伊朗武器採購有關的實體和個人 含伊朗軍方後勤部駐京代表",
+      "title": "英揆：重新加入歐盟是英國未來處理對歐關係選項之一",
+      "source": "news.rthk.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GbjlQcFVsSkpWUGhyZ3dVTEFDcFZJY2xrOFlQTDc4ZUR5eF9JRVJzOURDOFd2YUo1V3JPV0hpSnR6MGtjN3ljY2Q4MTBUVm9HaDRSQWg0VVNKTUxWM2JWRTdYUDJQcTl3NDl5azRDSQ?oc=5"
+    },
+    {
+      "title": "美國的貿易調查讓歐盟日韓很焦慮",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcnk0MENEWTZvcTg5ZnRIWGtRcWVVcDNVY3RJV1FMa0JtZGZDVG1GVEVLSUFQeWNCUFpQYWtfUmZ3LXJ1NHVXR21yWElPSk1MaC1sZmxXazI5eFFSWU5CSU5nZ3ZzbldJbExITloyV2lKRHpNeVNSZ3VpdHV3WEk0QzFLZndsa3p3cGMxTzNOTFpWTk9LNkEwcFZ4dHIyek1uYmVLUENyVXNDbkNCSVI1VUVUZXhMbENWTURxZXM2UmgzeVVFU3ZzVEg4R3FjQUp6UXUzS3ZPYzlGamRaTDBLWVB5N3BiaG53MDFfbktUdUpnTFE3UnZ2UjZGcDZBM2lUdk5Z0gGDAkFVX3lxTFByeTQwQ0RZNm9xODlmdEhYa1FxZVVwM1VjdElXUUxrQm1kZkNUbUZURUtJQVB5Y0JQWlBha19SZnctcnU0dVdHbXJYSU9KTUxoLWxmbFdrMjl4UVJZTkJJTmdndnNuV0lsTEhOWjJXaUpEek15U1JndWl0dXdYSTRDMUtmd2xrendwYzFPM05MWlZOT0s2QTBwVnh0cjJ6TW5iZUtQQ3JVc0NuQ0JJUjVVRVRleExsQ1ZNRHFlczZSaDN5VUVTdnNUSDhHcWNBSnpRdTNLdk9jOUZqZFpMMEtZUHk3cGJobncwMV9uS1R1SmdMUTdSdnZSNkZwNkEzaVR2Tlk?oc=5"
+    },
+    {
+      "title": "英相柏能喊話重返歐盟| 國際焦點| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NS19OM3ZOTGw1NWZfYmVhOVN3Nm1rTXRGVEQ5X3JFVzZUQ2VvRDROV29VVVlDQWxrbUx1MlNVSGVWTzFGM3ZwcnpUNHBQUG9Z?oc=5"
+    },
+    {
+      "title": "視頻 面對美國關稅措施 加拿大商家面臨更多挑戰",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOT1hfbnVnYkRfZVIxV2x5WEc5dnhxUHc2c1JjZ09CaUllMTBXTjBDRTZMUzZXUldhMFFyOHU1R2hmOTVaN0dqUld4NS1BdnpPSWhSdWZoUUJEcHVjdklnbDZNMUJOanAzdUUzT3pMTFJ5aUZVNUM4UF95ZHVPX1RrLU93Vy11Y3dCZUFkd2dJN3Z2YXRIOTJwaXVOTjRlV1dna3RDOFZXVGZwYlhrQ0RsaEUtbGpzOFN6enNsQUJMY2VUUjduOXVTcHdtMElIVV9zcjgzTmRhQkVORnR4S3hPNzVnLXMxaGY5SnBqNGpTTndjeWRrOGVDVGZLdk5BQW9EM0hxRC1MZTN2c1JBQ1NHSjhPUnJrZWxFWllGU3lZQTJRQmUyZW5SZ3l4c1V1TjhkS2dBaVJJSnFuWFYya0VjX29uMFo1VzdDeHZ1b2ljX1k4YkhGSGpxUDRyUGE0RTNDQVFQdzdDdzMxQk5DMDl1OWI2SUFZcWI2emdRdDlzNm50bDBsVjRmSXRmT01iYTBudEJ5TjBiRVZVWlNzaTZSZjZEZkVKcGRCaHpFT1FrTXlLTUNTZ3k5OVdKcG5lZ1hZUGJ2Q1RqUXV0MmU3YjYwUTU0dm1yV1ZFc1VyYzljN0NGNXM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOLXJJN1VXNlNTLVk4MGdET1hZTzJac0M3c2lFU2hhNlczZ3A4SHRyUk1Fdm1hd0RuZ3lpMUMtMVVfTDlYSzV2UXNSdjkxLUp4c05KVWg5SVl3N0J3SllBM1NEa1VSWEl4REZLYXlCNmVpRFo5YkllN2RHbGdGQjNwYnJUSUpqTWpiMVg0d1pJOTBMQmRmSDR2SUR6V2NLVE5mOW5STHRuN3A2UGJscmwxZzBkVi1CRzU0VlVqWVpIX3dmQnQtZ0lqX3dyWkdCNXdFNV8wYmpOV0lKRGdwN2UzTzhaVmVPalpPUlcxQUZjUTVXbUdISlZuV0pEaFJ5RURRYzJqcmZoTlFIbTVoa1g5LS1IeHJQVEs2UHpsb3RYSU5zaWJBbXlvNUFyZkxqRV9SaFpRNHRsRlhndnJ2aHdCbzc2TFNJYUZ1MFpsdkUzRHhyTmVjd1VJRl94NDUxdw?oc=5"
     },
     {
-      "title": "伊拉克告別美國駐軍時代 伊朗歡呼勝利",
-      "source": "dw.com",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQRS1zYlp1VDZROXVEUTJDcFBjZEd2QzNtM0lfMkd4YnBJYmpaNWwtWTVnMmY2aDM1alVuSkppT2hHUExGZGo3Q25GOGVSZVZUdHdwc1lMcXJZaXhCVmlJRFExRG1MV0NQQkFJd2ZZMGRXR2pJN1JQZkxlSjVkclB0NC1oN2xZbXVLdVRfSGdfZkRHUThha1Jqd3pxbjVLbDBUMDNoYXVBZnFxYXhVQl9rX01uMjQxOGxsRFR0YlotSU9ZYWZkdnI4THc5Z1dHYmJMMGVEVkU4azI2VEhoT2VHdmpZQ203dHh6ME1CSXl0NFFqRDBaZVhiQU9aREN4aUFJSjRVOVZfN0JWVy1fdU5HZXFWdEc5clhKSGRJV9IBnAJBVV95cUxPM0pHamNZSzVabmtPZnZQdnFkazFaYlh1ZGZaUkM3UFFxekoxRkhSUXRyRm9YTVRSNWpQaUM3T0JyNm5DNHVnQVhaMFhMeDJqYlZDVXE0YU5TRUVhNzZHMEpGZkJfSGRWZS1KaV9tekVyRS1hNks5ZHIxR1BSdTE5N1JwR0FFR211NnBoWFhEU0VkTUJac1ZGVWFBcU9DUzlxbllLMVljdzJJSWhscTRKZFBvVmtPTEI1bXdPa1ZVLTBEdzhoeXFhOW0tdWNTTlNiSjBBMDg1Zm5FRXNvZjI3TjI3QkUtMGpXTWhpRnF6Z3luVTVZdS1NSGJlMTlFQ0FzVVlJNWUtZXpSdGxrSUJlRVkwU2NmZWEzWHBaWA?oc=5"
+      "title": "脫歐十年｜英國「重返歐盟」須過五關斬六將 昔日「座上客」難再享特權︱拆局",
+      "source": "singtao.ca",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXdjaDBlNHVBa2hQaGEzY1hidFRLWHM0OWxodVo1c25CU3VRMmVWOG5BaEtRVGQ2WGRsSVBhWmlYSXp0UjA2cndPd0lwRVBiSHlibWZCTGF4MHFOem9UcUpnb2VKdTFFQVRmTk1MV0E1TG5aUE5sRlotUHlWUnRXRC1Eb0hlVHQwMWZWRtIBjAFBVV95cUxNLXdjaDBlNHVBa2hQaGEzY1hidFRLWHM0OWxodVo1c25CU3VRMmVWOG5BaEtRVGQ2WGRsSVBhWmlYSXp0UjA2cndPd0lwRVBiSHlibWZCTGF4MHFOem9UcUpnb2VKdTFFQVRmTk1MV0E1TG5aUE5sRlotUHlWUnRXRC1Eb0hlVHQwMWZWRg?oc=5"
     },
     {
-      "title": "國際｜俄羅斯明年國防開支擬增至17.1萬億盧布 創俄烏戰爭後新高",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTkVrYThOSGNJZVdjNmRRNllyN0Jtbkx4d0lRYnhKUDQtSHZzOU5EWGJQQ3VlMl9RcUtRZzlORWgwY0UxcWlWWVAwRm5rNzktLUJNNHFNTVBVdkd5clgya2JYbkFrTTVWbjRrX2NZYm51TnZISy1GLV9RTWZ4X3JFMlRLZ212MDJHdEFYSlo5SmtZb1dfVnNlR2FxbGJjck1WNUF2UnJtOXR4bTlkck1CclY4Z1JpTm5Ea1V3V19mRlNYYTRfdFBsMkJGSGpuWlQwdzMxX2t5djVsX0hveTZHc18yU1lfOERrNHNaVEt5UmJlb2otRzNqNEtHWWpMSE0xV2hhRVFLMnNuQTEyMEREdGtZWVJMU1ozenZDUjdqOXVERGZpb1JYNVJhaTNKR0VxWjI2SWp0UldlS3JkOHdHLTVucEZQM21iMTF1RXVCYTFLZ3drdDZQSVNSRFVOaXg5YV9XVHhPUWc2bUtFYTN3c1FhTHRISnRSNDI4ZGNybWtRbmtOWkdtMjVsYzZXOXg1ckdwd0RQbGY3Y09vQXc?oc=5"
+      "title": "商務部:延長對美國貿易壁壘調查期限",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxONzV4Vm5INkprYndnT1h6QnREd01Hb0dTN0NSMXlWd0dSQmc0cEFPeVh0QjBxUkxfdGlSNU9hbVlpWVNYbm80XzR2TmY0UTcxSHc4ZGl2YnBCTU55d3pheU5NeFp2WkJwWHFLWVAzMUJ5bnNKSFdQZElsdWY5SVlLSzBOcDB3QjBTbkxSOS12NzgxcVRiWWZ4MHB1WnQtMlRNaHlPT2V1UUpYV29aOE1YYmNMaWhyR29BTFNRTGdsNjVGdU92MDRneEVkZzlPOWtpeUJUNnpYOUJNb0ViUWF2MFV5NXdLcDZWSzlGajZGakROMkR5Z3RydWsxZ2VfLTVMZTgxcUFzT0pzYmZxbF9nWFBaQlMyVVdDMm1Kb1ZIQ3llc29kMEJ4bXdjM01kazgzam1pcQ?oc=5"
     },
     {
-      "title": "國際刑事法院締約國大會舉辦地從美國改為荷蘭",
-      "source": "共同網",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYZGVsNUtlTGhET1dDMllEckU4eEpRWWlSM25wTFJsWWFpUGZpcXpoYXNGVXZLS1BoRVZxVVgwQXp4Q1FnRmc5dllNM3JodFhjLURRcW81cFM?oc=5"
-    },
-    {
-      "title": "中國揚言動用「強力政策工具箱」，回應歐盟可能升級的貿易限制措施",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOTmQ1OWx2MjR4TlJZa3YtTlNQWlZLQXgxcGNLUURwaDJVVkJPbFBtd3dwUFVxRy1ubVZyZ1kwT1RwVHVmRkFYNi1TYTJsODVzZ1VXcjFaNU1scGNiWHZZZ1pmSGpQTV9Sa01ZbGFGTk9KdkFYanNpQ2xfMk1vV0N4cC1XcHVxNVJSdzRlQTQ3QTFVTFFYeWFXQUVQLXozb3EwZ0VKVDlLeUlyV1RVUVk2elhSNzdkS1laa25hWWNVN3FZalhldXNJdVU2R0NRamtNRGtFY05uR3JsZnpKaERfQ0xEUXV3bExFUFNGREVyQkhQNEUxamZFcy13LVFtRUpuVVBYLWNjTUpPMWVUOFhOYkNNcFVKRXVHMy1ERmtPV1BYZ1pzUUp5TTRrWmcxR3NMQ25lVlJOVy0xeVNWWXN5emxMYmNUMENyOVNOUGd4SVBvNGhrczJPWm1zellaSlZTd183R3A3Q3lHNjRleGcySUItZnQ?oc=5"
-    },
-    {
-      "title": "中國警告歐盟若出台對華限制措施 或干擾中歐貿易磋商進程",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPOTVoSmczUVVVdTBZMHlrOTdMalAzWW9VWWJjZk05RmY4TEFnVGtHamtQTUFtZmFZUUlKakZjZEg4SzBmclJQbFd1YWVyUkN0bkdkcjFKQTBSemsycGFic1Q3Qm1RTFZGbDJvVTVZN3gxQVM3LXRqa05NWk5McDFFSTlTOTIyVjlaZ2RxYWRCUnhsSFVtVkhuV0lNS2hQaHRSNjBFR2FramZtdmVCY0N2WEtYUjVRNjA3VWhlbWdKT3AyMHJDaFJnZTFzazVLT3ZyMWVfTTBMT0YwbndPZ3ZiU0lOQkJoRlVBWWxBUVR1QUlMTXY4T0U2OThfckNyUWg4TXlHMVRweFlVWkNjRzRERldXcjlmMlRwd1ZGTS1SZF83NnE1U09pbTVMajM0OVZWVmdrbzY2ZWd2NlhIaDZidFNYUDVFYzBJWTZ1WWJYdDJPZXJrVFZ1TmU4Q2dGYzloMlpBcDlsZ3VqNkZlU2RZazdxUmxaMlFVVXRBbmdoeEJlNzdTczB2MTRKdEVLenJWZi1oRElBbw?oc=5"
-    },
-    {
-      "title": "全球供應緊張之際 俄羅斯延長柴油出口禁令",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZHZlYllscDBHUFlHemtJd2VFUVZhZzN6bGlkSXNoV0l4RjNpTW9RMEpZbGJNSTI3eGJqZnBaR1RHTHUzSzZvVjNrWDRueElESFZKS085VjE5Z0kwSXdBbzNMdlo2b1hIdXVhSGUzZllaaEFQNVlPWmlCajVtX3daSXI0RGFRdjktNWxvb1BUeHgwUm1Ecy1jUkREMUtRblBUYzYzX2N0LTExbzh3aUU2Y0pZQzBwT2szRVlBX2lTTlltdWJOSktNOVpWOURvLWwwVHBzc05KUURiZHJUVnNrTERXdkNyaEhadjMtZnoxN2llajU5R295cGctbFNyUUhuZmpYcXdydmN3dWllX1IxUHp1MXY2eXNuTWxHZTlPQnVKcW9JUkFwZWk2ejVydWRBM0FESG5TTGgybkU0bGJodVphdw?oc=5"
+      "title": "中方籲以全球治理倡議為引領 共建公正合理包容全球人權治理體系",
+      "source": "news.rthk.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZY194YnBlV3puMGFJTnU0SnZUTUFYdW5Td2JwSXo5a05lQkZnZ0pLWG9HVWttX0l6R3FaNGFtNXNkSlR2aGRuaDBHVzlMVEc2a2JqYnh4X1VOR2JGYzdPV3lVZnJ1Ym1paEdIbWJpbw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美債息急升，為投資者帶來的啟示",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUVNXa21LRm5RY0RJeS1BaEoyZHZiczNYOFI4MFJFMDhJYkJGbnZTeEF4YTNjRUhwNFVoeXBLYWpWZHlGcDNmN3o3MlUzdmZRSVpZTGlXSFBkVGZWc2lOd0ItakhBeXhRcUU0OGh3TURYRk1WSDUtcmx0cFFVajFLOTBVdnZQcWZnamJkTVNXbE9kR1V2MGJqV0ZUT3FVZlRFWG85X3pmS2xFcFJSY1pBaVd6NDl1YVU5N3hzYUIwSm8ycHRJZWlYUkRnbFhuYnBGZHEyZTRxZVYwbXI0VmE2Z3o0UVBrVmxDczc2QUNCVzZyNEcxYWNER3h4S1VOdkx1d19aZmo0T1Qzdw?oc=5"
+      "title": "美股造好 標指及納指升近1%或以上",
+      "source": "news.rthk.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RSmZVMmVSZVVPczdwSFQtQkVZXzZnQV9aeGZLN3F0dE5fYlFMWlBnaUlYbUlkUkVaSEFCUFZKM0tINjhVS3VEcThYMXc5eEFXTUFOQmFxeW56Y2Y5QXcwdTNaTmFIWjRvZnBSUUE3RQ?oc=5"
     },
     {
-      "title": "道瓊斯期貨上漲，因美聯儲加息預期降溫",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnFVZG1tbUoyS2paUWZVTnRualNMUldDWGJ2ZWc0SHZaZnJOa3JQWVhXRWJILUlHdlhxQ1R6RXFOanNCOWlMellOQ2ZROHRHbzN5SDVkTVlIM0dlNnpfVkkzZ3V5a0RkWmJmSDFneld5aEQwOXQ1WE9Ob0Z1eFdZWHpKZXVsczcxc1oxSENwVDFVcmNNYWxvLWlNSkZqQ1Y3a0h1S2RBVk55a01mVzZQaHMzb9IBuAFBVV95cUxQd1RTZ1pCZkNLVTZkTmROODA5RllSNXhsLVdncFBxOEQ3aXFXbXhHS3RvQ242emdKM3FLY3h1Q1ZmaDBEbERTd0tsRnQwbkt6M3VjVjhON1lzRER3OG1UOHYzTUhJLXVRUDZIaFVyN2hFV1ZkVHZfZnNWdEduVTEwUVVXdFF0TG9XMkZsNk9NRXR2d2hsSC1CN0M4bnd0SEd2cjc5OUxyaFFZLXdCd3ZBSE5nU0NLdGJ4?oc=5"
+      "title": "更新：通脹報告及其他經濟數據公布後 美股大多數中段上升",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPczN5MHU1VEl1NFFOVnJid2pfT2lvYWg0NFg1VFhYVzNfU0ZMbURCdmhZc0ZNY3BPRG5Jc2Jrb3VpS2pDSWt5R2FyQk5MTExsTWJvTmUyRWI4amV3MmVzelhBX2Z3SlI5RmxOUF9YMGRrMzlubWZOaHRRTldxR3ZxT25oY2RMQ1Rid05odVA1OGYzZjRoTUtEWVFRYmdnNG52R2FkQzV1alVnb1hDZ0NCS3ZwS3RQeHVoOUVVYmlHLTFmX1ZyeXFfU2NVMzRId3hZQ2NtMHlDTG9mQWdFMUJNOExRS29GRnNzVFAtaWVIZ2trOWxvRDBUMjdDY2pqeTBLZDZMMVExS1NhdUl3UURpcDZtT251bGFKYnppN3NNTjBibFRnb1NpSk1XOFdSN1E1X0RUWXBKa25Tc0lySHVaNWhuWWNPOENUTkh2bHE4dm9OSWJEUUltMkZWcFNWRThHMFRCXzJic2RHU1BDSzVPLXhLLS1jUXd5NWtWUVVodVJON1h4QUNGLUZOaTA?oc=5"
     },
     {
-      "title": "十年期美債殖利率可能升破6%，可以抄底嗎？",
-      "source": "天下雜誌",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSMlZ3REc0OUwwMDJudDF4T1hWbDFzc01QUC1QUDAxMkZoUVhJblMxR2VVYmJ5ek1ySEpZcFpqR24yWDk0QmstTUNsb3VIdw?oc=5"
+      "title": "美股走勢丨道指尾段反覆挫逾200點 納指升幅縮窄",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQcld2c29YX25YYlhSVE5BTGFONmRzLVA5NVN2XzFhMTFPLUpvcFQ4QkhBWUY3SnFwaUg0OVA0bnRxaHpJSThITFltSVJJZFc5WHlWLWhzdVhCdDAyMENjVzJwYnVWYkxncENQdnVMM3NKbEJBSnlTazZYRGpFQUhPekg1ZHhvZ2xVM3RKZXpFNFZjUC1lMmt6OXRzNEExVkZBdVYyWHpjZDl6OEFxZ2VvU0htTTRoVm1CTlN6bkJuWlNNOVBSSFotXzJsZ3VyMnRPdng1UXVVSGpKaXBvYS1NRUJuWUdqYldieU16WlZDSWFTanpHa1VvNUptWlRqRjlGT0lpTzNVWUtlaHYtYzI2TEVzSHZ0MXRYZ2xobjNucEU4cTRmOTVyWUtEQldSVmdCQXBmaFktSVpqNG15MkNuWkVfYXJFYzFZX0dCOFZYZ2pDSEtkMlJ3Z2tNZ0RwcFZiaHdBRGl3?oc=5"
     },
     {
-      "title": "美股異動丨波音盤前升超2%",
+      "title": "美股尾盤 | 美股三大指數普遍向上，納指升0.8% | 即時新聞 - 新聞",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkFWczVOWms2cmt1VTJ5OWYzVXhmVjNaV3c0Yk5oOXluWTc1NXpHcEhKVjBYbEZOZTBOMFZUMUlNMHJ4OHNVV2g5NVpYaktCdHhEVDV5eDd5ZHE0N3o0c0pXS21JRWhieUdrZnVsU3Ezb2tjc2JSMXI3U0JtTWdHamxfY1E2OHJRQlZqcWx3NHdPM1NteW1ZLWNrQUtIYS05?oc=5"
+    },
+    {
+      "title": "標普500指數和納斯達克指數上漲，因通脹放緩削弱了美聯儲加息預期",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoOThTRVo1Sm5GLTZqNDhnNzRPWl90cnpNZ1VjSHpqNUJVVWk5eFNBUzVqU2NKOUVPTTNFUEhEM3o4VTBDRlNUS2htNHVxMHlET1M5RDRTRUhmdFNUSk1QMFFtWVVOaHloWnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqNy1nalBmeWZ3RllzV2l3ZUJ4aThMQks1Nml3a21zQkRUOURaRjVvYTMzYTJhTEd6VE5zSHR5VE91d3l2dDlta2MtaFdicFVqTkNOaDR1TGQxOUprNXMwTWQyXzNieEhvTmdGMTVUMGl4MjRsUXhF?oc=5"
     },
     {
-      "title": "【美債風暴】長債又遭拋售 30年期債息衝上5.61厘 逾24年高",
-      "source": "Now 財經",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jR3R3dGNrNVowek5kSDA1NzlpcFBadzVYdVlZSDBYUF94T3luQzVXUFNiMHhYXzgtUlV0WWp6QnhfMFVHVEFwaHRQakxhOXI1emVKanJQYnVGbEU?oc=5"
-    },
-    {
-      "title": "油價回落疊加聯儲局加息預期升溫，USD/CAD連續第八日上漲，或將進一步向上突破",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3MwekluRVl2Tkk0NFQ2eWZhZFZlc1gxS0hBNlpqSkJYXzNkUldnMWpaU2M0ZThHVGhkVlg2ZG9LNjBFRVQ0ME1mZjl5cFNoM2pnbUZmekE1MFc1TWk2eUVfTUVIZko2d1FWYmpFUW50clY2MHpoam1heVlyOEdBQUhZY1JoN0Z2OVg5ZHF3RGViYncxU01JRlJ3cWhtQm5pSU1PS0VuajZ3RzVRV0E?oc=5"
+      "title": "華爾街股市早段全線向上",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41QVRXLUJzUU9UYUozY2NBcjZhZ2V4UnhjSmVmUVA3TnIzQ1lhckkzUVNLOTVRSnkxcjNzbDR1VnRWZ2xZelY1TXRSclRuZHVOcUE5dDdn0gFbQVVfeXFMTnpPdWRXdmVhV1dSdVMwMm1HVHlzTzJDZUpNR3g3VUdWbGpNd1Rsc3BKQUVDQS04Sl9xN1Q0RHhraG5lOFNEaF9JZUtBeHFoQkk5SnBQQjRGZjBZcw?oc=5"
     }
   ],
   "events": {
