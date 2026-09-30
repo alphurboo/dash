@@ -30,7 +30,7 @@
     .time { font-size: 2.5rem; font-weight: 700; letter-spacing: -1px; text-align: center; font-variant-numeric: tabular-nums; }
     .date { color: var(--text-muted); font-size: 0.95rem; margin-top: 2px; text-align: center; }
     
-    /* 替換原本的更新按鈕，改為展示 Dash 更新時間 */
+    /* 展示 Dash 更新時間標籤 */
     .update-badge { position: absolute; right: 0; top: 12px; background: rgba(255,255,255,0.05); border: 1px solid var(--border); color: var(--text-muted); padding: 5px 8px; border-radius: 8px; font-size: 0.7rem; font-family: monospace; }
 
     .alert-banner { 
@@ -271,6 +271,29 @@
       <a href="https://flipp.com/flyers?postal_code=L6G0G5" target="_blank" class="btn-link">所有傳單</a>
     </div>
 
+    <!-- 🔍 近期想 Monitor 嘅 Item 自訂搜尋與追蹤列 -->
+    <div style="background: rgba(56, 189, 248, 0.05); border: 1px dashed rgba(56, 189, 248, 0.3); border-radius: 12px; padding: 10px; margin-bottom: 12px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+        <span style="font-size: 0.72rem; font-weight: 700; color: var(--accent);">🎯 近期追蹤清單 (自訂 Monitor)</span>
+        <span style="font-size: 0.65rem; color: var(--text-muted);">點擊標籤即開特價 ↗</span>
+      </div>
+
+      <!-- 輸入框與按鈕 -->
+      <div style="display: flex; gap: 6px; margin-bottom: 8px;">
+        <input type="text" id="custom-monitor-input" placeholder="輸入想睇嘅 item (例: chicken breast, salmon)..." 
+               style="flex: 1; background: var(--card-bg); border: 1px solid var(--border); color: #fff; padding: 6px 10px; border-radius: 8px; font-size: 0.75rem; outline: none;" 
+               onkeydown="if(event.key === 'Enter') addAndSearchMonitorItem()" />
+        <button onclick="addAndSearchMonitorItem()" 
+                style="background: var(--accent); color: #000; border: none; font-size: 0.72rem; font-weight: 700; padding: 6px 10px; border-radius: 8px; cursor: pointer; white-space: nowrap;">
+          搜尋 / ＋加入
+        </button>
+      </div>
+
+      <!-- 動態自訂 Monitor 標籤列 -->
+      <div id="custom-monitor-tags" style="display: flex; flex-wrap: wrap; gap: 6px;"></div>
+    </div>
+
+    <!-- 原有五個常用固定快捷鍵 -->
     <div class="shortcut-grid">
       <a class="shortcut-btn" href="https://flipp.com/search/milk%202L?postal_code=L6G0G5" target="_blank">🥛 3.25%奶</a>
       <a class="shortcut-btn" href="https://flipp.com/search/brown%20rice?postal_code=L6G0G5" target="_blank">🌾 糙米</a>
@@ -533,8 +556,55 @@
     }
   }
 
+  // --- 自訂 Monitor 物品清單記憶與管理 ---
+  let customMonitorList = JSON.parse(localStorage.getItem('DASH_MONITOR_ITEMS') || '["Chicken Breast", "Salmon", "Avocado"]');
+
+  function renderCustomMonitorTags() {
+    const container = document.getElementById('custom-monitor-tags');
+    if (!container) return;
+    if (customMonitorList.length === 0) {
+      container.innerHTML = '<span style="font-size:0.68rem; color:var(--text-muted);">暫無追蹤項目，請在上框輸入加入</span>';
+      return;
+    }
+
+    container.innerHTML = customMonitorList.map(item => `
+      <div style="display:flex; align-items:center; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); border-radius:6px; overflow:hidden;">
+        <a href="https://flipp.com/search/${encodeURIComponent(item)}?postal_code=L6G0G5" target="_blank" 
+           style="color:#fff; text-decoration:none; font-size:0.68rem; font-weight:600; padding:3px 7px;">
+          ${item} ↗
+        </a>
+        <button onclick="removeMonitorItem('${item}')" 
+                style="background:transparent; border:none; border-left:1px solid rgba(255,255,255,0.1); color:var(--text-muted); padding:3px 5px; font-size:0.68rem; cursor:pointer;">
+          ×
+        </button>
+      </div>
+    `).join('');
+  }
+
+  function addAndSearchMonitorItem() {
+    const input = document.getElementById('custom-monitor-input');
+    const val = input.value.trim();
+    if (!val) return;
+
+    if (!customMonitorList.some(i => i.toLowerCase() === val.toLowerCase())) {
+      customMonitorList.unshift(val);
+      localStorage.setItem('DASH_MONITOR_ITEMS', JSON.stringify(customMonitorList));
+      renderCustomMonitorTags();
+    }
+
+    window.open(`https://flipp.com/search/${encodeURIComponent(val)}?postal_code=L6G0G5`, '_blank');
+    input.value = '';
+  }
+
+  function removeMonitorItem(itemName) {
+    customMonitorList = customMonitorList.filter(i => i.toLowerCase() !== itemName.toLowerCase());
+    localStorage.setItem('DASH_MONITOR_ITEMS', JSON.stringify(customMonitorList));
+    renderCustomMonitorTags();
+  }
+
   fetchWeather();
   fetchAutomatedData();
+  renderCustomMonitorTags();
   setInterval(fetchWeather, 3600000);
 </script>
 </body>
