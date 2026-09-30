@@ -1,101 +1,92 @@
 {
-  "updated_at": "2026-09-29 20:15:20",
+  "updated_at": "2026-09-30 01:01:46",
   "gas": {
-    "current_label": "9月29日 (現行油價)",
-    "current_price": "181.9",
-    "predict_label": "9月30日 (明日預測)",
-    "predict_price": "180.9",
-    "trend": "↓ 明日預測跌 1.0 ¢",
-    "trend_class": "gas-down"
+    "current_label": "9月30日 (現行油價)",
+    "current_price": "180.9",
+    "predict_label": "10月1日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "特朗普推出AI政府服務網站 稱美國領先中國 不願共同發展AI技術",
+      "title": "城大於2027年泰晤士高等教育世界大學排名創歷史新高 躍升至全球第70位",
+      "source": "cityu.edu.hk",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82WmZyNWlaMmZpeC12bDFjMVM1NTI1c1VZdUk1TlI1Y3NlaTZnenRWTjBReFd3cEs0ajRBdlRhN3BWYlBmMnpGSmU5QmV5MG51RnhzMjhfdHdwSG42cDlERWpsT1ZjNkI5T25CRWhVd1JnNEk?oc=5"
+    },
+    {
+      "title": "國際油價29日顯著下跌- 財經",
+      "source": "wenweipo.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBScWhMaF9lSXRPYzdLMnJQTWt0TWNVZTR1Q29NVElZNFd3bkhXZW1TTjhjWFZGU1B3NER2VXJRSUdLS2NVREM2RjN6anlXd09VcFE1c3ZvSDBIV293dW5oUzR3Y29QY2tVZ1hrUUktdGxhVk5waGRv?oc=5"
+    },
+    {
+      "title": "美國拒絕伊朗7天停火方案：其實特朗普不擔心中期選舉？",
+      "source": "hk01.com",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPQjNPazhFRC1RWk5RTkdsSTNlVDBmREVhTU5oQjZxdDVTVEY4bVRBYV9DamNXQVNid0d4WkdXRWJRUDc3aWRDazVLdE9YRlNPV0xXcmJjSzl3VjhwZDBCOWlaRmQxeFRTekJjQl9YMVJyOEhiNVgzVHh3aDdlLXpzdHZSLVBFRklxSmhIMl9mcDhaWmVONUxnR0VyNHVOaGJaUjVRV3N1dEktM0wycldTMVdSRkJTYUh3aHlKZ3JTUXhnVEp4ZjFYNEt1OFJuSVhSSEYwY2FGcHZyNGZmbXVpRzIzMlItdEsyVFlQUEptRDlmVFBBM3Z6UGdQZG5RUEhBR3ZhUjZ4UTRfOHc2M21HSVA0QktZWDctNEQzYk81WU1yYm91MENPT2RicVo4bzRUTEYwc0k4aGxVYjVUcTVPNTdUa05VOGxFenYtRlpnVksybU5Da0wxZ2xlOXRNRVJWSlg1dVd4R21pOFQ4UzdEOEgxaHpYQmxNV3EyVGF5TnJnNWdtX0RYMTRNRzE?oc=5"
+    },
+    {
+      "title": "美伊戰爭重塑海灣地緣政治並危及石油美元體系",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOcFR0UmdZWFpfbTh4eXJyb0I1ZkRjWEV0R2xGSDZIUEowRmVFYWx4N1A4NUE0UVJYUGhFZGtLOEZ4WE1iVlVaM0VybE9hZGM5NHdHZmN2djVNc3pCYldKTXhsLVdkdVVuWnMyVUxxQWFJaW1uWlR3aWVCZXlUQThOdXJqMWhkQk8ycFFjSzh0RC14RllNZUJSSWZ5QThXLU9aQUpLRThYeGtRQzBHeF9BUWtXSXZ5Q3ZmUl9CbWNZU1BrbGl3SHBhTDhyUWI0UXdZWFdOeFg1QzdZNHdaRHo0MkZhMHBCVERkWmpqV0w0RTdfUXRXclE0enVhMmZtN293cXpMS1RBeEcta09CTWtPV3F4blN2YmRwV01IeWhoUDFNRnd4emRmMjFDR3dMajQxSGE3RlZxc2g4ZzJaa3VMSmU5R0RxQ1BfWnc1UllBN3k2Z0o5Q3J2eFF5NEQ3SEFZVmZMY0pLUTlwZzdRUjlsZHVIcTVVZWdNdE5leFhoQ1FfNl9KVjRwOTdLZHdUTGhKc0t5Y2xmakEteUEyUVJV?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQk0xZkI3LVhweTRSUF80NjJ2OWk5aWlyNjVDdGROR2ktTWpBLVdrWTU0Nnp1SlgwZ21Sc2hZckdzME9KSGlnaFN4elhSZ3pNRG5ZV1NoaGY0NF9aME52VlcwT3N5OGphbzhhSGhZTFBxOTI2NzJqV25MS3VIQVV2NzhDYy05NjNqaFZDWHFQbHBBYmMwQUtlTWZWaXdFWk82dDRkMkxfVDJDLXpQMTZPWEVTaHl6ZnJROEFGU0RTZk9wSzNhQ3E5YWVaVHR4MkRySU5oRVVpREJjTWZ3TzhWajY4SW5wOEhOa3luRURGTWFocWUzd3l4eFJfc3d1TnA3TkdBQnlQWE8xNnBqMkVKUXhiRGN1WGZJOUdFZVMyWlNoSGsxalk5REs1VDdxQWdkM19YSGRGbUF6NHk0b3lCdmlXM1l5cTBlTXZxS0dKU2pIQlc3cmpnelZQbw?oc=5"
     },
     {
-      "title": "美國9月消費者信心指數 顯著走低",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rOUdpdUo0N2Q3ZVJUd2lpM2czSmxabHFFLTBqamFidDE4WDAyaEhPT1VRRzJkakZHTGFNcFk3Q1VvdU5lckVQMUVLaGExWnFlMkRobHUwYmxTWHJLUVMtQVhBUldwcDlQdjlKXzdNZUoyNEpHaUIxU2JQRlJJd9IBZ0FVX3lxTE45X2Q5WTVLQVlTMExialNSdW5kM1pqUFZhcDRqSTBMTTRSR3p3eGtNeTJ5Q3hzdEJVZS1hNHFqUnAtbFhQM09lNW5xNmVjMEpEWlF4cjlRT1Rtcnh4S1BEaTlaeWVLSUE?oc=5"
-    },
-    {
-      "title": "全球創新指數排行榜出爐：中國第10、德國第11",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaWx4X09hQkgwMi1rTTIwakxpT3ppOUZRTWd3SGN5V2lIVnJ1V3FsOVQ1S2t5b0w1dHhsUmdBUVdWLTRSTEVWWDFaMkZyemlTLUxpRUk4eDBTWEN5TGVWVFlETmNGbEJtd3BjcjRUY01Vb1ZZbFM0RWtSNzhlZjNZSml2Ynh3YjM5S1hwaklscXFKdTMzVVA5MDFOX3BoWUhPNzNuR295Y042QnlZRHZPblgyU2lySEl2NF9oTWtLSzBmaEl0TG9Wb0Q4VUl6NFRWc3g2NzkzTjN6RXBaRzg3bjNnZk9ZaVgxXzRWa05MNXBKWHlOTy1Xc0JyZkhpNHpKOGNXT0hJT096TDdxT1RhTTlrWmJNenl6N1ZRcTJHTnDSAaACQVVfeXFMUGlseF9PYUJIMDIta00yMGpMaU96aTlGUU1nd0hjeVdpSFZydVdxbDlUNUtreW9MNXR4bFJnQVFXVi00UkxFVlgxWjJGcnppUy1MaUVJOHgwU1hDeUxlVlRZRE5jRmxCbXdwY3I0VGNNVW9WWWxTNEVrUjc4ZWYzWUppdmJ4d2IzOUtYcGpJbHFxSnUzM1VQOTAxTl9waFlITzczbkdveWNONkJ5WUR2T25YMlNpckhJdjRfaE1rS0swZmhJdExvVm9EOFVJejRUVnN4Njc5M04zekVwWkc4N24zZ2ZPWWlYMV80VmtOTDVwSlh5Tk8tV3NCcmZIaTR6SjhjV09ISU9Pekw3cU9UYU05a1piTXp5ejdWUXEyR05w?oc=5"
-    },
-    {
-      "title": "美國證監會前主席：中國模型對美國AI公司構成重大「變數」",
+      "title": "德國總理默茨稱莫斯科對結束俄烏戰爭的談判「完全沒有興趣」",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOR1R5Vjl1V3NpRWFYUVJQaWpQc2F1a2VoNWthbG9TZzRXVVQ1MmtveEF5enAtRjc5NlBOTlJGTWo0eFVJdk9Qd0NtZGtVLS1vZVUtbXY3WVhmTU9PUVdqUV9qQXMtUVk1S1BCd1JDbzVYakpFYmpWdEprYXdjQktnd2dRMmF1Vk53OVF5WkxGaTdMYzBmdHdQV241WjlENnRMTXlTaVdhblRMUU9UVThsSm9jckFNYVJ0Qm5GSmYxMmpSRjlqTXluRk9VWmhLckloYmlzVWdfZEZ3YkZ3d1FGWlh2Z043RTdXaGVwS0M4eVNtMVdibnB5YjRCUm5KeEZUWXdtMjBDVjZzSURiVjd3WnM3RFdxOUJpSmlObU5GU05EaEs0aE0xcjFrNnpQZHUxNWk3alBuRW1QWDItUXNJOWhodmNhRmh2WUVDOUk1NVBKMnRKeGtEVzZaaFFiOC1kakE5MDNYU2ZybnFjOVY1MndfRGhEQ1E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQZjVzelBUUFZxYlZQZk5TaFZIbWxleUNkU3REcndlWlJxQlczM1V4bmgwN2twdGc1X3dveGozblQ5LTFSNVh3NV81TkQxWEtITmpRdmFkZnVSdk5ldmlUQWIxczhpb0hiUU1XX19NSWVUWTFvMWM4eGRiWk1JZFVKZmNvZk9xZnpuNk9xdkk0WXdXdlVqOHVUSUdjekJBZllreDUybzFJNHlHVGE3NWVfeUFaYlVXZE5XTnJqdDBwaWFaWUFTLThEM19kcGVSV0Zrd21HMFBuRFlXUjFjSmpxc2x0YmxNYkVJSWh4ZTIwSWxBU2o1QVFRWHRMUE1tcFdwcWZVcnYwcHJBcXFQbFBtTzdrLXhKaGdyeUdZc243R2NWM0EtaFR2akloUjltYUp0NGZxOXJfMGpJRXhIMnhmallUWk5ZZDNuMFZNbElJaVJQakpwMUJwZDBiV2FwN3dNc3h3dktLdVhvaXAwdWUtS0l6cTJndjZtbkdpdGs0eHZaSzh2NEpmU2UzYm5pb1BHU1N3czA3Zw?oc=5"
     },
     {
-      "title": "美國CB消費者信心指數9月降至81.9",
-      "source": "fxstreet.hk",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYk9WNmZEWFdrU2VjdHFoZEZPTlMwOHVWYVd5X05YLTVxZUJMSFdBb0lHTFVpcUM4Qlo4Q0ZmNzNKNWNkRTI1dUxxSEZEZm1SQjBRWmk2M2w4Z191a2ZMTTZsQ2tPSE1zSUFmTmhHYzJLZ2MxWnVNNjV0REFVSlo3OGtBcVFMckdnQlJyWjZjLUxIYzVPZGJKUkJhNXlSejR60gGmAUFVX3lxTE1UV08yN1hFcVRCUXU2a0FIRjdfY2pWUEk3bzVCbHRpeHhZYXZOYnVZMnhqUm5tNnRxSURWc3VySmlGWlg2Zk1EODdMaVJYWjZReTdEVzhSam8wRzlRSTNmeGRfaE5XM2cyR0c1dUQ1cDhQc0ozeGkyTWp5VUtudkhjcUxZSW84TzBGWWg5Wk44bG00MnlaMGduRHpaOVN4dkRjb0RlUXc?oc=5"
+      "title": "特朗普白宮晤科企高層 簽令AI改名「超級智能SI」",
+      "source": "i-cable.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxORDVMdVZMZ0JqN1JsSjlhQ0p4QnJXVFZ6eE1QRnl6RGJKbzB6cXZTQVlSSkJPQ2VmWVNDX3E5YXAwTzBsT2JIdzNxdm5xS1hFbWFVME1aQ2xENHhuQW1WOG9qRDRvMDhzZzluU2FTWnZENkszYmxHcVBYNHI5TTU0cUlrNm9QakhKOE52X2ZEd2M1bkc2ZTA0NWZCWWx3WXhPaC1HQzN6eGZ0eUtWbDJRTDJPOFJ0U09CNTFhQlRyZDlFOC1RSFRrVjJHRHZtU1Y1R2o3QnhxSTlRMVFxR3lJcUMtSmJxd01BMmR0ZjZoRkVJdlZLc2l3eDkwUjlyWGs5elRsbzdsOXVfQ2lqam5fc05LQzhrcm0wR2RYVkRXcUlBY2RiampiZFh6TGtTWUNIdk1CYnBmY2p1QVBQUkZoMjl4cFR0MUoxM1E0UVY2MzBnLU1aNlNN?oc=5"
     },
     {
-      "title": "關稅丨歐盟擬打造歐版301工具 中方:無助解決問題",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNM05kRklBa1NtcGFTdi1CTHpYa1hqalVMa2RNUDJwM1FXOFA4M2FldDhjaVJvMTNReWJyaFdDbWNwQllmMkdSYjNEeUFIYk9kQmdiN2ZhXzQwc0NJeV9icndpeThqSkM1MktVQ3RULWxHSUFmTUozMkRSUXNlQUZuTTJGeVA4dzFMRmJOZ3JJdlRXSWE5V0VkS2poOWVla1FfaEkzN2twTmVVV3NnaGp6MjJwUGN3Q1Y0NGRVVmpORXZpcG5FalE1cmQwclUwTm9BSDJlbW5TWFpLZ2NGWlE3djZJbGhiMWRPRmRpUnlCbmhxaGJQV3JIYXJ1cWRNZ2c2R2JVbGdyem5qenNUald0UktsdzR0TGF1d2NMNm1sNm4ydHotVE5qTUp5WmZONmt6NGJnRXJ5ZFAyQnRpZHFPVlhzSEZMN2xqeVpOaE0xUGFheWF5SG1VYg?oc=5"
-    },
-    {
-      "title": "更新：美國國債孳息率回落 受職位空缺數據參差及政府拍賣需求轉弱影響",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQLXJVQ1dBMnAxMkYyQm5SUUVQRUpIV0JneEtPZkh1YXprMnItd2NiOTZ0SFdvNXVmLVRvVG92WHQtRUNfQ29Va0I3TjB0cUVnWFByMFhxLXNsMXNTWWxwVnBBWF9Kd3BsLWp5LXRRQ1YxSGVtcFRYRVBJcGEzYm9KM1JLM1RSRHllVDRQcDVMXzFEWjg4cFFFUHlWSzZMUVc5Yjd3b3B5bFRvMVQ3TEY2QWJNZXNyVC1JWU1mbXAxOThUU3FObkl5RnJOOW1aOHltdlZ2Sno5Z05YOHNBSm9LUVJrOE5XQkd2b0ctSnA5OGtKTWlfQi1qRk82NkJTSWlqdXJnZVlPR29neEhNY2ZUd2NrbElqSTN4M2pzaUhyRmlkQjY4cEtmMDRldHkyX0loNncweDRzR1Qza1NtMGRfbDBnYzBzbVZ3ZmQtUHQxcy1pQTVVOTV3OWhxemZCQkIzbnJNZkFXNFNmVGJieEZ1ZTJyc0tHUlN3THJTb1NnZjhvNkpLU1ZJTVFaV0V3T0JOUWFOYm5SRUZ1WGp6TXJHRlFNcWhEWC02QmEwSXdoa21tZ0lxeUIzZWRDdnNOaWR2cUNkNi02dzU2c0tNYUtWZnJ1WHg?oc=5"
+      "title": "金融熱評/美國中選後市場走向的兩種可能\\林彥- 經濟",
+      "source": "大公文匯網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0bWxHbS03RjhmbFFWMWdxOEg0ZFR6TklYbFZzN3MwS2cwMUhtaFMtS2xlZkNMM1BLZGt2b3FYRElkNHlpUmM3c25tNW9xZWxEbG51UXdvSEVCdVMtMGpMSHZtakxQSFd3TGdQVXphZ0Yxa2c4?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股初段變動不大",
+      "title": "美股兩連跌 道指低收131點 債息持續攀升",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLcDdBUmtMcnh4eWVMODgxeDZkS2dYd3hLWm5hekZ6dDRERlJfNkx3cHRWOXB3SUxMSHNaaV9nSklmQlZwdjBkVnJvVlFZN2lMZXNyWTlsYk5hQndVXzdMaXpxanNaNWVFcjdHeHZ5UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tMlI5Wk14RzF4cU1WbTdGNkVPSzlTS2hlWkV1c0EtWVhuWDhxcjhDUDF4dVFtN3NPSGtVMUFwb29TQkFJRWdvMW45Uk1KQXVBYllSX3d5MDhyZmpoRHR4Y0gySkhYRkJGeFRzd2M3Zw?oc=5"
     },
     {
-      "title": "聯儲局威廉斯：今年可能再加息一次，但不急於行動",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPaElaS1BneHFxNVY3cFppRzU0c0RiNktUQlNXX214RG5BdHloRDV0WTBvcnUteWk3TzdTbjF5UWpaN2prSVpCT29PUXVDTGozbGFyWUVTdFB6MVFhUHJwTnFsdFB0djFyQy05QkF3QVlybTAyUTZ3ZGxmSGRXNXExZ2hWTHozTVFsbmhGWGpxS3QtRlBteG9fY0JONkxSalNnTkpjU3JZZHdOX1dnTXRoQWRzRFhPb2xzVTYybW5mc1pmQWdvV1VGUGtJMUJYM3BtbHNVUk9TUVVsNEk4bkxpbzZxVXlXYm1hcGs5dGxxOEJoUFpYVDFhSkxTRDFoc3k2V19ISFFDNEQ1V2hCZHN0ckRFdnZBbkdQak9YQU5NVjUxdlUzSGt0WE42ZzdfSTFUckhhQTJlbjA0YXdOb3dmd2xFWV9TWUt1cmJIdEZCazB1dw?oc=5"
+      "title": "美股兩樣情！三大指數皆墨 「這指數」卻逆勢大漲1.32%",
+      "source": "Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZzE4c19Ic1BnWUZyS2txVldmRFpNV2M0RTRkdEJWYUxhUTJ1QVFhOGhFdmFVWTYtY2pSS180WVNTQlpfNTZ3NjM4eHhhSG5BYWFRdk45RkcxUkhPQ3UyVFV4bDZOb3o5bVowamFZTGk3UHhGcjlhWk5EbVlteDN0aUJITXdqbEdKc1ZjVUUzam9fMGY1NzUxZDR1UlhMaHlfdDJhVlBsN1JZRmhDaTUyT2JybUpheU9nZmxEY2dnUFA1SDNLcm9rZnFpUXNFOE9DcDFhS3FMTG4xOWFsVTVhekdSTzlraWxSa2lXUi01UkJrQ09lU3IwNWVTcGhCR2NjdVFtOS16MEoxSi1DQmpTMWtHYWs0Nk1uWVJmTXRoY0xIV2hadlFXeEl2cWtjazJqM1ROSHljVFo3VExJTmo4V0hkZ1JIX3Rj?oc=5"
     },
     {
-      "title": "美債風暴恐掀股市新跌浪",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZnFob1VGTlpHajE0TnV5ZVNoc0xZTWNRLWpibmZaSFBEVnlMYjFQWDRYcEItcFZMb0JpR2VRLVZSVzZxR24zWUlvcXlHV1EzdGY0UkZHZC1qTmZ3RkJaOUpLcVQzMkxFWTg2MEtFN2IxTDZIa2YxMmF3dnRNc0dNa2czNXptZS1wUFdGbHpaLUZRc2ctS2wyaFRYYzhmQlRFcVBnMVc0Q1lmRDc2RjIzNmpKekp1TnkwdnZkdF90b0IyZkVHUEpvbUpGejlTV2JBR2JzMmZZSko5ZzZYanM0Tkp3?oc=5"
-    },
-    {
-      "title": "30年債息衝破5.6厘 美股受壓",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOVZCR2llYXB2Rnc5bkRHSEdXUDM2NnloenRHN0xiTC1ybmREeVVMbUFLLXNLU0dlTFpnZXVUWHRzdnB1OHdLaHdTYU50SVFIcWV1MVJUekY5NkxiNkR1T1M4NzBMalhOMGRiNjNvUEw1cEh2b255aWJmcmFqTWROYlNuVVpiUl9kTGswcUE5QjNNRVJIbWp4S0IxSU1XTGs2b2lFMjBJMGdVUl9rVFpKYlVKSTBGMnZyWF9ZZXdyTFN3S1hoelRWazRyN0wwLVNha2Fhdk5vMC1wTVVJNHlndkFTZk9va3Ez?oc=5"
-    },
-    {
-      "title": "美債息的催命符與絞殺綫|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcVZIUjBlTWFOVGI3R2h3dmFEQ3NhZ2lta2E3Y0ZSVkVsTjJRQWpja2d0S1VaUDFVRkF1TnpDbFRUbFFQTHR5X0ZyMVp6RFpFMmJ2Tld2cWRzUGhsaTZxWUQxUG9HNUZCZjVmTGRPdjFyLWxGRXQyaXhqUXNNUEpLd1o2N1hWVFczcVdrN1VlQ1NRU2Y0UVNpR3hQWkRuLXU3RjdlMzI0SkoyUGVkZVBEU2wwWUU5aEt0Ymhudk1keU1uSUFHRVQ0cUVKdGRNeTg0Y3hsVkdB?oc=5"
-    },
-    {
-      "title": "美債動向｜美債勢創2023年以來最差9月表現，長債息率飆至數十年高位 | 即時新聞 - 新聞",
+      "title": "美股 | 市場聚焦經濟數據和利率前景，美股美債雙殺，道指跌136點 | 專題透視 - 新聞",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHdrdkhlWVdMNklUOUJCd2Myell2MWN6b0ViczJXdXFRdXJWd1ppZlhoaTQwZV9EQmJQX2U3dGpFNk9COGowR3g4WHZvOU1SMkEwbzJzc042X0w4OXlzWTlBWFhLRXBINDl5TVhORVhRM0VGZ1lEQURLclNXVE1PRGxSakM3aWRmMFNUUm03Q3pQbWZheWVxV09FQkRyNlVD?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGpuUk1wWDVMZFlJZnJoYXZPMVJWRnpvMnZLYmF1U0pPRlE0OHY3SlFNUGZtTUF6QVBVR3hSSDl3RmRtdFdEbzY2dnh2dUFQTUhHcGhuUl9qRFE0VnRla1k0ZHpNN3RqRU1qV0dBa0hxdGRQelRvLURNWjVIWldQcnJ0SW5WaHh0U2tSNkJpdnZVMmpxb19JRmVBVlpLb0FFLTdLLWxtcU0?oc=5"
+    },
+    {
+      "title": "【美國息口】「三把手」威廉斯稱聯儲局不急於行動暗示年底再加息一次10月加息機會率即降溫至約50%",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNc2VtdVlsYkYxWGlkbmpaZFpwS1VxbHhwdW1aRG5rWGdBZmtDMXFLcXc5YnZhRndmZHZ2eWpSUGRxa0dBTGRlaUJsYU5OTlRvNmNzTS10SjZ4b204RXBPNk40VmF5dlE0NW9qcjdBT3FxTlR1WGozWmFMdnZ3TGcwSmtyUnlhTmw2RWl0UTJGeFRsMVdDMEFqYVB3YkpLUG4zekhzUFhfV0Q3UUp0eDJCaXA3bnE4aXFGYzBOUUpMSEEzWUgtLTAxNnJpYnYxOVdoY1ZoMFdISTRVYy1nOWpvbzFSeV9aOXBERmhHZktBMThKLXBHOHlpS2NZRGI2aGFIdVR1RVBMRUVWTktwWEZGd3lzUDM3ZkxCSmJpVnZNZ2FoZ2FsbmxBeG9VeHdreUE0QXN2YTZuOUJHQWw2c1Fuam9CRExkaHlhUlMyNU5McGhoUnE4c0dfSDJ0ejc0N1VDS0FjNGE3T0ZhWUpTYjNlQW8ydU1FWXlVaEtUWkJmNlVEeFZnTGs2cl80MVA2UjVmendHa3JfbUY2NldSWkRFZERodFRzSTExdklUR0R2UzY2ZGlZeWVvT2k4WUVuajl3cmVzT3Z6cHRHbm1CcFNCdmpHa05UREdhTUl4dDFSbS1POTl3dTBseUlNMnhvMG12MEZCYkZxbTdzRGtoR3dUajY4NGlCLVNkZWNycFhtME9BYXNuUVFHMzNxaW9NaG1nanRvdUxBNzNqR1NqdS1JQUVfalhWWFFqblJET0l3NzMweG5YbjNtR25uMl9SYWVRdjFhWU4tUlhVQWIzRUk4OWtNS1VFekdBb2YtWFZ2aW1zc3M?oc=5"
+    },
+    {
+      "title": "〈美股盤後〉30年期美債殖利率創24年新高 三大指數續黑 蘋果領跌道瓊",
+      "source": "news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYWlRVm43cDVHOW5Gd1lnY3BlUHlQODc1aDFOR04tOGIybHRCRVVSX0Z5ZVczVkFRWnU4TjFDdGsxR3NMNGc1XzlpZC1aVEE?oc=5"
+    },
+    {
+      "title": "分析：美債收益率不斷上升 對股市造成壓力",
+      "source": "大纪元",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IOEpuSDFyaVIwdjBmTC01S01xM09mRUYyS0VBeHFGb0JHd2xnTXFJU29NeDlnRG9DTnNrTUJBU3JUa0pwdVFma19GeGVJczFMdmF1VldaRUw5UG5CdjZlMdIBZkFVX3lxTE42RDBaMmF2UkFSZWZYSC1CRm9Sbk1qZVNIS2pCVXJxZHBuRWE0ODFfZy02VU9Rb3RjdmM4bTN2b1ZNdDVXYlVOT3R2aXJQQnAwT215bnZaYTJyRXhnM2x3UzlseXVlUQ?oc=5"
     }
   ],
   "events": {
     "macro": [],
     "stocks": [
       {
-        "ticker": "XIU.TO",
-        "name": "TSX 60 ETF",
-        "type": "Q3除淨",
-        "date": "2026-09-29",
-        "days_left": 0,
-        "status_badge": "今日",
-        "desc": "加拿大 60 指數 Q3 收益分配除淨 (Ex-Div)"
-      },
-      {
         "ticker": "EXE.TO",
         "name": "Extendicare",
         "type": "9月除淨",
         "date": "2026-09-30",
-        "days_left": 1,
-        "status_badge": "1 日後",
+        "days_left": 0,
+        "status_badge": "今日",
         "desc": "9月份股息買入資格截止 (Ex-Div)"
       }
     ]
