@@ -6,9 +6,13 @@ import xml.etree.ElementTree as ET
 import re
 import html
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
+
+# 固定使用多倫多當地時區 (EDT/EST)
+TORONTO_TZ = ZoneInfo("America/Toronto")
 
 # ----------------------------------------------------
-# 1. 油價爬蟲 (CityNews Toronto / 數據自動滾動承接 + Historical Values 自動補底)
+# 1. 油價爬蟲 (CityNews Toronto / 鎖定多倫多時區)
 # ----------------------------------------------------
 def get_gas_data(existing_data):
     headers = {
@@ -16,21 +20,20 @@ def get_gas_data(existing_data):
         "Accept-Language": "en-US,en;q=0.9"
     }
 
-    now = datetime.now()
+    # 強制獲取多倫多當地日期，避免 GitHub Actions 伺服器 UTC 提早跳日
+    now = datetime.now(TORONTO_TZ)
     today_dt = now.date()
     tom_dt = today_dt + timedelta(days=1)
 
     today_label = f"{today_dt.month}月{today_dt.day}日 (現行油價)"
     predict_label = f"{tom_dt.month}月{tom_dt.day}日 (明日預測)"
 
-    # 1. 今日現行價：第一優先滾動承接昨日存落嘅 predict_price
     old_gas = existing_data.get("gas", {}) if isinstance(existing_data, dict) else {}
     old_pred = old_gas.get("predict_price", "--")
     old_cur = old_gas.get("current_price", "--")
 
-    # 若昨日已有預測數字且非 "--"，今日直接套用生效；否則保留舊 current_price
+    # 若昨日已存有預測價，今日自動滾動為現行價
     cur_price = old_pred if (old_pred and old_pred != "--") else (old_cur if old_cur else "--")
-
     pred_price = "--"
     trend = "⏳ 明日預測待公佈"
     trend_class = "gas-neutral"
@@ -42,7 +45,7 @@ def get_gas_data(existing_data):
             soup = BeautifulSoup(r.text, "html.parser")
             text = soup.get_text(separator=" ", strip=True)
 
-            # 抓取明日生效之預測 (例如: on September 18, 2026 to an average of 180.9 cent)
+            # 解析生效日期與目標價格 (例: on September 30, 2026 to an average of 180.9 cent)
             pattern = re.compile(
                 r'on\s+([A-Za-z]+)\s+(\d{1,2}),?\s*(20\d{2})'
                 r'.*?average of\s+(\d+(?:\.\d+)?)\s*cent',
@@ -57,12 +60,11 @@ def get_gas_data(existing_data):
                 target_price = float(m.group(4))
                 target_date = datetime.strptime(f"{month_str} {day_str} {year_str}", "%b %d %Y").date()
 
-                # 當 CityNews 公布的是明天的價格
+                # 當公佈的價格在明天生效
                 if target_date == tom_dt:
                     pred_price = f"{target_price:.1f}"
 
-            # 🛡️ 備用補底：若第一日運行或 data.json 清空導致 cur_price 仍為 "--"，
-            # 直接由網頁下方 Historical Values 提取今日現行價格
+            # 備用補底：若首次運行或資料清空，從 Historical Values 取得今日價格
             if cur_price == "--":
                 hist_pattern = re.compile(
                     rf'(?:{today_dt.strftime("%B")}|{today_dt.strftime("%b")})\s+{today_dt.day},?\s*{today_dt.year}.*?(\d+(?:\.\d+)?)\s*cent',
@@ -72,7 +74,7 @@ def get_gas_data(existing_data):
                 if hist_match:
                     cur_price = f"{float(hist_match.group(1)):.1f}"
 
-            # 計算明日相對於今日的升跌趨勢
+            # 計算升跌趨勢
             if pred_price != "--":
                 if cur_price != "--":
                     diff = round(float(pred_price) - float(cur_price), 1)
@@ -102,18 +104,18 @@ def get_gas_data(existing_data):
     }
 
 # ----------------------------------------------------
-# 2. 即時新聞爬蟲 (排除中國官方及中資背景傳媒)
+# 2. 即時新聞爬蟲 (嚴格屏蔽大公、文匯及中資官媒與其網域)
 # ----------------------------------------------------
 CHINESE_MEDIA_BLACKLIST = [
-    # 內地官媒與主要門戶
-    "中國共產黨新聞網", "共产党", "人民網", "人民日报", "新華社", "新华社", "新華網", "新华网",
-    "央視", "央视", "CCTV", "CGTN", "環球網", "环球网", "環球時報", "环球时报", "中新社", "中新網",
-    "觀察者網", "观察者", "今日頭條", "今日头条", "網易", "网易", "新浪", "搜狐", "騰訊", "腾讯",
-    "百度", "澎湃新聞", "澎湃", "界面新聞", "財聯社", "财联社", "參考消息", "参考消息",
-    # 中資/香港建制背景傳媒
-    "香港文匯報", "文匯報", "文汇报", "大公報", "大公报", "香港商報", "香港商报", "點新聞", "点新闻",
-    "橙新聞", "橙新闻", "巴士的報", "巴士的报", "港人講地", "港人讲地", "鳳凰網", "凤凰网",
-    "鳳凰衛視", "凤凰卫视", "中通社", "香港中通社", "紫荊", "紫荆", "堅料網", "思考HK", "SL886"
+    # 網域名稱封殺
+    "wenweipo", "takungpao", "tkww", "dotdotnews", "orangenews", "bastillepost",
+    "xinhuanet", "people.com", "cctv", "cgtn", "globaltimes", "chinanews",
+    "guancha", "sina", "sohu", "163.com", "qq.com", "thepaper",
+    # 中文名稱封殺
+    "文匯報", "文汇报", "大公報", "大公报", "大公文匯", "點新聞", "点新闻", "橙新聞",
+    "橙新闻", "巴士的報", "巴士的报", "港人講地", "港人讲地", "中國新聞社", "中新網",
+    "新華社", "新华社", "人民日報", "人民網", "央視", "央视", "環球時報", "环球网",
+    "觀察者", "觀察者網", "澎湃新聞", "界面新聞", "鳳凰網", "鳳凰衛視", "中通社"
 ]
 
 def fetch_rss_news(query_url, limit=7, exclude_keywords=None):
@@ -156,7 +158,8 @@ def fetch_rss_news(query_url, limit=7, exclude_keywords=None):
                 if not source:
                     source = "新聞"
 
-                check_target = f"{title} {source}".lower()
+                # 檢查 title、source 及 url link 是否包含黑名單
+                check_target = f"{title} {source} {link}".lower()
                 if any(bad_word in check_target for bad_word in full_blacklist):
                     continue
 
@@ -175,11 +178,33 @@ def fetch_rss_news(query_url, limit=7, exclude_keywords=None):
     return news_items
 
 # ----------------------------------------------------
-# 3. 日程與除淨天數動態計算
+# 3. 日程與除淨天數動態計算 (內置美股與個股清單)
 # ----------------------------------------------------
+DEFAULT_MACRO_EVENTS = [
+    {"tag": "CPI", "title": "美國 9 月 CPI 通脹數據", "date": "2026-10-14", "desc": "美聯儲關注通脹指標"},
+    {"tag": "FOMC", "title": "美聯儲 11 月議息會議", "date": "2026-11-05", "desc": "公佈最新利率決議與路徑"}
+]
+
+DEFAULT_STOCK_EVENTS = [
+    {"ticker": "EXE.TO", "name": "Extendicare", "type": "9月除淨", "date": "2026-09-30", "desc": "9月份股息買入資格截止 (Ex-Div)"},
+    {"ticker": "TSM", "name": "台積電", "type": "Q3 財報", "date": "2026-10-15", "desc": "2026 Q3 業績公佈與法說會"},
+    {"ticker": "GOOG", "name": "Alphabet", "type": "Q3 財報", "date": "2026-10-28", "desc": "美股盤後公佈 Q3 財報"},
+    {"ticker": "NVDA", "name": "NVIDIA", "type": "Q3 財報", "date": "2026-11-18", "desc": "美股盤後公佈 Q3 財報"}
+]
+
 def update_events_countdown(events_data):
-    today = datetime.now().date()
-    
+    today = datetime.now(TORONTO_TZ).date()
+
+    # 確保內置基礎標的不會因為空白被洗掉
+    macro_list = events_data.get("macro") if (events_data and events_data.get("macro")) else DEFAULT_MACRO_EVENTS
+    stock_list = events_data.get("stocks") if (events_data and events_data.get("stocks")) else DEFAULT_STOCK_EVENTS
+
+    # 補充缺漏的重點個股
+    existing_stock_tickers = [s.get("ticker") for s in stock_list]
+    for def_stock in DEFAULT_STOCK_EVENTS:
+        if def_stock["ticker"] not in existing_stock_tickers:
+            stock_list.append(def_stock)
+
     def process_list(ev_list):
         result = []
         for ev in ev_list:
@@ -187,7 +212,7 @@ def update_events_countdown(events_data):
                 ev_date = datetime.strptime(ev["date"], "%Y-%m-%d").date()
                 days_left = (ev_date - today).days
                 if days_left < 0:
-                    continue
+                    continue  # 過期自動剔除
                 elif days_left == 0:
                     badge = "今日"
                 else:
@@ -199,13 +224,14 @@ def update_events_countdown(events_data):
                 result.append(ev_copy)
             except Exception:
                 result.append(ev)
+        # 依剩餘天數升冪排列
+        result.sort(key=lambda x: x.get("days_left", 999))
         return result
 
-    if "macro" in events_data:
-        events_data["macro"] = process_list(events_data["macro"])
-    if "stocks" in events_data:
-        events_data["stocks"] = process_list(events_data["stocks"])
-    return events_data
+    return {
+        "macro": process_list(macro_list),
+        "stocks": process_list(stock_list)
+    }
 
 # ----------------------------------------------------
 # 4. 主程序
@@ -219,12 +245,13 @@ def main():
             except Exception:
                 data = {}
 
-    data["updated_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    # 多倫多當地時間記錄
+    data["updated_at"] = datetime.now(TORONTO_TZ).strftime("%Y-%m-%d %H:%M:%S")
 
-    # 1. 抓取油價 (CityNews Toronto / 滾動承接昨日預測 + Historical Values 補底)
+    # 1. 抓取油價
     data["gas"] = get_gas_data(data)
 
-    # 2. 抓取國際焦點 Top 7
+    # 2. 抓取國際焦點 Top 7 (過濾中資與官媒)
     world_rss = "https://news.google.com/rss/search?q=(國際+OR+全球+OR+歐盟+OR+美國+OR+中東+OR+俄烏+OR+地緣政治+OR+白宮)+when:24h&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
     latest_world = fetch_rss_news(
         world_rss, 
@@ -244,15 +271,14 @@ def main():
     if latest_stock:
         data["news_stock"] = latest_stock
 
-    # 4. 更新日程倒數
-    if "events" in data:
-        data["events"] = update_events_countdown(data["events"])
+    # 4. 更新日程倒數 (含 TSM、GOOG、NVDA 財報)
+    data["events"] = update_events_countdown(data.get("events", {}))
 
     # 5. 寫入 data.json
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print("✅ data.json 更新完成：已成功改用 CityNews 油價來源（支援 Historical Values 補底）！")
+    print("✅ data.json 更新完成：多倫多時區對齊、中資官媒全面屏蔽、個股財報已回填！")
 
 if __name__ == "__main__":
     main()
