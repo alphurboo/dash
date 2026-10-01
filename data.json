@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-01 07:15:21",
+  "updated_at": "2026-10-01 16:15:20",
   "gas": {
     "current_label": "10月1日 (現行油價)",
     "current_price": "178.9",
     "predict_label": "10月2日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "184.9",
+    "trend": "↑ 明日預測升 6.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
+    {
+      "title": "馬斯克將重返特朗普政府圈",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdldWZ0RUNF9PMnFlSTN2cHlVNVBMV19VYzRhTTNJSzlaWUczcDQ0Q3dkRVJvb05XX3hGMWxMYmFoQ0pidlBJeG04NXZyUkg3TllKNmNDcWl4QjVPLThHQ0UxcFJCRXhyWDQ2eEttT1ZEMFZUYXg4SC0zTERMUnlDVFBGNU83TXB2SXZzbzhqVHFrZER5Q2VYWk1KbGZXbDVYTUpDNXlxTzloQWpYY29CRkRSeG1LUWY5OGtmYV9naUZfRlU0WllJQWxVR2Y2Q1lqalFGenZBNUpOUzJpVURIT1pzaE80Wk9HNmJkQVdaNA?oc=5"
+    },
+    {
+      "title": "歐盟官員警告：來自中國的進口激增，令人憂慮",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQdGp2R3J0RTZUNE1DRERhVzJMRDhON0FPQS1tNDZRWjYzX0g2ZDZLNzVDZWVZNWpWeTgza3VPSzI0RFNVc3ZJNy1HdlpDdllYdHY3NUI5VEM4R1cwVVo4eTNaMmNwQkdZdV8xNlZSd1dsUUdXS3RkNjZFd3FlMm0yWWRxeEV0bVhDNmNWTllJYlhOc19oREZFYmFKM09LSTdTYXFPLWZtdXlaSDQ2b3BVUzIxNUtqUHZIM2x3VndhWm9DRzF0b0k4Q3RuYmpVQ05JQVRremFLRTUzQ2s5OHB1SWs1eU9kaXZMOFJNR3pwNEM3MlhMTTNWOFRzYjNEUy1BYzZQdXhsTkppaEx6YVpuRDZFdHVkLU5SaTB5UkxiOHZyYVhvdzdPekREREJyQzFEaUExZkNHV3M5U183YnJ5Q3VrYl8?oc=5"
+    },
+    {
+      "title": "科技大咖砸錢遊說歐盟…Google、蘋果等頻繁接觸決策官員比本地公司耗時更久| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jSnI0aHVXdmotRE9QLWxfekZNWVE5RVNERkczSlJNc1g4Qnp5VTVrVUF0bE9lR0V5dE5LQjVnWTA0UFd4UFQ2cmw3Q0RpdHBr?oc=5"
+    },
+    {
+      "title": "歐元觸及新的年度低點，強勁的美國數據使聯準會繼續收緊政策的預期仍在發揮作用",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdGdwRk1LbVh3T21lTm9vQzFObjdrd28wUDR1ZzBMT0tHekllNlBrc3dXM1RXSHdLWVZuMDVqcVp1eVRMX29YUDNRajdkLWtSZzRNNU1vSHU2MXMzbVFCOERTb2t2YXdXSmg0TFNBcWJEY3JidTRINEpPZzJEelFadmVvcEJsYS1FMDJhc2UtZy0tSnlNX2VZOEVDY3hEZlJsOGd6MndtOTRFbXg5TFdudmdINXlfOEwyTXVUbkowN3NqMTBmNXFfT0ZvYXN1NXZuUEg0dzd3LUtNWDBpYXVXMjVaa3lKVURYb19CbHJyM2lILXFRUUtXY1RHOTFjdFpIdGVfTzBZV3Vla2xwTzZ6dFVR0gGXAkFVX3lxTE1CR2dsczJhM1YxbGhqSzNtR0V5X1o3dXFQZkhOTDRPc1lfSlBuOUExQjFvZlZQNVhvXzlQRnBiQW9CTUlJNjJnT28tejVEYnpQaWhMTVJzTl9XeTQtdEpfd00tSk0wS0dYZnlXZnFZbHFjeFNHcy1sanIwNWN6V2JLQUo1VGMtYVBMT0NSRWxMdWdTOUtZdGlPM1FsYkd0cmpCcXRIc21NaTRNTEVpQUsyenBxZjZRUmEtT0pLZ3RJZ1dObnFObmtTT1g0aGgyNHBSVEhjMHhKYXIxMXBvYXVkOUZHbldYQ2dIQzdFRl9OQnVIYUhMSXF4eW93RDdnTGhrbUs5T1ViY19Vb3J1a2p4aUF2QjUyQQ?oc=5"
+    },
     {
       "title": "AI大佬簽署的白宮協議有哪些內容？",
       "source": "DW.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZmtxWEhmZUJocUI3VWVFWU43eW1PZE9RMWJkRWkzUjc5TTVHWjRrV2t2czg4elhMVW1FemI4dGN1NkJ3SHV1NkdCMlRvbldKOGVJdWZ6SzFTZXNmVWZmWk9qRGh5QU1DbEdkNFhSUHpJNy1KX3Jkc1Z5bjBRbi1PZC1yc0k3cmI3R3dhTHBRcEZKa3Y4QWt6Wk1Ea3YzMU16dE92cnI0S00xaGFxeVRVT25qdVphdW9fa0tpUUx4ZTR0amM2SWd5Ry1veUhKSEJ1VEF4M05XRmI0MWREY3QwTmxZRlNVN0xfVnNESHZNOEhCSkpuZTF2czJn0gH6AUFVX3lxTFBCVExxSXZUcG8tU0dvRGJnb2kzaVdtamFnTUpuM3lYd2dWMFZxV2pERlVMLTNXbFNRMElTN2NYLURGc0NOWVlRVGVXSFRfNVpRcGdXVDc1VV9pNHhMQUhfY1FIbld2bHV4X3YwOXpCdlBoY0dzZzdYZkFLWC0ydUZkaS1JeGt3Rlo3SkNXXzU5Wk43MUI4aDdiTUx2ajBzUHhERy14LTJTZzVSdEYzLXhDd1M1U1NsNGFEX2s0cHd6amwzMlhDalcwb2FEbkViWEMzVk1hckZkaXZNWkpBUW9HNVpBOVZfd0FnOFdmNWFIZXJKTktJa1NrTXc?oc=5"
     },
     {
-      "title": "中東原油供應回升跡象顯現，油價週四小幅下滑",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOZWNkSG1Lc09MY2I1aHg5S1EwbGxRaG9JLXBpRWFnUDFyTG9PQVJuanRjRjBUZ0xhNjIyUlhka2pSYkE1aEgtSG9OeHJSSUdieWdDUnV2Rzg5V1ZueDBKLVh6ZFFfMkJiMjlKWkh3ZVlEdGtvbWl2MDVnSTNBems3Y09SdVlFQXNEd0U0VXNXdVhXRVJ0OS00RVlhUjVCUVlTcmQyYm8yVmhtV1dURzFrWml6bVRjU3YyMlMxeGVsdnhlUDVFWEpobjlLWWJ2VkRwbVNHd21EVlRydzBWbENxQ3RsODRvUVY5c0Vnc0dWanVZRV9CbUhvVkZqTlROSk9ObFVkYkpuZEF2SXJOMmxIdGprNndJbGVMQmphQXRQbmxROVNCZkNDcjRmQS0ydnRNVWFDbnduZw?oc=5"
+      "title": "美國國家檔案館| 專題節目",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzFwaDVZSmV1dVhaVTdiNzhaRjhGRG91Rm5sZHNGclFEaUIxUW5ucFZoWFAtWG9YeWFETGtMRWZ4aWt2WlNGblc4MnphMUtocVVwcXlCR2diYW1Gc0RLNmwtWHBTRHdYTkFHcjVPV04tTXlFdXRUemQ0MEdnVElhQkJZVEJNYTlMZDgteV9UMUh2UWJsT29NNFpOVUZyT2M2RV9sUjdpeVNKNEpFdjlBU2Rxaw?oc=5"
     },
     {
-      "title": "除北京外G20場邊達共識 美國率28國建框架 反制中國製鋼鐵過剩 | 信傳媒",
-      "source": "LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BeERWcGtubkhoT2pyTndodVY3NEh5bnYzZzdnS3FNZE1Nc0tGZ3daV21Ta0pwY243RlBMSE9hdk1FSGkwNFVma0FwMnU3ODBObUh6S053?oc=5"
-    },
-    {
-      "title": "白宮AI平台與特朗普過往言論唱反調 翌日拒答部分政治問題 (15:57) - 20261001 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQQVVnSG15ZGdpeGJpdF90eVZ3ZmR5VEdFeHhYUjYyTjRpZ2FFakRVU2NFUTdyLUI2cXVQZXVtcXl5VjktOXhNMVNfazFabXRNSEhPRE1OanMtUkFVeHBOTkQta3o3cEp4S0VJOFF6VXdCNWVxVko1WVhCamJtY2RxZjVLWmZQc1hyTlYxMVZMRTBkbUZ0NExtRUYzUGM3cS1IMlZnNy1uS0JBbTEzQ1hLaGtYQmtZbUJsZFcxdThZaG1jMF9XbDItbVpNYUV2aUdsNWZaM0doRERyUXVVOXl0M0xoUEF4emNzT0R5Z01PQUtUNDFmSFlLc2NfZUtGa3NIdF94MGZIMzV4X3Bmc1hBcjNCZzFlUjJCV3pvVTlKUDRlZjk5LUROSVhDQWhCRmFwVnA3UkpZYmItanlDNHlLRGtMLUlVZnN4VFZRMzNsclhkXzFEQ1U4c2xZRXVtQmRwOUVoTE8wLUhVNmI3U0RLbWJ1dVotYVVjQlpFendxZ2xTOFM1Ul9PeFFsZWdDX2hPUVN1U1FESzdJWHBFeEVRTDNqTmNWMzd5NEt6ZVMtbl9HT2lVVW1VUnh2TlJNMTg?oc=5"
-    },
-    {
-      "title": "美國組建“自主作戰司令部” 馬斯克參與研究“未來戰爭形態”",
-      "source": "hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QaGxpT251MzkwN2ZVcnVHUS1oeXFEMC1tbXhTN1RvZ0VoOWt2TFJpdGk2OUo4b2RLRzRKVTJ2QktvLXVWcEN4TjNXeElTamFWR0FqQjFoV0hGVkRwdWFNblBQRW91cUVDcnFZdjViTQ?oc=5"
-    },
-    {
-      "title": "白宮AI協議擺烏龍 「United States」串錯變「Unites States」成熱話",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNa08wNnZxdFZ0R3NVbW5ubkZ5QXVvLVJVSS1KWU13dXhmcGxWY3RoUnZpd2pOd0tIdXpvV01TcTgzWUQ3OE9TLVpPQkk4dzIxTmxBTjBiWU5WNHBfa0pSaUtCYldhZ1QxOUVGMFZNRTRZekdqZ2ZUajVfVjVhRWJmcUItbU1KX3ZKOXV4YXdFOEpjb2MyUVd5NEhqUU1QZGlleC1qMHZnVkdNdW03YkZDdTJxSUtpcENCWWR4STREZUlWYmtkTHN4dWc3aEVpZGZoOHduYVFrSjU0WnF2WU0xNnJnQjJQblozNVFBT19EaERBcEdkRU9oU2s4VEd4WDBKUlJfbzAzekJyVmhPZmNWSGVqcVBJTWh0NEZsWXk1bWxWdw?oc=5"
-    },
-    {
-      "title": "鈉離子電池：「美國製造」能超越中國嗎？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HN0JwTnBDazM4ZVNHUW5yV3U5M1FMZExDZDdXdVVCRVF4cUgtMEFlVkpGT2ViLTl3MGMweW5LODJDczNXdWdpRVo2NXlBS3loMjhka3BqVlRxOWQ4bFNKNFBZMGtpZ0nSAWxBVV95cUxNSXpUcDc5dnBONU5rV1ZGbjJRWlBrSGRRc1diWXVQd29KejdfdXI1NHBIMHdZcFp6bnBoZ3d6eWVGNmdRVTFLR3ZYdUNkUWp6a3pmeUNFbkJjaFNrMTRrSUJObkUtY2MtRS1HTlY?oc=5"
+      "title": "脫歐弊大於利 英國首相籌謀重返歐盟",
+      "source": "hkcd.com.hk",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FT3V5Q082Z3hwWnp5ZE9UOHVHOUxQS3NQY0xJMnV0QjlUR1Z4ckx1NGZVQ0d2cWNjeldWQWFNLTRLUkZ5WmxIVnF1RWplejJnZjRkRVhzY2MtaWtnZjd3ZmZCVjRCYzBlU1BHXzBRSEVBY1Q0OWc?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股異動丨埃森哲盤前升超7% 第四財季營收超預期",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54S3l5c1Q2SjY1S2xzWl8xdjljMWxlUWhvTUktQVp3OTdyYmNiOXlwQVdwTnJBN05DVWxJTGJpb3RtR0thREVsZU0tb0Fra28yYmJ2alduWmZzS3VlVHlpd3lyb3ZnYmNVRFE?oc=5"
-    },
-    {
-      "title": "10月1日美股收盤：9月收官日美股三大股指漲跌不一 道指跌440點",
-      "source": "flamingwheels.online",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVUJiSjBKNWlXdXpNN1I0RnpUT0N4ZXBTNFkwaXlGNDVpZnVRWm1nbzdzQkRKakozNXR6NV9pODN2OVZYZWJnaE9xWWlBRG42RlFsLXZLVU4xN1Njb2Z3OEozUnQzZ3lhdlFvVi02b1E3Y0pP?oc=5"
-    },
-    {
-      "title": "全球公債遭拋售　10年期美債殖利率創24年新高",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12a21HLVhIaFQ0WVVsRklYQ1RxSnFjWXIwOXJ0YWNlRGdTOS14MjEydDAzZl95SGJ0b1pUOEdES01wSV9wUndBWkVYLUZBVTN1VDl0RHlPMERfUdIBX0FVX3lxTFA2WHBpXzE2VzM3Tmg2MTFBRXBNNEdZYjFzZkE2NEdHdjZ4R3RBZ3NxT3dyc19GMVJoUlVmTGk3OVktLWJ5ZmNWajF3QXJERlhNclcya1B6bnJPZnRYQlpN?oc=5"
-    },
-    {
-      "title": "Coherent Corp. (COHR) 股價、新聞、報價和記錄",
+      "title": "聯儲局觀察10月1日：Jefferson稱FOMC或需時決定是否進一步加息",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNHlmend3clFOR1Y3SnlqQTdfQUJUQUJHNTlVTlR5QkRGSlVZUU9PdGtZRTE0SXYxUnM5Tk8ycFk0cW9xZVNjWTVsSlF6T295d0E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNck10V1JZQV9fYzU0T1lFNUtUcHpIdlY3YVR2M3ZUUnJGX0RuRDJOWU81MGlwN0FNd0hjdUw5WURSU0RfQXVIcEFWUGJSalAwZEthUVBmcFBDbUZWZDUzSTFOSkFMY2VldGtpMjJ5S0pkVVNsMVJSejJpZTFtaGRieV8zbUUzTlF4Mlgyb01TOHVwclA4SVI5RXNMdFY0N3I2ZHo5Xzdham1zQjNCUTNQODVfOWtoWTVpTVM3YTJSZmFJUjk0UXNIT0w0YTY1NTh4Y0ZITmxid0F1Q2p3a0R1bXVjU1k1NUUzNTJuMnc4RmVUMmpsVHFYd1BMUUpZc0phbERIN2FxNDU2Nk5QMXBFSWcwN1pYREptcTdEdUlVZGxzbzNBaUotcmdKU3IwdjE3OFJhdU9hTTg0ZVJ2THVjZVV5YTR4d3U1dkJ2Y3djTVZEb2huamtYWWpn?oc=5"
     },
     {
-      "title": "10Y美債收益率創2002年以來新高！油價重返100美元引爆全球債券拋售，30Y英債首破6% 作者智通財經 - Investing.com 香港",
+      "title": "美股走勢丨布油升3% 道指轉跌逾300點",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcldBVm9QQ0NySUwxdW8yOGdoRVRNN214bE4zQWhSQnJ4WWl2ZEMwWnRHa3BIYWFocWdqM2FNemg3MEF1alZIS3UzcFBrRUxCMWV2ckoyQm9TYXBkTGU1WWNJSWFNMlZiNTREZnlhbEVLc1d5dC1yWlhHemd0Z2tHVDkyeHJSbnFBYl9aTTVJa0dERTNxdURyTVJPVmxvYTFCZy1iYVpvQUlUbGJHc1A3WEJyU0pRTGl5eVZJVjYxc29QQXAxby1EMHAwQ1dzRnpuUTdfcnduWWFBcnNYY3lEa0FGMDM5XzVacXRsUElQVUVnNlk1VFFSRkR1TEU0cVNLanEzZF9MT2luYkdVdTU2SXp3?oc=5"
+    },
+    {
+      "title": "突發：美國國債收益率升至5.33%，科技股表現抗跌",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXpQbFQ1bkJLV3QxQkJkOGpYdkFoS25jNEZzTk9UaVRMb0psbU4wbUxqREJGX0F0UUotN2dtWWpQeWZYRHFqU1ZmNmtKLXRibWpGTjdqelNteTNWanQ4eWtlZ1JGWU5naWVuOERobEx2dUpYVmM5TjJWUm5Ha09zeGJUWkJmSi1IWXFtZ3VhajQxNkt4MnJlM3dkc0p3SzcwRmM3cDNKRWN0clhrZmRj?oc=5"
+    },
+    {
+      "title": "24年一見！全球市場突遭「利率風暴」：美債收益率創24年新高、油價衝破100美元，華爾街警報拉響作者FX168 - Investing.com 香港",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GS1g1R0ZpRHdtNVA3dF9fMTdJZnBUYlpobjU5VWg1b05hT0JkQVVQNWhWU0Y2YzV3NnRzNWdidmpXSzZlRWtLN3V3M2ZFQzBBSE8yTFg1T0ZLOGZEZjVXWEdtaTBrZ2lyV0xhREg4dGo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9obDdTSUE1ZHRyc04weldXZk1fdXdpX0liRGlfUk1CdkJSb3JvczNhcXNBR3dUTDhNUHlPanFMc3NuVUltNm1mTVJ6OHFtMWwwUUR4c1hkWFBPTThSQi1iaUpqaDk1dnM?oc=5"
     },
     {
-      "title": "印尼盾走弱，因美國國債收益率上升推動美元走強",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM2lRQ2NINUhTVG9LMHpQNnVnS3pxZFVuQldXRmFsWDZ4bGVrM2JXcGx2SDdjQUNTQ2ZwYzc1Z081cWtiUnVmR0V5QWx5eXF3dGNoSk9DM3g3bGstYWVpN2dTbmdUeVFxR2piclFKQUE1Qno2SUxQZkpQYVE3UGlxUk41Tjl4Y0FuandxUDBibUtJaVpZMjJEUWRibU1DWFRlVEVjTUJZRXlWMXI1UEFpZUtDVThsUHJtM2tqaS1xNi0zTmc3OThvTG0tOVhNNXB0Q1HSAdIBQVVfeXFMTTNpUUNjSDVIU1RvSzB6UDZ1Z0t6cWRVbkJXV0ZhbFg2eGxlazNiV3Bsdkg3Y0FDU0NmcGM3NWdPNXFrYlJ1ZkdFeUFseXlxd3RjaEpPQzN4N2xrLWFlaTdnU25nVHlRcUdqYnJRSkFBNUJ6NklMUGZKUGFRN1BpcVJONU45eGNBbmp3cVAwYm1LSWlaWTIyRFFkYm1NQ1hUZVRFY01CWUV5VjFyNVBBaWVLQ1U4bFBybTNramktcTYtM05nNzk4b0xtLTlYTTVwdENR?oc=5"
+      "title": "全球債市風暴愈演愈烈 華爾街警十年期美債收益率或飆升至8%",
+      "source": "hkcd.com.hk",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MaEV0TGtYY0tzTkRxei1SYUE0emRPYjZkTGVQUWQwMW5ENmxORTVvYnBIT0hxdC1iX3Q5OWFONDNVemtNVHNBQVRidndGTXRoREpKb1F2WGsybTF1RlJ0VklRQXRWRl83SDV2QlhMQ2o2ejFZZVE?oc=5"
+    },
+    {
+      "title": "美股三大指数涨跌不一：SKHY上涨5.00%，Strategy（MSTR）上涨4.38%",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yOGRJb2g3QnVWVlBiVHdLcnM2NDJSZkMxdzNxSHRXY1RpZExReVUzX2l2eW5BRl9UbW56ZldGcFU0dVZBT1FRVl9DQkJoUXlqUlhiUFVLYUVTQVpad0JUcDVCYWVzUQ?oc=5"
     }
   ],
   "events": {
