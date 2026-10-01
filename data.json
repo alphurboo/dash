@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-30 16:15:18",
+  "updated_at": "2026-09-30 21:03:27",
   "gas": {
     "current_label": "9月30日 (現行油價)",
-    "current_price": "180.9",
+    "current_price": "178.9",
     "predict_label": "10月1日 (明日預測)",
     "predict_price": "178.9",
-    "trend": "↓ 明日預測跌 2.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "英揆：重新加入歐盟是英國未來處理對歐關係選項之一",
-      "source": "news.rthk.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GbjlQcFVsSkpWUGhyZ3dVTEFDcFZJY2xrOFlQTDc4ZUR5eF9JRVJzOURDOFd2YUo1V3JPV0hpSnR6MGtjN3ljY2Q4MTBUVm9HaDRSQWg0VVNKTUxWM2JWRTdYUDJQcTl3NDl5azRDSQ?oc=5"
+      "title": "美以伊戰爭｜伊朗稱已收到美國就重開霍爾木茲海峽計劃回應",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XUVQxMXVITDlqTUlZUFRTbzNqM1hoV2dNd2JxZEtEZ3R1RC1tUVZzOUdaV3RiQkROODBTZ2RtcUk0Sk9IRmtMczVmd0lDclNSQzBaeURETzgxU2VkbHpLaHZHeVdYYU1haHN6Snl3Tzl6c1IwNXc?oc=5"
     },
     {
-      "title": "美國的貿易調查讓歐盟日韓很焦慮",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcnk0MENEWTZvcTg5ZnRIWGtRcWVVcDNVY3RJV1FMa0JtZGZDVG1GVEVLSUFQeWNCUFpQYWtfUmZ3LXJ1NHVXR21yWElPSk1MaC1sZmxXazI5eFFSWU5CSU5nZ3ZzbldJbExITloyV2lKRHpNeVNSZ3VpdHV3WEk0QzFLZndsa3p3cGMxTzNOTFpWTk9LNkEwcFZ4dHIyek1uYmVLUENyVXNDbkNCSVI1VUVUZXhMbENWTURxZXM2UmgzeVVFU3ZzVEg4R3FjQUp6UXUzS3ZPYzlGamRaTDBLWVB5N3BiaG53MDFfbktUdUpnTFE3UnZ2UjZGcDZBM2lUdk5Z0gGDAkFVX3lxTFByeTQwQ0RZNm9xODlmdEhYa1FxZVVwM1VjdElXUUxrQm1kZkNUbUZURUtJQVB5Y0JQWlBha19SZnctcnU0dVdHbXJYSU9KTUxoLWxmbFdrMjl4UVJZTkJJTmdndnNuV0lsTEhOWjJXaUpEek15U1JndWl0dXdYSTRDMUtmd2xrendwYzFPM05MWlZOT0s2QTBwVnh0cjJ6TW5iZUtQQ3JVc0NuQ0JJUjVVRVRleExsQ1ZNRHFlczZSaDN5VUVTdnNUSDhHcWNBSnpRdTNLdk9jOUZqZFpMMEtZUHk3cGJobncwMV9uS1R1SmdMUTdSdnZSNkZwNkEzaVR2Tlk?oc=5"
+      "title": "美國CCC級公司債利差突破1000基點 創2023年地區性銀行危機以來最高",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNTDA2S3hKTENTQzVpVkZCVUpWTFFvNk9sVVZGM3BMQ2tOQXhlbTFKa2lRSmxsZXoyLXNVV05OaG53OEtlaVM1UVNkSFVwS2VYMjRfVXpkSHpKYS1vZkdtaXFfS3Nwd1VuemMtdzZoT3BoQWJ4ZGEwVU1mR01JRnJ1cnk0dnNVcXNRdGdLZXdlb0lSY040Q3IwRVVFV2JSLXhybnpTZ1JKeUpyZE85cnlDTDJtWDlpdDk3ZXhFOVNHUnRaQzMwM1BXSFJjOUxsVE9ZR1pCVTdUNERIZzNqSW8xeGlTSkNDUnBQNWQ1NzE1LU5fU05FdHo3dTdwRm5RbExUUF9qcVE2RGtLVVQ0VkZqYktqMi1YeHNSRzltci1ndHAxcFd6aDhtbjVlZTFrdTljYzgyWmNfSzVOWFhoaWczVUZSa1F2ZmtTdFRvQ08xem5Vb05RYm51MGZFYzJTaHA5WUZIaEF4V1VtakZBMktLVm5sN2NtZTUxc0ZGYWFYYktESXpINHhkTHJJSkl0R0JqWlk1d25FeFM2dw?oc=5"
     },
     {
-      "title": "英相柏能喊話重返歐盟| 國際焦點| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NS19OM3ZOTGw1NWZfYmVhOVN3Nm1rTXRGVEQ5X3JFVzZUQ2VvRDROV29VVVlDQWxrbUx1MlNVSGVWTzFGM3ZwcnpUNHBQUG9Z?oc=5"
-    },
-    {
-      "title": "視頻 面對美國關稅措施 加拿大商家面臨更多挑戰",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOLXJJN1VXNlNTLVk4MGdET1hZTzJac0M3c2lFU2hhNlczZ3A4SHRyUk1Fdm1hd0RuZ3lpMUMtMVVfTDlYSzV2UXNSdjkxLUp4c05KVWg5SVl3N0J3SllBM1NEa1VSWEl4REZLYXlCNmVpRFo5YkllN2RHbGdGQjNwYnJUSUpqTWpiMVg0d1pJOTBMQmRmSDR2SUR6V2NLVE5mOW5STHRuN3A2UGJscmwxZzBkVi1CRzU0VlVqWVpIX3dmQnQtZ0lqX3dyWkdCNXdFNV8wYmpOV0lKRGdwN2UzTzhaVmVPalpPUlcxQUZjUTVXbUdISlZuV0pEaFJ5RURRYzJqcmZoTlFIbTVoa1g5LS1IeHJQVEs2UHpsb3RYSU5zaWJBbXlvNUFyZkxqRV9SaFpRNHRsRlhndnJ2aHdCbzc2TFNJYUZ1MFpsdkUzRHhyTmVjd1VJRl94NDUxdw?oc=5"
-    },
-    {
-      "title": "脫歐十年｜英國「重返歐盟」須過五關斬六將 昔日「座上客」難再享特權︱拆局",
-      "source": "singtao.ca",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXdjaDBlNHVBa2hQaGEzY1hidFRLWHM0OWxodVo1c25CU3VRMmVWOG5BaEtRVGQ2WGRsSVBhWmlYSXp0UjA2cndPd0lwRVBiSHlibWZCTGF4MHFOem9UcUpnb2VKdTFFQVRmTk1MV0E1TG5aUE5sRlotUHlWUnRXRC1Eb0hlVHQwMWZWRtIBjAFBVV95cUxNLXdjaDBlNHVBa2hQaGEzY1hidFRLWHM0OWxodVo1c25CU3VRMmVWOG5BaEtRVGQ2WGRsSVBhWmlYSXp0UjA2cndPd0lwRVBiSHlibWZCTGF4MHFOem9UcUpnb2VKdTFFQVRmTk1MV0E1TG5aUE5sRlotUHlWUnRXRC1Eb0hlVHQwMWZWRg?oc=5"
-    },
-    {
-      "title": "商務部:延長對美國貿易壁壘調查期限",
+      "title": "美國10年期國債呈技術買入機會",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxONzV4Vm5INkprYndnT1h6QnREd01Hb0dTN0NSMXlWd0dSQmc0cEFPeVh0QjBxUkxfdGlSNU9hbVlpWVNYbm80XzR2TmY0UTcxSHc4ZGl2YnBCTU55d3pheU5NeFp2WkJwWHFLWVAzMUJ5bnNKSFdQZElsdWY5SVlLSzBOcDB3QjBTbkxSOS12NzgxcVRiWWZ4MHB1WnQtMlRNaHlPT2V1UUpYV29aOE1YYmNMaWhyR29BTFNRTGdsNjVGdU92MDRneEVkZzlPOWtpeUJUNnpYOUJNb0ViUWF2MFV5NXdLcDZWSzlGajZGakROMkR5Z3RydWsxZ2VfLTVMZTgxcUFzT0pzYmZxbF9nWFBaQlMyVVdDMm1Kb1ZIQ3llc29kMEJ4bXdjM01kazgzam1pcQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMjRIcUNucDMtZFlzcFhPNFBiSW5MMVFHeXJPbmp4LTVlVnJnY09tcUhDc21OQUhMWjlIUEM1cklqNjhCUXl6MHcxN1ZEVjFoSGdXZFRPQlJsQy1Eck5LOVo5ckJ3VDJXX1BDVlo3OTFGQTdSWEVLZlhnTVEtd2Q2alhGZXN3QkE3ZjFnOEJjQ3E2ejh2bUQxelRUX210UGVFbXVvZG1QR0Q4WHlUeEJYVW42a2NlUUdFNjhvVklZb3dOd2RzbDlOZXVoTnU3dTNwU1hIQmVxWnM2SmlyNHZTbG1Lb2VfTmcwdWY5NzJrYzI2Yzd1eFAyRGpTeXE0dw?oc=5"
     },
     {
-      "title": "中方籲以全球治理倡議為引領 共建公正合理包容全球人權治理體系",
-      "source": "news.rthk.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZY194YnBlV3puMGFJTnU0SnZUTUFYdW5Td2JwSXo5a05lQkZnZ0pLWG9HVWttX0l6R3FaNGFtNXNkSlR2aGRuaDBHVzlMVEc2a2JqYnh4X1VOR2JGYzdPV3lVZnJ1Ym1paEdIbWJpbw?oc=5"
+      "title": "美國完成從伊拉克撤軍 特朗普：是美國及伊拉克的勝利",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tLVlCdWN4Z3BoZGxtckp6dXNZSVZGMWZhUGZHT3c0aThaRWlkQUxWNWZSdFhCVU53YVhONm9aVFY1YXhTSHZGZUd1MnV3WU9jQnNiNmN3ekdkUnRCQUI4YWVCNNIBY0FVX3lxTE4tLVlCdWN4Z3BoZGxtckp6dXNZSVZGMWZhUGZHT3c0aThaRWlkQUxWNWZSdFhCVU53YVhONm9aVFY1YXhTSHZGZUd1MnV3WU9jQnNiNmN3ekdkUnRCQUI4YWVCNA?oc=5"
+    },
+    {
+      "title": "國際能源價飆 新加坡地鐵巴士車費年底大漲7%",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOY29IZlZnRmplOXFTeVJrVlAyUVRsdFdrU05RTWZTSHFPaDEtbFdyZlEwUmJPbXozMFUtUkZzazUwd2lnNDhfclFDQkw4SzBIZFROcnlySE83ZUF6NmV5NkNxZlRPTW9sbEpJRTFlSTNRcWRybVBxN0x2Tzl5VE5RSGZIdXhWX3lwM0FENXRBOHdXdWdjM3JvWmUwZWZ3aGVjY2VERV8xZXhlRjVDRVhQVW9FcDdXRVRHMGFiTzdkS1BZZm9kenViSnJZdldXeWRCTUlxMmZia1lGeE1IWHpjSzkyMzBjem9VVFNtVlpFMFZra0l6Yy1pMWxWVjNlQjVUMGFJR0JHZGc1YlBidWtCVEtLQlQ3UmNBRnZ5N0xRczVnVXlSeHVtcmxHTGhYNm5lcS1JaDAydG9reHA1NnVEN2lpeEVCUQ?oc=5"
+    },
+    {
+      "title": "特朗普稱從伊拉克撤軍是美國的“勝利”",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZmlWQ1NWSWRpOS1yUHpwa0ZTNWxTbXpMY3lOLVo2RDB5aFVDZHMyNjdha3ZRNHlwQmNodTBoRHpOY1pBZVBoeGF4QnRPT2E1RmE5VEJaN3JPY0xId09sdzllLUhGUEpjWXAyNnhhN0s2aGFjdVJjVllDanJPU1pvVndSLXQtemxNVzQ3ZS1lUFlwU25BTzVGcmxmTllzajZiSmRpNmt6ekxHbWUtdkNvZjdOaEhqczIweUlNenNtNkxjMkZnVmI2NWg0RUZXSmtsQmtMS2ZXVFViNU0tNVFtVE5weHJyaTZ4YTl5and6SHlidEtHeU1Tb2diVm1DTnh5RW5fLXY1N1BtUTRFMXFnQ3lTeldqTFJVRUp6SFUyd0I?oc=5"
+    },
+    {
+      "title": "高端住宅助引國際人才",
+      "source": "AM730",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbWlZa1AxTUpqcVNDTEVqVnZVc0dfR3BHSE1WdG45MlNwOEVRWkV0UnJqYkpsNF95WFE4MHRUSzJnMExib2p1a1FxSTQxckRxRjA0OHNjcHJhVTd6NFBpcXVDVDFLWUlaems2ZUUtMWI5ZE4wR3gzRHFCQVFFVHhMVjUwS05fcG92UURBM0wxbnlSd3ZHQjZuWnBZbnJrbjBPWDlGbUd1NzNsRFYyVTktcXIzbzYxVWJPcXVuQ2VHbXhRYjQ5YkxUSjgwaDZ2TUZrdmdEZlphdHZvREtQeVNnZUt3RQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股造好 標指及納指升近1%或以上",
-      "source": "news.rthk.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RSmZVMmVSZVVPczdwSFQtQkVZXzZnQV9aeGZLN3F0dE5fYlFMWlBnaUlYbUlkUkVaSEFCUFZKM0tINjhVS3VEcThYMXc5eEFXTUFOQmFxeW56Y2Y5QXcwdTNaTmFIWjRvZnBSUUE3RQ?oc=5"
+      "title": "美股期貨走高，美光科技亮眼財報提振AI信心 作者 Investing.com - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04XzFlTzdMLXRjTDZOc3ZPMGVkYzgtb1VLLTZ4RGlJaEJfOFIya202MkNVdkRIWGd4d1VxbVhLWjZ0Ql9zdXdocUlHVnZrdms2VXdQbTVfNVZiZ2QzOHh0NkYzSkszM1FtTWdPUnFTWHc?oc=5"
     },
     {
-      "title": "更新：通脹報告及其他經濟數據公布後 美股大多數中段上升",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPczN5MHU1VEl1NFFOVnJid2pfT2lvYWg0NFg1VFhYVzNfU0ZMbURCdmhZc0ZNY3BPRG5Jc2Jrb3VpS2pDSWt5R2FyQk5MTExsTWJvTmUyRWI4amV3MmVzelhBX2Z3SlI5RmxOUF9YMGRrMzlubWZOaHRRTldxR3ZxT25oY2RMQ1Rid05odVA1OGYzZjRoTUtEWVFRYmdnNG52R2FkQzV1alVnb1hDZ0NCS3ZwS3RQeHVoOUVVYmlHLTFmX1ZyeXFfU2NVMzRId3hZQ2NtMHlDTG9mQWdFMUJNOExRS29GRnNzVFAtaWVIZ2trOWxvRDBUMjdDY2pqeTBLZDZMMVExS1NhdUl3UURpcDZtT251bGFKYnppN3NNTjBibFRnb1NpSk1XOFdSN1E1X0RUWXBKa25Tc0lySHVaNWhuWWNPOENUTkh2bHE4dm9OSWJEUUltMkZWcFNWRThHMFRCXzJic2RHU1BDSzVPLXhLLS1jUXd5NWtWUVVodVJON1h4QUNGLUZOaTA?oc=5"
-    },
-    {
-      "title": "美股走勢丨道指尾段反覆挫逾200點 納指升幅縮窄",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQcld2c29YX25YYlhSVE5BTGFONmRzLVA5NVN2XzFhMTFPLUpvcFQ4QkhBWUY3SnFwaUg0OVA0bnRxaHpJSThITFltSVJJZFc5WHlWLWhzdVhCdDAyMENjVzJwYnVWYkxncENQdnVMM3NKbEJBSnlTazZYRGpFQUhPekg1ZHhvZ2xVM3RKZXpFNFZjUC1lMmt6OXRzNEExVkZBdVYyWHpjZDl6OEFxZ2VvU0htTTRoVm1CTlN6bkJuWlNNOVBSSFotXzJsZ3VyMnRPdng1UXVVSGpKaXBvYS1NRUJuWUdqYldieU16WlZDSWFTanpHa1VvNUptWlRqRjlGT0lpTzNVWUtlaHYtYzI2TEVzSHZ0MXRYZ2xobjNucEU4cTRmOTVyWUtEQldSVmdCQXBmaFktSVpqNG15MkNuWkVfYXJFYzFZX0dCOFZYZ2pDSEtkMlJ3Z2tNZ0RwcFZiaHdBRGl3?oc=5"
-    },
-    {
-      "title": "美股尾盤 | 美股三大指數普遍向上，納指升0.8% | 即時新聞 - 新聞",
+      "title": "美股收盤 | 美股9月最後一個交易日個別發展，道指收跌443點，納指微升0.2%",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkFWczVOWms2cmt1VTJ5OWYzVXhmVjNaV3c0Yk5oOXluWTc1NXpHcEhKVjBYbEZOZTBOMFZUMUlNMHJ4OHNVV2g5NVpYaktCdHhEVDV5eDd5ZHE0N3o0c0pXS21JRWhieUdrZnVsU3Ezb2tjc2JSMXI3U0JtTWdHamxfY1E2OHJRQlZqcWx3NHdPM1NteW1ZLWNrQUtIYS05?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOempLcUZnaC1LVlVaZG5iVXpENXNCa2RHd2lVSHFxSVNQRFR2SFFJRE1xcjlZcVVfUXIyaUJna3RxbVFESmV3dy14LVloR3JDLXZPUS0zdm9ZTzZwYUpudmd3bERCTU9NcDdwYUxvMlhFT3J3Z0dDVGMza0x6NE15TzhpNTg0VFFFZ25VNXNJdDFQQ0dM?oc=5"
     },
     {
-      "title": "標普500指數和納斯達克指數上漲，因通脹放緩削弱了美聯儲加息預期",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqNy1nalBmeWZ3RllzV2l3ZUJ4aThMQks1Nml3a21zQkRUOURaRjVvYTMzYTJhTEd6VE5zSHR5VE91d3l2dDlta2MtaFdicFVqTkNOaDR1TGQxOUprNXMwTWQyXzNieEhvTmdGMTVUMGl4MjRsUXhF?oc=5"
+      "title": "美股收市｜美30年債息創24年高 道指挫443點 特朗普平息AI監管風波 納指企穩",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxNRkZRTG9tb0g3dGY2NVVPak9oMU8zTGNudVo2a3VNTEd2NUNWWmNnZGtONnFYS3Z1b0FMbE11Y1VZdDZ6NUN5YnY4ZUlETm9sMjZOY1RJX3M1R1g0Z3UxZndwV2xqTTVLLS14UkdRRnVuOXZVTUtFdWJiaU9IV09DOFhPcjR4SHB5UGlfdnZnU29uZXoxUmY0TzN4TVVZWlY3ejhSVHcxa3RoZXFkWHdoSEtzSjlxTWhhU3VIbFZFRnRfTkcwdkZ6LWR1OV9aeXEzUW5UNkswNUpJalZWVG1OWDRHMWszZVM5b0Z1Y1Vta1l2TVZ2RFpjeGNJM2xOSnBBcE1JdVprQUV4ZG9ObDdrQlVTRFlKVDQ4WW5IVlJvZ05zcHV0dFFVN3JMUTNCM2dyZHo5dHBmbjk2WW1OYUgtY3pZeFpudDJlZmJiQWZIcTR3TUJIZktvOXgtVzh3RDR1b3hwcE9TY3VhX1F0U3hqWFNQOUtnNE9ZVXF4Y1RaS2dsZC0wSEFWZmV0VkswYm91R2Yzd01lSGE3Tlg2UVF5UUVJVmlpM2xKNHdBQzdLVnRCb2tqRmpGdHB5aHI1Ti1CeENsc2YwQTRhV2th?oc=5"
     },
     {
-      "title": "華爾街股市早段全線向上",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41QVRXLUJzUU9UYUozY2NBcjZhZ2V4UnhjSmVmUVA3TnIzQ1lhckkzUVNLOTVRSnkxcjNzbDR1VnRWZ2xZelY1TXRSclRuZHVOcUE5dDdn0gFbQVVfeXFMTnpPdWRXdmVhV1dSdVMwMm1HVHlzTzJDZUpNR3g3VUdWbGpNd1Rsc3BKQUVDQS04Sl9xN1Q0RHhraG5lOFNEaF9JZUtBeHFoQkk5SnBQQjRGZjBZcw?oc=5"
+      "title": "收益率飆升將美國債市帶回世紀之交水平",
+      "source": "华尔街日报中文版",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxON1NPcl9TbkxBV19iaFRpZjMxTHhTbU5CbTFhcWRwSlJtOHFBWTFUWWZlRFlId3pGaTBCVWVIOWxKaGw3Nm5NdU9kS1BpemtNcFhZQXhlTmkzLTdIbDl3YVNoaWFPZWdwTk1Pbkc5LWs4c0lTUXhRUWtwOFE1OHZWQ2hDWjI4S2lZNGZDXy1HME04Nm4zT1R1SC12WTV4eHBDdHpDbzdZY2VwY3dKZnBELWJEeFpUN2k2V2JSeVRncEJ1a29mXzVSZmh3UGZsYkh0WHFDTGVmLWE2SnRpc0hDaEo4WTc0RVp5ajNZQzZjajdZSEtYSFlGTHZtQmI3WC1xWlhic1pRaUJqRHFWVy1oRFpEVWp2V2pNd3NmS1NHNXpHTk83LUE?oc=5"
+    },
+    {
+      "title": "道指低收443點 第3季跌近3% 標指納指連升兩季",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fNUlpRHJuWmRyNUk5RnBXUURnYjNBRjJxVUlDOHZjajR2TnB6aGdyNFJQOUhMcDZ5RS03TEJRQjIzUVMwX1FqMDc2b2ZTWGFVRjVyS0pKZ1diSjdFWmxBbVAwd3VwMVc2ZTQ5dmtOMA?oc=5"
+    },
+    {
+      "title": "納指、標普500指數三季度均漲逾2%，微軟三季度大漲超37%",
+      "source": "香港商报",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16WE1LaHozUG9qRTg3eU5WcWpQR3F0d3piMUMxeHJkWDg3ZktNc1ZvbW4wdnY2TV92VjdvaHAxQVhMbW10cWZDZk5mZy1STG92LXo1anA1MmNyNTA3MVIwQVQzWmtsckVzc3dDNlpvTlB4UQ?oc=5"
     }
   ],
   "events": {
