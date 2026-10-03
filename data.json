@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-02 20:54:24",
+  "updated_at": "2026-10-03 07:15:18",
   "gas": {
-    "current_label": "10月2日 (現行油價)",
+    "current_label": "10月3日 (現行油價)",
     "current_price": "190.9",
-    "predict_label": "10月3日 (明日預測)",
-    "predict_price": "190.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月4日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "拉美民調：中國影響力正面評價首次超過美國",
-      "source": "rfi.fr",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQMVpvN1V0aTR5WFdpRnRSRHJhbDVwYWZYUnJNLWNFZ1Zya0h2LVE2aXNFU1JqdWFmVS1BcVFhblIwZGVqbFFRTWpyNURvQW9TN2VyVkNLM2ZFZ0xtVmRzMlB1aUpLUkJZTUhNR2Z0VVQ2aE43WTZtdEtYMnJKOFlQdUJvdHhwTlM0WmJFWkdBaGxGM0tWS194cWw0UlZpSVJMN2MyZWhFVnc3cVBpdnJVcHNHcF9RSGNIVFhBWGx5SWY3dUI4eXQ5TmJTcWpJai1WcEYxNUtKNE9BNXAtOGVhc1plR0pOOW5UN2RYbWR4cW13UXJ2b2VaVjE2VXpxUUlZemVVT1Y2TzZ6NEFuOHd5Y2JsVGdOaGJxRGJZVGpuTlM5Yl83RWpibjZLV3duamlxS1lVSDNidXJTU284eHFvX250Tmo?oc=5"
+      "title": "據報華府核心官員在大衛營商討中東戰事",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wS0hnMWdNZjdyZW13RklYLTV3ZXNCRl9qMk4wMEg5UXNqUW1mVHdWYk1PWGY4UUZaUThpalNNM2w1aGpheThoYXlNeXF6OXlBVVhRTGZWeTh1WnprR1HSAWNBVV95cUxPaENTb01sOVJtdlhHbXJSaGdvUzZERjZUTDdDOVVRZE0yRENVY0lZdF8zV3k1eUViMTI1QWFvTVFLU0ZyN2ptYVhvNWFhTEFnNTZzOTlVUm9rcHlNdWZwSGpIUWM?oc=5"
     },
     {
-      "title": "歐洲債市動盪加劇 歐盟據悉擔憂成員國尋求更多財政空間",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQSXVoNk1NREtZYzVjUVl1aW1RcG0zcXl0VEhsdVR4SkpsVEppV2dRbWxaYkJvTklyVThPZjVBT21kcjBiV2pEdkkzN2lFQjVYNFljVi15RVRxSzBPY1VuZHNTTTZORjhQN0QzZ1lBVEFXdjBpbzJ4M2ZybkZVV2VBbTJHenUzTmNJUjBPSXhhMlcySkRNVWxEMGpBaXpvYjV1M0tBU1M5ci1UenNobHFVTndqckRPeHZESkNQSGhjcW1Pd1daODFIY3lrY3ZMZERJc0hFRXRKWDBzMzZXWEU5MHlMSlMwRk5JRlJKZ3ZXQmRrZ1FHanA5UGFSSkF0amRCLTNwcnpQRW9xQjNUSkJheXZ1ZGU0SnljTlNsT1NpekI0RmxjcE4tR2Z0Z2s3c19kSm1fcWw3UHloN3ZLQkoxNm40SFVNcXI2WXBMVEJlZGtxdmx0aV9HTUZwSzZoNFhicld5TlRmYVhhV193UlJHNFptWkVoZ05waHVsX2ZURzFCNWVtV3pKdTdxdw?oc=5"
+      "title": "普京呼籲日俄友好 日本表示留意普京發言",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRjAtRlJaTWlSTlg3UkIzV2U2MmJHZE5pSkZrU0ZiYkp0Q0lINkFyc2tnSTktMEwwcWgtbllieWhNLUphbU9QRVRpTmluei1ZSUNaNmVLQ05hNXFBM2NTS0Z2YkNjOS04ZTNXTGVHRjZfODdLRzNIanEyVU9BMDNBbE5NbTQ4M005RmF1aXBiT3RvWkxpc3p5TXNCOTZaZE5rV04zVFdVYzhNM184aFI5RHQ1elRjZ1lzNl9Rc0tVWldxUmJvVGFSb1Q1WWEtMTN1dFJ4RE85MTZaX1RqZlZybjFaamFqaE9BVmwyT25kYjA4S3d4SFh4UWpwZ1UtSTBwQW5YWEJPelRGX3NfTS1sS1M5d2h2dTVKaF9RUVhYeFY2SEZvLXo0Y2JjOENBcTBPZmRYM0RHZXo?oc=5"
     },
     {
-      "title": "文創處資助業界參與中國國際漫畫節動漫遊戲展（附圖）",
-      "source": "info.gov.hk",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRkxqOWttdWlsZHhVaFN3TzFNTkhyRkhUYWsyVVp2dmdnWnh4bG5kUGNNQlUyOHZEWmo2UHJOY2tPYW8yRUNRNXljc2RUb05TZWFNQ1RsVnVWb3pIQVllMGJETnZaVzNnY3N1TGVHaGdNdw?oc=5"
+      "title": "美國防部或派人長駐台灣防務機構 進入決策核心",
+      "source": "on.cc東網",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjFVQmpJRm5yZ0xyUlpYbVdEbDhkYmJnZHVGV2NTSTBmVUROSG9pS0JLRE4xV0pMZEJldUMzT1U0OVlUbks4bGRySE9DMzZLSkV4ME92SVNWLVhOOV81UXFaMVQxQmJnekRWeXBTcXItd1JUX2tVOW5WXzRMaTQxdjM1Nk9vM0VDZzVZ?oc=5"
     },
     {
-      "title": "物價高漲衝擊特朗普民調 65%美國人認為政策難辭其咎",
-      "source": "rfi.fr",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOa2EwT1E1cmJjcVJNVTNKZXhHUTh1dFZGcmNYd1N1TXBEbU11T2p0cGlYczA2c2JJaXMyRWFVVC1TNWFWQjhYUkNPd2NhTEtQOWxkYW5XRUsxR3ZnRktQcjVHRl93RG1KRnFvR0NBTVhwOVdIWVF4X1ZTUEd4VGZMZlZZeEpiMHFkOWVGZ3FGWXlUU3FaaWNIbThOUDNQZlpSZ2ZwQlVhWTRGaGExU1d1d2QyMzJHMnd4QWtRZlQzUXdmdWgzZEdNb0dYQTZjQlluTXk4VzdLdW5kRGFRWklfWmluNS1jbDUtUXBvQXpOdlNteFZVR2hsRlZHUGRSQW80TkhwTjJOQXZheWFwMkhsU0FUZ2RlMFpNU1RLWG1Vc2NiRFNQejg4aFBMamx6ZVhxVTVoRFJPQUZlWGxJem1KM1E5eFY3M1l5eWRKMDd1WWFSTmlWeXZzNDhTb2hseXlqdWlwSVQ3TXg1cmhF?oc=5"
+      "title": "Thrustmaster成為Gran Turismo全球系列賽官方合作夥伴，並發表第5款《跑車浪漫旅 7》官方授權方向盤",
+      "source": "gran-turismo.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Dc0draVoxRzNCWnJUX2hUX3haNTU3RXZjWWNHalFKSXlHVmE3TDl0S0hlUGx6ZHduVElqZEgtNmtkYkJDZHhkM1JmNE5vRjM1Rmh6dEpyTUxYVU9ZclRnVEFR?oc=5"
     },
     {
-      "title": "世衛：全球預期壽命接近疫情前水平",
-      "source": "rfi.fr",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOU3VBbzJSM0N2eloxeGd6Tko2RGJNMHpmVEF3MWwxWUZFaXc4N3UxSXI0Y01ZUXN1UU5VTlM3azlKMU1DV2hXaWdNRFhGak4tNEFoY3hPSlB1N1M2aWNkWWRNcVNoRDFYbFFNWU1FU2JoYk83aWRuRzV2ZS1lT3U3bmZpNndrckFKbkFhV2NRYkNicHl0bkRESngtZkZKNlVlMjBsaklwVTlwTFp2Qi1oN2EtZTFONVB1eHZTLXp5SU5LWDJPTFZ1aktya01rOFFPYkdxcC1PczNScHYxMEJ6dUV0Sl9BRmh3Qi1RNjJ3cXkzcTFlZWVGVVdmYWRHd1d0Q0lnMUhJNkR1RGplYjIwYS1kcWE?oc=5"
+      "title": "白宮發布川習會花絮照 習近平送川普「金色太和殿」",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uVDJaMlRXYlhBREFsWkI5V0RUM3VNdGdUQzc5cUgwdk5WSW1KS00yNWIza0c0SHpXdWF4d2xBVWg3WjBmQzlUNkowTFl1UENoTlpXV2FzcVE2M2VjT3BvTDZRdG1JT2PSAWdBVV95cUxNblQyWjJUV2JYQURBbFpCOVdEVDN1TXRnVEM3OXFIMHZOVkltSktNMjViM2tHNEh6V3VheHdsQVVoN1owZkM5VDZKMExZdVBDaE5aV1dhc3FRNjNlY09wb0w2UXRtSU9j?oc=5"
     },
     {
-      "title": "美烏重建投資基金敲定首筆關鍵礦產交易",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQT196VEEwSm5GS1A0OXc5YWdudG01dGh4dDBFSWVSSFdNMkVkYlBTR01PeHE0WENwRG9hanUybzdHUmY4OUM0TEtNaUFZRDlaLXNQS0xaemJMZDlVWFRaTmZoZnhid0tPbGNMb29kM2FBSnhyY0ZtaWp3SFB4c2d0MXF1dFRIVWtQWmI0dG04Mm83RU1ENnplYTFmX3FxcEZocEFZZC0zU3JQdVpSNVZhRmpnOVdDMGw2SHBVNE43dUpSR2RwWGRIZ2prcU5NdDl4R0VBbjJWcDJUd3IyUmFzNi1MOVl1NmttUE90bXFhYS1GcS1mWmlBVVpBRERtNWdaWFdsUUVTZnFPeHZFWTg4NjNzQ0lmQ19YMUh4Zl9tWExMYWdWVzdyNS1MaWZvYzVKRW02N24zS3g4RC1ELThhWE5La0V3SzJa?oc=5"
+      "title": "最新民調顯示，中國在拉丁美洲的影響力比美國更積極正面",
+      "source": "hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vbWIxQTFXZVhPcGRNRjlvSG5ad0NxTE5RRGJPMU50d2NqRWwwaUhFTVU0ak50d1hzakNRWTA3LXpXUE1jRlhXLU9sbzRqZ0JmX0VfUUVBcGNyOWdKbFltc2dZMDlQMHh3cWUtMTBXRQ?oc=5"
     },
     {
-      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
-      "source": "bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XYTVwY2NlaWJpLV90bUl1MmxXUGxTNmFRbllaSUc0ZHp5WktiaEt3SnJDWThxNy1JamIxNENBOW1MQUdNVjFWU0tHRHdwYjBqOHZrQTNUc0IyZXJvcXdmSWgzbDJtR0HSAWxBVV95cUxNTVA5aUh3cU8zMWdkZ3loTWdnUTFlelkyRi1BYlQ3aXpGZTZuQ2RqamFGN1RYR0pLU0cwck1ES1R1SWlwb21qY0Z1eVUteWVqS0xudUFpV2o4dG5fZG44NWRVUXktY0ozT29pV0o?oc=5"
+      "title": "日本經濟產業副大臣在美國G20會議與中國貿易代表對話 談及出口管制措施",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKZ2QtUG43V2t2R3dsSF95NjNlTEdhSTVWbFpRSEVtQUdpWVBBV2w5bzY3ODRHTDhGT2UyTFBjTUZiNkwzY1NOUzhXOHZ6NWVSYU4zbTUxNWY1NWFTbDJ0dW1WanlnNHdHU2NUdXVJOA?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "道指高收250點 納指觸及即市新高 聯儲局短期內加息預期降溫",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tQ1hndkR0R2pEU1FqMVhEZTlqUnFGQ2h1ZktnSE9ta1pFa2c3aWc1WmhYd203ZDBUZEUxcGx5SzhIMEh5NXUxd2o5R29CVlBMeDNraGNzUmJ4eUR5dW45UHFoRGpwYTlBcmVvSGtaVQ?oc=5"
+      "title": "FOMC會議記錄將於下周公布 未來一周美股還有哪些變數？",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zY0VrcHltMVZmYnJqaDVqSkVSLTJIdV9tNURTSEdaOWlaVE95LV9qUWhPYTVLeHdZbjJKZ3BBMmlzM2RpME45emlNVkd6MWR3a001Q2xvOXpWTFRFU2Y2cXVkLVZ3U2UxeGF2QzJJUERtbEhRMHA5OXc1UjliUdIBZ0FVX3lxTFBhRFp3SGYyY0FWa0htVk4wQnhHYldxVzRCM3hoYmUzdEVKN3pKemp0NEcxYlNJTTdJUE5pVUJOcEdHWFdBTWw2SzkyWjA0b2dfLW5MQWJSR2RiZzNBOWNLcTdyVkNRSU0?oc=5"
     },
     {
-      "title": "政府缺水發窮惡 歐資回流炒美股",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbEkxbnVXV0xBSWNTNVNkczJIX21rWjRwUDgxYmdCZ3lLQV84VUlFRWFNQk5CS19YV0cyS3hTd3ptaTFkVzNVWE5mRDVNVDIzVXFzT3M5c215Ri1BT1FqTFdmbGhtWE5RUmRfdngtX3VqcU1OVTNaYjdzYkF3QXBfWDBzRjJZcFRjVWdyc29YMloyNWRGSXVFUVRXNWJTNi1DVDVfVTRUVlJ6SzVUajgwdlRia2VfMFdRdE9JRjBGbjBGUnJfOGRkQ2hMM0hPbEJIUllNQ0R1NE8yZWx1Uy15aUdyVGpEZDFiQ2prU3RJVHNER2gxTUtpbFctV2g1WkhfX0dqZDlUMnBLTGJvcExGMmkyOA?oc=5"
+      "title": "美股三大指數周五向好 納指表現最佳曾升近1.8% (16:19) - 20261003 - 即時財經新聞",
+      "source": "明報財經網",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOdFVpM1A2dDZ0c2NCZExKdHhoU3FlczVzU3RZN0YxTUg3SjNIdE5JNVVjVWVjTVJhQ0JwMnJYbE5za19CVWdRbjRHaVhyUFNzVE1hLWpJRndQLXZlQ09JSnJJdktWTlk1bWhZS0hKN1kwa0FUcDRyOW5JTUdsQ3NFcnBPdGJUMkVKdDVTM25HU1YtWEpiWGhJZkxHZWFEMkFvem9QUjRZU3lHU1J6YV9FRzc1ZHpSeG9FYjlXSzNUWXdHYnN6UXpqWEt5UWFSZlpFTGpDcmphM2h5Sl9zT004cEZjUWVuVFJLRmstRlp3WEpDVm14NURUc3lhNmdZbnk5Y0QxTkZJSzFBdzNiT3RXMHRkdThOT3N6Q1ZkRllBNVZnQnk1ZHR0TXdGdTV1VDdkYUFRZHN1czB4TFlIUUZYdUZ5bkRaMUNVdEs3cmRySUFkanN3V3Y2dXV0NA?oc=5"
     },
     {
-      "title": "美股收盤 | 納指收市升1.2%盤中創新高，非農數據遜預期，加息預期降溫",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ3VFakVvQXpVWUZ2VDIybnc5N3dMNlVsWmE1aG1fUV9BRHU3MUQybk1od1FZNEZVeENVTF9kR0lPNGs3TmtxQmVveTlXZVlMZVBCRVc4QW15bkNSQm9ha01GLXhfQ1dJaG93V1JtQnk1YjN4SVFyVS1oTmZHUVMwVEh3RWRUOXVYQVF2TlprSTc2X2Ns?oc=5"
+      "title": "〈美股盤後〉非農爆冷！Fed升息預期降溫 那指周線喜提連三紅",
+      "source": "news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VNXN5MmtwcHN4eFdlZFRQbGtweWxBNlFEWDgwYXVnMjlDVVU3bDNsU3VVVFVMQXM2OUVadjZka2RfMW5DMmpPRFU0aVYzOGs?oc=5"
     },
     {
-      "title": "美股收市｜10月加息機率降至2成 納指漲1.2%曾破頂 道指升250點「馬斯克孖寶」勁升",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPb0FIRVR2ejNIcE5tS3g3STJBSnpTYVM3cXdleHZvOW0ybE9nUVpzSzRUUk9rTkVfdFI5azhHUE9NZ1Rmb0oySVIyYWd3aFNYdW9NdjBhZ3VKREFTRmR3NmhFOG90Y0ZaTWFjRzhyY2JNN2x3OTJENWU5MG1vem1lZmwzQlo0Y0dXOU44WGFuZF9WLWdwVWZPREg1Q1AtT2M1djhFNmRkVC1iNWkyalJicmpHdkk2bWMtblN4dGhzYVZmR2MwQlVNNWxiaUxtSzRORnhwcHNyQTg4VzRDeTg2VHdEWFdDNmR5SmstaWFBV01hLWVUVVpkTmE4V2d3cU1lY004bEhCbTg0cF9wd3dhN2FVRmpxMXlKUjhvMlpyNjlFSHpwbG1PUG9SMTF2cVJEeGRPSk5NeFAwOENrOE1ZZ2RwTTRzS3J2NTdqWG85bjN3N3hldmtsQ0xoVzFYYmxtNEFYaDhxZnNlSU05eF9XUTBKbDIwTHp0UWVUYV9EaENRUDF5ZFZwdmgxQ29Wb2VUS013SXllX0JhNC14REYwY0JMaVJKU1o2aXI4OHAtN2FJdkp1TkNrWEVGUDVnVVYwVVJhQWc0RjEyd3J4a3hjOVFDVUU3SXpiSGs5NVhjVEtpM1diVTl2WXZJVGN3UQ?oc=5"
+      "title": "華爾街即將無眠! 美股“23/5”交易模式倒計時，全球資金接力能否強化長牛之路? 作者 智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04akduTWFDWVMwaVcySDJpWkU5NFN3ZnpPdFZpUFlnMV81RUdjWHRWQW85RE1LTVZBeWxhM3RwRG41a005cGR4bDhoSkFnTDJwNWdvMDFxVTV2M2dZTUN5Y3BkeW5mSDlBYUcwSTI1LVo?oc=5"
     },
     {
-      "title": "美股日誌｜納指發威創新高 加息預期降溫",
-      "source": "stheadline.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNYUY1b3V2R2ZLaUNHVng4TncwblJ4VFg4NzhHQUc4eGtVWU5xSjQ2R3hCSGtDXzc2b09BZmxTVXVkTEtfenI0U2VYcE1PNEJETm5ZQ3FrZ3RaTk5MSG5HdFZyeUs0bWdQMWFPMGhfVnBrZTNmZTJSRGR6aVZtVGhXREdPMXptOTkwM0V0U0w0cnktNzJkZTZzaHFpTC1TSlFfUzFUUUtlTERYeGZrM00wNTl5VV8zbFhKeU5qejRodHFrYlVEZE5PMFljMHU5NnR2NnQzMkx3ZG1oMHEwQ1Q1WFcteVBlRWJzcmxUY2lrMEwtcnA2UVBMYkZhdmdKMHJDSk5HR0ZnVjNGbFljMWNmckpMMXNhMEFZVXkzRnNUX016NUF2bkdtc093?oc=5"
+      "title": "2026 美股短債ETF 懶人包：升息時為何受青睞？SGOV、BIL、SHV 等 12 檔怎麼選｜豐雲學堂2026 年 10 月",
+      "source": "sinotrade.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPb2tyZzZLeG9YRnRTcElkOERJY3pYM2tna1Iwb0ZGQktjOGt5bzVZZDZpR0oyNjBEQTVGWVAzZUhFbFVOWE40X3pJM2tuN3Q5SjZQNGlQOUNRaUFHT3NJZ1lMaDhzb0pONnZNX1o3X1lXRVZBZk90UDR6ZmxPa0Z6N05xdXpPV2t1ZzR1bkRod1ZUOTJTaGdCOFJGcGpUd2hVS0JJMlVfRzFLN2dTb1FxMjRtM2RZa21mVktIT2VmaDF2bl91U3FheGRFLW1jWHdPS0xDSGZPLWgxMjNjeXB6dFpMbWM1RElUS1JwWXdKT3dLYzNIVE8zM1Y4eUJrVDl3Q05TNjFLc3FXUndFeVRjemZ3OUZZQl9BREpwNDRwdjdELUZfTTlDT0p1U1dCajM1SHQ3Z21kQXpyd2hqcG93LWJPem1Yc3dOLTkwYzdlRW93SHQ3MDlhV2xhLWVFa1R2RTNQc3dfRXJGakxuX2Q2a1YwS0hZZFlNcFQ5eFo3eVZWRmJBcTVyQ3M5WVdyWlBMRHc?oc=5"
     },
     {
-      "title": "美9月非農爆冷！美股收紅 輝達領漲那指",
-      "source": "Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSmNxejFVQW4tUHd3QWdoc25TbHZELTF2c0tYTWtZb0JGUmNzQk5HZ2p2b0ZmRDVZeUhYWEdVMUJQMkM1bDZ5Wm11Y0Q5cGd5X1hhZnF0a2pLU0lNRUwzUXJXV2tvdl9RMjRFRkFwQWxQT0xhZFFsTDFuaDBYU1IxZ1dJRVNLYzNUUDZHSGk1VkdhX1Z4QkFRR3hCZEhwd05KOURiemFOdUxacGJFSUh1ZlNndHhmdWtzTk4zQlgxeHpVU0pmTEtDSmZsM0tBMFdSWlFyNDE0eVNxUTBfbGlhTFVCSFRRUVVVS0JTOUR1SGx0U1ppb2RlR21PYU9JWkZwVlY4SUFORi1neFJFSy0wZk95WTZUUnc?oc=5"
+      "title": "美股選舉年也有光輝十月行情 但能源價格將左右一切 | 美股動態 | 國際",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ESXlwY2RvdzhvdlE2TVFRMzRDTGk4UXJvR0d3MTVNQ0RWX0xvTlJHN0ptOFFzdWJIUnBObWJXV2ZUbGprQmJXT1pWdndZNmc5NlFERk0zcENOSzJLRjBvbGdndTB0RFJWSFRlRTgxY3hoeVp0ZmlJSDZDTlQ2dw?oc=5"
     }
   ],
   "events": {
@@ -84,16 +84,16 @@
         "title": "美國 9 月 CPI 通脹數據",
         "date": "2026-10-14",
         "desc": "美聯儲關注通脹指標",
-        "days_left": 12,
-        "status_badge": "12 日後"
+        "days_left": 11,
+        "status_badge": "11 日後"
       },
       {
         "tag": "FOMC",
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 34,
-        "status_badge": "34 日後"
+        "days_left": 33,
+        "status_badge": "33 日後"
       }
     ],
     "stocks": [
@@ -103,8 +103,8 @@
         "type": "Q3 財報",
         "date": "2026-10-15",
         "desc": "2026 Q3 業績公佈與法說會",
-        "days_left": 13,
-        "status_badge": "13 日後"
+        "days_left": 12,
+        "status_badge": "12 日後"
       },
       {
         "ticker": "GOOG",
@@ -112,8 +112,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 26,
-        "status_badge": "26 日後"
+        "days_left": 25,
+        "status_badge": "25 日後"
       },
       {
         "ticker": "NVDA",
@@ -121,8 +121,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 47,
-        "status_badge": "47 日後"
+        "days_left": 46,
+        "status_badge": "46 日後"
       }
     ]
   },
