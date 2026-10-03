@@ -1,14 +1,19 @@
 {
-  "updated_at": "2026-10-02 16:15:23",
+  "updated_at": "2026-10-02 20:54:24",
   "gas": {
     "current_label": "10月2日 (現行油價)",
-    "current_price": "184.9",
+    "current_price": "190.9",
     "predict_label": "10月3日 (明日預測)",
     "predict_price": "190.9",
-    "trend": "↑ 明日預測升 6.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
+    {
+      "title": "拉美民調：中國影響力正面評價首次超過美國",
+      "source": "rfi.fr",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQMVpvN1V0aTR5WFdpRnRSRHJhbDVwYWZYUnJNLWNFZ1Zya0h2LVE2aXNFU1JqdWFmVS1BcVFhblIwZGVqbFFRTWpyNURvQW9TN2VyVkNLM2ZFZ0xtVmRzMlB1aUpLUkJZTUhNR2Z0VVQ2aE43WTZtdEtYMnJKOFlQdUJvdHhwTlM0WmJFWkdBaGxGM0tWS194cWw0UlZpSVJMN2MyZWhFVnc3cVBpdnJVcHNHcF9RSGNIVFhBWGx5SWY3dUI4eXQ5TmJTcWpJai1WcEYxNUtKNE9BNXAtOGVhc1plR0pOOW5UN2RYbWR4cW13UXJ2b2VaVjE2VXpxUUlZemVVT1Y2TzZ6NEFuOHd5Y2JsVGdOaGJxRGJZVGpuTlM5Yl83RWpibjZLV3duamlxS1lVSDNidXJTU284eHFvX250Tmo?oc=5"
+    },
     {
       "title": "歐洲債市動盪加劇 歐盟據悉擔憂成員國尋求更多財政空間",
       "source": "Yahoo 財經",
@@ -20,61 +25,56 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRkxqOWttdWlsZHhVaFN3TzFNTkhyRkhUYWsyVVp2dmdnWnh4bG5kUGNNQlUyOHZEWmo2UHJOY2tPYW8yRUNRNXljc2RUb05TZWFNQ1RsVnVWb3pIQVllMGJETnZaVzNnY3N1TGVHaGdNdw?oc=5"
     },
     {
+      "title": "物價高漲衝擊特朗普民調 65%美國人認為政策難辭其咎",
+      "source": "rfi.fr",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOa2EwT1E1cmJjcVJNVTNKZXhHUTh1dFZGcmNYd1N1TXBEbU11T2p0cGlYczA2c2JJaXMyRWFVVC1TNWFWQjhYUkNPd2NhTEtQOWxkYW5XRUsxR3ZnRktQcjVHRl93RG1KRnFvR0NBTVhwOVdIWVF4X1ZTUEd4VGZMZlZZeEpiMHFkOWVGZ3FGWXlUU3FaaWNIbThOUDNQZlpSZ2ZwQlVhWTRGaGExU1d1d2QyMzJHMnd4QWtRZlQzUXdmdWgzZEdNb0dYQTZjQlluTXk4VzdLdW5kRGFRWklfWmluNS1jbDUtUXBvQXpOdlNteFZVR2hsRlZHUGRSQW80TkhwTjJOQXZheWFwMkhsU0FUZ2RlMFpNU1RLWG1Vc2NiRFNQejg4aFBMamx6ZVhxVTVoRFJPQUZlWGxJem1KM1E5eFY3M1l5eWRKMDd1WWFSTmlWeXZzNDhTb2hseXlqdWlwSVQ3TXg1cmhF?oc=5"
+    },
+    {
+      "title": "世衛：全球預期壽命接近疫情前水平",
+      "source": "rfi.fr",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOU3VBbzJSM0N2eloxeGd6Tko2RGJNMHpmVEF3MWwxWUZFaXc4N3UxSXI0Y01ZUXN1UU5VTlM3azlKMU1DV2hXaWdNRFhGak4tNEFoY3hPSlB1N1M2aWNkWWRNcVNoRDFYbFFNWU1FU2JoYk83aWRuRzV2ZS1lT3U3bmZpNndrckFKbkFhV2NRYkNicHl0bkRESngtZkZKNlVlMjBsaklwVTlwTFp2Qi1oN2EtZTFONVB1eHZTLXp5SU5LWDJPTFZ1aktya01rOFFPYkdxcC1PczNScHYxMEJ6dUV0Sl9BRmh3Qi1RNjJ3cXkzcTFlZWVGVVdmYWRHd1d0Q0lnMUhJNkR1RGplYjIwYS1kcWE?oc=5"
+    },
+    {
+      "title": "美烏重建投資基金敲定首筆關鍵礦產交易",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQT196VEEwSm5GS1A0OXc5YWdudG01dGh4dDBFSWVSSFdNMkVkYlBTR01PeHE0WENwRG9hanUybzdHUmY4OUM0TEtNaUFZRDlaLXNQS0xaemJMZDlVWFRaTmZoZnhid0tPbGNMb29kM2FBSnhyY0ZtaWp3SFB4c2d0MXF1dFRIVWtQWmI0dG04Mm83RU1ENnplYTFmX3FxcEZocEFZZC0zU3JQdVpSNVZhRmpnOVdDMGw2SHBVNE43dUpSR2RwWGRIZ2prcU5NdDl4R0VBbjJWcDJUd3IyUmFzNi1MOVl1NmttUE90bXFhYS1GcS1mWmlBVVpBRERtNWdaWFdsUUVTZnFPeHZFWTg4NjNzQ0lmQ19YMUh4Zl9tWExMYWdWVzdyNS1MaWZvYzVKRW02N24zS3g4RC1ELThhWE5La0V3SzJa?oc=5"
+    },
+    {
       "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
-      "source": "BBC",
+      "source": "bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XYTVwY2NlaWJpLV90bUl1MmxXUGxTNmFRbllaSUc0ZHp5WktiaEt3SnJDWThxNy1JamIxNENBOW1MQUdNVjFWU0tHRHdwYjBqOHZrQTNUc0IyZXJvcXdmSWgzbDJtR0HSAWxBVV95cUxNTVA5aUh3cU8zMWdkZ3loTWdnUTFlelkyRi1BYlQ3aXpGZTZuQ2RqamFGN1RYR0pLU0cwck1ES1R1SWlwb21qY0Z1eVUteWVqS0xudUFpV2o4dG5fZG44NWRVUXktY0ozT29pV0o?oc=5"
-    },
-    {
-      "title": "紐元反彈，因美國疲弱就業數據、新西蘭大選施壓",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVhJblNzQVRrN3Q5SW15VlJqZG5LeWhLdm1LcGt3UmVXQThOTGlNQXNjc3lDODJlemRPUm1fSTRIdWxOeUJLQVpRakZMTTRCUVlwcnM0YnprRmxQLWlOZ3RPcWlod3puejhaMFdIeTNKcEpkazc0MWRLc01fQW8tcHhwWHZIRWI5QWR5UGhqRVlaXzdqWDNtR0cyalJjbFNhMzZnZ3NfQzVXQmozb2hValh6dlhfQ3FjcUVr0gHAAUFVX3lxTE9EQ3hlcnprYVpTVzhVUlZFcmZHOTRyZ2s3VXFldmIwOEVHUXRLQ19rMU5QeWY1U2hGNzExbF9GWDFFQl81RDNLaG9vZU1mTUdxa2NFcGdsVFFZaUNjYkdzSU9MY2NrZmJRNGpKRjVQSEd6VTVqVXhmTFZ2Z1N2Rl9lbFZWU0pVMFUzWDRJVTZZSnBUc2VhejNsaG5rVHZaOXVTVUhOUXYtTnpyYVpTZzR1a01IN05aU3p1NjNXeVE5TA?oc=5"
-    },
-    {
-      "title": "美國增兵中東引關注 專家析美伊博弈多重變數",
-      "source": "hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Y2JVMVVqT25BTmRWcVhTUnBKR1BoTHdFeU5vWXpGV1poa2dqQm0zTkprNURIWUVNSkFTcS00MWVVUWtyVVBaNDhkVGlITjVzamxZVnpsRU1HLWwyTW1zVGJCNUdLdW9PdGF4Y1dvVQ?oc=5"
-    },
-    {
-      "title": "美國加州男子因向中國走私超過3億美元受出口管制計算機服務器被捕",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNc1JIZUhCY05rdFNyb0duaTZJN2FVSkxoMEZRWUZuZ3ctOUx4c0JuaHdOOFIxMlF1T0IzWmtCRU8wakN4VG5maWV1ZWk2SFk1elNOUWRQLWdNY0N1VDZBR0VsOXVQOFVIV21mdnh6NTdpWHFGYUU3V0g5SUd0VlR4VVJic0dhSmpON2dfRzk5NkZWQ1RLRVpKNU50QkVKQXpaemJjZzBOMjRyS0NZMmZzQjNHMTlKTnF5NEY2cllPTFZKa0dvSXVqeEhKSXMyLVhDQ1ZPVVVOSlN2TXhTNWI2TVVxRWFCN1RGSmtrVzZMUF9ubG1vdnNxXzBQdzJqWDROd010OUNyeWc2QjUxT3hYR0JoTGRRYUhfa05vY2NDd0YxM28yRFdHUEZiM3dCWWZOQW5DWGVrYVFGX2VYQU1mYjB3UjNCM1ZxRllUT1VIZENjOFBqLWpUZEFRSy1RWUJTc2pSeDhaVHEwX1M2SnFtRWpKVElPYTlKVGJaSVFmQl9fdVlQRDVRQXlPRU5PTUJ5M0RNTktoWW5Vck5JdHY2WVBVUktMbmxtUktfYnQ4SGl0NENXQjdmNEVkcnlvS2ExWVhPWXViMms?oc=5"
-    },
-    {
-      "title": "美向中東增派第3艘航母及近萬兵力",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNU3RyZ0JlX2ZaS0hRZ2RZaGV5MDU3bTduUy11X1VwQjNvd082U2RGTEpTcHYxbFpQUXRXM09RUWRudkprejc2Vy1UbEl0eHIwbUZ6S1ZPVHBYems4N3BHUU5zYlF2a0NnTGN4M0ZDQ2pSRnh0NnlkX2hCX1hIckhpNG5ZN0cyWU9WbWN6bmFBSF9aRkozeFpDUkRLTVFncEk1cEdPUXhud3pDNzQ2cnNrNlNVdnBmNEltWkQwRkRrc3o5eGprYUctU3hDbXRpSFFuU1ZVRzlETmRGWDN0X2FLOWkyVHg3U01kYVZtNW9WNnBGTEY5UFVEMG5fUXdwLWlsMEdpRjVMNVVudHROU3BDeWloR1k4dXBNMEFB?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股初段升近1%或以上 國際油價跌近3%或以上",
+      "title": "道指高收250點 納指觸及即市新高 聯儲局短期內加息預期降溫",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HbzlPakFORVkxXzhnZllqNXBXZWlVWEhTeURpbmJxQ3JTWGkwMDNxamRKanFlbHJJMTBtTWUxeEFzeDUycVgwWWcyMlFKLWdfbmlWTUlWc2IxdnBoRHNFajdnM1Vwc0VjSkM5VXlOUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tQ1hndkR0R2pEU1FqMVhEZTlqUnFGQ2h1ZktnSE9ta1pFa2c3aWc1WmhYd203ZDBUZEUxcGx5SzhIMEh5NXUxd2o5R29CVlBMeDNraGNzUmJ4eUR5dW45UHFoRGpwYTlBcmVvSGtaVQ?oc=5"
     },
     {
-      "title": "美股後市看AI龍頭年化收入",
+      "title": "政府缺水發窮惡 歐資回流炒美股",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSlNmNmNnSXFsLWg5NUpzRnNhZGs0UmdwdllHN25SaTV4blcwZDhtWUo3SzA4d05YYmk3cm9IUTdPajZUc0EtTFRndGNKNzA5M3VlazB5R3N2a0Vqd2VmOEluUXBJbS1ZTWNJVnd3RzlEUEVTN3RqWml0UlY0ZmxaNEQ3M3FTZlp1RjJjQ2ZTX0Q2dlBkNFFNWi00THV0S2RIME9iNlVGLXR1RVdiV0VEU191VGczYWMtcFJUcGpZODFMTjAydjVhbF91M0RrQzRoeF9WancxTXU2YjNPZnJWRjJGNlVLRzc5b2FTOW5xVzBUQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbEkxbnVXV0xBSWNTNVNkczJIX21rWjRwUDgxYmdCZ3lLQV84VUlFRWFNQk5CS19YV0cyS3hTd3ptaTFkVzNVWE5mRDVNVDIzVXFzT3M5c215Ri1BT1FqTFdmbGhtWE5RUmRfdngtX3VqcU1OVTNaYjdzYkF3QXBfWDBzRjJZcFRjVWdyc29YMloyNWRGSXVFUVRXNWJTNi1DVDVfVTRUVlJ6SzVUajgwdlRia2VfMFdRdE9JRjBGbjBGUnJfOGRkQ2hMM0hPbEJIUllNQ0R1NE8yZWx1Uy15aUdyVGpEZDFiQ2prU3RJVHNER2gxTUtpbFctV2g1WkhfX0dqZDlUMnBLTGJvcExGMmkyOA?oc=5"
     },
     {
-      "title": "美股風險持續升温|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUEtLVE1UG5CMndmcEVzY2pLc3JUeGdDY0lLWEdiT1NyUElTWGxpMVVkTUxwVFp4LURDMkNuSldGT1RMZHd4UTRINEhuQXl1QVp5d3ZLS2w0WW90QkVfdFpPbTdMYnE3TUZvZTVpYnV4NHdLNDdub3RqblhMQVB6Y0t5Mzh5MXVZNWxySXZSOVZwc2ZwTE1aYWYtY3RYMmdtOWphU1pyM0VzcGFQd3VfMXBn?oc=5"
-    },
-    {
-      "title": "美股收盤 | 美股三大指數全線向上，納指收市升約1.2% | 即時新聞 - 新聞",
+      "title": "美股收盤 | 納指收市升1.2%盤中創新高，非農數據遜預期，加息預期降溫",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObERrdDdXei15RTFWYzJ3dXgyNERQakJoeXZkbmNhRWVMdVE5Zl9FT3NFbDExTlhLYkZ5Y1AyaTBqaFE5bHVteTQxdF9ZaUZLTlF5TFVmaWZsc1NjN0FLREVrVFd4QUJtU3BKeXc4aDh2YlA2SkktRUN6ZzdXcEdQOEFBNUpfa3ZaRHdLeWVLNGFWd1gxeGZzVjk2R1cwQnBU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ3VFakVvQXpVWUZ2VDIybnc5N3dMNlVsWmE1aG1fUV9BRHU3MUQybk1od1FZNEZVeENVTF9kR0lPNGs3TmtxQmVveTlXZVlMZVBCRVc4QW15bkNSQm9ha01GLXhfQ1dJaG93V1JtQnk1YjN4SVFyVS1oTmZHUVMwVEh3RWRUOXVYQVF2TlprSTc2X2Ns?oc=5"
     },
     {
-      "title": "收益率急升顯示美債並非無風險 長債利率風險不容忽視",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkOW1fVDQ3VVdzVEZiUzdBbF9naHZBLVlCcklXYXlsSHpvR3dqXzdrdEx1WVRtY0lDaWFQNHBJbTBKMHEwdmwxZTYyMWd2SUxFd0VJWDQ1SnB3YlN3SUp6Z1A4SG9ueklBZW9hOUE3N2Q?oc=5"
+      "title": "美股收市｜10月加息機率降至2成 納指漲1.2%曾破頂 道指升250點「馬斯克孖寶」勁升",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPb0FIRVR2ejNIcE5tS3g3STJBSnpTYVM3cXdleHZvOW0ybE9nUVpzSzRUUk9rTkVfdFI5azhHUE9NZ1Rmb0oySVIyYWd3aFNYdW9NdjBhZ3VKREFTRmR3NmhFOG90Y0ZaTWFjRzhyY2JNN2x3OTJENWU5MG1vem1lZmwzQlo0Y0dXOU44WGFuZF9WLWdwVWZPREg1Q1AtT2M1djhFNmRkVC1iNWkyalJicmpHdkk2bWMtblN4dGhzYVZmR2MwQlVNNWxiaUxtSzRORnhwcHNyQTg4VzRDeTg2VHdEWFdDNmR5SmstaWFBV01hLWVUVVpkTmE4V2d3cU1lY004bEhCbTg0cF9wd3dhN2FVRmpxMXlKUjhvMlpyNjlFSHpwbG1PUG9SMTF2cVJEeGRPSk5NeFAwOENrOE1ZZ2RwTTRzS3J2NTdqWG85bjN3N3hldmtsQ0xoVzFYYmxtNEFYaDhxZnNlSU05eF9XUTBKbDIwTHp0UWVUYV9EaENRUDF5ZFZwdmgxQ29Wb2VUS013SXllX0JhNC14REYwY0JMaVJKU1o2aXI4OHAtN2FJdkp1TkNrWEVGUDVnVVYwVVJhQWc0RjEyd3J4a3hjOVFDVUU3SXpiSGs5NVhjVEtpM1diVTl2WXZJVGN3UQ?oc=5"
     },
     {
-      "title": "下週前瞻：聯儲局紀要與服務業PMI重磅來襲",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONktXYjVHZVFRNWhQNmh5eWZKOF9uS1dkcVlLUVJhN0Z3VkFmZkR6UzlvMVNPeTRBQml4NE1SOTl6enkycHBvTWo4dU9sZEFvXzc3a0pUMDVsVEZmcmRSOUM5djNBYmFma3JNYkhhYkg3RFU2V0ZLU0JCdk1TWUdhMEh2d2xyT0p2YUp4d3dETHVJMDBzbzMwU0hQdF9TU0lIU2kwUXRjbw?oc=5"
+      "title": "美股日誌｜納指發威創新高 加息預期降溫",
+      "source": "stheadline.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNYUY1b3V2R2ZLaUNHVng4TncwblJ4VFg4NzhHQUc4eGtVWU5xSjQ2R3hCSGtDXzc2b09BZmxTVXVkTEtfenI0U2VYcE1PNEJETm5ZQ3FrZ3RaTk5MSG5HdFZyeUs0bWdQMWFPMGhfVnBrZTNmZTJSRGR6aVZtVGhXREdPMXptOTkwM0V0U0w0cnktNzJkZTZzaHFpTC1TSlFfUzFUUUtlTERYeGZrM00wNTl5VV8zbFhKeU5qejRodHFrYlVEZE5PMFljMHU5NnR2NnQzMkx3ZG1oMHEwQ1Q1WFcteVBlRWJzcmxUY2lrMEwtcnA2UVBMYkZhdmdKMHJDSk5HR0ZnVjNGbFljMWNmckpMMXNhMEFZVXkzRnNUX016NUF2bkdtc093?oc=5"
+    },
+    {
+      "title": "美9月非農爆冷！美股收紅 輝達領漲那指",
+      "source": "Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSmNxejFVQW4tUHd3QWdoc25TbHZELTF2c0tYTWtZb0JGUmNzQk5HZ2p2b0ZmRDVZeUhYWEdVMUJQMkM1bDZ5Wm11Y0Q5cGd5X1hhZnF0a2pLU0lNRUwzUXJXV2tvdl9RMjRFRkFwQWxQT0xhZFFsTDFuaDBYU1IxZ1dJRVNLYzNUUDZHSGk1VkdhX1Z4QkFRR3hCZEhwd05KOURiemFOdUxacGJFSUh1ZlNndHhmdWtzTk4zQlgxeHpVU0pmTEtDSmZsM0tBMFdSWlFyNDE0eVNxUTBfbGlhTFVCSFRRUVVVS0JTOUR1SGx0U1ppb2RlR21PYU9JWkZwVlY4SUFORi1neFJFSy0wZk95WTZUUnc?oc=5"
     }
   ],
   "events": {
