@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-03 16:15:20",
+  "updated_at": "2026-10-03 20:20:39",
   "gas": {
     "current_label": "10月3日 (現行油價)",
-    "current_price": "190.9",
+    "current_price": "187.9",
     "predict_label": "10月4日 (明日預測)",
     "predict_price": "187.9",
-    "trend": "↓ 明日預測跌 3.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "巴西總統選舉為何引發國際關注",
-      "source": "紫荊網",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa3FybzJxMTlSdlZWTm5XN1d3MjNoTENpV3JLaFllNTJFR3hXSElUb0NYZGVxZEtQeXkyUy1jUTJNWXRmcEtlcmZNUjFSRXVDdnB5R3lOSXNibWVmdFZzSDRoX1VWVFNMUnk1MnZqcXhGUzk2V2hNNWRfV3YzNHV0dWI0Rl90NHZiU09RLXhtNDQ?oc=5"
+      "title": "澤連斯基：烏克蘭將加強打擊俄羅斯煉油廠",
+      "source": "rfi.fr",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPQWJZMURnQnRFOENvZTV1YmVaWjgwMXozampXZDl2TnZHNFFRYVR1NGhBaEVqelRXY21oR3RRNlgyR0xmN2lSdV9ZR3dpMnlxc0RtMnl1Mmx4eHQtTm52enJXMUhYYVZ0N1FHMUVkUDhDeVN2UjNOdTM4WXZFeWJvZlFQUW1tYjN6UzQ4SnVKbVQwYlYtVERIbnVXeVdEVTRTTEJMSl8zaWlVcVBEVHd2SlFIZEtwbThSS1hhMTBzRDlRYm9fQVNBRHlRU2FZd0wybHh6SWN6Yzl3b2hsTDh0RVZ5cFREeEcxOENXbGF1bmU4Y2tqWmlSSjJTQl82XzRvYU1qbmlzcmRUbHNaak9RZWZ2STV2alpiTXRFUk9nSXo3V0VjeDJCWHZmMlh2SHdXR1hSbTE0Z1c?oc=5"
+    },
+    {
+      "title": "白宮成立人工智能特別工作組，評估技術風險與機遇",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNZnBUb09VNWplVXdMUFFzSVdkMmhxdThXTHNRZWxWTkI3a2xXdFNXRTJEZWd6djVyVDRnZW5ZRXlOXzNDdS1idVJockZ0NWt2N2xONHNPQzRlUEdfWXJqdGVIZkhaa1JZMHh6cDluUFR5S01ya1UtYmRXclpWUmltTldCbC1LVVNJQmJuVWRxWFBjelkwbnMyM1VnWXNDclMtYnM4MkdlU3oyekROSnNZVExLX2hldWc3NlFaQzE1dFZBVFcxTzZpMGhaMFp4azRfVERXeTV2Mm9ybHMybnROb3BmdVVpbDFMQjlncnZNNG0yM3VnVU56TXRDenBscERqSmdjekI0OWprLVNwbVUyT0d2QnRhdUxXV0FCdUtTUXUyejNlRUw5NFFsSGxmQ2tyM3RUYnNQS19GTllhVEhvMzMwM2FDaGdmSHBMZFAzQjU5ZVhCQUFTU1o1ODk2NlE2azBsY1owTQ?oc=5"
+    },
+    {
+      "title": "美國田納西州死刑執行失敗事件 懲教部門負責人請辭",
+      "source": "news.rthk.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByTy1mM3o3Nlp3Q2dqN0p0MGNfQ09tb3NVUUFudnV1SkVodVRmSkZxbVdMWGpYYlhoT0l6SWY2Q1RZRndwMll0ckpLTUJFLVo2a2hYdFh2dFRqcFQyR2w3LW9NVUQtdTd4aWJkNDJQVQ?oc=5"
+    },
+    {
+      "title": "俄烏戰事｜俄羅斯稱繼續攻擊基輔　呼籲外國人離開",
+      "source": "881903.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52Y3hob0VBN0RjOElvVXFIa014ckJscE9qZXBiWEgxVE9YRkUzcHdwX0g0YVlRYzN3Z1dLcC1VaEZnUVNRTHk0RjZZZTFUTWRzcHBJZVAzZ3pjbXlQZ0Jac3lxVdIBY0FVX3lxTE52Y3hob0VBN0RjOElvVXFIa014ckJscE9qZXBiWEgxVE9YRkUzcHdwX0g0YVlRYzN3Z1dLcC1VaEZnUVNRTHk0RjZZZTFUTWRzcHBJZVAzZ3pjbXlQZ0Jac3lxVQ?oc=5"
+    },
+    {
+      "title": "美國一架小型醫療飛機失聯 海岸警衛隊正在搜索",
+      "source": "news.rthk.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpa3J1amlWcFQwdXRVMHRrcEl3OUZoenVpeHp1WFE3dDU4Y3pfQnIzR0NCUVdPUEVYVzNhcFhOWXBmREpkVnEtRTFXNDdkN3NlOTVFZ0lSblVWY25KaERkS2dmVGJTbHNJZk5sYzVfNA?oc=5"
     },
     {
       "title": "澤連斯基請求特朗普阻斷俄中衛星企業與馬斯克“星鏈”的競爭",
-      "source": "RFI",
+      "source": "rfi.fr",
       "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQWm1zLTFiTzhkUFBERDNzQnB1ek9NY19UWF94VXM4RXJpWXZLbDNfdXBBeGRjbGNJLUU1UG5QTkZ1SGlfVjVhekhUWF9YTXNjakpSNDBlRTlkbm9fWUNtdms0V09Ndm1LOGVSY0xFcFhKWHNLWmVTeVRHVXNjdHBZelRfTmZkcXJxSlFDdHVkcEhSNWo2Wk83clVzZWlTX0xsVzhDNHhoSUsyVDhrbzAxN0Y2b2ZvSUJOcnh6RVpYci1yNndiQkRUMUp4SUZzTklKaU12S1dRYk5IRUtOeTNGa0hCR2xUd0VKcFdGc1lzeVJSMi1Dc3VPNXB5anVrZ25MVUQyVDNrWmZsVkNpb0dPZlg1Nm1EekpkNnE1QUtZSnBKYmFTY0pQWVA3cVpoSDhXcms4TEcyVzE0MUpXQ0xhNWk1ZU5pUGhUUXhpZXhsOWh2R20zZXdRYmp2ZDVodUVNTFFmWE5mdHBYZjRjUkNZb3hpemljREJtT00xVExlYjloeExXRUd2WnI4NkVDMV80SmR2NkdpamQ1Zw?oc=5"
     },
     {
-      "title": "美國安高層疑秘密開會 討論中東",
-      "source": "東方日報",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPa293RkRCWWpQTnZ2cXBLajRJOWc0ajJXVTlyeGhfTm1lVW1XYndUcENZYll4WGNvTkUzTUtjNXhfc2dUNTUwVlI5NUdZU3ZULXpJRFM4OTZTRjE5WnYzeE5BVGpjMTNHaDhQNDhQYXl2ZF9Mb0s3OGl6S3hXbV9iNm83bm9yZUVsZFJNUENQSnUza2NaOUQ2ZGo2WGVaLXYwSm9JLTNEOTR2V1ZNUFJUa2xWRng3b3FweDBoR1pqUUJhSnhhRWVhVmM0QWdVSGpFRFZBVkYwYnJDeUp0WkRLZUhTMnZMVnJaLUNQQkRYbGJ1MDZLYm1Cc0VLU2xPSWRPUUtHNXVHT1AwT2Zwdnk4bHJEQVhlRG12b1hEZnVrei1kalNRRHkxMzhYaGE5aE5HUnNMc0pZQURrdmxJY1RTWVkzWFBYaUkyYU1fS1h3?oc=5"
-    },
-    {
-      "title": "中歐貿易會談在即 中國對歐盟發起反傾銷調查",
-      "source": "dw.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRnpOaXY0NFFXdml0YlFTRWFrRzQ0b1FLMUx2ZEc4OGdKckc4bUdrVGROVld6THlKeHFkVWE3cVNNOXRYRWZuY1JucUZqSjI3dk9uTU5uUmpSNUlsZEhRZzlfamd6QUhHUlh6U3NaXzZQVmxlb3puZHJHSnU4QnV6OG9TeGJzazQxMFQwNkRtdW16R0RiM3JuLUlGWlB5SFBqclg0MTBEeEJDNk5oazRUWC1MVEp5WXdfZUhVS3lBd1RvaTdTVk1KT19IeTE5TlMwYU1tdm55aUVQQzI3WFdndXQ3eGtXWkFTREdhemxFbXdVUk5ES09jdjJrZHFvQkZ2WWRUT2VOckxqeU1TWmpwOU1LSVpjZmR4eU1jTlIxZXhpNFlYamxSUHYzaHA4ek9kYmZwcUZaWEFhazV1OTZEc9IBwAJBVV95cUxPeEEwX0Z2bXV2UDdCenFIM1RwdUdmLTZVSm8xRy03c1dxa3B3eFBCT0l4djBOX3JETkNJTDVHQko3Qnh6Ykl5aGJscGRKT3d0Y1ZjWC1RdVMzODV3aWh3Zld0MmlkUk5RWkp4OU40cElLcWpHeG9fSjZXdEs2eU4xd3o2Y2V2MEFIcEk3V2k1d3ltLXRJc29ib2k1SWFRN2FjTklyMlRNMWpQYVpwUXJOTC1iVFZvSmlLdzFjdjVaSkRxYWRSdHg4RFpLRkpfbDRBM0w1clNucHNCcUEwdkt5eWNUWUxsZFQ5X2R1VVNaMTlUd1hpS0p5NTdfVXdoeTQ5Nm1CQllhVTVxWFNMWGtqSDdoaHRkSTFJUHB2QVBXdGFsSzJJWUZIS0duZk1vczgweExXMG5NOGhmNDl5el9GdA?oc=5"
-    },
-    {
-      "title": "白宮發布川習會花絮照 習近平送川普「金色太和殿」",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCWFl0cWU5a0RCb2kwSXlONTBVYlQxODZKRE9OUWF2azZBQmY5LUk1OXM5VFdCNTgxVU1hcXFCX3dNVGpmVUdpbm1ZQ3FNVll3d0tRN0VLcmVyTUhOR1VuUm1nLVBOajDSAWdBVV95cUxQQlhZdHFlOWtEQm9pMEl5TjUwVWJUMTg2SkRPTlFhdms2QUJmOS1JNTlzOVRXQjU4MVVNYXFxQl93TVRqZlVHaW5tWUNxTVZZd3dLUTdFS3Jlck1ITkdVblJtZy1QTmow?oc=5"
-    },
-    {
-      "title": "「GT全球系列賽第3回合：新加坡」揭露10月「Spec IV第1部分」更新檔預告片- 快訊",
-      "source": "gran-turismo.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRbllyN2dhc19WN2syaEpzalNnbTNzanFzbEIxN0dxV1hRNHE1cXJaZ3VNYTM3b28xZWV1Sks3QWc2NlF0V2E3YllzalA5bEJKNmNtendZazcybzNnMXJDWE5R?oc=5"
-    },
-    {
-      "title": "Hayward的空氣品質",
-      "source": "IQAir",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHTjdob0pmTXFPdXBOUldGdXNtT25uYzk0VTJ4NnVDWk1fVDk1NFNXRUNoR2dsWXVEanhndG8zNWFmemVaVE9zV3NWRHVVdDhRSmhRRWlKVVdtRnA4TWEyaVVMRFU1bFlDclJn?oc=5"
+      "title": "羅淑佩恭賀港足首奪國際足協主辦盃賽冠軍 繼續全力支持本地足球",
+      "source": "news.rthk.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBQktPTmxUcU1QZVFfcGR2Z25mUXlJalA5eW5fdGNJeDF1bmRvbTFmTE16ZGpLMXZwbWlxOXNOaTZ6MFVfcjNBVGNER0NVb3g5UHIzdGFFMUVCUGNZbmx2Vi1scmF3N0xSZTRuN05CTQ?oc=5"
     }
   ],
   "news_stock": [
     {
+      "title": "美股第四季勝率高達85% 今年有4顆雷要小心 | NOWNEWS今日新聞",
+      "source": "LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80cEp4Wnc2aUdRaWU0YVkxS1VrWXFRdEFCNENDYTYwTGJONXFEaVFLS2l4NmtCdjkyN2tldF9zVTZSWDFiOGotNDdfanhOYTY5aW0zaUpR?oc=5"
+    },
+    {
+      "title": "貝森特淡化美債收益率上升與AI泡沫擔憂",
+      "source": "觀點網",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DTGdCcHk2TVpvRlFxSTBKdHlJYVhCUk1KTTE5c21sT1NqX3VxZjNWblU1UW56N1JNSURSU192cktpUWhLbFdyOElvYk14djNkN0JGUHQ2Z3JoZDljR2xjQ3FuMVY?oc=5"
+    },
+    {
       "title": "美股十月有選舉行情？ 3關鍵左右走勢",
       "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wd1h3WVd5eThOaTVJams4WDREYzFOVlJwSTRjOW5EWW90RTRRbEFQUjdUQ3F3MUc3TTZaQk1YamRwaGwtV3V1YmhiUzhBSlpl0gFWQVVfeXFMTlVsNGFEQmhpOG16S2hvQWJHNnhRajNfSUpMY0V3dTVXd0hfYkYzcmlpYU1yclMwMmJpaGpiNDV3RUtpVWRmQk0wTTcyaGNPT25MRUNsWEE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VbDRhREJoaThtektob0FiRzZ4UWozX0lKTGNFd3U1V3dIX2JGM3JpaWFNcnJTMDJiaWhqYjQ1d0VLaVVkZkJNME03MmhjT09uTEVDbFhB0gFWQVVfeXFMTlVsNGFEQmhpOG16S2hvQWJHNnhRajNfSUpMY0V3dTVXd0hfYkYzcmlpYU1yclMwMmJpaGpiNDV3RUtpVWRmQk0wTTcyaGNPT25MRUNsWEE?oc=5"
     },
     {
-      "title": "體力變差？華爾街日報：「川習會」中方要求配合習近平休息",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUVplS1RTXzJlejVtOW15eWMzLVJqd0tLZW56Sk81SnRZR1FFU1hKRGZ5TlpGbDBvaURZUHZiYVV6cDcwVVVGMlN0LXFTa0xISlVJZlAyc01IcGtZUUJneHlYVFRPVjBQdGNMWFdVcHJaYkh2QlF0cHBNQklSWm5DQWQ4Q1luZWxpQjRmajZsa2tESkJzTXNkSUwwaVRSc3BubEVKNVZ0Nkg2ZDdZY0puVWxlS1pSZzdPOTA0WXhCbWtjbFNlZ0xqYjF4T2dlVkh3WGg4TG5QWUZZd2Nyc0FXZzBDTVJtV05feWRicUVjX2ZxVldXeER3NlVmTmZuZklrZ1ppVEtDSkp1eFZPeDdrSkhBdXF5R1RWRWJJeXdnc3RkYUJidHlMMU9SOGRuY0lIWGxOcGI2NGwzYVNWY3FNUVZFaVZfcUtLZ3kxZWZGVXYxcmlHUllQRk5VbWg5ZlVGbUZPdEMwcmdHeEs4VHhfSjlaN3B6UQ?oc=5"
+      "title": "美股Q4有望迎軋空行情！CTA持倉急轉空、1.3兆美元回購潮將啟動",
+      "source": "news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uVHpqOXJjbFdjT2ZOd0ljVzgxOFdqdnoxWjFKLW91ZFR4MUVCTURKaVduZS1nQTQ3UnIyOXd0eFJ2d2VMU0NGbVNUNk43SE0?oc=5"
     },
     {
-      "title": "記憶體巨頭SK海力士赴美上市在即，你需要了解的一些關鍵資訊",
+      "title": "【美股盤前】波音漲近3%，Moderna盤前重挫，市場聚焦PCE和美光財報",
       "source": "TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdGcwZEUwbFIwbFVWTXZ3ampvMUZuX205NzN2RnNIUzg0QmhMZGlfb3AzenRPa3dUSmdmTUIzZHBHM2NCWUFOeXNtX19wSXRXbE9HMDBfTkcxSDNjb29qakJlT1BIN1Zhem9kbDVwcm1lRWg3NXNhUWFQbkdDc1luWlYxdURvc1pUWi1qZW5Ib1lqYTl4c2pBWlJiX3RZYUE1NldJT1l5NC1GQS1oM2VHWjhtUEFUWXUzLVNOcA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdFlqVHlwRE9GM21VdTFVWm4wSDNMVE1DdXVJTWNvMVl0cks5NXlDdnNhSUhqQUQ2SUEyMU9WalQtOGlOLWpKMnVIU05UMHZURXNOUm8tNXI5TVU5TjE3R083bkFjaGZ1RmRaeWFjclNLRWtoTUhXYjZTcXRmSlZiUHQyUGFabVdNWGpHbllxTWdRbWxpcXNZWWZIUGhYOUN1d2RkcW1iVmkxY2J6TW01TGtsZC1rZWVoYkJ3eDZTY3Y4NUkzNW13?oc=5"
     },
     {
-      "title": "AXT Inc (AXTI)討論區- 股票評論- 股吧交流社區",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VXzZDWkRwREFQM0RlSUU3Q3BSMGdoaEw0T0xBb2xWanpJVG1va2xVU0xlRTVYT2YzYWwzTEt5OHRBYXd3VDd2WnZDNVRsWXZtalpSUDJrdXlvT2JMNjQyOA?oc=5"
-    },
-    {
-      "title": "歐洲股市反彈 得益於債市壓力緩解以及科技股上漲",
-      "source": "flamingwheels.online",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RcVpBbWQtLW9acTRubTVZSDJ5ZEp3Y3BuVDB3X2dfVmpMUFdMS3M1cFpkOGlxdzhmZTE3VWpVMjlfRzdodkJZd3VuVjM5eVdfZF9HZlo1TEUyOVlqd2twV0VZX2lmTFMySi1lb1EyeWlRRVct?oc=5"
-    },
-    {
-      "title": "一週展望：FOMC紀要或揭開聯儲局底牌！G7放儲能否壓住油價？",
-      "source": "富途牛牛",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHAwb2JzcTR1RmVNXzcyWVAtNFF5NTE1WkwzYkM2b3FpRWtKdUZTX3NLZVJTaWEtcGJTYmpZckxTcGNiaHVOMUU4dnRxYXlVQjFXTlV2S2JWOTI3MDZiQUJvNlJqclFxRzFPQTJvejdjems1aHJjb19tVzY3OVp3ZkZPdVlNamNyOGNMYkR0YzZ5NlNEa2ttVjBtS3U?oc=5"
+      "title": "Nvidia受捧 市值曾逾5.7萬億美元新高 - 20261004 - 報章內容",
+      "source": "明報財經網",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdEExcXlVeTBXTEhRWUpKOUgyallEYklwdXVUOGhQWjQxZ29RSkUxX2RQR0p6SjBwdWlEZmhUWFNGNnBINGVaVVdqQ2VSN3oybUN2ajZ0aDdyb0htOTBBQjNla1YwOGUwU0RpUjZWejlWMTNnQU43TzM4eFBkV3VyUzYzcW9uTndWRE82TG5wUE5iS0NrSU5YcjJ0QXp6SUR4cXhGcHpMaFplajd1cF90bUZyc0hOcjN6dDdXX2hwRFM2WFotNXBpWTFEcmNndnRaTnI4Q3JUcWJfdV8zNlhYR2ZiX0c3WW9KSGdTN09rMk1jcTlHRlQ4SENCWFB2YXR5d09ETWtIc3lZNlE?oc=5"
     }
   ],
   "events": {
