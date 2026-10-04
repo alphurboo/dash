@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-04 07:15:19",
+  "updated_at": "2026-10-04 16:15:18",
   "gas": {
     "current_label": "10月4日 (現行油價)",
     "current_price": "187.9",
     "predict_label": "10月5日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "187.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "俄烏戰爭｜德總理默茨突訪烏克蘭 將公布13億歐元援烏措施",
+      "title": "加拿大為何要為（概率極小的）美國入侵做準備",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xVUNsSU9UQnRUZndLUDFlandXdjZjOEVIVXlHYXU0UllXRHZ2M0p4ZGxQN255OGlQZksxcWY1WWkwSDVDOXdxRl80Z2lhSjF3S1QwOXlIdzNGS09WRVk1TktQaFkwLUnSAWxBVV95cUxOa2JFcC14MDlHVklIN1Z6cHVGUEZvMW5jZUJ3YnBRWHFYY2FyNzhFaElfYklXYVhPOElTc3d3am1GSmdIMkJobTdlUWIzODh6ZlVYa1pBNnRsVkpLSUM5bkU3RGE5dlg1bE82Yms?oc=5"
+    },
+    {
+      "title": "俄烏戰爭｜控俄修例允可襲學校、醫院等 澤連斯基：加強攻擊回應",
       "source": "i-cable.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPbFVYWHdZOG5BLWpBd1BINDlEUVdyVFhlQ3g1LXJLZDBHNVlVZHJxWThqSjhPeWtFZ0haX2kteERFcktfWWVVd3A5dUlfbS1BMjNNOGNoUWVybFExb0dfVUtESWo3V2hzQmZIa3MwSlhMSXVWaEVpcEswNnVZb1hoUUxHaGJneGs3blhsS0ptOU51VThOcGpWQVNqNUNZT2hsd1RrdlA1ZTV1YW1ySW5yREFtSlRRdXBxRjhVa1pvVG5heXRIbGxlMVdEd1EwcEFxcGxEWkQ3N0Ixc3lRUUdYdWZuanhkMzItRGVyWDRKU2pyRklrdjB0dG9fLWEweE55QnNYUlg0Z29GQU9PSjl1Y0pkNmNYd1N4TnJYVGRObVhqWVlvbjhIcGVray1MU1I5VVdoR3cxYTJQRm42Wnl0ZjczVHBrUlhKM3BMOXBhVExjbkx6VjVaSTNLRzNKcXNSQ1VmRUhZbGVEcnBU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPeWJ6aUNYd3RMYXhHczVWVW5DZE5ydlVHM2d3TFdfN1dwRFRjWUozaFVOTjdqeW4wUnhVd0F5R2dEb2JDLVdmX1RScmR2ZldCNkp6U0ZpZnBYbTRjdHZtSHdDNms3WHM0cFo1Yk9zMG0xTFZMTWhTV25rVWlKSEpiSndYU0wxT3g2SkttMTRreTV0ZWZoa2RXS0xJZmF0ZTVrMXc5REVXY3RPZmxnRUJWNm9wOXM2SXVodHphdHNSbG5TZkl3NFkzemZCUFZma3RVZ2E4ZDN3MjRtR3JpamlYdnFtRmVQMUZJWmF0UjdDS21LT3dCdk5HV1U2NkV6bkdvMWdrVXprT2w5Q2xWdk1DeDl3UmpDZnVyRkVtUHlZN0VPaW5MVU1jeV9iQ3BkdFZ2VXpZZDhsbmVMNk16MFExLVBDWlh6N29jSXZSLUJ4ZUZxMzlFYTZUdzAwNWhrbVU?oc=5"
     },
     {
-      "title": "全球上半年新車銷量：油車佔比首次跌破50%",
-      "source": "日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nYWxwMlRrMThoNTNIWHdqc2RrRWphMU8tSEVOYkdkelFGM3hIOGppTGYxQ0ZYbzlVLXZFVWQ4VWxvZzRvai1lc1hRaXhzM0I2MXQ1LWc3Mk9ac01TaFFFU1JmelhyUk1nUE5FWFk3ZFdPX2V5NTRMVA?oc=5"
+      "title": "華泰國際融入全球價值鏈 服務企業與投資者跨境需求 灣區金融發展 - 專題",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOTi1EZmlhZmlaS0ptRFpkbzhETHVaLUZ5ODVFQ2JhSWxrdUdrbk8xZEFBcGl4cFJTbVB2THluczVIejYya1pyVWpkUXJtTmc4YnVjaFBLY1o3d0RuemN6Y3NMcmxQZXlfdEU4UDBidXZyU0hrRUp3aC1VVmtfRGZ2Xzg3VXJiX0xtOWROUUhjbjhLYmZ5QnVTcDFTTm83dDcyb2ExRktweGo2YTlsSFF0TnVPVWlLTHA0QlVPQWZtWXUzT0lqejVrSWxFdDRZZGZsWVJiN0JGSnVXRlp0S3ZmdWJlT2ozVXR1Z1FCUm8yMWlLazZzRlF6Tlo1ek5sX2k5elFzYVFQMGtvUWtTS0ZISUl2SWJEa21nY2F2OTFhbDdDSmJKOUJhMXFhSQ?oc=5"
     },
     {
-      "title": "選邊中國還是美國？巴西大選的左右翼之爭",
-      "source": "dw.com",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQcDBCZ1E0SnZwWFpnbDVuU0dZc0lFVUJ4TUw3YzdVLUNxbVQ0WEQ1WFAwN0I5eUhlSjNGVW40b1dOYk42UUZRQjNWV1dIUmF0Tm9VcVp4Z0p6LS1keDVlM1VHSXRMSFRrMk5WNEt5Zmkzdl9tS2ljSXk0eXZ2MndnRC1YM0M1azl3dkVvd3BCTzRIYzJGTkVLdHJka1pMcXA4VklBQVhnUDBJeV8xV0VnU0EtdFZ0N3pLVlJ1MGRVXzZmUTFscmRjQzFIek9rdktoa0xNNFZ6ZC1rd3VWVnVrUjl6RVBJZi1LcTJDU3VBRFpOMDAzU1lONmh5TElEWXRpZVhDaEtFRkF2Q2pIUXJNX0VzZVQ2ZGdPcmRQN1FxMDVRNVVFWUpz0gGnAkFVX3lxTE0yUG5rd2M5bnhZQnNpR2hRbTRFb1loV3JrbmVjczZMWVRET2dPa2dBYmZrTTZPdHFvLS0xRmQxal93S3l4SEt3a0RtR1J2RC1PaDdLVzlGSWZ2OHdIdDlxSWtmZF9DZkIxeTdUUDZtMlluN3JEb3M4OFhlRFg0QjFkc1VDcmxXZFF5aEFtTnFyWGZqYnZFR2VUTnlmblIzRU9nakhoLWJQdGpfVFBJaVNrZC11clFCdnJwaEdhMGs1NDBRNlNLOUVraDd1N0ZRX3VtWG9aZzZfa2JyeG41Wm9zNDVlVVNIYW1RZkpMQWZGbFFiaG4xMzl2OFFtSTkycEFSeVd1aUdSSlpwVm1IN25jS3h2dDRfQk0tc3h3ZS0wNDVSdlgxcWM?oc=5"
+      "title": "危機的前奏？全球債市拉警報：長端利率飆至數十年高 高槓桿平倉放大恐慌",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNSm5LNlQtXzVucVhTaldJRVFwX1hfSXBscHllMUgzTE03R3Z6NXVkUDdRUExUU1dMdEpzUzlHWXN5V01HQnNsODh2OERZWldGYnZHN0t2SkVTSzFwUEhJcVFmNEJnRzBLQXd5Q1lIN2hxZWRmUEl3Tm9vdDI0ekllUFQ0R3AzMlk5QnVxYjM3LW51OWFkQWdsSnFvLVB1ZjZxLWFEcUtQV29tUDZVaUlxMWlrN1hDSjZscmVrS21qdm51VjQwQVVBTF9PUEN5RkJxRFRBNVd6UUpPV2F5Vk9sSk9OSlVKYmNrNlBoeTcybEF3d05ybXNiajAyVm1JMVRVdk8yQWN1c3RQYUF1YUtmcFVLWmtWRlQxd1Z5QUQxWFhOYzB2Q2xhTmE0YlJiQ3l2T1BXdi1ESXhXZjI3bU5aZ1dFbURQa3c4MURDY1ZLWFRGREltTzd6enRyU1dCSXgxOU1RanBpQ2h3c1FRN0xNTzdLT2NmYWZ4bnM1ZTZNbXNrSm0zdGdFUmQ3b3dldDdOSEF3SUJtVXRjZGtTeGRGaEx5Q2hRVlJXZnpHSkNDVkhiVGRRbjdoeDl4N0EzdUEzdEdFQ2hYNTVXX0RJTkN4LVhJYTBMZw?oc=5"
     },
     {
-      "title": "特朗普：外國企業如不在美國設廠 就徵收300%關稅",
-      "source": "AM730",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxONmxHVTFHWlBrY0RoQUNKaThBTld5UUo1cTZ4M2d6YWJXNjgyejJFWTBMMWNjSGpJQ0xuUTNVZERHX1d5V2tzZUJNR0Y4TWNMTmNpZkZUMW5DMGxkTDFQd1JURmRnX19mbm1QYTBXTnVyM2lEVnhRUFhZUXRRUzlubERpX1QzNDZTd1NQOXBycFZwMWlHUEFBb2JqUnZJR3l4VUxKM0JxcFJUcDFQQ1M0RlRRdkFzQWNZRkVueEk2dWZPWTJkaWFxd2pjSUFKRjZhS2dtM2Z4UC1naTJOb0htRFc2M0l5alQ1RXZiYW5MUE03bnpraWZFUC1QUlIwUjlqVUd3TkQxSW9SeTRpUjVneHNVbzVWNi1jYlJFR3NrWjlpX3dPRS0wZkE0aUxCYnNBbnR3RmY1WC1kd2RPSDU1UEQ2NENPV1RLbFFsRzJn?oc=5"
+      "title": "美媒：伊朗兩外交官被美方驅離美國 伊外長阿拉格齊否認",
+      "source": "singtao.ca",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzBHWGZUc1FneGxBNm5OYXlqNm81d3NUUmpoY0lMZEpWOWJFeDd1S2ptRkh5MTZYS0xWNC02NU5Mb04yX09vR2wyRTZweTdodV91LXY5eG5vSFhFOFJQZkx4dlQzMkg4ZXRBZzYwWHJIMzNpdjdFVWgxNFBFWGFPTlpGcDhRZk9xU3FndNIBjAFBVV95cUxPXzBHWGZUc1FneGxBNm5OYXlqNm81d3NUUmpoY0lMZEpWOWJFeDd1S2ptRkh5MTZYS0xWNC02NU5Mb04yX09vR2wyRTZweTdodV91LXY5eG5vSFhFOFJQZkx4dlQzMkg4ZXRBZzYwWHJIMzNpdjdFVWgxNFBFWGFPTlpGcDhRZk9xU3FndA?oc=5"
     },
     {
-      "title": "習特會｜白宮公開幕後花絮圖輯 習近平贈太和殿模型予特朗普",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNa0NFa1dfOWpMRTF1N2huNXN2OVo1TDNSaEpHZUc2QUlicXhQUVhtTzJjbkhNTlVuVklBd0oxSDhEWmZrRnFoVUVqZTAzbnUtV0tGUW0wVGx0NFQ3VU1sSjg5UHFvaWg2XzJ2WUEtdWhzQnhlZ3ZRUGdyek5RU0E3dWlWUVM2a2Y0QWlKenhfUzUxeUlac04xQlZ1UW1VNFphZ2dKY3lodlNJeFBseDViNFFGelhnNDNsZ0VsQk1aMFdfb0lzZzEtc1FiNGNMU3E2bnpEdnp2WWNMTUNjOEVmdWUyajJiLUZ6ZWI2VDlMWl9GYkJFV0V0bEJQU2dWUy1wVzVmSHo4bnBBYUZ6S0cwTWVtN29HOGNPU0JtT2MyZ3ZaSlJHdHplMkJqcUpqSFk4SkxpN21kRDJhdVBNOV90VkEyX0x3ZjFtZzFYTEgtVkF4Z0NlUHNZbWxEWGVVcy1hOGdIR1B4QW5ENE1OY1dNVmdMWXRHbnpkZlM4cGk5cERDYVlkQUhHdEY0eUVuQQ?oc=5"
+      "title": "美國國家情報總監任AI沙皇 將帶領白宮新小組",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxORVliNThjb2s1ZnJOd3VScDBjTEREa3F5R3lDMmI4QTFzWjc3cWV5enZmemhqSUNJZEN3R2hyamI2ZzVKVlpLVVFKNF9WUDM0YjNjSkdNSEhjTUhJZy14ckNUUXVOTkhiZ3duSHNPXzZPaU9lckY0Vk45SE1hVlpuTmd4d0pOQVhmVTRtUF96ZEFUTGttalFuenBobEFMamZqMlZoM3NPTExHZ3VtakdPeTBhT3RHV3VlZUkyNGNCdDhYaV84SHVRbUhwVUxwUnBRYWtGNy1qTnJ6VERwT2FneWFhMy1WOGNvRkFzZDVYal9qMUJMVDlrR0UxeUVrdGJzWkR2ekUzdlhNenVZUUF0YnJUeFlSWVZsSGJpZW9IN1lpWUo1dmpodTBfbEt2ME9JbnlrT2ZXeVgxbzVOS2xxdjlFTTR6YUFRTGdpbg?oc=5"
     },
     {
-      "title": "美國白宮公開習近平訪美圖輯 習近平贈故宮太和殿模型【多圖】 (14:07) - 20261004 - 兩岸",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQZDZiZmpYZ1BMNUx2VXBxRzZhMFpjZS1KaHJLSHI5RWdVeF9iZnNyanpBNXNibG1aYjl0M1lMXzF3UDRNdU1LaC1TYnhtVHlwcmZocGFtNlQ5QVdWVm1XVWtWNjBpQndYNzJCTnVUMUlxakxHakF5ZUJ4aWgwX005LXVEaDViekl6VHdmRk5IM0RCNVdyU25UanlmVTNlZE42a3pVTy1vUTBsU1NEbmlXZW1FREVmdGFTQUF6bVhOXzFmcHRRWGF3Z0hIY0hhWU53MjFVM2xHRUIyMlljVFA5OWp5VGZUS3d4WGo2XzBCNXVJWnJfODRJR2VMdTZhZkFBb2Q3SjJ6elUwMHI5bjZXZWtEU2ZIN0ktLVJrRnQ2T2dYSmpfMzdQM3pGbTR5UHVuZy1EX3Z3UnJobjdDRWFxSTNhTmExNjZ5RHZFM3BaUjlYSmpmUGNNR2RNWlhwaGVRSGJvY0RvUzNCRzdfd1dYTk5IQnhETEdtb1lKLUFlRVRvZU1STF9qcGpZemh1RGpGS0lDdHJ4ekFVS0R3Z051UU9pa1duZ1JSeVQtZ0xWS0V5alRSb0JSYjdjXzlZYzhfZ1A3UlNfbkNzdlJTdDUtV3lzRkdNWjQ1M2RhemJhbU8?oc=5"
-    },
-    {
-      "title": "白宮公布習近平訪美圖輯　兩國元首互贈禮物",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QTlJ3X0VmX2hEaXZkRW1IWlg3d19nM05GNEw4OG16NEN5WVZTWVdtajc4V3FDWWV5WHJHUGpjc3hpbHVBYnBldzVJYk1kUXIzeVB4RUFKcUd6U29yY3fSAWNBVV95cUxOWll2LUtZa2pwZklENm9HZ3JDR3lIUk5ydE1ScWhQdVQyekgxdVpQdzM0TUNfVHU4NVF6dlJIYW5XTS1zTGlOZU9IQllKbU9RQm1pSmw3VVRQRWV4ZmZ1YXBQbm8?oc=5"
+      "title": "白宮被指已設AI專責組 國家情報總監領導",
+      "source": "orientaldaily.on.cc",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPaTJYckEtdlNodE9MaklrREtGMmFNS3RGUGpVQXpKN0w1bG5hcUhKZm1NU1dMelowY3pBcHFwT055YUt5cmtRMGVGNS1jYzNHbVJiOC1lcGRGdW9vUDlsYjljWlVManRoeV9Qd0lGWlhvNV9BQ0RjX1o3bFJTZmp6Z25JQUpZVnFHQlh0SGl5MGQ5cVpMbGRkM3FCbDJUNDJwS210emhzdExNVFM1WDRIcXpfSnFRLXp4cTNWcGRLcUFPV0hiT3k5LS1OMmROcmN1aGVDcTFLVmRSa3lRX242b3MzMkFTZXBDeFhlQ01CYlBndmd5c2ZQclEyN2laQWs5Z1FxS0NKY1MzX2JmclI5cmw5VnBOODVGcnNXQ3RrMlFGbUNQeU9PSXlWOE1Xa3A5Rnc0QnZXNXg1b3ByRkZxNnJSVnlmSUNFUDAwMEF1cGpvWEs2REZsTm9XcW9mdzNmMlhiYndQNWxwc24wNGszeU5VckU?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "貝森特稱美債息上升與全球一致 市場毋須恐慌 「沒看到拋售美債轉購德債日債」",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNUXluQ2paUjRHMlp0QkxEWFpadkZvZDY4YXdVRFY2Qlc5MjRpVVpJRFpveGg4UzJITnkxM0lLSEJ2aG5vdFFXN09xakJ0OEg1anVPU2tiZ1B3dzBrVGc3RUdSemhfcU50c0pTSFgxSTdQY1lTcENuNm5iU0lCclVULXY2bHZoSlpTSVVwN0diZE9XQVgyTkhpMllSYTZTUUt5RDdmTGN0OXBTbFNPSHEyazNtaHh1VUhfUHo0dG9vVEkySXduRmJWbjlCZkNGN0dsNWxUZWRBcmc2VHEzcHljN1U3OF9WVU5lVjRNcklOTjhlX3VIZllGdEJmNUZFQ2Y5ZWV1RGI0N3F5SUNSekxIbnZ0d0h2VTJpM0V0bE41bG5OTWpBODdmSTFfeEF6UlpOSEs1dVdOaExYVldRZmpnN3BMRFRlVkc2cDVCamt2MjFJTTQ0Nzd4ekpRN0JCVmYzVnpjWHh6dC1uSVctNFBfYVZZSkxpOS1PU2xGUnNMeG9CN29qU3BZRGVXS1lObFZTSW13ODNtY1N5NjQ1YXJIVVd1RW1WVHVFWVBpQVFFUmlOY0VXZ1JPSldqUkFrdW9tM0N5VTV1ZUlOQ2pqQ0s4WmtKTXNfUmk0RngwckVMVWluWVVuaDFhTHFlRUxKZw?oc=5"
+      "title": "Trump顧問Hassett促Powell卸任聯儲局董事會",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMGFTQS1ZZGpSb1JOdjE4RDl4aUx6eFBXV1BGZHluUWZBcE5XRWRQRUNDODBYWFJwYy1feUloOWtBVVpXUzYxd1F5czczUWxTemNUdzBfTVFxNGN0by12SFF0MGdwU1VzaUt0QU9jSHlseEFzYkUwWXpzSlptZVBteVlDQ1AxZDNZUHZyem1RcXlRU2dNZ3hWY3VvdzFWMUJfelBubmtwMk5GcUpQdTcyay1DcVFrM3kydk9oYmY3Njg2bGUtQmRyT1VBR2JSVVZNODN5VU9HbXpTRHhXZWJHNmhPSmp2VXRzN0hRLVhld1dKamdTdnY0UjN3?oc=5"
     },
     {
-      "title": "【市場慧眼】非農數據差強人意 10月加息機會微",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iLXM1MDRSRTk3MjFJOU83T0d0NWNOMHE5V2g2andLdmxqMUZ0TjczLWRpaG1XUVhyLW9jTzltTHBsTGVoQjcwQV9pWl81S3B0ZjdHX3VHdEdIWUpmV1J5THdqZlRET2dPdk5jbGQ2Z1BpTWViRjlZa2FxWQ?oc=5"
+      "title": "美股定價錨遷移 看遠期增長持續性",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPS3U4NnVNcGw4Tm4xaGk3TUoycDdraThmbFR3RTUwcUl3T1VnTWtpYUF6ZklleTZ6eDA0WGRvaHZ0NnVWRFRhSXFVcmZheVEzdFZHcHhaajF4ckZ2MmlFaWt0Yi1VSmV5MklzTGhuVURieG5CeUgyWEpZN0p5YXVmdDQ1V0pRb1JQb3NxMDZFSGJfQXliTkoyMlM2dVhmQUZEUXI1NTBCTmkwblV3X0JzMWFHVEFPeS1Jd3dwdnpJT3NTeGpJbVhpRnkwODRUMG4zZTN5MWE5cDgzWHljVHlEdEF4aTR1dXk5NUgxbW0zU1RpMUJTX21QZXhKSUZXaFZ3MDhtWWVwWUtQUkJDWExaQ0pzdlVEcDFyMlBYU1hqUQ?oc=5"
     },
     {
-      "title": "$黃金/美元 (XAUUSD.CFD)$ 2025年尾、聯儲局進入減息週期、加上2026年頭的能源危機、戰爭避嫌危機。導...",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjhqUHNyaEEtdGpKOGNRd0xvY2lSamZadnM2djNzbHJ2RnhHczlLQmtpSFYwMk8xSUFmVV96eU9CLXNDc0ZhOF9XQk1rUmZzQThfV1hsQ3VPSHp1N1MwRkNaWTlaeW9ZYzBwWk5NdFRidFRjSTVFdXZnc3BBTmZYRHZfSGVuT2pNNzJya0JpOGRzaWNWUzc1WmV5QVFxSmpHeWc?oc=5"
+      "title": "美銀：美股走勢似科網泡沫見頂前6個月",
+      "source": "orientaldaily.on.cc",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPMjJ0YmFpN1pfMGM2aE1MOG9maGJELU50OVl1NWpwczVNQzdwN25YQ3VUQWw1cGMtcU0wOGc4X3BtVENkRFJ6Y0FxaTZKbjFuUmh1bjlTY1pRMFNCMW1sdXFOdzdxTElLNE9iTFFQcWNiUkUwQ09QRzRrWUJWZHhkS3hPTVpYajdMV3JOd0dRTmVWbFYza3lBZzN4RFpXS1VuYzRDYlppUnloc0JiZUJmNnF3SEw5Qm5BUmg1R0VrSHotNW13MHdsQnZaQzFNRTFaT2NNLWtPb1h6NXM1V0gzSUtGN0lGZEVPZjhRVVVVc3JkV1lfdHNxRllkYVJ1eGswTmFraUJsVzktRDJnSW12bFBEdXZ0Zkg1OVZ6SURBb0dMek93azZsZGFEcXd5d3ZXZHkzQzBXdGpfVXdUNkhqRGkxeUZwT29tTzgtdzMwUXZBN1h0dXpKbw?oc=5"
     },
     {
-      "title": "華爾街迎來危機？ 「新債王」示警美股外強中乾隨時斷",
-      "source": "Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOUFJfTXZkZlM5aWthdFJJTWZKZ1BKUWZKaW9ydUF2WXNBV002cUNSUlprZTBuQmlER083QlV1dUxCWl8yZWM4LXQ5MXFFWVg0dDNaSmhveGxrTHVWc1F3c0pwLXZWcXRwLUZpelE4ek9XWXJRbmlzMmRsNjgybFR6TGM3MjBDSG5YRnZVYmJDTFRKampGRE13T2NoODZSenZ1aURIMXJYWHBSYzdPY3VSejVwZF9LZjRONnR2V0c0MjRQeGN4TWhqT3FPMHEyMWVCdTYtT214RTdxbTJab3BoTVZiWXFHcDhsRW54WVBmcVYtSVo1dHVqWUI3WDdHUEtNZXVVQnhDOVZSaUtucVlDYkx0WGNDLWZkRGsteGNUS0dtM2tOM1FnbG14UmRVTEFSdEx6U2NtV1ZUT1AzQVpuWDM0S2Y3R1NzWFByTGFINFg1QQ?oc=5"
+      "title": "貝森特辯稱美債息升 屬全球現象 專家質疑美債 失去類似現金特殊地位|香港經濟日報",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPR0ZtT01ZRjYwX3VaMUlSM0VjakpNeGtVN0ZWNXJ5R1FPN01NLTV6b1Z3b0xucjN5ckFfNUxiZ2FIUzlmeGdDeHFlMGlORVhpMmVnYTVoTXhUNHRmNVV4bHR4Y1hGb0dnRzM3UkV4Y1U4c1RPdE5PSURHSm13MWpkcXhvVmFxaEZmNExDTklsTkdhTnJwc0lhTUljWS1FY3BGM3BvRVR6TlZjSm8zTlZsUkFITl9oLU5sb19BREVvSERFUnJaRy1RSWJrNHlTbHJLWGhSNHpzZ2o3MWFlWDFXa0FabkxUX1FLQXBLVHlJeXNrZ1pSb3V2a2J0eEJPc01SRVRNOG45VW9PTVk?oc=5"
     },
     {
-      "title": "美國9月非農爆冷｜10月加息機率急降至15%！美股、美債、黃金點部署？",
-      "source": "香港財經時報HKBT",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQVEdlU0dEM2RyQXdhUWYwak91YWlQLWhvWDhMRDIycWJGc3FTUExPR2lWMDdqblV6N0dibEdMem1yYXZKTHl5TnZLRU10UDJhWF9pcHVRUVZ2OVdyV3A0TG8wNm40MWRMakF3aklLVE9hVEtYeGlEbVZxUGQzNnVSMW9ibmNkTG9GMndaRHFzaVZnMGtjZEhqTDFZeWtoc3J2R0ZCS2c4YXVYT2Z6am9Rc1puVzRkOTJyNlkxbUg2X3MycFpobERrSG1xVFVWN2xTRFdndWl1b0MzUW1Ndk1OX3NiN0FfLXQ2YzFPMzNfUTRsaXJLNzdubkhHZ0tRSjlXS1VxaGdnVVFnUm1xaWtCLU8wTGxLdXc5S3VQa0dKYjNFSWFTd1RQRWluM3lvdlA3aGFLRENKUXY2eE13S2Y0TmR5SmxNYldFSzFlMk56SWh0d1c0bndvekUyOUxxZzg2ZTlDb3V3?oc=5"
+      "title": "華爾街夜未眠 12/6起迎「23小時交易制」",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Mc1VxcUxBUTNvNGpCamJDa1plMkFrY3FadEJwSXhTT2tmV251UEZqM0NkNEVwa09TV0JTdmU5ZlVad2ZTbWhJT3pTUlBJeVJFR19UbElMSm9scDkxYTNEZE130gFnQVVfeXFMTUU0U2RKd1Z5T29TUnl1TzRjcHdIWTlvV1VVeW42dTBGOVdEcXFtV1B3T1ROX2VnZ0lDUFFKa2xvYTdQdFM5a2M0U2tzYW42Tnl2bXZYZnNWUWxkQU9oUHZ5TzdwQnhvUQ?oc=5"
     },
     {
-      "title": "華爾街夜未眠…12月6日起迎「23小時交易制」吸引外國投資人| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uQzY4cjYwMnVDVmVFaWlBbjZpOV9rSjZpZjByckhGTUVCVVVLa0MwTVFIMlhKVGVMUkhsT2ZaeE1aNENXSXcyR2pXXzk1bTIx?oc=5"
+      "title": "危機的前奏？全球債市拉警報：長端利率飆至數十年高 高槓桿平倉放大恐慌",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UTk5Jc042OUJtUE4zakhXQnpKZHBnZ1R0NENpZ3hLVHZKajUwZDhKQUtlUnkxdUpwZFZiU00xUjZrRlNrOGhhUmx5UQ?oc=5"
     }
   ],
   "events": {
