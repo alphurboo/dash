@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 16:15:18",
+  "updated_at": "2026-10-04 20:24:59",
   "gas": {
     "current_label": "10月4日 (現行油價)",
     "current_price": "187.9",
@@ -10,9 +10,29 @@
   },
   "news_world": [
     {
+      "title": "中國對歐盟化學品反傾銷調查",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdENaYU5JOHVOZGZvTlZITkdRazdCclVnc0ZLM0ZISEcxbmpwLVVtV2ZweFkyTHFJS3BPOFZSUXJPeFRjMHBGNjlNaXotb2hVU01PVVhpRTNGSFFvSFlWZkVtbzBOY3FQTGNjWHR1OV9hTlY3LUppSHliYkdtUWtWUDRTcG54bXQ3OEcwX25feWI3RGJNbk1USzlJbXBFTUd3Rm1IRWRJQVY4LTdPc0d1YTVVdEx2RDktbjgtR21FMWJ6dmlja09uMGdHSmJNTm5FNmQ5bDVFNFdVcEx5TkU1YmdPSW95YXVDSDI4ZHpzWFcteEo2MXgweC1aUEpGUkxrQWc?oc=5"
+    },
+    {
       "title": "加拿大為何要為（概率極小的）美國入侵做準備",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xVUNsSU9UQnRUZndLUDFlandXdjZjOEVIVXlHYXU0UllXRHZ2M0p4ZGxQN255OGlQZksxcWY1WWkwSDVDOXdxRl80Z2lhSjF3S1QwOXlIdzNGS09WRVk1TktQaFkwLUnSAWxBVV95cUxOa2JFcC14MDlHVklIN1Z6cHVGUEZvMW5jZUJ3YnBRWHFYY2FyNzhFaElfYklXYVhPOElTc3d3am1GSmdIMkJobTdlUWIzODh6ZlVYa1pBNnRsVkpLSUM5bkU3RGE5dlg1bE82Yms?oc=5"
+    },
+    {
+      "title": "美國持續封鎖之際 伊朗石油部長辭職",
+      "source": "大紀元",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fZGFOTEZMMEstb3g4SEE5WTk1WVV0bklQMWdmUjZlWXRtaHM1Z09tVlVIQTUyRDdNUkc2WThRU0V2NUlfVU9uTVRFOVVWaXVRNnJtRjZCdkJUY3A3amJTetIBZkFVX3lxTE8wMGtLaG05TnhZQjUzTjVybnJhbTdFSGJJR2l6eEt4UUlXWFJKaWxqdVZaM2Y0TUVCMEljRDVxdGFkNmdFb2RGVFFJUTM1dFotLTUtWm9rSW84eUN4eDJ5cGVOSV9pUQ?oc=5"
+    },
+    {
+      "title": "特朗普任命國安情報總監兼任AI沙皇 成立“超級智能部隊”",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQZmVyOWI4R0Z4WDRHVFFUMTNMaHhXbnNNMEYyMzRkMks3SHlybjl5LUVpeGtjMmg0NmNqalFZSjYwOWdHcmxFeHEtVWxsLWgyandNS1VNWk9OM0hxX2xqQTZidUxOSHlRWDJxYjNYQm1sUVZ1RC1ZVFRnRndReGxMc2VJZWsyRXBnNkZLZ0tfNzkzaGhYdUNfQ0xHVmEzYmpsNXVVOUZDVU1PZWVHV1JybTFHcDJad0VNTGJJNHo0MV9jZWRPdE50MHFMdE9vWTJ4QUZmb0U1aW5fNjBhOXk1TzI0c0xTNGRGWEdmS2lKdzE2NDhDWWNsX0V3RW16Q1dkTHhXX0FzdC0wSXV2TVEwLVgxNHF2dTlTclFETkpZQ0dIR2dfWjllMjQ2QTlYemZjTXNhaFIwSkh1Z3VrazhrZFlUcm9mWTgwaVAzOEtVMHpvdUJmNnJtNWx4bkJFbGFkVGVDSnhPTU5wVHhkSlI1WGVyNnBUMURo?oc=5"
+    },
+    {
+      "title": "螞蟻國際「財仔」業務 BNext 據報最快年底駁「信資通」",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOcTFsNk12XzFCTUpvYy1sdHVZUXp6TzF2dXQ2VmJqR3lPVmcyb05acjZIRWJIRTZKeVFhSW0wOUxTVk44SGFtTVh2WVNmYkZEeGs0MTFaQW9NZFBUc3ZJeHZQQmV4STM1UVVRS05CYTFmMkZldHVaUHlvVEJzQnA0VEJhU2RqWTVDWk95bWFhMW8wY1NmUW1tNWc5N1IyNDlwX0FuMWN0cmd4TTd2TF9UYzltQjZOVjAyVEpGVFRpYnRGWFB5N01wVWFJQkhaejNMSWR6MlJUMElUR3A0ZjFNQVdZY2lUMkN3QUV5QmtZcHhETmlNNk5sOGxqdHFxOGZpcXZhMWswSG1ObXpqMEluRHVHUDFtMVBFVE9xSi1R?oc=5"
     },
     {
       "title": "俄烏戰爭｜控俄修例允可襲學校、醫院等 澤連斯基：加強攻擊回應",
@@ -20,61 +40,41 @@
       "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPeWJ6aUNYd3RMYXhHczVWVW5DZE5ydlVHM2d3TFdfN1dwRFRjWUozaFVOTjdqeW4wUnhVd0F5R2dEb2JDLVdmX1RScmR2ZldCNkp6U0ZpZnBYbTRjdHZtSHdDNms3WHM0cFo1Yk9zMG0xTFZMTWhTV25rVWlKSEpiSndYU0wxT3g2SkttMTRreTV0ZWZoa2RXS0xJZmF0ZTVrMXc5REVXY3RPZmxnRUJWNm9wOXM2SXVodHphdHNSbG5TZkl3NFkzemZCUFZma3RVZ2E4ZDN3MjRtR3JpamlYdnFtRmVQMUZJWmF0UjdDS21LT3dCdk5HV1U2NkV6bkdvMWdrVXprT2w5Q2xWdk1DeDl3UmpDZnVyRkVtUHlZN0VPaW5MVU1jeV9iQ3BkdFZ2VXpZZDhsbmVMNk16MFExLVBDWlh6N29jSXZSLUJ4ZUZxMzlFYTZUdzAwNWhrbVU?oc=5"
     },
     {
-      "title": "華泰國際融入全球價值鏈 服務企業與投資者跨境需求 灣區金融發展 - 專題",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOTi1EZmlhZmlaS0ptRFpkbzhETHVaLUZ5ODVFQ2JhSWxrdUdrbk8xZEFBcGl4cFJTbVB2THluczVIejYya1pyVWpkUXJtTmc4YnVjaFBLY1o3d0RuemN6Y3NMcmxQZXlfdEU4UDBidXZyU0hrRUp3aC1VVmtfRGZ2Xzg3VXJiX0xtOWROUUhjbjhLYmZ5QnVTcDFTTm83dDcyb2ExRktweGo2YTlsSFF0TnVPVWlLTHA0QlVPQWZtWXUzT0lqejVrSWxFdDRZZGZsWVJiN0JGSnVXRlp0S3ZmdWJlT2ozVXR1Z1FCUm8yMWlLazZzRlF6Tlo1ek5sX2k5elFzYVFQMGtvUWtTS0ZISUl2SWJEa21nY2F2OTFhbDdDSmJKOUJhMXFhSQ?oc=5"
-    },
-    {
-      "title": "危機的前奏？全球債市拉警報：長端利率飆至數十年高 高槓桿平倉放大恐慌",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNSm5LNlQtXzVucVhTaldJRVFwX1hfSXBscHllMUgzTE03R3Z6NXVkUDdRUExUU1dMdEpzUzlHWXN5V01HQnNsODh2OERZWldGYnZHN0t2SkVTSzFwUEhJcVFmNEJnRzBLQXd5Q1lIN2hxZWRmUEl3Tm9vdDI0ekllUFQ0R3AzMlk5QnVxYjM3LW51OWFkQWdsSnFvLVB1ZjZxLWFEcUtQV29tUDZVaUlxMWlrN1hDSjZscmVrS21qdm51VjQwQVVBTF9PUEN5RkJxRFRBNVd6UUpPV2F5Vk9sSk9OSlVKYmNrNlBoeTcybEF3d05ybXNiajAyVm1JMVRVdk8yQWN1c3RQYUF1YUtmcFVLWmtWRlQxd1Z5QUQxWFhOYzB2Q2xhTmE0YlJiQ3l2T1BXdi1ESXhXZjI3bU5aZ1dFbURQa3c4MURDY1ZLWFRGREltTzd6enRyU1dCSXgxOU1RanBpQ2h3c1FRN0xNTzdLT2NmYWZ4bnM1ZTZNbXNrSm0zdGdFUmQ3b3dldDdOSEF3SUJtVXRjZGtTeGRGaEx5Q2hRVlJXZnpHSkNDVkhiVGRRbjdoeDl4N0EzdUEzdEdFQ2hYNTVXX0RJTkN4LVhJYTBMZw?oc=5"
-    },
-    {
-      "title": "美媒：伊朗兩外交官被美方驅離美國 伊外長阿拉格齊否認",
-      "source": "singtao.ca",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzBHWGZUc1FneGxBNm5OYXlqNm81d3NUUmpoY0lMZEpWOWJFeDd1S2ptRkh5MTZYS0xWNC02NU5Mb04yX09vR2wyRTZweTdodV91LXY5eG5vSFhFOFJQZkx4dlQzMkg4ZXRBZzYwWHJIMzNpdjdFVWgxNFBFWGFPTlpGcDhRZk9xU3FndNIBjAFBVV95cUxPXzBHWGZUc1FneGxBNm5OYXlqNm81d3NUUmpoY0lMZEpWOWJFeDd1S2ptRkh5MTZYS0xWNC02NU5Mb04yX09vR2wyRTZweTdodV91LXY5eG5vSFhFOFJQZkx4dlQzMkg4ZXRBZzYwWHJIMzNpdjdFVWgxNFBFWGFPTlpGcDhRZk9xU3FndA?oc=5"
-    },
-    {
-      "title": "美國國家情報總監任AI沙皇 將帶領白宮新小組",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxORVliNThjb2s1ZnJOd3VScDBjTEREa3F5R3lDMmI4QTFzWjc3cWV5enZmemhqSUNJZEN3R2hyamI2ZzVKVlpLVVFKNF9WUDM0YjNjSkdNSEhjTUhJZy14ckNUUXVOTkhiZ3duSHNPXzZPaU9lckY0Vk45SE1hVlpuTmd4d0pOQVhmVTRtUF96ZEFUTGttalFuenBobEFMamZqMlZoM3NPTExHZ3VtakdPeTBhT3RHV3VlZUkyNGNCdDhYaV84SHVRbUhwVUxwUnBRYWtGNy1qTnJ6VERwT2FneWFhMy1WOGNvRkFzZDVYal9qMUJMVDlrR0UxeUVrdGJzWkR2ekUzdlhNenVZUUF0YnJUeFlSWVZsSGJpZW9IN1lpWUo1dmpodTBfbEt2ME9JbnlrT2ZXeVgxbzVOS2xxdjlFTTR6YUFRTGdpbg?oc=5"
-    },
-    {
-      "title": "白宮被指已設AI專責組 國家情報總監領導",
-      "source": "orientaldaily.on.cc",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPaTJYckEtdlNodE9MaklrREtGMmFNS3RGUGpVQXpKN0w1bG5hcUhKZm1NU1dMelowY3pBcHFwT055YUt5cmtRMGVGNS1jYzNHbVJiOC1lcGRGdW9vUDlsYjljWlVManRoeV9Qd0lGWlhvNV9BQ0RjX1o3bFJTZmp6Z25JQUpZVnFHQlh0SGl5MGQ5cVpMbGRkM3FCbDJUNDJwS210emhzdExNVFM1WDRIcXpfSnFRLXp4cTNWcGRLcUFPV0hiT3k5LS1OMmROcmN1aGVDcTFLVmRSa3lRX242b3MzMkFTZXBDeFhlQ01CYlBndmd5c2ZQclEyN2laQWs5Z1FxS0NKY1MzX2JmclI5cmw5VnBOODVGcnNXQ3RrMlFGbUNQeU9PSXlWOE1Xa3A5Rnc0QnZXNXg1b3ByRkZxNnJSVnlmSUNFUDAwMEF1cGpvWEs2REZsTm9XcW9mdzNmMlhiYndQNWxwc24wNGszeU5VckU?oc=5"
+      "title": "特朗普稱或入股 OpenAI、Anthropic 美國政府持股模式延伸至 AI？",
+      "source": "unwire PRO",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Wbks0ZWIwRG54VGxZTldjb2tiOS1IbFdHMHZweUNQeUctdnRZQUJ0d0dxc0RiRVBVc2dTazYzM2xPUklhTk1VQjdQYmhtZXRSM2pDQWlVWmg?oc=5"
     }
   ],
   "news_stock": [
     {
+      "title": "美股本周關注聯儲局會議紀錄及美債拍賣需求",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HdDJla1ctQzJlTGlfblhnaThCTllzMzh1QV9EZXU2dkdVWTJHRXRjY082TDE4ekZKbGloTUM2aHVZVk9kOWV2bU5RVkEtRG9PU0RLWHh1UG1UaWFTMGpwRHAtVWlRZEpvUjFNSFlzVQ?oc=5"
+    },
+    {
+      "title": "美股本周焦點：債息走勢、企業業績及聯儲局9月議息會議紀錄(曾惠琪報道)",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MVWJsVnM1WUR4djdxODNqMTltQWFQYmU2WTJVOWpkYng0Qnp2NUZqR3NTLXptZGRoMGhlUGtIaUgycHpjWk1POUJrWVN4a0I3MWh3ZDlqUnN4ZFhkQ18xNEtJS0l3U2J1WThoUXJB?oc=5"
+    },
+    {
+      "title": "美股 | 道指全周跌1.3%，納指升0.5%，美非農數據遜預期，加息預期降溫 | 專題透視 - 新聞",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcE9sUWV4NkRQaW85SWw4UXh1aVRTdHNmVE00MU5VN2xPdVlsak5TZmhXcUlkVEp5cWxzaFNvLWtrNTJtX0VnNjZDYWNEN0NMbTNJblU1Yk93REZHZGhwXzFDa0tsYlllYzFkWEFrQldmNVZKVEUtZWpHdjlXYmYxZlotblVNWmVIcnBuQUhoTjBKUFdLQ3phdU5XZVhaMk9qN09jaGppOW4?oc=5"
+    },
+    {
+      "title": "聯儲局加息｜美國債息創19年新高 現金、債券、港美股配置攻略",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQQzBRdk1tRklmLXZuV3IyNDY1ODZpVEZRU2ozVTgtVXozQkNBM2F3Z1pnbnpzbjFmRHRhSE1hN0xJU3pVVjhiMW93WF96ZEZXbzBzSU1RQl9pb3puWklSbUlXcWdoVVMyTFEzZkQwUGltamdTLW4tcWFFVEY5SHdFeWtoeVFMZi1qQjNiUXMxX0I1YmRGQXd6dElRMm1TcTAyMmVFQmtCRExiU2k3Mzh0MDlBME9vd2ZTNjFMRXdGcGlqSGx4cEVfX05tR0tZeUx3TWNNRUdITGpEeHdVNV9zZDFnSGpOU0NzbVlvVG9fUkJjSDh0SkZPNmRKdlYtQkVDdmFyZUNxc2JEdUZnLUdkUG4tcHk3Z3JwZVJoc09uYXBEamlfX0VZeHVrOGpXZmVaMjRwYkZJY0VpTWY1UDVnekdqSmRnTTlNN0JlLW5oYzFfc21LQU9FeEdzZjlnNEcwdXl1ZF9pcWhSNlN3Q1U5Y3lwV0dHV0xOdl94VklSYU9PSmdWcmtnVWxHMnRfYU0wVmpUMWstbUUzeHU3eEE?oc=5"
+    },
+    {
+      "title": "美債收益率攀升加劇高利率風險！華爾街AI狂歡正處於風口浪尖 作者 智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tNXF1V0p2cElScVhfN2xiSWN3SXAzTC1YX2RRN3BTSEhUS0NFQXBaVVlmbmhCM0hWSjMwbFVrUjBaOVlXU09qZ1BKdXUtSE5NNzhRdnRCQ3Rwb3prblJtOHBXUElYZkRsMFk2VUhKWlM?oc=5"
+    },
+    {
       "title": "Trump顧問Hassett促Powell卸任聯儲局董事會",
       "source": "Yahoo 財經",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMGFTQS1ZZGpSb1JOdjE4RDl4aUx6eFBXV1BGZHluUWZBcE5XRWRQRUNDODBYWFJwYy1feUloOWtBVVpXUzYxd1F5czczUWxTemNUdzBfTVFxNGN0by12SFF0MGdwU1VzaUt0QU9jSHlseEFzYkUwWXpzSlptZVBteVlDQ1AxZDNZUHZyem1RcXlRU2dNZ3hWY3VvdzFWMUJfelBubmtwMk5GcUpQdTcyay1DcVFrM3kydk9oYmY3Njg2bGUtQmRyT1VBR2JSVVZNODN5VU9HbXpTRHhXZWJHNmhPSmp2VXRzN0hRLVhld1dKamdTdnY0UjN3?oc=5"
-    },
-    {
-      "title": "美股定價錨遷移 看遠期增長持續性",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPS3U4NnVNcGw4Tm4xaGk3TUoycDdraThmbFR3RTUwcUl3T1VnTWtpYUF6ZklleTZ6eDA0WGRvaHZ0NnVWRFRhSXFVcmZheVEzdFZHcHhaajF4ckZ2MmlFaWt0Yi1VSmV5MklzTGhuVURieG5CeUgyWEpZN0p5YXVmdDQ1V0pRb1JQb3NxMDZFSGJfQXliTkoyMlM2dVhmQUZEUXI1NTBCTmkwblV3X0JzMWFHVEFPeS1Jd3dwdnpJT3NTeGpJbVhpRnkwODRUMG4zZTN5MWE5cDgzWHljVHlEdEF4aTR1dXk5NUgxbW0zU1RpMUJTX21QZXhKSUZXaFZ3MDhtWWVwWUtQUkJDWExaQ0pzdlVEcDFyMlBYU1hqUQ?oc=5"
-    },
-    {
-      "title": "美銀：美股走勢似科網泡沫見頂前6個月",
-      "source": "orientaldaily.on.cc",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPMjJ0YmFpN1pfMGM2aE1MOG9maGJELU50OVl1NWpwczVNQzdwN25YQ3VUQWw1cGMtcU0wOGc4X3BtVENkRFJ6Y0FxaTZKbjFuUmh1bjlTY1pRMFNCMW1sdXFOdzdxTElLNE9iTFFQcWNiUkUwQ09QRzRrWUJWZHhkS3hPTVpYajdMV3JOd0dRTmVWbFYza3lBZzN4RFpXS1VuYzRDYlppUnloc0JiZUJmNnF3SEw5Qm5BUmg1R0VrSHotNW13MHdsQnZaQzFNRTFaT2NNLWtPb1h6NXM1V0gzSUtGN0lGZEVPZjhRVVVVc3JkV1lfdHNxRllkYVJ1eGswTmFraUJsVzktRDJnSW12bFBEdXZ0Zkg1OVZ6SURBb0dMek93azZsZGFEcXd5d3ZXZHkzQzBXdGpfVXdUNkhqRGkxeUZwT29tTzgtdzMwUXZBN1h0dXpKbw?oc=5"
-    },
-    {
-      "title": "貝森特辯稱美債息升 屬全球現象 專家質疑美債 失去類似現金特殊地位|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPR0ZtT01ZRjYwX3VaMUlSM0VjakpNeGtVN0ZWNXJ5R1FPN01NLTV6b1Z3b0xucjN5ckFfNUxiZ2FIUzlmeGdDeHFlMGlORVhpMmVnYTVoTXhUNHRmNVV4bHR4Y1hGb0dnRzM3UkV4Y1U4c1RPdE5PSURHSm13MWpkcXhvVmFxaEZmNExDTklsTkdhTnJwc0lhTUljWS1FY3BGM3BvRVR6TlZjSm8zTlZsUkFITl9oLU5sb19BREVvSERFUnJaRy1RSWJrNHlTbHJLWGhSNHpzZ2o3MWFlWDFXa0FabkxUX1FLQXBLVHlJeXNrZ1pSb3V2a2J0eEJPc01SRVRNOG45VW9PTVk?oc=5"
-    },
-    {
-      "title": "華爾街夜未眠 12/6起迎「23小時交易制」",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Mc1VxcUxBUTNvNGpCamJDa1plMkFrY3FadEJwSXhTT2tmV251UEZqM0NkNEVwa09TV0JTdmU5ZlVad2ZTbWhJT3pTUlBJeVJFR19UbElMSm9scDkxYTNEZE130gFnQVVfeXFMTUU0U2RKd1Z5T29TUnl1TzRjcHdIWTlvV1VVeW42dTBGOVdEcXFtV1B3T1ROX2VnZ0lDUFFKa2xvYTdQdFM5a2M0U2tzYW42Tnl2bXZYZnNWUWxkQU9oUHZ5TzdwQnhvUQ?oc=5"
-    },
-    {
-      "title": "危機的前奏？全球債市拉警報：長端利率飆至數十年高 高槓桿平倉放大恐慌",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UTk5Jc042OUJtUE4zakhXQnpKZHBnZ1R0NENpZ3hLVHZKajUwZDhKQUtlUnkxdUpwZFZiU00xUjZrRlNrOGhhUmx5UQ?oc=5"
     }
   ],
   "events": {
