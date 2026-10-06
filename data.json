@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-05 22:02:41",
+  "updated_at": "2026-10-06 07:15:18",
   "gas": {
-    "current_label": "10月5日 (現行油價)",
+    "current_label": "10月6日 (現行油價)",
     "current_price": "187.9",
-    "predict_label": "10月6日 (明日預測)",
-    "predict_price": "187.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月7日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "國際油價低收近2%",
-      "source": "news.rthk.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53bzF0SmhpY3RlVVRJd2t4WWFLWWdZUkt5cHdvQ0NPRHpvbktFbUFCUFhlZnVvZHdpVi16djBrN0p1dHZCa01HcEoydFRsQmpKYnNGcGtCMWJDbm5VUEdDWTJJZ0RuUXQ4dUs4NWVUZw?oc=5"
+      "title": "中東石油巨頭稱世界其他國家需要分擔伊朗戰爭的代價",
+      "source": "hk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQcmJYZU5Zb2pNVDVSN2FDV3BzLVRzNkRZaTlaYUR4bFR3NVZCcy1DNGdaVkI1eXpFSTVHRFozajM1aXpnVEwwWjZyUVUtRnpLNGxTbDRXZ3NXM0EwOWxBV2FLNFNYOHVuSTlLMjBXQkd0b2drd1BqUTNlZ2E3djRMSTJFbzBzR1dCMVFiUS14amYzTVBDNVFxeG55eGtnOHNwY1ZPNlVGSURCdjh2a0Y2WUlNY3VMYzk1QVVOV1VXTE9aVTc3QTRsTVVGbzBTaVFaX1ZGMDlXekxxelotSm1jQXc3ZmF6RFVVVTdISm1kOF9NOWxsQl9lWHVDOV9lLUhMVmRpd1NJREtySXF0aU56aGNGbHkzZTZTNWtxZ3BDYmtlMUF5R05pTUtHS0tIZGt1QU9tMlg2alpfa3RZY1c5YmhpZkRQczhoQ2s5bkU1aWVmcHh1bDVzcWhXa0pDdWhwNjNwNGQ3cFRRQm0tQnRSTklHemlxYm9raktWUGZn?oc=5"
     },
     {
-      "title": "美國將轟炸機全部撤離險遭恐怖襲擊的英國基地",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPbXNFODVCNDkyeFRvUXE5XzNpM2E5SmxxT0x1azM5MzFTMldZWS12NzctQ0owekRkdVZSQTRzZkM5YWRYZEI4dE9CUGNnMEt1MDBIVERWdWNiWDY3VFROY1JYNG04ZlZQQ0dodXZFSXlUcWNNTDF0c0ZxQWdXZUdkWEtZOTFJR0c5RUtYX2NINmxWREdNSzRPakFMWVVPT2dYdFM5VUhFbjhNc2VCS0ktWUlzbHNmWmk1aFA0MTZOUGJfYVFEOHowci1Reks0REFWaWhJWUJUdE9rU09fd2JFUHlVNGwxLW9zNlNOMDl6YkMyQmItbzRPT0pWaklNdTNqZFVZUUdrbmNtVmtXT3hGcmlCUmFxMVliMXlTekRMSEpGYWtpQWFrTl83cWxCcHFOV1dKU0NxSFF3Y2F6UmQwSlVlcVR1U240T3dWeWt4UnBBd0lLZW5iWDNB?oc=5"
+      "title": "美國智庫警告：若繼續向中國銷售先進半導體製造裝置 美國 AI 晶片優勢恐消失",
+      "source": "Unwire.hk",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kYTRKbHdTWHlkdU8ydjFKZ0c4SjlZRUVrMWRyWmRIODRfOUJWSzgtLVdrbVdDLV9UY2dQSWJkNDRIc3RFVmJtYXRDUzY4b3lJV3otSGZkZTQ3eUVTN3F2UzdRal96cjN3R19VN3pENmMzY09B?oc=5"
     },
     {
-      "title": "美國眾議院中國委員會主席促美國紐黑文大學終止對華合作",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQM04wUXZZTGdGcjVFU3hndEhaWVBlVTV6cTVWVXBxYXd0dDRNSEpaTXVEVkhER3dickV4UDZvSmRaRmVtQzN1ek1ITW9WSUFNcEdjMjJrVmR2djkzWU9nSmQ5RWg2R1VteEFiMzJ2TTJYcUtjbkdVUTRiT1hIaXFGalB2STJqanUyZ29iZnY2ZEhmbVFreG53YjBkWU5QVndUWXY3M3JuNmNkYmprS1lXaHRGV2FsMk95VHVqNl92Qld6VDBpZV9jUlZ2ZFRvVGtHeHRZQkZSUF8xbFlNVXVlU0h5QTJQYzdZaGZBcXMwM1RvYW53UGRGZjdnMi1zZ054b1dpbW1DNGQ3eWhmdy1EWHlkNXV3QmxValExd1ZsUFBOb0YzaXBwNmx4VDF6VERTNTZId1hvS0FzVHoteFpSaEFIb1FsVVhYYmhwcG5JR2djX2RpbHVTakVCS3VMeEtMaFlyUDVQR0Q3M0g5aFUzNGMxazN5Y1lIeXdRbFpxenctdG0tTllfSnhIWVY3NXZ4ZW5LLUtCYw?oc=5"
-    },
-    {
-      "title": "ISM美國9月服務業指數跌至54.9",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rUGtfdXlKX2laSjRUT181a19sZFFDY29YOXJXb0Y1dHdVUUNuVlpIR1JLb3ZqVEk3U1pPWjRyMkxYcmNLaE5VNmwxajZoa2pwSjFCbjhPQ09zZTFoVG4xaWhHenhLNEdkYmRqUC13?oc=5"
-    },
-    {
-      "title": "德法倡歐盟建新機制 限制中國等進入市場",
+      "title": "美債丨貝桑:美國可非常迅速地壓低債務水平 美國大選選情追蹤 - 專題",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOdTF1OENxSzFjcnVESWotYm5WZ0RkSVhiOXUxYjAtSWRZc3M4NVJuNWN3aWluTHFaTzFWM29kTmFjZFhMQUtPQS04TUl4d2M4Rkp1WnZyazduWmNrR29KRHhZeDFpZXJrUHU4RzdHZThqRU1HWmVyRlY1SHVvbmhvcHBqWnFzeElVMG9fUENDMjB4ZmwwQ0JvZ3Naanp4THdKcEoyQnY1U19scmREanJKUlVQQTUtOGNBOUFPNUJCam0zSEdhdWc2bXFrbFNjd1dRd01JZXQzcWVqZDQ1bjBaOXVpLXg1blVJUVI4eGUxek93ekZWbkgwb3dzZG9kSk1wRTk2WnNSOEZDOVlvNTIxZEFYMDJJemx2am90TXNVRzNUSXRDODNBdm9TeXZ1QkNDTEo3OE1hTXVSbmxWN3ZaM2Z4TWlYa25la3c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQczVaZnJYWEJFUExPb0Y0LXEwSnp5NTVjeW5VNms3VTZUWDg4alpnNkxIRk5LSXctYkN3MXhHNVhUYzJpSGlJT2stdUhZckpSTkEySGdTZFNQT1hTVG5uTHBXZElweEFRdVUyUmx0TEZraHZ5bEhsU3JwbFVBUGtrdExIa1VtUUZOendUSFRXZUQ2cVliYk1Edm9WS216ck1qaWxHaDhxVWl2eGQ0YkpGLWQ1RmFwRzN2QWQ5RnI5SFk3dGV2Z1BicFpBR3dpTWJwMDlsblZESEZyMG5kTnZnX0lNdkVlbGhIN3ItTGlIT085UlpXNmgzWERaenI5a1czV0xNdk1MSWF6MGpHaU1oelhuUWYtM2RYTDlBU01Dc0lkYkFPbmo3LVlPRElDMTlXel9OajdmbW5VTV9DN1lWdjBkZng3UmI2cVRPV1ZPcmhPTkJfV2wtSkdNYmRPLVhRZDlMVkdFRWJXZmpqUUlpUFF4dm9wQVpiWmRFTElfVWtnSzNTMFN1STVObWxZZ3ZsNUw4UHpPa1FVQnNiNXRXaS1aTXltTEU?oc=5"
     },
     {
-      "title": "特朗普：伊朗的威脅促使美軍從英撤走B-1轟炸機",
-      "source": "881903.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SU3hzNjJDMVZEUlpyeFBneDVWUkRCc21BU3ZDNmlqWkN0RkhjcGVKa2RWc0tDd3d5czhzemFGVmJ4b1lObk51OG1TVUNsamhhdWtwUkpCNE9oMlQyLWfSAWNBVV95cUxNajh1QzV0NzRNQ2RBQ3VuRFRWemFZOUJPVzV2YzRDam5CTmxIaTdUdXNOWVhGSllTSkwzV1A1YTBWS3E3QThkb2JTM0szTV9Tams0a3NqbFdFWXJjXzlFMlhDUjg?oc=5"
+      "title": "China Pulse民調：大陸民眾更傾向用外交手段來統一台灣",
+      "source": "dw.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPSWVlYi1CZlNBWmtuQmgwZFRLZGRmc0Voc2NtUW5WWGNVYldFZXhQSFRDQ29GR2VGeWphWlIzUWtMbnduQ1RoMzlTbVRaZE1GaEdfbkxndlR3N2xJdHBaalFPc2MyZnpoQkdfZkpNTzAwUTB1dEdCUDB5b2lrVDdMdVJnWTZNMWxzUzBEVFRNT0xFdDZnbzNGSzdSdkRCWE5aNWxrbzdwaUgzc1pQUEhadDNib0N1YXJISnZFa3B1Tmo2clVQMlhiRkRRWFJHa091ZnBINjFNWmhPSXRKUVZhT1N1RGZiMHJTUW10aDRTY3lTY0dtOEdOX01Ba0J1SHE4N3FCczZMUGJzeHR6NmdjWHdsQ0NMYUstWDdrOFQxVUF0bEdidy1fRUIteE5oWEN5bEV6anhMRDVQWW5QSVlyUkZB0gHCAkFVX3lxTFBwcXQ3TGpqRlpmRVdfdEh2UkYzMm1xMGdpZUlBaXluVW54VmRsT1h3blRSU0RoSXd6cV9qOUlQY2ZpdDU5MFlGdXhrOUN3MlpSdWZKVUV0S3lqUjlEbU9iSHhDQUhGVzd4WjJXc0JRMnRlY0JQMUhfODU2djFqQmhBelk3RnJ4NzVDUERnVUtzYVc4dHJrejkxNEZSR0pXUWdzdW1lXzZPZ00wR0xRdF9CX2hXMkVkREJmc090Vm5Pb0E4ZXZMWW1ZMThVRUhNQl9ia25mdE5Wd3hWTEI4RXVNOHNtdzZTaDdZUDlPeGRFbTBlZmdGTGl2c1lma3hFRlNGRmYzVHM2MzRVSWxfcXdSQ2ZEOVlFS29UN0xCb19ZQlhOVU9TeUVLcWttRlhWYVZLUXJHa0R0WDhWMFdzSzN1T2c?oc=5"
     },
     {
-      "title": "美國：推動國內稀土生產 – 荷蘭國際集團",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVd1T0IzUlprZW1PV2NESk4tVDFSTjA4TEtOWG1xdXduUFh3U0NGeld0ekgwcW9laGIzZzhkMDZDdWQ4LXh5RHRwYUhoYW4ybzdBSmZWc19sMEd0Q2lObTlZbGY3NThhUWlZQjF6YmFoaUVoMVJRdU8yRHJXRGQybGQzcHRZd1RfRzE2aXVPeW9mQVhqbkkydHN0WmhsS1ZZa0hnd3VyTzLSAa4BQVVfeXFMUHpTc0ZDRTJYYUFuU2xqMENab3pIWXpNdVdCNjlOdmhaZVE5SDJTbE5RdklWWnpfaldhR1NRcTB4TlpSMUI4RktBQ2ZyQWxaMnNiMTU4UVY3U2dNZjdhNWJ3YWtwZ25MbWlxWGsweGo0NDZ1Z0RtUXBlTjBqb0sySmdkTkMwSXlmTlRsc3NHZkZjcHlPX21qZVlCbVpUZy03am9rTXE5eHF0aW1sclBB?oc=5"
+      "title": "肺鼠疫懶人包｜俄羅斯鼠疫患者死亡全球關注！致死率可達100％／衛生署列8高危病徵",
+      "source": "U Food",
+      "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNYXZzOENNbUlFZTJtWmFXYS0zZ0FNMFpna3pQZEU4YXVpUkp3UHI0ZG9fQ0RJdDhOcnhDN2l0a3hfNkRsMER5OFM0ZG8xc25RYlcwclIySG5MaDVUWHd6emtiQTJjbkt3czVkOGJaVUZKX3dOVElraE9lV21tcVQ2c01lT21lVEQ4Uml0T000dmN0SjFDOHZCcmctSEpvVFNnUTVkSG9ZOXZzY0d2Smt6c2lTcVBkVkZFNXlhQ3lFRHZBVFFWd0labEJKeDNIcDZMRXdrRG0zalRTb2x0YnFWWUpkM0xVcW1tSld5aThDeTZFZUxsZ295R1hrekx6Zktwem1UbU5QWDNlRnFiaDlfelJiOTMxMzJCdUVkQW9Pb09VaWN0WVExM3FDYnN2amp6VGxqcVJqb3VGQjBtV2x1OUVBdm1CM19oUWZCT25QQ0pQTDFPRjdqeHFxTkxtR2NrU1lfWXNfdUtuaDJWeXhqcnRjclB0Y1hQSUNsUzQzeVA4WXVQb3FUclg4akxLRURoRlFRZ0V0OGozUjRxd25XTm9rZzQ0WmFLMFc2Nm53dXkyekV2aFRpVHRDUVJ3dzRiUDAyc09BbGo3RkxtZTRQU0VzQldTUmdmWFlKWjlkcFAzRkhEUUZtRA?oc=5"
+    },
+    {
+      "title": "擺脫美國｜華為：已基本擺脫對美國技術依賴料搭載鴻蒙系統設備年底破億又指折疊屏比蘋果起步更早",
+      "source": "hk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxOeXBwU0h3WEZwaXBmeDVyYlF6OV9HaVZ0djRnU1dYT1FURVI1MVFMalh2a1VjczZoVWFMWV9pVUZWZGpVR2hKMFloNlAxVW9KVmx0bzhSOXdaRDZZSXdYdDVxRThSTWxGcE16ZzVFQzdzcE5NU0JMMUVLR0tUZS1jY0FyU3lCUDlDNW9HOVoxSGVXUzJRWERzc1lvSHZOOWFLXzk3M2M0bUJRY0xMOUFLblBSa190TFFSaWs5eDJ4TnZkVkl0Z1EwYkZNM1RnclQtWk8yYVF1RjZGdkNlVzlPUWtBREN3M0RDNTJQZEt5cXJRRk9CeWl2Q3ZnOXdLbU1OaWZCSmswZHo3MFpaclRpS1Y4UFhmNDZnYk1keTk0YWtzS09mTGVPU3NhQzdVVHQxNnRuUDZuYjhRYUVIeFlvWmd6bnhEcDFOeWh2UEZOQzBuNERsdXpQbkRZVTlmTi1tTnhQOWpUekJfUTh1VmZpaWdVNVhLVWhHa1BoekVwUmFRcnZTZ1owOEladEppN1d2RWJPejFHWllGYXFrcVZNcE8xeHE4c3JaME9LUW5CUFdNWmZaZzVjSzFJcnlid3AxcTdPbFRBcEU0OEVZblJCRF9uY0VCQllnbktDU0JqWUZ3MGYyYlhtWExma0hPaWl5TkMxUGx6TEdNaG5LZGdYek5NenFzaGloZGdGd0o1eEtwcVJWUG9Fd3B0djlhZVZQSnc2aFNlTUxKcVgxRXhJOG5xR1hYMmlMMnFhVTcxUFJDdjFfb3RBRk1yQTRuN0cwT3FZdU1mbk9vZW85S1JtcDdTdFZwWHc?oc=5"
+    },
+    {
+      "title": "中美AI軍事化背景下，美國國防部正式停用 Anthropic 的 AI 工具",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fUHE2MVNSTE1Od3VPQjRORHdiZURyZDVEMDhuMFBTcWM1MEU2ZHV4ekJBUkMtdnYyLUFKS05HcDlFLXh0T05VSlp2MTVoejBMaGFneE5BNzkwQVplUmtMVW11dUJsMFZQenlyNNIBbEFVX3lxTE5fUHE2MVNSTE1Od3VPQjRORHdiZURyZDVEMDhuMFBTcWM1MEU2ZHV4ekJBUkMtdnYyLUFKS05HcDlFLXh0T05VSlp2MTVoejBMaGFneE5BNzkwQVplUmtMVW11dUJsMFZQenlyNA?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美債拋售潮恐加劇？30年殖利率逼近6% 專家曝期貨市場「這機制」恐成新一波升勢導火線",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNcS04OTN4Ym1wTGh4a1Mwa2c2ZHRTME1oXzZwc2lhcFJMcVRRampac0JudmREN3BzS1l4Qjk0VW9sNVpaZExUSFVPd1NTWEM4Z1hiOFoyby1fb1FRQVpTcmtVenlOc2NwRl9pRzdHeXVja3YxaTFVM1VhejFRc1BTMWlTZVJIVkhvT2EwdENTRXFkb25lWnRRdURHZjRfM3Y0cXloMVhoN0p2ZEdqVnh0Z01DVFVWWDJSYV85UzhPYTZ4SXBRQzJwU2JLT2JRWmFvdnlCOC1nYUQxcWhCb3h4Z2hFbEZkbmVkajhBZFhUQkhzYnpiUGxJS2p4bEliYktnWmdicFAwUzhxWEUtMHUycWl4NGp2eGdGSEpXU2w2UGlqbXdMUmdNOXhaMFo1MDdFLWp2TUhkWVZfV1ZuN28zXzlLM24zOGRwVElzNTdTZ3g5YmNfMjZ4ZUZDME9FSF93Y1htRGVrS3lMNk5jS1ZoRDRmdTdnYXJZbktRYnBMYVBNdEJSa3NmSkVYTHZGMElLb0Q1VnpucGpYdUR1SGpKOFEyVHRDdFBFbjR3?oc=5"
+      "title": "🚨𝗝𝗨𝗦𝗧 𝗜𝗡: 🇺🇸 聯儲局預計今天將向經濟注入 $1,946,000,000。",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUpHWUxxM2FxYWdpWDliNVd6TzB1eVJBTkNFTjVoM28wclgwalozQlY0RVZuOC03UkJvSVJGOVpaMFFTMzNhQzU2TGwzWklfcEh0bnpKUnNJSU5KUV9iOTRiVXF5MmJOS21IWmdRRWdQRVFMWW1Vd1N2M0ttWHQ1NTlfRzE4X1VBMnRCU0xmby05MWk4SU5wVDdURkJNc3BCMEg5cXhn?oc=5"
     },
     {
-      "title": "【美股】科技股帶動納指標指破頂 道指升90點 台積電ADR創新高",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGemRaNUpLbDVFb1c4aVNPbTVYTDJHT3FpN0pOam00bXJfQUhrRnRIQVdNMi0xUDZCcTdMNHZGTElRZDBSdW1lRVFYX0oxeGJEbm13LUJLdDlubnV4V0dXay1mY1pWbF9DSS1QQmxSYmx4WktBYlBPQmFsNA?oc=5"
+      "title": "《經濟》英國9月標普建築業PMI升至46.1創八個月高 勝預期",
+      "source": "hk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQZzFEMHhDRHF5NDd0QlRXU3VGV0FzSklaSEU1SUhNU0RBa3ZPLUpXRG1zeUJpMmFTS25jdUxRdi1MMkU0ZnhxMkJ2ck04TG5ZaG1KUXNjWkk2RGtxV0lsZ2FCWS1rM2dfVnFGVUJQYWVZYmZTUGpLSWRTYkFyeWxkeFNVNWRQdjU3U09TRWpieFRkdTZxUEpTTkMwVEtfV2NmNHRTYjJJQmo4WmZCQmlNMHJiaDF0NTBHTzNrQXZFbHN5c1JGTUhJcTktdExyWFZCZ0FUMVc1U0M3cE9DR1o5NEFnUG9VWGZKcW9kbWVVekJIdzNHX2Z5djNOQ3ZHdHBFSjVXeVE1M1NIZEpqUnZ4dVYyc1NkaE1kOWpQaGlQV3l6TWQxQ19JVE14THEyY3VUNjQzcGotdE1kVmpoeHJpaVV4Z20xU2pJY0hLNUdYQ2RpaTIwSlZVay1tdw?oc=5"
     },
     {
-      "title": "【華爾街日報】AI 正在擠壓美股的其他板塊",
-      "source": "端傳媒Initium Media",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BVkh4QjBfN2x0NlI5bWxybDFmdUJpb3RERkxWWnZQVmtoYnpaajllSmhYa2cydUR0WV9YUGhIMTNuNEMwUE9lZVFLcENuOXNGajFpVlA2RndWeGdxbzE4dXk1Q1BoemRXV2VBa2JkX29talBLNnZYZQ?oc=5"
+      "title": "【行情快報】美債殖利率創高，股市還能續強？四大關鍵一次解析！",
+      "source": "MacroMicro",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX3B5Yk9wbU1OQTlOeEtkSS03a2lKTlUtMFp1Q3dyVkNEMFNqdzEyWi1fV1lBZHozVzRNa3JWRmpXcWhKVWludzVZaWpGTWtqWnpUYVI1bTNfYTZCY0NpSUNXMEV1TjRQNWEtSkV5elhUUE9kRVBOOVBsdVJLZld0N2tCMEExOVZPSWJDNkppREdaUVVpUXRPYUJQOFFWQlJKRzR2aG1iaExHeFN6MHlLSGN1LXZZNVNRRzNQc3B3UmpEbmdlOS1oRkp5MU1uMEtMQ01sbUFUbno3ZHBuVVRPS1hvRjhZR29IY2VfV2JZRTFiYUU?oc=5"
     },
     {
-      "title": "美股日誌｜納指再創新高 投資者聚焦議息紀錄",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQSTQ3ajJ6Y1NKbURSMnNUWG5xS2xSeXR1QzVoQU16cDF4U1RhUnNUUzJuSTgxckd6Q0NrdGFucUMyc2RiVjJnM0pBODdEZlVFZ1J5eXljUG1LOU13ZGVrUmE2a3pSMElGMXpRSGdEcVF0TzVheWJoOWNfX2pFc0ZTWGhGUHpYUE1oVXdYU2RtbnI5Tzc5XzRoUEpCTVM3TGZuS1M4c3VWMDZpbEdwUXhEeWJ4a2FGUldWNmVTaHZFWS1PeVFjeW02aHVnZEZUX1FWR2VoRURRMmVhUTB6SnhwejdZSGtNZ19NNXNIeTZNRXRMbHdBdU5sZjV2VGlWbEY0OXJ2QTFKOTdndmExNnhUd1RfSUttcWx1d2pIS1VZdjNZa1JlS3VoZjVaamZ5enlRYlRYVUcyaEs4V1U0T1NaemFB?oc=5"
+      "title": "美債丨貝桑:美國可非常迅速地壓低債務水平",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNWmtrNTdVTFFsWUczNlhrS3JFMno1LUdyMzhjMXQzOUVYai1hMU9ReXZJYlVIRkZ4SFU3RlltXzVBSDU3dWxUOWxjQmJjTHZoOFJpZmdvWjBzeXItcFNPc2lDclRZYUpSX0tta2hBcFV4YmRBLUVlNWkzZ1I2SXNILWI0akJKb3VkYjBUOHk4QTNmbEpBamFYejItalZxUXRvVTBid2N6ZjFMaHk2MnZENTZrcWtrX215dXRuOVd3QThCOHhnLTRoSnluVGQ0U3Z6OXcwNFhsZDcwZnJkZU1CT2ZXUmg1QjExU0NIZDFuUW1idzFRY2ZBeFoxd21WUXFuNXpLYXl2QXpoLTRjWGtSVFo2dmdkbFFzbTFyZnVYQ0dJWldvc3NadmZyOFVGRmQ5WTRKcWtGeU11a2xDQ0F3dXhrM3RYb3ppYjJaRUlVNDdUa3pYWTZ4WA?oc=5"
     },
     {
-      "title": "納指升逾1%創收市新高 道指升90點",
-      "source": "news.rthk.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yWmktTHpNLWxsUTVoTFpCWnJzNDcxN1ludVRoTWktaVVtM0lKQXo2cS1WOTNVazJTSTI2S20tVzBtYnhqOUEzcFY1X2U2Qi0tVEFaOV9tWHNhM2h6a0pCWTlSX3NHamluRW5mODM1Zw?oc=5"
+      "title": "道瓊斯期貨因美聯儲加息預期緩和而上漲",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzhUek8yZ3J6cDFpdnF4NnNRWDJ2bWVrbE1qLTl0akJTVG13TE5sNkV5eTZpNi0xUWxRWVdnZU5DaUdTVmE0VHdaLUtLbkhNTnJDVjN5SzI3aDZ5T0FUMzg5QVQ0c1RsaWI3U1B3RXFRWU1SUFMxZ0RNbTYxR2hldG1LVzRHQ2E3RHd1VFJ2OXUybWtsMTJCWGVuekpHRDg3WHZiUDM0eTFWSzBMYUMyNFJPelFVLU5fb2fSAboBQVVfeXFMT1c4VHpPMmdyenAxaXZxeDZzUVgydm1la2xNai05dGpCU1Rtd0xObDZFeXk2aTYtMVFsUVlXZ2VOQ2lHU1ZhNFR3Wi1LS25ITU5yQ1YzeUsyN2g2eU9BVDM4OUFUNHNUbGliN1NQd0VxUVlNUlBTMWdETW02MUdoZXRtS1c0R0NhN0R3dVRSdjl1Mm1rbDEyQlhlbnpKR0Q4N1h2YlAzNHkxVkswTGFDMjRST3pRVS1OX29n?oc=5"
     },
     {
-      "title": "OKX向SEC提文件 擬推代幣化美股交易 首批涵蓋英偉達和蘋果等",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWkdBdVBtSWEtc3FSMW1RbWowbktSSDRXSXlyekYyNmM4MTNLVWRwV0N6bk9uUUFLVlJvcDN6c18zT1ZndkdteldWTmxpdVdHUEthM0hWVmpYZnhMTXRyQVNpTjFncHFuLTlIZThHcGc0Q0dXZFdqZmNVSlRncy1QSXJjbWtDeDBYUnViT0VUZGlyN0FPY25Jd2tPaGp2NHJMX2pESGJlQ3U1YzFLcUZUcDZCeXVEakpJRnp5SmNlR2ZNcnpabkdBclA4UmtnSGdfLWFGa1Y0M2pVLW5IVVYxSjVoUjAtRkN5M2szYzIzbGFvcUdHRWZiSWtJZ1d5NTJ3Yi1QQ24tZE81RkZ0VVhtZG43dFJnYnhhQ1hKT2J6cTBlZU1xOFd4VUhXdWdaQmVjdjBOa3ZGc2VUeUg3WjFodmUxamRhUTlZdU04X0NLd0RJNGtQSjFTTENoVGhlaC13NVgwMk1UbjNaRG5xRFVMQmN4RzhKU19Oc2pYejVoM3NaaFVnOUViM3hmSTY5QnFSXy16VUlNM2xfb2lLaWQtZQ?oc=5"
+      "title": "美債息破5厘創廿年高 銀行股風險要留意",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPMnhHeDBwQmVhSmRMcTNjeTY1d0ZIaUU2SFpKWlYzbklQc2tacHBGVjAtT3J1dW5GODN4S0JiMlZhSVlBNGVES0tzbjk3eXBQa2R1MVNZaXhWMk94cklRdG9LT1hCWExFRkY3TkJJbjFLbGNJUWtPbEJPcVpURFF6elZFcU56Ykh6emw5MG5qdmptcXhqbmJ2WTNqZFpXdEYwNDBQS2JQbW5wWnFhZWVSOFZzVmtIZk9fTk9WWnhnZ1dwUmQtRVF0N1dfRGlabFpabWttSHN3RVBaMzNSZHdLaWY2UWJmUkNTd2R5Yk04MGw3d2hRbEZtWVZlc0R6QVl6czE2VlhoTDNjY3JGNi0wS1hKZU53UEhVSWxrOGRZbThnbjQ5cVhBUw?oc=5"
     }
   ],
   "events": {
@@ -84,16 +84,16 @@
         "title": "美國 9 月 CPI 通脹數據",
         "date": "2026-10-14",
         "desc": "美聯儲關注通脹指標",
-        "days_left": 9,
-        "status_badge": "9 日後"
+        "days_left": 8,
+        "status_badge": "8 日後"
       },
       {
         "tag": "FOMC",
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 31,
-        "status_badge": "31 日後"
+        "days_left": 30,
+        "status_badge": "30 日後"
       }
     ],
     "stocks": [
@@ -103,8 +103,8 @@
         "type": "Q3 財報",
         "date": "2026-10-15",
         "desc": "2026 Q3 業績公佈與法說會",
-        "days_left": 10,
-        "status_badge": "10 日後"
+        "days_left": 9,
+        "status_badge": "9 日後"
       },
       {
         "ticker": "GOOG",
@@ -112,8 +112,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 23,
-        "status_badge": "23 日後"
+        "days_left": 22,
+        "status_badge": "22 日後"
       },
       {
         "ticker": "NVDA",
@@ -121,8 +121,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 44,
-        "status_badge": "44 日後"
+        "days_left": 43,
+        "status_badge": "43 日後"
       }
     ]
   },
