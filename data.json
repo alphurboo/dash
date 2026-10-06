@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-06 07:15:18",
+  "updated_at": "2026-10-06 16:15:22",
   "gas": {
     "current_label": "10月6日 (現行油價)",
     "current_price": "187.9",
     "predict_label": "10月7日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "184.9",
+    "trend": "↓ 明日預測跌 3.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "中東石油巨頭稱世界其他國家需要分擔伊朗戰爭的代價",
-      "source": "hk.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQcmJYZU5Zb2pNVDVSN2FDV3BzLVRzNkRZaTlaYUR4bFR3NVZCcy1DNGdaVkI1eXpFSTVHRFozajM1aXpnVEwwWjZyUVUtRnpLNGxTbDRXZ3NXM0EwOWxBV2FLNFNYOHVuSTlLMjBXQkd0b2drd1BqUTNlZ2E3djRMSTJFbzBzR1dCMVFiUS14amYzTVBDNVFxeG55eGtnOHNwY1ZPNlVGSURCdjh2a0Y2WUlNY3VMYzk1QVVOV1VXTE9aVTc3QTRsTVVGbzBTaVFaX1ZGMDlXekxxelotSm1jQXc3ZmF6RFVVVTdISm1kOF9NOWxsQl9lWHVDOV9lLUhMVmRpd1NJREtySXF0aU56aGNGbHkzZTZTNWtxZ3BDYmtlMUF5R05pTUtHS0tIZGt1QU9tMlg2alpfa3RZY1c5YmhpZkRQczhoQ2s5bkU1aWVmcHh1bDVzcWhXa0pDdWhwNjNwNGQ3cFRRQm0tQnRSTklHemlxYm9raktWUGZn?oc=5"
+      "title": "10月6日美國主要經濟數據每日摘要",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWnJlYzJvakZocEtCU05BdW5iNHZrWlNZRE9XbVNCbGlmOUpxRkY4TlNhelQwUlNyek1pSW14TUU5SXVjSFg0Tjk2Rzhwd2xRNTU5bkhmc1JuVlBLS0o1b3dGTDdCamZOUmhrUy1yVW5NTjEtNDVpSGFrR3haUHFySmJLQTZGNy1NM0FCT2c2b1JYQ2R3U1RteGVNajc4UG43ckZjSWd5bnZic3F0R04teUNlTlNsRThvTnlweDlHX2I0ODQwdDgyQ3Z5MFFkc254WWNjX3NoRzMwc21Wc2Vlb21obW9vUEljOUlwcFN3WHhrX3N2amc1YTdsUExPSExZTWNHa0lHSHliZw?oc=5"
     },
     {
-      "title": "美國智庫警告：若繼續向中國銷售先進半導體製造裝置 美國 AI 晶片優勢恐消失",
-      "source": "Unwire.hk",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kYTRKbHdTWHlkdU8ydjFKZ0c4SjlZRUVrMWRyWmRIODRfOUJWSzgtLVdrbVdDLV9UY2dQSWJkNDRIc3RFVmJtYXRDUzY4b3lJV3otSGZkZTQ3eUVTN3F2UzdRal96cjN3R19VN3pENmMzY09B?oc=5"
-    },
-    {
-      "title": "美債丨貝桑:美國可非常迅速地壓低債務水平 美國大選選情追蹤 - 專題",
+      "title": "耶倫支持盟友反制美國關稅",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQczVaZnJYWEJFUExPb0Y0LXEwSnp5NTVjeW5VNms3VTZUWDg4alpnNkxIRk5LSXctYkN3MXhHNVhUYzJpSGlJT2stdUhZckpSTkEySGdTZFNQT1hTVG5uTHBXZElweEFRdVUyUmx0TEZraHZ5bEhsU3JwbFVBUGtrdExIa1VtUUZOendUSFRXZUQ2cVliYk1Edm9WS216ck1qaWxHaDhxVWl2eGQ0YkpGLWQ1RmFwRzN2QWQ5RnI5SFk3dGV2Z1BicFpBR3dpTWJwMDlsblZESEZyMG5kTnZnX0lNdkVlbGhIN3ItTGlIT085UlpXNmgzWERaenI5a1czV0xNdk1MSWF6MGpHaU1oelhuUWYtM2RYTDlBU01Dc0lkYkFPbmo3LVlPRElDMTlXel9OajdmbW5VTV9DN1lWdjBkZng3UmI2cVRPV1ZPcmhPTkJfV2wtSkdNYmRPLVhRZDlMVkdFRWJXZmpqUUlpUFF4dm9wQVpiWmRFTElfVWtnSzNTMFN1STVObWxZZ3ZsNUw4UHpPa1FVQnNiNXRXaS1aTXltTEU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZ0U2YjJ5VFFqR1Z2ekJudDFOcTBELTgxZWZuQVdrZ0ZtajB4eEUtRE9hZlhuZm1mRERuT2VDZFNVNE5fcWFJcEV0TGFtZmw2V2JTcmVYQ0dPSWdZX1dmV3FCTFdWcEJ4bUtsc285SFdfaFUtelNHNUJFZlJMbmVwX3FNd2pqOTZ5Nm04NHFvMXpZeDAwdHpwVFZ6SjBBaGhnNW5YVzJHdld1NURCM05ReWo5b1lyb3ZjekQ3bkpqWmQ0Y3czQ0c5SjZUSVowM2thc2cxcmtmYkhLWks5N0RCZk8yZTlpWkZSNk1wclItS1NtcnhyWkZIRFF6LWk1bXFh?oc=5"
     },
     {
-      "title": "China Pulse民調：大陸民眾更傾向用外交手段來統一台灣",
-      "source": "dw.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPSWVlYi1CZlNBWmtuQmgwZFRLZGRmc0Voc2NtUW5WWGNVYldFZXhQSFRDQ29GR2VGeWphWlIzUWtMbnduQ1RoMzlTbVRaZE1GaEdfbkxndlR3N2xJdHBaalFPc2MyZnpoQkdfZkpNTzAwUTB1dEdCUDB5b2lrVDdMdVJnWTZNMWxzUzBEVFRNT0xFdDZnbzNGSzdSdkRCWE5aNWxrbzdwaUgzc1pQUEhadDNib0N1YXJISnZFa3B1Tmo2clVQMlhiRkRRWFJHa091ZnBINjFNWmhPSXRKUVZhT1N1RGZiMHJTUW10aDRTY3lTY0dtOEdOX01Ba0J1SHE4N3FCczZMUGJzeHR6NmdjWHdsQ0NMYUstWDdrOFQxVUF0bEdidy1fRUIteE5oWEN5bEV6anhMRDVQWW5QSVlyUkZB0gHCAkFVX3lxTFBwcXQ3TGpqRlpmRVdfdEh2UkYzMm1xMGdpZUlBaXluVW54VmRsT1h3blRSU0RoSXd6cV9qOUlQY2ZpdDU5MFlGdXhrOUN3MlpSdWZKVUV0S3lqUjlEbU9iSHhDQUhGVzd4WjJXc0JRMnRlY0JQMUhfODU2djFqQmhBelk3RnJ4NzVDUERnVUtzYVc4dHJrejkxNEZSR0pXUWdzdW1lXzZPZ00wR0xRdF9CX2hXMkVkREJmc090Vm5Pb0E4ZXZMWW1ZMThVRUhNQl9ia25mdE5Wd3hWTEI4RXVNOHNtdzZTaDdZUDlPeGRFbTBlZmdGTGl2c1lma3hFRlNGRmYzVHM2MzRVSWxfcXdSQ2ZEOVlFS29UN0xCb19ZQlhOVU9TeUVLcWttRlhWYVZLUXJHa0R0WDhWMFdzSzN1T2c?oc=5"
+      "title": "本港蟬聯全球最自由經濟體 政府：肯定自由市場優勢",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOcGxHSEo0ZS0wZU5QOE02WDVNU1JXZ1RYZ2ZYYktZU05YaV9qRU1SRU5MNktRbDJrRUdaNG9WZGxfQTRoZWl3ejJCam5jSG01cC1JSk5MZ0F6Vk9BbE1JWWZWQjdVRHZ2QjFpSk9BMWdSMHdaR1pzQ3VOVldkakVIZnV3cV9uZGRHTlhmZHlYUUpTOTZ2Y2tOWEYtOXBud3RaRDYzbUNBMnR4aXQ2WEVMRWpGam5EeVQ0TEhLNHZwY1J0YW40aG5TaERwZzlYN3dBUUtvSDROTE1KSWdwOXVIb00zamlycTFETk5GYkJkckkybGp6bzlhYk5VeDA2dFRjMnd1ZVdESWpLODRWU2lHMWN0azVBSTBRTFNZbmp4dlU0WXVLTk9lTmJXel9QM3JMY3JjdTJnM3FaYTQ1M0lSMlRlNzMxbk5vYkswbnpwOUZMci1KeHZYUm1RZHRxQ09pcWlaWXg4bHVmUQ?oc=5"
     },
     {
-      "title": "肺鼠疫懶人包｜俄羅斯鼠疫患者死亡全球關注！致死率可達100％／衛生署列8高危病徵",
-      "source": "U Food",
-      "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNYXZzOENNbUlFZTJtWmFXYS0zZ0FNMFpna3pQZEU4YXVpUkp3UHI0ZG9fQ0RJdDhOcnhDN2l0a3hfNkRsMER5OFM0ZG8xc25RYlcwclIySG5MaDVUWHd6emtiQTJjbkt3czVkOGJaVUZKX3dOVElraE9lV21tcVQ2c01lT21lVEQ4Uml0T000dmN0SjFDOHZCcmctSEpvVFNnUTVkSG9ZOXZzY0d2Smt6c2lTcVBkVkZFNXlhQ3lFRHZBVFFWd0labEJKeDNIcDZMRXdrRG0zalRTb2x0YnFWWUpkM0xVcW1tSld5aThDeTZFZUxsZ295R1hrekx6Zktwem1UbU5QWDNlRnFiaDlfelJiOTMxMzJCdUVkQW9Pb09VaWN0WVExM3FDYnN2amp6VGxqcVJqb3VGQjBtV2x1OUVBdm1CM19oUWZCT25QQ0pQTDFPRjdqeHFxTkxtR2NrU1lfWXNfdUtuaDJWeXhqcnRjclB0Y1hQSUNsUzQzeVA4WXVQb3FUclg4akxLRURoRlFRZ0V0OGozUjRxd25XTm9rZzQ0WmFLMFc2Nm53dXkyekV2aFRpVHRDUVJ3dzRiUDAyc09BbGo3RkxtZTRQU0VzQldTUmdmWFlKWjlkcFAzRkhEUUZtRA?oc=5"
+      "title": "德法聯手推動歐盟遏制中國進口 北京「分化」歐洲難度或加大",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNeUxlZ1FMLXpxTEhuYjVlbVdUalg5ekEtWmpLdE1TTkVnY0NaOUpQRzIwem5JdWpXRzNta3owcjJfb2haYVh1bmo4a2ltWTZndE9fR2wyZDZnY0FQNEx2d2lMbjNsYWVyQ1FHTjQ3alhFUVRyN2E1cXFwVDVSQVE4eTJITlJqeTJPVUc2SjQxUWpSaEZOZzZJSXlpbEJKMm5YVXdzRkFzSnRWbW1QSlRjU1ZfZ1JUUm5qNks4NjZGOXRWc0VyZHBxbFE5OVdiVVZGaE9JUm1jaDVqbTZNMGx3dUFVUkhNUDM3QXV1a2FLZm1iTUw3TkxXSGRfTEZBTEg0b1FzY21hMWRFLUVzVDZEZG5FMmJkaDVNVklCWER1UWdCVGk3M3ZvcDlfVktIZThfb1hZdlZWMUdoVGtZVVFXMkFIajVUWHJ6aVlFaF9ORzlocVJLUnJSTTJIdWwtUUdnby11R0dyV3pRS3BmcUNBUFlFajNjZmhXM29od2ZhdG0xejU2bnhmZ29sTEVhZw?oc=5"
     },
     {
-      "title": "擺脫美國｜華為：已基本擺脫對美國技術依賴料搭載鴻蒙系統設備年底破億又指折疊屏比蘋果起步更早",
-      "source": "hk.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxOeXBwU0h3WEZwaXBmeDVyYlF6OV9HaVZ0djRnU1dYT1FURVI1MVFMalh2a1VjczZoVWFMWV9pVUZWZGpVR2hKMFloNlAxVW9KVmx0bzhSOXdaRDZZSXdYdDVxRThSTWxGcE16ZzVFQzdzcE5NU0JMMUVLR0tUZS1jY0FyU3lCUDlDNW9HOVoxSGVXUzJRWERzc1lvSHZOOWFLXzk3M2M0bUJRY0xMOUFLblBSa190TFFSaWs5eDJ4TnZkVkl0Z1EwYkZNM1RnclQtWk8yYVF1RjZGdkNlVzlPUWtBREN3M0RDNTJQZEt5cXJRRk9CeWl2Q3ZnOXdLbU1OaWZCSmswZHo3MFpaclRpS1Y4UFhmNDZnYk1keTk0YWtzS09mTGVPU3NhQzdVVHQxNnRuUDZuYjhRYUVIeFlvWmd6bnhEcDFOeWh2UEZOQzBuNERsdXpQbkRZVTlmTi1tTnhQOWpUekJfUTh1VmZpaWdVNVhLVWhHa1BoekVwUmFRcnZTZ1owOEladEppN1d2RWJPejFHWllGYXFrcVZNcE8xeHE4c3JaME9LUW5CUFdNWmZaZzVjSzFJcnlid3AxcTdPbFRBcEU0OEVZblJCRF9uY0VCQllnbktDU0JqWUZ3MGYyYlhtWExma0hPaWl5TkMxUGx6TEdNaG5LZGdYek5NenFzaGloZGdGd0o1eEtwcVJWUG9Fd3B0djlhZVZQSnc2aFNlTUxKcVgxRXhJOG5xR1hYMmlMMnFhVTcxUFJDdjFfb3RBRk1yQTRuN0cwT3FZdU1mbk9vZW85S1JtcDdTdFZwWHc?oc=5"
+      "title": "法德促歐盟強化貿易防禦 中方:開放合作才是發展正道",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNWXFnRUZFLVp3dnlqQ2ZuWC1oQzRvNTRCbVZCTms5ZXU1cDc4bWVZNTRlQlZlblctWmRpS09tOWVHZHp1eUFyWTdqVENvN3JRS0FQOUNabl94bENQN1B1bGpIeUpCR2dNQm1SU2xjeE9acmJCaXZlX0ZMMmNCYS04TnZUNE9qcUZvUV9MRVVNM0FDM212VFB2NXhqQUg4dXZsRjExX2FyMGpfZWVDYy16REJNbmR4Y21wWjk1MjJjYVFweGJoVC1uMWJWR1c5Ry1ycDBxLTd5aVhjSGs0NXJveG5BMWZaYjRKWUZCVmxkb0Y4TW9FRGhoQ2FmZlF1akVETC04dThVeWdsUzJPdE5seHB6Y2lvU1NKaE45WEdZWXNfY0JmckNNOWlxR2FsUWZHbGJuVGtyVUpIdExkRWdMMlV1WGZxT2NtS1F2MFRUSTlneTYycVJmTzZEY0g1RUVYVHpXYlh2dWpidFRkZV9LZS1tMHVjejNw?oc=5"
     },
     {
-      "title": "中美AI軍事化背景下，美國國防部正式停用 Anthropic 的 AI 工具",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fUHE2MVNSTE1Od3VPQjRORHdiZURyZDVEMDhuMFBTcWM1MEU2ZHV4ekJBUkMtdnYyLUFKS05HcDlFLXh0T05VSlp2MTVoejBMaGFneE5BNzkwQVplUmtMVW11dUJsMFZQenlyNNIBbEFVX3lxTE5fUHE2MVNSTE1Od3VPQjRORHdiZURyZDVEMDhuMFBTcWM1MEU2ZHV4ekJBUkMtdnYyLUFKS05HcDlFLXh0T05VSlp2MTVoejBMaGFneE5BNzkwQVplUmtMVW11dUJsMFZQenlyNA?oc=5"
+      "title": "美國財長貝森特重彈降債老調 市場人士直言「願景不是計畫」",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQZmNfYTdMejJlcFE4MDh5LWlfbUZmeF9mbndoTnRRTG9zYlpDQzN5aXpSZzRRR2hlQlp6NlB4R2FhMkFldjZOX21EZXZMSnFKMkJlenBwSHpmNjNEWmoyalE3VGN1LXZWWWY1M3JZQ1VGUXI4d2k0MERJLTByY1BLbWNTbEpkQ3dOOXRZNUQ5NkRaOTZRTHNQdjhTU2RudlpPUkswRnQ3NUtOX3BfNE45RGttUG5aM3VqbmdIMGJ0bnN0WFZ4TVVLRTdleGJKemdJdGlZZV9DQjVtcVVkUE1USHgtaWlvZU1FU1paYnBzMWdFVWJoM2lpcGs1c1k5eHMxa3B3emhuUEJfV1lOY0RmSDZsNjA2ZHJlcURKM0Z0bXM3NEc5VVZwTGtwV0lQUVhhNmJsU0ZpMlNXcFVQUS0xczEzaG9BUnJHTG5zZC1yWjRkcDNacFM5cmxnV1F0Rnp1U0V2a1FtdDhQZV96QnVmenJMb3pEUVBOTkZsREtfNUN4dDAzSEdnRGdUdFI?oc=5"
+    },
+    {
+      "title": "國際學校提60加費申請全部獲批",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPX1F3cGxkOVVoWk91azZISHlqUkpYcjRMZjdfWWJ3b3R3Q004eGE2bk9Ta3E1M2NvMzVnejUwVzUtOTZLOF9wamhJSWQzUXZWQTVRTkFIU0FLNnF4NlZRMzlsMFFNZzBtVGdmRzZMOHp4aS1NVFlsVXlVWUM4aWFJN0NGMEo5b25YNjhPNGtYeS1HdGdPRkl5SFZnNkd0VndCSUd2ZlhITGhPdEVRNm12alhqMHh0R0NfSEJNYWtEUUtJZHlVQUpQaTNiRHhxNFZUdGlYMlZxWFkwckZJYnRuS1ZDbDF1djZUbzVRNm1NcFJMdkR5OEVSMzBwQWctQQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "🚨𝗝𝗨𝗦𝗧 𝗜𝗡: 🇺🇸 聯儲局預計今天將向經濟注入 $1,946,000,000。",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUpHWUxxM2FxYWdpWDliNVd6TzB1eVJBTkNFTjVoM28wclgwalozQlY0RVZuOC03UkJvSVJGOVpaMFFTMzNhQzU2TGwzWklfcEh0bnpKUnNJSU5KUV9iOTRiVXF5MmJOS21IWmdRRWdQRVFMWW1Vd1N2M0ttWHQ1NTlfRzE4X1VBMnRCU0xmby05MWk4SU5wVDdURkJNc3BCMEg5cXhn?oc=5"
-    },
-    {
-      "title": "《經濟》英國9月標普建築業PMI升至46.1創八個月高 勝預期",
-      "source": "hk.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQZzFEMHhDRHF5NDd0QlRXU3VGV0FzSklaSEU1SUhNU0RBa3ZPLUpXRG1zeUJpMmFTS25jdUxRdi1MMkU0ZnhxMkJ2ck04TG5ZaG1KUXNjWkk2RGtxV0lsZ2FCWS1rM2dfVnFGVUJQYWVZYmZTUGpLSWRTYkFyeWxkeFNVNWRQdjU3U09TRWpieFRkdTZxUEpTTkMwVEtfV2NmNHRTYjJJQmo4WmZCQmlNMHJiaDF0NTBHTzNrQXZFbHN5c1JGTUhJcTktdExyWFZCZ0FUMVc1U0M3cE9DR1o5NEFnUG9VWGZKcW9kbWVVekJIdzNHX2Z5djNOQ3ZHdHBFSjVXeVE1M1NIZEpqUnZ4dVYyc1NkaE1kOWpQaGlQV3l6TWQxQ19JVE14THEyY3VUNjQzcGotdE1kVmpoeHJpaVV4Z20xU2pJY0hLNUdYQ2RpaTIwSlZVay1tdw?oc=5"
-    },
-    {
-      "title": "【行情快報】美債殖利率創高，股市還能續強？四大關鍵一次解析！",
-      "source": "MacroMicro",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX3B5Yk9wbU1OQTlOeEtkSS03a2lKTlUtMFp1Q3dyVkNEMFNqdzEyWi1fV1lBZHozVzRNa3JWRmpXcWhKVWludzVZaWpGTWtqWnpUYVI1bTNfYTZCY0NpSUNXMEV1TjRQNWEtSkV5elhUUE9kRVBOOVBsdVJLZld0N2tCMEExOVZPSWJDNkppREdaUVVpUXRPYUJQOFFWQlJKRzR2aG1iaExHeFN6MHlLSGN1LXZZNVNRRzNQc3B3UmpEbmdlOS1oRkp5MU1uMEtMQ01sbUFUbno3ZHBuVVRPS1hvRjhZR29IY2VfV2JZRTFiYUU?oc=5"
-    },
-    {
-      "title": "美債丨貝桑:美國可非常迅速地壓低債務水平",
+      "title": "「鱷王」憂中日減持釀美債危機",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNWmtrNTdVTFFsWUczNlhrS3JFMno1LUdyMzhjMXQzOUVYai1hMU9ReXZJYlVIRkZ4SFU3RlltXzVBSDU3dWxUOWxjQmJjTHZoOFJpZmdvWjBzeXItcFNPc2lDclRZYUpSX0tta2hBcFV4YmRBLUVlNWkzZ1I2SXNILWI0akJKb3VkYjBUOHk4QTNmbEpBamFYejItalZxUXRvVTBid2N6ZjFMaHk2MnZENTZrcWtrX215dXRuOVd3QThCOHhnLTRoSnluVGQ0U3Z6OXcwNFhsZDcwZnJkZU1CT2ZXUmg1QjExU0NIZDFuUW1idzFRY2ZBeFoxd21WUXFuNXpLYXl2QXpoLTRjWGtSVFo2dmdkbFFzbTFyZnVYQ0dJWldvc3NadmZyOFVGRmQ5WTRKcWtGeU11a2xDQ0F3dXhrM3RYb3ppYjJaRUlVNDdUa3pYWTZ4WA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQaVozcndmNVdJb3M3WTMyZWlWMEJJaC1vUDBKMktyUkpIb2lwYW5Ncm1uR1VLV0JydHAyTHBxWGxGTkp4T3hTMGkwTDlrV18wZGdlYlUxNkFHV3h5Sk9zaG1kbUN3NUkxS0pWVnlGc083Z1ctY05fYkt3Mkh4VUpYZGprNzRWaDN3RVRkNzBPNVRXZ18xUUl2RG9OUndXM2Yyd19LNkxNZU5tRXhYS0lTVWF2cTg3M0luNXB4a2FWdXY4eEdza1AzSWRnb2huQkQxWXJOY2RPbjJ0ZkZMSUctbzlwQ3luampBRmlTVFJpVS1jMC1OVklxbkJGWEJPYWJyUkZrWDlQeWFncTJYNXRF?oc=5"
     },
     {
-      "title": "道瓊斯期貨因美聯儲加息預期緩和而上漲",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzhUek8yZ3J6cDFpdnF4NnNRWDJ2bWVrbE1qLTl0akJTVG13TE5sNkV5eTZpNi0xUWxRWVdnZU5DaUdTVmE0VHdaLUtLbkhNTnJDVjN5SzI3aDZ5T0FUMzg5QVQ0c1RsaWI3U1B3RXFRWU1SUFMxZ0RNbTYxR2hldG1LVzRHQ2E3RHd1VFJ2OXUybWtsMTJCWGVuekpHRDg3WHZiUDM0eTFWSzBMYUMyNFJPelFVLU5fb2fSAboBQVVfeXFMT1c4VHpPMmdyenAxaXZxeDZzUVgydm1la2xNai05dGpCU1Rtd0xObDZFeXk2aTYtMVFsUVlXZ2VOQ2lHU1ZhNFR3Wi1LS25ITU5yQ1YzeUsyN2g2eU9BVDM4OUFUNHNUbGliN1NQd0VxUVlNUlBTMWdETW02MUdoZXRtS1c0R0NhN0R3dVRSdjl1Mm1rbDEyQlhlbnpKR0Q4N1h2YlAzNHkxVkswTGFDMjRST3pRVS1OX29n?oc=5"
+      "title": "美債殖利率脫離2002年以來高點 受油價下跌及貝森特講話影響",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNTkxoajZxeDFOS0VTcHlIRU12MmJjVU01YTJoaEtPMzFOUkVlUGZlZzU3ZmUybDlSU3M5dXZzRUxaSTBCakRUckVEdU9hUFE4Zl94RGNHZUVSOVlOdmVndDVhVnBXYm9JSl82RXFjS1Flak4tNHpTRGw3bWlzSTczekxLLXdtMklGVF9UZXV3eDFINHRiQTFLY2xLM3RrU0NKVURhODRSb2JDYnFjVjlkb1RfR0RON0wtcDBhWUhMbTE1bnpFSWhZcFpZd2lIZjBkWW5McFQ0X2pDSU9xUzZ5ZVVHUGVfSVJ1MzFUODVJVUxLUktxVlRLNmJwbmkxYXVoZURkZTkzSGNPMzZpZXhTdW1tOTRqRmZxcm5hZzVLVkJjSUViTXh3QmZTbnMtOW5pWHAzMVFWVXkxcW5Lb3AxRWxpR215VzlLRjhLMmN3eWxnTkdBdUxlOXJWVmZrVHFXY3lRSXFMQlZDUmFIbnVQMWtHeEtYQUxnZnlKMDgyQTh3bWd2a005bHRoWENEY0hQ?oc=5"
     },
     {
-      "title": "美債息破5厘創廿年高 銀行股風險要留意",
+      "title": "道指初段升約200點 標普500指數及納指創新高",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fYlRBc0Z3TkM3eEtJVTBWMndSYnlSMGpfUThJa2JFU0h0S2VFcW5kLWFzUFJIbUJuTG5UaDJNT2JCUnNzRWI4UXBXdHBKNVFWYk1MWlpILTU2emZpelIzaVoxSV83NllTbDg4WjlFbw?oc=5"
+    },
+    {
+      "title": "【美股市況】油價及債息回軟 標指納指新高 SpaceX再升2%（不斷更新）",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPMnhHeDBwQmVhSmRMcTNjeTY1d0ZIaUU2SFpKWlYzbklQc2tacHBGVjAtT3J1dW5GODN4S0JiMlZhSVlBNGVES0tzbjk3eXBQa2R1MVNZaXhWMk94cklRdG9LT1hCWExFRkY3TkJJbjFLbGNJUWtPbEJPcVpURFF6elZFcU56Ykh6emw5MG5qdmptcXhqbmJ2WTNqZFpXdEYwNDBQS2JQbW5wWnFhZWVSOFZzVmtIZk9fTk9WWnhnZ1dwUmQtRVF0N1dfRGlabFpabWttSHN3RVBaMzNSZHdLaWY2UWJmUkNTd2R5Yk04MGw3d2hRbEZtWVZlc0R6QVl6czE2VlhoTDNjY3JGNi0wS1hKZU53UEhVSWxrOGRZbThnbjQ5cVhBUw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQX1FXLTl5OTdFUXFuMHdRTEV3LXVlckoyQUd6dmZGbm5nRzRzTU1XblQ5SHJvMFBrXzZLdTZSSUFLbkJfTUJ4Q3ozOEVxVUl5a1hEYVNlTTFqMzVkc0RuMWJoLXVuWE9yLWxnZ0JWcURaLVVDcjNlODc5S1ZQeFJxYkRhcXRLMUhGRTF4UExPVHNUcnFTRE8xUmxuUWFQWGxmVlNyUWNaRUh3a0dqXzRLb2pxbVR1QndpSURDX010anNPMHNMeVEtNDdXZ051ZFNqZ09MbGl6OFZfYkdoaHNMVUR1VTRFQXhySWlhNFdqVmVPMWJVME93R0hSQm5ZMjZTeVY0S2xENF9PYmQ1VmZYVE81X2M1U1h3cngxbjNSSXlJRWhmR0poLXhHeXpDT1Z4WS1Oci11cDJ5V21ZemdSaC1hZ0NITkx2c1RSV1Y1RzRMVF8xaml5bUg4QjR1bDF4M1JZQ1JmR25NY3plbzBPdVFiZmQ4RlpLeThLRHJGTTRtVE5KQU93Um40ME1YMTh6Q05DWmcwTDJKcGdSUXlmS3NQMUVEbDF6RWRxa2pTV0hvVl82UzhV?oc=5"
+    },
+    {
+      "title": "美股突然出現罕見“分叉”，歷史上曾出現截然不同的結局",
+      "source": "群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0FaOS1TOUxsZ0VlbTRwRThZYXJrUjBkcUI4eGh0ejVxZ0UzdlZYNlR0ZGZ1U25aTFZpX0R4aVRFYVFOazdaUncyTHk5M04zc09TdDY5bXlhOGxQNXJnY3hxVV85YWF6Sm9Ubll1bVROeTZyNFFTR1JWU1pzeWhqOFF0RzJsc0JQYWZKdzAtdw?oc=5"
+    },
+    {
+      "title": "30年期美債收益率本月或破6% 美國借貸成本將超越名義GDP",
+      "source": "香港商报",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3cjNBR3VRaUNiZ0w2UGY2eWt0dUpUWmVDS2J2LVRyMENJSTJhZnlSNmZNV09hSEpjaFhmYUNOLVAtd1lmNWl2VlRZdnRIWjd4UkwyZzNrTHdDd0RmVHd2MmFEOUxvbGZDV0J6WkxxS0hBQUJoMEE?oc=5"
     }
   ],
   "events": {
