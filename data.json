@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-06 21:11:46",
+  "updated_at": "2026-10-07 07:15:20",
   "gas": {
-    "current_label": "10月6日 (現行油價)",
+    "current_label": "10月7日 (現行油價)",
     "current_price": "184.9",
-    "predict_label": "10月7日 (明日預測)",
-    "predict_price": "184.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月8日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "法德要求歐盟強化使用貿易防禦措施 中方促堅持自由貿易",
+      "title": "歐盟準備對中國混合動力汽車實施臨時進口限制 以期平衡對華貿易",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQTjJRcEhUMVV0WUFFRTV5NnczUnE0YUg0R2k3bzM1bi15SGNGWFd1QTROMjV0Z1NuemI2d2xTMEMtWnFwRFVHMzZwZEthOUluTzBrTlR1U0ZMa3gzbV9lTUh0Q3YxbG5DNHFJYkhKdXlEc3k4SzZHYzV1aGpKY2JQUkFHd2J5VzFMQlk0TnZZVEhianZfa0JsaEVURFY4bHdmdHUxYVF6SUFrOVpqQ0loT2lFU1pOTENTTVNtS2xvZUstMk5sakNDX1BodDBCdXM5TERoYjhQZ2k3RmsybVpvdXp0WEhtZ3Z0aHp5cEotZmlySHE4QW1nakpoSG9kZEwwZWd5LTZWWlBFS2N6WVZDOExRektLb0hzZkJVaUY3dnJZLTJEaUZOYkUtZHFMcWgybFBkV29Gb25uU3RTbFFEMmwzTDktbjdXN3RWXzJfUGFzYUQ0bk93c1Q0RXJzUTJ3YjROWGlPWVZZc3BPbDFJSUNyZXRjRXhwNlRSdFU5Uk5vY0pfaDRJdnZrWQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPcGRFWGpqN0p6M2xmZ2hNQmpDRDhFZ3JGSC1lM0RsS1VNVC1KalRPV3JKUzF4QjFGc0k2WDRMVlNUYnVrWHBjbHQ2Mi1oMjNqcUVuNUdfX1pGNVlvaFk3SVJMLS0waFFrekZDTGhTSzItd29wSzlsSndxUE4tNjFrNUZOaHNoUGxFMm1sa2xCNnRKUWljRXp5Ni0ydW9lQ2ZpWTlzb2ctc2E0UHZWWVJ5TmVmdmw3V091SFRTM09HM2VCV3lsa2cxT2h6VW8tYXJJT2VvMUhtb3FaM0N1YUJWZFlPN0ZyOHF1QkNNbllsTEdrVGxsajcwbk1BbG9FUmxhTGMtOHY5eTEwby1XbDlyRENnUmRyTTgzY09GWG1OREpNNWFhbFJVZ1JKekY2NGEwWm9GY1FzZ2QwVmNEMDJDTkhSTDlpajlOVzVkWDdYVHU0Nm5uSy1rQlpPVTR5OFl5aWxHamlUc3cyWXNaZTFsYnFocXg4WlRqMVJYSDRIdWMwd0VLRFlWT2xlYWUwdFJyUVRkVUJ1RVp0S2xDN0tJUkZwczk1cDBfQ0RkV0lqVkJ5djJCQ3NLY1ljSQ?oc=5"
     },
     {
-      "title": "法國世界報 - 要變了：歐盟對華貿易政策正在走向主動防禦",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNZENYOS1pdDZlVHpZZ1Z1ekVybG9YQmtwaUMxSDNUcHcwb2w0eW5UdXUxOVdkaFZuRjVpVVlpNVU5QzAwT3dYSjZwdDNPWjhvWWFMUkZkQ1Y5bFVkSzFXYnktb28xVXZremRnR182QUlfV2NTbUFNWm9QaGRBbjAzTzk4YjREaE9vYjZvOF94ZWVBaXE2THhsTWJVTDFHTG5HQ3RZUWtBZ0lCSWY2RlpKVXZFSnJ4NjRpTDc0WnFUYUx0SWFOdGoyNGhOZ1UybHZvaDNUeTF0eklrODN4WC1meWcxVVItTmNoSjZDWEFRdGl0bWs0WE1LSVlmSV9ReDhjZVFrU1lFNVZHcHZ1MVRLNU9kMlAxN1FCSjVBcnM5RkJNaVhXLXdQUXNnRktQMkhvczdzc3hlOTBWMjVYV1J1ak9sOGE0dDBSZTdVaDFreEZYYlN3S2sxU1U2eFFTQzRtSG9VS2t6ZnA2VVFRUlVqdG1SRVMxM2xGYngxamk3X082ZWpBVnVFbE5ucDE0bU16QXpPTDQxNEJXQQ?oc=5"
-    },
-    {
-      "title": "美國因鼠疫實驗室死亡事件對俄羅斯升級施壓",
-      "source": "华尔街日报中文版",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOMWF0cFZWZWtPT3RQZU1fazNhRmhxV0RBZWVjMHFxcFJldlV6RV9lamdTLXVwQW5mVWc5b1JIMm5WWTk0TlZVMmx0OTMzSnFEX1M5bVVnSXBoZjE3NFBkQTBSem8xcHUzVW5vVjBmUXd2ZUVTUDR0R1BkTGhLaHVTQmo0d1JVdFh5dWtjVnBwTmw3b1U4ZTBBRzVjRVZLY3ZaMlJzeVd0ZDFLajltSTdLclNzcHdRelBub1IzWDZBVkRhVDQ5M3g4NUw3SjlBaVlhQjY3MUxmOF81ODZ2aWJ2OHlvdDliYnZka3Uyb1NpdnhFMjh4a0ZuTWZKdlZzX3hZcUlGTWtNUHktS1JBNEp3azdNZVlsNjgzRXhCWFQ2NDI5cVhjb0R5X3NvNjMxeE05OVZjUkp5djBWU2JaRWc?oc=5"
-    },
-    {
-      "title": "賦能可持續未來 國際燃氣聯盟高峰會 十月在港舉行 公司動向特約專輯 - 專題",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQSFU4RUFKaG5zQlk4Znc3V1JheFl2cE8zUHJfaTNlSHg2WjVuXzE1UWxOaldUZU1qNDdBUFduMlI4VldsM3l2REFHWENrellhMGxnLXhrMTN6VVdiWUcxamIzdkV0ZlV6X093MHViTGkyYlo3a0V0OW9UUUhWbE4xZlpsVUhaUjJ6cm9DbDZCeV9hWlY1YWFDenZiMUQ5YWZubGxXWk1acWsyeVh0S3c4SzMxZmU2a1RUeE15SnhhOUlPb2ZRci15andZN1FBZUstMjRFcWtZVUlZbGVoVm9pMkNLcXVUMFdSdTUtMlFBd0RDSHJ6S2YwUWhLeEZSYzl2NkhsSHVfY25FcG1CbWZZRnB4WVdSSHJjTGdjM0xDeE03UXRsWC1oV1N4c1UxOHBzYndVSjVfUUUtLXpsbjcyRkUzMGZGYjBwQXZsbXNSYTFWbWY4cXp2SWJaT1diMkVxdEtLR0V0Z3BvTXlNc3RTYmkwM2gzSi1Ba3NzUzhzbTdJbVdDQXV4QTRXUlI5UWo0LTl2bkhwampWSkRzRkl5bnlmTWZab3FXTm10dUdUanAyRmJLNHRZTndxYmM2SHZLX0NMdjNtZDJTMmVRNjRmenQ0MXloWmV2X2ZwZTBtaw?oc=5"
-    },
-    {
-      "title": "人民幣：歐盟與中國緊張局勢加劇，貿易戰風險上升 – 德國商業銀行",
+      "title": "WTI回落，因海灣出口流量抵消中東和美國風暴擔憂",
       "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV01BdVo0UzRvbk1sSEJhOWxDWHg4VXpSc2JpWUJQWXFQWVdhaTlpSk1ib21YaUktRWJBVnRmRE1qSV8xYlFveDEtUTNvRS1aTXV5YkRjd2VMS3dIdkJYTTYtM0UxVnNwLTNIbjVvTTZKeDhadGdjSnFYejFOb21JRjlDbWxQWHVFRVJYRm1aR0ZmSnU3N1pnUFV0LWNXTlJFck1FTTlEdU9YbWcyY2E0eXdxc3hMYTRpbEo5QmxuZE0zdko3OE01elBwaEN6UmtPNVdreEktUmFUT0U3X09md3NmMWpJWFBLVl84atIB8gFBVV95cUxPYU1POTkzanNDTjRVRHA0NGVXZWo2Q21aZjFBTFIzZWxyekJRazlBdzJnYlBpSl90SDA3ZTlMWjI4QnZjc0xacHM3MVlIcXdxWWFVMnBnQjIzQUFjRnItTHU1THlJdldoMnUtWTdEZEdtMmd0T0JvS0NFQUNvemtLbVlBTGczdW1GU2lqeHR5cUhzWWJ3SVk5UmNDTlZsRUtzb2MyclgxQkprNGhVa09nQTR6VGo4NnotOTVvZldndWt1dmxNdDJUaGdCT2NQU0pVamtjSm5rTGJzNmlBUXZpLTdObmM2TDBTWlJ0SDBaRFNmdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWEwwdUtvMWVuakpTMVl2Wnh6X3RvZ1VhemFZX0tNQW1fYXM3VGh1UE1PN0RSNDIxSVh4eEstdm1xcWoyUlBJdFlMb3l5ZUJWNFhpVW5Ta2c0SUROeGFWYTBCT2w0ZTI2a0M0OTdtTlRaRG8wYjBHbEYyblFJak56eHNmTlA5OFNKZHdCM3FFUHplRk0wNEFjZ0Rac0QxZllfY19CbXl0Q2hlMWhPWUVRbVNSRkdpS3R4RXhqU3pZbmF0MmIxYXFaQdIBzgFBVV95cUxPbXFranNkMnNmVndaMm9TV0VHNVRjQ3ZXSE5aR3M1SkMya2VmUUM4Vjl1RzZlUFU5X2ZNakJSQ0dBRlktZXRaQW1HbDJWeEIzV2xnQkhtWmtqWU01eUI4V2hZdTM5RWdBdW03QnBheWdkeVJxcE1TbmxhQi0xRmZqUXhFX29kTWdXVXBlYVhROGJWdTlRdVlPUTRMcWY5SkNWZGdTVF9FSzlqSzhlWTFmS0pPd1BYdHM4UXUzald5T2xpVVpxMG1yVTFXVzQ0dw?oc=5"
     },
     {
-      "title": "賦能可持續未來 國際燃氣聯盟高峰會十月在港舉行",
+      "title": "歐盟據報研「保障措施」 限制中國混能車進口 歐方本周訪京尋貿易平衡",
       "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOc0g5SlJKdjE4djR0Y3VEYnp3bG1ScmR2Vkp0ZExzeVF0c1d5emdBQlBvM090ODFBTGQ1eFk1OVU2cXVQd2IyR2V1NXZCQWw3QVBKajRCVFd1eDdjaUhMclloWXRvaDNZR3NBNVBBVzVlOFFOampNazFTTUlyR2ltMVpuODBPZ29TczZpZ0RwVUpGMEpaeFVrLU1TQ1V2bW0xVEVTYTlDM2hDUDN4Si16YlpMLTNRTVhvRm9uNkg0eGFhOG1kOUk3OS1SaUVVNktnQ19aMXdnSUYwWmM4WmRzX3dPM1JrMmFia2lsc1lnTm1WdF9Jb2tZWG00ZDFLOGVVS3ZwdmFBMnlYcDh2NFVKcW5ZdU5razFLN1Z3THYyNkxUS3pBTzFSQTZKY2tVSkdGdFBmbHlDdDlfa05TQnA3dXR2bkh1N2VsOFhvLXk4cFFzbGFoZEpfdFBHSzRzVmFtQkZSdA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPVzQ3X2lFXzNDQWZTZFZRUjBKUjhaNEFsNU1OVE8tY3dEczV5NGNqVGlQNW5ZR2xtMGNjRERxQWNSWnE0bVhkODlsN21rcFNEWEd6c0dvVVhiSTQ2MlA0ZDNEM2RBWGdaZHNneWVxR1hRVnlVQmtzaVBCYlRMZkNxSVpUQXpDTXVRMnVHX1prakNpWUc4WlFWaWdfaHA1aENQSXFfOEdWZ2ozbE1nZWhkWFdncElFdUN0UnlCUko4Vk5mQkdLUzQ5eF8zdmRQYXdqSXcyMzJUdWNKMTZDWHk5ZnREUzhhbTd5WFhackNwR2JsVEtPWUJHdm51Vm1wZC1Xd1JoOFA2a1BwZnhjeWZzQjNqdlJoTWw3Z0lOcllhT3JxTWN1SnZiY0l2Q2puazlydVRETE9lRXlkRHBXVjY2VHFxUllVaXRtMVRJQkpkNWxHQ3hBb0d6Z1BQYWFuX0hCcjIyQ0ZpTFhSdEJqc0N6am4yQ21RVU12WDZjc1l2UGRiM0s5cloyQnZwTEF5NmpkcjFTWktfVktLWkRBZ0VQVU14cjNBSzVBb2J6QW5ycHh6VGtDZ2tiazdOcDZKZw?oc=5"
     },
     {
-      "title": "10月6日美國主要經濟數據每日摘要",
+      "title": "美國及世衛促俄羅斯交代實驗室人員死因 澄清是否出現第二宗肺鼠疫個案",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQeHBNcmZoNkJWOS1yVzBZNnVvbWlYSUUxcUk0Sk5oTmtQMEdxalhTM3ZEWlVGdGkySEdOWmVqUjJLclJWdHJ5MXlXaFlPQkdNR1hlMW5sMG1mVm5xRmRza1liTzFFU3c5cDZfNU1NZVczZ09PYUhnZGxMYWJ6ZzNlTEFSZWlLa2t4SGRGcUFhVkFGLW52aWlVZnBXUU5nbkxIM2RPTFJmQTZUX1VsSGV1RGhWTkRlaWNqR19xaGV6V1RzRy13aXo5aDJqT2ZiUjhLWmEwNUYyemVzQ19JV09hRFp4MXEzcEhBNU5pUWpZdm55TXYwdVFBSVRtVTdSMFh4WHFPb1B6X25KSDZHTW9kcW1wRXhueFJJVjJta2s3bmpBeFdDSTF0Y2ltRDBtZmpyOURIb0RTWnhyUURHZzJpVVJMSlhoWGlfZGFpalFpUUhzeEkzR1lnNHFZaEdQaVlQMW9iS3RmMDl3X0QwMTMyOFFDM2Q?oc=5"
+    },
+    {
+      "title": "中歐貿易丨歐盟擬限制中國混合動力車進口",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPSmQ3bXYzNC03VXBjWlNzVmZLSGZXcHRzZUsxUHNIeDhnSlBYdzVUbmRBLWpaTF9VTl85WTdoQ1l0dnhoeXlVQUs0TjM5MlBEcnZQTFI4QXYyWlJqTlpoNXQ5cDlCaFBqSnM4MGp6SG1CczQ4LXVlZGtETDNUM2tNbkxCSS1LTGp2Z2ZHckxxZVRVV1ZCWUtTSTJnVHhTQkF0YmtLamRIRFZzX3dORWswSU4zUUlIOVZjM2ZocXhZamJfY2NFNUlSbkR1bFdMbW5jTEdXTVJTSzlKTGdoSlJWSUIxLUJGY3ZEeXdIUF8tV25yRzF5UGRSZ3pUN0pwWkJwY09mTzhRejJtUEdzZTVBak1XSUFYQktRT0ZaZll5WDdma1ZUOXlmT3hXTEJsN1lKdlNnU0NUOEk0eFBlMzhWdFF3TjdwekhRNWc?oc=5"
+    },
+    {
+      "title": "【歐盟】彭博:擬限制中國混能車進口",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDMTZZSFdXUHJrUm1ZLWJQRFhON09lWXNDV3BuX1ZUOHRlcEp0eGZxeWE2OFgwNEMyVDl6SGtjb29hRmdzbEdVRm8yN3BqcDRHcjZUQm9wUy1UeTVZX3RZeXJsQm9WN0Z5TEEtUmJB?oc=5"
+    },
+    {
+      "title": "歐盟設限｜歐盟擬對中國混能車實施臨時進口限制 以期平衡對華貿易",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWnJlYzJvakZocEtCU05BdW5iNHZrWlNZRE9XbVNCbGlmOUpxRkY4TlNhelQwUlNyek1pSW14TUU5SXVjSFg0Tjk2Rzhwd2xRNTU5bkhmc1JuVlBLS0o1b3dGTDdCamZOUmhrUy1yVW5NTjEtNDVpSGFrR3haUHFySmJLQTZGNy1NM0FCT2c2b1JYQ2R3U1RteGVNajc4UG43ckZjSWd5bnZic3F0R04teUNlTlNsRThvTnlweDlHX2I0ODQwdDgyQ3Z5MFFkc254WWNjX3NoRzMwc21Wc2Vlb21obW9vUEljOUlwcFN3WHhrX3N2amc1YTdsUExPSExZTWNHa0lHSHliZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPM094Tkl3aW41bW01OEtnUEtIbVdTV1M3Vmkza3Z1T00tMlRKNDFKRk00RGlsb2ZUYWNFVHVDaUhjY0RsUjJ4aUNvT0YtQ1lzampocUotV2NRY3JBdDExUkhOZUgxYTYtajBpYjc0dmFPXzFncFBVWXRNNG5nN0pHaHlkMExNQmdKQWU4MXhNcExpcGdMUkpwNGdiaTdKYTFoYTZmMC01X1dkQlpHcEMzVE8xWEFhYWs4Rnp1WlhvdWNPM1Fiak5zdG4wbzRpRnFBWTNHendWUkVWMG9ySzJxMnZ3aGJzRGkwaThwV3IxcDN5dkRnaUFEMU1qTXBIeE9maHk0bzNhS20xSHZNZWV6SUJrOGh6WnBIakJwUGhvWVB4eUJvTG5NSVU1VHFYRDBsVkNCdzYtaWNyZHFqY3YxTWI2WjhJOWZWc25kenBCLXA0NWNCdmxhbWVuaC1mSDNKWlpHQUtsbFhQUVN1dld2OUE2ZWs5YlIxTmhQQkxta2x2WkNrTHo0SjE1Z28xVjlmVzJmRW9zRTd2Z2lvT3p3eFZnSHdJeEJIR000SWRua2w2OU5DTk14dzRVY1Y?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股創高股票卻跌 專家示警：市場裂痕擴大",
-      "source": "Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPQ3lVMkEtMXh3RmlGZ2JpVVdINUpMYlJzVHBOQkJWS0tVWjBzdjJ6d3hibzJVaFZYbUNWOVhDdHVuc1ZBUHVRWVFUVnFLdDViSHZIakZpcjRmUEpDNmJVRGtBNGVVWllyamY4S1pmNVZGeXZVaTZIZjZpYVR6TUpYNE5uU2VKWUlkclVMZEJkTFVrTGNKcUVyeWV6TUZnQjFVQ1d1c2tZOW1GVHZPM21MSGhoOHM5dHJwXzhGUzBLQ0NTaW96dGlIX2lxdzlSbDBSdHZSaHhOTmJjdmI4dTN3MFJZVmJleE9rbXk5Q3JRdjExUGo3dWY1N0p5TmNyYXhoX1NxUzNXTnZwcFR5Q3VGWDRud0tId0ZZU3c2cjJ1X3NTYWdreURTWURzalFQdw?oc=5"
+      "title": "今日英股：美債殖利率攀升打壓股市，礦業股領跌",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQWVJUZ0JoOFl1dzMzTUlScWZSTmlCdU9EUll6ZkZCYnlIVUV2SzJIM2w2SGZDcmFOUEtDRWdMWGhCT29RUWZ1a19zSnMtQXA3V2NPMjN4ckVuU0Z5V3J0bUhuZEJ3M19Id0t5c3YwcVBudzJocDRLcGx3XzdFUE5CdUdTbXRHZGh1b05VUDRac1Atbll2X0x3RUxRa3gwazMxbUFDNXlZOUpwd2F6Q2J6WVBoZHJjbXdBYzRkMGhubFFPMzRJZ3pvWExNUURMTHBsMmZyTFMyRWg1VzVGcWs4ZjdXYTU3akE2REtNVWJ6NldQVEt2d3VhdTgwOExnM2t3Zk5xcllJRG9ndTBNYl9LNEM0WFR2TndWV3JMS3ZqNWlhMHNfMW1MdGwwQng5MElLRFUzNVNVVWpEZUM3MXZqWl83ZC11elJEaHlHNjFLYzE?oc=5"
     },
     {
-      "title": "🏆 標普500指數首次站上7800點，科技股漲勢逆勢抵消收益率飆升的影響",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmVmdTdFR2xLamxNa0V6X0wyTTJKX0VhajdOVjV1dlVzUnRtSEY4WmNZdnhULUZWemxuQXp0a1JWYmdMa1BjZVBfd18wWGxmUGhsYjAybDU1SUxPYjMtdy1jYTJFc2hsaVFyMW8ybFlYSUZSdVEwMlFiM1ZReWRTNUZSZWJwVEpLWUFYcEwwTnhib1czdi11dG1rMA?oc=5"
+      "title": "沽注一擲原型｜Michael Burry警告美股入「否認階段」 料最快2027年首兩季現動盪",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY21tV0JxLXBVSjdnQ2lTaFA2Sm5iMERZZnFfTmQySnlobUNkSlhEcWxBcE55MzZZdDRBVDc3OWZiZTR5MEY2WDVWS3c2bzJzSVRiaFJIaUx6aWd3VDVVcko3SnpYajNpVGdTWU85ZGpMWGt4YjlSVWtSeWFWUmhpc1owdVBPRlBxY2hsOXI3X2FsWFhuVm1UeUo5RmFWQQ?oc=5"
     },
     {
-      "title": "金價上升 因美元及美債息回落",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wR1E4Vm1xSmNvQW5WMlMtTXdxTkhUa05leVp0YmlucUhEQjZvUkc3Nk12ZUY0RWpYQVFrdUJVNzJYcHItOW9WMmg0VDQxTjZDSnA1YkdBM0hfZmVjbUllRV9hTVdydERZclV5TEw5NA?oc=5"
+      "title": "假期，全球科技股又升了。。",
+      "source": "SL886 財經網",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EdHdNblVHTWJKMUdScHJ6YmZJSzVfaUU4NVNyQXEzaldHT0JlRERibWc2RDdWajhCSnVFRnI1WExkVE5NV1BB?oc=5"
     },
     {
-      "title": "40%美股現熊蹤 撈底睇債息",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSExoY3FkVE9zNTQ1M0p0NWwyR0JFWG1rejRPWmRNSmFiZEpwSDRZWFF2TzlhUEZoZHp4VzhZbUltbDA4NG55bDFlSy1mazNUcWNhMDZaUHBoMXVLUU9PV2hpV0U5MDcyM1lDYVNlMm1vbWJON0xRcmlGdkZGSDRUUUxoVklkZENxdE9ldFY0QU9EYTZyVkluVlJMYUl0UGlFc2Nha1NOX3lFcFNJSmx1TUpZTTJGUDI1bDBKeWcxMFRyRjR6dWlZb01vNldhZHlwV2h0cDQ5c1ZuNmZsRDAtMG83NVlubGlmVGc?oc=5"
+      "title": "美科技股前市大漲今日亞股卻摔跤 差別在哪？",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUzVheE5YTF96LVMzOHZsS3NMRHBLVFRCb2kxMl82aWdlV3AtU2NZR2wwU2p3VTNaRVg3REoxRjVLQV8tVlJMOW5mQXhKSzhVeHhTaHRJV2tuZ9IBX0FVX3lxTFBfcEZNUlRDVl9qN2RMU0dpT05LaWlGVmNYSzBNVmJKVndlOWtOdzdjZzlpRkZDSVZ3R1pGbVVrOHVtRk56V2tzVkZWZXZZdnZOU1dyNlJfbHlLVW1pcURJ?oc=5"
     },
     {
-      "title": "美股 | 標指、納指創新高，國債孳息高位回落，市場重新評估再加息可能性 | 專題透視 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaHlKRFNPeGJybkZPOHhOdnREbVBqaEFBM1RrNXBZVEdqWXVHU3pqVHlKYUx6cVFQU2tKQThnM3RKYmFNRDFDNWdKZ2lEbzZ0SVRRZHZidEUya1pVMEhFN1Vzd2ZkejkzNFE5MnJpMzBlMERyVG8zd3hLQ1VPUnRpOS04d0g2YUlXVE41NWNhRjQyVFFSRklYTGdia1Z1ZmZlaEdPNDc5QQ?oc=5"
-    },
-    {
-      "title": "科技股領漲推動標普500與納斯達克創收盤新高，美股期貨維持平穩 作者 Investing.com - Investing.com 香港",
+      "title": "科技股領漲，標普500與納斯達克雙創收盤新高，美股期貨維持穩定 作者 Investing.com - Investing.com 香港",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lNUFBOXlIQmZLU0dWenBJU04zV3ZlR1JJVy02N05kem1OQ2pqMkZpbnhHcG5XbEVMOXZWOGpobVdwdzVTLVhIZXZVd2o3X3g3WHV4OE4wV1JZQWNiYUFIbXRZcHpmRHIyU2hpZnhORzM?oc=5"
+    },
+    {
+      "title": "GUM稱強積金資產投放美股已超越中港市場 下半年部分資金流保守基金",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPY0h6STI3QUVwc2YtVkpha2FsbWVsWjdvX0xUM3did2cyVFVWTUVueFpMZm8xQk9xazFFSHRXSGxLN1FjVk1zSm1xbWRYa2dzY3pEanFIeDY3ZGNWNHRpMVNtdkttY3l5TEZiQklHYUFFSmNUUTltZDRJM1NqZ1AxVVVnZ0h5cjdmS2Zrc0NnVjY0bGhDRmx5VG1aMW5lQk5Xcmw0WVl6V2tqWFlIY3k3VjhIN3JMbGZyMlNacmpCYkVSbkpLYXo5UTBoTnpTT2JTWHNQUVdKd1c4aXM3Z1BYXzF3emdmUmJlMkdlbTlfemtSTU92WjE5b1RBbUlsNkV2UGRhSkI3QmpaajdheFZzaERGVVN2RGRzSkFNX0ppUW5KZ3RndnBlSW1IXzZxOFhpdVRtMVJvd2JkQUkyLTV3QnN0anpiZWFkQ2o3cFFMQXE0RFNXMHBvdWVJcGE4UlVuRmN5TDNhX3Z2QlRmbUVLN25HbzREMzBtbWJuanZud1VndXFqMjdDdWM4dnpwZEFzRlJ2dzVBeWFNeDhGMDNjUkNwcGdlQkk3bjVyMFpwQlJqVjdRRzhpbjFPZw?oc=5"
     }
   ],
   "events": {
@@ -84,16 +84,16 @@
         "title": "美國 9 月 CPI 通脹數據",
         "date": "2026-10-14",
         "desc": "美聯儲關注通脹指標",
-        "days_left": 8,
-        "status_badge": "8 日後"
+        "days_left": 7,
+        "status_badge": "7 日後"
       },
       {
         "tag": "FOMC",
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 30,
-        "status_badge": "30 日後"
+        "days_left": 29,
+        "status_badge": "29 日後"
       }
     ],
     "stocks": [
@@ -103,8 +103,8 @@
         "type": "Q3 財報",
         "date": "2026-10-15",
         "desc": "2026 Q3 業績公佈與法說會",
-        "days_left": 9,
-        "status_badge": "9 日後"
+        "days_left": 8,
+        "status_badge": "8 日後"
       },
       {
         "ticker": "GOOG",
@@ -112,8 +112,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 22,
-        "status_badge": "22 日後"
+        "days_left": 21,
+        "status_badge": "21 日後"
       },
       {
         "ticker": "NVDA",
@@ -121,8 +121,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 43,
-        "status_badge": "43 日後"
+        "days_left": 42,
+        "status_badge": "42 日後"
       }
     ]
   },
