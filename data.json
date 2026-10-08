@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-07 16:15:20",
+  "updated_at": "2026-10-07 21:32:26",
   "gas": {
     "current_label": "10月7日 (現行油價)",
-    "current_price": "184.9",
+    "current_price": "185.9",
     "predict_label": "10月8日 (明日預測)",
     "predict_price": "185.9",
-    "trend": "↑ 明日預測升 1.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
+    {
+      "title": "肺癌藥遭歐盟撤銷許可 翰森製藥出海底氣何在？",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQSG1vZHZhMUx5VERTLS1HYnYtYkMzcG16NHAyb1FrQ19IZmFqX2Q2MTc1cF9wZmViX05talROY2lmcENpNjdRV1hpeVRlVy1ocmFMUVJjZ0xrdnVMb19HRUYwSHBRTHY1YWpGNGxEQzlocjIwOEFrSXV5MHBjcl9XWkdfdmI5MTFKaDVsRFdSWnF3aFZKaXEtdW5CbnRTTWpURzFuZDVEaEtvR2hjSko4OHNmTFEwcV9Kd0RWbjJrTGpnbHZWM0t5d01pOWMtM21TbDBPa3VFXzJMUXFRTXNtWHVGdmljdVBvRkp2SUgtb3FWYUxKWXRKM3FyX2Zqazh0Z2IwNHI0bkRmQVdVOTByTFNQRFlMNDU0WXVYVmFBZzhnYlVnNGZOOWNoUDQ5c1J3blhRRVZMQm9zSU5KRm9TOC02Sk1kN0hTcGJPMWtxYw?oc=5"
+    },
+    {
+      "title": "美眾議院指微牛證券與中國有關聯　威脅美國安全",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yd2xxT0lHUElNVHVtM2ZyMk9henhVa0FLeWRnYnktWDdlOERYRU9lQnQ0MmUtRmxGaXBsOFpXR0xDLWp0MV9KZGZyY0oxckpWb3kwdjNIXzhQNzTSAVtBVV95cUxPMndscU9JR1BJTVR1bTNmcjJPYXp4VWtBS3lkZ2J5LVg3ZThEWEVPZUJ0NDJlLUZsRmlwbDhaV0dMQy1qdDFfSmRmcmNKMXJKVm95MHYzSF84UDc0?oc=5"
+    },
+    {
+      "title": "（中通論壇）全球科技博弈生變 美國或調整對華政策尋更大空間？",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wRGdaQ1ljS1RYaUpXM3owWHA0dTE5MGRJeGRLMzRweDg5QVl5VTdONWktZXRERTBzMlBBYW9xamM0N002d2pYbFF6UnlBUGhfd1ZlT01WWUg2Qk5RRVZDMWhNNENSZFdNdWJUaThudXI5VGc?oc=5"
+    },
+    {
+      "title": "國際太空站4名太空人啟程返回地球",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jRWRWT0tacE9oeTktYVBTYmVMcWFYTjk1T2dOOHdrbGVjTjdFWTdpYm8yUHkxc2N2NHNZVVl5S25lTlpSYlg0eEZlSjFIOHVYUEhETjgyeGZFRDBWSHZGQUcyUXpEc3hUd3dzRXZtOA?oc=5"
+    },
     {
       "title": "特朗普稱伊朗可“摧毀”洛杉磯與聖地牙哥 加州政界跨黨派反彈",
       "source": "RFI",
       "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNSGxQNHBKa0o3SVlMUnQtWXB5Nl91R2lvTWdxeWpzRmZ4ZEQ1QTZiekNKNW9iaUYwNkZPcnBoSUR1Y3pMQzViZFdYMmRFSmxBcWg0eGk0Z2pFMEpLM3FSbWdJT19hMkxhUHF1LWptWTVZZkQ1d2U3T1FtVW5lUlM3c1pPeHVsSTdMaFBYSjV5cURIVHN6ZFFZSjZoQ1hnMWVZR0cwRmVGZ3Y5SjhFaV92OTIyTlg3VWlQdldhcENzTWN0dVZ1cEhwemZaRWxLLVVCUU8wTnByUThpQzJJb3J5Qk1kTWx2THhpVlFQYkdBODVTUnZGRzU0QlZvb0VBbTd1V210dk9COUNuOUZ4LVJfYTRmR0ktOTNXbVI3UGV4QzZ6dGRXb2gwYzVUbktmQlVqR1FNNHY3ZnVIa3FHejZTN0RnQkVaYzdtSG9aRFl4S2dtVjVJMk1tc3Y3czh6LTdXR2Q2VzJCSWNzNnBFTXN1NGdoaHY5VlVKS3I3RmFYZVNOdVhsNTkzXzNwTHM2VWlpT3A2TW1WZ3lkcDQ?oc=5"
     },
     {
-      "title": "WTI 走低，因中東出口恢復施壓",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZadUxVX0dYaGhDMGRGWURLSW56UDBHbFM0c3R4cWRLbHRIQlBYMXRpZG9FTmJrOUR3UnFXcnp5ZDZxS09YTGFDNlZ6cFl0WTJHNkd2Z2NrbkRqM3hKWGFfS2NDNG9tV09KejZxaVlYbnd0QlFUS1pLYnNGcDBIZmw3RmdBU2stNWkwekVSdUQySTTSAZgBQVVfeXFMTWo1V2JZSTlpSjhVX2VIZkpnUG9RVThDc0YwTjJ5VnlFY21FNmxSZ0Y1dkNGX0JXS0xPYTViY2hWTk1LU1V2bW12b0xQVFN2VlNQbXJka0J2LTNnblplNDk1cDBibGZ5eXhueHpQQjMxSzNWVWlEY1NrSERTM2hiTldCUEgxM1JJRkR2QnNrXzNfTk9kTUtHdE8?oc=5"
-    },
-    {
-      "title": "歐盟謀加徵中國混能車關稅",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdWZUNDRHQWNCay1WWEtucHFxTHUwWTNrM3F2NkxlNDBGUkFBQ2JyNzdVM2J3ejQxSHl0Q1pnSHltLVA0Z1M1U3YwcW1rNFpVbk8yemNkQmtfZVlyM0tId21PV2tjMGRmT1RtNmFlS205SlBMd0Uyb1d0dFNLT2RiR0ZNdmVHQ2tIdUNWTWdzQ3Z2b0NRQVQ4VV9FbzRsQUs0d1Zrd29maEYxVDNwZ3d4Y1ZZb2FUQUNWcF8zRXhEU2J2WGZ5TVFwM3JiSXhaa3I3cFB6NWkwZmR3U055ODlIMjVPNGFtVV9hSTVDNDJYc2N2TUdfc0E?oc=5"
-    },
-    {
-      "title": "美國10年期國債拍賣最高收益率較前次拍賣上升 需求增加",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQTTlwODJyak04TEhRSXFkcmR0WEg4WnpjTkkwZzgxbFF3VXZhS0FNTVJIZjU0MkFXRzJHSjFsQUlJLUNFVEp6VDRDNTJlT3hVeWhWb0lxSGlIU1N1TWlraEk2ZExPajFzOWJ0MFBjY2dMMFFJbFdCdVZKNlZsWFpqU21DYzRXZVR6QmZkTVZzTWg2eFZ4RHdQaFFRbFhJeUhDbXRqaU9SWmpfcFV1OW9VNkJGdklsQzlGZmIxWEJhSnZRaWVxNmRmekNQQjJsYUhWTWZPQ3N5cVZwbHJNeWtfVWNhLUZPMzlSbHpBRXZkd1NvX1ZkR3ZJcTNMbUtPV29ta0pnTlFmZEI2dVFrcGhKczhPV1o0Y2d5UWxOTzFjWDkyX0I0WndCMTVHR1FqajZ5cGlCa1JqbW9KUFVaX3VEZVNrRWduaFFWa04xZ29oekIweDVLcWUwWk5fbFdrTlBOeDhYUzQyMFllaHNOd1VDdjhLM3FBNGVOZi0xeFN0dFNCUQ?oc=5"
-    },
-    {
-      "title": "中東局勢升溫歐股收跌油價走高| 全球財經| 全球",
+      "title": "傳川普準備重啟美伊戰爭！將聯手以色列大空襲 可能時間點曝",
       "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuUXVHZzJ0OEZuS2Y5Y0VqbDZhOEdRaFJETnoxT1FiWm5LNHRDTUV6akhBNTU2a3ZJZFlVRWhNZzJUQ0djNlJKcnpwR29paXVo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42YkhfY3BtS2ZNcjgyUVZHdXNFS0pocWpZbzVmdGZOZF8zNExsekw0MjRFZ3FCZ0ZhNFdKYkxfNVh5clQxYmVXN1pxV000bXYyX3FR0gFYQVVfeXFMTXFUVTRGWkJTLVROSEtkeU94YzNROVN3enAwZkRmRFpLMzc0TGdOQzhEaUVleFRNV3dBdDlHXzZiQTVfTnB5ZzMxcFFfTHhRR01rbzlncE9tQw?oc=5"
     },
     {
-      "title": "特朗普政府擬要求學校為留美工作的國際學生支付7萬美元費用",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOZHBHQktjVFU3SzlYOTlyQjFWcU5keFNVS3NyUjVqbWYySjlhbWFzZUE5azV0Y2lKSzM1eldGeUx6OUVGMVFtbzB0bWJybl9FdHUzVGdpZHZWYmo1djlTLVhZVnJ4TWtHTWdHdmVfNWhrekRGRmItc1FGOXFua1FEd3pMeXhLVDFhOGRpMHFndlVqM2VNd0t1NFJMN0xDLW80ZXE4ZHZVblo0djV3MElUNUVpWEN0cC0zXzVidFg3VlZ1NVRXNnh3UW5UbWNoek5OWGZ5NUN5Rk9ta1pWR1J4YXQweVlIZlJIVWNnRVVNOTR5WkI5TTNBUFdSRFZZVnYwdHExVnNydzAwYzM1MUVxSnlwREhnNlJTYXAxTkw0bWZsaU1kRTc2SUVmeFpwS2FBS2Z2ZVJwWE1zeTlGSW95a3VCMHRUTjFvZlE2aW80SFBOd1YwRGtUZzkyVFNuRTB1VW14T1EyRHkyRXlRQmIyYlNUTDJ5ZjBrcVBaZkdtc0xOWXFhNngyNGpRSHg4T3dEQ0psdDVJUmhNX1FHeGhVZENReXA?oc=5"
-    },
-    {
-      "title": "俄烏戰事丨烏克蘭遭俄大規模攻擊 至少20人死",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQRF9Wb2pLXzVtdDJOamdEYzA3eURTQk54cEczSlYtVm1xaTRnemMwR3F6eWN3eHJ4N0QzQk81dGtZNngwS2FfUE12YVVmQ0xEaUNnRDNKczRZVFZaTEU3SlpnU3JDVFktRTZqVFlIVTlXSERCXzNVb2lNSlpIdmp2TWdBRzVnLWlPMHFHM3E1LWM0SmhWV3MwdU5mSXZRUWU3Yll1N3dqM25LR0lsaEtuaUdrVXZNMnN4azMzbk54NGJXdk80U01vWW43aHgyZDAySjNsT1VuTWZpbllQYThMTmVuMnJOUmRfQUdsQ2pSZGdRdUZzUHI0bXdSalBSbFpJYUl6akl5OEE2LWJWNENDbXFMbmVQQTM1anc5NW5wWk1Ddjc0bnRpTDNZU2VWeFdibzZJaUVCSV94WUU2VnY3UzRfajJQczhmZGc?oc=5"
+      "title": "美國國會議員希望同僚承諾接受中期選舉結果",
+      "source": "华尔街日报中文版",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNdnFWYjNnUV9aalBNZTRRMXVxWi1UcWtfLXV6TEhwMjBVMmh4UDNFc203eUhYLUhUM2dUSGlwYTd4OTY1cjFqN2hLdE10VlBIOGQtWmdrVEM5bTZ5TjVhY0pORlMzcWVBTG9weUgzVHloV185STBlTmVnd25MbXBXcDNidk1ZMnU3WlpDMk5oUVhZZDNBSHd1dUFFNGo5R1FCX2hSa0ZsRzFnN0pFVUl4WkdrRGFaRVVsX1A5ZlZnejJqajBUM2ZEWnBpUVJvUzJOWWJPVHZHU2VUUzlLamlDd01ObWNydTJHSzlSQloydlQtWHF6SzBYWXNPdlBEaEQtU2xTTVU2MWFWX3NUeFZVOWl4YjBOLURyY3U1Y0ZEQzZRSmpnV0plSHNBTVFWclhTeVhKTXpGNkt5bTA3NEE?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "聯儲局會議紀錄顯示大多數FOMC成員認為2026年或需再加息",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNWlpNcVVKdVdIeG9TZDVfTlo4dDkxUjJIVnlnakt2R0xZSDNOcFVOTndtaXZsWmpJYk0zenFlbEtzUWl6SmZpWDZIT1VRaWQ4OXo4MmFUSWJjN3NfdWF6VFVfMnVoY1J5eU03OTRHWVV5Q1ZxcHlkQUpYeFFVRjRTU0JCYUFYZkh5aVZuc0RBQXNod0JxTWxwZ011Y2FIV1NQWXBqQ1FHUFU4U3VpbzYzMS16YUxLN19QUXBXOV82VW9mQl9mMVVyVEQ0aXFNSmVvVnVTYkNWbkVJSk1oYmJ0Nkk4Zl9VSDRMVGx3Q29mdjFQS3lKWTMxN21iWnpXSmtKX1dBalltVmRFSHgyQ3hJbDZGSDI3REhjNVFkUDVNblFsWGhkZXQ5b19IQ0JzVFFMOHN4V1ktdFhOSDJKeFhyM0hnRVhwX1R0SlFKMk00bFJ2T1ZRSmlmUG9zNm5jSXdWWS15cExwTFh3YmZaMDk2QQ?oc=5"
-    },
-    {
-      "title": "道指初段跌逾400點 美國債息及油價上升",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GZ1diZU1mek51WkFhSnF6WmpKOVl4TFJRdDB6ZnRCUm05ZFE1a19hNUxYTTh2VmEzakRIRGNmY2NNeGRsN0R3NFJNejZjNTBETWJ1czlPQ1hBYWdfX3FSMU5PdE9mZVFCX21mcFc5Zw?oc=5"
-    },
-    {
-      "title": "美股早盤／四大指數全倒 10年+30年期美債殖利率同飆至24年來最高",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Sa1ozQWhXeFM5Zkl3YmxDbG8yTmxYQlhNNTNRd3F3Z000dWJ3Sk5mSldaZkZRTllBZ0x2V3IyWFhnMEpDQUlLakNJUUVfT3k0M2x1NWdEeGFGQnc40gFiQVVfeXFMTWdSenE5ZkRJb0NpMnRLem9rOE5SOXBSSXU5cGZ3U0F4NHVrcUpOc2prRWFrdlV2V2JUZGNqamh0b0N0YlRyaDhVOElzY3diSWRIVzNZNFVMZ1ltVXFITG9jN3c?oc=5"
-    },
-    {
-      "title": "聯儲局會議紀錄揭示 多數委員料年底前再加息",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNZ0dXV3RYOUdBM1dsQ1ZMa0dFZFBxR2V6dEd0emgxZHlmUS1DSjNxSFZobVBNbUg3eFh0V2JlcHM5eTc3czU3UTA4VFVDbVR4OFB6YmJjTnpHUkprcHBva3gwMW81My14MnJJWldyV2FKOEJtNjNwY0NSbVpnNldLeGlXM1BxV010SVZrcmpqLXhkV1BBV0tjeU9ZbmNORlhZQmo5OWxGVlktaXhUTzRjYTFOejJ1QS1JMTE5cXRSZWhOdzl5YmxRbnVXUUJ2X3pDZ2w5MWt0bWR4WlRiM29OenYwRDJ6a3pndjBIQTl5RjZwNmszWmY0YXJ5WUZJWXNBNUtRSkhsdUdyRkJjSjRhTm5HVXFmRTZZa3ktb2RZbkZIYXNwMXdXb1FvaElVNERILTZzRHZIa2d0ZFI2OU1TRmVkTHlfdTUxeUNsaUFzcw?oc=5"
-    },
-    {
-      "title": "美股動向 | 華爾街AI盈利狂熱延至2027年，分析警告市場恐現風險 | 即時新聞 - 新聞",
+      "title": "美股 | 美股三大指數齊跌，美長債息續高企，聯儲局會議紀要揭官員料年內或需再加息",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWNFQmFhX3NfUGUwQkpZU050S2piamRGYXJsckkyRm5ZUDNnZVJzSUxaUlZxOXVTOXRaUUNlY3RiYUItX1Z3UDQ0V01PZFRXRkgzVkpBVjF2ajcwMHZhNFB1QkRzV2dNSHpBTjM0X190NjU5UERBVVdVYVpuYmtaTjd1WEJISG9NTlNSd21HSVVUTXpVeW1fZ05ENDRldFVx?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZG9xb3g0aF9HNFRBR1dYZHlzUlNod0k0OWNHZVBGNFpZRFpaOFVkektvUUYyeFV1dkZ1a3I3dGstc3d1bVRGbTlQdUJiQmI5b0RucVRXSmJDbFZmLTJUeTcxX1JnOHEtUUU2WDZHczBJOEQ2SHdjLS1yTElHdGpoWDMtd0FsZ0tuZzNxWTgwQ3VYc05F?oc=5"
     },
     {
-      "title": "聯儲局議息丨會議紀錄:多數委員料年底前或還需再加息",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQdUYwaXlfNm5rdXBSLU9Icld6eUZpLVZrR0lqbzk1V0daN2VSYjd6STgydTkySTVaalJjNXB3ckxIeGM4Ujg5ZUZKYmkxYWVfT1o3czBKZ0FfR2xBOThaLU5MZjlBNHMzeDVCaTA3TWxNdHpTUHRDRWZpYzBTaklkQ09IeVhjMlFyd2l5UjE0MGtqN001WEIxT1FHem5yUXZoc28ydW9DX2ZhbC0yaldxUTV1THdJdXh2b1NXS2FsMGdJcERoakwtM0JnaHdwTktIb3lIZFUxeU1HX2lEcm1KZ29salpBVnBEejZTdmhMcGhiSFdIc3p1eXA5SHZ4R2dTa3hNdTllTFBocGhJRTVWQlh6VHZJLWxrc09KclNqRWs0YjBoYUlnNnZJMnY0LXNvRHVvYnB5MjFoa1JZdnlBWl9JaVJkU1FzdWJpWV9xR19ickEybUowdE5aUWtXY3lBdWVXM29rTklENU1oeW5xY1h0M0ZiSmtONWxSUWJKeTY?oc=5"
+      "title": "美股收盤…美債殖利率衝24年高點標普500、那斯達克自歷史新高回落| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yUUoyVjJ1WHBWblQ2TlIzT3R0STRFWjBmaG5BbUFHVlVZaWpkNHVnMEZYdDQtbFJzeFdKU0RIa2lsVzhOa1FhaGY2Z1ZULW1B?oc=5"
+    },
+    {
+      "title": "聯儲局會議紀錄顯示官員對加息有不同理由",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEQ2MzVFZkb3I3VTBIczRoTTFiam9zN1JYU0F2OEdHYS1EdWVxRzk5WkJRYW1abjMwbTEtNVFQbDVoZGJ3MVhKSmctX2pPdGNHTktudFlXZUpjaEtOU0lwSlBZSkJGenpZMU54MmdoUQ?oc=5"
+    },
+    {
+      "title": "10年期美債收益率創逾24年新高",
+      "source": "香港商报",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JMFVLU0NtTXQxdmJCZFhLSC1IcUNSb3V0bkM0VWZFY3JlcElkZG1mdVFhdmJ5cklXRHNMMko1NTEtQVRkX21mczBVaVVxOGR1OWFnMGw2TURrUEU4dk9IRUY1MzFmSWlnQm1pWDBLekcteDRtUEhxMlVucw?oc=5"
+    },
+    {
+      "title": "聯儲局官員一致支持9月加息 大多數認為年底前再加息一次屬合適",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQdmhHbVhUQ1dIaFpkTzFLbF83RUp6SS1QUUswNUVLRVdJRFN2dXAxWmhmbXg2RHN3S0tEYnlxTUQzbDB1Z3NIRkpLcmRKS1hnX3RkUXluWWoxME5yMkVHcENMRlc3WDkxQTlMd0hTY1p4TlB4QkhaRm9ZdGt6cW9oWE0wN3R1MktDclN2Q19nd0pORlJDRzZwNTd3a25tQ1BVNWYxNkhfSERUSWFLV01lUVBKZmRYOVJQZERaaXFvWC1ubnpMYllzMWZVSjk3T1RFTmJnWGpDT2NxNWNGaWliSnVrZEdKTF84SXBrVGxIZTByWTdGX1FoUmVVWS1kV1lSSy1XOXlGUlBTbWFaSF9BTEx0RWxOWC1sMjFiLWs0T0dCSFhyVldBeF9HVUI4ZGloMVpxMWF0aGVsSURhQ28zNEs1SmlTcXpRQmtCaExpeC1vMExETHhYUHZVMzYzajdmNFpuN05LdnNkSjFTSFNmRzgtd3VHRWQzTTVYVVF5UFYweGVJb21Gb3FUU0EyX0hveWFxcFp2WGJUMHc?oc=5"
+    },
+    {
+      "title": "美股期貨持穩，華爾街從歷史高位回落，國債收益率攀升 作者 Investing.com - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tVUFpY1loTG90Sm9LRXE2a3NhdGVya05nbHBud1NTVDIzRmVaNnoycWlvMUtHb2RsRUg1Yy1GcEd5T3ozUkdZVk1IcURoNm1VN0JhQWRnbWozRmthRDVnZS1fSW5yRUwwbFZfeE5MUU8?oc=5"
     }
   ],
   "events": {
