@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-07 21:32:26",
+  "updated_at": "2026-10-08 07:15:20",
   "gas": {
-    "current_label": "10月7日 (現行油價)",
+    "current_label": "10月8日 (現行油價)",
     "current_price": "185.9",
-    "predict_label": "10月8日 (明日預測)",
-    "predict_price": "185.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月9日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "肺癌藥遭歐盟撤銷許可 翰森製藥出海底氣何在？",
+      "title": "美國中期選舉是甚麼？這是一份簡易指南",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BdWptaGNTTzlLY0VXVFJOeTRRWjN3YUlYTFNhS2RleUgzS0ZEdF90c1hKdXFUUFRrbHE0ZWt0WS1KZHNSLWQ0Y1ZiSVM1b096TFp3YUl3SGVlWk1pcS14T2xGSGpaeGvSAWxBVV95cUxPQ05pRHdLT0xXUWdyX0xvVGQ4TmZiek9wVmRZOVJVX3dOMFpwNnU2dmxBRTVOY2NuOTF5X1dxQzZQX3ExUVhwX1laeGpDdE56WnBJRmVsbVhobTQwXzdjdEluZHlVeFNJMjlKdFg?oc=5"
+    },
+    {
+      "title": "美國財政問題讓比特幣價格持續堅挺?",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUc5emdRMnQ1ZEZvSVVWellYVHd3LXNIODMxRzhjM29ObHBsaklQcjRuQThscm5DY3FFY2JrLXIyUFphQ0VVU1NITnd3TWFJdXBUMjVFaUhZRzhrNm1BZFE2MVR0aXFiT2kwXzh1Mjc0ci1iT1h2aWhVejd5S3pEWVVQYmV1T0VK?oc=5"
+    },
+    {
+      "title": "中大領導國際研究證利妥昔單抗治可減少幼童腎病綜合症復發 為複雜病情年幼患童開創類固醇以外二綫治療方案",
+      "source": "CUHK Communications and Public Relations Office",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSUV5WE1EbW5leWdVOExYYVhtY29kd0lpM0dOeVlCVEl0M1FtRHdJX2ZVTnMxYVljLVA0S0p1aHBDeUxyaXM5ZWZjS0xXaFpzUzdXRnpKVTlwVFI1VXlMOWVPTVBGZV9BODNnYVZKdlcxMVJuZ1dGXzFsNjBhdnhnOFZQMTFpZHd3MHN3Vi1fZ1JnelRrcGllTWFnbERoeTluRkUtdWRVejU4alFXSWJGUXdqYjRnSVZmSXBIcUh2WktHZU80RFRWaVN1bUdzUEhCNEp0X3g0WTZ3Ui14MW11eDhEbW5GSWJZaHNuRlc2YTlwVldEbDBUTTltVnlKVjl5d05aSnpjV1hmVmRKRklzanlNTjZPQjZyU2MwRDh4NC1ZNkZFWGJuRA?oc=5"
+    },
+    {
+      "title": "川普政府再收緊簽證！國際生留美工作 擬收7萬美元實習費",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQSG1vZHZhMUx5VERTLS1HYnYtYkMzcG16NHAyb1FrQ19IZmFqX2Q2MTc1cF9wZmViX05talROY2lmcENpNjdRV1hpeVRlVy1ocmFMUVJjZ0xrdnVMb19HRUYwSHBRTHY1YWpGNGxEQzlocjIwOEFrSXV5MHBjcl9XWkdfdmI5MTFKaDVsRFdSWnF3aFZKaXEtdW5CbnRTTWpURzFuZDVEaEtvR2hjSko4OHNmTFEwcV9Kd0RWbjJrTGpnbHZWM0t5d01pOWMtM21TbDBPa3VFXzJMUXFRTXNtWHVGdmljdVBvRkp2SUgtb3FWYUxKWXRKM3FyX2Zqazh0Z2IwNHI0bkRmQVdVOTByTFNQRFlMNDU0WXVYVmFBZzhnYlVnNGZOOWNoUDQ5c1J3blhRRVZMQm9zSU5KRm9TOC02Sk1kN0hTcGJPMWtxYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPVmtyaTJEYkQ3eWFoeGxEQVJhQlZOMnpqNi16SW1waWdpWnlGbjhwV2dhSng0QkNITTBTQ1ZYNXhhaU53YnVnSnlUM0RSdDRveEQyX1lBam5kRHlzUmgzRnVLWEZGT0E3aVUxZzRxU1kxWVFuRTltaldFR1BBMmxiWEdXTjFuZmdwRHR0cjR5ellzSWNBcV9MSzBEbFcxQW5hbE9tR0xkbHJhWWU3bFZGWmd0ajhZMGtPUWNlYXpXalBCZ0JRel94b212MjhYM1RTVm5HQ3NGYjZmYmJhNmZkUDlMLXg3NWE3eTI0YmpNYUZPZHRLajdUbjQycVYtTExIRkNWSUE0VS1CRDBqU3BGc2UtV05kdWZmY1pvcXJ6QUdCak00VmRNUWtFX2VUdGVmMVloVGxHc2oyWkZBOHE4VUszSG50bHg4UnRNM3FxZmJ2Y2FpYlExbDVGX052QWt5TWdDVEVBcDdTcXVlZ05GQVp4NVBaTFVIN3VWWnJWdFlHZw?oc=5"
     },
     {
-      "title": "美眾議院指微牛證券與中國有關聯　威脅美國安全",
+      "title": "據報美國防部下令美軍準備恢復打擊伊朗",
       "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yd2xxT0lHUElNVHVtM2ZyMk9henhVa0FLeWRnYnktWDdlOERYRU9lQnQ0MmUtRmxGaXBsOFpXR0xDLWp0MV9KZGZyY0oxckpWb3kwdjNIXzhQNzTSAVtBVV95cUxPMndscU9JR1BJTVR1bTNmcjJPYXp4VWtBS3lkZ2J5LVg3ZThEWEVPZUJ0NDJlLUZsRmlwbDhaV0dMQy1qdDFfSmRmcmNKMXJKVm95MHYzSF84UDc0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwYm1oSnlKMlBoVWpNX1BBOEdvUV9xWmJ6eE5fY2NMVlZuN3BPbk0tOENra2Y4cWtvdmUzbzFFOTZRUDlCMzlyLWdLa2p6Y2Z1cGFqUndZT0ZGMVlULXfSAWNBVV95cUxObTZXdF9BNTBnNXMtUUJBV2h3TnFubWlndUltV3AzWDhlRVFvbGpoUVBSREMtOGo3eTB4ODJ5SGJ2ck5RbG5EbWtGb2F0QnFnSlk2Q3Z3QndfVXdHeU01a3ZxOHM?oc=5"
     },
     {
-      "title": "（中通論壇）全球科技博弈生變 美國或調整對華政策尋更大空間？",
+      "title": "一條海峽，如何改寫全球帳單？",
       "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wRGdaQ1ljS1RYaUpXM3owWHA0dTE5MGRJeGRLMzRweDg5QVl5VTdONWktZXRERTBzMlBBYW9xamM0N002d2pYbFF6UnlBUGhfd1ZlT01WWUg2Qk5RRVZDMWhNNENSZFdNdWJUaThudXI5VGc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTnZENFowdkZwQzgzQ093TW1hd1NjTFkxWXlQZlFwbE4yUFF2Y0lORzltelhuOUhEeEZJandTZmlpS2toeTJXcU1sM0RaSWJGX1ROcFpXem96VEhyUE5rRm9hdUZQb0FVbjFjZTVuVQ?oc=5"
     },
     {
-      "title": "國際太空站4名太空人啟程返回地球",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jRWRWT0tacE9oeTktYVBTYmVMcWFYTjk1T2dOOHdrbGVjTjdFWTdpYm8yUHkxc2N2NHNZVVl5S25lTlpSYlg0eEZlSjFIOHVYUEhETjgyeGZFRDBWSHZGQUcyUXpEc3hUd3dzRXZtOA?oc=5"
-    },
-    {
-      "title": "特朗普稱伊朗可“摧毀”洛杉磯與聖地牙哥 加州政界跨黨派反彈",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNSGxQNHBKa0o3SVlMUnQtWXB5Nl91R2lvTWdxeWpzRmZ4ZEQ1QTZiekNKNW9iaUYwNkZPcnBoSUR1Y3pMQzViZFdYMmRFSmxBcWg0eGk0Z2pFMEpLM3FSbWdJT19hMkxhUHF1LWptWTVZZkQ1d2U3T1FtVW5lUlM3c1pPeHVsSTdMaFBYSjV5cURIVHN6ZFFZSjZoQ1hnMWVZR0cwRmVGZ3Y5SjhFaV92OTIyTlg3VWlQdldhcENzTWN0dVZ1cEhwemZaRWxLLVVCUU8wTnByUThpQzJJb3J5Qk1kTWx2THhpVlFQYkdBODVTUnZGRzU0QlZvb0VBbTd1V210dk9COUNuOUZ4LVJfYTRmR0ktOTNXbVI3UGV4QzZ6dGRXb2gwYzVUbktmQlVqR1FNNHY3ZnVIa3FHejZTN0RnQkVaYzdtSG9aRFl4S2dtVjVJMk1tc3Y3czh6LTdXR2Q2VzJCSWNzNnBFTXN1NGdoaHY5VlVKS3I3RmFYZVNOdVhsNTkzXzNwTHM2VWlpT3A2TW1WZ3lkcDQ?oc=5"
-    },
-    {
-      "title": "傳川普準備重啟美伊戰爭！將聯手以色列大空襲 可能時間點曝",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42YkhfY3BtS2ZNcjgyUVZHdXNFS0pocWpZbzVmdGZOZF8zNExsekw0MjRFZ3FCZ0ZhNFdKYkxfNVh5clQxYmVXN1pxV000bXYyX3FR0gFYQVVfeXFMTXFUVTRGWkJTLVROSEtkeU94YzNROVN3enAwZkRmRFpLMzc0TGdOQzhEaUVleFRNV3dBdDlHXzZiQTVfTnB5ZzMxcFFfTHhRR01rbzlncE9tQw?oc=5"
-    },
-    {
-      "title": "美國國會議員希望同僚承諾接受中期選舉結果",
-      "source": "华尔街日报中文版",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNdnFWYjNnUV9aalBNZTRRMXVxWi1UcWtfLXV6TEhwMjBVMmh4UDNFc203eUhYLUhUM2dUSGlwYTd4OTY1cjFqN2hLdE10VlBIOGQtWmdrVEM5bTZ5TjVhY0pORlMzcWVBTG9weUgzVHloV185STBlTmVnd25MbXBXcDNidk1ZMnU3WlpDMk5oUVhZZDNBSHd1dUFFNGo5R1FCX2hSa0ZsRzFnN0pFVUl4WkdrRGFaRVVsX1A5ZlZnejJqajBUM2ZEWnBpUVJvUzJOWWJPVHZHU2VUUzlLamlDd01ObWNydTJHSzlSQloydlQtWHF6SzBYWXNPdlBEaEQtU2xTTVU2MWFWX3NUeFZVOWl4YjBOLURyY3U1Y0ZEQzZRSmpnV0plSHNBTVFWclhTeVhKTXpGNkt5bTA3NEE?oc=5"
+      "title": "姚正菁自稱戲路廣可演嫲嫲踏國際舞台鬧出大烏龍- 東張+",
+      "source": "myTV SUPER",
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNa2pmX0lNOGpMbldlamdGMVkzVEJEenROd195aEZTbXJKYTBObnlYTWZ3Sl8wRi14VDNXQnBwTVU5alFycVg2N0oxNm1KYXlVQ0NuOVpaVHFHTm02WmlmVDM0bmkyUm5NOU9BdHYyQjdZTDFIdVdBcEtmQ3Uyc0RvSkJuLU9kZDQtVU1mR3FsbkVLUURNQnpZR2RBaHZxaTNTZWtLUU92MktzdnR4MUxfb1QxN1hNeGNtVlJQUFhlRURWUVhqazBlZ3ZUWENJMkt0WjVNbU80SGlvWU5NTnZZQmN3ekxuV2w1LUJnVWhjQndPdi1YYWU2UlBOd3hNb1R3RkQzTEVIZ0h0S2JNUUhlQS1aSlFfbkFOaFNsclZycndRejZHLUVOOHdpMFpodkRPRVowM0w3cmlpZ0hwN3J4Q1laTm1sVnRkNE04MEZoWTYyTlVKTktCMWRTWXpDT0I4dGl4SFJ6enNuNVAxNGpPT3I0U09WMU4yZ0gtdWVzc25lWDhTZXhJSllLUFY4Tktvem56SlB4WFpYSmhPSW04T0loVQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股 | 美股三大指數齊跌，美長債息續高企，聯儲局會議紀要揭官員料年內或需再加息",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZG9xb3g0aF9HNFRBR1dYZHlzUlNod0k0OWNHZVBGNFpZRFpaOFVkektvUUYyeFV1dkZ1a3I3dGstc3d1bVRGbTlQdUJiQmI5b0RucVRXSmJDbFZmLTJUeTcxX1JnOHEtUUU2WDZHczBJOEQ2SHdjLS1yTElHdGpoWDMtd0FsZ0tuZzNxWTgwQ3VYc05F?oc=5"
-    },
-    {
-      "title": "美股收盤…美債殖利率衝24年高點標普500、那斯達克自歷史新高回落| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yUUoyVjJ1WHBWblQ2TlIzT3R0STRFWjBmaG5BbUFHVlVZaWpkNHVnMEZYdDQtbFJzeFdKU0RIa2lsVzhOa1FhaGY2Z1ZULW1B?oc=5"
-    },
-    {
-      "title": "聯儲局會議紀錄顯示官員對加息有不同理由",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEQ2MzVFZkb3I3VTBIczRoTTFiam9zN1JYU0F2OEdHYS1EdWVxRzk5WkJRYW1abjMwbTEtNVFQbDVoZGJ3MVhKSmctX2pPdGNHTktudFlXZUpjaEtOU0lwSlBZSkJGenpZMU54MmdoUQ?oc=5"
-    },
-    {
-      "title": "10年期美債收益率創逾24年新高",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JMFVLU0NtTXQxdmJCZFhLSC1IcUNSb3V0bkM0VWZFY3JlcElkZG1mdVFhdmJ5cklXRHNMMko1NTEtQVRkX21mczBVaVVxOGR1OWFnMGw2TURrUEU4dk9IRUY1MzFmSWlnQm1pWDBLekcteDRtUEhxMlVucw?oc=5"
-    },
-    {
-      "title": "聯儲局官員一致支持9月加息 大多數認為年底前再加息一次屬合適",
+      "title": "10年期美債收益率5.28% 創2007年以來新高：還要持有可口可樂嗎？",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQdmhHbVhUQ1dIaFpkTzFLbF83RUp6SS1QUUswNUVLRVdJRFN2dXAxWmhmbXg2RHN3S0tEYnlxTUQzbDB1Z3NIRkpLcmRKS1hnX3RkUXluWWoxME5yMkVHcENMRlc3WDkxQTlMd0hTY1p4TlB4QkhaRm9ZdGt6cW9oWE0wN3R1MktDclN2Q19nd0pORlJDRzZwNTd3a25tQ1BVNWYxNkhfSERUSWFLV01lUVBKZmRYOVJQZERaaXFvWC1ubnpMYllzMWZVSjk3T1RFTmJnWGpDT2NxNWNGaWliSnVrZEdKTF84SXBrVGxIZTByWTdGX1FoUmVVWS1kV1lSSy1XOXlGUlBTbWFaSF9BTEx0RWxOWC1sMjFiLWs0T0dCSFhyVldBeF9HVUI4ZGloMVpxMWF0aGVsSURhQ28zNEs1SmlTcXpRQmtCaExpeC1vMExETHhYUHZVMzYzajdmNFpuN05LdnNkSjFTSFNmRzgtd3VHRWQzTTVYVVF5UFYweGVJb21Gb3FUU0EyX0hveWFxcFp2WGJUMHc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPY1ZyZG01ZVN2MnMwWjB2bTc3dUcxYkx6N1E5Qm05VUdvbWpZak1yRXdlRnZNb0pfa2dZYzd3Qy1qNEszN0t4LTl2NUM5VUJCZ0tBczVVeEl1TU1SU2ZYeGt6VjJ6WllaUjJyQlNjdGlHeUhKWU9GX3Q0QmJ0a0ZYWkFRUFRhcXVoNFRsQmhnZUJpMlhOVzJMN25lWVNPM1pRUE0xdm5tdDNReTJBcUtDUnhaVnJDOEJxR0p1UVdXbERjeUJsZHJZZTB2MkliamtYNzJlM3JwMkE1MnZ5MmgtYkdpVEIxd2NubzRtMThlQi02bXd1MFdzVlZlQjlVa1BvbXhrbFdRMDF4RnVyVmtxQzJ4VkVPbW0xSklJNFd4WGdtWnRUOFhXT2JLbkdSa1kxZFhoSnpITm4yQzF5SElwTDdkd2Ywb3JpM1FjaGJMNlY3Ql9USDBFeWR2OFdsanFNZS0tVTZndTFRVC1MQXk3M1RtM2tqQQ?oc=5"
     },
     {
-      "title": "美股期貨持穩，華爾街從歷史高位回落，國債收益率攀升 作者 Investing.com - Investing.com 香港",
+      "title": "美股期貨下滑，國債收益率與油價齊漲令市場承壓 作者 Investing.com - Investing.com 香港",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tVUFpY1loTG90Sm9LRXE2a3NhdGVya05nbHBud1NTVDIzRmVaNnoycWlvMUtHb2RsRUg1Yy1GcEd5T3ozUkdZVk1IcURoNm1VN0JhQWRnbWozRmthRDVnZS1fSW5yRUwwbFZfeE5MUU8?oc=5"
+    },
+    {
+      "title": "【美國息口】聯儲局理事沃勒：或需再加息遏通脹 暗示10月可按兵不動 市場押注12月再行動",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQUGlVYWpCcmJUS09wY1FtVWtvMVZJWUs3TUVDZFI4NmVqRUFrR3Y0NUZPUGlCdm5ua2xFY1VXdVU4dWg2aVo5VW9XaXZmWjFGM21rdWtFWDlNanlMQTNJV2hwQk5MNmJ3NWdGVHFRdXBhcy1XaU15UV9fR2ZOMEJjMWloQXUxMjJqNzFUbXJfOVVLZXd0dGV0cDVWQ0w4a3hBTVNyVmpFVmlxY2p3VXZnN2hJOWNqd2F3NUNZSld5T3l0MUQtVFNoTXlFc3NHdVBiTnk1dVRZQzE4ZVJidlUwWEtkYUtzRXowNWhkUG5oX2FJTG1pOE1yM1JnY2R3VF9ycV8xYVFRSURiU3RRQ1Vmb1ozSDhWRGpid3AxQ3U1RkZFeW1yUVVGbUFYX1pUb2szOHBmV0tlVlAtTnlvRUl5WUxIOHRVLUNaNk51VmhNT0JPaHdWM05SVUFiYzEzQm9TdFkzcmlNRFJyeDBYSnF2VWJzcEFBYnpsSExvdjhZb1VOZDNMb01kTkdNWm16SnRpZWVwRm5tU2FFTVppT0ljNXU4elRuRzVETVFOUkw2YlZZMXIxYVljWnpzbG5VTVRBOGN4Uy1uR0pxN0F1Y2RQTnFoTlV2cThOS0NYb2lVNFVCa0tBYWwzejlla2lRSEtZSE1VT0hfNUZfZWlUaVlnYldoYmpQa0J2aFQ4SmxHczFDRFY3LXFTSWQ2LXIzNXM3S3RGYmVUeDc5UXpzUTRiWjh4czhyQQ?oc=5"
+    },
+    {
+      "title": "一文讀懂：美債「日日啼血」 美股緣何還能「夜夜笙歌」？",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3QtUnVXU3BwMWxoczVlaHBYUTd2M0otZk11ZDhRWWhpOE44SjZfQVdlNktuSmEtelhJSDNjNGZJb0VtNWY5Nlk0TmlvcXJJc0g1Zld4SUhiRnJUd1FQelQ4RWEzc3hxYVZkWGltbXVSVU5iNWk3Rm5JUW5JTzlKYk9PbmxWd0tnX1NOajBlUUc3Skg2VEQwa0hDUnVwNHdJU0l6WjlQUDhIVFB2bVE?oc=5"
+    },
+    {
+      "title": "多虧「這國」救場 美國債市或可暫喘口氣",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kb054MVhqRGtQdHNsbTlDb1hvQXN6aFRhbVdyTVp3a3huQzdtdVlwVGpOUTJJSmEtNzkzNGM4ZzNaVVltRi1qWW8wTGV4eHB1TGNTZzRna2xVZ9IBX0FVX3lxTE9ycmUyRTBTNkFWM0JFUjkwNTI4djdLQUFQTjBtUDFZWFY5b3B3UHZVYllvOWVfNjBXdVZBeWdzLUVXcEFQVVctU3c3UW51SmFzVFl6VHdmZ2ZFaUl4cXlB?oc=5"
+    },
+    {
+      "title": "AI | FOCUS | 美債拍賣顯吊詭，AI泡沫「狼又來」",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWc5czY4ZFVmdjNld2ZMN3d6QTdBM0xJX1VYbi16YjNwalp0enFZbzNVTVVhMkZucTFJN3ZYbWRDeUJhcVltLWlpakhyNWhNVkdOc2wxTUtfVEY1Q3NKUGEwb01OM0RDb3U5WGMyYXd6aTRDWjV4OVdmeG1qbTg4Ml9SWXVrbGtLSHpEN3MzR01sQ3dLZWFlek5HS3hLai1v?oc=5"
     }
   ],
   "events": {
@@ -84,16 +84,16 @@
         "title": "美國 9 月 CPI 通脹數據",
         "date": "2026-10-14",
         "desc": "美聯儲關注通脹指標",
-        "days_left": 7,
-        "status_badge": "7 日後"
+        "days_left": 6,
+        "status_badge": "6 日後"
       },
       {
         "tag": "FOMC",
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 29,
-        "status_badge": "29 日後"
+        "days_left": 28,
+        "status_badge": "28 日後"
       }
     ],
     "stocks": [
@@ -103,8 +103,8 @@
         "type": "Q3 財報",
         "date": "2026-10-15",
         "desc": "2026 Q3 業績公佈與法說會",
-        "days_left": 8,
-        "status_badge": "8 日後"
+        "days_left": 7,
+        "status_badge": "7 日後"
       },
       {
         "ticker": "GOOG",
@@ -112,8 +112,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 21,
-        "status_badge": "21 日後"
+        "days_left": 20,
+        "status_badge": "20 日後"
       },
       {
         "ticker": "NVDA",
@@ -121,8 +121,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 42,
-        "status_badge": "42 日後"
+        "days_left": 41,
+        "status_badge": "41 日後"
       }
     ]
   },
