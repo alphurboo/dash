@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-10 07:15:18",
+  "updated_at": "2026-10-10 16:15:20",
   "gas": {
     "current_label": "10月10日 (現行油價)",
     "current_price": "182.9",
     "predict_label": "10月11日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "181.9",
+    "trend": "↓ 明日預測跌 1.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "日歐等8國外長髮聯合聲明，反對美國制裁ICC",
-      "source": "日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUo2YWpwRnFnbmphMFpXMmhGbXIyYUpDT0hrYkx4anlaVGQ1c3haeERUOVhVRktwY29KeDZELUdsZ1B6SlUyZlZoaktNN0RveHF1RlRyM18xTXQzcnFnaTMyeGZLbjBFMGJHaGNXMkJmajR4ZDFMd0trRGp1LXhuMGtVM3BJdG5vemU5WDBKS3JFOVE?oc=5"
-    },
-    {
-      "title": "國際｜特朗普任命扎卡里亞為白宮新聞秘書 接替萊維特",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxONHFPZWFZN0pFeFowa0luU05kSjdCTWlmMlNZTW85NmNuV2oxN3JWWXMtUXhhdWplU2tZUlhPRDBITm05SUp2bERUcUhmVXNhQl9NSFpIdzJ4WEpjVWc0ZFBqOFljZVNrT01NYXljS1VBcmxJZS1GZGFFUFpWZDdGVzVTbUdYTGU1T1g2M2J6OUVRM2VrYVlYQzBpVWs4X3IzV2JvQ1R5a0NvRzh5ZFJVSzA4WGRORWE5aUo1V29ILWY0YWQtNGJZbGw5bjYydDJqb1A3UkNkWER4b3RUeU5qRDJrN2ZrdEloWVVJTDhEanVCYkRFOU1SbWRQRXd6c21rX2tBMldrRGh2RDBUQkF6NkxoNGF3aHVlMlAwQXhWM24zN01DU1dLNkxubkQ4cWlWdXkybXB3OHBrcUJORzBHZXNfc0N5dUJTV0xkR0Y3eUloNFFVdHJvdXZScENQNG11cHI4dTVOaHFfODhvZXpYOGlCYmI?oc=5"
-    },
-    {
-      "title": "參與者被指受當局騷擾 美國已暫停在陸港澳的專業人才赴美交流項目招募",
+      "title": "要聞解說 - 驚人逆轉：特朗普突放寬對俄柴油制裁 為中期選舉鋪路？",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQdEFuXzM4dVliMEJSY3REU2plaFlVWVpZYTE5T1BGTU8wcV9wNjNtM1JabGJiVHNvOUQtb0lyWGZ6TDhDeXhvYjZCQkM0bXlYOHBEQnNyQTIwZjJDT2tYQ0RkZXVrWHIwWnRaOGpfWWdlNkxBdlRUUnU5QVJ5SjhMVGZzZFZEUE8yRGNsNDlPa1piaFdlZlh3M0lEZzc2QVpXdzNYeW1xay1iVzI5X3Y3Yk9hU095WHpvWVg5dS1jdlJFd19ob0lremZaMDB3dnY3MnNfR1VyZmUzVWM1YVlNWE1tY0VmcXptX2VSTmV5ZnJHVG9NRmNkOE1BMXZIdU0wTGhnamItMHZUbmdOYWJhSE1iWmIxLWNOQUVEMnBHNl9JOEk5elpFdUpRc0FyMmFWa25FejhRM09yYkZ4UGZXOGRodk5la3FFc21kdVVvWnZ3VUtoZEJKdy1nUDY4Z1dIOFdnakFHVEhULXhBUlM0UDk5YWY3a0VUQUx1QkoxU2oyb0ZPdlVqTjZUQVh2SV94a2FjTDFXSEpRU3dhN1ZpUjU2eThnbmlnb1lVVHpiYWVmczMtUHJGejVua2oybWFKVzk0R0F3SzlUMHRGbkRmeFNyNzVNbUdRREFYWGZCZFE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNcm5rTVlLaXdobmg4NkRYRUZzRnBwUmphQmhhWGt5WlNVZFJBZWtBRlB6ZU1QTENhcnBpNnpvVmYzWlVORVlTSTlaaWI4eXlYUXk1Rkk4THRUbTRfdFBDMmgzSENIYTF1NlNqRTNVMEtTT2dXWkhNWWZydVFhM004RlFDY1hCazd4bk9rUFBfUnBMcktva1labzE0c29CeEpaU282X1liZ3ZvNWg0NzktN05vSE5yVjVWY2hfYmMxYlBsakFCbnBnOFJRYlA4cVhZN2w3S1lqX3dicm5LZGhuczZYclczaklaQmNVbExKYjdpTnllZElFdWktT2VBcEdpRkpPWkVKaDJ6VmlJTV9LR21oRGRreUYzWjQ2OHNnY1hfcE9VdWprWEtPT211bEtVYjdobXhpaDRNRklNekNnS045MVFpNEhKajl2NlNwVm5wNWd0ZmlNMU9Gb3NYQXl1VF93UVhBU2ZHdW9lT2ItdndNdzhsYWxKQXpvQzg3dDZ4Rlp4bHJFYVp6V0kxUQ?oc=5"
     },
     {
-      "title": "廣州國際商業港動工，打造全球貿易新樞紐",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KVkFRTmV4Q2UzZWFQNWF1NVRvb1lHSE00ZHE2YWFNWk5hYlVwenkwVk94RXpYcXptRzlDVE04b0VkcFh5VU4zNjhuMDRHc0RhNk12aXhwSzZnU1ozM3l0S1RsWTZGSnFtWXlTN0wwbw?oc=5"
+      "title": "ICC院長對美國制裁發表聲明稱「不會向威脅屈服」",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nT0ZCaExIU203NlpXdGFISExZYWVLWWxqQTJhVmVZbVdGRlExY1UweVZEOVl1NnRnd2x5Z0pSZ1JnZWRHb00xNDNtaEdTd2VScGdjM2VJcWk?oc=5"
     },
     {
-      "title": "走私輝達晶片丨超微電腦關聯承包商認罪",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQN3VZMDN4VHhFTWRWVnV1MkYwcW1VaWh1WkgwS1UwN2JydnFubVplS09DQ2xWMGxFekNqLXBDQUZmanZDQ3plMnRWb0d1TGZRS2JtVDIxSFNqMnM5UmpwdUZiOHRtcHI2Q3kxZWZCS1BnMFZtY2RHdWdUVlRTOFhhNFF1aUVoVFJ5bUF3LWNMb0FhNkdhR3k3MVp2elRXZFlJa1dseHJHeUVabE1hamJ5Zm9rQTV4UlVJMUd1WUpfMjh4Q2lHa2VWeTFidUNuTDFhczhvVzl0VUpOZFRDZDY5ZWNUTEtvOURDX2g5RGNibEV6RkM0MWZVT2dYb2gtdDJla1dUZi0yOWxuYlJMRW9Xem9ieWlnWllpU1FBNGVBS1Z1dE8yN3U4RG5WTmVJYVZLOTRNMVk4ZUZldVdkVndzb3RwaU1neWh4?oc=5"
+      "title": "美國制裁國際刑事法院 繼續推進「瓦解」行動",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOY2NQY0FrNXZYSTdkVnhQTG0yLVJySkkwME1zX1NrWEVQODRjTGZ3TkcwN1ZTYnpHM2JJZHhWZzNsMkc5cnV1YUs2NU1BTzFqQ0VVbmRjd2RQN1pnUWVGRUVtTmR1emd0ZUtfektFQmdQd2VMTnpmZnA1NERrQXZYajZ1NU83TmotU3UwMHdxb2dDN3VKZWoyNW85b2xaS1lSX3NWVHJ0a0hJVGNjUHg1UXFYVG4wMTVGOUdnb0VGbnk3YWRNbG85cjVGNkR0U0JHc3ZxRVFpUGp3aHk1M0puWU9aMGJkNTZLZUJOZ1VkUFZNTzdRSWgzNFlDYWYwazUxQnRnWkM2ODRsZlRKbzdiUlVsOVVzZXg5UEtTOFVCczVBNFNaaFR1RtIBqAJBVV95cUxPOU44YmUweUE1dEFfYnZNamZzYTM0aXVDeWZtX2NVN0hFd1YtT2diQ0JtUkZzYXBvb3RfcDlOMGQ2X0lzOE85MTJ5anpRVjJEMVU2bm9yZ1JySFh5S090bnNMa1AxSEdkN2wxUWpYSEdlZkRRNzBqN1NLY0dSSnRQRlZVLVlYS0R6OThOaktFaVJlQ01YM1JnWEI0MVBaWkR2WVVSRjNNR01Nel9KUnJXSXh2aDJQdll5ajRGOVdpV0hocVBhT2Y2eUg5eW0yU1M0TEQyRDFCZ2JSUlQtcWZvMFRFNFNWeWpqMFJUUWVjRklDMTIwaVlVR0F3OTBSQ0tPRFBwS0RtQWhncVJnMHowbktoQkpqMHNyWVNER3hwazBvY2EwRzU5bg?oc=5"
     },
     {
-      "title": "國際｜美俄達成柴油供應協議 普京同意向全球市場供油",
+      "title": "美國賓夕法尼亞州槍擊案　9人死亡",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sQzQxOXVDQmNLZENoTTNHc2hYb0RjV0lVUnVIY0Z0a0xXVnRZMzJDV204MXpRcGtEcUE4REZxbmtWY1JDelRzTnZhRjZEbXB3SEMxdnZYR1JSWTVTdnfSAWNBVV95cUxQSU5BRGpMUWtIbnM2NzlYaF9jNVB3RmpnZHNyTlc0Wnp2RlFrbnFuNC1oZS02cjVTVjRaWlZjYmVrWHJWRHV4bUE4S0FVWWxpelBNRmNxX1ZhMm1XNXlvQWdRZVE?oc=5"
+    },
+    {
+      "title": "美烏邁阿密會晤 商冬季前緩和俄烏局勢",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qWVVkamRvTlIyYll6M2xvUkhhZ2tBY0M5c09JQ2daYk5xM0dBaUN4Z1MzMGdGYzNUclBDaExXWERKLTRYTWhCZVppcERpSjk3M295ZDk0WWFqVEhDUmZ3WjZn0gFnQVVfeXFMT2l3VGtERGZfMDZJRmtTZFF1MjVVZWVFaWxoeWgwQ2VGY3V1YldJT1FlQ09RYlpGQ0dxM2hGZEk5cUtidzNmRDhlcnk0dmpSS3Nnb0FVcm9RSFRtbU9Uck92SGROeDlwbw?oc=5"
+    },
+    {
+      "title": "國際｜英國男子闖入野生動物園老虎區遭襲擊身亡",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPaDA5ZDN2VEQ5M1FGWTFlVURPVllnWjBGRU5Sd3h2bTl1QVFJaDUtdmVxeHFnUUI2b3VkdDhQc1B5Sm1fNDQ1b3BYWXRYQkpxZWl5LTFIMnpDRWd6LW9CTFRrM0VLNmZwcXhjUmFYR1djaV9zWGd2bTlZOGZnd2Q1VVUxcFZrbUZlbEdEc0xEZDlmRlBZeC1Yb01IWHJ6VFNRRjYzc180cHVmNVUwYXI5Q1hXcUhaR1J3VXRXQ0xuNjYzQnVZelVnek5BaFM5M1hyeC1SZTVfZzRPd0Z3dE9TX0hGd2hTNTFWdWViUTVLMFdJZkhhVVJGZ0NMbWdFVkN3Qi1maHF2TThMOEszbXRKZXcwNzJXZ0NLSjFncXJEZVpnU0xQRUhQbXVoZjFGUkFVZWZRQWNFY0Fzc0tVT0R1MVc1NWNGZkozblNoaXJxNXBBQm9Dd0ljTnl5REVHMG1pZEV5clZuaXJ3M1JOTVlGSk5hS2Y?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxORlNuN2FsNVJRTDJGRlFiT1JSOGZDdV95RjYzcmpzN0FtVmU5b1VJTlUzRUNQakVRNk5rOU5hamhESEc5TjFTaHJ0cGJOVUFiSjREbzJKYUZ2NXZSRU1TczVDVW1ZN24zbG1mSFNMYUZUMVM1N0pYVHNXR3daVzd0ckZacWhPQUxmeFdHdVVIMmRDYzcxYnVnV2gyWW9TbENucTJpWU9xbnFYLW9UZmZTSzBrTVlTVjJidWsyRENxbmYxY0lkanQ4d2VwbmZRRTcybkt1MnpUb3R3UzVmUG55cFdqRG5qcGpETWlVT1RPQm9lTmlEQk5yMDBmNWNpcmF2cnVGRkdORkNiOHhlTFc1QzBWOEcyakNKajR6QVNPUUFzUGE1RHJlY2pyeXpmWTdXdmxoeUctTDl0b1AwSTUtX2RycTdkQmJPU1JYMHpEdkNza2NYNktLbjM0bw?oc=5"
     },
     {
-      "title": "美國稱中國在台附近行動“極具破壞性” 賴清德:通過增加國防開支來“防止戰爭”",
+      "title": "美國針對伊朗“影子艦隊”網絡 多家中國企業及關聯船舶受制裁",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPZ2t5VHplaDE1NUs5LWhDN2RUaDVrLUdUVDdIOXFldUhXMmVBSUd4ZEsxQWIzOWdkLWNDS2JfVkdWZ1JRYWZ2S0VuVFk3bnRFMWtEaG1PcUw1Nm16NEtjY1FEcWNiSlY4QUs0ZHlNa3JMVnVIbDJibFhrUE1RNW1JUFVPTmZ4MFJkRnhmNU5BRW1XcWxwZVB6dHdydmxVUWFrcDhqZ0l3aG1XNURPVk80bTVtWnVNUmx5UHhpYzhQOFpmRVo3ejhDdjlLWFJkUjZyUlFyanVaa3RLYXBvR0FJcnQxRTkweHU2YzJZcW5SNVFaMlk2UlRwMDhrQ2lWcmoxTmo4bmFLZGNYdDFXNE1xNGs5UEtJZFBjQ21veVNyUzUwQ2NycHdkeUY5TmE0TnhfVGpqT3RqVGVoY3lDTGRvMzM5NTN3OFJUMUZZUkdjOVZndkIyUjJzTkRBSVpqZlpaaWc3dzdNUlR1dEgwVW9SVmw4THl6RHk4bmRfSWsxQTNOc1RGM2tkVTl2ZWNRTWt5c0lwU3JkMXd4ZE41VEZfbUl1WlBmLUNwbkJyQ2paN2NZeHg4VERfZlg3RTdhVlF2RmZxbE54b1ppRjZLVlRtRTQ5NW9jX1EtYkMyVDkyRWlydG9Pb0hRVlhBYlNlbUI1?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPVGFDTkRxdW1qT3oyVC1jeXEwdWdPX3V6c1B1amZfeDFsRXVKX2pJVE1OOVhwQWVHVVJZVTZnbmk2d0cyell2a01mR05lekxMbU1ieE9WcnBFVEFPT0s5bWNaVWx2TTVwTWxfSXJwbGxkV3JQd2lVTV9ETFRHOEp2TXZGdnV0TG1HQmhsX3dPT2RjclAwUEl0LTMtZ05lSmVGSDNoaHpLS0hLY1dZdlRlZGl6aXotcEpnVWdxR1dNT1NVeTZCaG5FalkyMmJZQlJ3UU9EV1ktWEtFVGdYNnRiOV9FT2JKMS1TaTlVN1JzenB1WTZlTUY4dVM4MU9wNng1em8wZTNxNl9HWHhXS1kta2pjTUdDOVp0bjBBV0U2VGMwal85R1pUVWxMNFU0emxZR1UwcFliNGNVeGZkZ1prVnJ5MU9JT1FMX2ZFblZXNDFfZ2RpckdwNTdnc0VVZGszWWNoTy11MzNxeVB0c1pvckZ6aHgxeUwyM09MRkxlT2YyMml5ZThnRDNfaVl5a3FGbXdnVHdaRHp4WGs?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜AI股反彈 C3.ai及Oracle急升 科技板塊收復失地",
+      "title": "美股｜芒格遺訓：指數基金勝選股 月供400美元30年滾存81.3萬美元",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPeGFWSkNObXFneHVOTmxSQkNwV3FiS0pBeGVGNzdLUmNVV0hXRGc0aFdQaEhpaUJjakx4WUwxWDFObEVYcmVPYkp5REphQzlqdEdrb055VVl2VUExMHpwOUJxZ0dTQXpoaG5fd2VrVFZBYTRfZ2JFTkl1VUlUYUVuN0xyZl9qTWZ4QnR3OVBRaEZoWFhraWhoSTFydlkwVU5LTGZubUNFM1B1WUpXcjZ2WThSUG1LOVZFZ3RNTUxmYUZDZUNQSGJZcU9CZllkUGhHZEludGEzeEllUzNkYVVDRmJTYTVfODFKS0lwajhIYnBOaDZqNG84UDU5NER6b3BKMHpHMGtVS0dRc0twbTFQTjRhY1FGTUx2RlNKaGZjSmI3TFVJb0tfNlR2M2pqMjdGZEdV?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNa09OVTl1TXVRbjljOFdpVFd6cFc3UjRBRUU0ODREaW1iQzQ0RXBlN0NBbWZlc3RnZjB1T3VZQmlzVkl5LXdLWFczNmNTYklvTHpXNWN1bzZBaXlPb0ZRREZXcGQzamVoV2pzMGZ2eVNRN2JsR19ibVpDdmt5TXY0QU01Ny0wVFV0NG1JbldoVzBBTEZZRWdLcENnaGRuSFNhRVhhRWRUVHI4ZVlQOEpJSDA5b2hjN0RMOXRoUnVrLTJiVkdNd2ZjZGRIV3BDbkNDbkNhdzBBWlhrSVV3WTk3S0dIZ0ZQNGxWVF9QN3JBaV9ydWF1cll6NmJTbXdORGNaMHVLQzllNW5nYklDWDFFUzF6R0JmYmNjcENDZVJFOFFaY0tDUkd4bHV5ZWc5SmR0bkRHcUlrXzh0ZGJ4NS1meXRnRENuWkRHZjNsWWVSUFVIaE1GUTg5akVRUDNPZEtxTlk5d0FoYnVzZElxS2hocGYtVDBZRjZFSVhKeGR0SjUwQQ?oc=5"
     },
     {
-      "title": "美股三大指數齊升 亞馬遜反彈逾3% (15:33) - 20261010 - 即時財經新聞",
-      "source": "明報財經網",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMlk5NkFURlVyWU95UnVBcGpFQjZlS095eWNiS05tMXBJUFlxSWd0YnpmbnpEMkV2TlQ5VDhSM0wyYXp2cF83M0YwOXo0TFJBdERDYjNCRGNId0xXUjhzamJnSWpobjJXeEs3Y0lnZ2tmVW5EOEd5cFZHODB5R1ZaYmU1M2V5dFZXNmtZa0l0aUE1NXQ2c1czdE9SYzdpZWFidXR0NXhLYlE1S0NyZS03a3BBdGhGM1lHcVZKWHl6a1Nib2Z4ak9yX004WXJBblB3Rkx3RWk4aTBXci00cnNTd3kwNWYtM2d4QWdqcjgwWHdPYU9ZR0NiTFdPNWJjWW5wSGo0Uk5ha3oyOVU3LV9Qd3F5VC1xN1FBdGNqdw?oc=5"
+      "title": "標普500的平靜，全靠十隻股票和一個AI信仰？",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzh0Szdjd3ZxZUlST0tNRVlNUkwyVUMtTHBydHgzRFFVR3FISFpqV0VPcEI0eWtIX0JZcmpwZ1doRk9nX09uU0VnbVpVbGRXRHBWQVVuZ19jZmRJclNUQWlJWUY0OGpxclJyWDVMZW1nMzJNOHJlZUxvMGlhd1NuY3lJR0ZyRVNYNVJlUzdwWjg5NkdGMDdF?oc=5"
     },
     {
-      "title": "美股周五收高、台積電ADR連四跌下周開盤前五件值得回顧的大事| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WVzk3QWtoWlRuRjNIQ01CRFdFMXFLSFBMUWd3VENmcVFtSk9lMmFfbVFJZ3JLeHhqUWxTVmJHdnBTcUF5ZDBjUkJGMzRvb3pj?oc=5"
-    },
-    {
-      "title": "鄺紫珊：美股吸金力強 續關注大型科企覓投資良機",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTld3RWVYTXpEQ0lYdWZ5M3BvRUREQ04yMlN3dVFNUUk1S1QyWW85Nml5NDJuY2tnMi1hZlNQajNfWGE0R0xpVE0xVXR0NFBCMVZ5cmp1UmRfVEVNVWY3ZldwY0ZtX2lpR3p6OUVSMDRsUnQzQUl4NmFZbl9lVndIcDl2eFdWNEZTbUJRZ1hxVQ?oc=5"
-    },
-    {
-      "title": "美股又逼近新高 台積電ADR連四跌 下周銀行財報、CPI考驗漲勢",
+      "title": "美股創高 小型股疲態露餡 法興預測後市2情境",
       "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YdjAyRnM0dUljRmp6MERTUWJjVTVEcUtBNmZwTGJPcFREYWNhRDI2WGhES2d1d29HWlAybmRRbWNQSjB5MzVlWjRiZlBFcWVPQnJkSFQxMURVclF5bWJGemxR0gFnQVVfeXFMTjhOWHh4cVhnb0R4SWlvTDlUVW9mNXZtWkIwTkRXUkNsNVotb2lVSFp6YV8xaW5HaGE2b05xV3k3ZDFXT2FQSGJyMDZ0M3FNNnN5Y3RpQnY1NkZLNDdCN3JTNHUxci1XOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvSVE1VzZJU0ZPRFluejJheDdLa3dzNHQwbTktMkdUYU9wV05GZzJpeVRpbzI5cVQ0clROb2tTUVY4dlQ2QWtNc2xRb3N1LTh3MWVHbXBBZFd2YVBGeHpfOV9n0gFnQVVfeXFMTkFLNWpGWHk1WGtfRWEzclc0VVMxaWdXSS1aTUV6MDlTdlJxOWFod0dMZ2FWT3lCOG13UnMxWHlQV05jZDkzdjFpYmdxUmI2OFhMNmVlQUxaZGRlQzVGbDhnVGY1Sm80aw?oc=5"
     },
     {
-      "title": "特朗普成立委員會調查美聯儲理事庫克",
-      "source": "澳門廣播電視股份有限公司",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnc1Z0ZZZ2dSUWE4TjVRRFlJN2w1cm9FcERGWWRwUnlPQWNzVmlaa1U1dGxadXBPWmJpbWJtRXkxLURfWDJ5eFV2U0RWYTdyWGJ0Z0o3aEJBTllBT2hFODVEQTVWOWRpUWZrenJmdkdCVjBCdEw5SEtyVGNzY2VDSlM3UTl1R3BlZTRBZldyVjdZY240?oc=5"
+      "title": "即使沒金融風暴 美債殖利率為何仍可能直奔6%？三大實體經濟支柱全解析",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VG4yOWhwWURMdThweDVvSHJkVFpLeXpKVkRfeFJmakhPLXlTMXlXY3Z1bnBJSGJHbmtDUHVMRnJhV05jYS13UG1wTQ?oc=5"
+    },
+    {
+      "title": "AI加持的牛市沒長角？小型股疲態露餡 法興預測美股後市2情境",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yYnM4aGFEN0pvN1FQbGpRNUdIbmRnWWJBYmhsRWVEOUNtRXpyQkk4YWRUcEgzcF9LaElBOTM3aWk3M2NpeWo4ZDN5dFc5VmI4?oc=5"
+    },
+    {
+      "title": "美股異動 | 獲納入納斯達克100指數 Moderna(MRNA.US)漲7% 作者 智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqV1JqSHBOaFZPUDV3Tk9DMDN5T0FTTUh1RGw2Znl0VUNjbWEwVWU1eXZmNUc1MnBOT041bmpPTlJWRTNpYmFGMlFKcWc5V1IwbVM1MW1kWTNHZUJRTVRPbTZiYWJVaXNvcEs0WEtZVno?oc=5"
     }
   ],
   "events": {
