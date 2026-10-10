@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-09 16:15:19",
+  "updated_at": "2026-10-09 21:30:02",
   "gas": {
     "current_label": "10月9日 (現行油價)",
-    "current_price": "184.9",
+    "current_price": "182.9",
     "predict_label": "10月10日 (明日預測)",
     "predict_price": "182.9",
-    "trend": "↓ 明日預測跌 2.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "中國稱已與歐盟就混動車貿易達成「諒解」 明年3月再次舉行會談",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNMmMwcmxzZ2t6dWF3OXB5SGFwRi05Zm5hLW1FWFV1NFl3Z2hKQkZqb1F6WG1hRE1vei1YT0dKSlluODhRV054bi1JdmhFUnhjbkNkdy12ZkgzTUhfLXJYUUJVempqYjdPdFJPVDF1eWJJYXd1QnlXVTE5OFJ4eEQtVWRvOFJUQ0ppUllKRFRadWZTYWFZSlE4YVhodkZtLVliRE94blZ1bWNUN2t0UUFmT2ZqcU5rUjI1QURoejdSWGpaV1pOWG1tMTdKZW4xczBhTlNoc253dGdUNG5jVUtQUXA2U0xUN2NwcTNRd1JSUC1OdGFxcGdwSThackxGX1JYaGtmSzdxb3VQaUg0QlZnREFsX0VkZjZxbnVJbC1PaV94amhaazc1TnhxNVBDaUdpNmRSRlZvMjJseXRCV3lXeG9UbG9aUFJ5VjJhNjBCeFlscUw4NklObTBwT1h2OThZN2RYZm1BVmhkZWp4d3M2RW9ncldzVG5mUl90VUNjZnhRQUZRLXlnSGJPR1R4enNhNkUwMVB2TS1kQQ?oc=5"
-    },
-    {
-      "title": "下周前瞻：美國通脹數據成焦點",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzZPT1Q2TTNrVTVuQVM4eWJTMl8zMDR1bG5FNjk0bUl0eWVlTmU0NUVabGtqSVl2Y2szOGl0cHRjUGo3aUlkNVNYamdTZWdmRTRYX1gyOVpaLWptN2xHczNCZzZSd3R3WGhRV01RU3hmTjRlZ1FBNVA0UGpCQ1Jodl9QSHRNb0pMeFZlUXdBVWVSZHcxeFZSTno4RThMM2xnR25MX0Q4RjJHd9IBrwFBVV95cUxPWnhyMEtaenVfYXlxZUg1NVN0WkVRLU5xSTg0eURaRW9YX05Idm5XOHJNWG9rOTM1aFhGbnVRdkdXV0hYTmVMTXd4OWMwRU9lV1JhNTBrQ1FLZ0dYeThxczdJT29zVjVwXzItOGRvYzNaQXNERFF2c1QtRHpzVC1aWGtWQ2R6WlFGR3RwTllOajRLeHVwWmpybWhwT3N2UnNXRzBNd0NmMWYybFU0TmNV?oc=5"
-    },
-    {
-      "title": "五角大樓將網上直播行刑隊執行死刑",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOeUwwN3Z1bGJ6cGZOckN3akppbkhFZDhKVF9xUm5jVFlKNWpwdmpJUDZGUU50c0cyV0ppUGVEQ2xMQ1BfSTNOdGR0TnFRTHRnZlpQU3d1cEdVYWlEOGdLNHdSd2p6N2lUVjlwcFBPTTVQMzloc1Q3eVFkUVZ6N0JGYnJYZS1uYkFMYzNDN3ByQTM5akZKeUdrSlVVZzJwSkNlREZZVUcwLTd5RzBCTHZqanlEUUV4S3pWN0haU2JfRGN0QjlXS2lPLUZNSG9jbzJyT01pb0VNc1VOcFR5dktCREVOM1dPZ0xQYXRCVzRfSkxVdjRjSENaZnlreFZxR2hYaVBHRjM5UXZLQUU0eDlCSTZoWWl6TG5GTlNlVUdmMjBpa0pybGJ5Ykp5V3lYeEgtcnpQaFowNmR1Vmg5clpF0gG_AkFVX3lxTE1CV1k2NmpXWm9Bak1QQzl5eVItaTlKX0hhc0RhWXA2SWJ2N1BaOFQ3Zkc1SEtpVEotNEtycnRTQXg2R1Bjc1BXemdpWGtCQTdIZlNsS3hhNlBZMjNXRWt0NWt6N3dZaG5CUUNTQ0Q5d0Z0WUhFUjlkT0tlcnBXUWdvS2pVa1U2ZGU3NGRRbXQxdjVtV21ya251SV83cXJMRU5lUE5IWXBNQlcxQXcwRGJCZ1JfRzloRmdoSHp0b0tDMXU4SGd2bUo1MHJNUkMxX1puZnQzOFdaZmhsVnBVWnZEdENVQzg0ZGFkNWczcVRtUjBjTFJET1QxNVh2eThkWkZGSTdnYWIxV2RYbmx0QzVnS210V3JuQ2VNeHRvODcwX3VDVTZpemd4cEFRTDlxX1VSSDNPU3ZMWGJ1NmwxdE0?oc=5"
-    },
-    {
-      "title": "歐盟稱中國出口混能車或減半",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOclBlaVNlbW1rWlU1VmNkVmZIR3pKRkxMc1dBdTlLNG5aRW5fZDJCM1loa2tuOG1mdy1oUlVnWExrZDhRblpfZG5mQXR6cEk4ZmNBX0ZIbkdvUnR5dGd0MDZ6dGdSZVhNc2hFOHphNnk3ei1uVkpRV2NpajhKU2VjUFY1VFp3VmdYMUVobzFmZVM5QVhDcXV6NHo5X0lHSFJVXzdXUW53ZjA2V0ZackdidEhrY0o0dGdGOXRNSVVSMzkwWHdHNl85ck9YVWVJSUVoOURjUmFLM0VBZFZJb3k5WHdNR04wbnR2MGQ1NnpFNkhYWUhCLXJkTVpZWQ?oc=5"
-    },
-    {
-      "title": "8國發表聯合聲明支持國際刑事法院",
+      "title": "特朗普宣布，放寬對俄羅斯柴油的制裁限制",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNd2V2Tk5GUGdtYzYwV19mRGpuSGxvVTF4SkZFZzNscmdHMW9MaG1jTUtqTGlDQVA4V2QxcHBXSUhBaVk2alNrcmNNUGNIVkRmUnJVcV85aGtuR1d6WS15eFVRUjVDLTRmaGVoa0RLRXVhSHk3YV9KS3pxbWJZT3BfTUxkem5pWXhqa3VlUEpIVGpZcVJaNlFnendlZ0FobWFtZXNWZTVVMGlHSnowNko1aXRqTEh0RkRMOW82aGVlR0sxdU1SZDFOdjZvWUxUd1JRTFA4eHR3YlhSS25HdWp2dlh2SFJoNl9EdnQyWUVXNkJySjRJQlJpQm95bjNqbVBfRjMxaEZqMFFRbHY1dkxFdVlTOTM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQczhvRG5GYWU5SmljRy00czV6U0V3TVV3REwtdkFWbklmY20zT2ZranRvMXJmMUJpRUpTQkR6bUEzMWFmSUFzVktyRUp0Yi14cU5QSnlkT2pLckFidV8zd1dMak04QXJIME1MRmtIcFJsRHpLY0E4RERoVTlveGdzQnlMVHFVMGhoTmJta19rV1c1V0NtaVAzMC0zS0tuYnJZU2NDbzhabk1FaTRxTHU1ckw5cTJoTWlydkVDSlhldm5TMEl0dVQ2cWhaVzNXY2FXQTQ5cEJwUGR4LWtySm5vU1ZoNEpWVnN3dnNQbzd4RGEzdDVheGNzNElZNzZORmplajhYbTVrT2tOMmxGVkE2bzdBTzVlYmFzdzZucUVHS0tXT1hTY2NLNndRc1FJS3NmWVU3eDBiRmlFRlB2OVlmN0RUTQ?oc=5"
     },
     {
-      "title": "李維特接班人竟是她？川普欽點白宮新發言人",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yd3FONzhaTFZQbmVQWXEwVlM2My1OcG1yUGwyTTc5dTlER21vcG9Ob1FlMFlMUF9hTE5hLVE1V003REpTYktVWm9Vc1N2LS12dU1BVFJhMXY2cWI2a2tfRmJDY0hNLU5rXzg4WHJIUzZNejdXMjRXODRWcXZHNE3SAWdBVV95cUxOaWFHT1duLVM1cXNsWU16eEdBYloxY2Q3RVRRLXRGRmNhcFV4OWttcVV6eThyREp0ZEZlU285djBUdk1raTY5TFhJWWJ3elRBWHdPa25PaDJTcmhSTVI5VG1qSkZqTU1z?oc=5"
+      "title": "推動建立更具建設性和包容性的國際秩序--新聞報道-中國共產黨新聞網",
+      "source": "中国共产党新闻网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GN2VOOEQ3ZFcxX1pxWGJnRUxiZU9samk2SnFxQ2NsMHJsQWNsRDk2ZXVJa25nakZlZWNseF9TWmxnY244R1pPV2hUUC1ETzhod2Z6SUs1LTJiUVdZT3JvMzVWek1zQ3gxYzNhMEoteTI?oc=5"
     },
     {
-      "title": "胡德堡基地槍擊案：美國要網上直播軍法槍決兇手",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03RklvWGF4czBNQVViZlpwclBXQ0tobzF5dlp2eVdmV0dwZGsyYlBQaDFOQ1pIeGNTYlRhc1JUZzBwUi1Mc1NXZk1haWY0SnEyV01RcVh3VXd2X25pLXhXWEVnWnlSc0HSAWxBVV95cUxONTRISGE1dG5iNmVQUW9XYzg5V2VNT1QxQWNPNkV0TW55RlVtQU96TmFfZHh2OFBiRHRIalNsVlBHTVdHdGJ5XzdpZmUyZTYzSTB0ZXV6OG5ZcnI2NHJVTWVFbHR6NHpUaTJBcVU?oc=5"
+      "title": "特朗普委任扎卡里亞擔任白宮新聞秘書",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MRnZtT2htUzduYUZISEFORGZvdnNJSFFLaHdfVjhFbjJFUkFYODBNSnlRbVNGZU42U0phWW5RNUNtMWt1OEg0YktOekFvaGRtVzJOQVlPLV9KNVFiMGfSAWNBVV95cUxNZ2FTYjJWR3lkTVNRcllLc2FyUEtvZTN3eDhsQzBjMnJSR2U3UF9ycVdIUmtna1A4Yk1fN01RcjI1bUFJSDJkZkpQVC1tRGw0R05IVF9WT29rOHZJeVRwRm1jZ28?oc=5"
+    },
+    {
+      "title": "特朗普任命扎卡里亞為白宮發言人",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5M2pxOE9aOTRuZVFOeTk1NlFKN1dfWjNIU1hGcEZkNzJuT2hSV3cySm5BSE51S3dpczlDa2RmbWNRTW16OHg5TW1qM1FOdGFWVmJrclAtUUFNZDVPQ080andxb3dzUHBSejVyY0VEWQ?oc=5"
+    },
+    {
+      "title": "美國宣布制裁國際刑事法院 聲稱切斷法院資源(張曉鳴報道)",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPekhRR3RJSFFwcU14S0lJZ3VfSkpIQkprSzg1VlUzT1E2N3RnaHRZSDJPUnNsX2xMbENPRmZGVDkwRTdkR3VITVlSVWhLQmdpMnNDMXFId2ZoOVNuYTJrbGljS1BQYWo5TmpQcExpVkU0NUhfcngyZVFqdzFjOWZSRlBFS01NaTNjYUZkVUNKZjhsOG8tOXpmRWYwVmZ6NDRtTldPa2lOR205ZUM4WmN0a3VhZkczUHM1bFRGMEhYWXZxMVZIXzNtTTlYRHZLSEdoalhTRXdXV2hGQk12OElEcnpXM3E5WU90ZnNORHRLOU1LSncwVDk4ZERzQkpTeGhmOVRneGUyZnV5bFhkWEY4ZHEwTV9GZ2NMMzVKSGJTblpKWmRtZjNka2FsNEpFVDZabHBSd3pHY2tDbDNuVmttam52UGI1ZFdzVHVWVk40LVdGU0p0ZER6cGdCcXFza2Y0VGRxV3lRbzFoQjNaRHlCalNGZXgxOFhYWHBNU0xxcVFLQQ?oc=5"
+    },
+    {
+      "title": "俄軍加大攻擊烏克蘭 美國向烏克蘭展示與俄談好的和平新構想",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQejBieWVfWnBvR0JrSGhXVWRoTlExUlRmUGFNNXhaQzIyT0NkSDJsbFhJZXNHSTVUZ0VVenJESkJmRzhDYW5EcFB3QWxIX05wYXlyR3dwaDl2Nk9HcWJjdFMwQndVMld5MGxHaU90SlJ5U1JYUFkzMjcxX1BadHp6bGdoeFhSZTBFcmFtRXowbUo3d2d6YUs4Nm0wa2t4V19EdjNHU0plREZ4clhvX1FGVDRhNUFBdktQRlphWVRWbFg1SnBDZ3VxaGotZ2ZFTTRKNmVHY3RpS2xXQkMxaXV6a19OUmhmeXFpR3p1czRjMmxlc2Ixd0JxU2tyR0dVWjFlZVMzbW5qSUVoRFBfV3VZTFo0ZFl1TVNYRDhlOVdTZ2U5cGJfYXJZUkxWUk9ZQUJ3S1dPUWV5U0Z0c3dNa3BqX1ctb3pzNmFpdFhzUUhMZFhWVHJVVnFwa1Z3NWprZmk3RVdmTmI2QlhySmlMUnd6d2R3TlpBWWhUV3l6ejF3cWR3MThRX2hERkN2TVdFTW5IeG9YTXBTRHo1VWlnT3RuVlQ0WUM?oc=5"
+    },
+    {
+      "title": "國際｜歐股高收近1% 汽車股造好電訊股受壓",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQTXlONF9sQjh1SmNVeUVBR0xwQlBiSkFSNmJsNVA4b2JqOVJkd3d5NFVQWmhOczFZN25lLXRZVy0tUHhMQUI0MklPbFBEOFBlSUpFWjVOSVBMMWpnaHIxZGxoNklEXy1FSFlkTXJmTzQySjEycnMyWU1BbFJTUUJUWC0zM2N0Z2pIbHNpQ0ViMWdHa2xiMHoyX19NMVZzMHV6V2ltMjVMcWg1SC04dWtnN3RRUmNXNkw2NlY2ZmpLUzl3Q3hYNVliUEJoWjNmWnZqZVRpN3IwUW4ybTdVNzYwWVhuUjNXNjJOOWVTSUItX3VDbDNtMFNzOVk1U3lDT20zOEV3andNZWNvT3ZPRHBZS2xNUDdlb1hYdjZCOUtVUFJMRElsQkVLZl9ndFdIdw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "更新：投資者消化消費者信心調查 美股盤中上升",
+      "title": "美股｜道指收升423點 電訊股受壓急挫",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPV0VXZXpzd0tqbVJYelFfSEJvQ1NJRVFhZnFtdm1uMUVxMVU5SGhKaUdrNnRVN3E1VUxaNlIzYlZCODVuV2luektxZDRoTV9EVTVVMXRjcHQtcE5FNUkyd3FaWXhpdjFvSkFEZVNZY19idTBBNTkyMVN0R2x0eUdfdEFkUGc4dmdjRlZMTXJ2SE5wY2t3bkpFTmdUSndWSHc4cGNZU3VfaVl4Y2RWbG0ySUhnZWFWRUpuWHAyclFMMnluU0tiS01td2tzVWVQOVNTR0cyd2FBWUtEMHBvc2N1bXh6QmJXMTFLSEExMmJDbjc1SDhXRnFhS0V0TkFuc3llRTlYQnp2MnFQVGp6TDgzdEhpOE03eDgwVGtodUQ2RzZWZFZUS3Itck5Md25aTXJ3STlPb3ZvSUkzYW9UN205d19tS3NiUndOUjNGZFpvM3Y?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdEgyWlc5cGxkV0VvZmdvSEJINkJxcUhHemVtc3BFOWdCVVZET2NVN1FEZTJRSTM4Q2lqQkI2bjU4QzBYZF9zLUVVbzFELUsteGNDZTUtcUxRNV9jUGFyeEEyYllqTEpBclF6cGRNdi1KMW4tRm01aUhLUzFEcUwtRV9lUy15SmhOQ0l3WHJhbzRFemluX2JJWEhzTEw1bXp4a0lkak5jSkNvWGlZTnhISGU2R0dvWjFpTFFTdmppNEExT3d2aUhWeGxRYms5R19IdElFWlh6d2xyZk45RXpvejJKZVhQYWVzcjVrbUEzT19Oa1NwR1RCRXdjTkJJeEU3MGNvcnlkR2VFb09G?oc=5"
     },
     {
-      "title": "美股初段靠穩 道指曾升逾百點",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zanJFc0NHWUhvTDRWcEFiYUh2VTY4RTgtcmR4XzhhMGNJWndQeXc4aVBMeThtei1BWk9obnZXRGI1LUhFdjZPblBRQTRvbm5DUUpQTTAwMHdHTEMzaDJxbEd5NVFGOHhkcUs3REczTQ?oc=5"
+      "title": "美股收市｜道指急彈423點 中概股指數漲2.7% SpaceX購流動通訊頻譜 電訊股全線挫",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQT2tOd3FzSDEwWk5sWGhqMGVMaVVtTEQ5b1p4ZmxZdnlhaGYyR2VOTFFZQmxxcURGNU54SUNCZEJpN3poczVjT3BmRDZBUUtaZXM0ekZ5R2U5R2pVOG1Vck84NWI0aXdGWTBXSFVZc3FPX0tkVDRNaUJyWjNDYjJjUmZHR0RCd2RnTnowV0lQUk9wVEVoa1B0RUtnMHFSZXNnaDhNdkx1T3REdE5rN2NLanZmYUZWaWc2SjdBOS1PVGFCLVY1LVdlWXRPVVUyTnVKRm5Va3E5WERtNmJKMldKTE5zTHFUME5NMTQ0eGlMeG5ZUEFXWDFQTTNfcnY4dmRicER1STk5QVZmMVloa3JPUDNjc1ExVVlZTnRMcXhOVmVhQWdJM3VHZ0RzaExEY2YxaU1oS0dDR0p0dEltYTdaVGFQRFRLZHZLb0xOemVuUmNJRU1IdjFwWkZKOXlYLVVJQWs1MkNBRGpoaE9jc1c0aG9KOFVqSS1ZVldMYWpvVENtU3pzS05wTnBqeTNtSkp2bHo2ZEJSemZVZENwSEV6UUJaM3ZkM1ZMT0JIT0dHMThyNXFnWXBLdUw0Y0ZyMUI3M3VkazhGSWhMZw?oc=5"
     },
     {
-      "title": "美股早盤／油價回跌 三大指數上漲 蘋果受18 Pro零件減產消息打擊",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tWU9meFFPSDlocVAzaF9uWG1tSkh3RlB0bnBtQkp2OHliejg5clNfdnlBVVNMQ2VIZkFUSm9jTnFlcnk0LTB4WmhTWlRGb2tKa0Z0cjFNZE9xSVBv0gFiQVVfeXFMTXpRRGpoUmJZdWx2Vl9OR2k0M3M0ZGN5NWwwS1NQcDNmeVRxWlF3X3J3U1FmN28wbHk5dEtDdmhXa295a0EwczRuTF9lZ0RUMzkwc0wtM3JFRnJmTEluMmxuYmc?oc=5"
-    },
-    {
-      "title": "美股收盤 | 美股三大指數全線向上，道指收市升423點 | 即時新聞 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQk5xWjd1ZnZqZ2tzWnJPdUJBTVozTTdfUjU0MUtuLWFWdV9tMGZhcTNMeFhaVmd3TlJYcUc2cFdFcW4zNkk2MzBCUmg4aURFalpSSUdCeURXbmE0VmdLNDkyVFVCQ2QxVC1oakpMX0tVMjlYaGEzQXFIZDVpbG1vcEhlWkk0aG5vc21CYTN5QXRCdFQwem9EMGJ6SEhmMi01?oc=5"
-    },
-    {
-      "title": "星總理警告科技股將調整",
+      "title": "【美股】季節性因素和歷史數據 美股第四季值博",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcGlCSTc3UUNxWF91RWZqWk1pSTNPaDNWRXFYdFo4V2h6M3d2MVNTX1Z1TGl3SjlRMzZBS0ZobmVkNG5fR0dEb3FuRDAxVzh3cW9hdk1jZDhvOElzMC1nUHlwMTZ6VFRuRFp3S3F2cDhKSldVNzdQaXdmdno3VmtZQUJERHF4QVM5TXhSRXJkVlVlZkRlTXp0cWVMUEJyMDV2T3k4M1RoLTJXNnFhck9ZWnl6ZnREeVNpY1dNRkhWT3gzZlVUV1ZrZEZsMEc0SXVTMmJadXRuSHhRcGlsaHB6cEZpakJ5UGVkMl9n?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPeG40VzB1emlVeC1TZ2wwQWQzUGtsNEswX1puY0ozRTNHREdDRFFsLVhfcGVrWmxvS2JQQ04wNjlUTkk0cGhBMTBWVEllWGJNMnoteWZYem5ZR1JmLWVxN01PcUUyOFhoTFFyR09QWlk2OUw5TFFQVzVOUzJBQXVicTlMaUVoRlNEY2drRXZ1dTg5bGhnaDJTdkt6MW9yVmpZREo5QWp3U1l1dVY3RVU2UXNWWnlUYjZ5NlpFYVZnWUJKUlRwY25taDZUTlppalVVa0w2b043eFhKUW01c25WYmE2Zng0LUF2YkpWNmx3Rk1NZUVEbXJ1R2NmejAyNklaRVpUTHVBNUN6MTNKNm1ndXJfT2VzTWMwcmtSVm0tY21rVkY5RW8zZHVnTl9ybXQ2b25SSDRveEktdjJma1pvWko1RE5ScVNvVk8tclhHSW5PNHM?oc=5"
     },
     {
-      "title": "美債還沒跌完？四大警訊浮現 殖利率恐再衝高",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15bE9CV0tSRmVraUJHcnNVUEpkS25YNUdQUTBJeWRnWC1XSk4zVGl2dE85OW9Ra3Z6WmpvZ3E0Y1l0S3d3T3F6Nm5LMA?oc=5"
+      "title": "標普500創新高背後暗藏風險！多數成分股表現疲弱高油價與美債收益率攀升加劇市場分化作者智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yTTc3Nng2aGl2MmxCVW91TWtGRG81bmtDcklucmdLUTlzYlJSVzhxdkJfVG93YjJMcWVFQU01UDY5WTZNcXlselJ0V3BycEE3QVZfYnpYSVZqQXZpbk1fWmQ2SUJBN3VsZWxlV2VPeWE?oc=5"
+    },
+    {
+      "title": "美股上漲；收益率飆升之際小盤股遭重挫",
+      "source": "华尔街日报中文版",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcHBJLVlGMUlDQ2syd2ZiYlM5SWF3OTEzZnBEZ2JHcDF1UmRHQldLXzg2NkswODljdTJoeTVvdDdId184ODdrTzdKdm4zZnBWUTVZY3JPeHl1SVVxejY0Mm92OWJjdEtLaUpwV0pVbHVNbEF1V193d1BTUFJfYVJZTE9sRDBqTU82UEJldFhEcmNPMVhsWGdVSmFQWG9JR09RczZyQjVHcWluWVByZkl5OVdacFJadHQzODZnOU5yTWtRbVZ3LUZ0aW0tMUFfSDNqMGZoWHBSWFM2QlZuQ1MxXzRZWExqTmRUcFBlUGpNbS1SZVZmdWhmaFZ0Y2lmZHJfMHc0MEZ6MVBzTmVONkFlck1BdjRnM1UwYVpv?oc=5"
+    },
+    {
+      "title": "美股上升 道指升逾400點兩連升(曾惠琪報道)",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kX0dmd1hINXBuSk1YQnFLYUVHeDJVSVNycWRGOWRtdV9qb1RWb0V5b1NKQjJCQndWS0psX2szV2J3TFdpZ2xQZS13RTNwd1hLR3dib1NWWEdBc1JEY3hHRUFDdVlBenpoUFMyVTN3?oc=5"
     }
   ],
   "events": {
