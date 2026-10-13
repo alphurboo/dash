@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-12 16:15:19",
+  "updated_at": "2026-10-12 22:49:28",
   "gas": {
     "current_label": "10月12日 (現行油價)",
     "current_price": "181.9",
     "predict_label": "10月13日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "181.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "國際｜多項數據反映美國家庭財政壓力加劇 消費企業營運遇挑戰",
+      "title": "歐盟從中國進口的混動車將減半",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GVUtrbi11VEYtYzRneS12M0tMa2VWT01SYXFJSXktbFc1SnJMY3dnbmM3S0ZLTkJ0TlhMaXBIbXZqOHVha0VHalMzNlBLVXZHRklyWHpUMnNkSGgtdDl3anRHNGxkeW16RXhWM3d1eTFpN29LejhmZHAzNXFZUG8?oc=5"
+    },
+    {
+      "title": "歐盟據報擬12月推新防禦措施 縮減對華依賴",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNVTJhM1FGMGNTekpIc1BLOXJuZmZBYzk4OW1jdGlvcnR3c294Y21ZdVFkYUxFYWZQcmFMV3ZYaDR0VU12Skk0MkgxQkJpTjZmRzJ2T19NVzJGOVBPcHpDVHlyY3NCY1ZwRDd5emZOY1A4bW9yektRQ0JZYzNOc2Y1V2VfeUt4SXZHLWc3UkxPek1uUERGM2hBN0lIcGQ2MUg2R1Rld2o5ckNtbWItVXRNNHNZX3pSUnlvVF8ySkxVa3cyWkpETlJMX3VUdlloUEx1SjZPZmNJcklQdllxT1J3ZnI1bTBPRVFQT0VCemFGeWFETnJKcWx1cGw5bkFzMG1hQ0poZUd4OHEtRWpsTHZ3cllxQmVIdGNvNF94cExtWExWbUMxb014SGZMbVJ4V19Fb1RFam9uVHhpaGQxZElTTHRGc0VrbWp3anhTR25PZzRjcFNsUHRhdXhubndjMTBlX1VITmJlRUdlQlhRTEZsa3hpa2o1bllBbWxzeC02dzRLVmI4WDhxem5OX1Y3bDJJXzVjQkJ1N3MxZ0U0S3dpalJZbHo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQQ21XUUhsR0xLeWJNODc5UWhyRkhmMWpabGZhMmlBaTlaMHZDMXY2WVNRWDFMR0NEWWQ1SW9qOHV6X01kdUE4b1FKQWJEOWhvOEt2WHVwOHN4VGRJd3F1Q09wNXhrdElrNnNFSnBBQzBWTHhxWm4wUE1wN1B6eXRyWER2cFBCMzBmVUt4bjRpcnNoVjMyQVU5RDI1T1Vxck5MYmZsWUtwcWVzQ3BzanNWLUtNTllDNUxKQVVsVGh5VUlNbmU4X0VqMnNpaTFPbzRKUVNTQjY0anRKTXV3Y1VPS3VsYnZhMngtS05DeXVPRGNRbUdDUnVfVnZfOExuMVNpY2J6dF83Y2publFxX1VNX2lJenRwTThHMWY5WmhmZmtBdkxyb1JveS1ROWVKUlNZTUQyMFJnenlndw?oc=5"
     },
     {
-      "title": "胡塞武裝空襲利雅德機場 中東對華航空重要窗口 衝突中的又一危險時刻",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWFlidWJGX0tnY3Z6SF9ock9JUktKUmdCYTlkdWVBYk54bWhWcHlqOXA3M1BmWUlqQ0FVblBsaTRzbjVRVHNJRk16VHBfWEVkcVhIckFFb3dQX3puMGN1QTRwbGhYRkHSAWxBVV95cUxQVTloM0U4aldtMnFuZ0FyMWw4aWFhdWJBOWN4dDVNakNSZVV0bU5yVF9EdGxUMGxRYnJHbXNaSHlHclNJX3pVLWluWVpvRjcyeVJjdDBsZEFwTnJrMmlMVVIxcGNpUmdkdHk3bVg?oc=5"
-    },
-    {
-      "title": "德語媒體：「歐盟只是得到了一次喘息機會」",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUTFEV0wxLVVWejZoU2Z3ZGtQODFnZVlkNEZud01VZTg3NXZObmUxZ3I5VXl0T2VJLW5Yb251ZTdUMEtUZ0cyLS0xeVo5MHJQRVcxX09lWkVrc3VpUC15Skx4bDNFc1cxSnh2TlVlcjF3dW0wU2J0MkZkODl2bEFKeUJldjRlNncya2FSbDNrV0ltMjZ0cDJmZDVlUk1NcElCbE1kNWZUME5OYU1YcWJSUVhPVGZqTWxQT2pKTXNsRGlqZ25TR2lJRHNFX0Y4bHNZaG9fQ2FtSDNsVm9kQUlud2N3X1NDYjktcjZEMS1xWC1vb2dHbUZqa3pKTG5UVS0wdW1wT3Q3U1VSU0d5MkR0QzNEbUlPOUx2a1Nj0gGbAkFVX3lxTE9RMURXTDEtVVZ6NmhTZndka1A4MWdlWWQ0Rm53TVVlODc1dk5uZTFncjlVeXRPZUktblhvbnVlN1QwS1RnRzItLTF5WjkwclBFVzFfT2VaRWtzdWlQLXlKTHhsM0VzVzFKeHZOVWVyMXd1bTBTYnQyRmQ4OXZsQUp5QmV2NGU2dzJrYVJsM2tXSW0yNnRwMmZkNWVSTU1wSUJsTWQ1ZlQwTk5hTVhxYlJRWE9UZmpNbFBPakpNc2xEaWpnblNHaUlEc0VfRjhsc1lob19DYW1IM2xWb2RBSW53Y3dfU0NiOS1yNkQxLXFYLW9vZ0dtRmprekpMblRVLTB1bXBPdDdTVVJTR3kyRHRDM0RtSU85THZrU2M?oc=5"
-    },
-    {
-      "title": "貝安德：英國須與歐盟建立更緊密關係 否則是失職",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5haG9DQ2o1Y3JTbG9HeEpEUG1Ib2t1ZW0xcmxhU2tDVU9Kcy0ydGNiUEJrWUhUU1pQcHBLRjFwNnRNTU9xRDJuR3YxR3NFY00tZlZYdWdTUXZNVjNKRnfSAWNBVV95cUxOSlRGQkdxWjJqZWR2LXpjU0NzWUZISEE5SHBMQ1VrbnA5Q1VJMlBfcVYxNXJ4UGVBa21lUlEzcGdUT2JuakZ4bVFuYmJVaGt6RnEzOVhoaWwxUS1WaU1MN2hFZW8?oc=5"
-    },
-    {
-      "title": "特朗普宣布俄烏“能源停火” 歐盟英法德加澳都表態支持",
+      "title": "特朗普送大禮普京也意外？",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNQ01qbzBqUW1oU3c5bWVxbG9meEl2b2loQnctVEltdXg1YU9OUDVjQ3MwUnFOT1BNN2tLNk1OMFAwcTV5WHJRaTFjanY4OUVKSDdkRXQ4Q2RLRGxRZ0Jjejh3Y0xtT2xqYlNCWGZEc0NrRVpVMVJuYmZzMEh4dHNXT3BMWWVqWERKMTdXbUpCbnQ0RWl5SGttSmlza3hMWXBpS3BnVkpmNzhHOFNNUWhyVnhWeGpBQkw1Rzd1eUhqYVlpeFI5UHpQYmh1bUtBV3pSWTBOeVppdnBFLVdBaUFXQ1VzakFiRzg5WjY5QUZRM1RaTlBSeEpGczR3RzRycmV6YUlvbThOZk9hV2RNaUFiSW1ZQnN6RWlPM3VPT2hObVJyM0kwWGgwQm50X29sQTQxNHVvWEphRWNhSFo4cTRDdWZaRlNNQTByR0MyTFBxSm53RE1sRVRwczBkTFMwU0tJaE9NSU9rbDlMUnk4SGJzT3dTaV9QZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ0dmWUNzbjcwWkZhTzRrSkFpRWRMcmFjVi1sX0xESGI1YkFtVWVDM0N2aU1GUWlVLTlXbFpSZGJLWllGQ1VrcUdTbjNId3A5eVhkRjB4d0ZnaVM0VG1WelloUkV6WlVVbS1ncTd6U04xYWZobUhqenUweEJVNURnVEYtQkpleGdnQUEzTmlWUVlMUlBMci1EWkR6NEFpV0RjbUVGYUExSU9sRndicXNvdGQ4ZVN2THBYOE5XQWtXQ20yZ21MS2JZUW9USDB0bGhEMTBvTDNvT1FHMkIweFI3cXRyUQ?oc=5"
     },
     {
-      "title": "英國有意重返歐盟 模式或借鑑加拿大",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOS2swcnZlVXdoQnRLbC1JYlRubkFkU2U2UU5IcVd4QjVaRnhLcmlwUkFaTXBFRnRiLXBkRlIyVmNKbGRJMXVweXBNbWg0bkdxX0JmbXIzaXByY0stLWxzLXBzbmVCc0dTc3RCZC1RaThxd1FvSDZDbllpamxOX2plbDhRUjV0SnItcjZJdzJ0VlZrdGtGV095bUtYbnhKSGd1VTNETHZyVDFHMnN3b3lkM21JdHY1RWJDaEIxNDkzSGFLemVaWHF5bDdYbUQxb2VhaE1sNVFQMUZVU2diYkg0VnNHalYwRjBydUFTdklGaG5xcXUzazlqZjFmcXk3enAtVkYzTTlNSkhNaXVqcS0yS2lRdXd0ejkyWHVGeVIySGM0T2U3ajJNVk1Wbw?oc=5"
+      "title": "盤前攻略｜中東局勢升溫科技股升勢回軟，港股日內目標守穩24000",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR09RVTByR0ltR280Z0lnazctSU0zbk9SeHBTMnZ2Wm5WcDBUZE9vOHMzSl9sQ0xMQ0V6YVlyVnBGX1cxTG9vRzl4bjNIRS1MWnFmTVYzUVp5d3p1M1JhNGsxNkpvRmNLVDNxRWRIclhFX3JqSWJjbEJuRzRNeWp1dHpRZEd2WExXVVdsYzJ2cmRaTnRE?oc=5"
     },
     {
-      "title": "澤連斯基稱若美國真正介入並確保俄羅斯尊重能源停火 或成為結束戰事重要一步",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sSUN5bmotbVFDdmFtbVFvb0g2WW56aWI5RS0xUUJIVzQ4T09rcW5WM0NRMGtPcmR2RlBYVlJ4SVA0QTZERDR4bzJyaERQZHR0ZDd1NUJrc2dYZEFzbHRuOVh2VS15NVNCU05Pdy0xTQ?oc=5"
+      "title": "四方面落實港五年規劃 連接「人、貨、場」 港交所建多元生態圈 提升全球配置港資產",
+      "source": "国务院港澳事务办公室",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Cd19TZmZzejBaVzFEUHh3SkI1UWhMREs4TnFTMU5lcE1mZ245dHQtRjNMZ2Z2VUlLS0xvdUdiS1Z1MGRHSzhudHhpQndSbE94WWkzaVRDQ3FvOW4xQWh3cHZKcnFoWnQ1cEdPbzdMeWxHVGpQYUJIWTBn?oc=5"
+    },
+    {
+      "title": "在持續的中東供應風險下，WTI 守住 92.00 美元上方漲幅",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmtXeTZkM29LNnE3enlLS3ZBQWhHWEllVldocVVWZmtZRm1pSzZvRTUxZGc3NjJTX0RNNlQtVzdSZEFBMGNrdVp2SDRJOHRPQTl0VmFSa0JFTE5PemwtYUppM3V1M2FLX25RQTRUZlFZQ2VhMFlnWjgyaTFfT1hLaVZmajJJcXNNWVdzMmRlUjJEdkNPSVNPb29nRDhfR2R4Y3B6TFd1Sk01ZG9zQUNLbm5LUjgtd3FJUERlMnNEbDM1RDE2YWxwLUlqVmRYWk9lY1Fz0gHYAUFVX3lxTE5FOWU0Z2FvY0RHRXhBbjZveWEwaVpZQ2dwYjZwcmQ2Y0VwR045WHpIdk00X2xhbEsxUVZQNlJlVUx3eWxDN0kwbWdfcDlHNGhzVTlidDNJN0g0Y2FUay1iajUwcmhVVFpodVJoUXoyWVA0c2xnZFpSU1dSaFZOR0RzWTh2bzFORXBYbVhzUC1pNWVvS19oejZicGkzQ0VUU09LMTIwczFJVHpvSlFkQjU4T3lHc2pHcWFBT0cyOE1vU3ZKQWhRX0dBc2tVVVdwbk9FcHdKLWpWaA?oc=5"
+    },
+    {
+      "title": "俄烏戰爭｜俄方未表明同意「能源停火」 特朗普：我說了算",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPQlFfRk9BNFBEUG84Y3p5dlBzSWl4X2NBYTRTU0lEbDZkclRJVW9xSV9Sd0NqWjI0TVFKXzVvSEY4blJsMXNDMlNjOTVsR0JRTHJGalZiT2tSYVJYRnpCOE1DSW9YWHhyR1hqbWt5MmdoeHhhaWs2VTY1TkdvS2ZGZGVaYU9aZHk3X3dvdUZZWkhrbmQtQVg5RERPNnNPeERVTG9HN3RoWWd4aHNQU0hFeVFhT2twWTlwVVdRTXVSQ2Uybzlzc1dWdnBGcURSclV6R2lhcTlUMGRzck1GeC1ZWlNRcjR4aVVwQTBfQ1NYVVB5b3dxdXQ4OC1TRXI2NGMyTWVhbWl5Yjk5c29uOHl1X3RPZHQtMUF0SWR6dHhGZ2M2c2JRY1RJVFZUNEg4ZGo3QU9kMGwwYS1ha1RCU2MwbWFJTWF3VElhWHRJTmwzNUNZMHM?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜少數科技股撐住大市 標普500大部分成分股遠離高位",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPcnFLNmNlS2VXSG9JZ1RyQ2loZWhXclB0NnNvcGFIUGRreHBKdTNqUGlwNWtTR1ZNYzN2cEZDeU5wQTVKZDFic1JyMVhmYzVhallhWWlIb0xrbUEyakVYbHRDT19RTGZFcjFHRHNEXzRleDg4S0hxcE1feVJVcnJHMElsbENia3R2T1N0dlpBbk01RnRzN28tZG9RRkxzNlU4X0hnNGdSZF9rZzVIY3lkZURnY0FRT1czRVViV3NvNkZxOXQ2a3Q4bGFVSVYtNWhNWkt2SXc1UndIblo1YjhFSFFfaUtYLWZ2cHJQcE1KRllJQnhlYVpuS1lOSDVvX1pOY3g4aDZOWmdRNFY3N3AwVDZuaTNlYWJyNUwtTWJDOXcxT1hlUjU4aE1sV0duNkRIeGtqT3pGaklFZVhrSW5VNWlGVVZKaS1lNXhXMDdjTU1UMi1JM0I3Zzl3ck5RRHg2NDlzczJ1NU96NFFHRUUxbDJEcnRTeFRR?oc=5"
+      "title": "美股新冠後已連漲4年，牛市何時止？",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdGJvWHpGdTZ6enRJX2dKdTZsUUktRlBkdW9jU090bFdmbnFPQWRZNTlYdEl5ZDN1UlJuTXZqNV83SGE5bkU4aXpMbkloQlIybGdqaUN2V094SUNYRFExUTVWSlhTa2NWc25WbE1WUG5ON0I1cnB4VmRKNUFyUUdjSFhFUGVyZVY3T2k4?oc=5"
     },
     {
-      "title": "美股初段變動不大",
+      "title": "有聯儲局官員指通脹壓力擴大 應轉向限制性貨幣政策立場",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mOTd1dG0zcTAtTWw0RlVYNnJxY0pOZGRET0txbGVpZFFmWVV3WFlhMy1xWENiV0QtN01RQi1ndU85ZUNYTFhScVp0Smc1RXVCNUpkcnByMDBuVzBSd0tIdERvdzVCNWU5NUhlZDBIZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92TUN0eTU5YTlaSTBwQW5qQUY4dzZmdllNUERjTXdaY1o4R0xBWDRBaWFEVEJFTFlUN1NvZDFaMHRFYVNCQ0hSSlZ5YlJhb01uMFpqbUJIREsyTmNSUHlLTE01V3k2WnhMLXBrVDhyWQ?oc=5"
     },
     {
-      "title": "美股收盤 | 美股三大指數各有升跌，道指收市升195點 | 即時新聞 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXZYNFdNOXZaeGJiRngwUEJjb2Rwc0pwOGdyVTloWkVPYkUyWTI5RVphUS1zVzBGZUkxZHY4MjF5RFBWdy1JQUR2WjdNNzdRU1k5b091c1pTMjVWb0JndWN3SzdYaThaN2RpWXpLazN3Mkxzd0JMQ1VkVXAzd0lPNlI1bE43SkFGQ2FWT3EtQnlDWFVma0RCOS05MHRZc0Jl?oc=5"
+      "title": "貝萊德看好短期債券，削減美股超配至中性",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNdkJKUW1INkFFUG56OWJiNElzTFBxd2l5YXFZTXNVbVRudzlzb2VOT3hUcExCQnVoSEY5MFZTcUVSVXo4LWxhVVBGazBJaW9HZEp5QnY2Qjg2WVhvLXllNUtXQWpNUi1qYk1COFVxaUYwcG5fNWhJVjNicWJqZVIzX1hGNHkzM2tFTFFIQ2RmemxDU0VBUTJBVkNvT2x6cXdsbmtTaE5XTmhCaG5mNDRVRTBsZmNFd1dOYWFGaWFwaGY0djNrTGJPaGRPQnFyd0pfT19hTEFzblhOc2dmcjhNbHNORThMcEdKdmdUX0N6YW52Rm96ZVhHaEZkTmlhSnVSakNYRDZlYjhrNGdmbVh6NWFTUlpJMy1odGFGWnpKT1ZmX0dzWkZ3dU53REs3SENfdjlSdk9Gcw?oc=5"
     },
     {
-      "title": "美股牛市四周年…還沒到頂| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15VFFucmIxY2lGd2ZRRXFwakxaT29qM1BKbTcySjBJOUtpQ3ZmaHB3bUpnWFZfMFNyc2NOSDNqTkJfaFlpd3VWWVI1M1R4Z2ZT?oc=5"
+      "title": "美股三大指數收盤漲跌不一 熱門中概股多數下跌",
+      "source": "香港商报",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTMnRSaWJONnVoUXo2Qzd0ZHNiT0ZlVUh2czBqUlBVYW13ajlXV2pCMzU2UmxHS0ZZOHJmWTNRNmJ0eXF6aWZ0ZlE5cTktUE5MOVVQWTN2cHV6Ql9rd3Q2b05iQTlMdE1Ya2s1TmVlTUhtVUl1VG4xRmt6MA?oc=5"
     },
     {
-      "title": "AI股與美債 非必二選一",
+      "title": "美股走勢丨道指收市升195點 科技股拖跌納指",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ19feFFWNGhHRkZMY1hMa2x3ejQ5eU45UjBvbXhOVU96M0FsRWZUM1lLOVFjRFZST0xfLW96LTJvSE5WSUFTbGdtRWhnRkJvYkxONzJpLWd5aHhOaEdUekYwR3ZQMVVZMWJhUDFrMW9EU2xNUFNCQnpOQllSdU9YckozX0hmNTc1alo4X1M1bUl6Q3lLby1EQk5qY29meU5Uc0JmMVpmU29qaDhyQVlVcm1ZdFpISDhDTE41anktR29tOUxMS1ZsNTQ4b3Q2aWk4OVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPa2NOMzMzMm9MWVgtQXJHaXVua2trUDJqYUl6M2lNTy0tenBoLWQteld2V1MwdEtfRF9JY2VxZkxxeDZCV3hoOU0yWkVMTDhkLTN2SnhUbEhKWVdQRW9OV1ZrZFo1OEp6RGpWd3kyNkxxa21tbVFmS2gydnhsMGg1Vl9EX0xIc0VnYTNNWDNHM2xsMlY2cHVscnFtM1NzelIycHZMb1J3N3VtSllzOVprVlQyMGFkYTdMZlp3dkVQTDJMS2xiZThBZTMySnFDbjBFVWtUVWVfMWpyV3lEQjRSc2NhRmtXRzRoWFgxMWNUemJ0XzJjWGFFcU14cm9jX3pQSGRvb0xIMHNnN0dQbUxHUnZZSTFfOVJMS1hoQzZlU09FLXZnMmZPWTluZThmSWlQbnlTczNSNzZyam1zR1NEczJ6ME1GanpmMkY2S0Nn?oc=5"
     },
     {
-      "title": "黃金衝破4200美元后急跌！美元、美債雙重施壓，週三CPI成關鍵考驗 作者 FX168 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JZ1M4U2FhUFNlc2k4YWpTRHBCd2lRLUExcTIzWEduVnhKSVZMX1RQNk1ZNldrTER0aVlGUlhPLUN0MWdXOXM1RjF1dV91RlUwX1BUZ1JfTVA2TDJmSkNxbHR3VXlzMERfeEUtWkxnNA?oc=5"
+      "title": "美企盈利增長支持美股中長線表現 提防升勢集中引發調整風險",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPMTZtcmpsZnlOaW5xT1JUWnA3R0JWS1gzRklrUjBDSlJVOWJ1WG9oZ2YxeG83cEsyWEl0ZUZ1b0ZWdk9lcS1hSkN1ajRyS2FuME5PU1lNeVNFOGpFYm5WajNHQmxIVEh1QnBiRlZFM2VZQjRILUFiUnE4bFpfSHc4U1VkZDhFMnkzVFpKVWZveGpRWjVHYlkxSkl5alJ1OUc5Vk9MUFN4TjlVWVlOa1NsNXFEV1ZhMW1sT1JHYXU4UVB3akkyS2VoUWNtY19iQVZGcU9wYzRjc2RxTG03dy1IeGRZWGZGWjJvaFdSb3JOSnVfa0VjS2RNN05MSThZcEhUNDNkVmExbUFPOWNoQUJkMkJoUFVoeTBtR3hjem5CQ0xZdkpFUE90LVdqQzZEaDdMN2c0MUdaUkdqaGY0ci1mSVFKc0xjTXBRTDBocU5zX0E5b1hCMGtuYVp4LXgweVZlTjdQMV9ScDB2OW5NbG4tV0NwVl9WQ011aW9Gb05mT3ZJNHpXNl8wYnhmc3RlZms1T0dsOEtjdXRxeXVDZk9LZ2Y1bkw0S2MyZExtdEU1SQ?oc=5"
     }
   ],
   "events": {
