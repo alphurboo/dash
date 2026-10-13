@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-12 22:49:28",
+  "updated_at": "2026-10-13 07:15:20",
   "gas": {
-    "current_label": "10月12日 (現行油價)",
+    "current_label": "10月13日 (現行油價)",
     "current_price": "181.9",
-    "predict_label": "10月13日 (明日預測)",
-    "predict_price": "181.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月14日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "歐盟從中國進口的混動車將減半",
-      "source": "日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GVUtrbi11VEYtYzRneS12M0tMa2VWT01SYXFJSXktbFc1SnJMY3dnbmM3S0ZLTkJ0TlhMaXBIbXZqOHVha0VHalMzNlBLVXZHRklyWHpUMnNkSGgtdDl3anRHNGxkeW16RXhWM3d1eTFpN29LejhmZHAzNXFZUG8?oc=5"
+      "title": "分析：美國中期選舉前夕油價降不下，特朗普難題加劇",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxSWpiaGpZZkZDaDRFenhwbjhNUDR4YW80eGx4cFhSb2tmazdxd2NEbElXVmplZ0lPT01fSlNkaG5SYnlkYmpYVlBSQlNhZWgwbjRZOG96dHhObGZFS3hPa0Iyemt0X2_SAWxBVV95cUxQZmpRRkRWSklkbUR0YVJUbXhSU2p0VXdfRHRaMW5RVGlaY200Vm9iRHZoTHlTZEQ4dUdsSkRDa25YWkV5UjhxS3NXb1puNGtva1BUVVNRMDFQei1hblBtZ0tScjJOTU1QMkwzc20?oc=5"
     },
     {
-      "title": "歐盟據報擬12月推新防禦措施 縮減對華依賴",
+      "title": "弘爵國際學校隱身屋苑平台40年 全校僅2百多人超「迷你」 學費最貴12.8萬元超抵讀？",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPNUJYd3d5bTBMNFRjRERKTXhyUks2ZnNQdldRNy1UNDJoSUUwU0hubXFEb3EzYVppM3RxWWxuUEFqX2l3ekpUTjJnMXhBQkpOUkQ2Z184V2tTbnlhNEk1U1Z4aGFRTmdJSTVOUnVZSlZqM1h0U01zX1JpZXFMRDY0N1dQeGJXbVdiLXJHWkl2cGROdWlxM2hlTV9BbEd2bVdCR2FfRVVMVlBrUVVnTVhhQk0tMVk3OHNCNHlQQVZPODE0OGtQV3pGSFNZQXV5Rnh0dTZkWXkwOHI1UzJjS2p0SEFOOFZZTUVXc3dwSmFjRk9QUUFiZkdlamVwcWVJeUw1cVdfSGZld0V0eDkza1NSMjZkVEZMcWtZckdkRVFIUDZmRHM2VHRnS1VCd3ZEMlBfMGVWeUlSUTEzY1ZUUUZLQk00MElIVUgxTkRhdTVRcUN1U2N3RnNLMnJ1RkZXN0Z2R3dVWVFZckZNbGRNeWw0dFc5TDlxSC1RVm5ncmNraldhU0F3UWY2LXc5WHZJSFpiNTNLLXVMUmFyQ19OZUFCUTZkWVNLYl9rdkVweGxJRlNBRnN0aVVrRHNUUkpHdWlRQzlFN3UzMDMzaUNBSEdiWFpKRQ?oc=5"
+    },
+    {
+      "title": "【對話】也門衝突升級，折射中東“三期疊加”秩序重組",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPcWpJZUVFYlk2dFlnWjR3bkRLU0FFaDZqRDRGNVV6ZFFMOEhXWVJtX0tTWVhxS2ZjU2RBYVh0SkFiQnhsUThnbnhsd2lnWF9QX2d4Qkc2MDVpVzZPbzlYUDlVLUVfTEpPcmtPWkM3SQ?oc=5"
+    },
+    {
+      "title": "地緣政治襲擊與航運干擾夾擊 瑞銀估年底布蘭特原油上看100美元",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQQ21XUUhsR0xLeWJNODc5UWhyRkhmMWpabGZhMmlBaTlaMHZDMXY2WVNRWDFMR0NEWWQ1SW9qOHV6X01kdUE4b1FKQWJEOWhvOEt2WHVwOHN4VGRJd3F1Q09wNXhrdElrNnNFSnBBQzBWTHhxWm4wUE1wN1B6eXRyWER2cFBCMzBmVUt4bjRpcnNoVjMyQVU5RDI1T1Vxck5MYmZsWUtwcWVzQ3BzanNWLUtNTllDNUxKQVVsVGh5VUlNbmU4X0VqMnNpaTFPbzRKUVNTQjY0anRKTXV3Y1VPS3VsYnZhMngtS05DeXVPRGNRbUdDUnVfVnZfOExuMVNpY2J6dF83Y2publFxX1VNX2lJenRwTThHMWY5WmhmZmtBdkxyb1JveS1ROWVKUlNZTUQyMFJnenlndw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPMXZPdWN5V1l4cG83elpKSWM5blNnRDVkRkFnSndINXY0VkdqTUlmaFJFdkIyaHhWRUNXNmpMSDhMYWZBM3R5WFp0WHhCUmZHSFVNUGdsWlJhaXBDa0w3RjdqTDFsWjIzUVpsQ3o1eHprYzFPQmhaRldGRXZ2WnpTM1Y5TmdsWGZ0ZWV0eUdfM2dPamx1Q2xoS2xnbDJvVjZWYVVFSXNNbUFiMUhYVFJ2Ylh2clBHc0FMSy1PUmdSa1NXQUp6YVYxOWlmb09uanFIRUxoSUtycUt5Q0NnSHNFZ19MVTJqRXdLbmdYUzZBWC1WbkNQNFg1NUg1SjhVT3pjZ2RycWxBUnBmNkFreUdWWjdTWXJtcURCXzhIV3J0R2ZkenRBc3poR3B2a0x5bXZDbTcwNUdGSkxWSTNPeHBXblBzNmlLeUxfQVVjaF9lYWNxZ2tXcjBqbUp5T21jT3p0aEdibFdfSlZsNnRMWUZRUU9sdWxSUXpKa2R0RTY5R3RCQ3JZY2hMUGtMNlhpZ2N4VVpvWGtyU0pMN2poQWttQTdwM3V4RjQ?oc=5"
     },
     {
-      "title": "特朗普送大禮普京也意外？",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ0dmWUNzbjcwWkZhTzRrSkFpRWRMcmFjVi1sX0xESGI1YkFtVWVDM0N2aU1GUWlVLTlXbFpSZGJLWllGQ1VrcUdTbjNId3A5eVhkRjB4d0ZnaVM0VG1WelloUkV6WlVVbS1ncTd6U04xYWZobUhqenUweEJVNURnVEYtQkpleGdnQUEzTmlWUVlMUlBMci1EWkR6NEFpV0RjbUVGYUExSU9sRndicXNvdGQ4ZVN2THBYOE5XQWtXQ20yZ21MS2JZUW9USDB0bGhEMTBvTDNvT1FHMkIweFI3cXRyUQ?oc=5"
+      "title": "王毅：中東衝突多層面延宕　中方續促和止戰",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52MWJValRTMEliQ3N4THZLQkZ3blZEN2VSNVpvNmNnal94ZlJfZnpsNUdZNm9WSDMyelF4LTNnN2ZPcW5tUDFLZnFuTUxyLU9RTEZnSXpZaUpQd1d1VlZ3WDdQRdIBY0FVX3lxTE52MWJValRTMEliQ3N4THZLQkZ3blZEN2VSNVpvNmNnal94ZlJfZnpsNUdZNm9WSDMyelF4LTNnN2ZPcW5tUDFLZnFuTUxyLU9RTEZnSXpZaUpQd1d1VlZ3WDdQRQ?oc=5"
     },
     {
-      "title": "盤前攻略｜中東局勢升溫科技股升勢回軟，港股日內目標守穩24000",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR09RVTByR0ltR280Z0lnazctSU0zbk9SeHBTMnZ2Wm5WcDBUZE9vOHMzSl9sQ0xMQ0V6YVlyVnBGX1cxTG9vRzl4bjNIRS1MWnFmTVYzUVp5d3p1M1JhNGsxNkpvRmNLVDNxRWRIclhFX3JqSWJjbEJuRzRNeWp1dHpRZEd2WExXVVdsYzJ2cmRaTnRE?oc=5"
+      "title": "IMF上调2026年全球经济增速预期至3.1%",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CWWRxeGNOWG00cHdVTm9fclJvaHBMTkFOc0J2N0xRYmk3Y1hDeVZTVnI4aUNOQk1DN3dJQzBoUVFOVU1oX3VVSFI5d2dBSVcwRW9VN092QVo?oc=5"
     },
     {
-      "title": "四方面落實港五年規劃 連接「人、貨、場」 港交所建多元生態圈 提升全球配置港資產",
-      "source": "国务院港澳事务办公室",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Cd19TZmZzejBaVzFEUHh3SkI1UWhMREs4TnFTMU5lcE1mZ245dHQtRjNMZ2Z2VUlLS0xvdUdiS1Z1MGRHSzhudHhpQndSbE94WWkzaVRDQ3FvOW4xQWh3cHZKcnFoWnQ1cEdPbzdMeWxHVGpQYUJIWTBn?oc=5"
-    },
-    {
-      "title": "在持續的中東供應風險下，WTI 守住 92.00 美元上方漲幅",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmtXeTZkM29LNnE3enlLS3ZBQWhHWEllVldocVVWZmtZRm1pSzZvRTUxZGc3NjJTX0RNNlQtVzdSZEFBMGNrdVp2SDRJOHRPQTl0VmFSa0JFTE5PemwtYUppM3V1M2FLX25RQTRUZlFZQ2VhMFlnWjgyaTFfT1hLaVZmajJJcXNNWVdzMmRlUjJEdkNPSVNPb29nRDhfR2R4Y3B6TFd1Sk01ZG9zQUNLbm5LUjgtd3FJUERlMnNEbDM1RDE2YWxwLUlqVmRYWk9lY1Fz0gHYAUFVX3lxTE5FOWU0Z2FvY0RHRXhBbjZveWEwaVpZQ2dwYjZwcmQ2Y0VwR045WHpIdk00X2xhbEsxUVZQNlJlVUx3eWxDN0kwbWdfcDlHNGhzVTlidDNJN0g0Y2FUay1iajUwcmhVVFpodVJoUXoyWVA0c2xnZFpSU1dSaFZOR0RzWTh2bzFORXBYbVhzUC1pNWVvS19oejZicGkzQ0VUU09LMTIwczFJVHpvSlFkQjU4T3lHc2pHcWFBT0cyOE1vU3ZKQWhRX0dBc2tVVVdwbk9FcHdKLWpWaA?oc=5"
-    },
-    {
-      "title": "俄烏戰爭｜俄方未表明同意「能源停火」 特朗普：我說了算",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPQlFfRk9BNFBEUG84Y3p5dlBzSWl4X2NBYTRTU0lEbDZkclRJVW9xSV9Sd0NqWjI0TVFKXzVvSEY4blJsMXNDMlNjOTVsR0JRTHJGalZiT2tSYVJYRnpCOE1DSW9YWHhyR1hqbWt5MmdoeHhhaWs2VTY1TkdvS2ZGZGVaYU9aZHk3X3dvdUZZWkhrbmQtQVg5RERPNnNPeERVTG9HN3RoWWd4aHNQU0hFeVFhT2twWTlwVVdRTXVSQ2Uybzlzc1dWdnBGcURSclV6R2lhcTlUMGRzck1GeC1ZWlNRcjR4aVVwQTBfQ1NYVVB5b3dxdXQ4OC1TRXI2NGMyTWVhbWl5Yjk5c29uOHl1X3RPZHQtMUF0SWR6dHhGZ2M2c2JRY1RJVFZUNEg4ZGo3QU9kMGwwYS1ha1RCU2MwbWFJTWF3VElhWHRJTmwzNUNZMHM?oc=5"
+      "title": "俄烏戰爭｜男子驚險避過無人機擊殺 走慢一步被炸中(有片)",
+      "source": "AM730",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQaGI5bGdKbFdOS1hRcTQtY21uSVlQUlFZZUtqOFFjU3k3LWZLZzNFMnVNUEFvQ0pqd3g4RjdtMkFmYUgtdEJfQ1BfREJ4OWdsOHQ5ek02TTF3OFhQTEotVE5lRUhLaGVmSk9QZTlNNlVON0dqMGFEN0N6dDNBSDZWN0dVdjl2c3B4TjcxTzM2bHRNYWpoUFdNTWI5dXF6ZDExWFNXMVhSNkpldlRBSndpbXpwMnNwS2hlT3F2N2JMLU1xTmVKMmZnSTNadEFRQ19DSGR4SFgwcFN1aUVnN09PS0pac3pQNEtKSkQ3dGRsQi02dkdYeEpXVVVGRHl2dEpLR3FvWlhoX2xvY2p5Z1Jsa1BUMnhKMXVYUnNzekV3S1lpbURtWXdmSHFkTTV5T2dzV2RDZXdwN2E4SHRncTl2ejV2eFNiX3B1R2xtRHpGWm9BdmVrdmxwbDExeUI1NkwwYmo2cnR0QWZvVEs5SUhwUEh1YUVENlowS1V0QW95YlVBUWptNHo4?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股新冠後已連漲4年，牛市何時止？",
-      "source": "日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdGJvWHpGdTZ6enRJX2dKdTZsUUktRlBkdW9jU090bFdmbnFPQWRZNTlYdEl5ZDN1UlJuTXZqNV83SGE5bkU4aXpMbkloQlIybGdqaUN2V094SUNYRFExUTVWSlhTa2NWc25WbE1WUG5ON0I1cnB4VmRKNUFyUUdjSFhFUGVyZVY3T2k4?oc=5"
+      "title": "高利率逼出來的“20年期美債存廢之爭”",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94SGhLa0p2T0ZSZVR3MWVXYUZpSk5TTlVxWlh4ZTgxSXFlM01OY2FDMlRrUnZkLVcyeHZ5ZVB2WDhIT0l0RUtTUFkzdkhQRHB2TGx1RUJtX3dCcVdoMUdpckZRQ1VlUTZxSzNPeWxiUQ?oc=5"
     },
     {
-      "title": "有聯儲局官員指通脹壓力擴大 應轉向限制性貨幣政策立場",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92TUN0eTU5YTlaSTBwQW5qQUY4dzZmdllNUERjTXdaY1o4R0xBWDRBaWFEVEJFTFlUN1NvZDFaMHRFYVNCQ0hSSlZ5YlJhb01uMFpqbUJIREsyTmNSUHlLTE01V3k2WnhMLXBrVDhyWQ?oc=5"
-    },
-    {
-      "title": "貝萊德看好短期債券，削減美股超配至中性",
+      "title": "Lumentum Holdings Inc. (LITE) 股價、新聞、報價和記錄",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNdkJKUW1INkFFUG56OWJiNElzTFBxd2l5YXFZTXNVbVRudzlzb2VOT3hUcExCQnVoSEY5MFZTcUVSVXo4LWxhVVBGazBJaW9HZEp5QnY2Qjg2WVhvLXllNUtXQWpNUi1qYk1COFVxaUYwcG5fNWhJVjNicWJqZVIzX1hGNHkzM2tFTFFIQ2RmemxDU0VBUTJBVkNvT2x6cXdsbmtTaE5XTmhCaG5mNDRVRTBsZmNFd1dOYWFGaWFwaGY0djNrTGJPaGRPQnFyd0pfT19hTEFzblhOc2dmcjhNbHNORThMcEdKdmdUX0N6YW52Rm96ZVhHaEZkTmlhSnVSakNYRDZlYjhrNGdmbVh6NWFTUlpJMy1odGFGWnpKT1ZmX0dzWkZ3dU53REs3SENfdjlSdk9Gcw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVbGhDeno1emtkN0dqUGVDaFBtYl91N3d4Uk5yVDNRZ3p0c05xNDNTeTVpZ1VzMUczMnlMQkR6SnVNR1VTay1NN2w0dmtMM2U4Rnc?oc=5"
     },
     {
-      "title": "美股三大指數收盤漲跌不一 熱門中概股多數下跌",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTMnRSaWJONnVoUXo2Qzd0ZHNiT0ZlVUh2czBqUlBVYW13ajlXV2pCMzU2UmxHS0ZZOHJmWTNRNmJ0eXF6aWZ0ZlE5cTktUE5MOVVQWTN2cHV6Ql9rd3Q2b05iQTlMdE1Ya2s1TmVlTUhtVUl1VG4xRmt6MA?oc=5"
-    },
-    {
-      "title": "美股走勢丨道指收市升195點 科技股拖跌納指",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPa2NOMzMzMm9MWVgtQXJHaXVua2trUDJqYUl6M2lNTy0tenBoLWQteld2V1MwdEtfRF9JY2VxZkxxeDZCV3hoOU0yWkVMTDhkLTN2SnhUbEhKWVdQRW9OV1ZrZFo1OEp6RGpWd3kyNkxxa21tbVFmS2gydnhsMGg1Vl9EX0xIc0VnYTNNWDNHM2xsMlY2cHVscnFtM1NzelIycHZMb1J3N3VtSllzOVprVlQyMGFkYTdMZlp3dkVQTDJMS2xiZThBZTMySnFDbjBFVWtUVWVfMWpyV3lEQjRSc2NhRmtXRzRoWFgxMWNUemJ0XzJjWGFFcU14cm9jX3pQSGRvb0xIMHNnN0dQbUxHUnZZSTFfOVJMS1hoQzZlU09FLXZnMmZPWTluZThmSWlQbnlTczNSNzZyam1zR1NEczJ6ME1GanpmMkY2S0Nn?oc=5"
-    },
-    {
-      "title": "美企盈利增長支持美股中長線表現 提防升勢集中引發調整風險",
+      "title": "【儲局官員】美國債息居高不下沃勒：長債息急升已起緊縮作用抑制利率敏感行業需求",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPMTZtcmpsZnlOaW5xT1JUWnA3R0JWS1gzRklrUjBDSlJVOWJ1WG9oZ2YxeG83cEsyWEl0ZUZ1b0ZWdk9lcS1hSkN1ajRyS2FuME5PU1lNeVNFOGpFYm5WajNHQmxIVEh1QnBiRlZFM2VZQjRILUFiUnE4bFpfSHc4U1VkZDhFMnkzVFpKVWZveGpRWjVHYlkxSkl5alJ1OUc5Vk9MUFN4TjlVWVlOa1NsNXFEV1ZhMW1sT1JHYXU4UVB3akkyS2VoUWNtY19iQVZGcU9wYzRjc2RxTG03dy1IeGRZWGZGWjJvaFdSb3JOSnVfa0VjS2RNN05MSThZcEhUNDNkVmExbUFPOWNoQUJkMkJoUFVoeTBtR3hjem5CQ0xZdkpFUE90LVdqQzZEaDdMN2c0MUdaUkdqaGY0ci1mSVFKc0xjTXBRTDBocU5zX0E5b1hCMGtuYVp4LXgweVZlTjdQMV9ScDB2OW5NbG4tV0NwVl9WQ011aW9Gb05mT3ZJNHpXNl8wYnhmc3RlZms1T0dsOEtjdXRxeXVDZk9LZ2Y1bkw0S2MyZExtdEU1SQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisARBVV95cUxQdzNjeWhDQWpWeGFlejg3UTlvZU8zLWVJUTBvWmR1QURicUZ1UUpsTVN3UU1vTHZzVk9pbGxPenZmNHhmREJlNzFWN2xxMlNEZHg2cE1PT3ZDb0lVa2x3N3lzc1BzY3lkRkpEdG9tX2NZblNDVllQcXpodG1OMWYxMUtaQ1p4MmFuQTZWT253NlNaVEFNV0tpMnJoTzFBSGh5QV9GeS1Yb0VrQjRsVlVpa0VKQ1Q3N2xJenVHMnFQd04zc0lTTkJGb2ZfLWdMUXkyaEFaN1poenBhdHZLR1hteHJjczhQT3FKSDJRZkQzZ2Y4NGxCdXJJNTBrM2RTTWVOaFUwaDRYMHhUUUdWSHBJb2V5WEZPalMxUURaREw5N0NwaTRCN0l4SExLcDhLc0NLN1lWU2VKMWxtaHJtT0hCMG9VUHdlRk5RMHZUT2VZMk1MYno4RlJQQ3hhMGhnaFM1eTlSMXlVdGptVjRKOFRvZ3otLUVFa1ZXSVF4bjlpMDVEdlM2X25MUXNZNVZ6akNuenZTQnZ3bHJBc3BNcFdDZE9yM3M5Y3hpb0xBYlpqb3NaVnU1RUhwUlBaZVRZVmo0Qm4wN1JxTVROMG9kUS1ROVdxYmI5STJnMnBFRW5NZHBFc2F4OFR3VnVXal9XWE83cXBJb0NMeG5ERWh0MWN4LXAtTlFWcHJqTTN1QmUzYi10c19iT0haUEREcVA0Uy1pMlQ2M2Fsb2IyY1poVlFoSw?oc=5"
+    },
+    {
+      "title": "美債價格彈高、大戶爆買 Q3吸金額創史高",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11dGR5NXlVV2J0NVJrVGxDRjdTNkZ0NzBxVDZ6LU5HTm81MDVlXzZndml6SDJhR1JKQ2I5alNsNE9iU2tEc2NzVjVDVXVIa1dCaHFGRlNNQmhvd9IBX0FVX3lxTE9PQzZiN01oLWpMS3k5MnFSX2ZEbTBBa2M3dlM4WTFWSFBJbjY2czA4T1YxVUtXTzBCLXlUNVg3S2RhUTBubUt3VHItRDJDaUVBYTdWQ2twSkQwOHRYVmN3?oc=5"
+    },
+    {
+      "title": "美債拋售潮中，機構開始抄底：593億美元資金創紀錄湧入",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WQTZfdFpwblVaeWM0cTgxNnZNMUxVRlVHUW1fdktaWDRGaWRKQlVhZzRxVHRRWU1Fc09HVllYa0gzQjRjT0NVTC1nU1lmTTJjcnd0M0cxNzI5NzBl?oc=5"
+    },
+    {
+      "title": "聯儲局官員沃勒：美債收益率上升源於經濟增長，而非通脹 作者 Investing.com - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ycE1oWE5UVGJuSFRTRlpFVU1tekNibV9QMm9SNnJ6RWdXdC1oM2QzM3J6VHp6RWhuRkJOM3FHYXhDY015UW0ta0NPdjFNb3NheDFEdUUwWFhVRWRyYjdqTktsejRvRlhVU0E?oc=5"
     }
   ],
   "events": {
@@ -84,16 +84,16 @@
         "title": "美國 9 月 CPI 通脹數據",
         "date": "2026-10-14",
         "desc": "美聯儲關注通脹指標",
-        "days_left": 2,
-        "status_badge": "2 日後"
+        "days_left": 1,
+        "status_badge": "1 日後"
       },
       {
         "tag": "FOMC",
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 24,
-        "status_badge": "24 日後"
+        "days_left": 23,
+        "status_badge": "23 日後"
       }
     ],
     "stocks": [
@@ -103,8 +103,8 @@
         "type": "Q3 財報",
         "date": "2026-10-15",
         "desc": "2026 Q3 業績公佈與法說會",
-        "days_left": 3,
-        "status_badge": "3 日後"
+        "days_left": 2,
+        "status_badge": "2 日後"
       },
       {
         "ticker": "GOOG",
@@ -112,8 +112,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 16,
-        "status_badge": "16 日後"
+        "days_left": 15,
+        "status_badge": "15 日後"
       },
       {
         "ticker": "NVDA",
@@ -121,8 +121,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 37,
-        "status_badge": "37 日後"
+        "days_left": 36,
+        "status_badge": "36 日後"
       }
     ]
   },
