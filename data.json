@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-14 16:15:19",
+  "updated_at": "2026-10-14 20:16:35",
   "gas": {
     "current_label": "10月14日 (現行油價)",
-    "current_price": "181.9",
+    "current_price": "179.9",
     "predict_label": "10月15日 (明日預測)",
     "predict_price": "179.9",
-    "trend": "↓ 明日預測跌 2.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美國銀行多年合規積弊終招重罰 市值一天蒸發220億美元",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQakRtQTBiWkZfZUlBUGhkNkNYQ2xoN0Q2RGdaZzhDaXRzTHpFQXFkOTJVbEF1bUUyX2NhM2lDWDQ1YWYyV04tZ0JfTy1Cc0lYXzhFNWlGN3VoMzBoaUhLWFdUQXp6Z2J3UWFrZkZHaWIwUHo0WFlDZFRsckN2dzU0OWthQlQyNE1GQTFraXYwQ0lYV1M3aU44N1JZTWNZMVpwU0djS0VkbWNOd1NsMU1URXBrY25PR1NlN0tQdl8yVjdsWUNmZUpuZktpMHhmaUFEalJ0U1o5T3NNMnhsbXhxUDBTdjFpLTRESEc0NkQxVW1PUk9DVXZ0QzlSeFRfbFFoSmpMNWVzV0RGU0JxVm05YVJLUHBDcEVOQXRhblpKUWdFNDJRSE0xazdDOXRLc0hPSnZ3WTdOTFZvSjJwSlU4S0sxX09VbWd5UUt0Q2d3NkRlRi1BUjZaNlFmX1ZBREJYNVFSTVlwT01maGxH?oc=5"
+      "title": "白宮新發言人資歷能力惹質疑 - 20261015 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOcUNqQnlxS0htZWFpZFByNVFaS0ZfRTN2RXR1elVNYkVCMGMzYms3cHVNMnREcFUtalljaDI4MWQ5Ymtub0YyYXFONUJBTHpfaEhVRnpUYi1nVEUydDh2VVd0SkUzOXNOaEJsYl9JaVpsZjBIc3dobzB6NGg0NHZaNFVyRjU5RWVkWXR5OHBNQWE4VjNZS01GTTVjaEduVjVxdnZDSGpKMFZ6bDZaOUZ5Nkp3V0l2SnN5blVndVRmT19yLUk4Wk81TDlWNzkwZWpzaXNMdjRVSzFyLUxFeUE3RWJ1NmduZlg1WUI4Mi1GSXY5TTA0dHFtMlpGbk15MkxsMDc1bDJvNmhTb1pEZFBBY0gydUJWYmg1Mi1qTTR4UFRDekJGUUt2cEozNA?oc=5"
     },
     {
-      "title": "德國為何轉向支持歐盟對華貿易強硬？",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPckRIS2d3S3JyMWEtc24zQV9WQWQyV1BPOW1XaDFXMVcwamZJV3FDUWNKYWQtRlBpUTFfdXpuYnN6UmY5RmJuME03Rm0ta0JnNEZIVHJsRVpGUml1N3VwcVp1NFc1RFRvRHNWSURIX2tMX3JNQ2dPZG1TRkNRMU1FcWhGbVRiemtIci13XzRhQ09Oaklhcm5feDV2WnZDNk1yZzhIazJodW02TC0xWF9MY2ZSZV9hQ0g2MWR1d25vRmtyZWt0TWhyLWw3R1F6V1B4RVJ0YjVNeHQ1RGFCeG54OWtXYm9oWkd4NmczQlprYUQ0M3lCM2hPU2EtSkY0RVYzd1JlMWZQWm03RzgtSTV30gGPAkFVX3lxTFA1TXRWWHJ3VUtuTzJxUG9lLXg5bDJCTUtFc1o3WUpWajhYWE5JTEowb2tCX3FWcVhteXNrNTQ2bWN6QlFBZzJGc3FySVVmbEp4SXNfR0NXQW4yVEFCQTcwRkFQR0pOOU9PRXFsOU1WT09fMi1lSlZYMkg1d0ZYSmJfUXBnLW55QnAwZWo4VE9BdlBONEdPNFF6NUExT0FNWWVSSXZnRnlsMU9mQ3EwcVZEWWlUT0w3R0hXcTAwOW82V1ZjSFNqY05ZaUhzUjM4YmdXZnp6ZThtSzFXdTQyQl9nY3RYaV95dnRuRnZDUlJsMGhVY2FJaGc4ZjFEWEs5VnhadVFLYV80LTdWMzBoRmc?oc=5"
-    },
-    {
-      "title": "希臘: 美國大使被召回成為政治對抗和媒體焦點",
+      "title": "澤連斯基是否被背叛了",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOR3hPS3BoOG1Gek5mYkhwWGQ0QkgyZnZJVk1RVmtWbDE2RGJLMkNmU3pnQ1hTMExWR1pSNnhTYnVvSUF6VEI4U2J1UHh1dVRsX3hYUU1OS1BOdzFrT2pqWF9mWm9xcW9xSnBfUXlQTEFndnE2cXUtS2Z0ZjdiSGJIbHgtMVRvR2hiR0dqeHYwN3JxbUMzYXlES3FYc3VmbzZ3cW9qb2FpVjAxSjJERFJnWmJSY0U2RHcxRFJsLXVuOU9UZjB5d3ZseUpmdmFJOTFQNE96SkU5RVlxTGc5M3d3cXRMTGhOTkF5NXJENWVwNW1fOEZZQTZERFVQRGtRckhwSkplWmZtRjhYdzR1d1JUNEFJZkh3Y3VlRkc4OFB3MThKMHlsSEdyOVFvVnpVOVJuZFBqeEs0SndQSllfdWZNaENLa2g5eWN5ODFQbGpQblQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZlNRaEpYcmE2S1RiZTFTOWNocjlRR2lTbkxmUHkzbkJWOU9aeGZnVDFvOFdseldrMlVKUHNiMTI3dHhVVlFlMWhUZGU2ZlJ5RFMyOTNzOG9JN2o1RTQ5c3NjeXZWUW5fMmdDM0cxNE5pOXktdURFZDUxSzViVlpUOHoyU3RzLS1UYlkxREtmc0NQS0xTUzltMXVCRHBydG00Y3NhQ3o3a1lTbDM5T0hRRFFrdjhHdFd5MTdrOUZfWW5vcm9kaXE2UFF5RlYtLWNLdzJtMkVHYw?oc=5"
     },
     {
-      "title": "Netflix全球裁減1000個職位",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNTlKeWIxU3VseTM0aTFMWUJSREhmYXdUMGNTTmpjNWNhN3RGSnJpelpxSUFsUUNlNFdoQXRQSWNjSHBUc05ieGVpTEhjYmIzWlNXMnFfUURpUmRsNk44T3JxM3lkcnl4WGh1ODFXb1lqd3Jmd1UwUl8yVEd3SDVqajJlbkotbllnZUVDRzFlbTQ1UkJBb0hOVWZvZkw3NUoyTlliU19iNm5OQ0RJREYtOUNtNHBFQVhNb0ZES1V1X1lKUEVvTnBud19hRDFWV0RVOVVF?oc=5"
+      "title": "金價下挫逾1% 美國通脹數據令加息預期升溫",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DWElqMVlGVThOWFpUWUJBeGtka1RyMWJDYmdOMUlwQmEwNWEyS3B0Tlltbnl4MHlIZVpJUVgwQ3prZ2haVkEzZE5SQ0tfc2tPTjUtdDNrdTktX29jdnJ5VVZ4WlVfTWc?oc=5"
     },
     {
-      "title": "國際能源署：全球柴油供應緊張情況料持續至明年",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRXdiVExISnlabE9YQjhYakptX3hzNzhEbWJEbnFORXh6dVdFNDV5eS1IWGN6R3hpTW5XQ0tUOWFJdl9JZGoxaEhqMERLXzZLdmd1VUdR0gFbQVVfeXFMTm9naFZqVnMtV3RhMVhZWm16WElGYUNDWlU0N1lmdW53Y250cm5lQTlsdlR1RVZEam1FTTg2SnRDN1Z3OFRnUDEtNWdKZ0swQm5GVTRjWFFVWTI1cw?oc=5"
+      "title": "智慧體將開啟歐盟 AI 的下一篇章",
+      "source": "OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zWWRKZkV3alBRaHhfeElqMTJ1ZEpZSjBnYnVKclZWTDNMVkxvZm1BTEVmRFpJX0pRNzNqX0Z2ZTRDemFNa1ZZbnhhcEg5TTJGOWhIVjlhVWltaGRhSHhYUzkweEktazVFeTFBSTlqRWtUUlVZeVFTa040VQ?oc=5"
     },
     {
-      "title": "美國冷待烏克蘭 英國力挺澤連斯基背後有何考量？",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SMnZ3X2JrSHQxcElKck1ESTdpaFpYeGNXYmRRNE9oNjdHWHFBNnZBeEJpNGhQeTBoQjdGUWlyY2w3TWlDN3R1WGJDNzhqQjY4OEM1RlFSZDJ1R19ScXNsb1lJUWdRSUdKNzkwYkpKdw?oc=5"
+      "title": "俄烏戰爭｜澤連斯基稱遭特朗普出賣 烏軍遇襲未獲情報、星盾突限速",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQUW9NbjJvcEx2Z3pKbXRhM3c2Qzgzd3V0MTFua1dEN3g3ZlR0QkJMMmphUmZyZUhGR0RiZ0JMdGRwNkNjMmRQcTJOZW5oSGhWbnowZ2YzWVdpU1BwUGxXcmRVcmE1XzJ0WmdLUWE2VG5pdHNvX3YyQTkxTVBWTGd2SVFZRVg3eGp5TUs0cGM2NVVOMUpRTDJTMmMxRTNJejA0YS1YcTlVdG5kbHBhTHhha05KX1J1LTZpR3RXOFpHcjhZekF0d0ZheVJ3QmF0M0xDRjhiNjBlcG9ZNE5PRDdhRURrendHbTVxQkxYRzByb3NjV25vS0FfMWJsYzRPY2pUSG56NkEyazN6UGh6bk1GSlV0T3d0NGR4WWhzWFY3WXJibUYxTlRhR29COHkzTHN4QlE4eHl4NWFBTUEtRUdRWmRWWmZMdWZXby1KeUR4LVd0dHdpUGRkN3RpdVZiRDFRVzd1cEJZRHJCZFdHSWdFS3BJV1JPYXY0TDAzZXlEUkZBUXdMNFk0Z0dJVHFEanNLOVBmUFhzMTJxRGNBSGhlbHBCNTM2U0hZZU1PQVpfUUpJQQ?oc=5"
     },
     {
-      "title": "國際｜俄總統特別代表料未來數日簽署首批對美柴油供應合約",
+      "title": "國際｜俄大規模襲烏能源設施 烏方指控星鏈限速影響軍事任務",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQQmZ0bnhRZHhtcnJIODBBQ3E2VUhvWGNLS2swdjdzMGRzZThDbm9XbzcwaFdkSURmQzBFN2V0QTNoLURKNEhJSG5yRFZGa1Z0OTRJSmZCa0F2dmI2WGRCczJhcUdET3p4TGp0LWZTbzZGbUVCTDEwTi1TMXNwc0JCQjFLNzVGWW1wNG14aUJSZEFvQmFZYU9XNC1yNFVnWFd2eHc2dWZubkJMRmw0b2FhRmlMUDJlU19PTktKcjJxbFd4cUdyak9LWjA5RXFod2N4UXNoV1IySmFfcGI5bFlIVXVSSU9fUkZGd0xXSlViTjFkODRoekxNZDFMMmdnWkZZYlRnM3Y2YzRhUDRoTW1mZzNZWTVHSEY2Umw1NDJ1aDdqOFNseUt2Ylg4QmQ2S0pleVIxYzI4NkhpaXhPdmVOdmdOR3pqWTVTdnpXSnlXeG9vWU5jWC1ydFQ3RmJiajFZWHRKY3hnMGFHcHpVdW5kNGw1RmlMWmxZYkRPVENNSkNzUHJ5Y3FxMFJtQU0wTnBuc3NhMHMxRQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUDBWZzFSM21TcE1rYnpETFoxRUZOWGtCQnVLeGctYXl0QXNaQ2EycDU4eHJVeUV5NkM5VEpFNVZOd0hQdUtxOFVCV3NVVGRnTVotX1ZqOG5ZWWFvRGhMQ3ZWNXMwcUJiWkdzdXJud2gxcDhvRHNuNGFfdlhRYzJUbG5tNWkyTk9Qc1VnVmdpQnpSTXJlSXpaMjFTOE9LMGtBXzRKY1lfczhmazQ0d19BeVN1WDJ5VlpXWVNzSGotSk44Y3dQRVBIMkR4Y0VfSUowSGhQaTY5QUo4ay1fZG40Qk8xRFB1VmVPLUpWd1pOZlR3RkdGZEtaQjdQNTlIOVlvMHhWdEpRRE12cUZFU2tEazJKaTN6UW1ER0RfS3pPdUoybnpzWUZKVnhxTzhMUzVlSWVfRmcxOFVkdDVwbEQtLS1BTHJEUmhObnRHdGU1dVhkd25YU0t5LVdWTF9BRHl5UFFsMVVsMThjckRoWGh4dW9Ib08zRE9oZ2RMNUtNcllSQ3d0WjVtNllhT3ItYmVOcmZJRFhsR0s?oc=5"
+    },
+    {
+      "title": "加方回應美國駐加大使警告　稱關稅屬反制措施、非政治干預",
+      "source": "Sing Tao Daily 星島日報加拿大",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNU09tb0t3ZGdXTGlUOTZDV0xGQ1Z3WVk5Wm1zNXk2MUdhNDR0c19VVWo1M1cya2ZRVnN0NU5fU3V0WE9CNWNKdl9JWS0yblZfTEs1a2dEMWg5M2QtNDE5TnI4bUJRTWdZdTRfbDRCZVN1WXFmdFRaSzVGN0RkVG80UjBiR1k5N2Y3Ukl0YU90QXNHMEp4Q0JScGN2Y21sRGtLTWd5V0tHTVE0bHNfbl9PVFNnN0loajlDdF9qa0NYemtKSUNiVHNvVlU4MnlmcjFFQV9SMzFCNkMtNFdEbW0xTFBFZGNPQ3Zpdk9WXzdHRDQxUXo0XzZkRnpwaUhTXy12WXZYSGFKdnl2QWNfeENLYTg5VXdoajZ0SDhrWmtUenBYS0NMUzROY3I5cmRra0JpamlLTXhnQ0I2UEk0X2pFbkJWTnFETWgtTjEwZFQ1SFRES2s2Q0ZLelA1TW5uQk1nUC1UNE9HXzRrdExVOUk1bkVOcTcxc0EyVWZVNTJDUnJ5YTc4X3VyWFFwdFN4UDcyYkZmUVlNcGxpZ3htRTFTSdIBkgFBVV95cUxOdld6RUxoWFVBVXBjaGJTY0cxUEVnVjBqNlZBZE16UHJuMGZ3SVdYbnpoZkNjbzUwZjdlNUxnY0doZ3pSSHNNNXl3YjY4NFNnc0hxa2plcjd5WWw1RGFRN2RkSVF4bVREbDdUQXUxTGFRcjJ3WDlOdXFyZWE5WEk0bThGYjFFQ0NERWdGQ2dzeHBwUQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股高檔迎三大變數 基本面與升息壓力拉鋸",
-      "source": "CME Group",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd1lqWGhPd2w2cUw5VHlBaXdIQWd3Sk4zMXRGRHFBb2stdlBOTXE3bENKQmEybG5lM18xVnBLSVZjLXIwOFJkMEdKN3VLVXFVbFFTWGRqTXB1ZTl6LUYzbG84M2tYQ1lnX1NLc0p3OVVFdmdrcm9IekpTZFdsZUE?oc=5"
+      "title": "【美股收市】通脹升溫兼褐皮書示警、再燃加息憂慮 芯片股6日蒸發1.6萬億美元（不斷更新）",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNUFhFcXJpMXdvWHROUmxtMGVBcnRiRnlZRDhvVTFJTjNqeHJuR19XT2locl9nR2k3eGVoX2tFQXk1MmVZUVYwUmpEc05SVUstYkxMUnNKbV9PM3B1MVJWOWplM3VqTTZPUlhCREVxeEltci1oT2RyTVJqaTlSaGw5Z3d4TXNRdTV3czlaQ1QwaXZ2b0FCQmFUU0VCLVAybGVUV1VUakpUSmtlS2Y4Mmd3Sm1abFZ5eUF2VUlaa0gyZ1kzUlZkX2RtSjR0aG1PWUo5WFpvOEg4bWZyM0JkMzNYdlZkVmp3dXJza3BPaTJucENpXzZqNDFXVEI0TEMybWxXTXNVRGRIYU5KMEVBWXhieWtHZEpmWElIZUQxQWFCTkEzcGVyaE5SU1E3UkN6S19RTkpWeXFra05aM3F6SUhjN1owTDczVWg3dExwUl9PanhhTUNKeU4tVW9vbHpoeVpaMFdwbWQtaWJZV3VvbjdwUmJ0WXFrUkJPR0IxMzZva3YwWDgxcWdFMmxoUVJsanNQbDVHcmtDY0kwaVJqSG1KS0lKWUNqQWdPdjNKYWUwSUpidmpSRXVaakJGdi1BcEt1X1BPTlUwSGpYZEFfZTBwT25xMHhKTGhLb3lMbWxLSkJ6blkzU2RzdldPblh4V0dvR0N6LXdYVWZ3QU1jTWRva2NabGp0YUZ6dS1ieDY3Zk0tLTNYeVdHZEJHSWNubnJ2dVpRajgwWDRTZDExdnc?oc=5"
     },
     {
-      "title": "美股｜納斯達克單日跌1.65% 羅素2000指數踏入超賣區 油升金銀跌",
+      "title": "美股｜Black Mammoth Metals獲准於納斯達克資本市場上市 10月15日展開交易",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNUHdSd1dqNnBhaU5YSW5UNXh1NGdLajVlcURoYlc1V1BpMEFMX2NPOTZmY1hTMjNEMGVMckF1UnZfbS1zazRtdHppajVybmZmazF6d2h5OTRsMlRwX1EyM3JnQVRmaHlMRzhVVHRpV2haT1k3cHpJV3RESW9wNkVXbFhqOWdvcVdHMWR1cFBXbUY5QTlzYmVDMmk4UWswRW03MTlYUTE0SGFZak1GX0s4QXdLa1lyNExubE9sY0hKYWJCbVpad2NSUEdZT3E4alVxVENRUUQ1aUJfSFNJRWlsUHRINEtjM1pHcHpoRWtSVm9LdTdSQ0RVM0lLU1dmUWduNDl0QVozTlBfcWl6WWlvVTZ2YmF0bFU1UThGTHhYb3hhcUhlVEtBc21FZVR5d0ZMaTY5T015QTlLYU9kWWRuRGVqRF9kYnd6RFJFY2w5X0x4RllJYWNZSHdRTUdyWHJzeVpMQjhnczlhX0ZvRmVrR05JODM4VHMwSzZtWHEtY0g?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNakNZcWY3cGhIYnlNSk1nbEdHeVo1YlhkX1lTSjVDdEJFcTl3Ml84Y2pRTkV1cjdLNjFqRURoSndRSVFHa0FOVTF0RlVLWUIxSnl5R1hqWDdPaWlRdk81T2NXYldCRGJ6UDItYmI4aGNoMlVhY3BzSjhQTExqTklaTUgzVjRVMl90MnZjYV9GV0gxQktnYjhvTlF6amVsWllrV3R3eGp0bXgteTVFWWxVa0l1Vms5eDUtRGtnTFVDREtuNzczTVlsNzZZSTRiS212V3prUjRkeE8yTldYSUZaSFJNekpXbXhsXzRENnRpbXdlMnl2OEVkemYwYXF5amc2QjE3TURSckE2b2hpMmxOeXRqbE9neF9oTFFEWmZSSGs3VF9EYW5KbmthalBsN3p6QldrTGQ4alBWUlRIOE10WFY4ZVhXSVJOYWowWDZmLWtsN21LQklsQ1YyUDVxb2lwNjJ2bWh6cGVBTnpJckRvVUpJOXN4Q2dES25Uag?oc=5"
     },
     {
-      "title": "美股初段個別發展",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pQkQwVXlsa3ZWR2hMRlJwWkEtbmVBVDVxektCQzRwaXV5TTRHZFB3WFBxZHYxMGpzN0dkWktLQVlJb3psVldiTWZHTy1NUVZielVGelBpZ3B5dmxxNlhENEhMdjA5X0wtSFo0OFZUSQ?oc=5"
-    },
-    {
-      "title": "更新：通脹數據超預期推高聯儲局加息概率，大型科技股重挫拖累美股指數下跌",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMkw5TDE4TGtyRGZmb2Vfdy1LYjVXNzdoTGhGRUhiVHRVZ0FnVF9mZk95b3gyYWhRWklOWlRPTEw4dUM1TXJPYXBoeC04YzJxeU4zUU43VzZYWHZudGtrRi1WZnhScjIxaGliUmgtZ1RwcVQwdWVHMUczTnNPQnRSWGxpQm9sVjY5eWlVd0RqOW11Rl9PZDIyOC0taEJyV2g5WU5Caw?oc=5"
-    },
-    {
-      "title": "美股走勢丨納指挫逾1.7% AMD瀉6%",
+      "title": "謹慎迎戰美股業績期",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWC1vTjkzMUo1TzZGaVJtSm9DNlVMWk1RWHQtdWtaZnpZUkdmLW9GYWstUmMwa2VBZldHZWExNmVhZjk2THpOSVQ2aDd6aGxSSEh3OXBQRXNQYldwbFVRak9qYUxQei1WaWRBOVBSSno1MEpydDhVbHpnamI1TmJ1MXhVVlFKSVN5bWJyNGFxSDBfYVlMdVM0S3hSd01JQTQ3MnVLMElMdnRIWVl1cjUybjMtajNma05RcThZNjBtVnFGa3RlMEVkYXhSdnFucVR0U0s4aHM2TFhZV18xdERSX2VIS3ByLTdCQzRBbnR6VGZhY3Fjd2VZckxqbw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdEllLTRyX1E0ektuZlNDQVVWd3hiemxoOWJpOVhRQUp6U2ZsSk1CU2x0ejJPbWJjMDNlTm5BZW1FbDVzUHkxQWZzOTM5dDNHUTdDcHY3dHRrbHVQQ19qVlJTSWl1MndTU0ZlY3VoVzN3b01Pc0ZqWXlkaDNEdTY4MXg5a0J6cjZEZ3VIdnpKQUpLdFhYTHJwdTE0TWtXODA2ZG5icFhhRkVyb0IyR1RmZTJsQjZZel9aLTU5Zlp4cFlRNjg?oc=5"
     },
     {
-      "title": "美股平靜時光所剩不多 月底起四大事件接力、預期波動增50%",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rVUdxM3d3VnlBc0JsdnVVWW92NjBuRjN6M2VUSHlpMEVqekV2cGxmSlBvQW91VjRTNi1qcUtLbDFUbnJ6aU9mUEVVeHpJZHc?oc=5"
+      "title": "美股收盤／通膨掀 AI 股賣壓 費半重挫4.3% 美股創7月來最重跌幅 | 美股動態 | 國際",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUElYWVI4bHpXNTM5VGVMMWhCU29KMFo5LUhBeWpNclhlTFpDZHBPSVhmU2stMW9ScWM2Y1hqS2dGdWkzUkVUWWRUYkFMR1FmbUxYN0NJMGphN1Ju?oc=5"
+    },
+    {
+      "title": "納指急跌近2% 通脹高於預期擔憂進一步加息",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50QmY3UkZJY1hhY1lLaFQ0cmpfYmVpek9pdmJaT0VQVDViNlI0SWt0SW1WRUVDUTlnazQ0RThqdVZLODA2SE5CSkFKV0RyVWJsNmVOWnFfSVppQUY0VUp3eGRud2J5QmtTSDdicEppVQ?oc=5"
+    },
+    {
+      "title": "芯片行業疲軟拖累納斯達克盤後交易",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGFiVWFlVlRfYVlPdjhNeTVhdUVHUDZ0Sl9VR0dsaktJNGF6WGRfb1lkelNzTS1EclZTZ2l0NDlxVDhkUktseGVEMFZRV1pSU2hHSDd0cTc5b1R1MkU2YjZDSWVQN2pBNS1pRklYUGtvRWY1QXYtOHhlNkY4MnFoYWVJejVPSGtjV05LVlJkZFdWcGtCcGtaazc5ODhlcUk4RDhV?oc=5"
     }
   ],
   "events": {
