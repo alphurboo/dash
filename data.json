@@ -1,99 +1,91 @@
 {
-  "updated_at": "2026-10-14 20:16:35",
+  "updated_at": "2026-10-15 07:15:21",
   "gas": {
-    "current_label": "10月14日 (現行油價)",
+    "current_label": "10月15日 (現行油價)",
     "current_price": "179.9",
-    "predict_label": "10月15日 (明日預測)",
-    "predict_price": "179.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月16日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "白宮新發言人資歷能力惹質疑 - 20261015 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOcUNqQnlxS0htZWFpZFByNVFaS0ZfRTN2RXR1elVNYkVCMGMzYms3cHVNMnREcFUtalljaDI4MWQ5Ymtub0YyYXFONUJBTHpfaEhVRnpUYi1nVEUydDh2VVd0SkUzOXNOaEJsYl9JaVpsZjBIc3dobzB6NGg0NHZaNFVyRjU5RWVkWXR5OHBNQWE4VjNZS01GTTVjaEduVjVxdnZDSGpKMFZ6bDZaOUZ5Nkp3V0l2SnN5blVndVRmT19yLUk4Wk81TDlWNzkwZWpzaXNMdjRVSzFyLUxFeUE3RWJ1NmduZlg1WUI4Mi1GSXY5TTA0dHFtMlpGbk15MkxsMDc1bDJvNmhTb1pEZFBBY0gydUJWYmg1Mi1qTTR4UFRDekJGUUt2cEozNA?oc=5"
-    },
-    {
-      "title": "澤連斯基是否被背叛了",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZlNRaEpYcmE2S1RiZTFTOWNocjlRR2lTbkxmUHkzbkJWOU9aeGZnVDFvOFdseldrMlVKUHNiMTI3dHhVVlFlMWhUZGU2ZlJ5RFMyOTNzOG9JN2o1RTQ5c3NjeXZWUW5fMmdDM0cxNE5pOXktdURFZDUxSzViVlpUOHoyU3RzLS1UYlkxREtmc0NQS0xTUzltMXVCRHBydG00Y3NhQ3o3a1lTbDM5T0hRRFFrdjhHdFd5MTdrOUZfWW5vcm9kaXE2UFF5RlYtLWNLdzJtMkVHYw?oc=5"
-    },
-    {
-      "title": "金價下挫逾1% 美國通脹數據令加息預期升溫",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DWElqMVlGVThOWFpUWUJBeGtka1RyMWJDYmdOMUlwQmEwNWEyS3B0Tlltbnl4MHlIZVpJUVgwQ3prZ2haVkEzZE5SQ0tfc2tPTjUtdDNrdTktX29jdnJ5VVZ4WlVfTWc?oc=5"
-    },
-    {
-      "title": "智慧體將開啟歐盟 AI 的下一篇章",
-      "source": "OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zWWRKZkV3alBRaHhfeElqMTJ1ZEpZSjBnYnVKclZWTDNMVkxvZm1BTEVmRFpJX0pRNzNqX0Z2ZTRDemFNa1ZZbnhhcEg5TTJGOWhIVjlhVWltaGRhSHhYUzkweEktazVFeTFBSTlqRWtUUlVZeVFTa040VQ?oc=5"
-    },
-    {
-      "title": "俄烏戰爭｜澤連斯基稱遭特朗普出賣 烏軍遇襲未獲情報、星盾突限速",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQUW9NbjJvcEx2Z3pKbXRhM3c2Qzgzd3V0MTFua1dEN3g3ZlR0QkJMMmphUmZyZUhGR0RiZ0JMdGRwNkNjMmRQcTJOZW5oSGhWbnowZ2YzWVdpU1BwUGxXcmRVcmE1XzJ0WmdLUWE2VG5pdHNvX3YyQTkxTVBWTGd2SVFZRVg3eGp5TUs0cGM2NVVOMUpRTDJTMmMxRTNJejA0YS1YcTlVdG5kbHBhTHhha05KX1J1LTZpR3RXOFpHcjhZekF0d0ZheVJ3QmF0M0xDRjhiNjBlcG9ZNE5PRDdhRURrendHbTVxQkxYRzByb3NjV25vS0FfMWJsYzRPY2pUSG56NkEyazN6UGh6bk1GSlV0T3d0NGR4WWhzWFY3WXJibUYxTlRhR29COHkzTHN4QlE4eHl4NWFBTUEtRUdRWmRWWmZMdWZXby1KeUR4LVd0dHdpUGRkN3RpdVZiRDFRVzd1cEJZRHJCZFdHSWdFS3BJV1JPYXY0TDAzZXlEUkZBUXdMNFk0Z0dJVHFEanNLOVBmUFhzMTJxRGNBSGhlbHBCNTM2U0hZZU1PQVpfUUpJQQ?oc=5"
-    },
-    {
-      "title": "國際｜俄大規模襲烏能源設施 烏方指控星鏈限速影響軍事任務",
+      "title": "國際｜美國擬解凍部分俄羅斯資產 推動俄烏雙方展開和談",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUDBWZzFSM21TcE1rYnpETFoxRUZOWGtCQnVLeGctYXl0QXNaQ2EycDU4eHJVeUV5NkM5VEpFNVZOd0hQdUtxOFVCV3NVVGRnTVotX1ZqOG5ZWWFvRGhMQ3ZWNXMwcUJiWkdzdXJud2gxcDhvRHNuNGFfdlhRYzJUbG5tNWkyTk9Qc1VnVmdpQnpSTXJlSXpaMjFTOE9LMGtBXzRKY1lfczhmazQ0d19BeVN1WDJ5VlpXWVNzSGotSk44Y3dQRVBIMkR4Y0VfSUowSGhQaTY5QUo4ay1fZG40Qk8xRFB1VmVPLUpWd1pOZlR3RkdGZEtaQjdQNTlIOVlvMHhWdEpRRE12cUZFU2tEazJKaTN6UW1ER0RfS3pPdUoybnpzWUZKVnhxTzhMUzVlSWVfRmcxOFVkdDVwbEQtLS1BTHJEUmhObnRHdGU1dVhkd25YU0t5LVdWTF9BRHl5UFFsMVVsMThjckRoWGh4dW9Ib08zRE9oZ2RMNUtNcllSQ3d0WjVtNllhT3ItYmVOcmZJRFhsR0s?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQbVNnb2Y4ZS1ZVS16VE1xZzZTb3FwSmxwdEVVejV0MzNieHREaEsxcmhJMk8xMnBnb2F4YTJJelFfVFJOa2FZTnlySUtYMmlzRDd0WUpxUnRBXzFfYl9ManAycVBSalRDa0k3SWxTNUw3b0FIUkRJSWpHUGROOFBiUmZEc2lnbE04aklMT2pMcDVNdlJZc21IMTJPYXhnYnhSZ2hSMkM0bG5velZhT3NGcm9yTjM3aGE2dlR6dDVwZ20xeTQ1RWNLYXkxUEhqWEF3dUNFY0ktZ3FyS0tYb3o0SXZRbUlJenBmTGduNHVyMmVvUUNueDZxSlFVUzMzNllqem10ZjBPRFdxTDdfSW04aWRMRWlFYjJLRTNRbEF6cHR2dHd4bVpMUTNTWGhQUTRycWZhOU5XbjNDYzlMUWlDcEp1OTVRRnRCQlMwRFlxT3ZkQkU3V1ZsSHd5TTJkcHE0UjJsUzE0YnBuNlZxbzNfV2lfSFJ5cXltLWlnOFhqcXY?oc=5"
     },
     {
-      "title": "加方回應美國駐加大使警告　稱關稅屬反制措施、非政治干預",
-      "source": "Sing Tao Daily 星島日報加拿大",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNU09tb0t3ZGdXTGlUOTZDV0xGQ1Z3WVk5Wm1zNXk2MUdhNDR0c19VVWo1M1cya2ZRVnN0NU5fU3V0WE9CNWNKdl9JWS0yblZfTEs1a2dEMWg5M2QtNDE5TnI4bUJRTWdZdTRfbDRCZVN1WXFmdFRaSzVGN0RkVG80UjBiR1k5N2Y3Ukl0YU90QXNHMEp4Q0JScGN2Y21sRGtLTWd5V0tHTVE0bHNfbl9PVFNnN0loajlDdF9qa0NYemtKSUNiVHNvVlU4MnlmcjFFQV9SMzFCNkMtNFdEbW0xTFBFZGNPQ3Zpdk9WXzdHRDQxUXo0XzZkRnpwaUhTXy12WXZYSGFKdnl2QWNfeENLYTg5VXdoajZ0SDhrWmtUenBYS0NMUzROY3I5cmRra0JpamlLTXhnQ0I2UEk0X2pFbkJWTnFETWgtTjEwZFQ1SFRES2s2Q0ZLelA1TW5uQk1nUC1UNE9HXzRrdExVOUk1bkVOcTcxc0EyVWZVNTJDUnJ5YTc4X3VyWFFwdFN4UDcyYkZmUVlNcGxpZ3htRTFTSdIBkgFBVV95cUxOdld6RUxoWFVBVXBjaGJTY0cxUEVnVjBqNlZBZE16UHJuMGZ3SVdYbnpoZkNjbzUwZjdlNUxnY0doZ3pSSHNNNXl3YjY4NFNnc0hxa2plcjd5WWw1RGFRN2RkSVF4bVREbDdUQXUxTGFRcjJ3WDlOdXFyZWE5WEk0bThGYjFFQ0NERWdGQ2dzeHBwUQ?oc=5"
+      "title": "美國中期選舉2026：勝負如何決定？",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwLTVJTWdVUkRTU21VQzRkcXRGSVpESk4za1h6cmlLOFBBcVI4NERnOGRvWHRsMnRTbVR4dlQ1bnIzMkNYa2tNYm0xbGJsbzhLbTRxSXdEMGRvVlhDdGJvRDZDbzltdTTSAWxBVV95cUxQdURMY21rMDU1Z0hTVW1LNndfZHhfYzI3bFM5cW5XNGE3RUJ3eUpzUXJvMjZVTXFhV3dycnhSck1lellJRjNoRGNMeWhxVzN6R09iVGI4NWVRMXJwR1U2Q0EtV2JJUzJnNnItQ3I?oc=5"
+    },
+    {
+      "title": "曼谷專欄 - 未來經濟2026: 中美科技博弈重塑全球",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOVXcwYXJZQlNNc2ZEazAzZ0ZFMEJwb0dka0g3RkplaWJMVU9LR1VhaFNhTDJTSzlWTmRIcGxyUkdVOUMteVVHWUNfdk5ucGRXQlJOc19XN0xXQVZzQTUtSWNTU2RuOW10dGQ2Sk5UWlVtcGdZRlRFZERUY3lWMWZ0VzcwU1hoOHRrNWt3RElYWmxfV1F1cE9UVEtKNUc0TlRtM2hsMkc4WlRjeFVONEZmUkJRZjJrMnpxcUNVNVhpbGdrNG5qcnJEWXpFSmZYVkZaeVRjMlhFbnpOM2pmU0hGMklCbGhUdk1CQzU3cEZiMl9uVHZoT0VHV0lHdGdkRFB3WHlrU0lWQ21EcnozSlNjenV5VTlZVjd2VXI3VWUtT3I4TXlpOWtxZTI5S0pOQkhqdS1zSW1IaUp1OVoyU0Y0cG13UHR2ZHRfSlAyWUV3a0dJUDBhTVVJ?oc=5"
+    },
+    {
+      "title": "國基會：中東海灣經濟增長短期內無法恢復至戰前水平",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPeU5JN1ZMTE5BckhpdlYtTW1EdXJ6UHpjbzFGaTRzejBYWWRwV1RLMmFubUs4UnhkS2h0eTZuUE8zclVZZzNFTEUzSFJNVjBfOFdWSF9n0gFbQVVfeXFMTy1fTnlqNEQzeUJySzRlZVQwTUFQZS12cDNhcGNnM3ZYSnhFRmNIeFFRdmlWNnFhV3hSbXVhNUZtU0pEQ0ctYUY3R1JPdUtRZzlqWk9QZEdlODZSMA?oc=5"
+    },
+    {
+      "title": "美國9月PPI前瞻：通脹會再次超預期嗎？美股、美元及黃金迎關鍵考驗",
+      "source": "TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUgweUFhWVRSa3h5Wm05SzdHOEZsejZ5SmdYWFV5Tm84N3B4ZS16QThUeDBkRlpVSTVxQnN3YzRmcG8yczJiWmwwc09yVUJKYnR4ZDBzWUhxRzNKbzZhOGpuV01EOXVXTnZPMXdsNW5SbmFsNzVpWE1MRkJiZzREMUhhLXFIX2pCbmdEZm5kLXZOMGg0djBwOUdaRVpuODZBV1lSRW9rODJOWEFiRWI3eTQ1ZGhNa1FUN3FPSXd0U1NtVC1UcVVKQ2RCdVY3VWRXYVVIQjBSYzZzclJITncxSXRLYzk2Uzh3Q2c?oc=5"
+    },
+    {
+      "title": "砸2.5萬億新台幣買美國天然氣？台輿論批賴當局“搶著當冤大頭”",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TLW0tZXo4Unl0UFpWN2lfVGtKMWhYV3hkbk04aUs5RG9hQWE1VFRyZWhjbnZkT05mYjd1djRQdFB0XzVFdDdEWWtzWDJpbmt2ZnJNZjF2MlB5VURMRDBveDBwNDRDT1NQZFVXa24wQQ?oc=5"
+    },
+    {
+      "title": "油價因荷姆茲海峽油輪遇襲及美國可能放寬制裁消息而下跌",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQMTAtUFFVQjF2SFBnWXZKRDJ4ZWhIeDNVMHFKWEJrZUpMOVFPNVpKSzZad3pkYVRRVEQtT2tVZktjR0dhWXY2a1VQdGFyRUw0NUJkanpacWxFLXpGaUZzdy1MaTlDX252UWNTWnlwLU96OGp2MVJPZFZ2LWhjWGsydzJSaUNxNVg3TXJ0ZU0wWXVnZFdwLXQxbmhsZ09raDJSTjlfaDVrR1kzUHRyVksxM2M1MnVZTG9qYkxtWTV6a2hCZFFQTnB3c1VOa2JtWHgzem93Z05fbWpmUFNiSkVlVlQyVDlNOHc3MTc4UDNrbU5yS2xsM0NBZHJLOGdpLTNqQXQzTUI0Ui10S2dZSzVMeFdsNkFfTmtJczA2d3BqU2lWYmt3d2FwS0tMR2lyVlJXd0VPdUxHeDE4X0ZwMXctVg?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "【美股收市】通脹升溫兼褐皮書示警、再燃加息憂慮 芯片股6日蒸發1.6萬億美元（不斷更新）",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNUFhFcXJpMXdvWHROUmxtMGVBcnRiRnlZRDhvVTFJTjNqeHJuR19XT2locl9nR2k3eGVoX2tFQXk1MmVZUVYwUmpEc05SVUstYkxMUnNKbV9PM3B1MVJWOWplM3VqTTZPUlhCREVxeEltci1oT2RyTVJqaTlSaGw5Z3d4TXNRdTV3czlaQ1QwaXZ2b0FCQmFUU0VCLVAybGVUV1VUakpUSmtlS2Y4Mmd3Sm1abFZ5eUF2VUlaa0gyZ1kzUlZkX2RtSjR0aG1PWUo5WFpvOEg4bWZyM0JkMzNYdlZkVmp3dXJza3BPaTJucENpXzZqNDFXVEI0TEMybWxXTXNVRGRIYU5KMEVBWXhieWtHZEpmWElIZUQxQWFCTkEzcGVyaE5SU1E3UkN6S19RTkpWeXFra05aM3F6SUhjN1owTDczVWg3dExwUl9PanhhTUNKeU4tVW9vbHpoeVpaMFdwbWQtaWJZV3VvbjdwUmJ0WXFrUkJPR0IxMzZva3YwWDgxcWdFMmxoUVJsanNQbDVHcmtDY0kwaVJqSG1KS0lKWUNqQWdPdjNKYWUwSUpidmpSRXVaakJGdi1BcEt1X1BPTlUwSGpYZEFfZTBwT25xMHhKTGhLb3lMbWxLSkJ6blkzU2RzdldPblh4V0dvR0N6LXdYVWZ3QU1jTWRva2NabGp0YUZ6dS1ieDY3Zk0tLTNYeVdHZEJHSWNubnJ2dVpRajgwWDRTZDExdnc?oc=5"
-    },
-    {
-      "title": "美股｜Black Mammoth Metals獲准於納斯達克資本市場上市 10月15日展開交易",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNakNZcWY3cGhIYnlNSk1nbEdHeVo1YlhkX1lTSjVDdEJFcTl3Ml84Y2pRTkV1cjdLNjFqRURoSndRSVFHa0FOVTF0RlVLWUIxSnl5R1hqWDdPaWlRdk81T2NXYldCRGJ6UDItYmI4aGNoMlVhY3BzSjhQTExqTklaTUgzVjRVMl90MnZjYV9GV0gxQktnYjhvTlF6amVsWllrV3R3eGp0bXgteTVFWWxVa0l1Vms5eDUtRGtnTFVDREtuNzczTVlsNzZZSTRiS212V3prUjRkeE8yTldYSUZaSFJNekpXbXhsXzRENnRpbXdlMnl2OEVkemYwYXF5amc2QjE3TURSckE2b2hpMmxOeXRqbE9neF9oTFFEWmZSSGs3VF9EYW5KbmthalBsN3p6QldrTGQ4alBWUlRIOE10WFY4ZVhXSVJOYWowWDZmLWtsN21LQklsQ1YyUDVxb2lwNjJ2bWh6cGVBTnpJckRvVUpJOXN4Q2dES25Uag?oc=5"
-    },
-    {
-      "title": "謹慎迎戰美股業績期",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdEllLTRyX1E0ektuZlNDQVVWd3hiemxoOWJpOVhRQUp6U2ZsSk1CU2x0ejJPbWJjMDNlTm5BZW1FbDVzUHkxQWZzOTM5dDNHUTdDcHY3dHRrbHVQQ19qVlJTSWl1MndTU0ZlY3VoVzN3b01Pc0ZqWXlkaDNEdTY4MXg5a0J6cjZEZ3VIdnpKQUpLdFhYTHJwdTE0TWtXODA2ZG5icFhhRkVyb0IyR1RmZTJsQjZZel9aLTU5Zlp4cFlRNjg?oc=5"
-    },
-    {
-      "title": "美股收盤／通膨掀 AI 股賣壓 費半重挫4.3% 美股創7月來最重跌幅 | 美股動態 | 國際",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUElYWVI4bHpXNTM5VGVMMWhCU29KMFo5LUhBeWpNclhlTFpDZHBPSVhmU2stMW9ScWM2Y1hqS2dGdWkzUkVUWWRUYkFMR1FmbUxYN0NJMGphN1Ju?oc=5"
-    },
-    {
-      "title": "納指急跌近2% 通脹高於預期擔憂進一步加息",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50QmY3UkZJY1hhY1lLaFQ0cmpfYmVpek9pdmJaT0VQVDViNlI0SWt0SW1WRUVDUTlnazQ0RThqdVZLODA2SE5CSkFKV0RyVWJsNmVOWnFfSVppQUY0VUp3eGRud2J5QmtTSDdicEppVQ?oc=5"
-    },
-    {
-      "title": "芯片行業疲軟拖累納斯達克盤後交易",
+      "title": "$納斯達克100指數期貨主連 (2612) (NQmain.US)$",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGFiVWFlVlRfYVlPdjhNeTVhdUVHUDZ0Sl9VR0dsaktJNGF6WGRfb1lkelNzTS1EclZTZ2l0NDlxVDhkUktseGVEMFZRV1pSU2hHSDd0cTc5b1R1MkU2YjZDSWVQN2pBNS1pRklYUGtvRWY1QXYtOHhlNkY4MnFoYWVJejVPSGtjV05LVlJkZFdWcGtCcGtaazc5ODhlcUk4RDhV?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWFYa2o1WF8wWWVKYVRmRlNFZUhMZ1dKSks5dm91aGdUMk5EeFh6Tk0zSTNIbDdVYlBLT1gyajBQMnlGQlN5V3lobDZIdzE0aWxaTVpPaTJMZzNXRkx2YW1qbm5QRHJ6S2dxWk1OTUpfSnpwSmQwVGd3UTk2X1hKUTh6UU1Jd2o2NUJoeFZ5RjdJN2kyc3YzdW51SlVPM1Ez?oc=5"
+    },
+    {
+      "title": "今日英股：英國GDP超預期提振股市，科技股拋售壓力受抑",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQR0NuQkRwME5ITHRRcVltUWFrMWtkTVB2WmRYdWNjZm1kcVlrby1TQTNVWnJJVGxqNndPVUJsZUs5UDM1U01KLW5hS3pDUDMzcm42Zk1Cd21tRHlEMjVvUElTaVFaVG5mODd0aXlwQjltNEtoWTRyNUg3TW1UTG5nN0pxdk9VZDV4ZEZnVVBRWlRhWG5jaHlBU3k3b3FEQmNpeTNZRUluYVRYcVJDT1ZEalVvMG5YbGdxMGhRd25zQkVTNFRZVXZ0ZWtRS3ZIUnFaN0thb2hCRDZxTnEyOEg1dFdCYlo4V1N5R0lzbmlqRDgzMTBmaVU5RkF0b1VfQ0tLbW0wUzg4R0YwUURQeDlBbXJuUjJFT2JST2pYcV9GLU85OUQ5ZkgxTVROSG4wSEIybEM3UjhPZERHTG5kMngwUktIYTdmRDZDSVR4a1dQZWJTUmxLbS1xWWRHbWVtSjlpTllRRGpVMk56aGx2?oc=5"
+    },
+    {
+      "title": "【專家分析】美通脹飆揸美股要換馬美債？",
+      "source": "Now 財經",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xYnpBeWlPQ19mdXZyYVpOeHA4MXYxdmRCd1ZGYlhFTnlUemlDUDRkMDMxSlV0S2xfOWxIUENISjVPcDZ0TnBXUS1mZklHYjR6ekptNWt2NDlXc3hJM01tQWNXbFcyMEVLLUV0YVpBNlo3TTRyWVVj?oc=5"
+    },
+    {
+      "title": "美股異動丨黃金股盤前集體反彈，Austin Gold升5.6%，現貨黃金突破4160美元",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Memc0NjQxYXZJaTlLV2RGdU1VQV81ME1hYVIyUVhpUjRJdkdoR005ZThLSS1JZjRzalpGajlEOEdpanBpMUw5aEFqODZCb05HZkI5cWs1NExTY2ZnN080SENqZWtfMjhiMkE?oc=5"
+    },
+    {
+      "title": "投資機構奮勇買進美債殖利率連日回降| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nWUw4VVFrcDFocy01OHhseHNDM21CWG9vbXlXdmxJZ3JORUFKLWRJY1h3N1lUWDg4ckdKbEJ0MnFMOEhDV1NKcmFTSlJ3cW83?oc=5"
+    },
+    {
+      "title": "【美股期貨】CoreWeave夜盤續跌4.7% 道指期貨升58點、納指期貨跌1.2%（不斷更新）",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNZm5qSTdTSUN5LWpaVm5oMkI0R0E0b05maENJNDhORlhvYm0teHI1RlVyaUI2TWI3QXV3YXl1SnZubUtKTldFWEJpZzdicHJGdjhUOHpIdVpOdG5jMFlKbGc5QzJ6emo3Zk1abHpPREhSc0l6RnhoY0tOUEJ3Yy10WUZ6amliS1IySUNwbHQzVllEN3ZfOG9pVVhZUDJZQmNlTHh5alZtbjlycUVLU3g0WEo2Z2RkQXl1RDdRRkw5enZkYVJhcEdYdmVDRHlhRXdxb2JzMGRSQk5DZld2d3RwNFVXbWN1RXNxMmFKVW5IazI2OENhM2lVa1JTbnF0VGhycGhjV3FvQjBCczJ4NndsdmY2bXA0bFRYVGtlQ1R3ZzMtZUpTWEY1XzUxRk15cmtTa2V6djF4ZTRyTC0tdWFKNnV4bGNXeTM1dEs4cTBUbm1WWGdvaFItdVFaV2E3SlI0azdUc2RIdGNmYU84dmh1VXFsUlYwQU03LWhvYTNlRDktR2g3ZUdBWlFTOVlPcDdSY3FmMDBPcl9uVzZOVmhqenhROHFmdk1ZX1Exa1lzZGtDcnhjVnRibW82bTlSQVJxOXkyakZmV3loVzlwaUx5T2dMcw?oc=5"
     }
   ],
   "events": {
     "macro": [
       {
-        "tag": "CPI",
-        "title": "美國 9 月 CPI 通脹數據",
-        "date": "2026-10-14",
-        "desc": "美聯儲關注通脹指標",
-        "days_left": 0,
-        "status_badge": "今日"
-      },
-      {
         "tag": "FOMC",
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 22,
-        "status_badge": "22 日後"
+        "days_left": 21,
+        "status_badge": "21 日後"
       }
     ],
     "stocks": [
@@ -103,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-10-15",
         "desc": "2026 Q3 業績公佈與法說會",
-        "days_left": 1,
-        "status_badge": "1 日後"
+        "days_left": 0,
+        "status_badge": "今日"
       },
       {
         "ticker": "GOOG",
@@ -112,8 +104,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 14,
-        "status_badge": "14 日後"
+        "days_left": 13,
+        "status_badge": "13 日後"
       },
       {
         "ticker": "NVDA",
@@ -121,8 +113,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 35,
-        "status_badge": "35 日後"
+        "days_left": 34,
+        "status_badge": "34 日後"
       }
     ]
   },
