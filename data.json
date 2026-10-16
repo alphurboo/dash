@@ -1,18 +1,38 @@
 {
-  "updated_at": "2026-10-15 16:15:19",
+  "updated_at": "2026-10-15 20:03:22",
   "gas": {
     "current_label": "10月15日 (現行油價)",
-    "current_price": "179.9",
+    "current_price": "180.9",
     "predict_label": "10月16日 (明日預測)",
     "predict_price": "180.9",
-    "trend": "↑ 明日預測升 1.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "歐盟醞釀貿易威懾工具 擬必要時切斷中國商品的市場准入",
+      "title": "國際｜烏克蘭恢復打擊俄羅斯煉油廠 普京揚言將作出對應回應",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOck9yaWtfUnpxZGthWUtrYXhVc21rYzk1RzdZTzhXS05CZzE0ZFg1VXAyWm11UUg0eUFMMWI0cHotR3FnamM3SnhVUDJJSEZBNWlvMVZ2QWVmNDZWXzZfbFloaXdSS3B5VHU3ZkRSZTVlMWREQkhLRjVCa0VZTzBPOC1Rd01BR19FR2xmaDllOVBVT2ZaZ2ltYXJLNTZ0dXRDdmx2QWJ0RjdtMUQ0OFFhTkpDU3pPY2h1VDJIVUFCYWRmd3hsNWtMWkFGcnBCT2VpcUxxOXVXWVhiZHg2dWk1M3dOaG8wdGNjNmhGV3lYN0g1bDFJcktadVU4NnRKWXJDRkphbWJGc0xaS09mZUNkMlloSl9SdjVZYWtSaHgybzYxWGRVRThHc051Q0FiWHpyRUM1Y25vaVltS2xocW5vXzlYU1ktUVZablpRUHV1NU8tc1JCQ2E1V1pfbWJFdVFqYkQ1TjdIREhFRFljSFFMcl9VTW9Sb0NxUTRoSzlmeFhvMGpHVzB6U0szOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWXJVYmtjTExmeUkwX2hNekhkU294ZXhGa1pLcUo4WGVibHAzdDJXNDFfb3dFNXQtRlh3RDgyX1otWlNwNUl6QzdmanFpZnBuQW9qV253bV9NMW1IcFo0blJiRlFYWVNkVEF0MnlZMFViSnVEQ0NhNlZRZDh1WUhBNFVxaGtZQVQwYUN1V3Y0M3phOF9xQVRXYlhCcVQwZEl3b3BIUTJqakc1Uk9FTWNHRjBhcU44RFNodjJTcHhNU1BodGlCTVFXYXQ3X3ZTWGFDQU9ubHVGVndUaUNQbVMxSlBNQVpfY2NsVVdYbTFKdndKdVg2V3Y1bTRsUTJodnd6WG9kWEhMNUQxRHBnaFhXWWt1X3p4NkxPREc1Ry1OTWNodTFkQnVYNTJaV1hmMnhTS3JnS2stbVNfTUxuYnNtRHlpMkNhNmd6X281dDBjR0kwWEMxNUhyOFo3UHg4TVJFS3Vnb2pvVzJYd3Y3dEUzTUtsbUVUSXkxVWJyQkhvTkh2eHBobnpLRjM2MTQ3MzdNd1JGWkF5Skk?oc=5"
+    },
+    {
+      "title": "中東局勢丨美以據報就打擊伊朗預案進行磋商",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPSjlaVDlyNkhTSFJvdkUtb0UwSktDa2JwX3JkSlRMUDZiWC1KT3U0dHdDYmM4M3htMnA4bEpZUnJBbEpIOTlfM2NQZHdNUkZBUVRWVjRfUXdTdjZpdFlWd3hIalllbmZUTXhfSjBEa2JwWTIzRjNrdWt3dTBsY2RKUW9rY0pfX01pd3o5cUMya3ZmWmxCZlNTQ0FvT1dOMl9wTFd6aDhZNEtUYlVpUG41QzR1ZDBBSmp4ZnJsdmIxREdhcnl5d3dhSEpLaUFYc3dRaXpVczNGbmtUOWVCZm9PbDF3Smp5QjRtZEVNcWdTc2MwbDZZclJoUW5WWWtEbXJoTzh6dDhnc192MFQxZy1ua0dUbDJLVng1MXRRWWFRdjhvcTJDZmNDN2ktd0VyczN6ZlY0bDlWODdrWjViR0V4MDFWZjQ5NmRwdUdrMUxKMA?oc=5"
+    },
+    {
+      "title": "潘功勝：全球失衡不能依靠匯率調節(曾惠琪報道)",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wNmFjUUF4bTN6ZVZmcjhCM1FabjItVjFEd0U1a09IOFpPWEVVVW5QeDBjS3ptdFVBSnZpOGpaZEtmbERrc3NOVUNPZWZkZ1ZGdXl5Wm5qNmtTUEttX3lCdTU0cVpRQndRb0xoSkVR?oc=5"
+    },
+    {
+      "title": "生產力局成立「具身智能國際應用訓練場」 多管齊下助落地",
+      "source": "IT PRO Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PUkN4dlhqVWdGSTFTMFRHd1N4cEJQWnNqTmFfSmxiR0ZWZnpDVFEyV0s1SVZrUHhtYV85bU1DckhHQ3BpYlJnaFc5dzFSVDR5d0E?oc=5"
+    },
+    {
+      "title": "美-中 兩超級大國呈戰略均勢",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUnp2VFZXdmV4bXV4RGZBVjBLdGF5bHUzQk9OZnRtX0U5Z3Y3VUNGaVlLT3pQLV9keFV5bWhlb2tCVy1KRGtXZVBXYS1kdVZualRmTTBYZWJxcFRLdW1yMkZHODRpUktFc3BBWm5qSnFmcE1LMmdRNWxHbHhsWlEyZ2ZmTlM2T1k1eVJURzhYMFZpeU84RmlmdUxLRTM4dU1jRFlkcU9JYV9PZWlxWVA3SzNsVDVpVExFUlNBRFRRNjZkVDRZRm5HYzNUMDR4N2prcnZieUdQcjdXMkN3T0FXeW8tNlE0Z2czRXJDS3EyVjBxZw?oc=5"
     },
     {
       "title": "歐盟召開峰會：對華出口、能源價格及預算是重點",
@@ -20,61 +40,41 @@
       "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOb1ltWkxXSllUX2VXMHJyWDVwQUs2OElKNHZfNlNERU9ycXhPNjhkZXEwNTdIQXVWWjctRzZlR2pocV9yNHNXQ1NyNUdLM2FoakRBU0JZVXhZTkpiMmRBU0dtLXZhNVNEbUZmc2p3WFhTSzg5TFZPbTh6LTJFZFA4MnFwYmgyaUlpTDlsNmNJZE5CbVFPcTh6dU1Hc0FScWcwRUtzaTc4TGZRMlJvY3ZTWlZ3d3pGYnVaNmFDZUFZRUJ4MEhGOFllLWRCY1N3aUl2V1o5NUl3WmJSRm1IMHRjNXhIcV9PeWtXNVdoNm5JMEFVbnRpd3Q5Ym8ybFpJdTMwZjVZRmdIZUpQMEtQd0szd2hBMDRFbGg4UlNFaVFObUMtdDd3TVM1UUZvaHpvUmx6RENqUTU4aVVrOHVFSXRz0gG_AkFVX3lxTE5vWW1aTFdKWVRfZVcwcnJYNXBBSzY4SUo0dl82U0RFT3JxeE82OGRlcTA1N0hBdVZaNy1HNmVHamhxX3I0c1dDU3I1R0szYWhqREFTQllVeFlOSmIyZEFTR20tdmE1U0RtRmZzandYWFNLODlMVk9tOHotMkVkUDgycXBiaDJpSWlMOWw2Y0lkTkJtUU9xOHp1TUdzQVJxZzBFS3NpNzhMZlEyUm9jdlNaVnd3ekZidVo2YUNlQVlFQngwSEY4WWUtZEJjU3dpSXZXWjk1SXdaYlJGbUgwdGM1eEhxX095a1c1V2g2bkkwQVVudGl3dDlibzJsWkl1MzBmNVlGZ0hlSlAwS1B3SzN3aEEwNEVsaDhSU0VpUU5tQy10N3dNUzVRRm9oem9SbHpEQ2pRNThpVWs4dUVJdHM?oc=5"
     },
     {
-      "title": "今日外匯：焦點轉向沃什和更多美國數據",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjB6em8ybXppc3NEY3lvNFRvSWloNVFIbFU5X05OSV85TkpKR2dvUGs4Qk41bzBTc1ZzZXBvd3Noa1lLSVB4ZHQ2OW5wRC1rbzhxU0MyNEUzVERxQlkyaTUxR0hZSTJEeXRQaGJISTZGYi1GYlhtZDAyOVBaaWdfV0NmUHVUT3ZZeFZmRlBtV1d1RG43SFloVkl3T0ZSa2Q5Z1NfeS1wWWxvS0lhdm0yRG5R0gG3AUFVX3lxTE5XYkZsdlVFZkZjZ1lnbENYaTVUeUVadGdjNnFESHZkcTBNdUdBTVA0X2ctbDBlb2tkSWpReExmYnZsVVNOUXhoQ0dIR1RRSXZSWlpENjZWcFdYS0ZrWDZ0SEVUMjBvcWNMeDRIYnc3UmlSV0VxQ0QwYWNwTmdmT2NqZ1ZXQjRfZEJXV3pEaG1WZmh0eWZhdHp2TWF4ZVpQSmkxRHlDQkNRbVktOVhxUkNjdTZENHN1OA?oc=5"
-    },
-    {
-      "title": "視頻 : IMF呼籲中國增加支出 美國增加儲蓄 歐洲增加投資",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOS1MzZXU3VURRc3NLT1ZFNVJiTllSS1NpZXNPYS1ZMEUwMGhoZXNQc1FnNXBpdW5qbjY5ZjlkUWd6SUM5a0d3R19neTBZeDhmTzRRMlhYRDdEOTUxVXFGeFFlOExtRW1WQlB1VkREeDVvYVpkVWlwNnpNM0ZLT044WnpERUZsQVVPNjhrdDdteHpiTGZ3cnJ1aG9TVVJ5LVhxb09aalRhNXRwNjdwQnkwYmVfYnRXNEJhaXB1WXJobE05OWRlZXBRQzRSSm5IN04wRDIyM0JrNk40MXZwdjhSRXZoZTBXY0NIaVBrRktsU3FIeEdfSUhia1ZYWTBjZXlCR2xUdHN2Ql9UWVZOX3pzSWh2TURYY2lQQl9hVVJfbEZ2MENCSk1pT3VGVVlZZTNDZVd4WUhqbzhOb2FTX0xGNTE5M3ZRN1lPNklRdlRtTEZTVlg0aVBHZm81a0R6U3hFNUVCV3VZbDh4RTRJTnk0?oc=5"
-    },
-    {
-      "title": "澤倫斯基痛心「感覺遭美國背叛」",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vV2cyOFY2ZnBRT2Z0WW4xQXBSbV92ZUVGVm5TOEFJSTJSdjRzTUo3RV9MbU1TRnZsbFNvTVlFdmxyVlc5Y2JieS1OVFhjRDQ50gFWQVVfeXFMTm9vdXRGSXl5WTFPUDk5cy1IVDZpMldIRHVzcDJUTnB0LU9ZV05wWmhGVUR5cFdoaFRpV1B5N2wzb1p0V3hacXBTT1RrdXZlQ2R3R0RKYWc?oc=5"
-    },
-    {
-      "title": "消息：美國正考慮對伊朗使用「炸彈之母」",
-      "source": "大紀元",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lQjZKb0d4UWotRFZmRTVWaDNyUVdLUVRic2hDdXl5OFNrQnNKMk5VOEFDWHJWaVIwTDdnRGJnVU1nS2MtRTZhVm1aeUV3N0Fsell1d1RaeHlXY1hSS2dPbURB0gFnQVVfeXFMTm9jZWZ1Y2xwTmFhRHFyRTAyN2NvdkE4aFRDamFMeXJkeU9nc3B0RkZZSkZjUWd4blAzXzQyUm5BeXBERXRmRDhlZlU4eWhTcjBrU3ZCV2hWWjk1a1Z5M2x5RXJEZ2F4bw?oc=5"
-    },
-    {
-      "title": "美國中期選舉2026：勝負如何決定？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwLTVJTWdVUkRTU21VQzRkcXRGSVpESk4za1h6cmlLOFBBcVI4NERnOGRvWHRsMnRTbVR4dlQ1bnIzMkNYa2tNYm0xbGJsbzhLbTRxSXdEMGRvVlhDdGJvRDZDbzltdTTSAWxBVV95cUxQdURMY21rMDU1Z0hTVW1LNndfZHhfYzI3bFM5cW5XNGE3RUJ3eUpzUXJvMjZVTXFhV3dycnhSck1lellJRjNoRGNMeWhxVzN6R09iVGI4NWVRMXJwR1U2Q0EtV2JJUzJnNnItQ3I?oc=5"
+      "title": "專訪｜國際刑警全體大會首度在港舉行鄧炳強憶昔日借調歲月智鬥海盜、黑手黨跨地域交流拓國際視野",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxNdnFESi1KYmdiRkliOFQ4THF5Rk8yUThNcWFCTm1yUWJDYUljM21Xa0s3WFRjd3NDMmZzU1lieWdXcFhaam1md1cxZGdmMm1QSTBOS1RMSTRTcnd2b1Z2Tno3MjNDVHhraW44WUVDWDJwZXNhbU95UjJTY1VOdFVTOE1lcDV0ejNLRDdCemJOUDRnek5jWDMzWThZYkRNUDdIQlkzdWNaS1o3M1JlYW9SOTBTTmxRRXRGejhicVVobGo1NzVVSmhSTElVN3I0UERtenExRDNPTlBFMjRTRXlOVENnendmVGpOQUlGdkN2dnBoMUN0U1loOFRuUmdGY3ZIU3ZLcWF0TmFYdWQ5MXktY1c4dWxMd2xKWDJiZUNhTG1JdHlSaG1kSnMzU0lmNUtoYjZKaHVNdy1nVFFiNDI0X2EwbEFkVU5pMEU1bWFocS1LN2h2SW1iblJxWUdpUkVHQUh2MG1YLXE3RHRRcGJYd3VIU3VITHM3ZTJHT2Q1Zzg5RU5fU0pjRGJnejM3bFBmOXVRMEM1UU5MU1g1NWxVRFVoNkx0YTFtaVFacUFBanVqNGxaY01qZjhKb2h2QjM2akhsM3FXT3ZYbktKbmR2c0pFNmE1T0FoNkVHR2d1WXVubG16NERfeWQ2ZTYtdko3eG14RnZVX2d4c3RGcGJhNUc0N1Rza1VRb2lzblpMRTJYeXYyNjF1WmozN01zYUU2TnZnOS1fM0FYMjNpY1pKcmVtZ1BXU2pfS0tkZ0puTGRMS3dNbEVHcF9JMkRpT0xhN2E3aTFoNEE0NzN1?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "更新：投資者消化零售銷售及批發價格數據 美股大致上升",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQT0JVc00xdjlEUS0xUHk3ODBxaGM4ZzFJWW81RUpCVDQ3UFFhdmxoYUhjS29YeG1GTTdocjJ3Mk0zcFJHQTFjek41MHg0WHhoSTlCZEZPZlJYZVFjZEtVX3d4T1B4dWtzU0xOX01TeTkzSWlMaHFDTmtJVHh6SWJ5T253eDJVUVFHOV9kQkNrenRmWklNR1NlV0lyZkFwdld2TWdWXzg3N3QyeG95Zm5WQ2owUS1GZ2VaLUFUNDRNWS03bUkxeWRBTGluaktYMjlCQmtwbmMtZXhVZ3FoU2I2V194dDQ4dUV2MDdIU2tob21OVDI5eHRkQlRhaHdrNnlUak5YS1FHY1BuN3FNa3ZCQi1FVVA1MVJSRkt0bU5Kc1hJY2pRaUtkMUw4TXdXcWlsWUpLcUE1YzB5YlVoSkVTUlZZSjBWeGJHX3VXeXdoRjRVZGJuUnFFS3AxV2RwLWFhX0tTdDZlSjh2SlFLODY5TmJFWlQxODFfYjdnUjUzelE?oc=5"
-    },
-    {
-      "title": "美股初段個別發展",
+      "title": "納指及標普500指數轉升收市 道指升556點",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zZXQ1RHdZUm1uVWx6c2xTeXdOM0hLZTNjZ1BELWQ2cnJLTjZpRVhFaVlsOFZqbmVkdG40YzNTeEkyZGRXbzdZd2pIdWZ5VzRqNGtrRDV0Z1JVTUpCTjFBcFVSNE5zVEV0R0hkTENSUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zalR3RTdtdHJTdHNPZmhxOUNpdW5mNGgyMlBXNFZkV1QwYmw3MDduRjdFRVk3WXd5b1REaFZwRllfMTJPSGRGNmtJV2JqeE5nX1FBMFhqVk1mS2xUdjloZ0ZGYWxWQVVfTE51SWJnaw?oc=5"
     },
     {
-      "title": "政經730｜美債息衝破5厘 加速科企汰弱",
-      "source": "AM730",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSXFDUHBhOW12ZGJOQ3dySDlVU3JHTmV0LWY5MzFiUHQ4NHBfQ2VjR0F1c0d2S2tndm1UNEZDRmNRWF9tdy01c1BkN21CWXNXbEJ4UHVrOUNGakRmWklMTkVhU1JKWFdVWU0wcTRCSkNObzZFM0c5ZzJvZUswUThQb016NGZsN0lBbThyQ09mZ2NCcHp2RUZMbERuZU1QSGNJaC1mOFVJRjFiUk5XRkxuTjNVSGhITVdjNXhmTlBaUGJLQmF4Z09NMjg5MHUtNF8xRXpyZDZ4Qm54eUI2MjlwYk12TE1xQzRtdXdKRUdhdmMzMkpjVUFsMV9pTVppUDROdjByUUJ0aUpwdjBGUGJPRGpB?oc=5"
+      "title": "美股收盤／道瓊大漲556點 費半卻連七黑 黃仁勳力挺讓CoreWeave逆轉",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wOVVPNU5ZWmlXRmtkYm5qclVOQlFVX3laR2NkQmgtaFkzVXpKcEhGS0Y3VEwtOHhtUkVRTlJWUzFVWEpHaGFwNFZ0Y1VEVEZK?oc=5"
     },
     {
-      "title": "大戶手影｜大摩5.6億力撑一科技股|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTUZuVzZXOHo4a01xNW4wTDJPZDJFRldlY0gwMkFnUWtQM195NjBQWHlITTlORkRhQjgwczZpZGlrTXpxc3FURkc2aXkzd25Zd0pWa2RZM3NIbFVlbHNUbVhiY285UUN6SWNsbkQzU0UzZllEUk1Fbi1Gc29CWU5UX0MwSWhmVU9IaE9fS3AyMlRldXlESTNPcjJiYnY3eDlEbzFlRmN2akVyczN4dF9tMWpFX0xpSHFESE03WHVINi1yRXhDM21HRlFMU08teW9MbFB6Z19waWp1NDc1WEFMZGk3cHRDSldId0ZIOUxGVDdnVV82T0c1ZkZzMWlwdw?oc=5"
-    },
-    {
-      "title": "美股動向｜標指逼近歷史高位迎第三季業績期，大行指AI與宏觀因素成關鍵 | 即時新聞 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYmNlRk00UFBVT1RpWHFuX3BwRmpYSWl5X0ZsSkpxZ0ZFUmNLQUhzWGxWWVVNQUVDdjU3NnR2c19fM3ktend5XzZQZU1ZSEkzQjV1VFVCcEFBcXlqTFJqTERQUHFqY0wzZEFwekc0d1JRNUpGMEVKblJxLW9pRzFPbWtGU1JQd2luUWVYbVlzQmVFLWNuaHJvOUM5M1loSGRB?oc=5"
-    },
-    {
-      "title": "美股走勢丨道指早段升逾200點 納指跌1%",
+      "title": "美股走勢丨道指收市飆556點 美債黃金受捧",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPaENZQnFEN3ZTU1diYW9mQWZld3I4T1ZTSjV2RlpLbHNtNzVQQ1c1UzR2VElfTUVqNmhEekZCZzBZY1pMVW9mV0Q3Vi1FYjY5SzQwWGJLQ29OSUQ5STlkMEdWMXJEeDNmaThrbDdLQVltcEk1VUZ0RmVNODVTS3ZheUdBNnJqMHpCQ3hUek8zYXVHeFBURG5aaElBUzlQcW5VYVI3b2VKc1dhXzZ0RFRESE9oSEY2NzZZdEphdWd5QmNLWXZLUE1IMS16clRSTEF5T2F6Vk5YV1p1STBCWmpQckpZRFd5VV9pSkN1anZnNm5RZ3lvVkxiQTZ1bU1vZFFyRFZhQndKRThVN1h1bHNDZnNQMXZZcllIXzV5WjBsMFlKaHctTkFObWJoNmdSQkk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOYWE0TldBSnpqTXJSTnRud1dDNHhMMVNNTG95bnplaUpaZmxaUG1yWWI2em9ucjN2SExYUGpzVDRRT0N1aEQtbGZXaTMxXzFmSTB6TmlCTEw1dzZqUkVPajZLWjV3ZTVnLVVjTEU0SUg0eFdRdDEtTEQ0alVUdnVjLWJuSEg3LVd1LUNnSm1tVGZjVzQ5c3YxV0V5WnVYQU5WTGRCMVB1c2V0aFNuM3gzNmdKM19USTFyNHlWTFUyZi13STRwMXNoblBoSGhzcXVBZjFLQVNyWmowbEVNUE55ajRsUUJnUDJEQkNRdGEwaVRtSG5ubzRnQ3RPWlFXVmFjbzhHd2JUQ19sUVM2Ni11cHlDemhNcmxwQjFsa0pWdmJkYkd2b0NZS2FvQ3pCbm1FOTRV?oc=5"
+    },
+    {
+      "title": "美股收市｜道指飆556點 納指轉穩 美債息下滑 CoreWeave倒升6%曾挫近1成",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQV3dYRGE5Q1RSWFFRN1BqRGo5ai1OUTBvY2NNNGpqWElKZ1hMZVhYRHFZWkJMZGF2b01hTVlTS3k0b1RTOGtMUDQ3XzE0WmxOVmFQZm5NakFGTHBoODRFVXRvSVFrOGo0RFJyaFk4ZWhoOTdpc0VzZnlnSkFzeEJOV2h1QWhGWG1QaVMwb2lzek9wY3hXZlpMR1YwZzVHZ2RNT2FGbjdLcDhLTEpuRlRLWHdBX1FSazZCOXdPVGJMVUZXYzBGMjlfOERTU0VRQ1JwVmFoVWw2dUQxM0ZIUVR1a0phRE9SQjI0bXZsc0s5RGRERFd6M2prVkJFUEZzS3VrZVVHMHQyQWZDQlAza1NSQms4Q0ZINWxNWEt2dFNYUDRZU3djS2ZCSEF4d3VXNW02b01LUHY1Z2U5NHgwS0pFVERkU0g4Y0pNOHRzQkY2WW5hVUttSzR4SU5TY3YzdU1HNm9vanBZTlpWZXRkOVE2UHRmVXY0SDYwazNsazdQbVZkZWdKQ0RMeWJsWlNlVjZmM1FMUQ?oc=5"
+    },
+    {
+      "title": "不再只追AI 華爾街重新擁抱巴菲特式「無聊投資」",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPT1hqOFBYczc3a1V2VDVmMWpaUGVqUElHek5ZQVB3dDdCQk5naDRJVnZOcVBGQzl1WHhad2l3NDZFZnB0YUVIV3ZXMW1odE5ka09DcVVfd05EMHhscll5eTBmSk82OGFmS202SUNMTGxnbWVFREJoSHg0TngyWjJhVWFWZXNmSTM0RkZvUzFEb2N2MzlIWG9uSkdSRVUyejVzd0ctX283ZmxlUm9GTDNBU2VQRTVSWlZ5NWNHUlJ5R1ZZWFZ6RFJaX2M4dlJ2bDZ4SzRJWlFlZk4xV3otYTIyWFIxWGpab0R6NWd4Q1FEN3VMMVBabVV5RlhRQmJhc21UZ2dvamlxbFNId1NZZTROTG5XTC1IWnVFcmFweEY0Vy14WXV2SkhFcXM0S3gwQlpqNVJhbk5sRVM1elpwTk9EdU05Y1UxUms?oc=5"
+    },
+    {
+      "title": "美股三大指数集体收涨：Circle（CRCL）上涨9.50%，Coinbase（COIN）上涨6.62%",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxd2FjOFBPZmhpeDVvcWVleUxWSFN0d2lEZ1ZZZGJ3aUw0YzBPQlV6NVJVYkw3VjhYdmdfSzBNVDJDVWVCNlpxeVIzQ1lveEw5a3JOZURHZDZXaTFlNXpkRFk2UUV5dw?oc=5"
     }
   ],
   "events": {
