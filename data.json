@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-16 16:15:20",
+  "updated_at": "2026-10-16 20:08:32",
   "gas": {
     "current_label": "10月16日 (現行油價)",
-    "current_price": "180.9",
+    "current_price": "176.9",
     "predict_label": "10月17日 (明日預測)",
     "predict_price": "176.9",
-    "trend": "↓ 明日預測跌 4.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
@@ -15,41 +15,56 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GUG9GUFFlOElFLXhyeUxvUUxsOUtnMnRDcVJuTHV2bWxaWC1YNlI3a1Brd1F2bTRybGZaNG1SRUtHVXFHNVN5bkdvV2wwME5jdHNnS3VlT1JLZEswckFtUFFNbmhKZkFabmw0UXEzYVdKQQ?oc=5"
     },
     {
+      "title": "國際｜伊拉克稱中東戰事至今造成當地約600億美元經濟損失",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNOVdackNfdnNMWEVXd0hXMVVqN3dnMndfQkJTZW1kdTNFQ3FfTGJJaEMxVmhPeXpacTVLREhOby1WSENoRGh4SnpqOWprWUdLdExVeWlJYzVoMWphSWU1VWJjZXE3Z1NTUnlvOUpocVFYdkhyd094ZXBWMnN4S1kyUlBNaTBVanVGczVsYmZwSE5jS3JfaVdSWjdyTVViVDdFVmNEQlVZbnNXU093Y1lDRW9iQm5BaUpiY1ZLSlhYTWxPYkpueXZ3M3hGOC1NQ1VpSEs0b2VIRllKUDhzWW1ZNTJWWmZlWGpNU3dnUkQxQ0VjZk5BUmFnOE00NGpUM0Y5cWVuWGFOcGhtbjZzSUwzc3lRdHY0MGMxLV91WXlkdkxreHptREZWc2NNTjRjMHRGXzVPYlNINUZaRHFLaEZLY1ZMNG9pZXpvUXBZRDNpaERSTEtMQU4ycjZfN3JOS0pRNHhibFpSUHZaLUxVV0gtQVJiS3BHNW14aUhsWVFySkg0cVU?oc=5"
+    },
+    {
+      "title": "歐盟擬12月實施貿易多元化措施加速降低對中國依賴| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uakN6WFlQbTVfeXFNRmZxbzhYeGk5LV92dm5tQ1dHQmI5TDhqM2p4TmE5UXVaeWEzZV9NME5ET0liQndWMS14c3g2MUhxa2M5?oc=5"
+    },
+    {
+      "title": "澤連斯基要求歐盟追加700億歐元援助",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LdE5rVG1XaVpBRzBOYzhfM0V1aDQwaFRFcDB5WDBVYWEzcmJjVnU0bnZ0S3dobmVRa1E1VlFjT21aOVRKbWlzaHVnV1MzT2VybmZfa05XeDktbURPWVHSAWNBVV95cUxQSGVKcWFtbHF2MWFnclJUcnRWdmNBblhVZExQYTBXM0VKQmRxOWViTFVOdlNPX1Nfb0NUZURzRW81OV8zbVBRNHpUNk9ramRnbmhrY3NZaFZocHMxWmdJWTZkMkk?oc=5"
+    },
+    {
       "title": "要聞分析 - 烏克蘭恢復打擊俄煉油廠 特朗普說這很“可恥”",
       "source": "RFI",
       "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQZjBxZEFjUC13UjFKTEt1QzRPZ1JWRW5aTlpudFl6V3EtSXB4Y3g0Nno1Y2lIT2FiQzQwakpSbFBkRzdrT1lzNGRIV1VzQ0VxNDFZd2VUM3RLUEdNTlQtMHlRQ2VISE9hUkN5ektCcjNKeDZvQjg5alFIaWdmRW52a1pUUHh0Nlp1YUlhRzBOeVlTTmNnU2w5dEhGZF9DcnhfRWRRYXdGemk4VjRsdE5yY0hEcGphcmpIWnZsRnJqUk9Bc1N0V1NGOFhKTkVVbWYtTlB6aS1KdnhtbkVUcVVuN2RNWW0waUlQNG5DbHE0ZHRZN21GVjQ3WTJDUmpfcG9vUk4xNG5PQVFvRU5TNU5DZjJSNFUwVThocGpFNXU5a0NtNXBQbkE0dEltT0IwTUNfM2duRmZUZDhrMFZNQlBYM2VHYVRrWmlQdGlIbHZWT3ZXU0Z5RjZ6ajJvNEJDdm1kU015QTd4c1g2c1E1WFVhZjVOR29JZ0hidy0yZmFpaXRmMXo1dFpkMVM2SW1qb0E?oc=5"
     },
     {
-      "title": "不只油價在漲！美國進口物價創逾四年最大漲幅 Fed本月還能按兵不動？",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQU2NoYVBIWWxLM29XYjlXRDBHWXlCYzI0Rngwc0xGa2ljMXEwVWlNVmpabVhNOTB3WlJVOXVfdC1hdWQtbEZSSlY5eUZMMlNIR0pFdFJrRGpvZGk4ZzNKa3d0NUVPWkhZVHN2bjZ4QUdZdmFvMnl6SUIxMkNDbTNpZmVyVW51V3BVRlhmb0xWdFAtRXlscHBYQXZJcDdyRW9TSEkzSTMwbl9KaEJfckN0S1I3bk1rNFBrcmZMS2dQdUpISEtIQTJUbDNNWERDWUNzalF3ZktZSkp6VVhzMlloVU00VnVmdVc0Zk1QSFVWQVpKdzM0dHR5SHBiMzJUYUFNekt1dFpMS25qX0hhV0RIRTVsV25xNElmVWNnM1phM00tbXZmZmNMUkU4VFZhNnRqZGR4NERxOVhQQVRKczhweHRSWThxWkdSN3RvaU15NDFFRE80ZjNJZk1MWDhrd1VNZE1SYndCQ3IyeXdxcDktdEJ1QmxIVno0WnBkTkhLYnBsZXIxa1k2Ny00NGVka1ROOFJ4RDNoZWdIeWJEZU9odkg0b1BvcFZjMU1SSHA0OHdyQXNo?oc=5"
+      "title": "上任沒幾天卻爭議纏身 傳白宮發言人被解雇",
+      "source": "Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOLUI5WHp6OFh2enBRZWVUX1RJcWZZQWxJZVpCbnlqeVZGWFcyTGVNdHpyQkhPZzV5ekNwbHAyVkJZVURNMXBsYTMzM2FvNHZLbnlwd1ZGclRFS2Q0ZDdKS3JTdTRpTXJSZXFMQXlZejVyRmJ0MnN0QVZidWNYVzdVejVyZ2lZSUtXZGg4aHdZemJ1Z01wQlE2amp1eGJXa0ZSbl8xWGE2M0VvdFNENDZOWHphT3ptZzk4eUxfblQ1c2VZdTNJNVh3QTB6Q29nRnNIejFHS0taeVFNcFREX0IxcGU3SnBJa3loRWRxRlNycDdMaWFUczRSQkY5UGdCaWU5LVZWR2MzZ2M0enhZeTJ2azhjdllFMVJPWmZxZDJZR21OV1FEVmJRdEY3NHQyZURGelB5WW9sMzU?oc=5"
     },
     {
-      "title": "俄烏戰爭｜澤連斯基出席歐盟峰會促美歐加強對俄施壓 形容俄方日漸「北韓化」",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPR2g1dnNkS3kzblBITElET2pIUjFsdnpJakVZNzFmdks2WGJma1ZfN1RXbjRYcnhXQm9XVXlQdGpZR2xTeDNUWl9EUlJwcXV2TllHZFM1em9IRnZQaU5aeVkzNmVCb2dPdlQyVVhvUmxzYnQxck0tV1JUeFEtdWozUzhMRnp3aUhWYi1lVmRidHQ2V3ZBdjhFR05QemcyTmZBb0hzQlR4ZnN2TGY2RjhMeW1MNEhZUXo1Z3VGTDhtUDJFOEdtSVlaQV8wcFZjMHNTeVh3MkNzbUlsVG5iUG1ZX04tdkRodkM2R213UHRNeHVBaGdyX2dwV3pTN0pjLTV2d3VCS1pGZGZxZ3dyaDdqd2RIeDZsQVpfZUdlZ0dsWEpxX2Q0MFlQVFZFSFRSeUhKcjBTcWdKYlZlUjJ5c3FubkV0MXJRRFFlMko0dzN2VnFxUUROX0xOWjVUeE55WEhoN1JISWNNNWN0X3dhdWEzSFdzVmw?oc=5"
-    },
-    {
-      "title": "美國國會推新法案 阻特朗普與俄羅斯交易柴油 油價即升2%",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOZXdrZDlkUWtWNDdyTjVLRzIxa2p1MzR5c2N6TE5SZDJZZE0tTjR2LWVIN3RRSHh5Y2ZLMFNOcWVuWTc4MTloQldzbWE2Y3cyWnA2VUViaGRIWkZlT05VUTc2TnZQSGxlbVgxQ2pUOTgybG9xZU9iazFMLWppUGtncUpCdE5sdWVOYmJhbUFZSG55MktmaWVzdWtub0VHamFyOXdFNTdKZ1VyRzNqWmRzNkxVRHdaYUF1NlNDRWZ2cmlCa0ZVNHRCTUdsb013YjV2LU9tWWZNajhjdGNQc29UaHAwd0ZzUFMwVFo5NFRlaUNubU5ZV0FfNl9meWxfZFpnckdvYzBsbGluMlJheWcxTHdrOFRDNVFNUS1PaENEYU14cGY1bUtTXzZhR0xEdjFwOVFfTTFJb2ZkdjE3YWdHS2dHdnRyd3F3dlozaGZuQ0c5Q2M4a3hhUUZJLUJjYXA2eUlpeHdEYVV2LWpibWx4bXR5MmUwWGtfZmpsYmZwQmhBWTg?oc=5"
-    },
-    {
-      "title": "澤倫斯基要求歐盟追加700億歐元援助",
+      "title": "扎卡里亞打破最短發言人紀錄 他當年在任11天成度量單位",
       "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBQ01Ocmg0MFQ5V0lfeW9XcGYwV3RpRnR2RXNKeHdib0RaemNMOVU1WVUxcG9BMG1DVmI5cWEtZUhMVGJhbUViZUl0bEptUm9aanp6Smh4MWthTUIta0RvdUtn0gFnQVVfeXFMTms1Zm5MWl93SklOV29JM3VYV18zSXJxNzJLQmlBZXFlY2JteHJ1cy1uWDNEZEZoN2NzUHJjTUY1UXVGbG5NcWltd251M003d0toUVFnMVRycVZiVHhFM3BDR29jTm94WQ?oc=5"
-    },
-    {
-      "title": "美國專欄 - 美國對俄政策轉向 衝擊與烏克蘭關係",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNbjJXOUo0YmhLZ1RlRGlLYlk2Vm0tNHdCMEY4cXRSc2ZnQXlQWTRKbUtQQlVtMjhPNVRwbmhqdjVUcGZGSHRESEIxRU5HWVB4a2JpSTlBOC1Wa0NiSEpfWDFsX0MybnZ1U0RVdkpNZk5PMnJocTMyLXFjelFjWHRmamVUSk9RckZ3d1lrVmJ0SGdEV0RrTjY2bG9PYkl5UUxLSEN1V3V3bFlORS1sMnJVY0dmOFBSZGhXVDlGbFU1OUlFclRjdWNMT2E5eV93WWhfajJvSk9fdWUxd0tnN3JfeC1oNXlyaWRJYjdLUmQwejBYeGJ4dk5tSUFjSDJUenFzZVd6N0NhOUlJMlpPME5CdnFjVkJWUHBCbHpWdHFVWHpLT3QtQlJfZS1zNDZHVmxxQ0lTTmtUTkNiSHpIa1lLZjJjM2NYSHQtQVl0TTkzNC00aHNLcXBPV3VQdDdqTFBEZGdDTUdyWlZDUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zNExhdlpOSzQtWEFrb1Z0RDBGV1dJbTNoRmZWOWlVWktOOGVLeHVZcEU5NFY0U2h5QlBLVGNkRjFQRmNmNlU2X19MWWhPaXhlWXZsRGhfLUZwQ28xMGxlSlNCMDhUbjJTS1g0c0lJdUtUUdIBZ0FVX3lxTE5RMUJWOC1ibHBkdjFOLWNZWWZKakdkTHJLN2Nmc1NFUjJZZG1MOWpEbFh5Q2pUY2RlM2RfTV9NOXlsQ2NaUjA0bG5NbktfSzJ3bUlDNTVqSnl4YkY0aThiemxhdExzSEU?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股初段個別發展",
+      "title": "美股早盤／科技股賣壓重、費半跌逾2% 特斯拉靠飛天車逆勢漲| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MYmxONjA0dHZIU0poUUNjZzY4YTlvVS11OFZ5bDZHdHFCZ3cteWN2QVUtUnhKU3pWekRIbWdzNTE2M2RTVldvcHhMLVVaLWVT?oc=5"
+    },
+    {
+      "title": "【美股收市】布油再觸110美元 納指挫2.1% 兩大雲廠CoreWeave、Nebius齊瀉12%（不斷更新）",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPeW5xcmVURDV0Z2tWY3IyOF9zbFBTcmN3U21Wb25QTF96ZjRHbmFnU3IyaF8wX28wZFhsMzJEZWM1ejI2OW1ObWVpS2wxWTBBX2VqSEo3VVFpdTJHVHVSczA1Wk9oa29nNjA4M2I5alplVm1YdVA0SG4zNGJPVFpqQmo1ZFdsVEliNEN1UzByUzUtZ2tFdEtDT0Ywa01fUXlMcXlfM3c3Rk9WaFpCUlVXTFZzUkNsOUY3SW1uTC1vVzJJQjZjQjZVTmdiZnlMb2VVeWpiaWtXNWNyck8tVFhhSWdvenFCVTRuRVc4bDd5TnctLVNUS1ZqM3VMcG5pTUlFWUU1Y05GbFRRNVRuSjlJc1M3SnBtb0RwaFlsNWdFRmdNTWtEOGtLc2tPZEY4WFBNVkRvY0tmOXRCU0ZPV2d5Sk1wdmtKRFFNS1ZKcWR6Yl9pQjBQbnY3aWlNUE93TTdndUhjT0lrWFE3NkpOS0EtdXF4aGs2ckx2WU51a0VSUTFOdmt0TEZsREFpV0Q2Y25jX1BpVjFjV1pTMVlQWjFjYVRHTm9nQkk3U3AwcEFrS0xWQWg5Ry05RDBpeDBxVVVpVkVXcnJwZk9lUQ?oc=5"
+    },
+    {
+      "title": "道指低收175點 納指挫2.15% AI相關股份再度受壓",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44andibHRxMHdsRElxMlVSM2o4OHNFV3J6Q1F0VkI4V3hjR29DZTJQclV0T1g4QU1aeGVxQ09QYzd5dHB4bWpQTFBxajNabUppSUlESmstMmI4cmQ0aG83bVc5czV0YndEMHpFVURQOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LOVVsdUM1LVVzUENtcXVHNEdjWkFZWmFkSzRUNENNd3J4UU1lSGJ2V0NUeTVuQ0NvUlBDamRURU94cmdLZUVkVXRlN1FtcVFRbnRMM3p0UUIzYkxlNVZGVlJKZUdWSllyckhPMXpMWQ?oc=5"
+    },
+    {
+      "title": "科技股面臨信貸隱憂，美股遭遇6月來最差單周",
+      "source": "华尔街日报中文网",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPclliWFZmTUVYUVFvcy1xU25CV0FTbVZLOWM5MmEzVVpHNC1odUs0MG5ET1VPV0UzZ0EweVFMNWJDX215NUZ6VzhKcmJCSVhoR0pkOGg5SGFEZV80NVpkS0hGeldDOTdESkpvWUp2cHBCbG1DVFpmbGkzZUVNS05Qb1JiMnE5WFVPV3BBS0lDdnF6bEhVdzFtT1dzVFhHTHgtQ3F5QmdEUTFGdDlLSnhfWDRlXzV3UExHbEpDQzNrMTVkV0RDN0VIMDN6alNRcWFCRHRsV0JnemJaNU5nYlhiYjhEbFFpYWJXbjBmSUlNdk8yTTdnSnU3bWl6MkpoM2hkMTRMZHJJbFlKSnMyMDQzcFJ5eUU5bmotamU5WUNXQ2VsemV0ZndLY21IWmZwOHNfdHFKRQ?oc=5"
     },
     {
       "title": "歐洲股市表現領先美股 受益於投資者撤出AI交易",
@@ -57,24 +72,9 @@
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQbS0xRVN6Mk9nbmQtaU1pOUx6N1NRcEJnY0NDUDFUSWVSbEQ2b3JGY3BnYmtRM2F2eHhMb0tTV0MxU0dJS2hiSTJ1ejRCdUNDYUNkaG93SFdNWWhXRjU1ZXRCVXpoLUNJZ3dFcHFFM1pnQmNJWU1qUmZuU01wYXUyUHNJSGVtUjVsMkNBRjF6YzZUMHZ6VDhDd29ZWmJZcDBaNGl6T0doTmF6a3V2bmtJNUJpTDFqVHhtZXRGNlB6R2RQckpqOE5GUlMxVld0ZjhLM3lEbXhiSjJHVHVuRkZZbUJCUEh1eVlpUW9LMnF5Sk1XWFlMNEsxOW5GM2xoaWl3Vm15Vk1NWEloU2I0ZVd5cjhkd3BmdWZNRWhDOTFLTDNBdWhLOWlGQTBmNXBmcGFhM1FXSDdWUmozbkZzZEZuTWFXN25LRWFYcGVxdHZBdmwzZw?oc=5"
     },
     {
-      "title": "美股走勢丨道指逾400點升幅全蒸發 納指跌超過1%",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQVEFfQVVnUmh0UG9WSjFsVWd1MkNQSG1nbksyS1ZDVzE2cmZvZVgtMlhyLWMwYy01d3kyX2NuSVg0eDdTRWFHblFmOU95ZDROQkJVV01Dc0xMSmJfOU5uNFRYTXZVOG0wa19PSGU0NmI5d0FNOV9sY011WXBtZ0VGcWRfRXZscWVzVC1rM1c2UTVGcG5sbS1PTGJVSEl0VmtpZHI2WGZkdkZTcnJmRWpvbnN4QmMzOG8zS25hQTNDczQ4WmY2V2xpREdYbk5tMGE0ZGJpRV9URUM1OEVpdnVyUUJsUm45YnpQcnMzblg0bjdHSWYwQXVxdzgySlNtckxFN0dqQlN1MVBGY0NSYkJORU5SRHc0eGpCeE1ENDh6ZWdjRnc1Nm1IdFJSVHhraUU3Zy1pSnV0OXU3dmd3bW5xTGtONFp5ZWNmVlJYcDhtcHNXS2xCNDB0S0F4X1NBZTA?oc=5"
-    },
-    {
-      "title": "美股早盤／科技股賣壓重 費半跌逾2% 特斯拉憑飛天車逆勢漲",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPNk9BTEFVa0NPSVdlLUE3X0FVeEwtSEpNUDZtWWlfY0FNb3pxSUlqSE1DVW1WbzdiYk1mbmtfN2xkeG14dnNPTTd4RFY5LVotRVpHLWRGS2VuQlR20gFiQVVfeXFMUGhiczZqRGgyMkJSdnZ0aDBpVVBWNmtSQkxhUjIwdWd1TE9OTlpWSFJtV1hNd1RSUzhicEtBdnUyd0IyNGNaUTBWU3JQWHNvNWJ4SFlRVF9sVmU1WHZUQlg2M1E?oc=5"
-    },
-    {
-      "title": "快逃？美股1指標亮紅燈了 156年僅見3次、前2次都出事",
-      "source": "自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HZ0ItaldnVlcxSWQybGVyNXQwazMwOENwM3lTaFJzQkFYN19UQmQ5NXp5bnFQaE9ldmtUQVVrQW5WbnNrY3lNR2RXeFp6eXozaXFGS2tqYUlzWVdlM2Nv0gFkQVVfeXFMUHM4R3VoTWgyM2lkX2ZDamhRRG9mUXlPTmpQMlFqTEFZdGFKNDVFaEhwMVhUX09WOW54RFR0UXZhZUF3NV9tZ1d1eVVrcl82TVhlNlF5eDhCMFdFQ2hBZ0k0bGFnag?oc=5"
-    },
-    {
-      "title": "美股動向 | 美國銀行擬發最多四批投資級債券，年期最長11年",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0hRaWNHZFFFNUlWdURXa2JXRi1kd2tLOXpRbVM3ekhfclJHYUtnZWlKNW5neGhZaFVxelg5a25xNTgzV2pUNGZpU2JqYkFGRDJrZlFadW5CWERtYTZESXJfT1pKa21nSGE0cEt2OTRQdW83LXV0Wk15cFVQX2JRWVhVZEZzemdBeTlnWUtTaTZhQUlJTE0yc1g2elJhTVpN?oc=5"
+      "title": "美股日誌｜股海沉淪 金油齊升",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOEQ4dnJheVdfRmV2ajFESm5Mc2k3ci1DVklYVWZxZThndGJEV21Jb2VHYnZ6QWRCU1NFTVpRWDBMdjE0WTdrTDJuVWFZR3dWMVR0bkcxODdKSER5TkZSTnJuU3JVeXd5RmFURE1IaWs2TC1LblJkVl81MXhuV2N2RThDNVota2dlQmQwbF9obXhXcW11ZTdxZDBROUZ4TUk3TEJHRko2SElRTkU2N3BwUnZqYnFkWHZaSXZzR0N1OVBZajFPRXBuNFlYaEdneFVLWlkzT1Y0RU5sc09WMXdPd2IzZTZtU3duYUNuVVdB?oc=5"
     }
   ],
   "events": {
