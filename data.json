@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-18 07:15:19",
+  "updated_at": "2026-10-18 16:15:19",
   "gas": {
     "current_label": "10月18日 (現行油價)",
     "current_price": "178.9",
     "predict_label": "10月19日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "178.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "共和黨議員抨擊特朗普給予俄制裁豁免 格雷厄姆之妹指要和特朗普座談",
+      "title": "澤連斯基：若美國站在普京一邊，將是歷史性錯誤",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPXzBPQWJVRmpZQlNmOE5Ma0hGZFFDempzdTI1U3BiZGFDUDdNQzhmSUpzcVhqdWNyVzdTX1VjQmg4UjZfeEM1V0dXbzZTX2dyLTZNVTZ4SEVpa0tXUUhfZ2pyUlZ3YXY4R01jYm1fbjVVWW55aWtzS1Uxd2MyMG15d1hudlZYS1RpUTRRMWZqOEdobllnR1liWHh0amQ5S29vS2Vzcy1fZWZzYnFoeTBFZ2pPSWhhVjNDMTZuLTBLRmdCQllaY2NSTk1jSENsSXNVcUY1VkJmYWw0MEtMR0ZVUkZCbzdNWG9sZGV1dlI0S1dfaU1fSktvT0dMaFA4ZXEtcHA4T2tZcFBnbWJ3clRsakktc050cVprcVprZUwtTU9kRGxtaWFYUWkzSlZRbkplMlM3Wm5GUzN4TG5YTjdoVDlWRlJpXzl2Rl9IcHNJVVZkZUMwMzN1UGlsR0JMNVktMXFTaTh4M2tqWTIwRnZKeFNkYXRVc3ZiNnZqb0ZGclFpUy0yQmNwVGE2V2ZEdV9NbGtuaGlrZmg4WEhkVlU1NWx3ems1Mnp1U1BwVjNqV0d1dUZNNlV2UjlTdlJnbURsbjJQU1F1N29vRDJfdkFUMzNWTzg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWEFNSXl4ekQ1UXZTUVFsRUxZZm9ELU1iT2ozakdZaWhZUnN6Nmx0bTZXTHYxeDV2d2RtN3RzWDRoeE1nVnZLNDFGbkV5X3BsQmNjbndUc3QzRmU5MENIdWpDdHRrejB6UUUwOHMySUV5R1VjOGMxZEhoRGJab3dLa2laWXNPRzdmM3lXSmp3a3MwcnFOVVNIbGJnWTVPTWFTRm9yUFhnWngydklUR2d2MVpabUlqTXphZFhaRXlHaGVtSDZnMEFFczZqTklDMkJmamlpUlFrQ2F2RnBTZ3VjV1g1dEh2d1ZaYjdPdWtQVWptakNyUjdOUC1aRlpvcDhTUDRSZnRZS2F2QnhrbjFEQ0NWVXBkWWROdG01a2VuUTBoRE9faDlCamp1dldTT215eG9SUTU5ZXpQOTRQNEJMQkZVNGM5UDhIWFZtOFZYYk1jMHc3SGhvbl81cTY?oc=5"
     },
     {
-      "title": "美國議員擬推《玩家權力法案》 要求遊戲關服前提供離線模式",
-      "source": "Unwire.hk",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXlFSC1uVzZFdkQ4aDVscmlBNDk0UWhmZ2N2NWdVSG1BZk9LNVhuR20wNGoyT21pLXktYWxrdlNES1o0ek11bW4yRjJqTXBHUkR1YzBIdWdOWG1LMndBdm1FS1ZTZUxxMXc2TFk0RGNSWTVyS0JJcmV5aC1jMGVZa2RZWndocjdLVWE1blpUbXZvNmxJ?oc=5"
+      "title": "俄烏持續互轟能源設施　釀成死傷",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05ZUN6dVRFUTYwZEFyek8ySEdBb0VOY0dqZXhWX295Mmt3bkVrajdENjZBYmQyLUV1NW9TRWpCRDNTNDJ6QU9IdXl3MWJGZDY2V21zQ0R0T2JvRzR5QXfSAWNBVV95cUxNRWdHeXJuVTA5MGtRMXNnb243M0J5S3NxTlAzdFlZcjg1Sy1SNGZxNXNiYV9ySWkwSGNSaGNUeEtZSlV1UnRTU1pWTWtzd0ttSWhzSlVMT1VieVBqTVJKUXVfcG8?oc=5"
     },
     {
-      "title": "國際｜加拿大艾伯塔省軍事基地發生大火 當局證實造成傷亡",
+      "title": "國際｜美國通脹覆蓋範圍持續收窄 住屋電費等核心開支仍居高不下",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNblZwa0gtTE9peWlJNXB1dDUyWS1MY1ROc2l3VWRYUmpyWDJNeWhHdGJhMEdmcU1mN0JTWUtIV1NNZ0hoSkRWeUVFTllvQzlaRDd0ckpuWldSNnR4SDJOT2s3WW1qWDlyVjJHTXpENE5EX044T0YtWnhQM0YxeEpWSjBmejMzR0VhVE1lLTB2ZzlLNDdXbmV0Rm5CWldXY3lhMTBWa2d1T1VaMnRmRjNmR2huZkJPRVFPX0twanUzWWRCak1UV1kybnRsZEY2WUhsdW5DMkdCU3pHU3JEaElzU0dvSzFVWjlVTmZua1RBc1ZCcUF6WDktNGJ2WEQ5UjVXNFlEN3JNR1I0QnUxQjh0SllZSjRDT1FDcE1JYWRlZnVLU2lmOGV6V0h0dWlLY2VLN2JfNW9oRnY5OVlzSWhFZDc2ZkhjcTdpVUtUV1pfNGJ1MlJCUkkxTkR2dnBZZ056ZUFnaExHQ0NMakRLY2twNktIaFNKSElrYkdHN2xyWFJwOUVtaElzZnBLNjU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQUjh4dVlOdy1VQnluZUM5Tmp2THFyV1RNSmsxNXZITzFMYjc2Q0FPT1VkNVVNQ3E1OEdNR0VyV19HYzA1VHR0d1ltekp2cDhka2VPMVRJMVlFMUVWcmhvbHo1TUpHaHlGM1JqUHBwSUt0b3d4UGJ3X3ZlZncxUXQ5YmxuX0hzcDgyVnExdjJqc1NkcjRNWXdybUlLTTRJSXpPY2lkU3VQUVVvOURRc21DVy1lb0hyUDdUQ0ZHMURCQTd4NnRfMDBxTjFVVVZvM2RVWUl6bTZ1TzdkQVFuMmg1VkNGdG9kWWowWXUyLXBmTzFMRUMweDVJMjZKVW5ZXy1CLVNVcHZOYlRwQXBRQno1T1l2bGVkV1JJZ1hSNVpfZzA5RXdSampaeFVKeGZmVDJ4em5mT3E5NERfT1ZWalp4bjROQ2lBVUZfQlczeGRNV3hhVFZTR3BXR090VnZabXEzRGYtWVhkQWZXZlNBYjlnNk5LN05HRk5rZFZHYk5lUXF0RXFuNTZCLTRieHo4YTRLN0VCMWJpMUQzNEZtcE8yM1pVTXFVTU5TWThMUWdFRl8?oc=5"
     },
     {
-      "title": "俄烏戰況：聖彼得堡油庫遭無人機擊中起火",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNaEVBYUM4X19lR0RZcXYzWHMzbHI0WDdzbWlOZnNRWUd4NUt4QnVPOWZpTGNBQzB1dnpLNm5maFQ5bVM4YUdSV0U0U25yMVp4WlZMeEowb2YzNTdKQjBVVTZBRnduZXdtVTBnZ2J1M3JyellCTVFWS2pLaTZnMkxYYzV3cEhRbS00NEg2bEtIbWYyQWR4WjRobXMxR2hpZ1dTYm02SHJNcVc5RGl3Qk94bWxpcmYySW9XMTdCR2Z0SDJpeGx4RnlKQk8zcWRrQnRuZ21NenZtMkxYMWZCaERVSTZrdGdBa29lOEN2TU81X091UFBHUnJCbVpTNVV3LWNPb204RS1WQm9tdXhQZENCTU95NFdUaGRVZzZGd3JrUkZpU0FNTVBN0gGnAkFVX3lxTE1DWmZTQjVoVXB0T2p1ZXEzOXdtVEpMeVBQMjB5YlRRem9LbTFwZ3RxYXotdk95SzRZNzZ1TEdHNXhhQk8wTEk4bXppVzFOUVVtUWpXd0FMajBPRGlwQk9nLVdyYkhPQTEtbFB2YXp3T3I1bm1MYkpmZjFyY2VnV25VZTNZSkUyY1dLNHhmYW5xVkxnM2JxcFpvSUVzVnBtdTc2NGtDWFdSWlUwaDU5cjBPazlaRi1CSmQ0T0wzdWoyS3A2R29QT2lGV01wSEpXV2JiLTZrcFdSeFhreGVETmhtdUdtbzJTS1lYOUZmTW0zNTlrQllhRjJrQ2dZMDFSYUsxQTNCeVlKWm1Uc2dLRFNNYlpMZ21WLVZpMThqTEptMVlFaExaQXc?oc=5"
+      "title": "中東局勢丨伊朗:已制定新作戰計劃 不再遵循美方熟悉規則",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNVFBMQWdwdzlIdHAzUTN2eUpPaFRrS0daeGFDYVA0b0N4N01BZ0lOanNRb0Q2bm1IU21rMFJpLUdOZUpSMGVnRENUOTIyOVlUbi05cl9LQkdLeUhlaVlfSHlNQjB0MUxOQUZ3dW5PUFRxLWZvbThBWDBGWUpnZTl2SV9HdWNjSlVCaHFySUxQeVp3T2htVVI0dDJpNXJZXy1Yd0d0bDJ2aHBlNF9rSkdPb3V5Mm9iRVlUYVQ3Y3NqNkVOQ2JwSXBfVzZnY1JSZzRuc1JMV2FMb1pqdzktUXpUYUpyVTNaa3JFLVB2VUpyM19XZTdjNlJvNVFtQWpIMDB6VnhUWGVwMGJmODA5bmdkb0JQTzV5Nkp3RnBZMi1NamxZZnBNTnNqWFN1c0dRdU5WcTRDVEZqZ1RvaV9tb0VUWEhDbzBONlgwQkw5Rm1sQzIyd1JNTFNHQXMxTVM4N295NUFfdHo5M3JTVFF0RDZfd3dOTTRLc0tTeXd0TmQ0cDhFMHc4M2Y1eHRwQms0ZkFiczNxZkVaSmVkUQ?oc=5"
     },
     {
-      "title": "徐子淇不規則鏤空黑裙艷壓全場 與國際猛人Kim Jones同框 談吐優雅被譽「時尚外交」",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOQWs4bmU3OVhfNUxaVjNZMGxjX1ZWNHZJVnJNNTBiTS1nRkVScVZUa3RtVVVvNDJuVVAtZjA2YlVLb2RnNDBrYTNrZ3hHd0lCZGJoNnNaNVFid3ZxYU85SVZ3cDk0RHJiTGJzTHJBb1dFcEEwNDl2VlBCSTVwZkNQdGo1Qm5TMW9kaUp1MmwzaU1SLUYzN3ZZT1hDdTN2OExGMkVWR1FSTUxWOFRFQzZsUURrR1laNzVCVjVOYjlqeE14c0k4VWZ6bDRaSkdPSmx6SEFUNGhWeUh2cm1nR05LLUV6b0lmUGdfRHFRaHA3WTJMZHpwak03MjZfM0lRNThvSXdickNPdDhELVlqWVA0YkNLQUVrTUNIeUFYUHFvNmpFdEZaRzVGSzM0YU1tWHd3Z3JaVms0OHRvd1NIdlFNV2lQeTlxdGFBUEJCemMzZnM5U01QcVViSkNGbHhXNUdpaGw5ZktDazlDM0E5cVhFclFDR1MwOFdQNmZ4MW1yeGhVczJvSkNCMDVETFRIb0daVlEtblBUTHU4YTlyZVJtSUJqa2dwbG1XbVgwbFRuT1M3bUFPSlhDNUNraldndWVMcTAtR1otcWRwdW50ai1PZmlnWEhUazgyckE2Sg?oc=5"
-    },
-    {
-      "title": "美國堪薩斯州卡車衝入足球場 釀2死11傷",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOdHhYaVdOdTRzZ1FGX3JXdWQ3a0xJczBuVENRYVhKMjV3Sm1WSHdJOXlEMFJjZzcyQ1RzbXRNX1FkTkxKZG53aGIxeDA2dV9LNTYxeUV5TnotT01IbmRIQ3JIZnBRaFBqS1JEVzVTdTlCMXFQZ25XTlNIelByMVhWS3k0Ny1BLUtITzZXcGgzbUxQc1RMdWw0Rjc5Y1NpeXo3OWhNd3lnWmFZQXdOMDlpbVRfQWs2aTA2Mi1ROXZ3eW1HTjZ2YkdjTS1aVUJlYmR4UFVQT2VkMlB1U2tTb0xady1EeEFlUmt6V3Z5RDhKQ3ZweEFBalBDY01jblJTQWRmYzFheFo2emI2TzBtbDVmS2hZenYzVldzZUc2ek85eFROODVodUN2NVJxS29IXzljRDZZQjg3TjVocnlk?oc=5"
-    },
-    {
-      "title": "盧比奧率團飛抵烏茲別克 華盛頓加強在中亞的布局",
+      "title": "特朗普支持率再創新低 美國期中選舉前民主黨領先",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOTkhZT005RXl1TmtqeFVNLWVXUS0zNnBmNzVZYUc1OXNhVTlQMXQ4OXUtOTNrdmNDVTlUeERfRzVtSktnWFNFUEZKZW1GNTByclRhc09WZVhtWDVINXNkTHg3NEtmNDZlY3hYOWZHWmZSRXFXeEktTHFSdlVZSDJNRjBwTlBTRGs4UXJ1T3Y3TGNjdnFETnk0R2hQem9yb1p0ZDU0aXVkQ0xSRlRsQXJqNFpJN1JIekZaNlY4NkZ4OUNrcXVhUWpKQS1MSHVwTGt0Z0xUbHB6OFAzaTdNd3pBMmYyZFZiRzFySnFaOXQ1clJDWEo4bmg2QnB1S0Q2dlpFdUVld2xpUEx3dlRmdWNHeHhJTUhIb1NaeUtlSWdvOEctWng3VHFLYnBmRzJuU2xLTWphMy1zXzBjUVMzdlNqSGpyZHRUSWtya0JZb1FkUkktaUloQUp5VWpQWnByS3FxQ2dtdE1PNWU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNbEp0TTFibm1SVl92LTZqYW04RDdEaHpaLVpmSWtkcnB5Z2xRWGdJTk56OG1RZ25VM1JlWHdtdlRIcDBzZ21ZYmhMSDFkY2F3WXg3MFVTa29WMXhMdXd0ZmYtdGU1aGFnS05iV0lKVTNSWFBjMzBGSF8zTDZFcnRzUGIxLUtRcGVBRnEwZmVId1ppcFprRDJhVkZYblhvaU4zV1BsYUwwVUtuWGVQOElaMnFJZk05bzdGTVg2SEV4Y1RmcEJEREJpS2xmMk9JamNBUzdlVWpGdWhmSTE3X3oyRjM2ajB6RmVRQ3ZVdXZkZmlqZ25sSHZ5SnE0SUR0ekZtdnlMcVk5UTZYeURWVTR2dWJ5ZWFvTE1hNVpULURlWUpLaTNmLURmQ3FuYmNRTktmZkdtc0ZuLWRHckZtb01LUUlkd1NaWjNKd0pRa0RLTFVxckhKTnlURDBFVkYxTV91WlE0cWVrZXU?oc=5"
+    },
+    {
+      "title": "國際｜加拿大軍事基地訓練期間火警 釀4名軍人喪生多人受傷",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQQ2NudFpCS1h1Wm41MGh1bVBVV2tmS1YwUDJpUTZUV0dzaFpZQW1qZG14OHNzcFNKMnlIY2lSZ2c3cC1jOGktN3QzbUZlZGFibXBmQnpYVVV2Ml9yMWNlRGNIeDhVYmNEeVlBWmdadU5KeEhhYUsyRlZ3VWQwRTI4T21GUHJ1NXJILUdlRXlvZ183SXM5elRDckpucTZJZk5XY09XZDZadnZMTXRYUkxfZjN1akFtRjh1a1BDZnVmRXgwdmVxejJZSFlLN0tnUndfcXRqOEVlOVd5SzBEOXc0QnFCTzR6dDlEYTQ5T2dwSEYxMUl5UGJuejdoMDA5VENHWGZnUG4wYTVIYTkydGZVSUFxaDFPVHNUclVGcnk2ZS1OMUpjMVl1WklSWHZQeUtUVnk1WGE5NkRYVFFUVDFfbFVCeTMwOEpCUW1NV0VibTJzTUVrRDczdXJadmhoNzRDRkVFcHZyZzY4NHRfbEh6UXRYaFZLaHVjSHVaQWxTblZxUHJmVEpWOUhheW5DZw?oc=5"
+    },
+    {
+      "title": "烏克蘭總統澤連斯基稱美國恢復情報分享 幫助烏克蘭防俄軍空襲",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxObkRjbzhIa0RFTkJaMGhXU1ZWNHBtOEFRd0NKLTlrOXFzeng0a1hnTlVHTEVncU5ORVllN1VfUnJXRVhPQmNORXc2dXFqYTFrMi1XNWQwLUdxSXBmcEZlcDQweUt0Z0dhMUFnMkdSM1owUEVXb1o2YmlvMXFNRWdLZ05TYThMUUNBVWxGYTMyblhDVjFSb3UtMGp2c0ZxQkdDUDJIVEpLd0gydDJ5QmhnTFB5cGRZNDVkYW9RZG0xMVVqenY3Zml0UVZHMWdjOGNSMFpST3lHRGwyU2cwYldvR19Bdl81ZWVQSy1jOVZ1T0ltU211cWZqYkRRYlJhcHZaSFhudUZwS1pHWVpjakg4bmMtdTl3Zm5rb1RFSzVvdFhEcHVOU0FzVTljQWswNi1LV0EtRHhxU0hiZGc4Zm1kbTFHdmZ1eGxhSEwzMHpmU2NZdmZMTlMxWld0bXhZLUtGMkFFTTRLZm1aamo5blFaQkp2cnRmWTZHbHUzRkJaM3JmS1RXX1NxNzEzdHM3WXBmLTRYdU1VNTlFZjBOcU04NzhGdHF5c0xRSUV1SHI5cjI?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "5大分析師AI動態：Meta獲華爾街最高目標價；Salesforce獲雙重升級",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQVHpXYzVfUUx6OHlsQ0hDbGxpdnRMdnpTQy12YS1ualpqanowM0hBQ05tR0xxSFgzRUVuc1c3NlQ0VVNZMDVFWWNWRWRMbnJRSS1DOWp6TUZHOVIzMzJPS0d6anV4cjRxWEdiVGxfUTlLeTJwQ09XdGRxQWQ0b1FXWHNaOVZsYW1FU3ZJbzk4N0VObVc2dXVEUWpmQXZjVlhZbEdHd3lOdmFLVHIxNHI4OGt4dlpOeVdHUEltZDc5YTBNTWJWN2Q0SlAxRWNCQTFtS1JRcFFfRlFSeDRLR3c2WE9odE1oY1pzUjdBekVjVDdVdFZ0b3Y0M0R5QmFOLXBkc2c0YkFWMzR5WGh2Z2tINUlkV29zRXNYOWVzdEhfOWZuUGUyM0t4THhWd1NxOWtucVpONENicGtXendKUl9relFFQkI4LW13WXN1VVV3WGFHV2NZNVRudXRwVjNUenAtWmh5cTBIQQ?oc=5"
+      "title": "專家籲趁5厘入手美債「食息」",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPU0JOMWtaaHBRQUlQbkd6OGdra2ZQcG9mUUZ2RWlybE8tdnNiR052VE5GdThFRlozdHR1cUJFNmtJYTVmZlhSenpOLXVhQWZlb3RyUUhTeU5NS0F0c3NjZER5RzhOSkdiQ0VIT0NEVXVYc3dWZzhET1Y2cjh0ek9JOUkwQjJCZGhCN3F4azB0SkxQaFU0TE9CSDBmbl82THFCQ0JaeHM4bDdqMXFGeHNETjZRWHFWUWIyT0kxdkZNR2FtZmJSdzZUYUVfZERHLUZiNGhTN2hTdkJtSmxua1kxVkpvUQ?oc=5"
     },
     {
-      "title": "聯儲局加息＋AI融資潮升溫！投資者如何部署股票與債券配置",
-      "source": "香港財經時報HKBT",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPaFlJaC1BYXMwYl9uUEcyMVUwbUJfRjN2QXJQQWlzVDAxOUNybVgwR21KdjZVNENSNnFkaS01aWJzVkhseXE5Q3owa1V2UGVfcEs0MDJ5OUNpdkhLSkR1LXp4YWd4T3ZzeklLYVVsRFQweFVQWWpHc08wTGFPNjVaS0JFR2Rtc1JtbElhc2JSeGViaFdqLW9WMzBqTFhMZDhNOTY0UWtDaFJCSFk5UDNGbC1KazFFOURybEtieUwzclZMbGYyUVF5Uy1razlfM2IxVExPQWEyOXk1dURRZ1JMWU12cWlTQlZtd2ZVODNYRDJraDlYVjJxLVpSUDlJOFowdzVEZGpPVkpfRVZMZUJydFcyd1AyQTR5bkpaQnJWaDlKWkxCeEFWZFFpQ0ZxbTRQaWxSbWx1S0h2a3poTWdTX0xuNVhCZS1CaXRkYUxiclc3bzFONndVSC1OdEJtRHRUUWhj?oc=5"
+      "title": "銀行股連跌6周 特仍撐美股史上最強",
+      "source": "東方日報",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVmNLY25EdHFjLS00MlFYSnhxNGZtZ1NfOVBaNTA2MVcwM21UZGdQVmhfV0NRV0lfdUxuTkJVV2xoZGJfX255MVJJSE9QOXpWS1pIUVY5SGdjdmFxV3NkdC1NRGJDaXQ3aHZVNnQwb3U0bDFJa3Y4cUx0T1R6amx6MnhCRlZ3aG5qNndFd2JLeV83dUZTT3R3UTJpUXJJUHE2ei1lVFlLTzFMU3VqRmxqdjlYZ1VTSnJlMkpEbThfZkdQTlVUWENSNnppd3FzM3dfMi0tb2Q3TS1CRGZLM0I3bzVuWXdULUJhSG1Pc294WlBWeVVvczVRU2VhdGN4OHJDY3AtQW5Ob0cxVVp0c3BIblYzdUZGN0pGVmxRU3BoaGNIR2xjczBEaWllOEdCMTlRM21DNEFvVFRMUGZ2YThvQ0lqYw?oc=5"
     },
     {
-      "title": "中國加劇減持美債至18年低點 連23個月增持黃金至2400公噸",
-      "source": "自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FOF82cmtJdjFPQ0FYZ0tyRzc4RVBIUkJSWEJLbnFwMDM0aXh4UEp6Zmg5SldqQkxhNzFDUG1BR2NnZUVOOF80STFRbUNmZ0EtWm9nYlJkbVRoLXh1amRF0gFkQVVfeXFMTTJlT0M2TzdvTy1zbmw5Z01saFI1MzFGRHpfTDVMc2xCOHYxRlNNeHN3cmhZZlk4SDBodkJYaU1fQVJwVUxPZlpBWjlaSEFFRzdyX0RVd3BGNTBoX3RWQ1ZhVE1Maw?oc=5"
+      "title": "美股不僅看債息 長錢變貴是跌因",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObnBPUkpSWTFfR01oTG93SFJuM3RrLUJQLU8xR0FVVEdSYjNnd0FKVVdHRHFTRm4tYW5QTzNJclduUXBRa3RnSm14Y1dybWQwQ3RFT2hFTk5uREFQVGI2N3ExdVdaLWpia0dOZE1RYjNFcWxUOUJRNHFNdUtDWUtRbVJUclNjYXYwY0NGa2Y4bFNCcEtvanR4Tk5ielMyTHVBVTRlelZ1eHJib0VRaGFtYzRCekVsRGR1ZXk2RVNqVXREeDV4UzUzV2ZoNVZ0NzdCV054YVBsTkh6UlI3UENMc0p3dVFOVXJyb3p6cUNHaXBmTnJ5TXJzX2lQUDVTYWlGWGp2eUV0RjdWaGlwcDhLY0d5NA?oc=5"
     },
     {
-      "title": "特朗普稱美股史上最強 標普500指數任內大升3成",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFJOeXZqZlM1NUpWdmhoS1BsQXczY0FpS0I4WDY0MS1KMlpJX2NoeTJqa1d0UjlpX2plaW9zakJVNmZpOW42UUo4UmpXNVlmU3VxZzdfV0lzd015X0wzRzZ3QXYtbzVXQ2ZuZ2Z0VUNMVHNySXpZV1otRFFFenotdVROdXhyMWtTUHNGRkpMbw?oc=5"
+      "title": "分析：美股投資者更謹慎 財報考驗高估值市場",
+      "source": "大紀元",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCS193eXNyTC1jemNnX0tzb0pFREUtSWJZSXlkVW5GbzhMYjZUMVBmajBHLUpTQ0NlWk9OUlZjS25MeDcyX09SVkQwYWx3ZXliYmlnRGs5V2lKaDVRMlotQ2ROWFZXMmvSAWdBVV95cUxQQktfd3lzckwtY3pjZ19Lc29KRURFLUliWUl5ZFVuRm84TGI2VDFQZmowRy1KU0NDZVpPTlJWY0tuTHg3Ml9PUlZEMGFsd2V5YmJpZ0RrOVdpSmg1UTJaLUNkTlhWVzJr?oc=5"
     },
     {
-      "title": "科技股近期正在回調。我目前正考慮採取短期看跌策略，以捕捉這波下跌行情。計劃賣出部分備兌看漲期權，賺取一些額外的權利金，或許還會搭配一些「斑馬」策略。 從圖表上看，價格仍位於200日均線之上。一旦觸及200日均線，我打算對幾隻個股做一波看漲操作。目前",
+      "title": "亞股明開盤不妙？美科技股賣壓加劇成亞洲AI交易新風險| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJb0R2NWFzYlN4WF9WM2p5QVFJV1Y1TlNoUXdMdUZMdkNkZVZNbnhQeURzbWJZbnlhQzM5YWVkdTJ6Vkh2YWRHZnlTMEFSUFZK?oc=5"
+    },
+    {
+      "title": "強勁業績雖然在消化科技股估值，但高集中度和宏觀滯後效應交織，股市走向走將高度考驗政府與聯儲局的政策智慧",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDhKZ2pxbFlDZ0lRRXppQ0drQTY0VGhuZXdEZnFzcVdUblctY2pmejEtbG5tUlB0V3hDXy1JVHhnbV9EVlpianNXTUxHN1VCQnhua25rZzNpWGxIOG95TFFZU3RlUWVWSEFva0hQRG8tdGRuV21wTmt5bFdnTURtQVJBZ01feXl1TVlKM0JiTnU3NEY1SWRROHJkcXVUZjU1dXd5TjZiUQ?oc=5"
-    },
-    {
-      "title": "AI盈利能力存疑、油價攀升！美股科技股迎壓力測試",
-      "source": "搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSy1OVDVCYlFNMTlFS1J2Y0xFc3BGNlotZlVwb0RkY3pmNnprd3I0Mlo1V0ZYN1dTc2hHbzJuWG1pM3hza05Yc1M2VkZmM1p0RzA5WW1aNXB4WTVwcXViR1ZZc3JaWXBXT0ZjMGREaG0zNUxBR2UxZUVxZzhKTjRWYk5yaVVrbFM2cGZNYWhvNA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnNrMm9ncjdSZjR2Y1J5cEtrem5wOWg3b2xtb1NIVmR3cDN0NDNZTWtldElxcjRXSzZ4bXpYaE8tSlNxNUVxaUR4dmRYcHBDUTdDdTZieC13Wm43ZmxiS3huVmxfb0dCM25BeUZ3UGptYnJDWEwtSXJYZERGWUo1VnVLNHIzdEIwU1JzeDg3ZlRJVlBQaFZFRGd6YmRNamQ5czRmMkJjbkRFTHFKMW1scjhXVnIwNnUzcG9RSg?oc=5"
     }
   ],
   "events": {
