@@ -1,70 +1,60 @@
 {
-  "updated_at": "2026-10-17 19:43:14",
+  "updated_at": "2026-10-18 07:15:19",
   "gas": {
-    "current_label": "10月17日 (現行油價)",
+    "current_label": "10月18日 (現行油價)",
     "current_price": "178.9",
-    "predict_label": "10月18日 (明日預測)",
-    "predict_price": "178.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月19日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "德國媒體看歐盟峰會",
+      "title": "共和黨議員抨擊特朗普給予俄制裁豁免 格雷厄姆之妹指要和特朗普座談",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWR6Zl9vVVRMVUszR1hvTHBXM3RzNmhUWXNYb2N5dThXOG9FWHFIRTlweFhidlJKZFd6ejgyTjNGRENWa2JaR1VzTDlPS0JQaUJPS0lESEN4QTVRMXBKWHpSWDdNX1cxRFRyN0pwcDlBTURfVGdzVkJta19mRHZ1ZV9VSmZVOERKODVreDZGUGs4OWpXX1E0NHhibnN5cnRLR2hhMlRISGdJZXFFV0FVTnhfMi1XQmh0X09BV0kxbi1QSjFPSEdBNFRsSQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPXzBPQWJVRmpZQlNmOE5Ma0hGZFFDempzdTI1U3BiZGFDUDdNQzhmSUpzcVhqdWNyVzdTX1VjQmg4UjZfeEM1V0dXbzZTX2dyLTZNVTZ4SEVpa0tXUUhfZ2pyUlZ3YXY4R01jYm1fbjVVWW55aWtzS1Uxd2MyMG15d1hudlZYS1RpUTRRMWZqOEdobllnR1liWHh0amQ5S29vS2Vzcy1fZWZzYnFoeTBFZ2pPSWhhVjNDMTZuLTBLRmdCQllaY2NSTk1jSENsSXNVcUY1VkJmYWw0MEtMR0ZVUkZCbzdNWG9sZGV1dlI0S1dfaU1fSktvT0dMaFA4ZXEtcHA4T2tZcFBnbWJ3clRsakktc050cVprcVprZUwtTU9kRGxtaWFYUWkzSlZRbkplMlM3Wm5GUzN4TG5YTjdoVDlWRlJpXzl2Rl9IcHNJVVZkZUMwMzN1UGlsR0JMNVktMXFTaTh4M2tqWTIwRnZKeFNkYXRVc3ZiNnZqb0ZGclFpUy0yQmNwVGE2V2ZEdV9NbGtuaGlrZmg4WEhkVlU1NWx3ems1Mnp1U1BwVjNqV0d1dUZNNlV2UjlTdlJnbURsbjJQU1F1N29vRDJfdkFUMzNWTzg?oc=5"
     },
     {
-      "title": "歐盟峰會通過文件 要求美國撤銷對ICC的制裁",
-      "source": "共同網",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZbHRSYlZsYjJKSlNJTnlxZHI4XzVMMVo2MW1SQ183RGRUWEdVYWRNRHNZU0lGeW9mUkgzQ2F5UXNfTWpfNVJPS1RzcGVSUDZvbEhkVVBkSF8?oc=5"
+      "title": "美國議員擬推《玩家權力法案》 要求遊戲關服前提供離線模式",
+      "source": "Unwire.hk",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXlFSC1uVzZFdkQ4aDVscmlBNDk0UWhmZ2N2NWdVSG1BZk9LNVhuR20wNGoyT21pLXktYWxrdlNES1o0ek11bW4yRjJqTXBHUkR1YzBIdWdOWG1LMndBdm1FS1ZTZUxxMXc2TFk0RGNSWTVyS0JJcmV5aC1jMGVZa2RZWndocjdLVWE1blpUbXZvNmxJ?oc=5"
     },
     {
-      "title": "歐盟擬再收緊華商品進口 擴至化工機械產業 - 20261018 - 中國",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQdjdqZ1lrNk5PSGVMWEdNYms4N3o0MzVvelFxdk9qVjFuTHg0cjZlTXRFZzkyVnFhMzl1MnZRRUtVWHV5N18tMjJ2RV9yMlMtR2VfUWkyTURLOHZKdUY4dmgyZk8zaVRTQ1R6ZGcwdlBMT2ZzZVdsbHc5MjllTE56RjAzQTJXM256S25wbWxvRkwxQ1ZjZ0xxQmp3SEJrZnEyUkxZbGNVWUoxSlFoMnpFQjRxT3FrMngzQ1RzMHJuM2c5aGNjTHRuZko5UEJydG9fMUZ1RWZpN3VsNjhYOEd4MDRFWXRCdzREV1JYMkZQZjlzRldKdmxOdDI4eEtYamUzSFZrSmpuU3drZFZkeHNIaFU3U0JqQUFnTG5BTFFqVVZBMXdpZFdLNGs5X0tCeHBmU2hURTJRbkhaeVpPelBKeHIxZEFkNFVLMHBBRU5DZFZIMG1nT1FMTjZBX09ZY3puTVZxWTVpb1VmdldqVDFuSGw2RjE?oc=5"
+      "title": "國際｜加拿大艾伯塔省軍事基地發生大火 當局證實造成傷亡",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNblZwa0gtTE9peWlJNXB1dDUyWS1MY1ROc2l3VWRYUmpyWDJNeWhHdGJhMEdmcU1mN0JTWUtIV1NNZ0hoSkRWeUVFTllvQzlaRDd0ckpuWldSNnR4SDJOT2s3WW1qWDlyVjJHTXpENE5EX044T0YtWnhQM0YxeEpWSjBmejMzR0VhVE1lLTB2ZzlLNDdXbmV0Rm5CWldXY3lhMTBWa2d1T1VaMnRmRjNmR2huZkJPRVFPX0twanUzWWRCak1UV1kybnRsZEY2WUhsdW5DMkdCU3pHU3JEaElzU0dvSzFVWjlVTmZua1RBc1ZCcUF6WDktNGJ2WEQ5UjVXNFlEN3JNR1I0QnUxQjh0SllZSjRDT1FDcE1JYWRlZnVLU2lmOGV6V0h0dWlLY2VLN2JfNW9oRnY5OVlzSWhFZDc2ZkhjcTdpVUtUV1pfNGJ1MlJCUkkxTkR2dnBZZ056ZUFnaExHQ0NMakRLY2twNktIaFNKSElrYkdHN2xyWFJwOUVtaElzZnBLNjU?oc=5"
     },
     {
-      "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpbEQ4N1NtQ1M4QTBxS2VxY0xldkxWUFdQTFdJRExvNEdRTFplUVppVm13MlhtMXVlM0x4Sl9yWHBfaDNRXzJ6N1dLTWpJVnhVa0FUbVRIT0c3UTJKV0xud3VPS0d4azTSAWxBVV95cUxQLWhRLXJLS0xTWmwwUGtuNGJCeUg0ZkJMY3J4dk5lZTVsZEo1enlXQUlJN3FPOE9EWlctMTc5bi1oTzBESEJmSFJZaUxEcjNjcUx3UDZYZi1mcEF1aTktZVBLWjBhTXhCQ0plWG0?oc=5"
+      "title": "俄烏戰況：聖彼得堡油庫遭無人機擊中起火",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNaEVBYUM4X19lR0RZcXYzWHMzbHI0WDdzbWlOZnNRWUd4NUt4QnVPOWZpTGNBQzB1dnpLNm5maFQ5bVM4YUdSV0U0U25yMVp4WlZMeEowb2YzNTdKQjBVVTZBRnduZXdtVTBnZ2J1M3JyellCTVFWS2pLaTZnMkxYYzV3cEhRbS00NEg2bEtIbWYyQWR4WjRobXMxR2hpZ1dTYm02SHJNcVc5RGl3Qk94bWxpcmYySW9XMTdCR2Z0SDJpeGx4RnlKQk8zcWRrQnRuZ21NenZtMkxYMWZCaERVSTZrdGdBa29lOEN2TU81X091UFBHUnJCbVpTNVV3LWNPb204RS1WQm9tdXhQZENCTU95NFdUaGRVZzZGd3JrUkZpU0FNTVBN0gGnAkFVX3lxTE1DWmZTQjVoVXB0T2p1ZXEzOXdtVEpMeVBQMjB5YlRRem9LbTFwZ3RxYXotdk95SzRZNzZ1TEdHNXhhQk8wTEk4bXppVzFOUVVtUWpXd0FMajBPRGlwQk9nLVdyYkhPQTEtbFB2YXp3T3I1bm1MYkpmZjFyY2VnV25VZTNZSkUyY1dLNHhmYW5xVkxnM2JxcFpvSUVzVnBtdTc2NGtDWFdSWlUwaDU5cjBPazlaRi1CSmQ0T0wzdWoyS3A2R29QT2lGV01wSEpXV2JiLTZrcFdSeFhreGVETmhtdUdtbzJTS1lYOUZmTW0zNTlrQllhRjJrQ2dZMDFSYUsxQTNCeVlKWm1Uc2dLRFNNYlpMZ21WLVZpMThqTEptMVlFaExaQXc?oc=5"
     },
     {
-      "title": "耗費10年…美國為何圍堵不了中國？演變成「背離亞洲」專家揭關鍵原因",
-      "source": "Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxORmhUcWtqNm5aWlp2dU1yMUZfVVF5d2VHM3lqVUc0dXBla3BKb1V3MEFpVy1MdVVlTHkxaDVjTXdidlZfYllqeE9sb1Y1Y1V3czgzRW50OC1JVG5RelZEQjZxZDA2b3g4anFxdVRnLXFxRTF4T1prdmhzaHFfYmZfY1NfUjNvaDlVUVZvUTZqSlUzMW5mMDJLcF90U2hxbUtFNmdtTjdaNW9RcXFZY0ktdlRHTzAybHVmbm9fM0Q0ZC1nZ0JvanVEeEtDWE85MGI4RmRBbjFKT1ZCOGllUkxSQnB5dGZhbHJIVEdNeHV2LVlWNGJaUDdSS2tsRWt0ZnV4NXU4ZkJrTkRYMEZuZ3I3WmRsOWJRYnliaXVUb2RGSVhiVXhOWi1NVGt1bUZGNG1XRjNfVTYtWjNndTVVemt3blUxaXIwQkdvcjY2Q1BVbWRia2ZCRnRMSHduZEtiX2kyWWQ5VzZmVVh3VU9xSHlEXzY4LTZZYVo2bXlQT0pnNFlFRWpCWURFOTc4M3FtOWtFWXFvUzRDM081cWJTNGE0?oc=5"
+      "title": "徐子淇不規則鏤空黑裙艷壓全場 與國際猛人Kim Jones同框 談吐優雅被譽「時尚外交」",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOQWs4bmU3OVhfNUxaVjNZMGxjX1ZWNHZJVnJNNTBiTS1nRkVScVZUa3RtVVVvNDJuVVAtZjA2YlVLb2RnNDBrYTNrZ3hHd0lCZGJoNnNaNVFid3ZxYU85SVZ3cDk0RHJiTGJzTHJBb1dFcEEwNDl2VlBCSTVwZkNQdGo1Qm5TMW9kaUp1MmwzaU1SLUYzN3ZZT1hDdTN2OExGMkVWR1FSTUxWOFRFQzZsUURrR1laNzVCVjVOYjlqeE14c0k4VWZ6bDRaSkdPSmx6SEFUNGhWeUh2cm1nR05LLUV6b0lmUGdfRHFRaHA3WTJMZHpwak03MjZfM0lRNThvSXdickNPdDhELVlqWVA0YkNLQUVrTUNIeUFYUHFvNmpFdEZaRzVGSzM0YU1tWHd3Z3JaVms0OHRvd1NIdlFNV2lQeTlxdGFBUEJCemMzZnM5U01QcVViSkNGbHhXNUdpaGw5ZktDazlDM0E5cVhFclFDR1MwOFdQNmZ4MW1yeGhVczJvSkNCMDVETFRIb0daVlEtblBUTHU4YTlyZVJtSUJqa2dwbG1XbVgwbFRuT1M3bUFPSlhDNUNraldndWVMcTAtR1otcWRwdW50ai1PZmlnWEhUazgyckE2Sg?oc=5"
     },
     {
-      "title": "新任白宮發言人因表現不佳及律師身份存疑等問題 據悉上任五日已離職",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPcC1YMUZ1bzlxTDc0NjZIeERLdTB0N1lwVURyTmJ3ekU2eDNkYzF4QTNiU04tTWl2dVY5SDBLZ2ZNY1I1Q2RBa3FoSGZEQmRjV2kyTE53LXdyWURRbjRyYk9IMGdGRkpoR29WWlNVWWZQanAtbFpLYjJSZXI0Zl9vRkdjaDhxRzhwSWdmVlk2WDBGTDFsbXVhWEIwbFNPaThDekxyaV91a3h6TzRrZGk2UW5mTjhNUlpkZ2VIeURZX2xLRWoydXIwOExhVEJQcXZtUXV4OHN1c0ZYY0NHNTcwXzl1ZGpvUTA2LU9uWVRiMUlRbTZaNl85ZHRmRlFBM2ZwaEd5SEtvUjhfeU1HRGR1TEl1VkpkNUVERVR3ckhKNUVnaDFnUmtaX3VMOHk0ckRoaDVTZ3V3andWTno5NzNrS3NIMFRWOFZSNTZjUHdRaFFqZDZ6bS02X2t1bFVVVlB0Q0Rta0ZvZm5RaE5DcWRMblh3QW9jU2VsREpjZ1JjNmN6aTgwSmk0M0kwQ1lYcjVwN0h1c3FTa0cwbnZTMF9UMkhoUXNRNVVBbjlDTjBsTjh5QlYzbEZmZ2pNUQ?oc=5"
+      "title": "美國堪薩斯州卡車衝入足球場 釀2死11傷",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOdHhYaVdOdTRzZ1FGX3JXdWQ3a0xJczBuVENRYVhKMjV3Sm1WSHdJOXlEMFJjZzcyQ1RzbXRNX1FkTkxKZG53aGIxeDA2dV9LNTYxeUV5TnotT01IbmRIQ3JIZnBRaFBqS1JEVzVTdTlCMXFQZ25XTlNIelByMVhWS3k0Ny1BLUtITzZXcGgzbUxQc1RMdWw0Rjc5Y1NpeXo3OWhNd3lnWmFZQXdOMDlpbVRfQWs2aTA2Mi1ROXZ3eW1HTjZ2YkdjTS1aVUJlYmR4UFVQT2VkMlB1U2tTb0xady1EeEFlUmt6V3Z5RDhKQ3ZweEFBalBDY01jblJTQWRmYzFheFo2emI2TzBtbDVmS2hZenYzVldzZUc2ek85eFROODVodUN2NVJxS29IXzljRDZZQjg3TjVocnlk?oc=5"
     },
     {
-      "title": "烏料明年戰火難熄 向歐盟索援助6174億",
-      "source": "東方日報",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPTVpYNWlQb3VBMlJEU2tHSzBEX2NHQnVFcDBoYUFxdFBMT1NzcnNIRjhydzc5NkpoVGw3b0ZRbTc4a1RGSi1JRzQ3MlBaZ0hKaGRpRXNzNGhYTDBfUlE1cjIwUkRnSFlZdjdZdWctcXBBSFBSRlBnZ2J4RWJfMGg1bGctVHVjS3hDSFVTd0FlSDVrQ3ozU1ZZOFp4UkxkN1IzQzZMUjdBdm9qTTVVZmw4RmV1OGZrUW85WnVCX285eDBzZGxxSElwU245NFY3WUlUQ2dPNFV5VGlmLXBLZ3BUaGhTLWxMb3RzMXdqYzlnZGxqQlZCazVhR1JxMHV4a0ptTWltdnZUc3RfSEVBbEhpbC1QVXY1WlE2Tnl4YTVrdTRET2J4THBRUFdmNFBEOFhwRVNFSlhYSUtXWXgzTU1fR004aENMNlJNZkFQUDc3TXNnMXF4YUhYZFl5c09LY1E?oc=5"
+      "title": "盧比奧率團飛抵烏茲別克 華盛頓加強在中亞的布局",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOTkhZT005RXl1TmtqeFVNLWVXUS0zNnBmNzVZYUc1OXNhVTlQMXQ4OXUtOTNrdmNDVTlUeERfRzVtSktnWFNFUEZKZW1GNTByclRhc09WZVhtWDVINXNkTHg3NEtmNDZlY3hYOWZHWmZSRXFXeEktTHFSdlVZSDJNRjBwTlBTRGs4UXJ1T3Y3TGNjdnFETnk0R2hQem9yb1p0ZDU0aXVkQ0xSRlRsQXJqNFpJN1JIekZaNlY4NkZ4OUNrcXVhUWpKQS1MSHVwTGt0Z0xUbHB6OFAzaTdNd3pBMmYyZFZiRzFySnFaOXQ1clJDWEo4bmg2QnB1S0Q2dlpFdUVld2xpUEx3dlRmdWNHeHhJTUhIb1NaeUtlSWdvOEctWng3VHFLYnBmRzJuU2xLTWphMy1zXzBjUVMzdlNqSGpyZHRUSWtya0JZb1FkUkktaUloQUp5VWpQWnByS3FxQ2dtdE1PNWU?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "通膨震撼連番來襲為何美債逢利空不跌？分析師：殖利率觸頂了",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1keU5GZjkwM0xJUlVmYW9pU3VkU1hDbW5Ham52NmUxSWUzRUVzRWJDNjhDV25hb1E2ZDRVOHhScWRwSnpCWV9WTTBnQ3RETlQweGhPWktwMmtodERXZTZ3NlZB0gFnQVVfeXFMT3h4X3FPLVFiQ3FzYnkyaHdoVFpsWDRTVHRYbmphdHNMczJRbzlCT1FOTXdCZ0FaeTdaUlFfYkstdUZrTUFHSmh0RUtKVllOVEpZdzBFYlFxMC1wcDBsSEtxVV9rM2VVTQ?oc=5"
+      "title": "5大分析師AI動態：Meta獲華爾街最高目標價；Salesforce獲雙重升級",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQVHpXYzVfUUx6OHlsQ0hDbGxpdnRMdnpTQy12YS1ualpqanowM0hBQ05tR0xxSFgzRUVuc1c3NlQ0VVNZMDVFWWNWRWRMbnJRSS1DOWp6TUZHOVIzMzJPS0d6anV4cjRxWEdiVGxfUTlLeTJwQ09XdGRxQWQ0b1FXWHNaOVZsYW1FU3ZJbzk4N0VObVc2dXVEUWpmQXZjVlhZbEdHd3lOdmFLVHIxNHI4OGt4dlpOeVdHUEltZDc5YTBNTWJWN2Q0SlAxRWNCQTFtS1JRcFFfRlFSeDRLR3c2WE9odE1oY1pzUjdBekVjVDdVdFZ0b3Y0M0R5QmFOLXBkc2c0YkFWMzR5WGh2Z2tINUlkV29zRXNYOWVzdEhfOWZuUGUyM0t4THhWd1NxOWtucVpONENicGtXendKUl9relFFQkI4LW13WXN1VVV3WGFHV2NZNVRudXRwVjNUenAtWmh5cTBIQQ?oc=5"
     },
     {
-      "title": "標普500指數(.SPX)股票股價, 市值, 即時行情, 走勢圖, 財報",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LRUhFRm5JZEFJMzJ0RHBPMmU1Mmpid2VqUUNvWjBxSjhmeHBvRmJRYmNsYWZXNVlPVjBqQ3k1ZTh0N3JrQkNlaW5VSVd0YzJIN2lJ?oc=5"
-    },
-    {
-      "title": "AI牛市4年要變天？華爾街緊盯這波財報季",
-      "source": "Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPcEEzQzA4NFMyZ1d5Vml0WlotbTZHVEExbmtQS3cxTlB2T1dNN0tzRWxUWkdWQkJuSHpCXzllMDE2Q1VDTUZZZkszTm9jXzZxdXU2R1RPUHRscW54b0QweTBLRS1WUFR6STBvb0hUR09yQWZaYkMzVy04UGNzMGtQbkpHcHVCZmRDczdDQlJKX1JJcm1ZdFhYeFItRkdUYXo0azRIVHdlSzZkeHhmcHFEZmVxY1lSdWhLaTNXcmR0UjRIMmt6MWtRT1pGazdHUzh1ajVCX092dm10VWlxSEtFeHdieUR6QXM0anY4Mlo4cDhoWHBORXQ2SjdVUnlUVnRENEw1Y0h4ZnRrZlpORFdtTW9JUk9ncHo3?oc=5"
-    },
-    {
-      "title": "陸持有美債降至18年低點 仍是第三大海外持有國",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ITW9iaHJhMVVHdmFBOENZQ044SUdVbFJyWHpvQk9CaVRZT1BidkhoRTJLcXhScGhqSmRjMzFaNzBRRXhCcUJsTHlSQVhLNVlYX2Q3amtSY0wwVDlRU1dTSElWUHM2VXFjWlFCUl85bWVEQdIBVkFVX3lxTE9ueGNldWtiRDRzeGd4SzFHSU1IWlY3X3F5am9Qb0FoakQzV3hjSHdJdkVfVU81REZjb1VhRFVUQWNhRzFqUGs0QVR4VnMxNV9PeHFla3JB?oc=5"
+      "title": "聯儲局加息＋AI融資潮升溫！投資者如何部署股票與債券配置",
+      "source": "香港財經時報HKBT",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPaFlJaC1BYXMwYl9uUEcyMVUwbUJfRjN2QXJQQWlzVDAxOUNybVgwR21KdjZVNENSNnFkaS01aWJzVkhseXE5Q3owa1V2UGVfcEs0MDJ5OUNpdkhLSkR1LXp4YWd4T3ZzeklLYVVsRFQweFVQWWpHc08wTGFPNjVaS0JFR2Rtc1JtbElhc2JSeGViaFdqLW9WMzBqTFhMZDhNOTY0UWtDaFJCSFk5UDNGbC1KazFFOURybEtieUwzclZMbGYyUVF5Uy1razlfM2IxVExPQWEyOXk1dURRZ1JMWU12cWlTQlZtd2ZVODNYRDJraDlYVjJxLVpSUDlJOFowdzVEZGpPVkpfRVZMZUJydFcyd1AyQTR5bkpaQnJWaDlKWkxCeEFWZFFpQ0ZxbTRQaWxSbWx1S0h2a3poTWdTX0xuNVhCZS1CaXRkYUxiclc3bzFONndVSC1OdEJtRHRUUWhj?oc=5"
     },
     {
       "title": "中國加劇減持美債至18年低點 連23個月增持黃金至2400公噸",
@@ -72,9 +62,19 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FOF82cmtJdjFPQ0FYZ0tyRzc4RVBIUkJSWEJLbnFwMDM0aXh4UEp6Zmg5SldqQkxhNzFDUG1BR2NnZUVOOF80STFRbUNmZ0EtWm9nYlJkbVRoLXh1amRF0gFkQVVfeXFMTTJlT0M2TzdvTy1zbmw5Z01saFI1MzFGRHpfTDVMc2xCOHYxRlNNeHN3cmhZZlk4SDBodkJYaU1fQVJwVUxPZlpBWjlaSEFFRzdyX0RVd3BGNTBoX3RWQ1ZhVE1Maw?oc=5"
     },
     {
-      "title": "美股恐慌升溫！VIX一度衝破22 大戶砸280萬美元押波動延續",
-      "source": "Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNUXN2ZmIyOV85TVktd3MxTzNOd2NrWEloeFlCSDJkTkcxam90YjdHZUwyU054Snl4YlQ0NV9VYmlqMmNfaUNYSHZPVFZrcUJ6LTl1X3owY2J6aDl4WlZmc21VNS1wQ0xKMHB4U3I2NHZsSjZ5VkpmY0FGY2VFZS16RmRreWZhX0RmamF5eEFFMVZfQnhFLS1RUnB1OVRici12VEpNUDNKUk1XVTFNMzV0cnNjNFF3X2J2TGx4OW9fRmk3bFVtWmJwenlnTGRFRXpadFg3dXlIelNNWjVrdGp5NXlUM1hVNjJQNWNHTjQ0MENjeHUyUVp0U0EtWTdFYjZKWnl4b0JrUDhIN1RzQjNBZkwwQms0bjJoTkFNYk8zcUpDWjV2VGRSUm5EQk1wa2VRS1RqYXNNRm54UGYtX2lzTEMyYUc5UlktbGRBckdMbS1vUQ?oc=5"
+      "title": "特朗普稱美股史上最強 標普500指數任內大升3成",
+      "source": "on.cc東網",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFJOeXZqZlM1NUpWdmhoS1BsQXczY0FpS0I4WDY0MS1KMlpJX2NoeTJqa1d0UjlpX2plaW9zakJVNmZpOW42UUo4UmpXNVlmU3VxZzdfV0lzd015X0wzRzZ3QXYtbzVXQ2ZuZ2Z0VUNMVHNySXpZV1otRFFFenotdVROdXhyMWtTUHNGRkpMbw?oc=5"
+    },
+    {
+      "title": "科技股近期正在回調。我目前正考慮採取短期看跌策略，以捕捉這波下跌行情。計劃賣出部分備兌看漲期權，賺取一些額外的權利金，或許還會搭配一些「斑馬」策略。 從圖表上看，價格仍位於200日均線之上。一旦觸及200日均線，我打算對幾隻個股做一波看漲操作。目前",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDhKZ2pxbFlDZ0lRRXppQ0drQTY0VGhuZXdEZnFzcVdUblctY2pmejEtbG5tUlB0V3hDXy1JVHhnbV9EVlpianNXTUxHN1VCQnhua25rZzNpWGxIOG95TFFZU3RlUWVWSEFva0hQRG8tdGRuV21wTmt5bFdnTURtQVJBZ01feXl1TVlKM0JiTnU3NEY1SWRROHJkcXVUZjU1dXd5TjZiUQ?oc=5"
+    },
+    {
+      "title": "AI盈利能力存疑、油價攀升！美股科技股迎壓力測試",
+      "source": "搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSy1OVDVCYlFNMTlFS1J2Y0xFc3BGNlotZlVwb0RkY3pmNnprd3I0Mlo1V0ZYN1dTc2hHbzJuWG1pM3hza05Yc1M2VkZmM1p0RzA5WW1aNXB4WTVwcXViR1ZZc3JaWXBXT0ZjMGREaG0zNUxBR2UxZUVxZzhKTjRWYk5yaVVrbFM2cGZNYWhvNA?oc=5"
     }
   ],
   "events": {
@@ -84,8 +84,8 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 19,
-        "status_badge": "19 日後"
+        "days_left": 18,
+        "status_badge": "18 日後"
       }
     ],
     "stocks": [
@@ -95,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 11,
-        "status_badge": "11 日後"
+        "days_left": 10,
+        "status_badge": "10 日後"
       },
       {
         "ticker": "NVDA",
@@ -104,8 +104,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 32,
-        "status_badge": "32 日後"
+        "days_left": 31,
+        "status_badge": "31 日後"
       }
     ]
   },
