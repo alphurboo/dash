@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 16:15:27",
+  "updated_at": "2026-10-19 20:53:51",
   "gas": {
     "current_label": "10月19日 (現行油價)",
     "current_price": "178.9",
@@ -10,71 +10,71 @@
   },
   "news_world": [
     {
+      "title": "國際早班車丨美國國土安全部禁聯邦文職機構採購和使用DeepSeek",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOaVlwZERWRnZkWl9rUURIV2V0ZnJyRmxvc3hXVU9SWHdFa1VKeWxoWkVueGxXSURiaElTbWVtVFhlemNTY1ZyREg3THdQTW9jenVyakpCeERTbGkzZ1RqV2pfYTFKWUFWME95b19mLWtzNzRLNzZWdXNqdDUtU2d2SVNMSWNBZzJuY3lhREhSWWJtTzFsSVdDOU1oRlR6QmFOcDgyenBTekdFZWNOcHBzbUdfMFVwdnpzemdvUTJXNFZOYzZ6eEdTakdzb1ktWDhCdExBcXNIb0NWM0NsRU1FZldwekRhSXo3QmhWemNqdE1JSldCVnBFMEs1dlNJaDZkVHp3MUcxZ0xBYmRrYnd3NE9SVXdZYUhDVXM1dGJldkpBRUE2T20zWWF5YmR2amRoS3NoTWt6dVN5WVZ1UnhYOHFaRUxnaDdXa29rRmJiQzNOR0xsTmdLNkVGRmVQZmVPNzlEelFkN01MZFNUVDVvaGtWUnFxSlg2UVkyVVlJclI5OVZiM1Z4Zy1TM1RvOWdUazhFQUx3?oc=5"
+    },
+    {
+      "title": "10月19日美國重要經濟數據每日摘要",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYzI4SjMyMVFIeGpLdUZEcGFEbTZHdEtUVVJwT1YzRmJYeHBXUVFsM0JnOTJXcC1yU1JfdUJRUFFYWlZzaS04Zm9jX0xEZFR3SjdsQ09JOGtJZGw1RUltcEVYQkszTzdJa28xcTZYWFJlcHF3RjFaYXh1VFh0SlhYelBpeXRJdTVFUnZDSDBnUUtMWE5RUzBBRHc2bkFvTUVoR283R2haZW9rLUxmZWJjb2xVZW9ybWlvTWNvZzV0c3poUzdmLWs3Nm1Jak1sMGdTX2U2UHQwbUFjOGtBOFJyTUJVNlZmeElWdGZxYl9zTHFocXV0WjVIVnl6WkpCSDRuQnBZTXBWT203aEE?oc=5"
+    },
+    {
       "title": "國際縱橫 - 特朗普一次次改變立場，還有誰仍然相信他呢？",
       "source": "RFI",
       "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNNF9uNUlvOHpJeldKZmVFRE53NFlad0ktRVdweEZDTy0xUkRLZS1yOWF2bl9BaHdpUjhySnZ4NVZNNUtHS3N2eWJKTmhsYmhXZWJHUjF6VktkaDlKOWJVdVB5ZGl4MU1hVVk3T1drcm5ObnI0SDgwd2tXQzg4dUlwVVVJbzFCaFUtbFdDRXpYYlR1TXdQdW95aXRWU2pBd0w2dW1xOWRQS3YtM09jUk9walYyVG5TUElVa0I2X2dUd1JXaE5aUW5xM0s1c0FKNW9tMWpaWWtPRkFUdjI1a25TT1BJY05NUTJITG5HWFg4NEVGZEpudFZidzM4NS1mLXdiRkFDT1lUekZtcVRFeXRSRjNDMjdoUDBQdWJsRDFDdnk3dm1UNENVeVM1dEZvQTlhWmlGT0k3SXRoVnVOOUJ3YUhleFVIOG0td3RGWk1adHRmeFFDNzZ2RzNnRG1FMmFaUjJja2RyUndfblBWZkFYYUtQSkdXcXgzaVplOXctM2VZVU1YUExzWW1zNnlaOE9ySDBTTkpvakg?oc=5"
     },
     {
-      "title": "美國宣布價值約120億美元中亞協議 盧比奧稱美企應與中俄競爭",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQTld4eUVpd2FLQWxMMW1EMXB6LUpua1JqQW5HOHN1ekh5TVl1X2ZTWUVqWmI1aGhqYkRtREMwbGxXZWoyd3lSdlhlZHQxMEstNmxlaU12cHBFbC1tZlFuUXQ5Y3luNkRmWXRFaERQcExrYmx1RG4ycGozbDJ3YmZFZmpmM2k0UWNzaGVOcTYzTmJ0Q0pSeGpVOEJ2Tm96M0FSUHFaQ1p5eGhJalVNSGMzd2RBYUpURmFIb1JHY3BkbTNwNzUwdWVGMy1UYTFWX3RtMGZ6LWJtVVRtSVRQd2drSnd2NTBzWG91dlVmalBYcTQ0blQ1ZVJ5SDRoNER5a2ZrYmtQWVd0RkdLMEQ5UDZDd21jWU9POFN1OWFURmo2bmozS1A3TlN6UEI1S1lKZnlvWmx2ZXZGM1JSbHRvTWRsb0dTZFRQTmdUSU1xWmZBb3FpRE5yZHdhajQ1ajBzbFhPVGJka0hod0xVSExacnY2TEFLUnNaeV9ORVg5T3RMTC1lN2ZrV0FmVXVaZF9TemJXcUJfZ0JzNm10T1E?oc=5"
+      "title": "美國國土安全部禁止聯邦文職機構採購和使用DeepSeek",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XbnhjX0dZbThJX3BBd09SaEdFdjhQdEl6V254Y1pDOGcyeGlESS02bmVtOEY4Rkx4ZTNQa1RkS3owX2U5aTJFS3V2RV8wNlQzZVhYb0h1T2pkNWg2bVhJZFlSdFlhV21fRGZWZ3JR?oc=5"
     },
     {
-      "title": "北京錫安教案一周年 金明日牧師獲國際人權獎",
-      "source": "基督日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QUzZIbm1WUUViSGh4Z1QwdS03a2ptTmVDRC03X1g3c3RQcTZPaFVoaG5VVHhmSWFGV2EzQXF1WUU2YS1qM3o2T01maTNrbmJfVXpWX0l6MmtaZw?oc=5"
+      "title": "金價在美國國債收益率走高之際跌破4,150美元",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVotRXJaNHdtaUlyeXFHX1NVMi1QRGFnWXVWTjBEd3F0ejh2bXpHRENVY1hQSXQ2RUdDN3BTcXFQV2hucWlydjRLcWFCM0w2WXRzTlNyZER1X1dQYnBiay1ZS1dTX2N4enVrQ2RDN3FZOXR2WTdYZTRWV3VnUzVnNjY4UjdIazdZQnlKQ2RpZVZvRkUwS2xSWVBYUFVtenJlZlh5d0tjZndwN2ZsdG8yOTdsWmVpdkZ50gG-AUFVX3lxTE8zbnp4R2JLRE13bmZVY2lONHRKWlVhSVFORWxuemhnLTQ3cFc5UjlYY0hsRi1OREpOaUc5d3h2Y3JtUWxsRWp4T05RaEhGcnp3NzdUbEEySHhtSDhkb3Y1dmhUUmZOU1V1b2tBVEJKaHJxck12bThUYmJOb1FfWlJrZ1poc21kNDlrczRiclRQU0NvNFlPOUNBQzlGZmIzRXEyaUs1amxkMnpCZDZHRDhvemdoWVhmbjNseUlSS2c?oc=5"
     },
     {
-      "title": "馬斯克:將向美國每位兒童贈送一股SpaceX股票",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQYWx6b1hVcnE2SC1iUnBmTzN3YVVFUHVzQXpZY0J3SUJHWWVfUG1aSi03QVI3bldrMVJUbDZyRkRqRUZ1b1RVSXduTjhvWE5tcFFsaGp0enJKaTUzVEg1LUhwR1RVeGZJYnY2akt0bDlaZUhqVHRrdlNLcFpPSEpZa2NNNUpydE9ib3Fab0xJdmFRcV9EdUl1ME1NbjJyY2h5UUFhY0s5eExlT1BNQUIyRVltbEpJcXdyLXRiTW14MWUwZWpVN1dya2dUY2p2b18yb21oZFBlN2RrVkNQdDZJT2RNX3R6YWxYcWpLdEpiSGV4UU4zRnJQbXphSEZkT0NWNFJ5ZnhXbmVXdHhVbGc4c2RCOUtZOVJHM1UzcmZoeXJjZEJVWEgtQ29Xb25nenB2aS1PTlpoQ1ltUXE1enNhTnUxaV9hZERj?oc=5"
+      "title": "今晨國際頭條一次看／傳烏克蘭僅剩幾枚愛國者飛彈 川普支持率31%新低",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vbGQ2NG53N0lGTm1GYWlIa21hLVJxUkN1d05BUlhsSjdUQUllYkREcHlRU2FlNzBUNjUyWjhJQWRwYml5cjlZaG9CakdIZjk00gFWQVVfeXFMTVdIS2J5YlJzOUpnTkxQX1hocGF5Z2k2UnQ1TmtIa3B0U0p5RnFVNzdXYS1TRGFENWk4SGphcVcyMVVScUNHWTFXUk5GVW5kbkRJbDFId2c?oc=5"
     },
     {
-      "title": "美國能源部長賴特：紐約天然氣管道項目可能於2027年春季啓動建設",
-      "source": "觀點網",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44RWZ4LWtFS3pJS1F6aEtoWlJHSThBXzl6VkNFbC03T3FlZS1SRXppLW9XTktmeS1MYUVaRmdoWklxSWF0VHZEbXNrd1JzcUE5el9fckVFMTh4RnZyMHJHeGtIWUc?oc=5"
-    },
-    {
-      "title": "歐盟拒絕美國和平協議提議，堅決反對恢復進口俄羅斯天然氣",
-      "source": "Singtaousa",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMGh2UVFYZVZCV1lKOERMRmUwVkczeXBRc3hzdU1hdDM2cjJ3LTlxcVFWdXBUblAzbUFQOEw5QVJWUzZkenhsR2ZueFN1WTl2ZDg1eTFrRFliVV9Cb25uUkJGYmlBNV9GUml2R09BaDRrLUdKSlk4MXJHWDZER3Z6eFdWNzdobDJMblpuTEZYcXhZcXBUVmtoOVVsZmZVY3dVT1RLS2RUOWF3cGQtcmM1alRvMllxZ2FBbTljQ2ZmcGkzQl9WNnFMOXJKQUZ2UQ?oc=5"
-    },
-    {
-      "title": "普京倡中美俄元首 APEC期間商結束俄烏戰",
+      "title": "美國科技企業財報密集公布 料港股暫未突破該上落格局 ｜一周前瞻",
       "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRFpKV2JlZlJLM3owYS1qRVlIN2ZzVzdkU1ViU09oUDN4QWVIR2dvZVJOZEpRZHNqOVU2YmRqSWpGRm1jdUg5SncydmMwRXdIelY1Y0t1NWd3eFVUMjQ4VWJQb185MWxrUFZhQjB5S05pY1dSQjRtNE9kZmpwcVlnRGE1VE5DUWRyM0Exb3l6YUhZNEpHcnlvb05iWlhTVFFicFpwYVVZMW5uQmNpRHg5cXpYSU5zNFBkSTZJUnZhdlVlZkJDMm03OV9vWDAwaWRCUUFuVHZXeE5hTmtCT1hXQXZ5a3FtSFJtQUxoUzJyVzIyTWo3RzAwOEFSenFwZWY0c1pCbmFlMVJEaGRvWEJGYVZLb2JGLVdWUUFJZFoyU0lGdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPYnE1bVJGVFd5Z0dxLXp3WVNOWXVKLTJDRkVtaVNDTTRuYUcyZmJuUXAyNU9SZXpESUZfM3J3YlBXWldfQnlpZnQ2RWRQZXZIR1EwQ0NZb0QtNW04NTdDVHJXdnA2aUpYakQ2dVhVcS1oZkNHUTlBSHZPTFRLbF9BYXJaUG1ZdWQyMk1OSTVvcXJMZlpBbV9CWTZRQXFBYUt4ZWwwck5xazE2c3RhaDdzcmpqYWwyOGVkTTl0aWtxdksySjY5QU5jT2kzeldrTmFwRjh5eHRMTHZjekdYc1E0TDc0QnJMVkxLSklwMDFoemVKVlpSbzUwMENKRUpjdEo4TVNHbFEyYmdPTWRSOFpYYy1pVVUyMEVaMnllb29IazZ5Y2pDYWNabkdkb2xxLXo5ZVd0YW5yUWRUc1VETGpMbDFhWU9xQXZ3SFRSSXpPUmdiZWNXVDJZbm5Qa0dOVm5RWkhPS29mM0FTampIN2ZwUkRCUGhzM042ODlOQmxKaFBJNGl5ZnhEanFyMlY4clo3cEZyYmxydWdTV09SaXJObWNwWjdyai1pNm56QndZMA?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "更新：企業業績周展開 美股盤中上升",
+      "title": "道指低收36點 納指升逾1% 科技股普遍造好",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjTE9LcVphWExMMDNYS3NDWEJqNVdYaEFqWTZ1QlVySzlZa1pRZUs0WEZpUG40cy1leUtRTHFsYzRrVUZiTlFZaFFoaTlLT2hFeVhJbVNaOHcxSGlsZEV1N0QzZWJYeFJ6Yk9QMnB4dw?oc=5"
+    },
+    {
+      "title": "科技股為主納指在關鍵業績公布前帶動華爾街反彈",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPbWo4bmN3WVZ3djA3QjdSN2owajJYZEs1ZEZRY0Q4b2JnUDhIUkx1RHYwVzJOaVFxb0JwSl9CWEJ6aENzQ0FCa1hlUkxhQ3R5UW0wZEUtMTd4Z29MbWYyOUVWWFVDTXk5Y0JPWjdSMlp3NUJ6T0tpQkdSOEh4NGRlcjQ5aEt5blVTbmtlTkdTUDJ5X1NpRUhydjNpeVVPWmNGQ0dGNUhSS0ZsOU96S1ZvS05EeEctaERWckJSWnpWNG4tQTFpUkFlOW4wQ0RyUG85ZDlfQlRFX1Z4Y0hTcUptaWYxTjg0OG94ZUdkUW43TEwtUFpBZWR5Rnd5NFN2Vm91XzBzQW1lbUk3My1Pa3dxaVRJYVM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQOFQ5S256M292MmkxTjRrb2pXQVVvQXJCNDgxNVMzaTJaSGNULWZnbWxSd3liOV9qSUlTdm9GRWFiSHB6ekhYZGd3Z0F0akI0dkZMWUFuU2xfZU1uUFRrdVN3dldFTzNHUFdCV295bi14WmlMTE8zRmtNTVpDR1I5bFAtQjlLMzJMdGdsSXBQeTBnU2pXaGwzWF9zTmZURzBzOVViakZPOThqeVNqOHZzX0I4bkdzRE1YZHBwZklQOWw4UmtCbDVFWTR1bm1WU2V4cGNJdkQtWkY0TW9ubndRVFc2YUR1NWhHUWljODI4Q29USUkwaDV0UG9yd2p2Z0lRaFdoS2FFZFZwaW8tZlM2UUdRVlB1XzFIMExZNVZDVzhCeDVyRDRESGlwWkMtbjhEVFpST0hmbVVudlVab1BLQ09fcEFXN0JBR2lFUUxUa3h1RktLZS1UR2NES2xNeGxlcVRVejdR?oc=5"
     },
     {
-      "title": "美債買家結構變 長債息易升難降",
+      "title": "美股收市｜納指漲逾1% 布油軟 AI股彈 內塔尼亞胡下令推翻伊政權 美債息反覆升",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOV1FiTVEtVmVOck5YYnNiS1dUeGRMSmtHYndNQkc2dklGVUNrRmpIcklVcFR6ZGZyYmxGdXl1MkNMWXJJVjg3Ri1CSS1KeTB6NTJsTng3RTA2ZkhjTXJFbW5COF9YYjhxaVpTQnNLMWFnRGNjdE9UaUYwTGNsZEZXMlFxc0o0ZUhrS0p1RjhWUVFhRUJMZnNlSG12Y0xGclFQdUdMclFrWGQ4NGp6TEllVWZvSHNENW1hM3JZanlhM2g4U2U3QlBRdFVMSWxjTmJNUndLUnQtS2tuc2F3bmJjdUlhZVlURVUyalhLcUhxeEo5ejIxa2V4MFNtcksxc1ZKWVZhTWd1Z1JwQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPclAzRlZLeW9CUkpIaXZONlc3bnhlNTRsVkJrdFFyYllaS3NoeFl1Z000R2dpdjdsc2tDQnh0a2ZZc0t4ZmdKZnRzRTlyQnZUWHpkUjJNRldMMVFpSWRMb1Y0R2hXRXFoNWs3VGRuNlg4ZnBqTEJMZVZRSWdJRkhfN3p6YTdtekk4Sk5aVGlxaS1hNXo1elBsOFl5ZUF2SW1ZcTBpRGRwRkU5aUZPOGhTaWxtTXlLX0dYNjI3VTVTMDZ0WWk0aVNvdnh2eUFsNlhhNjZVZjd0WFVKYldGTE9UQ0ZKQnRIbzdzZTM3Vzkwb3JDME9lZzNZZ25VenNRU0djcXpVbVFCZGJ1UmxkVU93em9Gb1BJaDJ4Z0V1TjBjVmxkY1A1NlZBR2NWYWszeWpVS1dhV0dGRXRHcWlWdWZEVlkxalJ0ZDhvb0Q0SEw3YTdubERkeWU1dzIzRVdYa2NoTXg2SDF1REVyczhnRXdXSDhxODFOZWx2c0hEYlRIdTM4WVZiVGR0WEFEMzNXTlhhVzNLS3VPUENleGswWENVUUh4UzVyWDYtNmJfTXRHa0FDWmdzMm1fQlRFT1ZKMFBBUldrTjZpWFI4UVFNZm9qaVU5Y1c0UThmU0cxNzZmQXFFaEdXb3c?oc=5"
     },
     {
-      "title": "美股早盤／油價跌、科技股回神 英特爾勁揚5%",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zeGotQlczbHYtZFVUX21jUUdNa1cycXowUFNtb0s0OGZpMTlxUGtjTnEtdEJYNnctckkwRlJ5dVV0dmhXY2F0ZWFYd3BkVWJN?oc=5"
+      "title": "科技股絕地反彈！華爾街熱議：業績大考將驗證AI交易成色",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcEh5Sm90blJtOUNXcXRFeXhFT0dicVYxLU45MzNDZ01mRV9uVENtVWlRYllyMndobklfVDFFMktRdWFqcU1lNlVpXzFScW05NHp6WGgwQ2ZPLXVkNHFOLWpfME94MnpId0RnaEhTaEZZbjl5V3lmWjRwbnlOa2JHc2ZDZURtSjlnVkZBMFRWNkNSOFBWLW5FWnAtLTBnU2hacnYtUjR5ZE5STHdXX2dF?oc=5"
     },
     {
-      "title": "美股動向 | 科技股再陷拋售潮？分析指長線升勢未改",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnJkZjRPb1BmVG85YlAydkdXZjVObjBPYVdsQmUyNFBLbEVOdDZEaXB5SUdNR1UyaGFnQjdYUzZodXdkY19VcEt5QmprekE4QTZOTFRLbHRBaFNnRXVlNFI0bDRMdDJqSjduYXFsLVpaWmlLeWFybXZTdWhhUmNXbXkzdFlwNThMbHU5ZWlBNVR2cGZiQjltNlBwM1V6WUFU?oc=5"
+      "title": "油價突然上漲近110美元 美股漲勢瞬間停頓 | 信傳媒",
+      "source": "LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfUHJNY1hwTE5ELTZCdnlmNk55UzIyaEE5QnVqMHdoZjZRWEFzcWZKNk53UGFLRnV0djdpeElUQ0JXQVltUE9TeGM0dEtQYmVSazRFT1pn?oc=5"
     },
     {
-      "title": "音頻︱格隆匯10.19盤前要點—港A美股你需要關注的大事都在這",
-      "source": "SL886 財經網",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1Zm1tYWpud29BU1lHMjhuSGloMzR0bmNwQUJQUXk3aW1CaDNaTWZoZXVybmJ3Sy04RVB3Y05BRk1GVElTRm0w?oc=5"
-    },
-    {
-      "title": "華爾街突然反攻！納指飆升1.6%，AI股集體反彈！法國動盪衝擊歐元、油價跌破110美元，全球市場暗藏更大風暴？ - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnM3RWemVvV3pMOHFwNk1lbDFEakY5X3pUR2Q3T0pjREN2cFRUdEg5TGJVdFM4S0IyZVZNWFJQb2otTUF6b2hIRnpVQl9qMGZObDA4cS1XTWFQY1Ryb1RvLVQ2Q01DQWszTHJiMWxFdw?oc=5"
+      "title": "2026大家都在買哪些美股ETF？VOO、QQQ、SMH⋯10檔熱門排行榜：費用率、規模、績效一次看｜豐雲學堂2026 年 10 月",
+      "source": "永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPOV94RWJ6NllMa2RxLWlVekRlamZVUzlGaWJLai1pMnVNNGVFT25vMlY0WlBvQkdjdFFJNUtDUXV1S3BGRDFYUGV4cm44V2JmOHd2TXNEbGUwVGQ0bUxSN3ZqTDNrRXMzbDRKRktWYzF4ZHJ3azNFT2xTV1NiQzJ5U3VZa2V1VjNqRUU3ZFRKVHFHdTQxUGx5NXEzQVlVZjdTLXdQOC1MMXhBbFQ0eGh3cWxuV3FtREhfbk5hcDc0TGQ0bkZRTmFfVVRjemJMVTFxY1BpaE1EQWFhNDVBRjB2cU5iYm4wdnNfcmRLcGR3ZDlnRU9KV0ZPblYtVE9aYVZYRjVpUTNqZEx0T2pzUlROU0dWaHAycWplSnhZb1Vmam5IalIwTE0xZWdHSndjdkhBTWIxT0hZWU9xQ2h6Y3VIZnBQVThBTTd3OVlaS0JKbzhtSkRJR3VReG5iSGw4Nzd5ME5NYWdCZ0p5Y2NOQzBoNkhocEJJMDBGV2RkRzZodEw5WFNRcU5qM0t3TUlDUWZfNkZrV3VlaEpXa1dwcGV5U0hNa0RlUTJ0YUpfU2dCRG0xVWRZZVpfcXR2X3dYSEoxVmlMSVhnNVJzWDB6Smx3dnJtTQ?oc=5"
     }
   ],
   "events": {
