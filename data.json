@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-20 07:15:18",
+  "updated_at": "2026-10-20 16:15:25",
   "gas": {
     "current_label": "10月20日 (現行油價)",
     "current_price": "178.9",
     "predict_label": "10月21日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "176.9",
+    "trend": "↓ 明日預測跌 2.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "美國政府非軍事機構全面禁用DeepSeek",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdDRkTW51d25HaDdITXYxeWhwQWpJX2g0MjRETHRHQzd3MzlnSW5HOFBRd3RGWTB2MVhMWFdzOXU1a1I4X1E0TjZEWDd5QlpFbTJOblBpeWVrZk1KNEFWdXFabC1SMlZhYmtpaTllSmtsV0JoMEtVSTBsWmxkYVVyZ191Ui1fQjF1Nm5QVFE3N0kxdHhLN2tDWS1lbW9Ddzg0cThSX25hQjNSZHZqc3phZ1IzY3U0SnNKSnBIUHJ1NU81MlpqcGdsNlgzb19aNVg4UjNiUzZCaVlENmk3YTVIRTZwUC1pQVgxMnZHNURyWEM5Y2xDY3RHdWY0b0xyT2FiVXZacmRB?oc=5"
-    },
-    {
-      "title": "美國禁止政府使用DeepSeek AI：中美科技緊張局勢持續",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9waHF3U0VBeU5DbkZkV3BtaEVLaUZwcW1vQWZKMzRXazVYSVpXMEFjc0s2Y25JQzNPUEg0ejJPYTZMWW9JTEZIUTMzRzA5NkpkQWRQaUdRUkxHazZIYU44Vl9jdHVwYm1jbWF0UdIBbEFVX3lxTE9waHF3U0VBeU5DbkZkV3BtaEVLaUZwcW1vQWZKMzRXazVYSVpXMEFjc0s2Y25JQzNPUEg0ejJPYTZMWW9JTEZIUTMzRzA5NkpkQWRQaUdRUkxHazZIYU44Vl9jdHVwYm1jbWF0UQ?oc=5"
-    },
-    {
-      "title": "美國中期選舉｜71%美國人認為國家「走錯路」 特朗普滿意度34%創新低",
-      "source": "am730",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOQ2JiVDdESXQxV1BXR0U0RHYzX1JYLXhDQ1FOcHhWRS1uYWpyNDVBSEQ0Ui1vNU5TX3lTVWotcTg1cjNaX3oweV9ja2QyLWV5eEFmNFlwQmFQVG5OUnhfbGZhQ3kzNWo2UE1hd29xekV3QjZGSHVnOEZJNVJnQ29LcHpwMEZrTnd1VDdYcXFhRjhkS0hLV0NZS1pRR09OTXZvZmxFWGdKN0hLRWZQR3dIVWlDOFlDdlRPdVZXYmdyOEFVdUtMSGJVcHdfS1FsZ0RFQ1FLWHJmZ1VIckVEX29zZWRVaS13OWFwdnpNc1dhYUlDOGpQSXBXRUt3QnQwLVprc2M1c0wxOUI3VEhCekVHMHVuODFhWGJOVzdfU254bDNqR1lsbXNfQ1FDZDdpSDU3RGY0YzJDYkVmaF9nQXR6bWM1Qk5YckRKUXdaakptVzVoTXJPUHY5NndQWDlZWFB5ODYwUkdBSlUzaWNITlRtQU5nTmgyWi11VGJvT0M1UU51SEc3WV9kSVdRRkppakhKenBDOXhETjd6Zw?oc=5"
-    },
-    {
-      "title": "送贈股份｜馬斯克向美國每位兒童 送 1 股 SpaceX 總值逾百億美元",
+      "title": "10月20日美國重要經濟數據每日摘要",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOTGFfZFZOM1AtNzIxV1FhZTctRjVFdktzaUtKUXJ0d19ncDE2VV9GaGMycUtHRWVOSl8zWC01bDRMNGo3SFc3MlM5cTBicXZqNXdkYkNCdzZQWHR6U1M1RmFhbVg0cXpBUEhjT0NvY1c3aHV2OVhON0psS3V0RUJxeUNoNHBCQUpkYVByWXVDVW5kaG9odEQ4eFd3VVRiaC1ub05uS21FMC16RWN3Z2dMU0VZUUFhcVRlTGZxcXFCaEFzUGUzV2RKUW05VlpBS05uWjlhSUh6eTE1NWYxNDA0NXlCV2NRVG1Damkwa0Y1RTlzZUprTUNybnpvWDBjSjVoRWQ4MktsMDVzTFUwUVBOWUdTc3hXQjVYWjlQY2pnX01aRHhn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPN1YzR1pPUkp3Mk5qRllZb0wyUGFUNUc4Tm9FaGNOeXNpbkNaM01oS2hXSHBOLTgtNFdUV0FhLWJYb0hTdWtfSFB2WDEzQnl6UG9tbDFjaUVidkpUX2VuQl9ZWUdRZW4yQ2Q0Wi1ucFRueEZHMHNjSlhHRm82VURiRXVLUFR0ckdlVm1Lc0d4TC01c2x1WmhIWU4tWWs0RjhvWHZhN2lhUWEtUDFHX2RreEN0NjM3S1VWSHpENm53NnpXMkxnaVptd3FSUkZ3cDRDbENzUkVaZkxPbmRiQ0hMTUNLWkpURThTc3JORjFadHItbmVQLUVmbjRuQndialhGN1ZJLU5QNG13YWs?oc=5"
     },
     {
-      "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LWGhITkxHLUM1ZFd3Z1F1X3YyU3hxd2wwYU90c05PVE9vZnQyWVN1V0JPZVhIMW5wYk5FN2ZSYzZmMDdpbGRaeWM3c1B2VFNfYlh6X0lGaVNjS2VWd0Q3dDIwYS1VMEHSAWxBVV95cUxOSzhWdDl4a3JHTnhhTHRWeWw5YjdLckM3dnpRODhBa3R5a21EZl9IUy1jNnlOVmRFYmJQN0l3UUFvZHIzeEhtcU45UHlBZ2lhVERCR1NHTzk3Y3RyQy00NHVMMDVaTkxNRUpUWXA?oc=5"
+      "title": "美國禁止聯邦機構使用「深度求索」",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOW14a3ZUWXluS2pTR2x3dTRnV2tLY0ktcWRzTnQ5amVSTjluLTNlSGlWQ202Skx4S1NDdzlPdlFuQzU4ckJTNFZCVUl2LTVzSmZaS29LR0c5UUhIcHdZSFg5S0dUMTFoNm05YV9NVzlrTnNxVUhWX3lFQVZnU3AyR2VmdnllQkd6STBLWWIzcVRjM2pkV1UyRlBiMDE1b3R3eV85UHhOWURyRVJETzBuVDlaOHdVd1o5dExlejlOSlBwZmtUb1Q3cVcxbUtUc0E3UnNsSzdhWnZjOWJvQ0tTTl83eVF0T2hsOVRRRERlTEF6eEdHY0Zz0gH3AUFVX3lxTFBnSDZfNnVWN2RlYnliVXNIQ3pkems3LW1adDV0T2E5VkJEMHh6NGJHeWE3N0dBdnpFUllpMVhWbXNNRVlVbmZFWXExNnZDYTJQaVBCX1BGWVdSek51Wkc4VE9sWTQ3SXJWemd2WVFhSGU1dzA3ejNrSEpaNGNJNWpONUlacnpVWkNfOUk3UU16bHVSTFVyMFR4bThRdDEtbnU2UFNyMFlXV1V0dzdJalc5SE5RZkhHWU9RUzVNZFR3UkhRbzJSMEduc0VJTTJ5M2xla00xTlRoQlRlY1AwVFJvZlYtUkZZTkRhTXNXY1NBU0lxSm9YNlE?oc=5"
     },
     {
-      "title": "白宮發言人上任5日撤職 美國大選選情追蹤 - 專題",
+      "title": "國際｜美國最大退休社區擬斥1.8億美元擴建 佛州樓市銷售持續呆滯",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOUEhmOEFQYzRnZVZkQ203dmlrNENlRGNLZ2QxekU1WVZDeDhpRWo5ZzVTUkp1aFJidjFFcEx2MEJXaWlFckNURzM4NERnT1JkLXVlQXViWThMYTZkM0NOSC1icG5pRlhTandINUJGOEp4MlNnS1BhTjJBZUFYLXZqVFYxYmJEbl9iWGhSalBJSU9SdmZSUlkwVjZuVlpDam9ES0liNGRSZ1VGZmZDNTExb3hKSVFfVmsyTG4tdFg5TTVmYzhwdG1BUEZGUXRaY2NVcm1ZOUxWcEJSSXdxdUJsWGluNklSV2FreGxnNzZ6U1RUWk9RMkwzcWxjUkN6ZF9ndWppc01Hb2ppYnkwRHduXzhJN3hXMUczeWYySmlqclgwYUNMS2pPSi1nRkhvQkJkX00tOENpRnItS0FCbmY0WVNxQ25CaHB2ejdKTnBuMEN4N2M3Tmp6VEhoMGliSkhnNzhQdzRueWU2MGcwYjFRU2ZXa3YyLXFzU1Nvb1FaVWFkMm9IbWxVb3Rmai1mVENyT3F4eVBVUGNZcXl1WnZzWjZHblNUbk5u?oc=5"
+    },
+    {
+      "title": "國際｜李強抵俄出席中俄總理第三十一次定期會晤 冀兩國合作更具韌性",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNbW1RSmlXNGphR0hIaVVHMWhOZFZudnRLY0xtUzBOV3JMcnJtV2xNS1gxQlZsNGV1WHYzUnJMc2VhV3MzOW5aQ2Q0TVZHOUcyblZabmNTZUVsU3pTWF94RTBDNWFEWVFWMXBqSVJoTURZblI0eWJQYnQwbTZpYW9QLUpWQU5uTW1tN1RoejJZNk5wTG0taEM2a19GZ1RSbmdGQTZEUjZEcTdiRmItUW16aXhocXdIbkJVX3RuMXplS3RrWjZMS2doejdVcV9PcDBzS0hGdWc2UlZGdlk1V3hPc0tzeHo0MHhBeWVQNlFOUVI1RTV1OXZiSEVFanhkVmlWSm9KSzdiMjl5d2xwTWFveUE4SzJLY2lDSTZobjBwTmxtNzZnOF9DSGUzLWhXLWFHcG9tbDlKUEhDcTU5bWFHNTlHN2pNUlBpM0NvX3lSR1BlZGpjMkFNUEt6VU4xTno1WmZkeEdHNkgwaUJPWEUyTHV4aTZsWF9OOVFfTjh0ZkJPYVZmT0prVDJPVGZpeW91NGVuN1ZxeVpkNDd5dHdJVUw1ZEE4S3RoX2hSd2ctX0RTYjZ6dk1WRjFIS0NPQQ?oc=5"
+    },
+    {
+      "title": "中銀孫煜提倡 港聚焦融通與賦能服務數智化升級 助企業出海布局全球",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNFJoZ2pueGNDRGZmcE1NVnA5c3lpZTJidmhCVHk2RGlFaWhIQ2s4RUxWc25RR2U4RWF6UTBmazl6T0pIM2lRRVBnWExQREVMVWpzVmFYakhvZHNseTBaM01RekZWQVFlWVdESDJkN05QQmg1OGZOR0xCcUhjRG15X3Y2QjlHYWJPVFpUb0hZMUtpaHkxTDUzV3B3NV8waERKNXdldkdjMVJPRzAtdlpzY3NlaklNamdhNHFYSERYdndZODNKV2tUeEtXLVdjWnZyUTZOQjVyWXN1WmVmanNSQVB5T2k3N0xyYWRjZFpWXzVEQnlDTXZ0aVBqSGNQempfSEN3UlBaNU9LRHRBbm4ycDBRdlBweUxmQkRNU2RWRGJpWndqeDVGQ1VfQS1tN2ZTdHpEM3I4RUo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQWXFZR3BmV1N3QWhWMkVvb3FDUUhqbEtkS3dJaE10N0E4QlpQYUU3Xy14RmNLYjNNLVRjWGJ5b1N2QVFNS3ZNck9zblF0bUx1ZE1pdnVOWUFzRld1S3V1ODcwZFVvcFJjY2RQZVpWYUhrUHFkaWVKX3FSR1JMMUVFTWo4eXNnMExac190Z2E4Um9wRzkxcnFpcWRta3ZqRktXMkJEclRBNlU4dlluaGhwTnFSSFhrZkFKS2Jma1FuckdoYndhOTFHX0VaZGpFcDVVQzFITnZYZGJLOGJNSnZubjJITE1MTHJtM1ZockhSa1ZsM0gydWNzbk1FZnU3MFo0X2txankzbFQ2R1M0dHdTSA?oc=5"
     },
     {
-      "title": "唐家成:亞洲續成為全球資本目的地",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZnh5LVIxY1FncFZxaExmbGZuVFhEeWtiQ1o3V0pHa2VBUHF3RTVkekpSMHRHZmpWcXB1RFZjWWxLTWk2a1hOSGIwZlBpRFJPU0MtLS1HWlFCY0s5THN4ZGh6N1lJMU1YV0I1eHhHcnBvUzg1UjYyNDVOM0ZYcHRFTkUyWDdvbktmUVBZTDZJYnkxWDB5Y1ZTUnFIVUFUTGpmZGdZTDYzMWRqTWR1RXU2ZUpsdi1oVUFhWkF4eWVmRWcxb1c3Q3lwRHdiTWxub2d1SXpaNFQ0MEpvTjVMUGRqYTVONlgzcFlMT1JzYUpZdkdrVWk2OVZjbmFxOXIxUHNIVzd5OUs1RjM3QkUwLU03cDZqR3Y?oc=5"
+      "title": "預算兜不攏、援烏太燒錢…歐盟經濟內外夾攻 推升示威潮",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtbWZvblVra1I3TmkxZjNmUDV2S2FJanM1WGZGcFBVNl9CcGhlS3RVTkExTUFtbFljSHpsaDg4alNEXzVtYkhWakNGUmxwenB60gFWQVVfeXFMTzZSekNWR2l0UkNWbS1heVk1OE5mSFFrMnNTb1U3R2NfSlZKZmJldmtCQkREai1BODY1THFuajQtTWZIUU9MVkhDb0VhcWJGemliMjhvMmc?oc=5"
+    },
+    {
+      "title": "美國國債收益率回落，伊朗協議希望推動 WTI 走低",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDZqT3ZQNEFTMlNLcEotSmVJVk42LUl1ZHo1ekg3bm9PdU5aX2hiRnpXWXVadVQ2YWV1bjhSSWFweHhyMnZLeUJCNE5wZ1pjVW9LSEl2Sm0ySFJpTmNPV2xVM2Zld0ZON0N6VElpdmNFaldHNXZmLWF1ZW1meWh2SE93b19QbmhJVlpaU2R6RnJaLVZKSUN3QUJTT2RVNWltek9PNDRYQlBKdTZ4OHJQZF9GWENKZmZzTHNQQtIBwgFBVV95cUxQTEh1UXA3VnU0bkRqWFkxRXN1UWVzbjVkYl94LTNydkpWSEw3aDAwV0NNaldEYnVXcDhVVTZvVmVSYk02VjFsM1FEMmJrOHlmSjNYb0FReHhHWUxtVnZQLXB2LUpqVXNSVmJXbFZCVjFjZmV0aUJNa0paeXFfNlJzWWxkZnBwdWVSWWRRcjNVMnIyZWxfZ3VmbTRpMDNsRGY4ZllzOFJGa00tNDlmY255ekZTOHROQm14a1BwQThvcGhEQQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "科技股 😥😥",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NVnRkMGRBOWYzejd5ems1WGY4MzM4OUl1NmFzRk5zM0JkSjdOVGZCOFRlMElTRnRvcVRySXNJZHRNSGpPRU5vYllGNUM1UGNycnlrcC04NWRleUlIZ2IySmlxTWFJOFRqX1NySnNqX3o4SzQySjMtRA?oc=5"
+      "title": "美股初段個別發展",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tNTdHa01TdWpleW9rM3BjZzVLVXczcFc2Z3g4NjFaR0tzbmF2bjF2QmxnOW5jbEUyTGtBY2FMS3p1bHJlMDZLYWpBMzdVS2Y5Z2F2NUoyeUVaeVlCWGYyb2xvWjhhZlhyT29wd1RMTQ?oc=5"
     },
     {
-      "title": "Lumentum Holdings Inc. (LITE) 股價、新聞、報價和記錄",
+      "title": "美股動向｜CoreWeave獲高盛唱好曾彈，債息飆升引發市場憂慮",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNlBuR0ZCbHBYVGVwQkdDbkdoY3NYUXloMWFkQXRBNnJWR3pfWDJMS0ppSE1UT1RoR2JQZ2dFVVZrREJHWjNEY3pHa0VUbW5KSGUxSWpSMF80NElLd0ZTNmYxRmxrQkNyODdfdjhEWVBLS0htSE82R3JKdUIxaUNRR1VrN3FxbVBEaDF4T3hJNVlCQWhxSC10SWJsVXpWWF9n?oc=5"
+    },
+    {
+      "title": "美股｜禮來多情景股價預測出爐 千美元投資2031年最多達2228美元",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVbGhDeno1emtkN0dqUGVDaFBtYl91N3d4Uk5yVDNRZ3p0c05xNDNTeTVpZ1VzMUczMnlMQkR6SnVNR1VTay1NN2w0dmtMM2U4Rnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQd19ZcUc5WjlZaW1EX1hVOGtxcWc4SjRIZDNIQ2d5RFYtdEpSeXh3OW1uTWZwbHQ0QzFoR0R4Y3NWMGxtX2dNNHRfZTVXTkdBbUVhR0pjZ0VkWHpLWHdyczBxTnY2WmlPbzB5UDFtbzRxOU5aS25ZM1lHUHJSQUNzSVJrWXlHcHAtNWFPcXZlOG5WLXIydTg1RW1hcTlsVURGelBUSmtKYjJGT1BzWTVFWGtXc2JsN2lOSW1EVW12VFpkVExBNDZjZEMtcktJYTdEVUVpbjcxRnlEbVZTMlJfQmdfajlHZkhBYnhPVFJmTWlfclRITnZ0a3VBUmtucVpzZW1La3NmM2Q2NDBFRWFFWjVQNHhnVFhvM1dIS1F4ZTM4YmhWdWg2S1dacVN1Y25nM0JvUXFMRWJFRHNjQ1RxTWt5YnhVdkZ2MTBSeG9mQVh0ZDJqWlRPT1ZOTWVJeVNrV19zRmx6WTF2WjNCQk5XbmtER0M5RGQ5eVpBT2tMZE1pekJkSVdmeWZWSQ?oc=5"
     },
     {
-      "title": "標普500指數：科技股反彈抵消更廣泛疲軟——德意志銀行",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXp5V3B5ZWlGYlVSeVdtdDByMzFscnB0UFQ1SFpmN3d5MW4xMUhyTEgzbklUdGs4dDIyLXNfMWhIVkRSelptV3NDTHc3MUhkU2R1YlJ3NEtrMmNUNjJBS3c4bG54VDhGelJBU1dLaUpqb3pqSEVzVlNaMV9CbTV5Tk5LTl9jeTJVQ3VrSmNvbjdvZXNncXNVUHladmRlTkt4RHEyRTQ2aUE3eHB0OXF0V3k1cVl3bi1FNk5YM1ZIdGlqR1NjNDdCRF9TTdIBywFBVV95cUxQZXp5V3B5ZWlGYlVSeVdtdDByMzFscnB0UFQ1SFpmN3d5MW4xMUhyTEgzbklUdGs4dDIyLXNfMWhIVkRSelptV3NDTHc3MUhkU2R1YlJ3NEtrMmNUNjJBS3c4bG54VDhGelJBU1dLaUpqb3pqSEVzVlNaMV9CbTV5Tk5LTl9jeTJVQ3VrSmNvbjdvZXNncXNVUHladmRlTkt4RHEyRTQ2aUE3eHB0OXF0V3k1cVl3bi1FNk5YM1ZIdGlqR1NjNDdCRF9TTQ?oc=5"
+      "title": "美股｜道指最新漲近700點 納指先跌後回升 油價下跌",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNNHdYV2lVeDZlSDBiRVl0XzNqRDdDaEwybHJKSlNjRFVuUlFEeEdjTlR3Ync0bW5KRkE5RG56UXFJTFZKVUZ3a0R4YWR0MUZDbmRsc1lZblRGQ05SdUNoNURERm1ZbGhlM19tMTN4UGR0cWgzYl9xSFZkRExHdUlsd0dSVnFBbzdTOXFxQW5ud1VKZ0xOaDZtVEc3LVRzWlJFclZNTGZHLV9uZ0JnbUxpbVFNTUExSmdqdFBIT21FaDZXUHlXeE85SUpTZUtHYlFoTXRocGVuQzQtTDgwek1DbFJxUDcxQXRvRTRZZDd0bElJalBQaTBsWUwyUFlPakd5MHBVcDBNQm02cXdpUVNxLVRNVHNPeEUyVDU4MkhNT0FBNkxqbXhGREJPTVNPaEYyMzBJa0xNcndhcFJmR0t6eVVfM3RIZmNVdzkxR3k2NU9zTGFFT0pBckZ4ekZ3Rng2bUhUZUtFOUtZcmdXdXc?oc=5"
     },
     {
-      "title": "太反常！美債收益率逼近5%，華爾街卻開始懷疑它還能不能避險 作者 FX168 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80a19weEdPN1VhS01XeXZkMDQzUFBtZkh2VkVCR21YNFYtd0ZqaHNDSTFYMGJsdW1BS3F5QWpiVENmd2FpcUZBOFFKRWg3djN6UmJrZUNfVDRVS2NNZzJmU2IxOExzRW15ZUpJLU9BSUg?oc=5"
+      "title": "美股走勢丨科技股回落 惟道指早段回升近200點",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOWkl4NkpUZ3c4V1FjN213d19NRW9MQjdKZEhsM0RFdFl3NzBIemxwNFZaLVp1a08wc0JSZkxSZ1V4SVVrOW5BWkxHbHVQOGpQbmpqdEpwNUpaVkZPS3dVVHFwWjJJa2VTZjNQbE9xS1NwZ0txZTlJM01LajJRQzhBcG9IVTlMRjNKMi1qRlRTRUdVSjQ5QURLaW1mZVVkM0hqcDBlblNYdWNBcmtsajdsSmRRY0FTYkVkWmpVWXQ3NThiUUkyVEZOejR4cnliZ2ViY18xSVpmV1FRWDZWR2NfTHVIMFA1bUswTlVOQXlmelhHWV9zX2pVaks1OFBzYnBGTmk4a3dEdmROM3JTZEFWbnJ3R0lzZU9PMm1uaDNybkVkaE41aDd2bTVFWXplZnVpYVNzNU5YVmRPQi1udUJQU05ZTWZySkNFaFZXdVk3cFZ4LVY0MGZZR3d3?oc=5"
     },
     {
-      "title": "大摩喊多美股：調整接近尾聲，準備逢低佈局！",
-      "source": "SL886 財經網",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YX0JsTWo3djFXdHR3VVNvLVk1bXBiME5odUhJejZsSGRlS1ZDaU5jTGxua1pSbVZJYWVHblVCZ2pZU0cxNUh4M2VSdnB2cHNNWEF6NTBQNUVyS19rdXRsUVpYTG11YkY5UGl3ZllNMmJUaXJIQkd3?oc=5"
-    },
-    {
-      "title": "美股期貨｜美期個別發展 道指期貨升172點、納指期貨微跌6點（不斷更新）",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQRWpMUTF1T0pWRjNPWUprMlhkbmtFbDlFNWNqcXlzMWQyYWdodlFJMGliQ3hUVjRheHRNdXlrazdZcTZJVnotQ0packdZWFFQRFhseG84VHE5ZVNpc0VEZFU1VjVyallYME9penVHeHUzMWxNSEc3M3g2cnZ3SUNERjM0eHl4WFpHQkdDeElZUmQ3VE9kM2ZLb2V3S0tZTG91bkpCYTlQUTJwbW5JeFl0bUVKRnNNWGRvYWtlV0NoZUJjRzhkWVIwczZFTGQ3TUNIem1ZZmVBNEE1UDVpby02NmwtZjBSdHFFcVdNczFaN3BuQlU4RU0xVkt2UkVCSFFVV1BMdUk1WWx2dHVsbE55VWUxWHRUeVJOa0VodmplY2FnRTZoSHJGY0syNk9WZFhua05wajdENUZ3bVo4TDdnQW5CSXZUOThjYUsxbkZ1cWtGcVhmZVRnWEZpanBTVnVIekt5THc1SkZGQ2J2Z2JMUlVINnZHb3FSYnlLdVVxSURqUWdFWDRjc3FmamF6VlRCQWFLUTZJbF9sdWVJamlqLUNrOTZNaHY2Y2pzNGFUckc0TVlobVV5Vno1VG5qNFlVclZFdUR1S1JibFpBNzBKZERnTVZ2bjRWY2xFSGNDYXFLc1U?oc=5"
+      "title": "美股早段個別發展",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvLXBJY25ZOG9RNEVQOEpjOVNvTUdHRlRPWk41S3FBT2hVVEV0X2dFTjhkUlFfcWh3bVo2WUNKdllOQnBMVVB2eDR5WUg1aDIzUkdpSUpn0gFbQVVfeXFMTTg4Rnp6OWNYdnVFejlRdk9tWFU1cUI4OFlUbHN0OTBTa0preFpNNi1pNkc4d3N4b25PeTNPdmZORmxrM1BCWUJnY2pSYzBXUHdralRBcnBLMzNTMA?oc=5"
     }
   ],
   "events": {
