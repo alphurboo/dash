@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-21 07:15:22",
+  "updated_at": "2026-10-21 16:15:21",
   "gas": {
     "current_label": "10月21日 (現行油價)",
     "current_price": "176.9",
     "predict_label": "10月22日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "173.9",
+    "trend": "↓ 明日預測跌 3.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "俄媒報道美國總統特使威特科夫抵達俄羅斯",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90YzRUaklXb0w5cXdnUUg5b0tGMnBJWTZVbEs4Q3ItLThnbm5rck1SOENvN1R5WHliREhEUUN4LTBmT3BYR0J6cTN2SlJUU21ybUtuM2RtN1BUYU8tZ0tqd1gxZENWcVdNM296TE43NA?oc=5"
+      "title": "克里姆林宮：願意11月中恢復與烏克蘭和美國三方談判",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxONm1sbFFUMGE3cWkyR2phaVVSSzBYU0UzNHQ4aWZCYkUyakpmY3A5N05qM2ZMSkZnS3AwV0luWUtZZnVJLVZsV0ozZmdoRHhZMjhmajQ0WGx0MjNpTy1BdHVMcEdyam55N3RVVUxJWGwxZlhlRzM1TTFVdkZyVlBaLXZjbkFLU0JsX1VPU2Y4aFZlM2pSdGp3MHF3emVuQllmT3VsWFl3WW1mM2x6enhvT0MzLWNITm1Ec1NackRXM09vbGc3R2tnSGpQVHd6ZVJrTjJ6eVJ1SHhQU3hGb3FMTFBTRENvSG5fdHlIX1RiT0pHY1ZhekYxY29hbkJJRC1FdlduWG9yTjJYNmhhU1RKWG96YURJX0x5RFAyLW1kNlloU1lxengwMXQ4ZE51VnBMN01jaDQxbFdKRmFjaG41b01aX2tiRG0xTm8xYWxCVVo1OE5aY1hFS3VlbGUxSjV5RUpiOTlWMzF6QTg?oc=5"
     },
     {
-      "title": "歐盟公布新版「北極策略」 加強衛星監控、海底光纜和能源管道防護 (15:39) - 20261021 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPa2cwUUpZampzOEIwQzB0THFvR0lvM21qWkVKMWhpbzdMUmdTQmFFMnJOMjVyZDdFZ2Eyb2h5M3R2cE5ubWYzWC1XNHZqbmVzU0lFNWx5aTcybF9aZVNyQkZja2lpNXZlSkdNaHNNNlNBei15TlEzN0Y0Rk5xMWtVU1hzM0dXVEN3NjdfUlFFTmYzRVNzVEhPZ1NORXZQa0ZCZzNRRHpjLVNPcTVzeFhFdndJT1djSHM0UjBOTWU2eVB1M2E1a0hITGpFLWlMRWF1WUdUdkd6WmlPWkhqVFhIdkE1UG1Db3dKU3pTN3JNTERWYjBWSzhzRUNUSGEyTTVONHVuNk5PbkRXeWd5NUh2Qk4zcDd2NXRiQ01ieUs1TjZKNzNMOHBocVAzX0EtOS1uaDc5eGl5LUJXcG1DX0xfYzFMSjAya2M3eXJnYWNEMEVEQzJPLW5LbUE0OExDN09sSHg3SHM1dEhIYU5KUXlOcThyc3ZPWmlDS2cwMGxOTjl3RFFTcWVfeFA4VlNDcDFPSzhEM0lCMGFoRjdFS2lUVjg4SXBNOTRrUERwdjh4WV9rbm1pRkdWR2YyU2ZvejllT0JJckJKN3o5bVJKa3BsSjVlajQ2SW9PT1BBODNBU0FIaTZDMWVRYkYtXzE5QQ?oc=5"
+      "title": "今日外匯：焦點仍在美國數據和地緣政治",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTJSNkxoZEQ3ODZDT0dLWDN2NHppM2tzV1NZX2R2aFl5aHV3Q2xQTWZkdTc3aTVWVmo0bXFnQUNpWHpVYUtid3NGdGhYeTVvcUFNd2NVWUZrMERTRktYMlJqRG90T0t6QlJGWkctVVhfQUxOdTU4Z2ZvUEJ4UDh1cjdQUzBtZ2VtQ2gweHZQQ0ZBMVVYRDVmelAwTjJmd3hURXN2U3dZQ2hNcFp0QkZ0etIBtgFBVV95cUxPWHQyM2ZmZUMtV0tLaXpvSzE1bXVmSHFFeGpQbS1tNmJRWjJnb2RxQVJfLV9jRUFNa0wtam9hSThYYm1aeGJOdmRuci1STUVrVC10WDQ3RmN5UEJUczdHNlg5bnBMZW9lR3NYQTB4N1dzMGJBZHlWUk9nLXZPa3NNbmRYRHNZZm50M2JjVVo3QzRtZnc4cFotZm9sVW9ydmxRVE91TDdBYWR4anFjT1haYVBHR3NEdw?oc=5"
     },
     {
-      "title": "俄烏戰爭｜普京會晤美國特使 稱有意恢復經濟合作",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZkhjWi12YmxGeEpBdlVBSUM1WEY0VkQwQXV3Y1VmYTh4X3NhSUFGWTRlSHRkMjdyWW05SFRYdkFDazllMDFGcDJIMmZCcVg2Sl9TUFluWWZGU0lPaUdoUDdnMjVRUEV4aDN4Y3R1UktwNThkbHhKUE5PeUZQTTZHalJhS0puM1ZXUWduR3ZJb1lKQTJqeVhqT25ROGpHb1NremNRSzdJdzV2UlVxRElCbV82RHJUaFlQQ3dybEcyU3kxWVRlNE00MTRjVnZlTEx2ekxEZHBzMXhKY2Zxa2tqMWpLbVJCQ1g0WG1wQTFucUtvVkpiM1I2UVI1VUR6MkdOMEdDR1RLODVka1doejI4T2lBdXBZR1FQSFlXSjNBRmtBYWJaY0IxVExjU01DSWNSd0R1WU9sWkdTQ1NYTU9GWnpESEw5US1wbmh0eUJ6Z243dFNNd2ZJWnNuN1NBanFXRjVNZ25rX1pRQQ?oc=5"
-    },
-    {
-      "title": "【評測】ASUS ProArt P14 / P16 初步評測 全球首部 RTX Spark 筆電 + 輕薄可輕鬆生成影片",
-      "source": "unwire",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGxId0pJRURwemEyVnU3R1N1dHk1NVF3MXN1UWpyT1N5aDVPQWFJV0JCb0RWSXp3VkFTQlRkYnkxSmRiVFhsQnpXRnNtNUxnbGJpRmo3VVB1bDJRRUhvT0ZEal9MNl9XbnBPRDBnYUl2bEk3Nm9qZ1M4a0c3SWdicjVjNHA?oc=5"
-    },
-    {
-      "title": "盧比奧稱如果不是美國支持 烏克蘭就「不會存在」",
+      "title": "普丁稱俄羅斯準備好與美國和烏克蘭舉行新一輪和平談判",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPYjBTWjVPLTZVbWNCWXpaZ0hVTEROeFhuY1owVWFubXJQUDc1Vm9ZVTJpNzhWbXJPMTN0V2FpbkoxWHYzMV9pU0ptYnVDN1ZYV050UTk4NzlHUmlXb2pXa3VxZThQbFM1TW5nOENEUmloZk1Ic0VwZzhZWnV2YVEwMjZmXzVNVllyNU12NEsxSlF5VDVzanhUT1QybVFOOC1DTFJwSzlnSFZoY2s5OG1KSkIzM2NZOVJ4MnA3VVJFQmJRR2pKVzBnTUNjb1U5N0ZtY3hwV1ZQV1RjT2V3RHpuNnBLTnF2Snc3c2NMcnhyVEdIMVpkWDhDUFdzZEw2QnNOZUNGb01kSllmQkRiR0ZQTGpiTTRrQ0dqd0VyNEdJMlo5enVOZW1QU0pYc1JpY1VpSWVGSVpiMjEzUG1QQlBHaEpYWC1SOVNqRlRBSzFlUzg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQWXZoaExSX0VRdFVUNnYzb05iRVp1TFdzYm94UjVTTDdENExpUDJVS19RWTZ4VEhsUHd6UHdYUGlsTUpNMXdQZ1RhVDQ3ZFp5Yk1QRFBlaGozZjZIak81YVVCeElsbTVBaUNoSkphT1Y2MW1GaG5IZmcxR0tpLTg1ZkZFZ3FRTUZsUU1Gd2ljMzRoYkJJTXo5a3BxTHNmVEVMTDVqZVl4cEhSMnl6em9BdEZTalhPbm1kR0JZaGFpcGE3SVFmLWZzMDJ3V2Y1em9RTTlHdHNHX3B4WGpHVGVBMGs1R0xTcV8ydldRZk9saUZiejFIS1VHcWtzNXk2ZjJMcEw2a2dDYWpadkxNV3NLVVV3SmxIZUVQMGkwMVR3Z2YyQ3UtUHA0VlB2WW03U0xkSDV4eF8zRnh1S1pPU2g1cTNrSlZDVVJHWndOMF96NGpsMzNOQVd4Tk5EaERyZVF5N3hRcVQyUGJmYm0yUVVEQzR6a3Vsc3Y2TTJRWW94UQ?oc=5"
     },
     {
-      "title": "俄烏戰爭｜特朗普對烏施壓 華郵：俄視為政治大勝利",
-      "source": "AM730",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxONUZ5NEZlQVk1Z2lyMFRmbFg0Vm9vNDZQQmp2VGROX01pZFpPQXdCOWcyRzBRSnlybGNkUE5qNW9aeDdZTV9mdmNya3VybW54RnBXTV9oQ3g5eXZmTjY4VDV1TnhEWnBQblBtbVdtVzFnckwtZ3BNaFJEUHVhWDBaLTFzejU1UXRfZzl1MDhieXRfY0xncVJqQmNjQkwzbHVxckdZcEhyckVTVTBfelFGWk1ZSWFiOHoxVGh6VHZVcDItUjB5cHVkY3VKcnBib2luamEwMDhTWnU3eW9lR2ZreTdOZUZBQ0Q4WnUzSlc3QXh2dXpCaWNKaHFTTVdhQkFqa0RHbmVCd1drVHVUY3FobW1IYm95TzBwakNCQ1YtUGo4T09hMUpzNGxSX2hyUHFkMlNuNHNQVHdENjltTGV2cWpkQmhBVU1QS3BJSUdHalpqbHZrX2RqVGlILUNRZzlsN2c?oc=5"
+      "title": "普京晤威特科夫 稱將向美國發運首艘運油輪",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtYjY3YmhLeWhqNjB0NFRBVFlxcGtsVzNnZWpYVkxrVDNZNnJhNHg2SXFoN3dvR3JBRi1jQ19WZ1VOaGx6a0EtMlA4NTdQaUVQQVIzZ3FzdmRudkVIN3dTRmR5MmpNT3h0UGlnNUxoYw?oc=5"
     },
     {
-      "title": "【美國觀察】新任白宮新聞秘書的「五日京兆」 文：陶短房（堅料網駐美加特約撰稿人）",
-      "source": "堅料網",
-      "link": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPSEtqdWZRTk1tTWhLc1pZWFNCNDE3RkhjUFRpaW12SFhIdkJYb0NKVm9rLVhLXzVmOXhqV1B2Mm1qTGdiZ0JWbEx0bXR2U28tYkxuSktsVnVNZFhZWENCaHk4TXNfYUIyNXRFMjUtMGpUMUlrZU1ZT0h4WGxBNDdSMXBzZm1vdkMtSFU3NUdQNlF6VkhtYW1WQjNsSWYzOHM0b0Zham45YlNINGpFbzh0NWkzUVVvYTZJdll2NXFqeGUyNHIzcmFJOXJ0c09rdXJiVFNXWVNWek1sZUkxUXN0QS1GSlhpZUJNT3dkZkZwczJfaXI4Vkh5dWFOTVhKbjloNU5NNm84M1pySGhvcVpPZTktMHhHZjBrWEcydlkwTFZjY3E5azZzaGRzNWtYbnc2Rmdmcy1sSU5rYWxFN0R6M2tVYkY1TDZvdmN4bGFOSjh5VHJUMnlsMl9nRWZGOEZqV25Gc0hrcFJINnRSS1BtN1pWYkVlZGRPbGUyVk5UUWVvX01kamVRaTZURk10NGs3Q2o3SllHRko0N3RvS1ZET1VSaVZoVDR4NVdIdm9FLUJyOU5FcElXZnl1Q2g5R21JSGFBa2prS1Vfc0lrekptb0dwU1NOWFNBaWdoSmp1Z2t0SU5CQk9zVW9ybUpLU3k3U0QxeWxmTUNBZFg0c1VMX0d1cVVQalc0T013Rm1QbDd5dWlYSmpHTDJhSmwyckZQazAxaFdhaXN0VF9lMGgyOWtrOFJpZnFMVTZMdFQxSm14QmRfeDNNSDYwRFFCczNOeTFnQ0xXbVVIWHktcmFDTFBucmNycW9SVkhJU3ZEYlF0Q2RVX3d0NFhhRFhHUE01?oc=5"
+      "title": "俄烏和談現轉機？普丁同意重啟三方談判",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZ0NaMWJzRVdDS094QU9KU0Y1Y0JxVUxfV0J5NGo5Q1Y1Ni1RdnJLbjRMcmV1RlRIUUM0YTJ2WDhWUVNTeXdnSEZza2puVXhYLTdHeTBrRE1EN3VPcmJjbHpLV2Y4VnhnbHRpOHZ6TlNoS2tzVkhtVmV6WFR3Q3hEQVZ5dndsNF83elFHYkUtSUZ5alVlQWZPUGR6RC1VMUh1R3VGLWU5QU9qQm5oemdYc3J3bWV0WXpCRTcydjlWYU1vTi1feG5qNXhia281cEJKWTRFTzhKd2xIbmJodWJKdGlXQ2RaNDc0d2oxMXREOWdUbjJ6TU01TkNSeEhic3ZST25sUNIBhAJBVV95cUxPZ0NaMWJzRVdDS094QU9KU0Y1Y0JxVUxfV0J5NGo5Q1Y1Ni1RdnJLbjRMcmV1RlRIUUM0YTJ2WDhWUVNTeXdnSEZza2puVXhYLTdHeTBrRE1EN3VPcmJjbHpLV2Y4VnhnbHRpOHZ6TlNoS2tzVkhtVmV6WFR3Q3hEQVZ5dndsNF83elFHYkUtSUZ5alVlQWZPUGR6RC1VMUh1R3VGLWU5QU9qQm5oemdYc3J3bWV0WXpCRTcydjlWYU1vTi1feG5qNXhia281cEJKWTRFTzhKd2xIbmJodWJKdGlXQ2RaNDc0d2oxMXREOWdUbjJ6TU01TkNSeEhic3ZST25sUA?oc=5"
+    },
+    {
+      "title": "俄烏戰爭｜美國特使晤普京 感謝釋放被俘公民 稱對方「人道主義者」",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPSmE5LUZKZllHSTVvSHRWSkVob0JaS1dCQ3ZOQjg0anRwcFlXQ3d0bVU3TlFzQW1kSkh5elZMYjR4RXNNLUhMVVNuYWpZZjVaU05tNzBBa3FqaXJ4ZFUzcURKSkJ0alV2dnJnTFBBRElaU2swakxxaEpXeFBBa1Q1TWpYNzd3RVNScnBvTmNWdFNYR1lUenczQTRRQzREeWFHeTl4a2swUHAzbXdzUzhVeVd5WmFmXzVfdW9QX3hUVmtZOS1jZWRXU1dXbXJhcnE3dVdnM2w0b21ZdEdfVHpZeHNYUFl1aWlQUVFqX1BKM3dyenktRHRHTnN1Tk9UUDdjTmpLUnFoU0UwaDdxVHpGanNQZzczbjBiS2ZGY0NyVGdvWEZ1bkRmaVBwWmV4QXBZOEJFTVg2RncxQ19Vb2h2Qm9RX294UmpicE9Pd1FFMjgtaVRuRFNMZ3FxZkEydw?oc=5"
+    },
+    {
+      "title": "中東再有2運油輪遇襲　襲擊從霍峽蔓延至伊拉克附近",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIV2ZHbDEzYXRELTJ1aV9BTEhpdllxdW5nY29aSVhOZFhZQ05xc18xRFZ4aTY2NENpZXFoS3lGNURlOVlsUlVxMDJPc2hod181M1BaYXNDQU9GWnhmdmfSAWNBVV95cUxQb1B3SUFuZXZoOVptZHhOcWpoY3ZBLTh0NGdXXzd5Ul9lVmZuZWl4OGxFdXFTcHA3X0tDZmI2OVpwdTlMSlpQQ250M0FuRHJyc1hVLW9NOGJPRjRxUHNUemExOHM?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "英特爾公司 (INTC) 股價、新聞、報價和記錄",
+      "title": "標普將蘭姆韋斯頓評級下調至「BB」，展望穩定，債務壓力持續",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xT0puNU9SSTNXTlhoRmZpX0tac25NU1hHeUs2ZEQybldFU2pMOWpLZVF0ZWl0T2UweDlvLWtVeDlYa2hYblZUbWhLS2R5TEZhNXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxObXlvTWZrZl91OWZIejZyQWE2VXowOElLN095SUd3Y0dTQzZ5ZlFIVVhzMWpqdjVNLWpaa0tFWTJZS1pKWHNEczVZZkNmTlNYb2Z3Rl82QWFKLTBWSF9LMExYdG5WUEJXVW9RNjNWV1poc1BrT1FXOTJ0ZWtfcTh0cURMc2ZzMlozSXFKSGZKX3FiWkY1aWN1UDA1T2N2NERaYXNRX3pqeXdfWDBYdW8xbXJBSjRUVy11U3VRU0xtbUpROGF2Z1BEZzlCOEFXZzJya2plVHFSdHhmTHhxYUhRQ3BkRm83NFpZaXNDVDE1aTVuUGJDRDJiMEdDOWNndUZPLUgwT0hnT3dpdnBNczZjenJVUmxSYkgzNjU1b1RFU1EzV3VvM0thQ00yMEdOUnJFMlhCV2NtZkhEYzRadlBsR2RzRWd6cDRTWWN1TWVhZmtsVlN1cUExcFJMQTlMaEtXUHpwWWZPNl94bnlGUUVPMWVpOF9WV2Vu?oc=5"
     },
     {
-      "title": "標普500指數：人工智能和能源重新定價改善科技情緒 – 德意志銀行",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa05RU0pTR3VkSmRfSFBVZWhkYjFhUVhJTHVHLVdFYThxdWt4WjYwZVE5Y1czQ0F6TjN3QXNrRlppbm12UTFEWUZKSWxwYzVIZlRfQnhyeDV4ZVZLaTFLbzNZWFZ0NG5RQ0cyZE10SlNkNmdacnluZ2lqdjRleDZDNng3SFE3SDIxV1EzQlRJR3hEYnUwSGVsTFZPUER2Q3BKRk1vYVA5WGZVZnJEOGtFd29yUi1KZXVUNnVGM1ZjWXdEZ2h5NjdQclNEUTU4eFBCMXBiQ2otSkZFc3JvYTF1X1NkSW9YMm_SAewBQVVfeXFMT3kwYWZXbXFKeU1BMnhzcXdjV29HZEdiRlRWRVVOVjd4d2huZEFSUHg5TWQ2YVNkbjJubTBHZUJSME9reVpfUHlwVktMRVhiOUQ1bUlWc3NfSk1HZ2t6Mko4OExTdXVueklzWVNpVHgtVHhzdXJCakJET0FRVkJ4MUgzeHM4ckdOd1hNdGtwV1c5cnA0NFNSWHd2b0psaUM0NUlzLV9SMHVWYjg5ZDMzekEwMWlJZUN0VG5TSUlYRFdySTlheWVBZVN4bGU1UUlPX2FtYVYtUGJxRzNzSmJZSVhBMzFBZEI0T1NpZG0?oc=5"
+      "title": "美股初段上升 納指升0.7% SpaceX績後升約8%",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jdzdyVFlRaVhFbldCOEY3bUR6M21aMzIzZUxyT1lwdnVWWTRuS0lHV3hvNEpXeGRmQ2Z4UXpld0lsUk82M1k0YnJZZ0RkeTFLRGo2YXhpWTdJQ1Fja0NZcWJjU3hHVzlLNWw5eWh0NA?oc=5"
     },
     {
-      "title": "納斯達克期貨領漲，SpaceX和Super Micro財報提振人工智能相關交易",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JZzVHcTBHVkxqTWkxN0NhU1p6NDdXbHFDZllSTWY3Tmhqa0h0dm9qZ1JDNVZhcGJaZU45Z1ZRN1F1cnUzSzZOTVNPMjR3OXd3QkxITXlWcklCNFgwZVlPc3lMdTI5Q2RjLWNHXzVGRzMyRUEzejBr?oc=5"
-    },
-    {
-      "title": "美股期貨上漲，SpaceX財報亮眼帶動納指期貨領漲 作者 Investing.com - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DRG90SXVNNFQ2bFY5bW1vRTNyVzd4WVk1N0ota1dsMnppRjhuVUdvYWtfTjJ5TjhPRVljcHUybGkyY1UwNE1UNmNoY3FvRzN5dDJMSk52bDFPWEY4WHduOGlpbWl1LVktUEJkRk1Jclc?oc=5"
-    },
-    {
-      "title": "美債高燒不退削高息股吸引力，專家教落內銀股點部署 | 專題透視 - 新聞",
+      "title": "美股收盤 | 美股三大指數全線向上，納指收市升1% | 即時新聞 - 新聞",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTlyNVljQ0lDVXdiX0Vja0tkb1BEZFhfLTJnS3A1V0ktc1pBbXlIOWVhMmY4R2FlbERHRm9CcXMyU0k2V003NUFSbFV3d21kVEV2eldzVGd3YVlRU3IxUEVVQWFERy14aGtFVWZwOFRzcFIzNUNwb1lXeG1iSEw4V25IQ040eURPOWJsTk9zQTNMVk9lUnlsVzZyYVJERURBOTNGNjlkMGU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkhFY1JxWjJuUDh4ZGdZdXRHV2dyb2N3STgzNkJGRURwMGlnM21OeDdjU3kwTDNES0lLODVrQjFVMnB5Qk1RcjJTOFF1ZmpyUmV3RVlyMGlOalRDRmU5UWRIU1l5cEZOVEN2cnBMdE9IYzRoM3h6OFVsdmN2OGs4eEtiWURUdk5BQnFIbWs5UVlfb0lFa2FYME12RlZnQkZy?oc=5"
     },
     {
-      "title": "真正AI概念股投資！AI龍頭股有哪些？2026熱門概念股評價",
-      "source": "Mitrade",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc002Z1V6aEtiNEQ0Z3ppZnJ5MHY3REM3UzR1bno0bjFXQVVXWGM0aXRIZ3RpRU5KNHVXSE93ck55NGkwU01MVkdCUV9TRmFxeF9nUTVZekNjajctZWFxVTA0S1VBQ2dqYUpnckxUWGFDb2Y5M1p1Q2NPYWxNdkUwTnFqUDlxU1E?oc=5"
+      "title": "美股走勢丨道指升逾300點 納指漲超過1%",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQaTdSTlR1djNvYTdDakVWdG1KM0lLaUJ2OHNweERVeE1PMFlLNGJ5a28xX0JZUEVVWDQyR1RfYVc2cWxBaUpxYVFIQThsLWlSVUpYQWdiWWxadHNYcEdxX2RVampESWVFdS0xWFNNcTFvRXNOZnFKUUJKWi0zVmdEcFBxTzByY0xaUk5ZNnJiLUpiRFdFUUw0OUNfdDUzYWJVMGdEeW9XUF9TTGYwd0tMLUdIUExvLWNCRkVJSW93R29JZktxanlhMXM3LUVvUG9rSWpmMVRGdW5ybHZtQ3ZiVGdab0x2ZDhlWXpRRG9Ic3Rsc2M0M2tiMkdvbHQyc3B0SHkwQ0VRRFBaN29rS2ZMR242c3hwa1JDaWlNc2x3?oc=5"
+    },
+    {
+      "title": "有圖有勢｜美股納指升1% 業績股成焦點 HSI穿頭破腳恐未跌完（持續更新）|香港經濟日報",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNNlprLTJkVFdUZzlZQ1M0UGdlcGJwVUczWHB1Rmh6YmVvbnQzSGU0UXRrQkVfNmxwclhVRVZNVWgtZi01dFgtNDVIODEzTFRmVnFLQW5JakdnR2tzbHQxQ1NHZWNKWkE2Y1lPOEZhcUJlUTc4Qjc0SGt1MDZTVkV1b3d1dlU2aGNfWC1ISHJWWG12dHZuR0FjMkdZRGkyZ3ZLUTdTTS1ZRXk3SXlieE1FeE9vaDFsQ0xjNTNfLWJFM3h0M2VNRkRyQTF1a2pjNk9kTUduYlJzMkQ5cE5SUHIwU0JIejBQVS1KU1RtZlRiUFc3b25BbHg1QWtCRlRQbDNKeEg1c0tiRDRhMmR1MU56WDlxRk5zOFdfVEVqZTE4dW5MWnNoMXBYRmdiSDNPTjhlRGxCbThlVXB2aUVnR0tkOUpNSmR2YmZiTzdURS1oaVdBZ2hHeU1EZzVjbjNXSkJXd1RLbFRkXy1QNF9lbmp5bWkycG1QVVIyeFFsRDEwaTF0RnV0ZWZxa0N5dTRNWmJKbGd5eHlkV09WdjR5YWtwNVdHMk5hLUFvWUpHa2tnbkdwNkg5TExjdzgwQldKc0FaMF9nNS1lLVA?oc=5"
+    },
+    {
+      "title": "納斯達克帶動華爾街收高，SpaceX和Super Micro提振了市場對人工智能的信心",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hcVk0S0FXY1BCSjRWVlV3bm1FbUJZNDEtWFBxS0hiLWdZMl9Ic1Q1Y01hS2g1V2thUTduSUNTVGFTZ1FrVXczYl80ckpVUlVKOXlOY1l5ckVTOEdpaWtDM2tETC05Smh2WXZHbWF4U1E0bWsxWDlZ?oc=5"
     }
   ],
   "events": {
