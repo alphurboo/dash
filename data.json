@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-20 16:15:25",
+  "updated_at": "2026-10-20 20:22:08",
   "gas": {
     "current_label": "10月20日 (現行油價)",
-    "current_price": "178.9",
+    "current_price": "176.9",
     "predict_label": "10月21日 (明日預測)",
     "predict_price": "176.9",
-    "trend": "↓ 明日預測跌 2.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
@@ -15,66 +15,66 @@
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPN1YzR1pPUkp3Mk5qRllZb0wyUGFUNUc4Tm9FaGNOeXNpbkNaM01oS2hXSHBOLTgtNFdUV0FhLWJYb0hTdWtfSFB2WDEzQnl6UG9tbDFjaUVidkpUX2VuQl9ZWUdRZW4yQ2Q0Wi1ucFRueEZHMHNjSlhHRm82VURiRXVLUFR0ckdlVm1Lc0d4TC01c2x1WmhIWU4tWWs0RjhvWHZhN2lhUWEtUDFHX2RreEN0NjM3S1VWSHpENm53NnpXMkxnaVptd3FSUkZ3cDRDbENzUkVaZkxPbmRiQ0hMTUNLWkpURThTc3JORjFadHItbmVQLUVmbjRuQndialhGN1ZJLU5QNG13YWs?oc=5"
     },
     {
-      "title": "美國禁止聯邦機構使用「深度求索」",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOW14a3ZUWXluS2pTR2x3dTRnV2tLY0ktcWRzTnQ5amVSTjluLTNlSGlWQ202Skx4S1NDdzlPdlFuQzU4ckJTNFZCVUl2LTVzSmZaS29LR0c5UUhIcHdZSFg5S0dUMTFoNm05YV9NVzlrTnNxVUhWX3lFQVZnU3AyR2VmdnllQkd6STBLWWIzcVRjM2pkV1UyRlBiMDE1b3R3eV85UHhOWURyRVJETzBuVDlaOHdVd1o5dExlejlOSlBwZmtUb1Q3cVcxbUtUc0E3UnNsSzdhWnZjOWJvQ0tTTl83eVF0T2hsOVRRRERlTEF6eEdHY0Zz0gH3AUFVX3lxTFBnSDZfNnVWN2RlYnliVXNIQ3pkems3LW1adDV0T2E5VkJEMHh6NGJHeWE3N0dBdnpFUllpMVhWbXNNRVlVbmZFWXExNnZDYTJQaVBCX1BGWVdSek51Wkc4VE9sWTQ3SXJWemd2WVFhSGU1dzA3ejNrSEpaNGNJNWpONUlacnpVWkNfOUk3UU16bHVSTFVyMFR4bThRdDEtbnU2UFNyMFlXV1V0dzdJalc5SE5RZkhHWU9RUzVNZFR3UkhRbzJSMEduc0VJTTJ5M2xla00xTlRoQlRlY1AwVFJvZlYtUkZZTkRhTXNXY1NBU0lxSm9YNlE?oc=5"
+      "title": "萬斯稱烏克蘭是美國“夥伴”但利益有分歧",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQRklJc2hiamdiaUJqakRNN0N6Ynd6cDg0dTQwN2NHajY1a04zNVV1cmxLZ3VEVDloOGxHb1N6Z0pqZkFraUJpUjJyNzdPVUNVa0JKcC0tdmJmOXZZNGd3aHkzRWUtbUZhNlhhNDB6LXZ0RTIwcUo5Z2ZPNzJvakdwZUpCemF3QlZZTll1cUEtQmtFQXlac25pT25XMzlxVHRBQUM5QnNTNkdjX3hoTjJWVENxTU9FcEw1dnJHLS1Xa2FHQUwwNVNtSFpMbXdmc05zdTYyTl9LVWcyRXRLam83NlpWd0xrUjUxeloydFhzVHc4WTRUUUxVTTVGWFdiTk9tTU43ZFdqdXluNW1lbEhqODYySUJtVEpEVFlTaUtuSmdvQXcyWTBIRGpmT0F1dw?oc=5"
     },
     {
-      "title": "國際｜美國最大退休社區擬斥1.8億美元擴建 佛州樓市銷售持續呆滯",
+      "title": "特朗普：已要求普京釋放判囚的美國公民哈伯德",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85YmZIbTNmdUJOMC1CUVl5ZDZPZWRxOFVOcDRqWXNEYklSbWg1clFCdWdlYVRnUVVjbGMxY25Oa1V2VDJiVWxLdkZ2eWdUT3dSNkpwWEhMR0pzSnl0ZXfSAWNBVV95cUxQS0M5b1JmMWlVMTZqX2pnamxtcUE4SHIxVFhKZVhXWENwTVdaNVFxS3NxZUkwV3hlT3hUZlM2a1J2bmxVT1lqMm96Y2s5ZFNIbmF0V2lkNFRuSGR5RmlGVDRYcWs?oc=5"
+    },
+    {
+      "title": "中國商務部對美國表示“堅決反對”，敦促美方糾正做法",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOTzhhZ3NLYzAyX0hBbGZ3WGkzZm51MnZsdUQzVU84dzJTaGJrR1JTMEx1SWdCTG5WQ0hWQll2SXJwLWd1TFhWUGVFbHR6ZWtlYXlqZmx2VXBJQlBSUHhzV2ZWRkpTMEVBVWNHQS03eUs1UmlScHJZc2Jzazh6ZzBuYlliT3UwT0l6SjhmOGFIQzJMajRFZVF3NkJSeTJocVJsOGNvSDR6dUNzV2lMcGRjc3hqSmdVVVg4blZaWDFMalZJUGstLWpfal8xNHJwc3dHaWtCMTB3U0VBMzMwdllnV0VwV3Ntd0Q4RkE3c0pSRmdrdXRwbGlYYmN0RmVKUkhKSzJOc09ZdFVUa1BsZTZUX0U3aThxamtzbVBmbmx3Yjg5NWp5Y1AwakVEV285ZlRhb3NMbG90Y0RhUEc4aGs1WnJuYlkxLTZWZjJCYko4Ql9jMVJqSmtPaHllMVRHMlQtbVE2SWJCekNDMXJ0cUw3UTduUUFfdw?oc=5"
+    },
+    {
+      "title": "國際｜國際油價衝破5個月新高後回落 市場續關注中東局勢",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOUEhmOEFQYzRnZVZkQ203dmlrNENlRGNLZ2QxekU1WVZDeDhpRWo5ZzVTUkp1aFJidjFFcEx2MEJXaWlFckNURzM4NERnT1JkLXVlQXViWThMYTZkM0NOSC1icG5pRlhTandINUJGOEp4MlNnS1BhTjJBZUFYLXZqVFYxYmJEbl9iWGhSalBJSU9SdmZSUlkwVjZuVlpDam9ES0liNGRSZ1VGZmZDNTExb3hKSVFfVmsyTG4tdFg5TTVmYzhwdG1BUEZGUXRaY2NVcm1ZOUxWcEJSSXdxdUJsWGluNklSV2FreGxnNzZ6U1RUWk9RMkwzcWxjUkN6ZF9ndWppc01Hb2ppYnkwRHduXzhJN3hXMUczeWYySmlqclgwYUNMS2pPSi1nRkhvQkJkX00tOENpRnItS0FCbmY0WVNxQ25CaHB2ejdKTnBuMEN4N2M3Tmp6VEhoMGliSkhnNzhQdzRueWU2MGcwYjFRU2ZXa3YyLXFzU1Nvb1FaVWFkMm9IbWxVb3Rmai1mVENyT3F4eVBVUGNZcXl1WnZzWjZHblNUbk5u?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNN01DTHVCZEJMbEJaaE1JdERPQ2RqYVFYdEdfRjFrd1ZxWWhDMTFIMjVBUlZhQU83Y1NEU3oxV2V4c2stbTNMNGxJRWd4NHp2b0FBYks4c244M2lxdW5xRllmU3lxeWtRTEtuUlptcmhyOWNfQkdtLWxTdmhjTGlTaDdBdVd0ckJXbUN4R1c3MnRoMkx6NXJocGZEQ2hfb1FtUmF1bF9ZUGt0ZGxQSUtZTFZYb2pyVERBUVpNMmkwdGNTYWxWMmtkVDlEaFZVd0dpdGNudGF1Z1luNUExZW5OaHFFdTlYQ0p1V2NCaTgxd1VkVmFVUTdzZnN1NmRnSlhzTDJQaEVyOVN5NnIyenV6Y29hNm1FU0haZjlEMnpYWUFVVFVldUR0LTViZ2tZTjFVcFQwTnh2LWFoUUVVWlR0RnY1VlFkWWx2ak5JN2pKcHhUMXE2c2ZPNHhEdVpsdHZRaUdOYWp1ZS1CN2NXNXpZNTktaUFxNnJCaHVwQ2tNTklKUQ?oc=5"
     },
     {
-      "title": "國際｜李強抵俄出席中俄總理第三十一次定期會晤 冀兩國合作更具韌性",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNbW1RSmlXNGphR0hIaVVHMWhOZFZudnRLY0xtUzBOV3JMcnJtV2xNS1gxQlZsNGV1WHYzUnJMc2VhV3MzOW5aQ2Q0TVZHOUcyblZabmNTZUVsU3pTWF94RTBDNWFEWVFWMXBqSVJoTURZblI0eWJQYnQwbTZpYW9QLUpWQU5uTW1tN1RoejJZNk5wTG0taEM2a19GZ1RSbmdGQTZEUjZEcTdiRmItUW16aXhocXdIbkJVX3RuMXplS3RrWjZMS2doejdVcV9PcDBzS0hGdWc2UlZGdlk1V3hPc0tzeHo0MHhBeWVQNlFOUVI1RTV1OXZiSEVFanhkVmlWSm9KSzdiMjl5d2xwTWFveUE4SzJLY2lDSTZobjBwTmxtNzZnOF9DSGUzLWhXLWFHcG9tbDlKUEhDcTU5bWFHNTlHN2pNUlBpM0NvX3lSR1BlZGpjMkFNUEt6VU4xTno1WmZkeEdHNkgwaUJPWEUyTHV4aTZsWF9OOVFfTjh0ZkJPYVZmT0prVDJPVGZpeW91NGVuN1ZxeVpkNDd5dHdJVUw1ZEE4S3RoX2hSd2ctX0RTYjZ6dk1WRjFIS0NPQQ?oc=5"
+      "title": "歐盟正式發布改版後的《北極戰略》",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaVc4MkVhb0Jab0NvNVkwMTZzcEZaR3huV0FGZHNNU1lRdGdiOGlOdGZkd0YxS0lQRDBlbDluSUxERkhob3VYMG1KVURNWEZQWDBPMkwxdHd6NmloUkxieDYtT0ZDcWZkakxjY2JmVkUzcjRkMnU4VkdFcTJzOWpsLXZfM2pWOEE0dWlQZmEwejBLa0FXckh2cmhKZlFqQ250Q1BYR0l3RkVsVHY1TlNqSU56ZnV1RHdVb18xRm02Q3daWXA2UEVhWGlLNHhPb1dhcUdMVGJpUUItMTlBZG5JVVk4Q0JPTTZEX3Q1UzRRWWlqVVF6TXV0YTQ1U016WmtYWm1DYmxZdkQ?oc=5"
     },
     {
-      "title": "中銀孫煜提倡 港聚焦融通與賦能服務數智化升級 助企業出海布局全球",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQWXFZR3BmV1N3QWhWMkVvb3FDUUhqbEtkS3dJaE10N0E4QlpQYUU3Xy14RmNLYjNNLVRjWGJ5b1N2QVFNS3ZNck9zblF0bUx1ZE1pdnVOWUFzRld1S3V1ODcwZFVvcFJjY2RQZVpWYUhrUHFkaWVKX3FSR1JMMUVFTWo4eXNnMExac190Z2E4Um9wRzkxcnFpcWRta3ZqRktXMkJEclRBNlU4dlluaGhwTnFSSFhrZkFKS2Jma1FuckdoYndhOTFHX0VaZGpFcDVVQzFITnZYZGJLOGJNSnZubjJITE1MTHJtM1ZockhSa1ZsM0gydWNzbk1FZnU3MFo0X2txankzbFQ2R1M0dHdTSA?oc=5"
-    },
-    {
-      "title": "預算兜不攏、援烏太燒錢…歐盟經濟內外夾攻 推升示威潮",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtbWZvblVra1I3TmkxZjNmUDV2S2FJanM1WGZGcFBVNl9CcGhlS3RVTkExTUFtbFljSHpsaDg4alNEXzVtYkhWakNGUmxwenB60gFWQVVfeXFMTzZSekNWR2l0UkNWbS1heVk1OE5mSFFrMnNTb1U3R2NfSlZKZmJldmtCQkREai1BODY1THFuajQtTWZIUU9MVkhDb0VhcWJGemliMjhvMmc?oc=5"
-    },
-    {
-      "title": "美國國債收益率回落，伊朗協議希望推動 WTI 走低",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDZqT3ZQNEFTMlNLcEotSmVJVk42LUl1ZHo1ekg3bm9PdU5aX2hiRnpXWXVadVQ2YWV1bjhSSWFweHhyMnZLeUJCNE5wZ1pjVW9LSEl2Sm0ySFJpTmNPV2xVM2Zld0ZON0N6VElpdmNFaldHNXZmLWF1ZW1meWh2SE93b19QbmhJVlpaU2R6RnJaLVZKSUN3QUJTT2RVNWltek9PNDRYQlBKdTZ4OHJQZF9GWENKZmZzTHNQQtIBwgFBVV95cUxQTEh1UXA3VnU0bkRqWFkxRXN1UWVzbjVkYl94LTNydkpWSEw3aDAwV0NNaldEYnVXcDhVVTZvVmVSYk02VjFsM1FEMmJrOHlmSjNYb0FReHhHWUxtVnZQLXB2LUpqVXNSVmJXbFZCVjFjZmV0aUJNa0paeXFfNlJzWWxkZnBwdWVSWWRRcjNVMnIyZWxfZ3VmbTRpMDNsRGY4ZllzOFJGa00tNDlmY255ekZTOHROQm14a1BwQThvcGhEQQ?oc=5"
+      "title": "國際｜國際油價衝破5個月新高後回落 市場續關注中東局勢",
+      "source": "Fortune Insight",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPTXpaVW5VTXVQaG90a0ZSNHpNWHVMU0YyamZlamFkMjdZNnU3OFZ1U3lrX04waFd4OUpFYzdVTFU1QndpQ3c4ZlcyNjZFRzg4Z3lBQTVGdnVQTll3aUYwNXBVNk9haTNVRHZvcUx1VHMxUzBhUWs5a0V4dmpNcEVlVWt1bEhDcERlY01WOEJza1p6VDM3c2p4UXIwWi0yd3RvWlVpRmJBYm9rZmRIRmpWTllMcGE2dVphMW1sSHZsTDFxLVp2b2duUF9QMTdYVDUwOVJmNFlHTUZzSVhoMlVTd2VxVksxN3VadFU5LXFrdWtOQWloVFotQ0JIcW16cUszZ1k1SnJDNllHUW1DVTNBcDJtZTZFOGFLdWVXNFJBNUUyYTQtTmJ1bHRPRTNrTDBwT3Uxb3lfTVB3OHVSaW5zWEVXUk9tMFJNWnh0VjFCYXVva1ZnQjR5cC02MlgwcllzM2dRXzdva192cFVrRlc2Q2hJcUNqT1pNZ1ZGM1ZYaGNlSkpGQmVKUVdRUmowRXhJLVE?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股初段個別發展",
+      "title": "美元下跌 較長期美債息回落",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tNTdHa01TdWpleW9rM3BjZzVLVXczcFc2Z3g4NjFaR0tzbmF2bjF2QmxnOW5jbEUyTGtBY2FMS3p1bHJlMDZLYWpBMzdVS2Y5Z2F2NUoyeUVaeVlCWGYyb2xvWjhhZlhyT29wd1RMTQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCTWxYSUtoWjl2ZTFQRDBlc0N6R2NZTHpXM0dkSDU3WGcyVDdQQVFOdW4tcS1vS0QzQ2M3c1E1SnFyWFJNME1PYUhaZkMtSFpKLVkwRFdtbGZZM3N2Z2ZkTkRZTlRGdkNlcDNzQ3h3NA?oc=5"
     },
     {
-      "title": "美股動向｜CoreWeave獲高盛唱好曾彈，債息飆升引發市場憂慮",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNlBuR0ZCbHBYVGVwQkdDbkdoY3NYUXloMWFkQXRBNnJWR3pfWDJMS0ppSE1UT1RoR2JQZ2dFVVZrREJHWjNEY3pHa0VUbW5KSGUxSWpSMF80NElLd0ZTNmYxRmxrQkNyODdfdjhEWVBLS0htSE82R3JKdUIxaUNRR1VrN3FxbVBEaDF4T3hJNVlCQWhxSC10SWJsVXpWWF9n?oc=5"
-    },
-    {
-      "title": "美股｜禮來多情景股價預測出爐 千美元投資2031年最多達2228美元",
+      "title": "美股｜資金輪動撤離科技板塊 油價回落帶動道指收漲1%",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQd19ZcUc5WjlZaW1EX1hVOGtxcWc4SjRIZDNIQ2d5RFYtdEpSeXh3OW1uTWZwbHQ0QzFoR0R4Y3NWMGxtX2dNNHRfZTVXTkdBbUVhR0pjZ0VkWHpLWHdyczBxTnY2WmlPbzB5UDFtbzRxOU5aS25ZM1lHUHJSQUNzSVJrWXlHcHAtNWFPcXZlOG5WLXIydTg1RW1hcTlsVURGelBUSmtKYjJGT1BzWTVFWGtXc2JsN2lOSW1EVW12VFpkVExBNDZjZEMtcktJYTdEVUVpbjcxRnlEbVZTMlJfQmdfajlHZkhBYnhPVFJmTWlfclRITnZ0a3VBUmtucVpzZW1La3NmM2Q2NDBFRWFFWjVQNHhnVFhvM1dIS1F4ZTM4YmhWdWg2S1dacVN1Y25nM0JvUXFMRWJFRHNjQ1RxTWt5YnhVdkZ2MTBSeG9mQVh0ZDJqWlRPT1ZOTWVJeVNrV19zRmx6WTF2WjNCQk5XbmtER0M5RGQ5eVpBT2tMZE1pekJkSVdmeWZWSQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQRXhGRXdDbVZUTHpDVGdwd0NLSjkwa1R6ZVlROXpOajAxUEk3UlEzeW5KTmRHalhrcjZod05NT0NPUFNfc2ZHdmIydnJ4d1RIaVJtaXRLcWJ3VWpGWVhTTVlvWXF3amh5d0tLWTRncmlFNFpwNmJnNHpycklUdm1YeUh1UldVRThMSTBVYW1SZkdneDd2a2U2eTA5ajNpa21YU3gyYUdOWE9rbVh6ZzNZZGk5RHUwU2VBaHZKMWQzREY1c2NBczhXUmVqd1QxcV80c2EzeHVtQnFrNXY2YTdSRjg3UzRUNExqWHZ5eW9jX2dDTWhrbGM1clBQOHgyalpOaUxSd0xTa2Mza0xJSThPbW9oT1p3dHJqTXVNVXpjSzQ0cTd1a1JUdFJKd25haHNPd3ZLTTNtelVETndvQTBSUE45em9uQ1pWVzBhNE42YUFrNVhJMHFtZS12VUZid0NwUmFUajhwdUhtQQ?oc=5"
     },
     {
-      "title": "美股｜道指最新漲近700點 納指先跌後回升 油價下跌",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNNHdYV2lVeDZlSDBiRVl0XzNqRDdDaEwybHJKSlNjRFVuUlFEeEdjTlR3Ync0bW5KRkE5RG56UXFJTFZKVUZ3a0R4YWR0MUZDbmRsc1lZblRGQ05SdUNoNURERm1ZbGhlM19tMTN4UGR0cWgzYl9xSFZkRExHdUlsd0dSVnFBbzdTOXFxQW5ud1VKZ0xOaDZtVEc3LVRzWlJFclZNTGZHLV9uZ0JnbUxpbVFNTUExSmdqdFBIT21FaDZXUHlXeE85SUpTZUtHYlFoTXRocGVuQzQtTDgwek1DbFJxUDcxQXRvRTRZZDd0bElJalBQaTBsWUwyUFlPakd5MHBVcDBNQm02cXdpUVNxLVRNVHNPeEUyVDU4MkhNT0FBNkxqbXhGREJPTVNPaEYyMzBJa0xNcndhcFJmR0t6eVVfM3RIZmNVdzkxR3k2NU9zTGFFT0pBckZ4ekZ3Rng2bUhUZUtFOUtZcmdXdXc?oc=5"
+      "title": "美股收盤／道瓊勁揚1%、費半小跌 資金出走科技股 轉進醫療與價值股",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iYlh2T1dnYmlhSlBtc3J5bXJseFBBLW1VTnlxSXNMbjR3cnRMd3g0RGRNWVBQeGl4X0pfMkFPdzd6YjM5ei1TZzkyZ2dJUDhPQ2FOYm8wQm1MZElZ0gFiQVVfeXFMUEpKaEo3YVBBaXlqaHpDNDhMYlcyMzdUVF9Rd2dLLWJEN0VGblZnU0MwMDc2R2VZRGFPQk90aXJjNWdPVnR6UjA4Rjc0a3NtWTJvcEpvR1kxTlJrcmFFODUwd0E?oc=5"
     },
     {
-      "title": "美股走勢丨科技股回落 惟道指早段回升近200點",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOWkl4NkpUZ3c4V1FjN213d19NRW9MQjdKZEhsM0RFdFl3NzBIemxwNFZaLVp1a08wc0JSZkxSZ1V4SVVrOW5BWkxHbHVQOGpQbmpqdEpwNUpaVkZPS3dVVHFwWjJJa2VTZjNQbE9xS1NwZ0txZTlJM01LajJRQzhBcG9IVTlMRjNKMi1qRlRTRUdVSjQ5QURLaW1mZVVkM0hqcDBlblNYdWNBcmtsajdsSmRRY0FTYkVkWmpVWXQ3NThiUUkyVEZOejR4cnliZ2ViY18xSVpmV1FRWDZWR2NfTHVIMFA1bUswTlVOQXlmelhHWV9zX2pVaks1OFBzYnBGTmk4a3dEdmROM3JTZEFWbnJ3R0lzZU9PMm1uaDNybkVkaE41aDd2bTVFWXplZnVpYVNzNU5YVmRPQi1udUJQU05ZTWZySkNFaFZXdVk3cFZ4LVY0MGZZR3d3?oc=5"
+      "title": "美股日誌｜道指彈升5舊 舊經濟股領漲",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcXUtdUcyMUYweXJQQzM1QVpZY2xCakdZcHNNZHh6dWgxZGQzZE5MTlJnTXJWdHF1MUs5N1Z0bFlOVjVCckh4X29wRVJSYlJsc2lYNTZMa1M2M3Y5bEhmdnVuQjNKOC1mT2JGVTFWSTF4d05MUXJHU215MnFkLTJSYXdhMEVhdnV0VTFWUmdERXAwdHpHaGJmMC1ENFBRRWp1Mm5UZVlwdEdOaUxjZFdTR25HY2F6cWJsNktzakotTW9sTGo0dkFrWVNSU2I2aW1VN2JvYVpQb2JYYWpLQ0tTWk1pRGZGcnk0WTA4eVVsLWp4SkRkRWxVd2I2Nk9SRlhWLTRaUmp5bkdaQVVhdzZvVVo4aw?oc=5"
     },
     {
-      "title": "美股早段個別發展",
+      "title": "美股個別發展 道指升逾500點",
       "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvLXBJY25ZOG9RNEVQOEpjOVNvTUdHRlRPWk41S3FBT2hVVEV0X2dFTjhkUlFfcWh3bVo2WUNKdllOQnBMVVB2eDR5WUg1aDIzUkdpSUpn0gFbQVVfeXFMTTg4Rnp6OWNYdnVFejlRdk9tWFU1cUI4OFlUbHN0OTBTa0preFpNNi1pNkc4d3N4b25PeTNPdmZORmxrM1BCWUJnY2pSYzBXUHdralRBcnBLMzNTMA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tZWZPalB5V2VRbXJLenREWmMxNmFGTzl0UjJLNDJ1bWFkb0FOLW1fM1B6d2tvTXp3VjVhUjRtc1gwWkt0WjR0WldGZVBtMHdqeDJZeHdB0gFbQVVfeXFMUHZJbTVzTzVKTWRGdzRXY1pqNEJSX1ZfYkxPRTBCdmdmNGxiMWJmRHpkMWZYZGRKbDMyNS1YVGZQcHdja2EtQ0wtYnJLSHpHVW9NYjQwbWx1SVBxcw?oc=5"
+    },
+    {
+      "title": "超大雲端服務商AI債務 標普：或多於外界所知 - 20261021 - 經濟",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQaHUtQk8xVE14d21MdDRlbDI5MmthSDZUbXh5UlNydnhOdWFSUG1ZNXQ0Ti0wZGtQaUxQM3pRMm5vSk1NQl9tbE9JN2tpdzZ5M2c3c3l0WjRISGE3VmhxR0RKaFk4M2VJM0VnazV4WlBxRjQxelJhUy1ZN1RSaV9VRFMxazZFTnN3aUotQl9NX2dBYXhBNVR0REZ1OUdhREFPWWtaSTZVeDMzdExieGpWMEhTamh2NUNVRnJUQ1NDLVQybDNITEUxQXRnS1pudW5EdXJqMG5jUW9CcWZZNS1pN2VYRE5jT000N2NWS1BMd2gzWXZ2ZjN2RWV1MWYyVk9oTVhVUW0yMmZwYzBXZlpSZFM0RDhGa3dIUEZTcE9ianZYTWxocWU4blVqR2o3Mk5yR0RNNldlVDJNbUFrQmVWVW9ZZmthMWQ1SkYyZ3VEenJ4ajlySmRRVlVrMnN1SDE3UHc2T1pFRTY1NlRs?oc=5"
     }
   ],
   "events": {
