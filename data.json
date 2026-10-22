@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-21 20:25:14",
+  "updated_at": "2026-10-22 07:15:21",
   "gas": {
-    "current_label": "10月21日 (現行油價)",
+    "current_label": "10月22日 (現行油價)",
     "current_price": "173.9",
-    "predict_label": "10月22日 (明日預測)",
-    "predict_price": "173.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月23日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "國際｜英美期油收市走勢分化 地緣政治及美國庫存成市場焦點",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPdXJIZGR1NEhuOG5IaVNfX1VNMUMyN2RMcWFLeDQyR0E5djd1bnhoSXZQTTdEdy1pM2lWTkoxdllQQXRZVWNpWG9UNk5MM1d2RWlhUHgyLXdXUWoweEdUU3REdGVEUjdHMnhIeHNOcVhVNTNzUHUwclVJODB3YnNPM1VnQ2dUWGNpdERQYU92c3VrbEozN0dQRUdscW15UWJQajJLN1FLSXJYVmd2Rkxqd3VsdEM5U3RzY1lDS1ZnOE55aVo1N1Fyb242U2lhcFJLNndFeDJaR1Q3VDk5bkZLdm0xdlNZZ3NkUnFnSVB6V0ZGM2JlUmFtN3hxT2VxOXphQ3VtVjNWVnROQTFSMzZCOGl0cGE5dnFORzBrcUZ1Skg1UjNTR3l0bXNVLXkyVGdOUmFHeHFQY1FCUUdGUG1Xa3ZGclZyZWg4U0M4OTFMZTExUExyUUFXZUd0RXgtVE1rbkhJWm45X0NQZk05clNmNE4tdnYzQVhKM0N6N1VvTUo5WkpqOTY4YU4yU0dWeURLWjBRVFk4Wm0?oc=5"
+      "title": "特朗普收緊綠卡政策，印度科技從業者的「美國夢」面臨考驗",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCYmhMdDRib0wyQ3p4Yjc5Wk1rUWZSYTFmd0JfbEI5UTYxREtGVFlPX0hHUG9HVEd5OVJvcWxvMHRyc0JNYUVHd0FUckcyTEVBal8wRkk2Qnc0UC1MZFhHcjY1UUN6RDDSAWxBVV95cUxNSkZIWktfRTh4dDlfMTFPa3BIQWlPLVFManJETTdRV3BUaTFuQmpvVXRwWkY1ZzlIU0VJTlhKT0VvdVBVbkQzVnJHTkttSWN1UWxVSlVweERma3lZYjRXakcxUEF4Y19LRk16Wjc?oc=5"
     },
     {
-      "title": "伊朗告訴美國，通過解除封鎖來證明其想要和平",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdGtTZGZfQ1dhZk5JVkF3eEgxVktUREFIWXFPSE5nNGg3Nmw3Vk9selNfTnlBRGluN3pLZTAyTHRLYXJMd3hQYWVuaTc5bDA3Xy1UX2dUUW9vUEJONjZ4X3NWR0UtTFNORkpaSHNBNmV2WVZpYmprWU9fUzdLb1pFeThiQ1UzdkZWQmdQai1DUHpMOUc1TUhLTVdmb2JWNXRyU1lFTHphWWFFSzNxY3FkbGdkZE1YUmlBM3VLWmgtdm5nbGtO0gHKAUFVX3lxTFBObk1kaUhkNXdySDNNbllXYkg3MlVYUUxxNE5BTjhYR1N0aTVlQUZkbjVjdjgyaWVNTzlKU3Q4TE1mQkgwRFVISV84NXByU3RCNEUtLUtmU1pYb0Iwc0lTcFp0MGtWZUVqZ1BRZVRDaWFrVGpOU09kSTloeTZ3ZFlJeWhFMDIyOW9qQW9aUXJXQi11VGUtOFNwWGJDeU5UNjliM0h5Y29PSXZmTVdmeTJvSWotMjQxRVo0dkhta0xXTG5KVlQ3WDBmbkE?oc=5"
-    },
-    {
-      "title": "普京同意恢復俄美烏三方會談　澤連斯基冀下月初或之前舉行",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUdmxNNFBzMDJfZmF4ay1keldNanhCaGFoTkxqYXZlQzNBd1RweDRPVUhkLTUwdWJYVUJwWUhSRG03RXdsRDluTUFOejBwUVpUNkdSSUdVbFhlczFaN1HSAWNBVV95cUxOU2pidzFudTJWSDdrVXlOejdubjA0Yng2UDV0UjdGYlhvTi1VT24xVnNnQ1lOOWdXU1Z2NUhRM01NcXZmYTY5UVhsV2JjbncxcWNhVDJGRmhhaDhMWmJWYkFoRGs?oc=5"
-    },
-    {
-      "title": "歐盟查外國勢力社媒發假資訊 聚焦俄伊 - 20261022 - 國際",
+      "title": "短片：特朗普不滿提問俄羅斯制裁 白宮外罵CNN及ABC記者愚蠢 (17:48) - 20261022 - 熱點",
       "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOZU9qSndVRnluV2dNSlRjZGF3VDRoNmJ3VEtTMzJQX2FMNVUtT3NBM1ZmdmZjLU5mNzVLT0ozaFp2YmJLajNSSUczRml2ZzJBSjNKLUEtck9pTXBaUEpweklPUXV3c1RXdFFFWXhQemhNYUNCa3VRbWgzQzNCblpDQkVwa09jcWN4aUhNQ1dHTnk1VXlTNlFuTlQ4akNjaFJFNEFKRm1ROTdWakw4WEdKaWlqNWdvVkU1dzV1ZDRCUzdvNHVEZE9IUUJmOWkxTDU5SHVzR1lnV0o5RVdtN3Y2Vk96eHAxQ3NsV0M3ejJ3aUhsQ0JHV2cxVTdQUjVudF9heFlrelBxSkZzZ3NlQ3dmX2txREZxYnRJY1NwUXJNOUk5QjVnZ3dfbkZQRFBIazhRRFVTb2x5RUR0TWRLblJ3dXNodVFLd20zRm1SelVNTzZtcFV4RGxrR0NqNFo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNb3dpMWxwa0xMTVZrdnlKQ3A4OHF2RGNCZ085cW9IOGNUWFBiWWFUZ0ZjaHRmeUNIb2dSbzJWeE9iNW4yNHg1aGZNMzd4S0gyQ0wxZ2V3Z3BnTHVUSXc3a3ZvWVZscm1ITXc0R05rZ1RId1M4UGwwUFBndlFyOXA0OFFmY25BR3ZvSTZOem9ZQlRhSGp1VHgyZFpYYmtQbUwwOWNFemdXMnNzSncwUE42S3dhN0VlcUlhV0lTUEFISkh4MGNPRUVXbS1meTcwdHlYbzBOTno2X2VtdFo2a25mb1RkallFM05IME53VmxaS29tNERzRTVNNXo5NTIycjREQTBYR29mN2g4UHlqTVBGc0J6OFlnTjFZZWMzN0JyeHhycjVPcl80N04tZk0wN2hONzRjX3MwQm9uMkZqcGVlQ2NpSG4zZ3NQNlB4TG95U1paa1dHalNxUlZCS09OOEZuQkRieUVFOXVzWEVjNW1lZUR5aDhqR0ZrYmZHWDJfWDdlOUxmUmVsem5SbGw0RmZjNHNyU3IyVjhKRUZjY0FqMUVwTFV2cG9STG96d0pR?oc=5"
     },
     {
-      "title": "國際油價收市個別發展",
+      "title": "鄧炳強與訪港國際刑警組織秘書長代表團交流全體大會工作進展",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tWFJ5LW5ZUVZ2Rm1KQ25YeFhJWC1uVzNxbHdNVmpBQlpZcEo2WHhQVFRCZlRhU1puOFdrZDRaSmZCX19paFpQUFZOeHZxZWVac01WNm5iQzBlRGMwSlo0cGpNVXJwYmh6RGRRTzBQRQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YancwRHJpVHZwOEZnLWo4bWt5Z3RVOW04bWxCZU9kRVl6MHdHMjJtbWFXWnlGMkRDOWlqZXR4RFFnWnFVa1RTM3p4dkMyR1VmMm95YzZ3TzNSVlRuOE0tbWJTS1JIcVRqUDB6endHaw?oc=5"
     },
     {
-      "title": "特朗普：俄烏戰爭“接近結束” 澤連斯基支持舉行三方會談",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQLXFSaFdUVnlQRFJMdVk0MnNTdU84NzM2VGV5M0Z5bnZjLVNaeXFSRVo3MTBhSi1remRNdTBtQ1k3NGhYRWZ5Y3AtcXdlUFNrRm8xYnRJdmlSem5TZUYxYTFoRldTSU9GZUJrSDI2QjFzMHBBRG1fcHlobkRmUFhjT1dlTUxvaEpnMzBlN0J6TDRaeVozNHpna3ZTdDRQRVlEVWFjc0YtTk9iQlRGNjhIeWJfMXpDMnJUU0JVUEVJdlJockxRdlYzWU45TE5PcndKWnpoWHc4b1FSQXk1Qnk3aU9qVW5heE11OTc4c1h5U0pfQ0ZIUlJnV1FBWHM4YVFKclllTlhxSjE1S1hDUW9TQ21KYzQ3d25naUxoUzNjSlpPRGV1Y0dfdjl1aVFzcE8xNWtIaE9XOU1WRWdyWGxPWG1fZmJFdUJjQTRtVDVnT2xKUVhkTUhUSV8yY1hGSEJHb1lZZG9ob0UxaFkxcDNDYzF2Z2xOZmM?oc=5"
+      "title": "羅璧君教授團隊於加拿大國際發明創新大賽榮獲三項大獎| 海洋環境健康全國重點實驗室",
+      "source": "City University of Hong Kong",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DUTAwTVdBRzgtcWJMN2hLQkg3SUdFVl96R0VKcHhoeURqcHBGQjYzeVMzWlZyWkxFY1NlYWZ5Wm9ReFFWbnFoandXU3gwVTNVN0k0cFRKUk1IUXREUkt2M0U4T1N3anRBaXpWYkxDYndvaXY2cGVydlZVU1U2S00?oc=5"
     },
     {
-      "title": "CTBC x RSM x Kyriba | 【AI 驅動全球財資新典範：從數據整合、智能財資到自動化執行】實務論壇",
-      "source": "RSM Global",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcktaRVNCUk1RaTB4M3o0RHZudS1DV01CVHgzV2d3a1B6bmhZZFpaUXQ5SG9zSHBlSlZnZ1V0WnQ4Vm8xUTJyazFtb1hYSlZtOVk0Qk0td3JzQm9yNkhaLTJpMkVYaFA1RE54Z1VnbVNNZFVlVWFGZ2dJTVdhVUVJQzZNSlRBWVlNdTVrSUZxTkhoSWdhV3Mxdms3QkRiOGQ3c3hQU1hFNDM1N2xMbnlR?oc=5"
+      "title": "《大行》摩通：中國建築國際(03311.HK)第三季盈利遜預期 盈利下行風險仍存 重申「減持」",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdExlV3dkNzhMQnJxM1BRSnZYRWZ2SG5RUWo0dGJUQlA0VjRNRllhTDM2UEVtamdldlZiR0x0VGw5bUZVZ0VHTTF5S1NfSDZYc2lKbkFiWWNKQXpBNkVFOXNTbW9DTW02dngxT1VBUFJTVzM3NFdqZTFMNlQzNlJ5UHlFWGpDbmtmRlNxS2pUQ2VETTRBSXBSV0I5QUs2VGNKQXIySDEtcThvbFlqNkljVUhxT0l5MWZYNXZXLUtKem9FNEhBTEl1enA5WWhQTnZnR0ZsaXU5U19KejF2eS1zQ2JMNUU?oc=5"
+    },
+    {
+      "title": "國際｜世氣象組織料厄爾尼諾將創最強紀錄 極端天氣威脅多區民生",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNSy1fNVVuSUFTSExLa0JxNkJSRUhxQ2haVk5rVGtrTjB2MVRlbWZ2T1JQWGVCc0NyZ0JUSFJRMVBBS0R6TTBrNHdpa0xoVmJRRWlrM2hWcm5yU2RGYVFwc0hoNkQtcWlmTVpnb1lVSTJ6WkhLSFpIdjR0dDQyRXFocXFYc3pSdC1Cb1liMzlRcGV5TEpFSXZSRXZ4MFpGRjY5aTNpcmJ6MmZXM2JQM09nc2pISklhU2tWejYycl9oRmd6VFZIUmh6U3hTeHVVbXZJQmVrblg3Vjk5cThfeWlnNFhITEphaVBrcUtQWGd0T2pNbzdJTVEyeS1pOHRHMEdQdldCMGRlRkEtT3BoUXdmOTF5bGdBYjQxOEVjZEFWdFNnbnVYbUdzQ2JORHZ1NHdoamhzTW90Y25ORXk4MnpmUFVkZDFwY3dNOHlsUUpudDAwSmtjbHF4RUppTTEzM3M2VGdZbkFFNFBIQ25mXzNDZEZOYjRXNFRzcHZjSHVMelVfWkdxaFpOMTF5d1haRHExMzF6Y0hpbDJ3RXN4VDF4S2kxbER3WkdmV1lRSkZtM2E?oc=5"
+    },
+    {
+      "title": "國際｜滬深三大股指全線下挫 創業板指較高位回落逾四成",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOWk1ReXJHWElFRWJTVWRfVkY1ekxOMlkwNklMOWl6aWlRS01QWWxadDRPUHRLNHREXzhiTTBLa0dKcGpxSDBFbkd1ZkYwR3gxWVNWMXU2eUNUOThfNGlJSjFicDRNYU9FS1p6QmtHNTZOQUN0MWQwd3NHVWgwWDJOVzh6Tld3YWU0alRpSjFBLXVLOThFT050a0JFZlJYR2xxRWEyQVVXWkZDRllVelFqblN0R1BQZDhDOXc3U0VObHRRVDlfQ0s3a05VOFdCUGZQSjRUN3oyYkhuakZhS2oxaldPSGxqSnpadVF5UVlYQl8xMXB5WXROVlk1UGR5Y09hRnRfWmxuaVNxLXJjWFotTXF2SUdJZ3ZuSXh1SXA2c3R3ZkQxeGdKcy1RR2RQdW1Fb1ZhOGxCTXozeEtseGJwVy1iVEhDcndJeThzZHd3UFVVSXZZSkdCMjZpdi10c1htOGR2RUVnTVVUTHJ3V1BYYnZNUWlfOUpmcGJVdnpISVI?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "英特爾公司 (INTC) 股價、新聞、報價和記錄",
+      "title": "前聯儲局主席鮑威爾6字警告從未如此響亮 華爾街理應感到恐懼",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xT0puNU9SSTNXTlhoRmZpX0tac25NU1hHeUs2ZEQybldFU2pMOWpLZVF0ZWl0T2UweDlvLWtVeDlYa2hYblZUbWhLS2R5TEZhNXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNOEVNdlNkLXgxOHo1R3NDRVJ2MkRobTBjY3g3SDZiZkE5azBzVWJsQ2tkZ1lXQUxxWHZla2RfSTNYSHVGRUdnRmdoVFdXRzB0d3BJWUR6WGdRUUEzZzRpenRpVlRFRGxKY3MzQ2I1Y21hZy1VTFpLVVZ5YzZtNmpkaXZmdHVzc1RIMk1wU0U0enc3TGxyNlhWcEloUUdMT29ydjZrUnR2QndQRlR4U0d0bnBNdk80RFZ3ME8yUXRLNU5mejVLRk1WMjBQejdRMVp4cGhTSkdzQlhvWDM3ZjlpbEJRNVMtZDVYRE94X0ZiT01yc3A5UFhIa3dkQnJEQXE0SW4zY0xYRWlUaXN0UGtYWlFxZHdqSWdna1d4alkzRUVRT0NfcnpKRURQYUNkSE1nOWk4THlzeGFYYXEybUhoYl9BQUJFMXg0U0l3UnN5bl9NTnhIUWN3ZTB3MVNWMlUtbXBTazZIWjQzMkdjYzk0eW5fNkNCLWxYR25iaVhmb2Z0Q2VMZkV2ekpOLUlyVmpGd2JhdGNBZFdIcEdxZ29ZYUJnWnM?oc=5"
     },
     {
-      "title": "美股收市｜納指漲逾1% SpaceX績優兼研與Tesla合併股價飇7.8% 伊朗霍峽附近傳出數次爆炸聲",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxQdFoxY1FhVkNJdEwxUTZ4X2dGQ1ZNVE9lZlJxTG93RHgtd0pCZFJlb0JqVGZ0UVcwVXZ2bDRXcEVFRV9oNTNWWjVqT3dWa1AtbVR6UVdRRUl0NVhpUGVtTG5CMUFmVmtmUXRKNWR3RHgweGZReTJWOTFpdW10UU9mX2VxYWxWT2ZCY2owWE0xWXVsSlBxNXUwMi04WERPWkJ2emZfS1FtSEZBSDdvNVc1TEM0dUd5ZmJwS3ptMWZvWUZxRGYxUHVfSmV2N3dvX1FsTy1yc25vSHBPYjd3c2M2TE55TjNLV0dpQXJDWF9ucGEtSXdhaHBXdFZSX3doVHh5U2NYeHh6bVdobUVnT1N4QWxBZmV2ckc0RHRaaUxkUWF5Yk0yY18zaW9oUDd2cjRCenFXSUJTUm5NMGVqZmNwR1RZOVMxRFVybUxKdk1qRWNSYlhkSHhTd1U1Wkc4dmpaSXU4N2pEYXUxU0tUUHpnSU5Gb0lBOVRoV2lXbFNOYkdJcVR4WGRfS3hIS0IyWDVjUTMyaVExdWZ5ODRQeEs4TzJyRHNldU9xM1p6cEliQjJoclQtVnhpUHU0azZXak5BY0ZSRXM3aVktM0p5Znp5SE43TDZXY18zQzFReVRyd0dDU0RlSGptaE1FS0I3c0EtdVhXM0p6QQ?oc=5"
-    },
-    {
-      "title": "馬來西亞早間綜述｜人工智能行情提振華爾街；受科技前景帶動，馬來西亞股市小幅走高",
+      "title": "預測並贏取 | 聯儲局將在10月加息嗎？",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1B4cEJscWc0eldIaVNvYU1NWG9uanFCY3Q3MVVuVHljbVpxMTZDbzRRN3FuU2ZIMGpwcF9EUWZMaFJPbnpoLVZmUmpubEFFUERISVUzSmR4Sk9wdkxWdkllUE42TUc0WEo1WW1kQ2M3d2dtWkpOWmd2Ni1zV0ozLUo3OWpyYlBURl9raVYxWHh2cFhvdDJmV01lMWFIR2ZLUTdZa1RfUlBFbV9vWmhYVHJFQVZtZ0ktQ09B?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm5oTElPLVUyaWdMXzRnTXZURGxIQjl4WHpSQzJhQTRNYllxS2ZkcG4tcWZWblh3aHFOWnBHMkJKLUluTndSNk8xcnBnTFBuSkN4VG1nYkhVeXIwNTIxM09nbU9zeU9tOURxLU80TlotZ3JBT0pYbGhDUFJZazRXaWhaNWZyc2FmRmVVckItZkpLV2JZZDVha3cyaUNVV3I0TWVHSXNVWVRYdw?oc=5"
     },
     {
-      "title": "Options透過Nasdaq Options Feeds 擴大資料覆蓋範圍",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VRWdpZk1PV2t3c2E4eGVxOWZBYlZ2OEFaU3FINWtqSExTamFZTG9mZmNoMUUtaDljdWZDT3ZuQWZuR2E4dUE1QXp2ZmVHUXRGalNfVXUwd2JiT19sank4VERscHhqcjl3bEl3?oc=5"
+      "title": "美股期貨｜道指期貨跌275點、納指期貨跌1.6% 油價升2% Tesla夜盤跌逾4%、META升2%（不斷更新）",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxOQUg2dFdWOFhCdzRTX19pOXBiX2QzdUVZOFFXVUZGMFQwT09jeFg4WUtDOGhIN1RqbUJkWjZOaUkxdFRkOFQ5ZW9pOV8xNlZ6Tm9DcE00REJYRlA5cGJYOWRpWGZiYU1QVnQ4XzVPMkdieFptMWVxV3FlalhpU0NfaGI4aERmeXJjRTR2SklRRGljc2doSUVaaUlMOTJsZTJCZ19BcjF3cmNRQW9qd2UxVXBLTlFCWWRGeHA3UTZzcXVTNW11YzZ4RlNJTzB0aXQwZ1Z1WExiSUlsblppQmZYMEE5V1poXzJCVjVUUVk5WTU4WV9IMEszZEk3a25QcHdhZXFTcVQwY0tyNE1XeDgtSlo0OFpLbEt4aUNSa1Bpb2wzZGx2QmVIdWpKNjZoVGpncVFsZW5rLXJqREQ4blFYTklvNk96dWxIeVFVdnJzaW00MG9SRlpUT2MzRlQzd3JJT1NXWE56OUE0MDhIcXhkWFNXNEJwOHdSMmhFM3BraE5LS2YwU0paSGZxcng3YWgwbWFjbXFmeHN1THZESzhtY2hyWm9sRm5KNy1wVmhDNkdkbV94R01oZmtibzdtZWx3cW1PUWVZWE55ZGFQU0xkd3RVZXlFdUd0OXRfQ2lxWkkzd1RHZEpvdEhscXIxYXpHVzBJSG5uMndMTXFtT3dGcjhZOV9tYnJ4cndUTDk2cWV6em8?oc=5"
     },
     {
-      "title": "美股日誌｜業績旺季殺到 科技股亮麗 Meta計劃拆細",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPMkthUnJNV21UUEhqN0x3YjBGWkx1OTV5VVNPT3hEQVFIaDNHcjdmM0tlWDNESTRXN3NVSTROLTVucGRuTUVYUkdScUNpX3E0RGRvV09BYzFMaXlTU0Z5UnlmNnRMZFIwSVVCZ3c4M1pZOEFXbHpkdzV4YTBLSWxRZlR2N3pRSkVkYmoyYWMtaEYtZFFEYmlnYXpRUk1VSDA1NFE0UjVEeWFjei1yQUJDX0N3bEF6b2phYXhlQXF5UkxoMHFzWlp1d01MRDNwaVBsT1poazFVNUtrRV85MnZHWENqcHVDTExsbjZaQ1ZfUnI5T2ZFVzlncmp5enRYb0lHTnFhWGdSSndhTEtmQnl1SWlwTGRtUHEyVlN6NXByMmxkTXZhdXItZlFINUhLSTZQVVppbWg0amRBd0NERVRHRmpyLUdxc0hV?oc=5"
+      "title": "【名家給力場】聯儲局下周議息「躺平」？",
+      "source": "Now 財經",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPZTd2NVJvaEo0cjh4UHNVOWNscWNLUV9feDRzTnVid01GTFFUdmstZlg2MkRST1d1RS1MaW9Qd2xrelFHQVhKN3JORUV3MlN4RzRETGlfRXlYekNZeEpLWS14WFBwcS1RUFhrTGQ4dVV4cWNxUFdN?oc=5"
     },
     {
-      "title": "恐慌指數反映美股短期前景未明朗",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRWpNWjFHMVBMUXF3dlNSODRmV2VaS1BLQWNfRzdpT21ZdHlfeVVwUDk2T0hCT1BIaXJNUnlaSHhXajJpYzAtTlk0MV82bWRqQXV1TDhaUzFpYzNLcGdXbkZlSjN2M1pIc2dkYkZ5WWt3NDZJN215RXBGa2pYNlV5ZVBQeExrbjNFczdwOExCdFR3WE5fZmlLTGNvZ2tHSmpGaWpCZVp4QjhwaUNxRWJCWmRub3JaM1dUWUtNQW9RZktCbS1qbVVIeWNJVExaYVlGRlRTWlVHd0lTZGl3ckNtSnFpRXhOT1RCYTBzQkU4QTBnNkxHMVVmbExLQno3TEdEQzZ6RW1vQ2E5eldtVmNXVFRDaw?oc=5"
+      "title": "土耳其里拉：降息加大貶值風險 - 德國商業銀行",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDBJbEtBS21NMDJPazFJVkYtVGsyM3dWaFJxbUdKandiMkRtUEZ0cWFSS25MMGxxaGpVcDBuX2dhRmZHXzY1cXRfN05sZDNvWkdSOHkyWDYtdmtJVW5vVE12VFlnbWRoQkVWczdkMlZ4bVNvTWxFRGxad2pvbzJMSGRBbjJRYXg1Mno4cWhDZGhodDBNSC13MDQtWE1XNlNLY0owRGhHNjZTT2hlLTZ2S2RPSlRXQlXSAbwBQVVfeXFMTU1qTnhiNzd4cjd1OHZ6bHAybzRKNUJjZDFxdkJHOS1JbDFZV0taRURsZHlfYTREWjdYaVNlMHo0UjJIYUpaLWJmNmNyT0wtOFdsMmdOR28tSDlyalZrVGdvUjNBdGtTNG9HOS1QOE4xMWRZVnRVelR2WGg2d0lSZ3VWcXZQLWN6M3pUb1Zja0hFellHTkI4NVphMDRKU29TM3oxOFVibnNOQnZlYXpVWlNMX1FvQ213Nk1nZVg?oc=5"
+    },
+    {
+      "title": "美股AI芯片概念盤前集體下跌，英特爾跌超5%",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41NDlEMGFLZXo4Wk0wTnowLVRsVEs2dS1MbVNhYTR1LW5mRHRadmZUS1dTcF9aV196OUQyUUdpQlVtcnAxQTJrR3N6bFJvUDIwV3IwSlN0MHVEd3BjRUVzQVJJelFkeG1tVmc?oc=5"
     }
   ],
   "events": {
@@ -84,8 +84,8 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 15,
-        "status_badge": "15 日後"
+        "days_left": 14,
+        "status_badge": "14 日後"
       }
     ],
     "stocks": [
@@ -95,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 7,
-        "status_badge": "7 日後"
+        "days_left": 6,
+        "status_badge": "6 日後"
       },
       {
         "ticker": "NVDA",
@@ -104,8 +104,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 28,
-        "status_badge": "28 日後"
+        "days_left": 27,
+        "status_badge": "27 日後"
       }
     ]
   },
