@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-22 20:22:40",
+  "updated_at": "2026-10-23 07:15:19",
   "gas": {
-    "current_label": "10月22日 (現行油價)",
+    "current_label": "10月23日 (現行油價)",
     "current_price": "174.9",
-    "predict_label": "10月23日 (明日預測)",
-    "predict_price": "174.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月24日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "AI風險丨美國多家銀行據報發現客戶賬戶有未經授權AI智能體",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQSUdkb2Q0TC1SVk1ET1U5N1F1NEktajFWMFljUFU1M1E4OWE3UjJhSUFxTmI0NUZMbFR5VkdjVVl1aElRSXNuRnpWSGVENnh0Y2tMbEZNYnJ3dHpTUG93ODBKT0c3eG5jYzloTmlGWXB6Q2NSVmRPUUsydmlRZ09JbmRoNThyMWFSMl9FcnBwMlVGOHNRV3BxTDZtbWQ4andUOW9QZ1pMS0c2dzh1ZFVFN2E1QjkwYW93eTNvYy1yVnpmX1lKN0FqeTVWaFdQTFl6emdQMXpqay1YNTZJV3ZHRS1Kci02R3RObFJXUXY4RDdpNDY4SkdIZ2QtekluNzlPenJZUmJsM3Bkc0k5NWNXWFpmTUMzaFRpTmc5TFJFYUxHbUpnWlRBalQ4VXF3d05lNGVZaDJNYlktTGdhaE9GRE56enJBR0p5eHUtQ1JQSEt0a3VRU0lNV0MtQ09Ya2JtejE1SFIyYnU5QjdrOUdZSlQ3Rm1TTFhJV05WRzRxSVpJQ014QldWUU9n?oc=5"
+      "title": "美國專欄 - 美國期中選舉AI反彈升溫 數據中心成兩黨攻防焦點",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOWE9RaFI3eW54TmVEZnF5dFAzSlk5WnFWeWR5anQwelhhWG00UjlpdDhib3FHSkhSTmtnWE5wempHT3BjalZjV3BSazJ1akhyUmt1LTlMdFJJRXRoVGtURHRqSzlkRHhxcWdMTVNBVUt4SzVvSktpVnUwMVFPd3ExRnE1QTFyR3o1bTJpTzRTeFhKYVhFYVBnZjYxYjl6V2czQkozTXRybHJkV1hJaUNYR0U5T0t1dVJYWVlPc21qckYxOHRTUVQzSW9feTUwem1jNGUzY3Q1ajl3VWRoUWdNWTVWOHpZRlVDRnhsVTlTQ05fc0UxOWIxS0twNnlKTFVvSEZuV0U2ZVQ4ZGlKN2NWdEFjUDUxTmRuTXhjdk1teXhxenBJdFQ0emstRWhNclNtZ3JBZElsbnhqQnFOcGV6MkhlQlZpUFNhTkZGWWVDNFZtVkxHblhmZkJwRmhrYnpVcVc1QjBVSGVDY01GOW00cFpMYmpBMFZEbnRMWUEwbmFFVklDNzZEenNaYm1kVWxvWGQtbWlpaWRBY19henBnbkFldmFpZ18t?oc=5"
     },
     {
-      "title": "引述國家安全關切 川普政府擬限制美國投資中國生物技術企業",
+      "title": "伊議員說伊朗已要求中東國家停止支持美國",
+      "source": "紫荊網",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDVEanFGbDhIR1NOTTJYbkVITllqcWNia2NRdkJPWmtqaDhKaXRDU284cFg4blBTdktpTU93LWdnSUtZM0pWZEc3VEI4NU1lNUdNTW1sM0pDaHVQRjlWS2JUQXM4NGFXNmlVMVhIOWJmYmxzYW1LQWJTcHRRSVZfRXZhWnphQkdWRU4wQ2hLM3g?oc=5"
+    },
+    {
+      "title": "國際｜SpaceX擬租最多8萬個通訊基站 力爭成為美國第四大電訊商",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQV2JIdkprSWZ1Szg0b21aTS1zaEZVeHhuek85NW55YTBJWnZxa0pZSUZrOXlOdVV2alNDajV2ZzY3MzFCdlU1OFhSdGlMU0lRdC1RR095blNmUmlxcHZPOFNVWUtwX0lXd2R6RWVoUTJaR2lJS1ZVNFpWYTJiVVo0cjViNm8zXzZaSXdHSDBfRENELUdxT2p5cDVkZ2FRSElUeVFrYTdwQWNxR3dOOTRyN01QUnJJajVMaTB2NEpGUnhtVUljTUxXcUowVm5ESzdDb2JoektRa2lzQmdBODlhbTE5a1pJMnp2RTUwbWNDdTROVXFkczl4bVJPcWU0RUVpQ0FFejQ5R0JFRUNZMFlsNUJwSjBqVTJCRVlTS3AwbTNUOHBBOFZDYzV1aHNiaUR5a1I0ZkhaNTdaVUd4NHY0M1lWSjlVVEZDMUgwVXp6ajZ3WmNhZ1VBcGl4RkhRTWd4UEhqXzZFR0pmQVhYQ3MxZDBjRXpydGt3UDlZdXV2eW0xYmtJUlhCdzgzVEwwYTYxRFhuMWowQ1JEQzFwRUhHbk1wNA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNV09PSDdxUHI1T05yUERLUm02NDRUMW5pZkREQ1pkVzJiTnltRTl4OXpLakViLXVxUWtDQXBpM1FmYm41d3h2MFZuT2Vrcm8wU3NGODZzQS1ObVEzazFmclByaXI1UFFYX3Yta01taEY5T082OE5qcnlFbTRNYW9kcTZHSUU2OGE0bE9iVl8xejFUcDl3ZGlCemplMU9aa091V1l4YTNCZEpLT3hvb0ladUpvbXRJemFvMTVyWUE4bmhkMmtqejcwdFhEN3NReFhCd1NuY2M0Y3pYNG5MMGtDb1E5akNfM2NXNmlvQ1VfRk9PNklyT3Z1VkJ3S2xwdE1kdzVsX2NQc1ZlaFZGUFp6dlk4bnhFMjRGT1ExbjllcGV0TUx6THU2SEs2UXJTdENxMjMwRkZUVFBMR0lDbUplSTJLUVRtS3UzNDhrU05xbHA1WXFOVEJTRGwtLTRqVmlyb3laZVAwLVB1SGI5Yld1MDNKTTk3UzAwaWw4ZmFod29mbmZOc01BYXBR?oc=5"
     },
     {
-      "title": "美媒稱美以軍方已制定美國中期選舉後打擊伊朗計劃",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55dGVqczhDUW9JakdfbVdzTnJZWXZEQWRfS3FSN3FBSjQ5TzRDMWFhMHF0QmR6c19aVEMxRmE0Y0hnUzNnNEE3ZFU1YnZPR1NXWS1JYjN2ZC1aWEI5T0lBU3pGRkFFREE2TFM0VjJMNA?oc=5"
+      "title": "美國標普全球採購經理人指數（PMI）預計將顯示商業活動放緩但仍具韌性",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlkwSmQ4MWdUd2JaR3RiRThDTm9HblZFSXNoSENjY0ZORFBnRnBvTE05QkJWeEc1bVMxS0lOWDdkdFJQSVJKQ1VaRGZTWDdwbWhvalNHZjV3VUJaRENIU0I0WkZVR00yZEY2TERTeEJham5uMXNxRi04TGdYSGZqMk13bGQ5WnVXemJjWEhkVUxRZzEwaVRzRFJ5R2NCbTBEOXUxZkRUNTQ5c0NYZmVLYdIBtgFBVV95cUxOczhUUHMzeFZXU3haeVNPMmU0SnE0MG5xM2xhY19jbEtaTTdmSlVDb194RWJwU2IzelA4aXZiUHViV3pvcHptUHdvSFRSRjliVzdGME1qYXJSbVE5elVCeFBHbUFORkI4SmdyUm5lTWpKUW90M3NuSkR0RWdSRWRoU3JJSnlOV2JrU0xVU3BqcTQzQWcxNl9PWU4tTTE1RjN1LWtQcDRfamlVSDNEaWRCWUw5YWxZUQ?oc=5"
     },
     {
-      "title": "俄烏戰爭｜普京：準備好下月重啟俄美烏三方會談 特朗普稱馬斯克已解除星盾速度限制",
+      "title": "俄烏戰爭｜俄美烏三方會談擬下月重啟 澤連斯基重申反對美國解除對俄制裁",
       "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQWnJoY3ljY3ZWZ1hsaGNXR3E5TGtXdUhFS1FsQ2JBcXRpV3Z3enEtbzhPSkJ3Tkp5emJsVHZKNmtWY1c4M2pGMEZVU3Y3dEVQcy1hdkhSLXktRDlXNGN3elJYWXljNi1VMFN2ZlZzQnFiRklPVzJHZG13ZUxWS1RSUi1KUlkwX0JvMWZGRXJiQ3N3dkRZYUFHRWRJY2JnQUpUck5kdWdDQ2xCRVp5X3R6NXB6SU9Uak16eVl5UnFta3BteFVPSGRqMGRLUThiWm9TY1JpTGpJc1Q3NVVITmhIbU9Lb05tdnB3RWZoRVFfYUxqSGJfUzJmNzZ4QWRoeW5WSkRlT0hURGs2djhLTlhmUlpxaDN5bEtoUFZEdElvU0tlVE5kRE9vMnVqdVR4M0lsSWRpMHNRUFowZTdmbzlKV3h5d3BzRHA5RmJWNE44S2w0WElCWjg5N3JnTnB2YnNxVGk4bW5hMHZ3dw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPUzQ2N1c0VTBkV0FtcHdEWHY0VlRDY1hWanJhWUZfUVRYZFFBOGVIbjB1U1IyOHl6VFZnYVNXTVBHQm52ZGxPdC1NODVMdEpNU0JxY2o5OU5EeDNlU1QycHNWWlVhbS13dVVTZGdFSUZZZUpYb1R4RFNpX3Yyd1ZJb1RWVUxXN25BRFpCVldoOTI0LVR2WjZaS210NHZGNVVpTEQyU0xkamRqVEJTNVFPd0paMTFVMTRBM3UyczVOSW93MkNfdElDZWw4c2dVOF9yR1lXaFF3UXVrdERhTlpiM2xyOG52U2pjd0R1T2Q1VFBUVXlyZXMxdi1VemVsampMQWZWZ19QYVBIRWFpRmlOZXFZNndiWW1YQk9WdWJxVjVtYkZmeEZFTllWN3ROVUtKV2RkMUFxQVVtSjZtTHF6cW56UDNEZVgxR2FIWm50RDU1RWl3WElIX3c1S2VUdkNnSjVzMmpfM3dTQQ?oc=5"
     },
     {
-      "title": "中鋁集團在港設立企業財資中心 打造集團的離岸資金管理平台（附圖）",
-      "source": "www.info.gov.hk",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxVlg1em5wUU44aWlGSGh4R3kzRnY2VFUtVjBXdmhBZWtUR0pCVFdWY2d6eVBDUG92Y1JQek5WbjRDek1iMndaWjhvXzc1Nmp2SE5BQ2hvOFZnZV9mRHJuOXZXajFPUWtQamtwalNyblFBdw?oc=5"
+      "title": "SSL 憑證私鑰竟是數字「4」 eMudhra 宣布退出全球市場",
+      "source": "unwire",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGY2dFZiU1YwTVBhaURKdXM3ejhfT0tNaTk2UXpyUVNvNjdRd0pkYXJ1SU5uM2VaWDh6NnkwTVVyN3VENkt1ZzlvUTNGZHZ3cDZoaGhBQUM3SjJfS0N2WWp3Y212VmNEaVVJY1NWWk9WVDZjRGVCNVF0Y3Jhajc4YkwzeE9hSUNzRWtxUA?oc=5"
     },
     {
-      "title": "美國司法部正審查針對萊萬多夫斯基的指控",
-      "source": "华尔街日报中文网",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNVWJMM2F6YW5iUVFRazZyZ2ZyX3ZLanpuVnRRcTZqZHFJa1pYZFc0Qnp0UUc2cVdMcHZVMzJFcFduQy1QRVNlLVRTMTE3enhYdUdOSm96Q09xSXNKM29VTGtEdm1FdnZ3emp2V0RNclZmMWdBZUNraW5XTUllMUFYWW1RdDJZQmRRTkR4Yy1WeXpBbHBmd0pHaWtZdXRHLXBDN0ZYSkw4QVdjajJYUVlGd0Z0RG1GQmpXZXFEREZDZWpnbGJQTzdDV3hlN24tc0JfenUtSUFRaEVWbnVWeVAyRHk0M3RheklQMURmUEstUm1lbGlZOGRFbmZ6VDZjb01Bbjl6YUdGR3FVWUd6ZjhwR1dZZjZqRzBpaHdaTGM4SkZDbGFJcmx0OG5KajYtQWRtY2c?oc=5"
-    },
-    {
-      "title": "國際｜10月22日環球主要股指收市 費城半導體指數跌逾6%",
+      "title": "美股｜蘋果市值距英偉達不足1% 隨時登全球市值第一寶座",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOdm52ZkZ6REk5LUxUbGRvQ3hPc0NGYWhkNTc5c0x6Zm1Fd1lkNkFMY1Njb1dTYmd2eGRFSVJQTE1MY3IxaVVGVWdIV08yel85TW9id1VsbGk1LWVzOE1Ma0xSQ2Z3NmNBaGJLQUUyTklZVEthdDhNQ2R0dGxON0pIQzkzU3VhZWRFVEJ2QlpsT0Q3WklISHBFTzBNN1J5eWFUWDh2TmFSTnJYWnk4akx1Z1R0NGw5Nk5jV2JfRm41aEdKY3B2ZElSMWdPWk1mN0w5VVZEUGM1T3dSbjFHb0tmRnFBcmhwZ3haRmgwWmZiT0FhZjB0R2RIaUlPZ1c1b0ppdGdaZkpWeExkZVZyMExMWS04UzVSYWRSVG9hLUN6c1g3VTlOeDJ4dDM3a1BCOU94d0RsSEhqSHA3cm9yWDVIeXB0SmhybzhMcTVHODUxT1V1RVJQQnBtY3d6TlV5VVRwQW44?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPYllETmJRaVFvNXE3S2tUSzBoVkN6bUpPdWd3emtpeXJ0Vl9fWEVHRTRqaUN5OE05TjdoM0hsRWRPVzR5MnAwazQ5VmR6X3lvc3Y1Rm5jc3hBWGE0TUdHZGZ5QUFGMTgtWlktWERMcEEyZmR2Q0stT0RobDlYQmtFWnlEZTE5NzI5UWVaTk00YW9ZR1Ixa0lFU3JFSnZmdXJXMUItdVJDQ0h1NEdYLU1aUU1wNHZUZG94dElpeTNPWGMzQ2gyOGM0MjM0RXhYMVRZV3JsUFJDa2tDOHFTWTk0QzdwOW1rOVlpMGx2R1kzWmNSWTVlUHhObWw4XzlRNXpqSkdVWlJ1QjRoVkhiTldvOGJ1LWhnZVhZZUFjYV9NX0o0UFZQc09xMkJSbms4U3p6bWZOM2NOVU8yZnNxem9XdWRQZG56eEF0T2hWRHprbjRSd1kzdzgyZW5FZjBkWjBDWnVzUGZHXzhlSFk?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜周四美股走勢分化 AI股拖累納指挫2.6% 道指微升",
+      "title": "美債避險功能失而復得：科技股重挫之際 債市扮演防禦角色",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOSExBQVREcnQ0a0lFQVY0TkN6emlTVzRUNFFHai1selZ0cXI4LWppYVpwR05kWGNBOFNua0E5cGFjMTY3bXZrMHVhQmUxNy1yYWxQWGVyaXFZd3ZHOEl6UHQ3TUplMVZneHZidkJyOUQtdmwzN3lCX1dnNUFyeUdJRk1iNWUxdEZtdFFTRG1Hd3RDZ3I0WFc5TFAzR3RFRkhTQWZPbS1DVGltdUVhMFFsZS1XeXdoZGNaTi1vMnAwN0YzeGVMQ0dlSHdCSGoxV1ZaWEZuVEZlV2k2bExKNHpJSWRuWDlCWUplQkNOazhweURMYmxpZHAwcUdYNFdTamg3ODlaR3IwZjFrcFFmc0N5VW4wMWV4NTZBSWZxWG1jUzNsZTFpeVA3UEdBZEtoNWRQMi05ME1mRVVWeENOc0N0ejRqT2ttcElKeVlIa0xUck9ibmFzRjZYRA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQQzlxSUJocUltWlVUU0Q2ZWcxTWFkbVN0VVJLUHkwZW5ILVo3ODhjWnpRV3NYVFRXR0dsVEFqSnRkc3lUUV9mZ0FwMUF0QXhJeXhQUkhKbHFOaWd4UVV5bzB4Rnl3ZnptRXZ3SG9iMFI4UGZteXZPUUdWc1RjM0dGRGRUOE03YUpiNXdMV3libm1yT3ZacjI5cW9PWTI1YXA5eVZDLWZSeU1kam1PY044dE9CeWpvMFV0LTNDTWNIZENoUmpFNUtRWFVNX29DbGhzaGNrTFh4dzN2WjFKLUZGeVlaSkU1SU5VWXdBMDJyNnRXNXpySS12aGptclJVT1RadzBLMjl0UWpQY1kyTW9YU1pRZEtvaFRDaXJ0eGlBaHpvUDhJcXdwNkNMVXdVQ3dvY0hyV2ZfNkh3Y2wxeHczZUV1dDMyTWVuQTBuWUFPUUx0MXJJZU1ocFVXejJJdzVsN0ZIRTlhRjVtQWlqaWtwN3ZyMFdxVFlMNzRYSGYyUmVTZlZ2bnoxbmZ5eDc?oc=5"
     },
     {
-      "title": "美股走勢丨納指收市挫2.6% SpaceX瀉9.1%",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdlplcExpLXVxZjE1MnpCUGJ6QUZoM0JoYXNudXpvS3JMM250amNDRVVadXBkRkxtbVVnZEozakp1S0otblJ1ZzRWS0dkT1BsSTZFUWJ4QVdZeXVaOUtmUXJoY2t3VFI5T3FzUUZVOF9XWEZJMjNobUV1ejBuS1lQNnlMUlBtYjVrWFA1clVyQXJmSW8wTlEyanVrOHY0ZUo0cUlTNXdsTE1pRElfRkE1NnZIdXB0ZklSQmlRQUZtUmxlOFNrbjVDWXlxdk1oc0I4OUZmMG9GWUpIZV94RnNOdjB5YmxqaHlXN2pnY0FjRVVWZGhoTElCcnNOTTBHZjJic1A3N0pwRVQxRFRNYnc?oc=5"
+      "title": "科技股比辦公用品更便宜。人工智能板塊的拋售是買入良機嗎？",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnpXUldnN3NLblo3Ung0MHJnWUx2N0RxekpWb3g1VmdaWExoTnlsVE9ucHdPWUpma1EtemNNVy15R0JrYnl1dXkxa1MzTkE5LWdoQTlpOVpfT0VVMkpDSWtKOUxrUGN5ZlpXenRQVVE2alpELUdDUU81YXRvcTJsR1FHemZqdTVHV0ZsWW9aWWt1SG5IMjFGWHRvb1A5bzQ3TWZVOHAteUNnc0dp?oc=5"
     },
     {
-      "title": "【美股收市】3原因引發避險、資金急湧債市 美長債息跌穿5厘 科技股重挫（不斷更新）",
+      "title": "10年僅發生15次！美債驚現恐慌時期行情，華爾街嗅到危機信號 作者 FX168 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBUV9zdE5acXU0aDFWVzZrVVl1LXViTUl4REt1S3NfbWZ6WXNJM1Y0VDFTWjVQUWhZdFZNYzJ0MzR5TWNYbTRIT24ydUNCYlMzbjRjeVJHcVVuV2RfcUhzeHppV2EtT3l5aDhxYnVZZ1k?oc=5"
+    },
+    {
+      "title": "科技股拋售拖累市場，美元重拾動能",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUkwUDZOS2Ntd0VvVHlIX0FNeFZ6ZDhNN1JvN0J0dVFMeVpic2dtZkZoV0NsSWt3NXJ4d2xFZjMtX2Y5c2tZODd6WWJCV19JQjI0aXZnejlDWXFuZ0x3OFQ2MU85dGVGSkhOVmRyRU5TSXF1Vl9uS3gzdmk4bWVwdUR0RU9rQ2Z3RzdaYXVobnBabXRBY0puNkFSQmpTd0ladXRyT1VCNElMUlRfZ3RJ0gG0AUFVX3lxTE1sc0lHN19PMzBLZG1feGJ0V0FtcEFPcmtIOC1zZ1BlMHB6UnQ3MGc3cnJTVzM3dUR0Uklia1k1VnVEX18yU3FQdE42SkVUaWRvaExQd3lJeDl6VnJfQURhWWUyMzR6RzJ4dE02R1JnVy1kTjgtZXpweHl1YUFuNmJ3QWl0MGNOM25sazlsOFN1TUs4OVlESFBqMG5YWjJRZ0gwM2tsODVxTFZZR3Rrek9hWVdtRw?oc=5"
+    },
+    {
+      "title": "北水操作｜北水買返科技股？逾40億掃5股|香港經濟日報",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPX3h0YU9ZNU9oZlBNRjZJSmdRbzQ4OXUxd0s2QmFaZTlyTzliVGxZbU56V2FjX3MxbG5Dbkt1VVN1M2I5TXVfME5wdlBDYkMxVjlfRVdJOTBxaUJmTXVIeElwVzhILUdJWjNSU1B2Q1IxVnNpYS0zcTUtUFB0WjNCd3dBZHY3UUJmTUFaYkxta3VURUcyS0RLYVgwUFZOUXI0MnJGN0ZkMVJyQ1dQVHBMZm1OaVlVdDJGakFGVXhsRlRDVEZudTBPeV8zbEM4WHlpVXpKa1B3WXhLNTZpWWZueE83OFYzNk1fTWJueVJSdm5aVmk3MC1ONGxFbG9oSzhOQVBtUzdLX3lVbTBVMXpWci1wUW9ramViQ1pYUnlmcllCWkFRMGJNNVdxS096T0dZbGxyZ1NQRXpBU1hiQ0FmREt5eThDVktiRFNlZHVUNmJkdnhNWkhnemhnbmFVU2ZpRXBodmd3Tllud3MzZGZHOE44ZXRmX082Tmo4R3RXUC0zdkYwQlpFblZLR3dhNWhSdlA0a184aXlmMk40UTlUM2Roc2cweGEzck9lUDBzS3o4VGlSNXRrUmJzRmNsdFMzS0pJTzJtT1pLMzFSNDQ5WHNldUlBSEdPdFFtMi1Nb2J1NHVacGpyYVZRNTctVFRLTnRxcGY5Z2dPN3ZiWFRJZW9oMlhJU1BsYXROMUJna2h4eVc4ZTJr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRVk2LUpLWjFfbXBVRm4wQUxSS1RfTk81U3VvYWpoMGlJZkJONjhZTlFFUkVpLUdFSVdiUWxkOGE2WDlxdWJ5T2pJZkhuWkMtcHZNUFNGa1c1aWsyMTdQMWdlOTRqbVJ3Y2oyZGhLbzRlemlKdXdKbEJqSEtGb2NYeHFDQjNlQk5vMWlDQWlfNVFxY21BWmstS3d2Y0NMSzNURjdXT1NfcjhxT0RyRG45aUtSM1FSNDlRRXhiMzJLX0hZYUM4WUM1eG1wZS1reHdiOEFRLTlqRHQ5MWxIc3pUUkQwa1Z2M0ZxSDhybHdlY0JoR2dvN29WR0dhVHVxbUlMd241V1J4Mnh4NXlaYV8tVngtaGZSYmFEU19VaHZDOHA3dw?oc=5"
     },
     {
-      "title": "美股收盤／AI燒錢疑慮掀晶片股殺盤 費半重摔6.7%、台積電ADR跌4.5%",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZbVJrdm9sYWZ1eTlPV09Ia290YUk1ZExaYXlMRmVFY3ItRjAwZGY0aURySDZjbzU4V1B5WmJQckQwREtTeEExVHZlZEI5akdi?oc=5"
-    },
-    {
-      "title": "美國股市：標普和納指大幅收低，因AI領域的疑慮重燃引發科技股拋售潮",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4za2ZibkQ0T3F2QU9zU0ZhWnZyMlEzbUE1MTRpVEVyYjJ4VnAxeEJ4Qmh6Sk95S3poWklzS29tcWRuVFJOYUw0VzFmWGk1bGN4MnJ5bHBtdnNQaUUzNU11bThiV3dRVHV4eW5DcWpINE9hMDN5elFV?oc=5"
-    },
-    {
-      "title": "美股日誌｜血洗科技股 納指瀉700點 股神飲可樂雙喜",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOLW4zTVp4R0xCR3VpOWlJY00zS0FPTEJnZ0hmQlA5X1ZjQktXemNaUmZwREFDcFh1dUlnSG5MczFzYi1mNnlFZ19KZktkRkthOTZyeXF2d0gtS2ZfZEM2QnZKOWgzdHhWMkJKMW5CQlVBZWxsbmFMb3U4d04zcjc2cTJ3WkRkM2ZOdVRVV2FMUnkySTRLdXcyRU5sODAzWnBWZzk5LVlLaHZ4UFE2RTluRGRzcThMVUp0Z3RLZTR1NVp5RkVfUE5mT3ZTXzlHMFQ2dGpsR3Q1RnJkYmJhTFlVanQ5UDVZQUpwQTRFbmxVUy0xTzBKVnA0a3MyR3dxX3hHWEJnTWpuYThLb3RHWVg0dmtTN2w4Nzdta2x3cXprQWptcVFSU1U1VzlNQVVoZHVicnJYbk5GaHVkN3d4TW16Z3J3RmdHa0NkS3FTR0k3cTJOaUk?oc=5"
+      "title": "外圍經濟 | 瑞銀資產管理看好10年期美債孳息率，預料未來一年內走低 | 即時新聞 - 新聞",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaHNzUlducWx3WkYtQzhEeFdMREl0X3BfRzZfLUtzVnpXSWVSMnBTbEVXb1d2NDJrRllMTmsweWFtcDgyem8xcmJBX1k4VlNTMnpCa0piQWNrNTZpMkN6cXE5MFFka3JSN2JqMFQ0eURQekFtWmVxMVpuTFVDT3paRjF6N2JGem5rb00tNlM4WXJxejJVV3c0YzZzN2RVdFRU?oc=5"
     }
   ],
   "events": {
@@ -84,8 +84,8 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 14,
-        "status_badge": "14 日後"
+        "days_left": 13,
+        "status_badge": "13 日後"
       }
     ],
     "stocks": [
@@ -95,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 6,
-        "status_badge": "6 日後"
+        "days_left": 5,
+        "status_badge": "5 日後"
       },
       {
         "ticker": "NVDA",
@@ -104,8 +104,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 27,
-        "status_badge": "27 日後"
+        "days_left": 26,
+        "status_badge": "26 日後"
       }
     ]
   },
