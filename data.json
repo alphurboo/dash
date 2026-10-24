@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-23 16:15:18",
+  "updated_at": "2026-10-23 20:14:46",
   "gas": {
     "current_label": "10月23日 (現行油價)",
-    "current_price": "174.9",
+    "current_price": "176.9",
     "predict_label": "10月24日 (明日預測)",
     "predict_price": "176.9",
-    "trend": "↑ 明日預測升 2.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
@@ -15,24 +15,9 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbFdRWEw4SjIxeHlzTmFRaE1KZnRYQmhNYjZfS3pZMEJBbFpXS2g0RExOOWRYSURWS29KQk5WWlEyeDVDd01RWWlMYXE2QUlCZXItTFBqekdJMjhWbUxHV3o1TU9kNnlvR0RuTUNJNA?oc=5"
     },
     {
-      "title": "歐盟應對中國衝擊2.0 擬談判限進口",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSVU2V0RPb0ZTdF9pYWJuUk1wYjhBUlp6R0ZTYUxWcnc2LU80SHMxMTBNV1N6US1UT2Q2Xzh4NVRINlc5UVEzWkdUTzU0QUVGTnZqaW5yTzJTR2V5R2Ftb214eTFSM00tYlFfc1lHOFhLZ1UyQXJtOXhtTkdDbWROTE9oZmhld2xqWW9hU0hLU3BCS3hXTGhteHhWcl9vZWN4NzlqaW9tZ1ZuWDFVdV9lclNfd0NONEZQOVJid01Ec1ZlVXdmcnZrZk5RZ3pUcF9YSUJJRXBka002QnVJNWhGOGdaU0NNU2tfZEtHcHczRdIB7wFBVV95cUxOdDYxbG4xQi1IZjkwaW55MmE4LTdweE5EUkVyU1JsZThSLUdxNExqV01GTUhMa2hxNkRfUHlQRE1YelNldTJfQ2pBaThmVmxNOEIzdmhjZWFpREpScEVOUkNyX19rbGM3YjVrYVFPUEJkdHpEdGJ3VzhXMGZSeTRfT1FBT1R2ejZMREwxNWxrUEFiY182eFJBOEVJV0haSWNRTU51NGFOSGhfcGg5cXo5SWxMSnBLR1BZdk1heXNvRnJXQlNka2pYem9yTnpjX3FrNkJnSVVHWkExWF9kY3c5RzVUVFFSU05zREdHRFJOYw?oc=5"
-    },
-    {
-      "title": "美國擬對部分加拿大進口商品豁免關稅",
+      "title": "中東局勢丨美國大使:華府已準備好與伊朗長期對峙",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPYTV5Ukd6c3dFdlEyQjFYTFR2SDlQd0t1N2pEZUFUV0djVXdXLUlBYk9RSjNnQXBIQi1qcXBVX0R3SUoxMzlGTjF1Z2ppamZUczhzMVZVOE11SjdoS2hWR1BOaHJPT3pyZXF3MXZuNHYwcVNCa3BFQ3c4NW82d3FtN1VocF9iTGNoOC1uVnE1TGFKRFFhZVBfbnk0QklxZElNTHBGT0ZiTjV0aGxSTFl5QnZtTG9wTF9aM0MwWjhiSjR4ZGNYVWFZR0RTZkRVUnc2OE5VSVRfbmdic3htLWZkUDNyLVlhM0VCc3l2THhRUTdKWGJ4OHQzejh6VUtOUkJBd1JWeHc4VFZTSk5sTjZGakpNYkpQZzI1WkE2V2NMUXQzaUd2dG1SU2RNZw?oc=5"
-    },
-    {
-      "title": "安全風險: 美國防部切斷數十所大學部分外聯 北京指責華盛頓“破壞”科學合作",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVVN5UkRDMmNQcFJodUZhVWdWVjZRZFR3SUdJRFZBbnR0Qk40T3FqTmZ6WDJiU2hfNHhxZHI2R05OUzF3dnBBa1Z4RS1ncGxycjNrYTZIWmFMdWlDelFCUnlQMlVoUF80alMyRmxGUW5mbDMwN283RG5neHJ5RXd2enRCWVl6NmNfYjl3NkExM2xPNHNBOW8wSjhVS1RYM2oweW5KVWJxWGkwSG02MFBUV1gtRjJNQ3lRZHhfb0s0SGRWNzVLbHIxUEx1Qi1IRFFCOGRoUi1mUGxKQWtuWGpzTGNEMVd4SDVkWGRvQnNtU182SUkzLTZMMXBVQmt6eE9TRW5nTFRmMjZGdVBSWGg1cDd3bEZQR3R4QjY3b2p2OHlTeEdoZDhzNFlVbm5RRlZyc0d1RmtDbEp2bHJyUklYY3gtVWhueHhCUnhYYkRWV2M4NnItZ0MtN3ZEZFdhdzVHTHZWSWl3X0JsQjBoOERKdFJralEtX1Z4eU1kcjNMeS1UdHJJdF9NTHpaQy1PbFJ4dlpRZkZ1STVqZm5EWlhSeWNXXzZpRjlkS3FVTzVLZlRsYnpwbFM5bVFBR0duYWJxblA2WlRDWEhJRkFrTmotX0xBLUZBQUYteXptbUs3XzlOZFpt?oc=5"
-    },
-    {
-      "title": "美國企業活動保持擴張 價格創2022年以來最大漲幅",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPODZWUkZsUVFBNUNKNGR6Q3E0Vzc3LTMtUWJLNUV3YUpFOEdDOWMzZTNPRkZRcmhBcXc1VWc2SS1OcGxvWUhaTG8zT1hsRDdLTmxuWjk1QUdwc2xpSFN0MUlHaGtXSjZfNTRCT0pnWEtIT3kybGMyR1NkTTNvMk5aU29Pb29BNGFqRU9WRjhndEU2R2JzeTdweS1jTldVQklzQkVhcHpNOG1YLV93MmxwZl9VWVIzWXJGQ004NG1XSmNSZkZ0ZEM1THM2TjJtN2FBQm4tN0hkejVKVjRNUWhBdWVOaFhRNTZHbk1vXzdPZXpXaURvX2pjUnZwQlA4WGY4UHZ4ZW40d2ZQdTBzTjRMWXBBUUFwZ1IwZ19JSVNRZXZXaHZZa1VuaEZWUi1uamthVzJyRlBxZXRwVDloQl9YTl9sZl9JWF95ZkpxaG1hYml2UzY3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOeDJoYXlRcFdRN2czeGwzQkNYQktVdjVCaWZZUkJzNU10Z2RQVUJ3Z2ZRLWRnRjg3dFlndHE4MExDWmI4TEpZbXBVVzJCYnRLWGNvYTE5R2FtS3BtdVhJR0doRXc0RUQ2MFg0LUZWMzIzVzduSkZ3QzR6Nnpqc2ZscUV6YTVKN3BGaFpuN0hOQTVpN3BOaG1MaXZzY1VmY0hXd3d2N18zVDlzVmRLV1FEY3A0WDBlYVU5emR1aEZ5ejhGMkhIbWVPY0ZJX1Q3REJITnVYdFJ5MjN6eEc4TUVzcVZnd1p0eFh1cndVRGNnRHdiTHYtWmxEMkt5X1VPVHJuN1hRNHBzeUZuT2ZKM1hUNFJKazdVUWw0UHE1eVVJMDEyWjNFTkpYaHlFX2R2bkM5VUVwUXg0VURlMlJUbnBRZlVRVUxGMk9pdGszTUttNEZQWEljczluTnZTNmI1X0ZzdWoyUzdKQVM?oc=5"
     },
     {
       "title": "白宮指梅拉尼婭促成俄烏局部停火",
@@ -40,41 +25,56 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tUFBXUFJQSWdvZU5venEwSUhHcU4wd3ZVdlBhbUZMdUFDd1pneHFOVE1RNGxsWlVJVUNkZXpiR3hIUlNrMVRjTnVVVU9pdldjWUJZZktHdkhyNU1JZ1HSAWNBVV95cUxPQ3VicGFWS2t4b05EQ19BTEYzRUcxeWpWSkdhRDJ4VmJhZTB6YW5ITVl3a1lLYzU2ZkJvNGxMQkJwazRqQ3FYNVVTaFJxSW13a1JBcV82VnNZV0xDLXY2SENfbzg?oc=5"
     },
     {
-      "title": "美以接連施壓伊朗美國特使：最快可能本週末動武| 中東戰火連綿| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uUjQ5Sk1ULVZNLUZya2xrRnl6Nm9weVVQd0dtM2tTd1ptQW5CYXo4WU50dTViRUF0a2FlUzE5MVMyQm90RUhNVTZzbl9nUEM3WWJN?oc=5"
+      "title": "國際｜油價升破116美元 環球股市走勢參差 下周焦點兩大央行議息",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxON0hkX1JMXzg1bF9venkwV19TWk1Wb0Nxd3VteVdlaXNqV1c4bUxKbFpoTnVQUEpjcW5Lem14SHVWbTBBVEVsbmJ3TWc3S05NamdJX2NIODhFYVJMSUpCOGRfRGVjYW53QjRuLVJEcnVjUldRUlJIY1AwcHFzNXlLd0Zkay05eGpKV1RlMEtlOHRJQ2VXTmFFY3ZPZFRzaEpDUWlmZ013Rm93OXFaeDhGQVhHSTNidkJYbFl2dmlzNG4xeUV3U3VFN1FZOHRSSEVDSmZ6VnJzb3h3TnhoTTZqX2hRN0I4QnFOZTF2d2NoZ2UtTUs4N21CZ0U0SlAzaUhWMEluN09xSldxemJSdWRWZXBaMnJXZ2t5U3FqZ3YxV2VaSTlWNlhnc0VmVkV2MFdXLXJTMXFXczRpZEJ0am9YN3ZfOFh6T21kNXpsSE1BTEV3b0N1Mmo0QnU2ak9KWE1OSlpJMGMyWFg5d2VjZ3JURnJRNlIwR1llOUc5WU9yVG1FRHVIZTYwZlVSa1hxZUVBSFJRWktraTZMZkNTUHc?oc=5"
+    },
+    {
+      "title": "美國特使：美方最快本周末可能打擊伊朗",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNSThkeHFodWFEeGp6am5lMnNjSDE4Tk1BOFl3cHp2TDVvUi1odFl4MmZrN090cTJ3TmM4dzJRdHVPdW8wNFotN0RTenoweDZxTndnZkZSMkczN2FhSkFlaEpOb29adGFqSmJOejgtdVRJdFJ6ajNEX1ZkOVQxODJETnBsSjc5V05mRXRKSTVwOVlpWnJwd0p5MXFuaUwzWFNhb1F1b1A2UzcwenJDeVZOR2NXajdPVFBmVlJ2elhTTEFUT2lRQXNMejZqSzhadmhhUXpEOEh4V2RLYk5PR1VvVWhjenlaZ2FYM0o3enltNVdDYmdqby1sYl9DVU5XSU1kWFl6aW9kSXItbnZ6TldkVWtiUVk2WUxDNXo3OENaQWNtRDExV2VVRnJRYms?oc=5"
+    },
+    {
+      "title": "歐盟應對中國衝擊2.0 擬談判限進口",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSVU2V0RPb0ZTdF9pYWJuUk1wYjhBUlp6R0ZTYUxWcnc2LU80SHMxMTBNV1N6US1UT2Q2Xzh4NVRINlc5UVEzWkdUTzU0QUVGTnZqaW5yTzJTR2V5R2Ftb214eTFSM00tYlFfc1lHOFhLZ1UyQXJtOXhtTkdDbWROTE9oZmhld2xqWW9hU0hLU3BCS3hXTGhteHhWcl9vZWN4NzlqaW9tZ1ZuWDFVdV9lclNfd0NONEZQOVJid01Ec1ZlVXdmcnZrZk5RZ3pUcF9YSUJJRXBka002QnVJNWhGOGdaU0NNU2tfZEtHcHczRdIB7wFBVV95cUxOdDYxbG4xQi1IZjkwaW55MmE4LTdweE5EUkVyU1JsZThSLUdxNExqV01GTUhMa2hxNkRfUHlQRE1YelNldTJfQ2pBaThmVmxNOEIzdmhjZWFpREpScEVOUkNyX19rbGM3YjVrYVFPUEJkdHpEdGJ3VzhXMGZSeTRfT1FBT1R2ejZMREwxNWxrUEFiY182eFJBOEVJV0haSWNRTU51NGFOSGhfcGg5cXo5SWxMSnBLR1BZdk1heXNvRnJXQlNka2pYem9yTnpjX3FrNkJnSVVHWkExWF9kY3c5RzVUVFFSU05zREdHRFJOYw?oc=5"
+    },
+    {
+      "title": "國際｜特朗普稱或對伊朗發動新一輪軍事行動 隨後處理古巴事務",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPU3FIRVRmSXA5OWZkem1JV3FXdmpjYURORW15WVFBMkdfRW10VFJJRGtISW95c3Q1c0tzOHRoUHF6OFZrMzAxcmUtcFlFbEJXUUNwbk56dGpFMkM5YkZXeDJmUHNOTi1INFhfVTg5d2ZPRUZxaXNtam9rSkxhTVA5Ti1hLUJ6Mzd3ajNqVnVVeXF2eWZ0ZHJBOTVpMEFmeTVDS3hHbVZBa3FBZXV3MWhYWVVJeVhCakNhZE84UVNtM3d0RzhvaG5icGRkUlFiQWdPOVlCUnFUcW1JT2RqN3BKV1I5a0JtbERoMEotd0prallhMFE3QXgxZUZPdzlLb1RyN1ZVSmVtMUpmMUtsYnBNUWc0bDFJVEo0dXBiMW1nSE5ob1pJYU1RcDN5VWVub0E5MlFCVEhxSkpNbmxuNUFqdnBoSDU2YUxvZjd2MzFEckhGMDZrNmNUMm94VWpsaFFMZmxvUl96N1haaFRvWXhoRnhaU1FidDZ4blVad3ZSb2k3Ym4wMmFIMmlYTVBRMURDUFh3VUNydHJQdw?oc=5"
     }
   ],
   "news_stock": [
+    {
+      "title": "美元上升 市場關注下周聯儲局議息",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EcHIzTDhsS1BTRk1iWXBFR3Y4ekxleVVNTVhHWVJMenBTUS1URENWUnFwbktnQTVKZWlSV3hsaW9WSjFDUjdfMEtjN0lHYWkzblNqLUpxZjRFdlZRS1pRUG5kdk5vRDEzeVZZeUdlaw?oc=5"
+    },
+    {
+      "title": "美股走勢丨道指收市挫652點 電訊股瀉晶片股回穩",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM0E2ZGVqai15SC1rM3czV2JPcV9aVDJLbFo3YzFVcE94MjJtQXVoTnRhZU1MZnZqQ0JaTW5vNG5wM1lndFM3cmhTZ1dsSG5helhQdlptVWRHNzhUT1NsdEQ5bzBXZ01pakhMM28zWFZZOEhWVGl4M05WYmJtTnEzU3MtWXlDOWhYd2xPb1dtTDJDSHB1S0ZVT09nNXJfQlUxTTFMT3BGSjNlaGQyU2ZMd2h6eHVjNzlFRzByQUc3U0pnTnZyTC1VaHJmSFJCNXpSdzN3SF9aTnhqNUlsUHRRTXhRbDdSR29KUk5GcjZaeG9rT0J3LUJZSklySWNWWDFhX3ZNZXc5OVlvOHNNcFIzOWNCQlNmbmROZ2dneUJySk9OMk5nZ09mVmJBc1pIX0Q5LWRqUmVlUmE4N1hGYjNTa2R5TXVId0NBQjhENm9IU2dwaFlnX0VDNWY5OENkQ3BNMmxSdVRR?oc=5"
+    },
+    {
+      "title": "標普逼近歷史高點60%成分股卻陷熊市？SPY是否掩蓋更大問題？",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50QlVjbG9NNFFleERzZFlVZ1phR2lTTllWSnlIZXZPcnM4ZmZrYmc3MkpId2Zfd1JMeWVjZFhsLVc4UTBzNmctbHA2OA?oc=5"
+    },
     {
       "title": "美股｜納斯達克確認一亩田重新符合股東權益相關上市要求",
       "source": "Yahoo 財經",
       "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQOV9tVklkWHdXVmNvd2p3b0o3VWtfWWh6V01kUjVocVRFcHIxTms0NG9UQUpzMWx0MG5UT0hETzIxakRjTmpNcnI5SEdEQTgtX0lJeHJoRWxyNTE3eDQxbW1OM09IMWdaY0J0MjJMRzVDbjFYUEJDUVFpUEhEVldobDFaLW0zM0E2TzE1THhRYlRWaHRQa2hjbnUtYm9La3kwRm9FZDNhOE9URWZrRFhvNWJKWkhZOTUteFpUSTE2d2NoYmI1eDUtZktmYmZHM2NuSGh5VmZGYkQycEZwYVF4eHNXWDdFNFR6OHNyYjFxaXFoaDBtWHV1X0x4QWI0NEpZNkFrZGZXbERadnhqRFExRzBlVG54Q21iNWlDYVJCTnN1U3RINXFSTGpSS21UdmhRSjhlTVhBQk9wMEJkNDJxcVZHd2RDTTFpWkhKWHlqaVJWSy1rSlZZejk4enZlWkszdWFKOHdDUFBPdEk5Ull3T1RjMzljT0xaVUExVTlOZno?oc=5"
     },
     {
-      "title": "美股初段延續跌勢 道指跌近500點",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15d2xzeFJxdjZZRGhhUWlsUktfS1VyQ3NyOG4zYTdSS0tTZFkwTS13XzJZdFowNDQwXzRRTndXc040YkphR3d2bG52ME1hUTkybTV1Q1F6OU9IVlNGQk90MkpINGx1M1p6ajdOcUJPaw?oc=5"
+      "title": "華爾街股市三大指數下跌(林靜報道)",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUDVrYXZCN1pwWUdJN2M5dF9lR0Z1QjhqUVp4UlgwRnB4N2Fud0NGNkU5UWZOQl96c3pIdFpVN0R1dmthaFY2QVE2RTFsNG1La09FM3BaWHkydWZyUkxfako2ajBGcTBfMEp2NFNB?oc=5"
     },
     {
-      "title": "美股早盤／四大指數下跌！科技股賣壓持續台積電ADR逆勢漲| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vT3lnWUFwMHlIY25VWWwzYWhpQW9VREVmRnllUzBScEpoSGRYRFJnVWFBSXAzcXByNzRUZjU0U2tadlNWeU80Sjk3OVpNSENx?oc=5"
-    },
-    {
-      "title": "【美股市況】金融股領跌、道指曾挫800點 納指反覆 油價升2%（不斷更新）",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNMEw3WlhlQUw2RWRrcll1MzVROGUxSWdHMlg3SS1Qa0NmLTBiX2lKNVFUMWtoYlFMSVFQMFduRDA1TTJ2VkNmOTRoekNwS2V6QmJYa0NNYk1PakxFX01DYzV3ZWVzalY2enZiQW9FSXl0VWxHZ3YzOG5HTmJhUHJOei05aEdVMzVqLWhYcnlXS1F1RmZKZ2ljWG45a1NUc1ZESzZUZmFwU0FGU1RYbFFNa2hhaGJhQVZmS001NzBaZzgyNVF5MHVXelc1c1c2UU1DUXVYXzRkR3Fwem4zbXppLWVOUV8zV2Qtcm1waGZVTUhNaVpST0JyTDQ0eGMzLTdRNE44RlRxQTN4QlZMUDJqTHY5dzFaeldYaElyb0U5bFFpTTZRWkE0ZWlPal96NmNnN295TkgtTlFWdjBmc1VLVkRCMmRYS1U2azVlVkV5S3FDb0lYUk9IdHNCUHd1VHlDTFI2Szl2ZmFMQzZBQXZ6NTZwRDVXWXk2c1NYRHU2c2pXRmRwaXZMYXBycE1SVzNIdDFHOWZJZHI4eVM3cVpQYUJmczNpLS1uVUg2dkxxVWFKRkVsWjlGeV9tdmVrcENVVDhYQlJBU1VKOS1xRk1IY184OGRSbjg?oc=5"
-    },
-    {
-      "title": "美股走勢丨憂通脹重臨 道指瀉逾500點",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTldsRzJjZHJRTnVsTGpNbXVSOVhsREtQMUQ5bVE2QTNfMWVrWTg2NkpncVYxWFdhOU1xMGJUN3huYVotYndScU5KU2s0OElBS2k2QlRfTXN2U1VybXF4UGZTS29SRVpjQ00tNHdWWXR5THNDR3BVa1R5Z1pZRmlrUlRXdEJMMEVhR0Y3cnFPeWtrQU1Gd0ZGVHBtY0k2amdiRHBrOU5nLTZBUWNlMklYOFRfdGVaSHRJOWNobXJ6clhHcF9EY1NkM21WQW5zajFwNlA2N0Q0ZEg1N3JOeU1VSkwwSWx1YlNvRW1FQ0sxWW1pT1dGZjNsTGkwUWJQOXZPVDE2SDFGQ2REd3NfQnNzZnA4MkRHWjJHdDNN?oc=5"
-    },
-    {
-      "title": "美股動向｜債市示警股市，歷史預示後市走向 | 即時新聞 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOVVUTk5XN1NjbkdzN2RqS1lFYnNPdWVKTjJkLXhsU0NFRlFpOWhvbHlNSDN1VXRxVGtqdkNRdGtjaXUtUVhOVllVWFZmNURsZ3h2N051dkZWZHNIbF9BRWw2cFZULWVPYkpWWWRfeXhCVTFwOWlMeV8zSEJSN19ua3BkLURTU1pCSER2Wi1xelVMU0F4anNSVWs4LVJwYTJS?oc=5"
+      "title": "美股道指下跌652點",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96bHdZSEZjTUlLWWNZdnFveHpGb3dNNXdTbS1oMlJ3UkhmMHQ2aDdBQU5fNVlBMWN3RjRPME5RYU5NM1ZiZ0pzZTZ5dWZYWENZV1pHeTF30gFbQVVfeXFMT3N2bEZmc2U1Z3N2dHJ3amlvU21fejVULUR2bGRMa1AyTWRrZTRSSmViMno4X2tSd1NOQ3lUVU5POFpack0yN0kySnA4Nm1MbnV2Y3Q5bGtqTXZyWQ?oc=5"
     }
   ],
   "events": {
