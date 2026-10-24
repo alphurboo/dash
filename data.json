@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-24 16:15:20",
+  "updated_at": "2026-10-24 19:58:29",
   "gas": {
     "current_label": "10月24日 (現行油價)",
     "current_price": "176.9",
     "predict_label": "10月25日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "177.9",
+    "trend": "↑ 明日預測升 1.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
     {
-      "title": "跡象顯示美國或將重啟對伊朗大規模空襲",
+      "title": "中方敦促美國停止擴大對華投資限制",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOM3NGWnpNd1B0VGEydm8xTEhUUFRqWURMSEFnbFNKQkdwSldxZnF1aS1jVVYzOEhtbWhic1NwcEFVUDBaQ0R0X1h0ZnNQRllERlZrQVZCYkVjcV9WQjNjVkFSenotM1Q5S0VrWk1BdkM5NWdJcjdJZUNRSUVzUkp1VkxhRVptVTlrOWwzOGhFRVVMcnViVE5JUkxuQmFVclh0WXllZm4wT2tNX2VJODZBVnI5QkRTVlFvNjZZblFISUgxbG5qRUNISWpEcHduN3dkaVdDWjNQdGsteWIzYWVqV2twVkYzOWRuU25GMWxfNl8wQkJfcjJ5TUw1RUlBY1g3eEhYd1FvRFVWZUFJdWpReU1EQ3VwRHAzbHpzdHctSlp5VVhCS2pmU2JjWTMxR1VGS3RwYTFBdlk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNTnFhUXoxTU52dTZXb1RZbjJ3T1BRWEZvLWhwektMdUR4WG1nUGkyd1Z5SjdxOFhWWTFibGdFUHhXYlNEa3dNWFZYRWM3Zkp4QUlZZVhtN3dYLWo1eVFtN1ZUQXZncHpZeXNHWWJkYVVjQXNIU3dRaHkxQXFUVTZvWV9BMm9rN2VqQmlnbWkzQjZyakMxOU9tRy1BeFpsZk1sUXA2dTlNeG8xM0FiMkJKQXJiV3FkSTJqbkllMDExOS1GRmFqM0tyYWJ6eWFqWGhlckgyYlBMNDVFblNhMHNpNTRyZjFrdldQcFhSNjhtZ3dMc2xVam8zUlh0U0JxalA4bUthRHpWa1lXTUZRdS1hWmVhR0tpLUZuOXlkekhfZw?oc=5"
+    },
+    {
+      "title": "美國11.3中期選舉如何影響市場35年從未選前加息專家反駁AI崩盤論憂特朗普「無包袱後更激進」",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPa3N6eG16ZVJ6Mm04OHFvZjdUSWpKS3BXZV8xc3ZkUUVlMGhnZzl4OFlQanBkVDBZYTNIa1V2NXBjby1yNmFFVGk0NjhWNzR6cGhMVXNGejRkSVE2Q2hEUHN0RDYxNnpyN2xWNkRoQ3IzZFBLRFJtazhyT2dMY3ZnNVUzdzhBSnUyN1B0eDJnUThFWVVGNXV1UUFwV0NEMVg2TExiZUd6VmZQX1MyMGR2RTYyZzNXUVN4Mnd3XzAtdTdGVG9GNm9GeFpKdHZrbElkUC1tdlF0SGpORndRVFNvek8zV2gwbllrdjhHcXdGVEpCR2x1YUlTc0lvbEJPY0RuZ2NwQWxlUktkQkQwY00zWkJhZXFmMUdvMnBlZlRBcG9DSzQwSjlyMmU5YkdZSkdjOEhqZ21jNHZIQ015SFdEbk9YN1M4TEhjUEdGWjZDT29yMjdpU29xaU5PLUhSaUhOUkxBcUFiMlRPSnc4RWgzOXZHV0ZaaWctcnpYVlJRM2F6UE9QTnJOZDNlelp4elRJZnJHQ2dzMlFrc3BNN0FNczlmMEo1Rk9XaTN2T3A0M2dWYTlYVUJNbTdUb0dzMGRmcEQ2c0xxbzhoOFR2QUVCRWZpdlFQTWd0NG1DQXBxMXVNdmpsUkNWRkt4MHp4X2VNQ00wbE5ibXNOWUptenBZNzcwTC1fM2wxS00wZlREX28tcjNXQm9oNkFXOE9objVMajdBV09nREc?oc=5"
+    },
+    {
+      "title": "國際｜特朗普提前參與中期選舉投票 共和黨力保國會兩院控制權",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQVjZOUnhJSkF4ZjIxRDRuS29UbTFYUm1uMTNudVp1Rm9GMlZXQTY1NEdJZlp1UGY1SGllTF9YZHNSaVNWbXNPeDkzNW5FcXJTRTdzU09FVVFlMEhObzY3QVRmV082SWZoUkZYV054UDEzOVM0ZTRjaFZIbHR5MzZBWDFza3JyanhzUkZRc0tZVTgwMVh1T3pQUVpnSFNjU0FCNV96aHJmSlFhWUZvdi1uak5DdENoY1ZqVHZxS2ZzY09BT2VPQ2Z3aHhCalRWRWt5eWtSdGh6YUpZNnJHd2NEajVVbmNUSkliaEFkaEp1QnNPeHB1MzVOTDVXalZPenFqYWFhN1VsVHJIQVc1M2xUNVRMRjcxRHV3dTdkaGUzUWx6YnFIZ3ZmTHh1cW55bFIzODFJVGJJdHhsRi04MUZFanBNNWtjLW1wVDk2Tk0wY3h1LXBEbTkxVU5jVDVLbDFYX1VacHpzNVJIVDg1ckIwc1RKdUhmQUZDTGV6U1dXQWxRNFJYcmZ4RzhzTFloZm1JRVpERHA3OWpzWW82V3I4ZGs0Qjk?oc=5"
+    },
+    {
+      "title": "中國反對美國新版對外投資限制擬議規則 保留採取相應措施權利",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOVnlkenVaMEhsbUNDQWFZQUVfcVFqYUJMNFJtUzdYR3BDbktCLVE5UHl0VGVRcW94aldua29kVlMtNDJPR0ItVkJORTR2Rno0Mi1XaDJMTFl3Z1JQYjRRWHhGNkxzb0NBbEVMQzRxY3ljUE1rOWdDanhNOEZpVmhXbGJkWUpJeUxMcnF3eU9XRXBvdkxJSEgwb1Z1NUszR3NfcGJNSEJkd3VMUjF6MmtPbjlrZGM4eFlTOW8wQVRZdTdRYmJXTHpKUndWb2FNMGxRNmhBVmRESzNCTzdEV3dXTjVDaXNWZUo2Qi1STVJPdTU3amp6cG1FRHp4bDAxV3ZOdkxwZjZxUzZtU1VhemtYUGJFdHdISXlzeTZrbDJZaVk5N2d1X0FCS0ItRmlxTXZuUDFLSC1IY3JWcm9iQmh1cHItcHlEcEJfa1RlQ1J1MmZXWVpkV1dwWWhKU09ZM25jRnhKOFR3NXhQa2xTbkgtS1R0S2k3MUd0M3lRSV9wSjZqcWZ6blA5WFJMdGpOVUs0MXBYQmFsQQ?oc=5"
     },
     {
       "title": "俄烏將在奧列什基停火 川普施壓烏克蘭「達成交易」",
       "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPa0UxOTAtQjZrNHJZMUZQeW93cFYzMGE3aTMyZEkycmZtSC1fWVJhMUt1V2RxbVZUUGhxT1lFN3A2VmNKa3lQTHpFVVhLMmdqNGZrWDduSVpwVm5ocmNfbkNoMXFvakE1dXpJekxuZ1Y5XzFoYWl0RlhkNUxRbGx6UVZ4N25NTU8tLVJpcGVTMXFNeWhFQ3JGUnJyZlF5N1NNNkFtdzFPNjlMSVJ2dkl1UVpRdDd5SzdQRmxGLTQ5QzVNU1g1RE1MYno1X204RFhFY3EtWlFJTlh0SHpURVk3a2Vyb1p5X2w2RW9TYlpocGlGcnROckFLN0tTSkhwVEx5bGdDS2VxcTBMZi1KdE5wN3dQU29Hc1ZLNEJsZzNJMm4zX3FtTmg0WWFNXzZPYzV6bjA5Yk03R1RBeVBJekoxMS1EUjRIM0I1dUtTQ9IBzAJBVV95cUxQeVpjTGtNRUY3R3YwRlJUcm1MX2tTYjZZc0FPVWNPNml4MHhsV1ZnMzJ4LVhTc3hSS0U3TVFBdUI4ajQxSGZwaFdrX1oxa0RWV2VlcXFhNVVKRC11WmJzYjBSWUgyZEZObEV0c2ZqSWJIWHQ1UVI4Z1FPSHNoM3N6SUdtV3JCaEVzd0JOT2ZkdGZnMno0eEN0RUtLLVI4Rnd2MURLdWVvUUFhTkdOMzFJUWo4Zy1fSU4yTnAtRVJDR2RqdEtkdkQ5bFRUbkdobkFobnhfWjR3MHl1RlFJMDFwamNXa3JtM0QtS3pMaG9KMDJNa3Zjb0duaUhBWlgyWXRkRHhhT1JQaC1fRldZTzJfZ19IRjF3SjZJdlRpNWFoSm5kLWNqRlkxVE03M2MzajVIRVBWX25yQ3V2dHM4OTN6VWtxWjk2VHlGTEs4Tw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQeVpjTGtNRUY3R3YwRlJUcm1MX2tTYjZZc0FPVWNPNml4MHhsV1ZnMzJ4LVhTc3hSS0U3TVFBdUI4ajQxSGZwaFdrX1oxa0RWV2VlcXFhNVVKRC11WmJzYjBSWUgyZEZObEV0c2ZqSWJIWHQ1UVI4Z1FPSHNoM3N6SUdtV3JCaEVzd0JOT2ZkdGZnMno0eEN0RUtLLVI4Rnd2MURLdWVvUUFhTkdOMzFJUWo4Zy1fSU4yTnAtRVJDR2RqdEtkdkQ5bFRUbkdobkFobnhfWjR3MHl1RlFJMDFwamNXa3JtM0QtS3pMaG9KMDJNa3Zjb0duaUhBWlgyWXRkRHhhT1JQaC1fRldZTzJfZ19IRjF3SjZJdlRpNWFoSm5kLWNqRlkxVE03M2MzajVIRVBWX25yQ3V2dHM4OTN6VWtxWjk2VHlGTEs4T9IBzAJBVV95cUxQeVpjTGtNRUY3R3YwRlJUcm1MX2tTYjZZc0FPVWNPNml4MHhsV1ZnMzJ4LVhTc3hSS0U3TVFBdUI4ajQxSGZwaFdrX1oxa0RWV2VlcXFhNVVKRC11WmJzYjBSWUgyZEZObEV0c2ZqSWJIWHQ1UVI4Z1FPSHNoM3N6SUdtV3JCaEVzd0JOT2ZkdGZnMno0eEN0RUtLLVI4Rnd2MURLdWVvUUFhTkdOMzFJUWo4Zy1fSU4yTnAtRVJDR2RqdEtkdkQ5bFRUbkdobkFobnhfWjR3MHl1RlFJMDFwamNXa3JtM0QtS3pMaG9KMDJNa3Zjb0duaUhBWlgyWXRkRHhhT1JQaC1fRldZTzJfZ19IRjF3SjZJdlRpNWFoSm5kLWNqRlkxVE03M2MzajVIRVBWX25yQ3V2dHM4OTN6VWtxWjk2VHlGTEs4Tw?oc=5"
     },
     {
-      "title": "國際｜2026年國庫券利息收入 或推高退休人士2028年美國醫保保費",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPLWNGdTJ6WFlMbmNZMldaZWZSNWVUaXc2RGp0SFREWTdpWFZESkZKSE5WcWUwVEFuLTNtY2FQNmVEMjZJTHEwMTRpaWRxdUhWMFUtdmpkcUZyUjRqZnFmemxLWllWTDhfOUdXdjdIX2N0eGlzLTV3MjRVdnltdndRY09RQzcydzl5N1ZDSTk1NTMtR0FIdjZ6MkUxTy1IeGU1T21Ycnkwa1l2dVdmMDE4cmFHRVlIdnpLeXpmS2dCb2o0R2Q1cmdMNEtwUVIyNDRSVFRwbG5aZmZTWFZYWlJKNGd3YjY3cnRSdUNYU0FQR3NFdXBGVjBsdjJPdF9uY05RbkJZeTlobzg3eEl1Q0c2TjV0eFo1TDlvQndOY3lBTlluT2xPOXZIWGVZOW45dmptSXlneFg1WVhtdnk4RWJPelVZQWxwaUc5MVc0Z1YzckxRcm8tQ09lRlY0ZFdCcElIOHVNaEtJOU9feE03R2Jzc3lYUjNncUZpLWZQUjk0S0hSM0lWOFhFR2ZNMA?oc=5"
-    },
-    {
-      "title": "伊朗總統斥美國搞砸兩國達成的臨時協議",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhTENBaTkzNEplUW9yaFZNM2tEWnhUM0EyclFoT0JXcVlPZUdqcmNHQzlhalRubXBhOGljdWt1OXpWb2ZleGpzUFVSWjQzaW5MZmF4Z3lwSTZFSUF0VUHSAWNBVV95cUxPSG5VNVJuRS05bVFSaF9wM0ZyQ21lNDVSNW95dDFYdkU5N1puUW9uMXowTUFZTE5LVmxTblFQS1VJZWJfN1NTd3ZlVXJ6T2dqVG4tTGRoV2VhRjJNWGI0emdReU0?oc=5"
-    },
-    {
-      "title": "俄羅斯：烏克蘭攻擊導致克里米亞水電供應受限",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pODkxSE5LaU1QTTk5c3ZzWnZsWHZWSS1wenJUc0EzMDAyR1FnR1I4YUpiRnhlNExQN2Q3Rkc0a1JGZVNqTTZ4QXl3T2VyQ2RsS21RT1RBbjExNDV0V0pGOF930gFnQVVfeXFMTWhpQW51MjJfa2VpUTA3clhHU0J2cmoybDJuRWctdU5wYnhEMVh6T0xMVHdScm9mQ0E3ZDZhcnR5d3dqVXBzRnc0OHZWSGl4Z3Z5SHdPbkNXbHhGMi1HaDU4RTJGVHg4RQ?oc=5"
-    },
-    {
-      "title": "梅拉尼婭-特朗普宣布在烏克蘭一座“瀕臨災難”的城市停火",
+      "title": "特朗普外交政策成期中選舉共和黨包袱",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQMDVvd3JZcFdDVUNSOG5VRnZYSFpLeUkyRjZXaENaXzBsRkJjMlJJSXB2TERYUG56cWFpWFhrTTZZeTZSOWt1ZkFzZnB4SDRKYlNFcmxJRjRyTi1YYVRGcHpPbzZMeTBVTkJCMDRuQzZMMW43UTBYMEwzOWdtTUxaWkp6UWF0OW42RDFlbDA3TGpwM2xLT2ZxSXowVW5kWmE0M3lvbjRtQ243b2x2YS1RelhjN3B1U0d2RElVMEpuUE1keVcxV1VHeHV1RXdYanRzNHNWTEFwYUtneWYzamhnVktWaFJDb0VIQ19TbmlINHFkVlZBOGhyQm1nckh0YlZjeUdtWi1UVGIxMnJWS2RPclpuUUU1XzFYTkpfdHJLNVh5Q2xxSGxSVXBzQ08zb09lVExWZXNiSXYzSFl0Tk51OWhNSUtndnlYYjFvVVhFb1ppZU5KRjdPRFBQSndDbjNDOXg3cm42Mzlma25yYm5ValprTWFjQ2Rmb2hWbno2Zm9vNWs?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOVWdUODVGYk5XV1ZsS2xuU0JVX1RQenNLcDA4STJMaU4yN2hFS1pFWGthY0g3T0xpbzlmS3owVElzZ01LLTlZUnVfNHlLT3FWcjRGRFhjNTFGbFZNUFFVWGdiSnBZWEhXekdPMXhjREpRSXdLeU9aX25IcG9BQXh5ZXpxcmxyd3JTajU0TXVEd2dFUmFfVThzS2xTWlBrci1ISGVxUXFtc0VFZjJJazlobVk5cHl5bk9sR1JWcUlWS2NwRlROSE5zdm5NeGlYNjN6alNaOVd4Y19xV0kwUGhIT0hQdndjaFJvT0FETXlKbDZxUTA3TlVzeHRrMXg3OXoxdmVMQnA1V1hoeDlzeHZiTFltNUZQSmdwUzZrcWVfZTZaUnhTVnF0OVdQVQ?oc=5"
     },
     {
-      "title": "國際｜林書豪正式加盟ESPN任NBA分析員 自嘲終於結束失業狀態",
+      "title": "國際｜胡塞武裝襲沙特多個軍民設施 利雅得機場周日恢復航班升降",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNakd6aDkzLS13WEU3cWFjdmRoeGlPeUFoa1lxR1FBYzQ5M1RORkpWZnY5eExILTJNUGU1bkJhaXpNMUVGRXpMdDRMQ2h2OXktM0JFUkhHX2dmZUNtRWxPNV9mWldTMG85LUgwd1JTUzNfXzEzM0ZJVk5za292VFZBQ2ptaHd0M1pGLWdYb21NWFduQmtjUUNKNlJFMk5wOURsUC0xRzUwMF8tY0V5UDlJODZaTEVXVW9wZ1plUzM3RFZaa2s4VlVnVnlJWUQ4NU1Nd0VYNTRGeEkxdklEOC1kLW9US0VJSE9oa0pwRG5tVGlNLWVLVWhHYXJqRXJSSEpEUlBaY3hWU2ViZUhnemJDVXN0WUhQbVdxNkowUld2OEZVcWJwaXMzN2dEc2drQ3RieEZGRjR3dDdDRTN0S0RTVGFqOXNOTTNNa21NZHlTUHVyZ3I1TE9MbmQ2S1pBRVFzYWJiX0JGRldFaHA0OUVVTUwzQl9Dajk3R3lSdzN3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNcW9JVkp6VksxZ1REZVhHZmV4MURhbGswZ0ExNkhTZ3FocnBKNWdsQnBad3g2dzJsbFk5NWFBTTl1QWVqS0tQYVJPN0tsbFVkRVhPSXdoV09PdHJta1FhTTl4c2FpTW9RbUFpb2lPWFgwUU9Lek82bXZTajB4YlZwc0tNZVMzNzdkTUw1amZFRUVuMWJlWXNIWFFkZnZyeU93X3p6NE5LLWVSM2Ita3VHbUpZYy13WVVVYU82VFJ0Y1d3Q3RDcWhWSUZFR2pGbjNCRldwQjFidThHMnJVajFPb0txUnVidDhKLVFuUi1ZWDc0LTZ5cmVLR3lWSld5LXpuR3dhUUloNmY2ekRSemRkMG5aZDluTGI3d0dFZ003VTB1Nk9wVEt3WVBod2RBQUozd3EtbEQ1TjZfX2l0YldrYl84U1pVUVhPaE5acVdRUHh3WXRYZXRJV3Y0eFJ0X0gyX1VnY3JSU2ZCYi1jaEZ5M3FRR1NuUnhka0JZWTZVdWVZZFpleGVwbTJJb01JRjBVRFhsV1ViYVI4M0NqZlpvVkpTZ0xsR2MxTFQ1V0NXLV8?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "科技股沽售：2026年趁回調可買的1隻勢不可擋ETF",
+      "title": "美股｜Jim Cramer籲投資者勿全押伯克希尔 長線宜分散配置",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPbXRUd195STdhWVB5RGhDODBHcE1fUmFNZ0s0V3d4XzExeDU4eExYTDBPUUdGVWgxTGt6cHAtXzVpWG56WVBXUk5UMnlVeXBKMVNjUkJmU1hpRXhDM2VheTk4MWxVU0ZJbzY2SHo4b3lOWXNJMkV2SkJuTGJXRFJJX0c0cHNKOEhDRGlpTnNtN1pCTDNyYWhHUTN5a0NwdUFMVGRhRU9SYXVTWGVJU0hQbC1lS0lGdXhva2JGTUk4b1VYNlhYSFNnbkNfOEp2OTBsb1dvM2xpNUR4aExRZGhtZFdTWU9IaVROZnpqOUFfSVp1VUhJUTB0dDk2UUtZSTVTakoyaG5Oa29IU3loOWZSa1FpSVE2b0tBMzVoR2lNU25uMmF5Mkc1T1lYaTdJeHNUWVE5Ni13?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPSnJSbnBrSXBLQzIxQmpyZWNvOXdOWm80T0l1MTlPOEFMcnRvVFRWdTJITGJrcXd6Sk02TGRzaThOWTdoSFFLRXhqcVRHUzZ6RGtMYV85Q2IyRlBOcDlPVXF6UHFoeEJZOUFveDNuREZIWE5yaHpVaG9kVGg5bmo0YTl2TTJDYS14Z2s1RU1jYjV6bFF6RlM5Y2FJdWJSOGhDNUNQQl9fV2FUSTFjV0pkS0xLcHFkRDZ4VkRkRmN2dk5SM1BSanc4NjhjNU9mLVVLUEplRXRFRmxnQUtnbnVzNzZfd28xaDNXeXNBdExkMkdxbHNRRnIzeWRIdzBIb1RZN1pRc2FuVnhkVzMzOEhBZjRnVDc1cWh5NmNJYUcxOGs3a2lTd1BsTzJ2bVk1b1FOZFBPdXBVNDJQekhnaXY0bDdoYjdEbVpfanJTcTVZdUkzc2VjRlRmeUIydWxuUQ?oc=5"
     },
     {
-      "title": "美股下跌Fed開會在即學者看連假過後新台幣短線貶勢居多| 金融要聞| 產經",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Ha0tQelRicElQdW1udDYtSFN6M3liZDJmRzJ1WFlGVmdpbE5pTjFobGV2U3FOLXJRQ3A5cDhhWF9hSXE1LTdOWUl0REJTQW14?oc=5"
+      "title": "本週財經日曆 — 即將發佈財報",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0UnNQYjVnbkNPWVhfNFhUQVVnRnV3TEZLSHdETWtEMGx2YWh3ZjF0elRxSDVPX3Q5WVFhOXJnQWl3MDNsTkxWQUY5UmtWYkR3TjdqblYzdWo?oc=5"
     },
     {
-      "title": "現在是考慮買入GitLab Inc.（納斯達克：GTLB）的時候嗎？",
+      "title": "美晶片股本月來跌逾15% 科技三強財報 市場緊盯 | 美股動態 | 國際",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNERiZ1Z2WDVHc2VfaXJIZ2Jyc20ybjRHVEVIdV9nMlBidzVUSFNQd1czY2NxaVlsbHYyelFHckZndDFab25XTkJtRzBYandQYXZHa1VlZ3BFaDRwSk5ybkoxNGNtYzVPVEpySHhHcGRYNDdSOVhOQ25VNUhxMmxIX2YxZnNxcHc?oc=5"
+    },
+    {
+      "title": "西部數據(WDC)討論區- 股票評論- 股吧交流社區",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVJqNmF2THZMb0pVRDhCN1lKUW9od3FVQ2dySTVSV2tDdnNZdlhSRmtKVUhNUmNfVjVQMWNsMzBDWE9HTVVxTWZaWHdZUVZ6U3QzcFpDRnl4c00zcW56WHdGd3JNSlVmcDRxMFNHTXdEQjVRdzh0Tm9RYzh0UHFPd3hJbk9zakRXRE1jbEZSeENFVmk0b1Z3SktHV2N6ZXZINGZ3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HS2FSbExJLURkN3JlSU5idXdCT1dTZ2dYM1paZTV4SER4bHcweFJhZzRKaUkwenNXLXhaX3lkYmRjT1k1YWRSQXlOSTFfdmhLbS0yV3dUOW1ITlp0SVdr?oc=5"
     },
     {
-      "title": "美股｜億萬投資者保羅都鐸瓊斯 料2027年股市面臨重大挑戰",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUUZZaFJTRUJqRThrTzlCR3U5NVRQTFJTdERETVZ1VUUtdTlsRHNlUHA4bXl2ZU5tM19nSldXYTF5LXlCcVI5QVY3SE9UMGtHRUxkX05uVEhTeldBRzA3ZXY2LUJUck5uYmhyUjVycDBka3g5OXpZQmRxaTRlVkhrRmRyTG10V2dVYlo1SzVoY1RuemhlRS1VOEJJYlVIb2VPck4xdDBvUm1kczViZ2JCTm1jVWVPbktkTjQ3WlFGYV94VU4xWGRLdFFGMWF5S2JWbVlxaDBjMGhQbnBETHVtV2VjOXoyZEVQMFZZZ2hSczN3RGNTRGVmV0IxRkZPbHFMWkxrVEJPRDlLc3JOUnNsSHEwU0VINUR1dkJud28tMVZmUC1PY0hXS3lhT0lvR0IyQk1RVk5TWmw4Y2MzRnU0WG16TlJqQmF4eEE0WGxUSGQyZk9tNVpUZXdhUmVZZ2JMLVMtT3pZRlR2cTNONmpjbVZmZjVhc2lWLVE?oc=5"
+      "title": "AI價值鏈延伸至應用端　科技股選股聚焦獲利、商業模式",
+      "source": "ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRWNFcWNnLVl4cHh2VXlyd0NSbUdoczd3aC1iUWRYc3FlajBJVzM0NjhUOUhSbnpDb2dPY1ZENDhTREJ6ei1PX0VXV1N5bUpjWmfSAVBBVV95cUxONk9BZjVDdDdISFl3SGhnRFppQVdrVXJtbWd1YzJCWUhoY1dnV2xCeFlqb3ZhcXFGYzlIVVFLVmZEUGVGT2tXbUR5S0NndWRuTA?oc=5"
     },
     {
-      "title": "討論牆 | ETF國際配置引論戰：巴菲特重壓美股，投資人如何權衡？",
-      "source": "LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12LTh3a1pnQUMyelRsRmNfOU15aWhLUktpd01mSmlRWjF4QnJqenNIN00tRVljZHhIM1NVR014TEFUVnBqZ1VDN1EtRDBobEM1S2l4NFF6SzFkVTJoMU9sQTJmYlg?oc=5"
-    },
-    {
-      "title": "費半止跌收紅 美科技股回穩- 日報",
-      "source": "工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSMHlxWUREbktYaGxFTTdORjRMS2FCY2dEbldnNXBqdTF3RC1jQTcwVGFWSlpwY0ZDeUFJQ2NabUhyU2d0ZUZocE1OcXpMekJYOXlocVVtN08yS0pfZWVR?oc=5"
+      "title": "美股科技股跌勢是買點？科技巨頭財報揭答案",
+      "source": "Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQQzRzNDZWWkxvaXpXVDJUYk5aY2pCQUlneWZuNnJ4aldta09fanJ5N2hDbFZ4RHVVQllEd1hlRmtOamhhT2RxdFVXWW9fcVJtQkZaWnJfM1gwMTdkcTJlQjhIVkR6cW1jYXZDOFpsZGtIdFBBS25ycXNQX1RoR2ZXVlVQWmVwRWwtY19uSmk4R0l6Y1ZzdE5RZUR3cXhFbW1udnpoZExHdDdkZ2hZalNjSm5zRmFVVUMwUWZoVThGTzVoS3JMN2h0OTdpM0xIVUhXNDRJT0Q3bWJzVEZEQkVySjFpRW9yaUFScFh6dFhpNHdSSmFZRzJkWExpTHg5eTYyalE1cTlTcHNiTzd3TUtGX3ZPSnd2NGxjVVJHTFRoUVFKUi1IUkNiRTZrOW53RzJoa29lMlRBOE0?oc=5"
     }
   ],
   "events": {
