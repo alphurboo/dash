@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-23 20:14:46",
+  "updated_at": "2026-10-24 07:15:19",
   "gas": {
-    "current_label": "10月23日 (現行油價)",
+    "current_label": "10月24日 (現行油價)",
     "current_price": "176.9",
-    "predict_label": "10月24日 (明日預測)",
-    "predict_price": "176.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月25日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "白宮稱第一夫人梅拉尼婭促成俄烏下周局部停火",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbFdRWEw4SjIxeHlzTmFRaE1KZnRYQmhNYjZfS3pZMEJBbFpXS2g0RExOOWRYSURWS29KQk5WWlEyeDVDd01RWWlMYXE2QUlCZXItTFBqekdJMjhWbUxHV3o1TU9kNnlvR0RuTUNJNA?oc=5"
+      "title": "國際｜若民主黨重掌國會擬啟動調查 馬斯克揚言作出報復",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNS0tfZUE2NUlWWko4QmU4WmJQb25Sd0FsTGl0TVF4RmFHdXhiQWplNDBTTlg0c0FGeWZvbUZSa0ljd3Q0TXJwNzVPVjhvMzV3TDVrMXotUFJaVWZqV1hhbXI3TURBaDZjNzAyQXB2V0szMGxSQnUtS2VLVUd1bkJydTdQeG9ONDZ2RTEwcjl0b05ZcV9PUlhJUEJZVHVqX1QwUzNZelR4MnVXbWZWdGpINUxYdDU5QXE1bC1pM1oyNUFIQ0lkdUxiektwQ2UtTFBlV3k3OXR5TzRqZUJCMXBSenlqbDdHaXZ2QmJKQ0M0TVU0NmJzeUhFYzhBcFZSR005QXhkcHhvTzB2OXdTR0s4ZUpkRmF2VElTbEVySVRLWXdLTVBNNDNtT1hMTFNVTURKdkNBelNYeWdZTEhRalFTUjkyWkFPSUgwMDU1QXZkTW1EZ1lJVmRJM1lBV1p0LUJMNk5wOElZMl9KUGU0ZG5uUUttenhkWjdhNnlLUktKeHY?oc=5"
     },
     {
-      "title": "中東局勢丨美國大使:華府已準備好與伊朗長期對峙",
+      "title": "歐盟強調對話解決貿易衝擊 傳與華磋商互撤企業制裁",
+      "source": "on.cc東網",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0hmLWFHczZqUjhITDlDRFg5UnhGUlRHRkd5UjBvcFVvZFFoVW9SbEMxOHd1RnVQa3dYZ3VhRDBtQVVhd3ZIcGlZN21GMG9IU3Q5NVJYdWRlc09yNnZXSDR3MVZKX3RkN0tteC1TMi1YY2YzYjd4R0FuaWZSVTNvZ0VfS3JabEtQQlJj?oc=5"
+    },
+    {
+      "title": "美國將豁免部分加拿大進口商品關稅",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOeDJoYXlRcFdRN2czeGwzQkNYQktVdjVCaWZZUkJzNU10Z2RQVUJ3Z2ZRLWRnRjg3dFlndHE4MExDWmI4TEpZbXBVVzJCYnRLWGNvYTE5R2FtS3BtdVhJR0doRXc0RUQ2MFg0LUZWMzIzVzduSkZ3QzR6Nnpqc2ZscUV6YTVKN3BGaFpuN0hOQTVpN3BOaG1MaXZzY1VmY0hXd3d2N18zVDlzVmRLV1FEY3A0WDBlYVU5emR1aEZ5ejhGMkhIbWVPY0ZJX1Q3REJITnVYdFJ5MjN6eEc4TUVzcVZnd1p0eFh1cndVRGNnRHdiTHYtWmxEMkt5X1VPVHJuN1hRNHBzeUZuT2ZKM1hUNFJKazdVUWw0UHE1eVVJMDEyWjNFTkpYaHlFX2R2bkM5VUVwUXg0VURlMlJUbnBRZlVRVUxGMk9pdGszTUttNEZQWEljczluTnZTNmI1X0ZzdWoyUzdKQVM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQSkpoSG0yTTRUWWlWaXFLYzBtT19YMTEwdElqcFdwMDg4Tk85SExZSHN5Rk1zZ0NxMXdYWmQ1eWNaUFFZSkhMUzQzNHJmeldqN0t5MVRzdW9nOG00ZEo0VXFEMHRnWk1oWXZUT0RRS3MzaHVMQXJ0S3NjY05DbExBd2J1QUtwa181WUthNHBpcVR1VDljUzBiOFpBNDdKZXRlRVV0R2lqUk94YWJITmVKR20tVDViRHNqeEtkeXdXTmpGNE9nT29sUWxTVkF1UVQwcDdtZ1FqTHdsZHYxNnRwb2dMTHhOSlVHeWZ1emMyM2ZjV3Zjd29EUkVLcG5QWkFvWE1qNTBvcWhQVjRtNkxMakFYaHhxMFRXSElQb0pWc0k0Rlc0aHROZUh6aGRsb1U1?oc=5"
     },
     {
-      "title": "白宮指梅拉尼婭促成俄烏局部停火",
+      "title": "伊朗：美軍任何情況下都禁入波斯灣| 國際焦點| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FVlpoSzhUYXJvSUQ1cW1waHZuZWZDZ1R2T3RjUS1TWGlNN0FHZXpNbjVPM0ttZmNWQ29pWG5UZU4tUHhKTTUzeTJ3SjhGSVN5YlhzQzVnM2x1b1F3dnduVWhxZDFoWDJyOFBqem43ZmdxLXc?oc=5"
+    },
+    {
+      "title": "據報多間美國銀行在客戶帳戶發現未經授權AI智能體",
       "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tUFBXUFJQSWdvZU5venEwSUhHcU4wd3ZVdlBhbUZMdUFDd1pneHFOVE1RNGxsWlVJVUNkZXpiR3hIUlNrMVRjTnVVVU9pdldjWUJZZktHdkhyNU1JZ1HSAWNBVV95cUxPQ3VicGFWS2t4b05EQ19BTEYzRUcxeWpWSkdhRDJ4VmJhZTB6YW5ITVl3a1lLYzU2ZkJvNGxMQkJwazRqQ3FYNVVTaFJxSW13a1JBcV82VnNZV0xDLXY2SENfbzg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SSUZMaTlUVVMtcEVqQURqQVdjVHlJb2Z4M1czSzFIbjIwQ2VlUnBOSXFwTXh0UEZwWU5fSWxHd091dVNUN2xsc004TTAxMVhBNGx5OVpFaWlkc0FkR0HSAWNBVV95cUxNMHdNd3U0NUFEN3p0YUZGNUxIRC1aaHBQd0h3VmwxVTBWNElHWjQ5b1JOVnVNYW9IUEZhU25sWTI2NVpEMHZBRHhaTkE4enBwc0k3VEdRNHVQWVNublpXYTZVdU0?oc=5"
     },
     {
-      "title": "國際｜油價升破116美元 環球股市走勢參差 下周焦點兩大央行議息",
+      "title": "國際｜消息指金正恩經新鴨綠江大橋抵丹東 隔一年多再度訪華",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxON0hkX1JMXzg1bF9venkwV19TWk1Wb0Nxd3VteVdlaXNqV1c4bUxKbFpoTnVQUEpjcW5Lem14SHVWbTBBVEVsbmJ3TWc3S05NamdJX2NIODhFYVJMSUpCOGRfRGVjYW53QjRuLVJEcnVjUldRUlJIY1AwcHFzNXlLd0Zkay05eGpKV1RlMEtlOHRJQ2VXTmFFY3ZPZFRzaEpDUWlmZ013Rm93OXFaeDhGQVhHSTNidkJYbFl2dmlzNG4xeUV3U3VFN1FZOHRSSEVDSmZ6VnJzb3h3TnhoTTZqX2hRN0I4QnFOZTF2d2NoZ2UtTUs4N21CZ0U0SlAzaUhWMEluN09xSldxemJSdWRWZXBaMnJXZ2t5U3FqZ3YxV2VaSTlWNlhnc0VmVkV2MFdXLXJTMXFXczRpZEJ0am9YN3ZfOFh6T21kNXpsSE1BTEV3b0N1Mmo0QnU2ak9KWE1OSlpJMGMyWFg5d2VjZ3JURnJRNlIwR1llOUc5WU9yVG1FRHVIZTYwZlVSa1hxZUVBSFJRWktraTZMZkNTUHc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOOFJ2OGw1ZWhwQlE1bi1FWG9KSFF2S3plWGF2VHlhXzlpbzRsRW01OHVyMmt6S1hyTzBub3oxUUtBSDIwOXgxbTFjOElCdC1ObW44R2E3cllmRkwzMk1OWDNUZGU1MTAtXzR0TUxDanBram05NmZ5OFllTUpxWDVUaGFObERMMFNrYTIwVlNHRW1DSXpDMzV5VDNFZkpubVlBcmFwWTR3YmRIb3lrcm5keHhaOHIyQ0xKZWdDQW1aVGYtYUV4Ri1HY0M5RFFEOWxYa2FGZWNaalJ0aHVEZTdVU2tGb1NCd0hhYXp4R2F3djR2VkFGREhHd1RYYUtRSnZfV3dpcExUYUNIbEpOcXdqWXNvUDhUQVNfODRpZ3dtSXJWSXVSTDFSbjBkaVNrb2VsZnllLWRRbHk0S1R5TVZ5dzFta19fWmxQLU5mcHdTT0JWZ2FjSDJySDJHeml5ZjFvcElfRjNwUmJ1cHFsbFM1YkpROXpkSWJuYUl1TXM1dDN4Rzc4ZGJVTkROVHY2QQ?oc=5"
     },
     {
-      "title": "美國特使：美方最快本周末可能打擊伊朗",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNSThkeHFodWFEeGp6am5lMnNjSDE4Tk1BOFl3cHp2TDVvUi1odFl4MmZrN090cTJ3TmM4dzJRdHVPdW8wNFotN0RTenoweDZxTndnZkZSMkczN2FhSkFlaEpOb29adGFqSmJOejgtdVRJdFJ6ajNEX1ZkOVQxODJETnBsSjc5V05mRXRKSTVwOVlpWnJwd0p5MXFuaUwzWFNhb1F1b1A2UzcwenJDeVZOR2NXajdPVFBmVlJ2elhTTEFUT2lRQXNMejZqSzhadmhhUXpEOEh4V2RLYk5PR1VvVWhjenlaZ2FYM0o3enltNVdDYmdqby1sYl9DVU5XSU1kWFl6aW9kSXItbnZ6TldkVWtiUVk2WUxDNXo3OENaQWNtRDExV2VVRnJRYms?oc=5"
-    },
-    {
-      "title": "歐盟應對中國衝擊2.0 擬談判限進口",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSVU2V0RPb0ZTdF9pYWJuUk1wYjhBUlp6R0ZTYUxWcnc2LU80SHMxMTBNV1N6US1UT2Q2Xzh4NVRINlc5UVEzWkdUTzU0QUVGTnZqaW5yTzJTR2V5R2Ftb214eTFSM00tYlFfc1lHOFhLZ1UyQXJtOXhtTkdDbWROTE9oZmhld2xqWW9hU0hLU3BCS3hXTGhteHhWcl9vZWN4NzlqaW9tZ1ZuWDFVdV9lclNfd0NONEZQOVJid01Ec1ZlVXdmcnZrZk5RZ3pUcF9YSUJJRXBka002QnVJNWhGOGdaU0NNU2tfZEtHcHczRdIB7wFBVV95cUxOdDYxbG4xQi1IZjkwaW55MmE4LTdweE5EUkVyU1JsZThSLUdxNExqV01GTUhMa2hxNkRfUHlQRE1YelNldTJfQ2pBaThmVmxNOEIzdmhjZWFpREpScEVOUkNyX19rbGM3YjVrYVFPUEJkdHpEdGJ3VzhXMGZSeTRfT1FBT1R2ejZMREwxNWxrUEFiY182eFJBOEVJV0haSWNRTU51NGFOSGhfcGg5cXo5SWxMSnBLR1BZdk1heXNvRnJXQlNka2pYem9yTnpjX3FrNkJnSVVHWkExWF9kY3c5RzVUVFFSU05zREdHRFJOYw?oc=5"
-    },
-    {
-      "title": "國際｜特朗普稱或對伊朗發動新一輪軍事行動 隨後處理古巴事務",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPU3FIRVRmSXA5OWZkem1JV3FXdmpjYURORW15WVFBMkdfRW10VFJJRGtISW95c3Q1c0tzOHRoUHF6OFZrMzAxcmUtcFlFbEJXUUNwbk56dGpFMkM5YkZXeDJmUHNOTi1INFhfVTg5d2ZPRUZxaXNtam9rSkxhTVA5Ti1hLUJ6Mzd3ajNqVnVVeXF2eWZ0ZHJBOTVpMEFmeTVDS3hHbVZBa3FBZXV3MWhYWVVJeVhCakNhZE84UVNtM3d0RzhvaG5icGRkUlFiQWdPOVlCUnFUcW1JT2RqN3BKV1I5a0JtbERoMEotd0prallhMFE3QXgxZUZPdzlLb1RyN1ZVSmVtMUpmMUtsYnBNUWc0bDFJVEo0dXBiMW1nSE5ob1pJYU1RcDN5VWVub0E5MlFCVEhxSkpNbmxuNUFqdnBoSDU2YUxvZjd2MzFEckhGMDZrNmNUMm94VWpsaFFMZmxvUl96N1haaFRvWXhoRnhaU1FidDZ4blVad3ZSb2k3Ym4wMmFIMmlYTVBRMURDUFh3VUNydHJQdw?oc=5"
+      "title": "美國國防部認定由中國資助的孔子學院威脅國家安全",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDRElLWXJnTU1OakNjeGt3Ym83WURHVlpIM3hPcktqRjBPOTczSml4cGNEWUxZMlJ2VFlFcW44UXplZzNSQ2xua3pzREZwZ3I0MEN1ZWNRUUVMNmxwYXRONDlRbGZkX2tBOF9qWg?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美元上升 市場關注下周聯儲局議息",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EcHIzTDhsS1BTRk1iWXBFR3Y4ekxleVVNTVhHWVJMenBTUS1URENWUnFwbktnQTVKZWlSV3hsaW9WSjFDUjdfMEtjN0lHYWkzblNqLUpxZjRFdlZRS1pRUG5kdk5vRDEzeVZZeUdlaw?oc=5"
-    },
-    {
-      "title": "美股走勢丨道指收市挫652點 電訊股瀉晶片股回穩",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM0E2ZGVqai15SC1rM3czV2JPcV9aVDJLbFo3YzFVcE94MjJtQXVoTnRhZU1MZnZqQ0JaTW5vNG5wM1lndFM3cmhTZ1dsSG5helhQdlptVWRHNzhUT1NsdEQ5bzBXZ01pakhMM28zWFZZOEhWVGl4M05WYmJtTnEzU3MtWXlDOWhYd2xPb1dtTDJDSHB1S0ZVT09nNXJfQlUxTTFMT3BGSjNlaGQyU2ZMd2h6eHVjNzlFRzByQUc3U0pnTnZyTC1VaHJmSFJCNXpSdzN3SF9aTnhqNUlsUHRRTXhRbDdSR29KUk5GcjZaeG9rT0J3LUJZSklySWNWWDFhX3ZNZXc5OVlvOHNNcFIzOWNCQlNmbmROZ2dneUJySk9OMk5nZ09mVmJBc1pIX0Q5LWRqUmVlUmE4N1hGYjNTa2R5TXVId0NBQjhENm9IU2dwaFlnX0VDNWY5OENkQ3BNMmxSdVRR?oc=5"
-    },
-    {
-      "title": "標普逼近歷史高點60%成分股卻陷熊市？SPY是否掩蓋更大問題？",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50QlVjbG9NNFFleERzZFlVZ1phR2lTTllWSnlIZXZPcnM4ZmZrYmc3MkpId2Zfd1JMeWVjZFhsLVc4UTBzNmctbHA2OA?oc=5"
-    },
-    {
-      "title": "美股｜納斯達克確認一亩田重新符合股東權益相關上市要求",
+      "title": "美股｜Fundstrat湯姆·李：AI股拋售接近尾聲 現屬健康調整",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQOV9tVklkWHdXVmNvd2p3b0o3VWtfWWh6V01kUjVocVRFcHIxTms0NG9UQUpzMWx0MG5UT0hETzIxakRjTmpNcnI5SEdEQTgtX0lJeHJoRWxyNTE3eDQxbW1OM09IMWdaY0J0MjJMRzVDbjFYUEJDUVFpUEhEVldobDFaLW0zM0E2TzE1THhRYlRWaHRQa2hjbnUtYm9La3kwRm9FZDNhOE9URWZrRFhvNWJKWkhZOTUteFpUSTE2d2NoYmI1eDUtZktmYmZHM2NuSGh5VmZGYkQycEZwYVF4eHNXWDdFNFR6OHNyYjFxaXFoaDBtWHV1X0x4QWI0NEpZNkFrZGZXbERadnhqRFExRzBlVG54Q21iNWlDYVJCTnN1U3RINXFSTGpSS21UdmhRSjhlTVhBQk9wMEJkNDJxcVZHd2RDTTFpWkhKWHlqaVJWSy1rSlZZejk4enZlWkszdWFKOHdDUFBPdEk5Ull3T1RjMzljT0xaVUExVTlOZno?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQU3oybUw4MFJXd2NzOWg3YlpycnZZV0wtdExQLVRENm5BelRaM21lYTFnbnNnTzRKaWRJSFY1WEt4VzJzSWxzUklWZHZRb184a215dDhzWmRZVFZSeXZ1UU9HTjFrN2cxM1E3NEMwclpDYm1ZZnkzRS1oNUhzMVdNZWRhTGR5YmlsbmJqcDJOYjFXd2tKM0FsTENsMndOVFN0SXJIdzZJdGpEbTZxVnZ0N1VnTjhlX3NSYmZqeE9RUXJMRGRfMDhtWTVRb1Y4RG1QU2pRNHNOTXlVeGpHeUMxN01kMFhYRVptQ1dFUzBoX0lVb3hGQXZkMGE2QVN2WDY1QWxwZF84QWEwcFkzMmpyVk10RlIyVk9kSjFLNlZfdkNaWmxvRHhhT05zTnh1M2tScUlXS2E5ejZyRGNSdDh3Z3kwT3d1YWRpZUE?oc=5"
     },
     {
-      "title": "華爾街股市三大指數下跌(林靜報道)",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUDVrYXZCN1pwWUdJN2M5dF9lR0Z1QjhqUVp4UlgwRnB4N2Fud0NGNkU5UWZOQl96c3pIdFpVN0R1dmthaFY2QVE2RTFsNG1La09FM3BaWHkydWZyUkxfako2ajBGcTBfMEp2NFNB?oc=5"
+      "title": "美股罕見訊號浮現！1999年來僅見第2次 花旗：逢低買點還沒到",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81a0dWNmpOcVVETWpjek9kbzR1X2t5TVVXUDM2VkxkZEN2MjhYVUVpNktpaU9EZXVnWkhsTVY0Mzc4RW1vMVdPNWpoMVl1N0k?oc=5"
     },
     {
-      "title": "美股道指下跌652點",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96bHdZSEZjTUlLWWNZdnFveHpGb3dNNXdTbS1oMlJ3UkhmMHQ2aDdBQU5fNVlBMWN3RjRPME5RYU5NM1ZiZ0pzZTZ5dWZYWENZV1pHeTF30gFbQVVfeXFMT3N2bEZmc2U1Z3N2dHJ3amlvU21fejVULUR2bGRMa1AyTWRrZTRSSmViMno4X2tSd1NOQ3lUVU5POFpack0yN0kySnA4Nm1MbnV2Y3Q5bGtqTXZyWQ?oc=5"
+      "title": "周五熱門美股、中概股收盤一覽",
+      "source": "哈富证券",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNWZ1Q2F3UTc4aC1FN1BFR0IzVGtnMVZxc3Y5eDlrcU96QUNKRzJwdDZObzlpOEZIa2x6M09HQ0ZBMnRGbmxqWC1qcXRmTlJnc2Nlanh4VW1ZXzlXWDdoT3EteUJ4Zk9aSEhqbQ?oc=5"
+    },
+    {
+      "title": "標普重寫股票分類規則！3750億美元資金或被迫調倉 成長股與價值股迎“大洗牌” 作者 智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeVdFX2Fsa2dvdWpLVU1fSTE4QWhvbXZIOFNmRDVveEtWRktNMmtsUGFsSXZZWGhKN3lvblFTWmRPblJTUTYtZjZCTGdCQ2wyRWlKel96OERDWTdNV0NWanItSVpCSmpIV2VoaElfOHU?oc=5"
+    },
+    {
+      "title": "AI股票還能買嗎？AI龍頭股有哪些？2026熱門概念股評價",
+      "source": "Mitrade",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc002Z1V6aEtiNEQ0Z3ppZnJ5MHY3REM3UzR1bno0bjFXQVVXWGM0aXRIZ3RpRU5KNHVXSE93ck55NGkwU01MVkdCUV9TRmFxeF9nUTVZekNjajctZWFxVTA0S1VBQ2dqYUpnckxUWGFDb2Y5M1p1Q2NPYWxNdkUwTnFqUDlxU1E?oc=5"
+    },
+    {
+      "title": "財經視野│債市破裂，CDS飆升 美股AI的第一張骨牌要倒了？",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdlZoQzl3LXJScGNVbVBNdzQyZjhCWFB4WUdNUnhiNTdFMGZLSERoaUFuTGRmODdKMzl6aGE4SU9aUUVtT1hnOHlWamtNWERBb0pYWU5mNXg2ZERnV1ZQM05HejB1UW5Vc0VwbEJXcmRhWV9PSW5maTdaWF9CUUc4dnJhd0NWQy1BalVhemxmZFB5SU94VmtfdUxBcnBjN0ZVb291SE1ESlpRZ25YM09XQ1M4WWVZU2xDWFAyd2RLeXUyU0MzYVQyWE4xQmI0N3pmbkcweGVuYTE3eHk2LWs1WFNsZzdubGhzeFQ3LWNZZm5xZnNJTjNWaG14eldLOE5BclpBSWQ2V2gyc3BQcU1ZbHc5QUxHOHpoLTQtcFNaQVBUUnhmTjlCa2o5Z003OHRiT2h5dlUzYTdsN0M0cTBJTjdHZjdaRng0a0FsTEFEZFFyZmtxcWxaRQ?oc=5"
     }
   ],
   "events": {
@@ -84,8 +84,8 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 13,
-        "status_badge": "13 日後"
+        "days_left": 12,
+        "status_badge": "12 日後"
       }
     ],
     "stocks": [
@@ -95,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 5,
-        "status_badge": "5 日後"
+        "days_left": 4,
+        "status_badge": "4 日後"
       },
       {
         "ticker": "NVDA",
@@ -104,8 +104,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 26,
-        "status_badge": "26 日後"
+        "days_left": 25,
+        "status_badge": "25 日後"
       }
     ]
   },
