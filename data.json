@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 16:15:20",
+  "updated_at": "2026-10-25 19:46:38",
   "gas": {
     "current_label": "10月25日 (現行油價)",
     "current_price": "177.9",
@@ -10,29 +10,14 @@
   },
   "news_world": [
     {
-      "title": "國際｜特朗普指美俄烏三方會談即將舉行 俄方願11月4日後恢復談判",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOczBHT1lJYVZkcmxLNHZ4SERpbl9RUjBGaHY1Rm9iVTZBdzR2bjdETTVCZENueFBiclJsNE4xZnFmY0d0dTZUcHF2VGxRQ0lXbGlXMDMwVGZyMFFCT3daTDktT0NxcXNreW9vVElUTzFGVEE4WEFOa2ktMHUzVEFvdmlobWRwd1E2X3UtYVhXSEVKT2l4Q0NpWmswZ1VoMk15dm1ZNGlOT1N2T3oxTkV5dWtwcEV1WWFtZzZTT2JUQmEwZ1Z0ZWxlUXAzaE4xbGpTcmpramRqVF8wekMtLWk1NUpBYUcxcXdnN1ctNHZiNEJwbS0wZ1F4VFpCWWZQVW5lOUZWTTFoTGlvUjRfT3NsS2pSVUZQSXRncTdiTTlRLVk4T2VSeUZDM3Brbk4ybWZ4R2RERG9OU3U0bnNFZ0d5VnQyMUNxU0lYZ2wySHdOUGtGSE13TU1GSDhtNGFWdEg0NFVUVUFtUUtfQjdScHZDNUJKWW1oelhhSllmcGxROWFENVFScldiWWdXdnlGU0l3WHhjNnlOekoyT0FoVjBOTE5CY2Nxbm9W?oc=5"
-    },
-    {
-      "title": "馬查多結束流亡返回委內瑞拉 考驗美國過渡策略 (01:30) - 20261026 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOWnljd01yRWVfemEyR1ZjaGNwX0VDMXhXWmx0azloTGxRbUYxQk1qVjZ4Y2F6WFo3dG0zYVlrR3p4NG13S2ozVUFTcjdiWlZNZDVZUlU2WUxUVWVHSEU1c3NRWE41eVo1YWlId1Bkajl4U2t4VzVjc2F1TkgxREowTjBtZ29VQm5nMXBIUHIyNnVLRzg1amFBMGRZQ2V6Q3VBZEhsZ0xCdDBFOE02alJLRmhpZGQxZ1A4Z3JhY3V0bFJmUDlpYUhZTjNpQmZ4NTBxaGdWOGhuOElCa3dveEhvQzBfakVXT1RmWHRua2N3WWJsc0ZFbWJSeGZ3Zm1tUXJ5N0pyUms1V0RWaEQ1dlNEUWZBb1Voc2dPNnBOR3N5cnVRQl81d2Y1cmpwb1RXcVpIdnZDTXdURTRLNU82X051c21VVlZqZ0VhS0NGTnBMcDZBdUlEaFJMcVpKOXhsUlBqbHFMVk1SVWJGbXhDQXZaazJJYU8wajhLeVVrcFdtQWZsQ28yWkFsRHphWTU?oc=5"
-    },
-    {
-      "title": "談借調國際刑警孔慶勳：專業經驗輸出國際",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNRlV6YmRSOXZJNEVRblE4MzY0NVNyNEJqQU5acVlkZGFLemtvNFRMV3I1SUJLZ193MnhXZkN5eFlCZVN1dDZVamhFeGx1cEw5SnhyUGZ0S093WUU3b0VxZUpXZC1HY21Pblh5R2NQMVpzX2VFdlJqVUlqSDNiN1FYUUxVRWFXTnhnQzZBNUNJVVJKUkFpZUd6dGM0Q0p6LXEyeTZVcEhYZnl5MVI4ZDJfdzdXUzc5M1BHb0hGWktIbVk5VE9KVFMyRlRVSTJlVWs0eDNjbFdBbXhKU3F4dEZDc0ttVkVhVkM2Qi1kOVJlaVVwVWFFSkF0cEhYUHNBZFBBc095d2R4cXhab2VKU1ZDTXhZaFVpeXVjY0hPRTl6VWUwZ1RZcnRydEtfMnplbmNwNTluQ0wtRQ?oc=5"
-    },
-    {
-      "title": "歐盟集體右傾 反擊中共傾銷",
-      "source": "大紀元",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SbEZsRmVSOU1DVjFLQTkxS1d5Wm5VQkhDZ21LQmxSeVViWjYwS3ZHUWtMb01JMWNVSzBwcDNkaGpyNzBLeFpKWkU0cElJXzNTaEwwNk9XeklSWG9NSEU2bjlB0gFnQVVfeXFMTzFUWVp2cHBiNFdUdWZ1S3ZyZmh0M2NtQy12OXdvVlBkOGx1bngwOE9pUFNPOTF1REstQV9kRHd5d1RfMG1hd25SUkZCTXNaR0RiVFprQlRNTkNZNWNpVmtrOGM4Z0wybw?oc=5"
-    },
-    {
-      "title": "白宮經濟顧問：美加貿易談判接近達協議",
+      "title": "白宮經濟顧問:美加貿易談判接近達協議",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOb3pJVlZDN2tXT0dDVXo1UkFXOUdqZ3J6em1sb253aU5TNXJsdy1mVTM4ZEJkSG45OG1zTFFUWS14SW5KUzF0cWp3amhKc1c0VlQ3N0VlSFVPNk03NEZBbmJMN2E1ZlM2TlpvSGZKYjBSdmtGRU05cVZGRzlUY2d0LWJCcVY0SW5TMjNjY0VZTGs3MThDdlJoMV9JTVFMdkhBZ3VEVG9yUDAyTXBiTWF0LUl3VG5LUDB3TUxUSngzM0hwSE9QTlhjSUZnQkRLTTRMMHZuZEJVd2dUemxHOW5lZXN1dk9PRzNQMEg5U1RGdDB2VmY4MENFbjFlNEJ4cjZpSjJZWGVib0MxR0JBakNiclBjdWhzRjJ4TWVwZk1RLVVtczhKQmE2UlA2VG9ucGIyd2ZUUUs3WWVIb09yc3Ffdg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQZ1pOd3VLc29mSGxNa1lHc2dLMkJDMlZqMklZckVQdktMTkhSczUxNjJZb3NnTzRqb0ZPTWJoLW5BQjR3dVlNVE91YUZpRGJKM284S29POVFMak1Ca1pHakVHbDk0b3dGYW0xT3BZT1lSRXJERUFsSnZYT1lZNlk1ZVV0dXQtdTRqUUVmWVQ5S2ppOW83M2l1YWJCeTRyTEFWLXdUa1dITlZwNnlhbWxRa2FxX3AzcWJqVHlrR3psc2NVdVJ0SXpOZmc4UHdSdE1aSlNpcGl1ZGM3Y253MVhoRUE4WkxCWEFQbnVBRl94aDJrcmh0elRvRXF2WjcyejJPdm5icEJFalE0dkpMZWFxMkV0a2h4bjE5T3ZCSUQxTUk5WXZ6WnFOSDhVWW5teTgtbHZWOVRKeks?oc=5"
+    },
+    {
+      "title": "內塔尼亞胡眼中的新中東 - 20261026 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcXZsU0N2Zm1IeEVDNk02TjE3UFZ2UFdqWWNTS21WeHFWYTVQaGhla3lXbWRKVWRsR3lvQ0tkS1pfWmJFOEc0UVFhRzFsMEVDUHNWZHhlMG02Q2hnellabl9tYVpyV1p2dXhIdWg1bWprNDBXY0JkUkZqM2VsSkJ6VFNlNlZocVk5V2FIM25PRnhRcXdWQ1VaMGU2bWdySUZLSzlEYl9BS19CcUNmNXQ4Qk44a2Y2N2t1TU1USkdyVTB5aTdKdUdZVWlQVkVsRkJraFMxbjhneEZlRjNCZ2R2UWg3WVJCaTZjUzNJQVFPdnBkOVlPU1M5OXJPWWkwbE9TWUNDdzZlS1R0RmY0OUhObW8zMA?oc=5"
     },
     {
       "title": "國際｜澤連斯基確認烏美俄擬11月召開三方技術層級工作會談",
@@ -40,41 +25,56 @@
       "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOYzdRbGtrUldRRmQ0MUhYR2JqV0dyMllwOGRQOFp3YzVNcWVYS3NKMjN1c3ZiVHVUTUNEOVJ3QW9xSTRWWUppNWJtcFliQlNRaWRJRFRCSmIwOWZfWU8xUmlkOHRvX3RHNUlWSGVWTHdLQnhyRmI2RERhNkhPYWJMLVhIMDhmMmNmcmJpZUFsTUtYNnBqdFlJaXU4MXlhYUk4a0YtZFU3WV9UQnNRWHd4ZTJrb3Z0bVh3X21TWlFzNGVNVXRBOFY2VnNXSmVNU0xYNXlwa3haMTBMYWhFQkNOSHNjaWZ2VDBERlprSTg3WkszeFlVUFBldGNaZUFiMk1tY2M5NXVWMG5tZ3pZNU1VWU5QNlgxX29LdVhFX0NkTnJtNWM1TGt6djduNUpyekVpZlB0RmtfU05MUnk3eS1HM1FNcEhpZGNhSnlWRkJ2RC1Ya0ZMRHQzYjVkb25INTJ5SVpQakdEaHR2Y2Z3OUZ5MkoySVkybm1pRm45Q0pidVFSV1MwTXVoazNpLWE4QQ?oc=5"
     },
     {
-      "title": "國際｜利雅得哈立德國王機場關閉兩周後周日重開 聯軍攔截逾十枚導彈",
+      "title": "俄烏戰爭｜特朗普稱俄美烏三方會談很快舉行 俄方籲勿抱過高期待",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQakFtR0laaFE3bm1fNVVIQ0h0U0xXcTltZXlFWHhnak5DZXlYWE8xUHctLTR4TTlUUFVlbFhrQ1JYN2tGSUNoN0Y2M3FFbkhPbW5OVmdHMUNtZEJoZWppUlRwTXFpSmNteWFFb0RFZEh5SXgzRE1rX1U1S0pmLWZjRkE2bnhmWlFNc1VHYWlMZFpNeWgxN1dNWG1TaUx4N1RZZHF6c2JHaWVEWXBJc3doZlNvWElHQ2xYeG8zWDJ2b1Zfczk4TlFSXzhEMC1QbmVYcDdtWERXNVNmNjhlYXBHN2VpQWp1V2RoOXFXSFlUdjRVd2IwUXRXY01md0FQNlNnSjh4V01lU2l0T25KeFZFeWRiTlBJTzBoU2hvMkFTU09RZ0xmelFGa2pWUWN3OGhiNUYzOWxwWXBMbjVUODNXZERiSTVfUU9XMjdJNDBBTFM0dk9JbjZLRFlnZUNhVEl6aWU3SXhNSTMtYzRjNWlQZkljOVhGSGN5U0ZTMzE5b0ROVUxrZUE4RGFucWNFRExLQlBzMWVVRDJCbnAyOXh4UXRmSEgyaXBiWEpZRGpnTS0?oc=5"
+    },
+    {
+      "title": "澤連斯基確認俄烏11月在美國斡旋下舉行會談 強調領土問題須與普京直接討論",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQYkhaX1N0QWQtdGFRbEM5dV9ycTlaZVR0elVPNDd2bXhqZEJBWEY3WW1wbFdScWlTQTd2VVNLT2NoR0ZoczhnVjRkMXlIRGFTQWZwbHFtdEpUUWUzYmdfYUVLdTR0OVdPX1hua09sVFN4WkNYRkZ3Ri1xd05nZ2NRZ3E1a1ZhY1JFbWc1THhBengyUXR1RkNaWjZFN1o0Skt4cUhsdE5Qbnc2dTg3S0pFNWxHOWEzeUgwRmFnVEZycjJuWU84RHQ1MHVPSlVoYWJVazktTHlMQ3BJYXhmWGIxcTVXRzFJcXJFd1VPZUg2dXZqbk1KcmgwTHV3TmRYejJpSjZENzJiYkotUmVKak9CaVdlOFRoUHMxSU9sOG1KbnRjWUtmX3dMWk9QSi1LTkNlOEkzMS1MdFdKd01pczduZFNWRHFrNGpYWDdyY1YwUWl4QlRDZFlUaFpsVGZ5cFZSNWU2Uy1hYVo0YWJTeTFQVmFad0FUU3Y1bGE1eGQ0bHFwQVRXX05KOWhnZS1wUHkzakpkSFZ2VGx2d25OZTgwaF9mc2F2RkRFUENNWGJRZDdOLUdDSUJEUGFTM0U3ZkI4QmZJODdJM1VSQkROYmNzWU04MzgweE5hSGxCNXFfRHViVzBjeGRJU3MxbHdJR28?oc=5"
+    },
+    {
+      "title": "特朗普稱很快舉行美俄烏三方會談",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ueVRFTl82b3JsQkZnQm9XX3N2Nm1mLTRmdUU2ZUlNS0VPVXRyc1VhTzl4T2F4aUE2RTBWRWE4cnotbmhjVzFyZjlYellYMWtROFJyVFl6TDRMWTNxT0HSAWNBVV95cUxOQVlnQ3dtdUFfakpYcUhaZkdZaWt4U2pRdjNJM0g4RWFGSlpxcm13U2I2RkRkSlgwR1VPbngzZXVleFpBT0RjNFVueGcwNU1EcndJcWxkbTExMWh6Zm9ReGdGZ0U?oc=5"
+    },
+    {
+      "title": "國際｜特朗普指美俄烏三方會談即將舉行 俄方願11月4日後恢復談判",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNU2tsVnMtR0oxTVdOdHM3UldzVVdFS3N3U1JMMS05ZzR1Yk8tOV9mTy1IRGNSd25rQllVNVl5QTlQSG1VT21oUTB1US1WaThxWi1HaDdFWkxFUVFMcUhIMzJRWU9SNEF6R2NtcHJ3ZjE3dklTVzNmVEZwMlc4a0Y1aGFqNUlISG9jMjd6UklWdVN1NFhWdGZDRkRaUXZFWGR2TUZ0cmpMZDZkSjdYYS1TMVJnOGdJUkEtTV9obkJRQWNyYlpGd1RnMXlrNmtJTDFIakhwbGE2VkVSNFdabXNFQTRNRVZYZXJXUFh0Wk1PNjRtRHZtM21EaWNsRmYwN3JMVmFvOHk2eVFRS2RmWTZaLVpsemFWcEhMT19qTWFLWkJBM3k4TTViNFktREVXai1BV3NaajJQa0RRQ01pUDdOU1RpNGU5d1lRWWNxNFhmTXFGb1BwN0VYUnFILXJGTFNKN1AyVE8zbm1SQjlNNTFtR3doeE5KTWtJaFYwejdCYUM4NnpYdUhwazJMMThpeTlYa3BiWFh2bmhIYlFoVi16YVA1ZlpLMndkR2ZRN3ppeXA0dTVQeE9BdWwzWkItSllqXzJRNUs4NGE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOczBHT1lJYVZkcmxLNHZ4SERpbl9RUjBGaHY1Rm9iVTZBdzR2bjdETTVCZENueFBiclJsNE4xZnFmY0d0dTZUcHF2VGxRQ0lXbGlXMDMwVGZyMFFCT3daTDktT0NxcXNreW9vVElUTzFGVEE4WEFOa2ktMHUzVEFvdmlobWRwd1E2X3UtYVhXSEVKT2l4Q0NpWmswZ1VoMk15dm1ZNGlOT1N2T3oxTkV5dWtwcEV1WWFtZzZTT2JUQmEwZ1Z0ZWxlUXAzaE4xbGpTcmpramRqVF8wekMtLWk1NUpBYUcxcXdnN1ctNHZiNEJwbS0wZ1F4VFpCWWZQVW5lOUZWTTFoTGlvUjRfT3NsS2pSVUZQSXRncTdiTTlRLVk4T2VSeUZDM3Brbk4ybWZ4R2RERG9OU3U0bnNFZ0d5VnQyMUNxU0lYZ2wySHdOUGtGSE13TU1GSDhtNGFWdEg0NFVUVUFtUUtfQjdScHZDNUJKWW1oelhhSllmcGxROWFENVFScldiWWdXdnlGU0l3WHhjNnlOekoyT0FoVjBOTE5CY2Nxbm9W?oc=5"
     }
   ],
   "news_stock": [
+    {
+      "title": "本周超級央行周 市場關注聯儲局沃什議息後言論及美國PCE數據",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00RElWbDVuNGEtaXBYejV4bFBaVHdQUDhRUEcxb2NXRmJ6TmtQSTF6UDdxYUlVQi1weTR2bW93RTRvZlZtRWYxWGNkakk5amFnTUxoa1BYcEJKeUMtQ0ViN0tGbWlxRWFoVm9qU3hYbw?oc=5"
+    },
     {
       "title": "美股｜巴菲特1988年買入可口可樂 現每年為巴郡帶來8.48億美元股息",
       "source": "Yahoo 財經",
       "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOQjh2MVk1YnpJY3pITFk4enJhRWsxdjF0b3M0VjFtNU9KbGZaV3ZmcEVJMlA4UmczOERKdkFnLTgyX3lMNkdGekJrOGFKTllsOGpuTlZSdFVham5udm13MDRuQm01R3FhRk5xZ2l2V3dJR3E0elVoLTBtMk1LeEVFYU02ZERmSDU3T2tqS1l6SmhOX1dPeldEREc1NXE2YVAwdlFpRlE2N0dqc1VqT1R4aFRHQ0hKZDBhQks5TWZKY1p0R0VJTGtQamxJcU1Sc18zS3o0Y0RqWmhtTTVYVS1TSkZsQkxDRFg3b28tMGZHVFNCblBmc0lheFJVdWNhOXJocFdJRlNwcGdDTHdpQlhlR0o1QllGcXlWTHBVel96eGNkUjZvSko0dWROLTZ2VG9GcFR5SFA3Z1psLWhITFctanVRSlBDQWVnY2hSckZrRDZlSWNZWEtjd3k5enZZOTdWVkJsbEJGaW1Eb2Z4MU9DWERzd1E5alF4QnMyVGRYYUpLYjNBNHZIZktiSzc0c0g1NWNEVXhMOA?oc=5"
     },
     {
-      "title": "基本因素未轉壞 科技股趁低吸",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWi1iTUJVMnQwVVkwNnNfVWVwUkkzRV9mWDh3MWxDZkVuNkpDMzJ2MkNGbVJqdGszbzZSejJjNk1aZ0xMdGc2TjZFNjVTdUlKaGNtRXItYzdaR3BFdEFnUUVxNU9wZThSMUxaZndmUklaSU8yOHRPSkpiMnlGckR3NUtHdFRhUzBfRnYzdkFpdmVqRzducXdNaWpoNXI5SXJETnhaTks2dHdSbXhvaFNiNWVONTRpUWwyUS1USVFYSm9vclNROHA1Nl9QYmg5UjFZdGtBQjJ1a2dsRTBqYVdxTkFrMC1Dd0x2OEJMaEpPRXM5TVFDZUFObzBjZ0ZCOWNIbDJMX09lYw?oc=5"
+      "title": "德銀示警美股科技股還沒跌完！距長期趨勢底部還有5%",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KbE9Mc0dSenhJRVNkTFNFRXpTeDNmVDI3NHJORC1OMUg0ZGFJekczRVAtM0JxMHBPTDFIanFUaVZfVUxId0xzaFhXTXhuTXc?oc=5"
     },
     {
-      "title": "美債息短期或大幅波動 籲多元化配置|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPT1R2UlV5clZJRFNwZWZBaGNCRzhOWTRmQkdyd05LX21XSTRxZGFZOTRMbTY5enBIbzZGTUZzSDZ6QVJhcjV5N3czLVZRYUhGalFGUjk3WlJOdk1GWWdqdk80SkkwUXFaa1NiUU9xQTlpOHdiMXNESElSS3lmRWlEZi1YS1lOTG0wc05YdW1uTEd3YklEUDYyRnZVWHlhNVZkdmZqOEFVcFFPc2g4MFZxRVFRSzh6TE5iMzNwUXdHRHc1bC02QnB2T1pFU2hVSXBxUjZ2aE9LUzZJeFlJTkRscm1lUV85cmltUHhHa1pBaF9BOUxQQmpIeVB5bW85a3hSb3FEZzl1T1d5WEpuaDRzRk5PZzhmY0t5aUhfaXAwRWVfTnc?oc=5"
+      "title": "高盛：散戶交易較2025年末降45%，家庭買盤仍成美股“壓艙石” 維持標普500年底看漲至8000點作者智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsSWZTRE9QTFU0Yjd4b09NMzVBbHI1cEhpRVdGQUhGSTctTE8wZnN1RUFGeVJtdmdjMXhZVU9rSnVOVnNWbUFQQ3lkN0lkc3JVdWxMY3NBdXkwRVFIUDNwLXNHZ25CaHc1YUh2eDV5X0Q?oc=5"
     },
     {
-      "title": "美股AI交易動能轉向資安| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GQzQxQmw1NVNiRlJ5TUtndFJGdDYtLW83Tnhzb3JtVDlDYVd0czRSOTNsX09JWVpndWFMdXVBX2JwdjRaLXIyQjhLZTBtMjE4?oc=5"
+      "title": "超級央行周來臨市場聚焦聯儲局言論",
+      "source": "metrohk.com.hk",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTmRnU0NYbzV5SmtiRGtmSTJySWNBV1F3Tm9RQ0FqMEpyblo2elhNMkt5dEFFaGhwZVZ6WWZ0cmwzcW1FcDVTOVJ3V21xd3RYTkdXWWhpRGFyT3V0YnBsLU11WnE0X1djS3RDMEpkYXozM1FEb190TVNsajQ2ZDdSWkJMLW5hSi1MdEZiUkZuNTY1UVJHUnlSdW81WDM5akF4Qnd4OVlJYWpJeEQ1a2pvZk44akpVME5IQkdMUC1jczcwLTJHd0s1SmFVN0Zva2RfcjAwc2g3MVV0aHVnVVRBWFAwcU1vTGpkMHV0TjdONFpqeXRsWGVhUzlwRTJOZFFhNlBrSnpBS2xLbi16cnd4ZUVPS2RBU0hnYjJQV3Fn?oc=5"
     },
     {
-      "title": "布蘭特原油創四年新高拖累美股，重創三大指數",
-      "source": "鏈新聞 ABMedia",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNkgyVGw2aEtJN3N4NlRJMG1COEFFRkgxZFlIUnVuUGVwekZtZnB2YVRKYzJiRjNZT2NUUV9CSjByQVlNUm5feWNpZU5fcHpPc2wyNjV4TU5aRS1udUpoSEx0QjNHX1VkYmRoVzRFMVhfUk5HRWFLczd1ck1od0dmT3pxMHdWeGZv?oc=5"
-    },
-    {
-      "title": "但斌美股持倉曝光",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43dEg2QVVmNHhpaWtfTjVmZFlNWGtIRkg1LXdKZ3pxSkhSOEhjSmFUUENFNWExSEFEQ2FMUGlyY0UxdUtLcXJqYm5vdG5iRklzcWpPNUNONkxLcFU2azZuZW5Ta1NRQXFRTFE?oc=5"
+      "title": "張兆聰：美股炒行業不炒市 - 20261026 - 經濟",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRzBva0lnUTBjYUhKbXY5VFNfV2xCRFJRYkNQQUxLYkZmNy1BN1Y0SFNFSDFTRGZwQVRzWVVEekFpT2RHS2N0ZjBLVVRieXFVdVBDUEhGcnFha3VfS1BaSWptTU1QSC1CcmRRZFNCV2I1RTkxQ2pWb2Q4RHlXOGxnbHJUOUhrV0NYcjZIUE5yb0NDU0ZxeUQ5U3lZZzdoSnE2TUVmY2g4UTFXVElhR19RN2V0OWdFdjV1NDZ4M1NITVhOdGdYQ3gxNHVoc19RQU1YMzBYODFKQ3I2ZmllTERpNWxraGVpOTZEVEdXN0VvZVBaeUtsQko5TDQ2SWhpRkpnbHdHQ1ZiZjF5LWxES0kzMU50dDY?oc=5"
     }
   ],
   "events": {
