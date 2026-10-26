@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-25 19:46:38",
+  "updated_at": "2026-10-26 07:15:19",
   "gas": {
-    "current_label": "10月25日 (現行油價)",
+    "current_label": "10月26日 (現行油價)",
     "current_price": "177.9",
-    "predict_label": "10月26日 (明日預測)",
-    "predict_price": "177.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月27日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "白宮經濟顧問:美加貿易談判接近達協議",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQZ1pOd3VLc29mSGxNa1lHc2dLMkJDMlZqMklZckVQdktMTkhSczUxNjJZb3NnTzRqb0ZPTWJoLW5BQjR3dVlNVE91YUZpRGJKM284S29POVFMak1Ca1pHakVHbDk0b3dGYW0xT3BZT1lSRXJERUFsSnZYT1lZNlk1ZVV0dXQtdTRqUUVmWVQ5S2ppOW83M2l1YWJCeTRyTEFWLXdUa1dITlZwNnlhbWxRa2FxX3AzcWJqVHlrR3psc2NVdVJ0SXpOZmc4UHdSdE1aSlNpcGl1ZGM3Y253MVhoRUE4WkxCWEFQbnVBRl94aDJrcmh0elRvRXF2WjcyejJPdm5icEJFalE0dkpMZWFxMkV0a2h4bjE5T3ZCSUQxTUk5WXZ6WnFOSDhVWW5teTgtbHZWOVRKeks?oc=5"
-    },
-    {
-      "title": "內塔尼亞胡眼中的新中東 - 20261026 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcXZsU0N2Zm1IeEVDNk02TjE3UFZ2UFdqWWNTS21WeHFWYTVQaGhla3lXbWRKVWRsR3lvQ0tkS1pfWmJFOEc0UVFhRzFsMEVDUHNWZHhlMG02Q2hnellabl9tYVpyV1p2dXhIdWg1bWprNDBXY0JkUkZqM2VsSkJ6VFNlNlZocVk5V2FIM25PRnhRcXdWQ1VaMGU2bWdySUZLSzlEYl9BS19CcUNmNXQ4Qk44a2Y2N2t1TU1USkdyVTB5aTdKdUdZVWlQVkVsRkJraFMxbjhneEZlRjNCZ2R2UWg3WVJCaTZjUzNJQVFPdnBkOVlPU1M5OXJPWWkwbE9TWUNDdzZlS1R0RmY0OUhObW8zMA?oc=5"
-    },
-    {
-      "title": "國際｜澤連斯基確認烏美俄擬11月召開三方技術層級工作會談",
+      "title": "歐盟據悉計畫在2027年初對中國實施更多進口限制",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOYzdRbGtrUldRRmQ0MUhYR2JqV0dyMllwOGRQOFp3YzVNcWVYS3NKMjN1c3ZiVHVUTUNEOVJ3QW9xSTRWWUppNWJtcFliQlNRaWRJRFRCSmIwOWZfWU8xUmlkOHRvX3RHNUlWSGVWTHdLQnhyRmI2RERhNkhPYWJMLVhIMDhmMmNmcmJpZUFsTUtYNnBqdFlJaXU4MXlhYUk4a0YtZFU3WV9UQnNRWHd4ZTJrb3Z0bVh3X21TWlFzNGVNVXRBOFY2VnNXSmVNU0xYNXlwa3haMTBMYWhFQkNOSHNjaWZ2VDBERlprSTg3WkszeFlVUFBldGNaZUFiMk1tY2M5NXVWMG5tZ3pZNU1VWU5QNlgxX29LdVhFX0NkTnJtNWM1TGt6djduNUpyekVpZlB0RmtfU05MUnk3eS1HM1FNcEhpZGNhSnlWRkJ2RC1Ya0ZMRHQzYjVkb25INTJ5SVpQakdEaHR2Y2Z3OUZ5MkoySVkybm1pRm45Q0pidVFSV1MwTXVoazNpLWE4QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQaVQ1OWJaRm93c05sUG83eEtfWTNOWEFHZVBfVWtySzZScFJoeEhGMzJMV2FfOFZhZ2xOdUtxalhVWDBfY2RSTnM0d1JZekRpTWwzUWVBNVVsRDkwNFVJZEVWdG1ta3JFUE9zMlZKUk51N1JEUzNvSS1BSFl6TEg4V0Z6MVhwXzl6X1U5a3ZNVzRKYVhTaVUxVnYxR1lSVEZ1TmN6NUZ6cW1PQkdwOTZFRVF2Z0lGUUpiSU9VMEQwWk1aaHBwVVRDdUZTYnY0ZjlTQ0RPcUR5UjNQaFhvdEpMWWtxd2ZvblY1bE9SYk9ISUFZR1pWRXMwdWpkb3M2NHl1SDRhMXJlSk1iLTM4LXI3Y01nRWR0TV9WNUl6Y3J3em9laUFTMDZ0ZUhsc3o1bFdSQldDcThDLXhYRWxOeUFqTlJKWEZZanIwdy1kcDBNakhZMTg?oc=5"
     },
     {
-      "title": "俄烏戰爭｜特朗普稱俄美烏三方會談很快舉行 俄方籲勿抱過高期待",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQakFtR0laaFE3bm1fNVVIQ0h0U0xXcTltZXlFWHhnak5DZXlYWE8xUHctLTR4TTlUUFVlbFhrQ1JYN2tGSUNoN0Y2M3FFbkhPbW5OVmdHMUNtZEJoZWppUlRwTXFpSmNteWFFb0RFZEh5SXgzRE1rX1U1S0pmLWZjRkE2bnhmWlFNc1VHYWlMZFpNeWgxN1dNWG1TaUx4N1RZZHF6c2JHaWVEWXBJc3doZlNvWElHQ2xYeG8zWDJ2b1Zfczk4TlFSXzhEMC1QbmVYcDdtWERXNVNmNjhlYXBHN2VpQWp1V2RoOXFXSFlUdjRVd2IwUXRXY01md0FQNlNnSjh4V01lU2l0T25KeFZFeWRiTlBJTzBoU2hvMkFTU09RZ0xmelFGa2pWUWN3OGhiNUYzOWxwWXBMbjVUODNXZERiSTVfUU9XMjdJNDBBTFM0dk9JbjZLRFlnZUNhVEl6aWU3SXhNSTMtYzRjNWlQZkljOVhGSGN5U0ZTMzE5b0ROVUxrZUE4RGFucWNFRExLQlBzMWVVRDJCbnAyOXh4UXRmSEgyaXBiWEpZRGpnTS0?oc=5"
+      "title": "美國樓市：「裂縫」在哪？",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEo4bDN2aUFfVmlXRFRyOTRNZUpnWkxwTm91aGp2MkNGS05Gc283VmlzbHNjdXpMZkJCcFdiRzNiZkd5TC1UeTJSYTM4dW5nZkpxTUpYd1E1MjRfVHdZRDF1Z0JPZVBZOUhWb2lzMFZSV3B6cVJPN2oyd2t6QWxXYmlUWFI?oc=5"
     },
     {
-      "title": "澤連斯基確認俄烏11月在美國斡旋下舉行會談 強調領土問題須與普京直接討論",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQYkhaX1N0QWQtdGFRbEM5dV9ycTlaZVR0elVPNDd2bXhqZEJBWEY3WW1wbFdScWlTQTd2VVNLT2NoR0ZoczhnVjRkMXlIRGFTQWZwbHFtdEpUUWUzYmdfYUVLdTR0OVdPX1hua09sVFN4WkNYRkZ3Ri1xd05nZ2NRZ3E1a1ZhY1JFbWc1THhBengyUXR1RkNaWjZFN1o0Skt4cUhsdE5Qbnc2dTg3S0pFNWxHOWEzeUgwRmFnVEZycjJuWU84RHQ1MHVPSlVoYWJVazktTHlMQ3BJYXhmWGIxcTVXRzFJcXJFd1VPZUg2dXZqbk1KcmgwTHV3TmRYejJpSjZENzJiYkotUmVKak9CaVdlOFRoUHMxSU9sOG1KbnRjWUtmX3dMWk9QSi1LTkNlOEkzMS1MdFdKd01pczduZFNWRHFrNGpYWDdyY1YwUWl4QlRDZFlUaFpsVGZ5cFZSNWU2Uy1hYVo0YWJTeTFQVmFad0FUU3Y1bGE1eGQ0bHFwQVRXX05KOWhnZS1wUHkzakpkSFZ2VGx2d25OZTgwaF9mc2F2RkRFUENNWGJRZDdOLUdDSUJEUGFTM0U3ZkI4QmZJODdJM1VSQkROYmNzWU04MzgweE5hSGxCNXFfRHViVzBjeGRJU3MxbHdJR28?oc=5"
+      "title": "巴西總統盧拉：北京在美國後院的「老朋友」第四次贏得大選",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTSVFiRl9senRadUFWMHBlUkprZ3FzV0VRc0d2WkpMMjA5SE5EWDBhNDA0UDUyZkdRQXNRZUV1SlVrWUZGM3dDcGJXZFhCT2dNUzdRRWJfZTNjS01Vd0FKVmNXXzc2TkXSAWxBVV95cUxORFp0YmpGNEg2LUd2ejhRUEl4R3Q2TERoWkdBckstVUlpcGdLT3A2SDRHWnRabF9IMFdiSFRKT2I3NU1DaHk1UmpzVXpmMzg3ckx2a2gwRDdmbzRXN1ZxNmVCRVc3emtBMldEUkE?oc=5"
     },
     {
-      "title": "特朗普稱很快舉行美俄烏三方會談",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ueVRFTl82b3JsQkZnQm9XX3N2Nm1mLTRmdUU2ZUlNS0VPVXRyc1VhTzl4T2F4aUE2RTBWRWE4cnotbmhjVzFyZjlYellYMWtROFJyVFl6TDRMWTNxT0HSAWNBVV95cUxOQVlnQ3dtdUFfakpYcUhaZkdZaWt4U2pRdjNJM0g4RWFGSlpxcm13U2I2RkRkSlgwR1VPbngzZXVleFpBT0RjNFVueGcwNU1EcndJcWxkbTExMWh6Zm9ReGdGZ0U?oc=5"
-    },
-    {
-      "title": "國際｜特朗普指美俄烏三方會談即將舉行 俄方願11月4日後恢復談判",
+      "title": "歐盟據報擬2027年初對中國實施更多進口限制",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOczBHT1lJYVZkcmxLNHZ4SERpbl9RUjBGaHY1Rm9iVTZBdzR2bjdETTVCZENueFBiclJsNE4xZnFmY0d0dTZUcHF2VGxRQ0lXbGlXMDMwVGZyMFFCT3daTDktT0NxcXNreW9vVElUTzFGVEE4WEFOa2ktMHUzVEFvdmlobWRwd1E2X3UtYVhXSEVKT2l4Q0NpWmswZ1VoMk15dm1ZNGlOT1N2T3oxTkV5dWtwcEV1WWFtZzZTT2JUQmEwZ1Z0ZWxlUXAzaE4xbGpTcmpramRqVF8wekMtLWk1NUpBYUcxcXdnN1ctNHZiNEJwbS0wZ1F4VFpCWWZQVW5lOUZWTTFoTGlvUjRfT3NsS2pSVUZQSXRncTdiTTlRLVk4T2VSeUZDM3Brbk4ybWZ4R2RERG9OU3U0bnNFZ0d5VnQyMUNxU0lYZ2wySHdOUGtGSE13TU1GSDhtNGFWdEg0NFVUVUFtUUtfQjdScHZDNUJKWW1oelhhSllmcGxROWFENVFScldiWWdXdnlGU0l3WHhjNnlOekoyT0FoVjBOTE5CY2Nxbm9W?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPaFRQUmVGbG5nZXFaamtINTdSSmVoWExYTnZBZGU4bGtNcDN1ZjVsVzFFZTVRcTJreTZ4dmUwM3V2ZEdRUUZfVENOVXV2X1BLcjNwWE1KZFNhcmgzTnh6c1ZDZHRmVTYwRG1QUVN3Z2dKZzVaVC1DVWE3ZnZ6Uy14bGctdkJ4RGJWV25wQmhYb1FIdkNvMjlJYUJTeENOaGtNX2ljSExJSmJkOU5SazNvbUV1aFRMcWFyTzFISTdSaFZ5WExEWXRhNER4S3FOVnlGcXEwZzE5bHJ2bnduRExoQkhlVFh1QzV6akk4ZTRDZGtFcW4zS0lwSFNqRGNFUGswaVdvUlN1dzVJQ0ItYVNSWEd1Rng2RGVybkNrNDJYdEdncTlEVTZFYU05eG82bEo4UUxXYVMwWjRXeVU?oc=5"
+    },
+    {
+      "title": "企業｜連結全球發展機遇：渣打「SC WIN 現創未來企劃 2026」揭曉得獎名單",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSjVUc0Q3NzBoeXlmcmJWZlZuX2xZX1VhOVVibjNEMGhYa19EZ1RKWmt0cmk4a3VTOU1RY1VGcHZZSktHLWhYSlh4OEZHbjExWEkyNUV2amhrSTZZQ1BSeWFLY2tfLS1YcnRTNVVYYzFNOGpNZWJrdXNZcE94bmhEaXZtemVqVjkzS0lPS2hhbXRHR1VkakhDNVhXcjF2blN3NmVwb3VhV0hQMlFMX1ppS1JFT3ozczhuck94cHNHRUx5TEFfdW5iZ0RMY1o3djQ1Y216QkpRX2IyZFJ1MlhqMVJaaUR6Zm8yTzQ5dnROX05NVFBpZlY5THZn?oc=5"
+    },
+    {
+      "title": "國際｜軟銀擬向馬來西亞投資500億美元 重點布局AI及數據中心",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQcm5wTEg5aktBbVo4TUplVVlsX0NMYVVEX29jRnRiYlFnbWFEeHdjeTBPYTlET0NMR3h5Yzk4bW1uM3g5Z3hXQnYyNVdEUkp1bUlHcHpBLVY1Y25SdF9MM2lTemROODREb1o1emo3WUVRZHNKX0ROMlBUNU1ldU9rN196MVdCdG5wcXhCVVhlMnV6NUpzc1BYNUhUcklWSFE5aU0tczNzdVRoMWlNNHZpam50djZ0U1FjNGVNWHFMeThCS1hJQVc5NGlBLWdXY2xJUFNOVUhXMTRhRXBzdlMwZmEtVjZfVEVmWHhmazJfN05DRk5qMmRPbjVZZ1p1cWZuM0FDWnBEY09LcUlnZmlHTGZJbERMT0VoNktCbVB0T2FOTWhiTkZSOVItOUl3eXl2ZmZOaWc2Um1fNnRWa0RpRDFZTmplT1duR19pdWZLMTZ1SERYYUhSYjB1emU5ZWxfd3JDalR0LS12SjRmaGRNblJRWS1zeDRGMTlheGtmSk9XY2lMVmJR?oc=5"
+    },
+    {
+      "title": "《大行》滙豐研究：美國COINS法案擬限制對中國生物科技投資 惟BD交易未受影響",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQaHpqN0QxSjJzakR2Nkh5SU9mVi1JVW5CcGZPeTU1X0MwOGtJWFV6ZWpvZUowbVkzS0FRcDdLQnZMcjJIRk1odzZqSFplVVRyYmpsUG9WNWxya0FYMkRkRVZsVExDX2tYdFFyX25ZVUtNQUQ2WXJJaXVWS2FFZDhaWjJYRHV3SWhrNEItTDcybDZZQm5HUWg0WkFoZ1I4YzEweWVQTjZ6QzJNSzN2OUZlYmZWWjNXaUt4RFpHeV9PVm9lTVpJSzFyWWUzR1dzTkwyNW9JTlZSTjc2dHJqeF82WUFNSEtXU29wXzRhM0pzNk5WLWJRc3drQmJ4SlpyWmFPX2RHTE5Ud2ZPLThkTUgzVW9LZ05HZkI4aW1XMEtmc3cyS085TjR6UVJsR3pNTktlZHBkamxoTlQyU0lkUlEzaDM1Rjc4S3J5enVsWlQ3ZF9TVmVqRGh4VDdJSENKb0JobkpxbEFaZm5hNExzZTZLeVdQaEs0cWFkbGl0VldKclFNamJjODU0MHoxSVVGNDQ1SHdMWW9pRUc5eU1YeGJvRkUtdGFNMkIzODBNUWFmRUx4UmtCSXdUcDlGWkpNMWNBTmU1Zi1KSQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "本周超級央行周 市場關注聯儲局沃什議息後言論及美國PCE數據",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00RElWbDVuNGEtaXBYejV4bFBaVHdQUDhRUEcxb2NXRmJ6TmtQSTF6UDdxYUlVQi1weTR2bW93RTRvZlZtRWYxWGNkakk5amFnTUxoa1BYcEJKeUMtQ0ViN0tGbWlxRWFoVm9qU3hYbw?oc=5"
-    },
-    {
-      "title": "美股｜巴菲特1988年買入可口可樂 現每年為巴郡帶來8.48億美元股息",
+      "title": "財經｜金價失守4000美元 華爾街轉趨看空 本周議息與PCE數據定方向",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOQjh2MVk1YnpJY3pITFk4enJhRWsxdjF0b3M0VjFtNU9KbGZaV3ZmcEVJMlA4UmczOERKdkFnLTgyX3lMNkdGekJrOGFKTllsOGpuTlZSdFVham5udm13MDRuQm01R3FhRk5xZ2l2V3dJR3E0elVoLTBtMk1LeEVFYU02ZERmSDU3T2tqS1l6SmhOX1dPeldEREc1NXE2YVAwdlFpRlE2N0dqc1VqT1R4aFRHQ0hKZDBhQks5TWZKY1p0R0VJTGtQamxJcU1Sc18zS3o0Y0RqWmhtTTVYVS1TSkZsQkxDRFg3b28tMGZHVFNCblBmc0lheFJVdWNhOXJocFdJRlNwcGdDTHdpQlhlR0o1QllGcXlWTHBVel96eGNkUjZvSko0dWROLTZ2VG9GcFR5SFA3Z1psLWhITFctanVRSlBDQWVnY2hSckZrRDZlSWNZWEtjd3k5enZZOTdWVkJsbEJGaW1Eb2Z4MU9DWERzd1E5alF4QnMyVGRYYUpLYjNBNHZIZktiSzc0c0g1NWNEVXhMOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNSW40WjF2SUg2bVJjcW5VbjhPWXlJNzZRNnIwV2FabVZWaFpLV2g3dHl3UXYtZVV6cFdCQWpVVVpOcThxb2w4NHlLVVZqaXZ1QXpXUlVfNXAzRDY0SGNMLW85Uy1qMzhLQl9rZThIbm5RbTlpNHc5QXlITm4tX0d6T01ncjBqUjg2YVZjNXlRYjh0Q1NVbC1OMlJ4TjhNbmZKOHNmckNsaXpaZU5oSnN2aFotMlFYWmROM3pVaktPNjRiQk9OZFhrRFc1bUw4czJ5VERnRWZ0aGRsZWFkb1FMR3c5eTE1cmRiR0xRdWdIRHpUZTlzbjU5OWV0UVNuSnlmYnIyc0NhNnc1V2l6ZloxUEdWZWxISkFLX3pBRWx1ajNpZXZLOWVlODJEV290X0JXLTBfT2s2NUJnb3Q0dHhoT1ExaGlZejhZeDlnMFh2ZjlGMlJpV2ZIY1BWczZtTVlnNTUyaXlMS3N3VFNkV2ZBUl9jcWJGeTdEeWpxVF9KOS1uRWRhOURWVTdBX3Vua3h0bUdKRFpaUQ?oc=5"
     },
     {
-      "title": "德銀示警美股科技股還沒跌完！距長期趨勢底部還有5%",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KbE9Mc0dSenhJRVNkTFNFRXpTeDNmVDI3NHJORC1OMUg0ZGFJekczRVAtM0JxMHBPTDFIanFUaVZfVUxId0xzaFhXTXhuTXc?oc=5"
+      "title": "AI融資憂慮籠罩美股 雲巨頭業績成關鍵考驗",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEhkOTBaMDZDY3BreERsVU9kaW85TlgyS0Q5X0tlMFF6NkUyRzNlazZBSzg1NUFsV1hFYWN4NFY0bFZadTFwNXNJaWJtQ0JSVVZ6TkpWQmMxZjhjZFJRX2lFSERHTHQxcDZuRkdJZU5seEozV1RFcUVUbUtod0d1dHZCUmhtVDFKb2ZsM1BKYWllRnJ3UmVkX2lUc1JDcXkyRlVTR0pHNWZMbUJQ?oc=5"
     },
     {
-      "title": "高盛：散戶交易較2025年末降45%，家庭買盤仍成美股“壓艙石” 維持標普500年底看漲至8000點作者智通財經 - Investing.com 香港",
+      "title": "AI融資憂慮籠罩美股 雲巨頭財報成關鍵考驗 作者 智通財經 - Investing.com 香港",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsSWZTRE9QTFU0Yjd4b09NMzVBbHI1cEhpRVdGQUhGSTctTE8wZnN1RUFGeVJtdmdjMXhZVU9rSnVOVnNWbUFQQ3lkN0lkc3JVdWxMY3NBdXkwRVFIUDNwLXNHZ25CaHc1YUh2eDV5X0Q?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WRUg5Y1d3enp1aC1SN29QaTFQZmlORnpUT1JtMFotdVAtdXA1UHZKd1N2MmFoT3hZUnN4Z2hwemJDeVdmakpNeUNZOUNPd2JNYjhJSkxicnlXQllIUUpXcno2TVVqZklveGNlV2hhWkk?oc=5"
     },
     {
-      "title": "超級央行周來臨市場聚焦聯儲局言論",
-      "source": "metrohk.com.hk",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTmRnU0NYbzV5SmtiRGtmSTJySWNBV1F3Tm9RQ0FqMEpyblo2elhNMkt5dEFFaGhwZVZ6WWZ0cmwzcW1FcDVTOVJ3V21xd3RYTkdXWWhpRGFyT3V0YnBsLU11WnE0X1djS3RDMEpkYXozM1FEb190TVNsajQ2ZDdSWkJMLW5hSi1MdEZiUkZuNTY1UVJHUnlSdW81WDM5akF4Qnd4OVlJYWpJeEQ1a2pvZk44akpVME5IQkdMUC1jczcwLTJHd0s1SmFVN0Zva2RfcjAwc2g3MVV0aHVnVVRBWFAwcU1vTGpkMHV0TjdONFpqeXRsWGVhUzlwRTJOZFFhNlBrSnpBS2xLbi16cnd4ZUVPS2RBU0hnYjJQV3Fn?oc=5"
+      "title": "【美股期貨】道指期貨升112點、納指期貨跌0.2% 油價回落1% 金價回穩、現貨金企4000美元（不斷更新）",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxOM3RvcXRIWEVHVDFwMXMtcjNxNlNrRjBFckkwZFRSdnVyamRLTnBPM2hfcmdhTWVzUXhRRTRJZ2FNMmdDMGV5V3ZaTUdlYW5zNFIwNzNVYkNiVzRPX1pzY2pjYnVVVkU5Q3NiMlIzZU01MTc3amp1WUJRc1poS0xUTFRIOFlaeEVXWDdhTDRyUXpkeDB0empZeHdzVm1aU1pwUXR6S2otMTZFSGo5OXViT0tSRkVYY01kUzFiOTB6cW91TnRIcGF2SEVsUEIwZFZ6ellJWnFicE1oZUdfbm56N01xY3NIaUVsMzRCUzc2WVhIYmF0dm9TVVZGVV9IMzEzZ0dOdWZyZjlfcU96Nk51dmhzT2hObjQ1eHJjNC1kaTBPODdybkdLWHdhT2lYVnRyUEppS0JWYlpubDE4UW9DbW96MFZZZl8yQ1dydW55UEc5Q3VrY1o0SjYyYXY5TTllZTAyLU01NTdLOU0yTVNsU0pSLUVkQmZVb2NLNElEQnItLWQ1WWZrOGZfYTVBZHJTNlVKNXBRUVVzbkxnX0FxdjBKbEtfV2VERVljSGdWR1BEbmNSc244a2FuQnFFM3Z4eWtrbEdraVhsYVE2VThxNjk5cU95U2FtWjZSMHNncHItMmFxMmRDNE5RYXMtZE1sNXlYOXFXaC15ZWxDY0VxdUtTVUhwOTFvZjdTRlZSdjVWR09HT2k2YkRTekFGR0o5THdEMDVjXzlXcGVrdFR1NWdWM0JvOFZqVm1pUE5RRExHSmdxWjhmNnRaSXA3QQ?oc=5"
     },
     {
-      "title": "張兆聰：美股炒行業不炒市 - 20261026 - 經濟",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRzBva0lnUTBjYUhKbXY5VFNfV2xCRFJRYkNQQUxLYkZmNy1BN1Y0SFNFSDFTRGZwQVRzWVVEekFpT2RHS2N0ZjBLVVRieXFVdVBDUEhGcnFha3VfS1BaSWptTU1QSC1CcmRRZFNCV2I1RTkxQ2pWb2Q4RHlXOGxnbHJUOUhrV0NYcjZIUE5yb0NDU0ZxeUQ5U3lZZzdoSnE2TUVmY2g4UTFXVElhR19RN2V0OWdFdjV1NDZ4M1NITVhOdGdYQ3gxNHVoc19RQU1YMzBYODFKQ3I2ZmllTERpNWxraGVpOTZEVEdXN0VvZVBaeUtsQko5TDQ2SWhpRkpnbHdHQ1ZiZjF5LWxES0kzMU50dDY?oc=5"
+      "title": "美股跌：熊市來臨還是重新洗牌？ | 陶冬天下 - 財富管理 - 生活",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQanZZOWdMQll1a2VVUE5NUTlxc1dTZ0p0TWRlR3V5V0ZjMnJncXFPbkNvQndlLXlqLW9Hdjd3VEJUTXhLc0lhYm1waUZjdFFDWVVGd3hhVmpicVZKY2YxTEJSdGY1S3dxNlhpY090dXV5TFpmbEVCRXRlT1B0eUw5Q0FTRTlDLW02UHNrcTl2dy1ia29WaURBcDJKc0NLUzNFNUViMUpLVHBGclIxeEprN1dhLXBvSHJoTDJwM3RkNG10bk5FN3lLSWp4VUFSdFdTTjRhM3hfM0o5SlhXSFF3OHI0c1QyWXZKTVhtbU1LSXVqdG1RVTZTVHdTMEJLOTBJVU9SR2pSQnpQXzNqSmdCTnlR?oc=5"
+    },
+    {
+      "title": "美股迎來「黃金8日」！中期選舉歷史升市機率近95%，這次能否重演？",
+      "source": "富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTNjZFVWV1FOSTBsY2R2elNIenNGUDE4clg2M1dQa1lHS0psbGV5WFBMQWhBVmRsaFd0TjUyNUJ6cjJEY1d6ck9mU3Y0TWNnQUl2SVVDLU9OZ1JIUThiOHJrbGp0Tm94TTBUV05wZ2tMRW5FTFQ3cHpoWndncjZlRDB2NzlVd3hzcjJ1WkYyU2M3U2xiYy1qSDVEME1aUQ?oc=5"
     }
   ],
   "events": {
@@ -84,8 +84,8 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 11,
-        "status_badge": "11 日後"
+        "days_left": 10,
+        "status_badge": "10 日後"
       }
     ],
     "stocks": [
@@ -95,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 3,
-        "status_badge": "3 日後"
+        "days_left": 2,
+        "status_badge": "2 日後"
       },
       {
         "ticker": "NVDA",
@@ -104,8 +104,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 24,
-        "status_badge": "24 日後"
+        "days_left": 23,
+        "status_badge": "23 日後"
       }
     ]
   },
