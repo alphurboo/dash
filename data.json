@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-28 07:15:21",
+  "updated_at": "2026-10-28 16:15:23",
   "gas": {
     "current_label": "10月28日 (現行油價)",
     "current_price": "177.9",
     "predict_label": "10月29日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "174.9",
+    "trend": "↓ 明日預測跌 3.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
+    {
+      "title": "支持朝鮮融資網絡？華盛頓予以制裁",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQXzJ4Yk1JMkFqenQ4dTBvYy11YktCelBub0ljbEh6NS1xbTVoZXp3cWhMQzJ5TXFkM0hiSlVoMGxFZnVWNHVkSXN5QXNDM1lheFpQMUlLVHZIeWFGMVIxMkxaVlp5allhb01wV2c2cFp4bDViczRwaVA4SDRCcVpNRTl6Wm50di1yUlQwSktYSk9nOUlsNXFIVkxGTEZoekZQZlNDanBCbGtZWFUycDM0bWh3di1RZ0ZJRUdnclVJeHpRSGhzRlQwWVZjRFVhVmwtQ2V4U1ViTEFNck1HeTBUeEUyRXlDcEk2SHZpajBKdmdUQTYwUEx0OEpHSlVweHZqUFFSNkk1aG0xZThBaWJkT010X3Q?oc=5"
+    },
     {
       "title": "全球政府齊發防災儲糧水警告｜歐盟16國籲儲7日物資、美國末日堡壘計畫曝光、日本南海海槽地震威脅- 東張+",
       "source": "myTV SUPER",
       "link": "https://news.google.com/rss/articles/CBMiigVBVV95cUxQbDFiNlJVYkstNlJxMzVaRmpyaHRTeTU0MlFIbjZzeTI3MlJ1bkdnYU9IY0o2MkRhUWRyVTZGaEppeFhaRHVwTDNXQUZFaVotOE1ELW4xTlhhX3REZXoxSkNLbzRkbXRTSWpjdWdKa090V1lucmZlZXpmRjhsTEMtTlAwaEdtSWFzZ2VtdW1MMU83VnhvOUdjZVlUV2szZTBwVC1MRE5yWU92eE9zYkpmNmJUc1FaRVdLSFM4MnhpMFJrSV9KdFlFbU9KM09MMGxvMVV3eGc0dUo2Y0Jyd2tKNXV1S2drR1BBOVR5UkJ5WURTUHlLb21mRjJseXFCbHV1aWkzSTZRQ1dzbUNObTFqR28yc1VjZ1ZYc1lIYnNuQ2ZCS2VKTjB3a1pScFhNS0swWU1WVkxLSFo3c0F4QnJXSjg4YzRLRUN2Sk9Jekl5NnREV2lJdld4cVZobVVhamFLaFNsZjNoSkl4dEFDRG9uY1JjQ2dTQTRTbHdxNTlTOHIyWGt2WlpYTVpWd3k2NVN4cmMxN21vVEpXOEE3VldTZHlKM3lCMy1Vc1lsRVlJQnNGdkNvcXF0TUsxTXdDVV9uRDNtYk0ybGhEdjVzU3Y3V3FsZVktQjFRUHphY013OHVwQTg3TWpwaWtuN1VycFREdThfMzkzT0VWRnpTOW9KTmFpbkxhbjlaNXBfV0dQbkJmS0lBZ3NqUFlNbGNJYmRQeWFlWUVPOEFuV1JMZXBuSElUMVBZNG9GcnJHbUQ5OUFDXzVPQnBkdWFHVkRBNy1qa3lEbi1ILTBuQ3dMUnBVemNOOEM5bjhtZkU1dUxJNTNNb0xwcU1lMldadl9FTzFDdlZLc29tVWcwQQ?oc=5"
     },
     {
-      "title": "陳茂波：全球須共同應對可持續轉型融資、科技成果共享及人才培訓三大挑戰",
-      "source": "国务院港澳事务办公室",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBudzM5NEJBZVdqTTRYMDJPcUl4UDZsOFBHd0tQLWd4QU5YbTV0dHJQQXhma0ppdzgxLWJWd3d1V283WEJZMkwxaTItcTZvS3YtaW5NNnQtdXh6RGdFWUdYRmM2S3l6Z2NIUk1UQ3ozMmk4ai1HUHpqZ3BB?oc=5"
+      "title": "美國聯儲局維持利率不變",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4NkZ1alZMelZjU29KNHBHbzlyR3NOUWFsdkw0eGlOMGZsNkFNZnp0NnZ6bGVMVTRGdjJYY0hxNXBxd3A0UXQ0b3E4TWNNSXAxVzFHRnRGcFcyM03SAVtBVV95cUxQeDZGdWpWTHpWY1NvSjRwR285ckdzTlFhbHZMNHhpTjBmbDZBTWZ6dDZ2emxlTFU0RnYyWGNIcTVwcXdwNFF0NG9xOE1jTUlwMVcxR0Z0RnBXMjNN?oc=5"
     },
     {
-      "title": "奧迪砸40億美國建廠 背後的考量是什麼？",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOOExEOThORjNNUy1VMTYwblE3SXVxc2pDM0szRTZqbzhFdHl3Z2UxYWNwSm40Yy1UVFVNRnZUbjAyZmxDUkEyMkZTN01iZkR4cno3WWlxd2lqeGhKQzVJQm9qZ1c1VEl1YWtIN2FIMzZfaEZaTnlkQmFOZkFNbld1YzNsZ08zVHVhUFlwSTBkckpoMWdUNmRUSEFfQXNUR0lwXzN5RjRUNXB2NTU1OG9YNi1Hd0I1eXNCN3p2dTZzUXBPODd1OEJDVVlPM1l4WUhJcUtqU2hDMlhVaWVRTmNOQ1VzMDdZeWhIZUpuMjB2YjBJZ0xtZ2p4cmVuOHFKY090SDNZY2wzWmJMWWZZZDIycWduONIBkwJBVV95cUxOOExEOThORjNNUy1VMTYwblE3SXVxc2pDM0szRTZqbzhFdHl3Z2UxYWNwSm40Yy1UVFVNRnZUbjAyZmxDUkEyMkZTN01iZkR4cno3WWlxd2lqeGhKQzVJQm9qZ1c1VEl1YWtIN2FIMzZfaEZaTnlkQmFOZkFNbld1YzNsZ08zVHVhUFlwSTBkckpoMWdUNmRUSEFfQXNUR0lwXzN5RjRUNXB2NTU1OG9YNi1Hd0I1eXNCN3p2dTZzUXBPODd1OEJDVVlPM1l4WUhJcUtqU2hDMlhVaWVRTmNOQ1VzMDdZeWhIZUpuMjB2YjBJZ0xtZ2p4cmVuOHFKY090SDNZY2wzWmJMWWZZZDIycWduOA?oc=5"
+      "title": "川普選後打算再攻伊朗？傳白宮已通知波灣各國備戰",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPemNnU3lneHd5WlZub1Zydk9PVFFBdEJGeXJuMC1MYUc1NkFkOVlvbzVXTEJNSVBEQldlOXRkU0xaQlpDOVdtMnowMFFxS0pZR3E00gFYQVVfeXFMTkVlcU0xdzZ5aWRMakhOMTcyWndzeEdzVTN1SE4zR3NYZGlqSVB1MENlc0JQWDhWSkhZdmJ3d1ZWbnNPYkpXbkxiUE91Mlk3eHVtUWdURVotNg?oc=5"
     },
     {
-      "title": "美國防長提議東盟與美國建立“雄心勃勃”的防務框架",
+      "title": "要聞分析 - 姆巴佩辱華事件：毫無幽默感的國度把自己製成全球笑料",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPS21XWm95QjZxYnF3Nmp0QmF3QVg1aExQaWwwbW5vVEVLRWQ0WVFYTlg3ZWVTQnJxXzhnRjh5YTFsV0wxeTJvZVhhakV6SUM2bkRjWVlsSUdVNW5LY3Jsd09Pal85bm9yWm8wNUg1eVQ0cFpSYjFYbk5TNF9BalJDZS04V2R3REpmYVdOYy1EaXJTVHI5WTZuTGlGZTREQXZiMVRJWmJMNTk1eEduNW80OHFncHRCWE1fSDNkeXJHZ1VMUzZxQ0Qxa2p4aGQ2NGV4eF8ydjRmbEhVMWJwSGo0ZHcyU0FNSzJ0T090bVRyNHFJOElwTUJBUUlibnd3TjFDT2o1LWhGeG9VU1BtTld2ajJNekJ5XzNDeXpwRHNuNnlOVVRLT2c3VDJCRWQ3VXp0TTR1SDc1eVlyNklkS2tRZW9vT1U4NzJMQk90NVhvUjhYNFRhQnk1czFlNExUeUtCaHc5SlJqX01mQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOYjVaNGZtT3c5THQwVmRtU2t3b0NFc29CMUE0SEJ1amxLenN6Sl9INTZ5YmtaVzE5d2ZnSTNLV0VJVVpOUl94eVNfcGs1LURTSzY5YXN3STRWWXdYOGlxRkc1MUdBanZsaEdwVUYtdzRpVW04WEFXTjBMdS1xbGpZUmdYTnZ1cUE0VHRkbFYtOGZWMnNyeVNHX2ZqRWpzQk9WbE00eVhsbGcwbDk1OGoydTVyNHRLREx6ZFlhSVhOM0lIWV9EWEZFQzFwVHFKbkxBeG9kdURKOFc3cU0zYWt1cm8td0xQMjR6R0p1bnRXSFNuUGNWNGs3b1RYbXhDb1NqUHJDU1pLTFpCUVVyZFdkWWRVVUhyWHdoTWl5YXk0OFp4NkpmMFNJWVZwY1dEOHhwYnZyNmk3REhLbzRaLTNIa0FNazNwWEpmMUs0a0MyYUpqemVuaXphVWpBdDZuRWRuejVpSjdwRjRBeEdHUDB2VjdiNVNCZXFvaUNZYkE5T3dQN2ZGY1ZVMHVDb29qZmpTLXlaZkRXMzJSUkw2eS1EMXVMTXM4cDEwNVBEWWpiem8yTy1MWUtINk1BcjMybUdIYi03dEkteUktQQ?oc=5"
     },
     {
-      "title": "WSJ：美國中期選舉後擬向伊朗作短暫密集軍事行動 (15:35) - 20261028 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNWjFjcXpyZ2hNUFhjWnBlYWE2NlZSbXJrWW9xU2tWV3YxbmdxQXBVOUcyN29GX3RFaEVCM1l4czhPNnI3T18ycmFCSzh6RTROZjNHSWt6TldZdkJTbnBPQTlVNXNnMS1qZThJX2VxdDBCbTNqX3VtQjJ5dUtmWFhPLVp6UzBaN1JTcEZnWU03aEdZT3FISjVsMlBJMjl6Ym4tTVJGeEFUTVFNeE5jT2QyS1E3YlJkaEh6cm5vNndDNjk2dE9ZcXFuVkpXdFZ2ZXQtREVaeGRTVWJmOG9YTG56N3FDSWtxdkcwc1FHRmRnR1JsTXVYc3BVamQ1bVR0MXRNREJQTkhPUmQ3RzJxcFJTMzk1YzBUZFV2ZU8ydlc0VzZJaTMyRktqZTlMQ1Q2SHoxRDdtVXV0ejJSa1B0Y3k2NnFITmlzYWJDdkRzQ0t6TnYxMW5VNVVnR1A0VHZDTEd4Vk9oTFJmVExQSENEanI3YUFKOFUwMHAtUy1wMGlWM3Ffb25T?oc=5"
+      "title": "美國將三家中國基因組學公司列入強迫勞動實體清單 禁止進口產品",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPODdyRUtIcnU5MDQ5VDh5R1dQYVpBRklGQmNVZzRUak1uLU1tTURobndzOG12bVBiZVptdk1JXzJLaDIySWpNTzNTSU5mcmFpa1FqdlBpS2RuN3Ffb3U0N2tSalZuSldIUTFpeHViZ21qUTAyLXpIWGxYdDg1YTNmbU51S0xOLUhTdWQtTGpSTjJQeUNhZ0VFb1lWQWdXYTJLSXhOeWxFX0pLZlBMbWpkR2NVaEhzMUc2SWlmVlhPdFZLYTFmZmg0VDY0YXFoQm5QdnVWYjljVUJxSkNQUFRnSmhlaUVBbnR4TkpaU0pFamdOWkZpcjU1cUViNHNxaUVheUhJeWhRUGUtRU0wMk5odjNKa3BNWG1aZmxDMzk5b290MHJfV1R4ejlYYUI1ZkZJODFvZlNWNUx3UEhtbFJRWERpZVJIdlB4UXdzZ09DSW9rQzV2eTFqR1RJZWlyOTNndE5ub3lpQ0VsaXQzSUowY2xId3Y2bHEzN0FaUy1UajA5U19ZQUtHREtoU2pBOGtyRVA1MFpNSmpsOVBadVAwTDlRbUNuaENpX0tEVEpaQWhla0ZjeXNDbGY1RlY?oc=5"
     },
     {
-      "title": "國際｜Verizon行政總裁估計SpaceX建全美國移動網絡需耗資最多5000億美元",
+      "title": "國際｜新疆精河縣4.2級地震 消防派10人先遣隊奔赴震央",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQUFRsQXY2Tm96SUxKUHFmdDd6eUlTM2R0M1h5WUJUQzlERjh2QVpJejY5bUNnRlZNVU15d3FudUl2a0ZkZFE2N3RpMEZadmhUSkJOMk1WUWxOZVh4MjdsTWZkSGtIWEQ3MWpNRHhtaU9oSEhEQVJIRnJjSFZuRWlVWkhyNzIyRVdnR243TXQyckVpWnNOTk00REU1dWtTWUtXMkhTYWpMQWRFOHA1REZPMkJCMnczME1CU3NFWGludnpNa2syMkVDckJJd2pOU2pUSWZNUnlYQ0NEWnpTT1FXOTVZMWFQVTdxY0d3NjBDTVBSZ05ndE1tdktIbU4wd1JEeGxzMDRnYXJ4aU94Z1JrVEF0N21BRjBzc3JwaUZtd1RGcHRPbUxONHRTQklvZXhVR2staDFfMEN4THI4SzdtS3ZTV2tVLThmZzZvNHdKR2c4dTJXMG1XRHdiUHdoZTBYQ2E0dUxPT3lISm5QXzg4bGZlLW10N1B6dklGTC1sMTBkd0dVUzlzNGMtVHF2MUtqNms2SFhB?oc=5"
-    },
-    {
-      "title": "美國最親密夥伴對美債的買盤銳減逾60% 亞洲縮手最明顯",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUjNmVU1laXhCMlZ5eHVqejZtZTJja2VOb1ZnRTAta1E1U2M1aGhRRmNqYWpUX0twRFFocFpfWS1kSTVmMDdnRk1PY1NwNG9MU3B6LUJCWHNrbEpuWVpleXExY2ZLb1NOLWRfc1JKRkNoME5TUXE4TEh4UHdrQmFtX2RldHNFTUFZWG0zc01CcHNvMjU2N1hLTWhhYU5MMmhzelA4ZU9CXzlFX0FkaW9MZzhNODVVZWhMa2ZIZzF6Z0JOM2U1Y3RyM1d2MGprTjV1TEJrQmVzdmQtR0owSkIyQVA2ZFV0eFNNZWh6SmJLVTFsVWt2R3ZmNFA1b2pya05QVl9DRnZIVzVNQ2hLTS15aUR6Njgwek5jeGc3V2gzWXdkSUstQXMtMUdQZDJNdi1tUk5sdUFvczZya3BRX1BUdUpSa2N4VkpkTzhvV2pkYTRnTmVJQ2dBdUNSM09La082U1lvYVJlQ0pOMHVWbDNZZHNkdllzUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNMlFweWY0MTRnQXFrSC01N0hZZG1feUNBc1dWaXRKRmswaVBoc29HSHo5V1lyby1Nc3o4dkVMOVhPcTVpNlVwaEw1QnhGajBWVzlNVHhCQlBETHpHZjE2MG96dDgzQTd1UEpsODVlZHNMS0h6MGhTbE1uTy15VWl3N2l4bENqMnNVZVpqUGVpM3VhUTRCa2dINno0ZERETVZKbzJSTC1JajlTd0hRWkxhMXVVVmw5NVp2TVowTEQ0MER1NGotbmt4SzlYQTFkOEFLNmctSGxlQUlTRmhGc0lZSVBsNkFtQlhfaDE3M1c4QWFNcVJwREJmZ0VXcV9RcnNnX1IwVXhxMFkzQU5BVXFxVmZ0aVlUclBXUVF4TXRieFV0Z19Sb0hNbzZLb2ZSZF81YTdpQkJiemVGNS1lWkZoSzdaa19iemRITGdidXZRcnpOd0ZtMkV4WVZsZGNsV2xJdTc0?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美國最親密夥伴對美債的買盤銳減逾60% 亞洲縮手最明顯",
+      "title": "更新：聯儲局議息結果公布前 美股盤中上升",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUjNmVU1laXhCMlZ5eHVqejZtZTJja2VOb1ZnRTAta1E1U2M1aGhRRmNqYWpUX0twRFFocFpfWS1kSTVmMDdnRk1PY1NwNG9MU3B6LUJCWHNrbEpuWVpleXExY2ZLb1NOLWRfc1JKRkNoME5TUXE4TEh4UHdrQmFtX2RldHNFTUFZWG0zc01CcHNvMjU2N1hLTWhhYU5MMmhzelA4ZU9CXzlFX0FkaW9MZzhNODVVZWhMa2ZIZzF6Z0JOM2U1Y3RyM1d2MGprTjV1TEJrQmVzdmQtR0owSkIyQVA2ZFV0eFNNZWh6SmJLVTFsVWt2R3ZmNFA1b2pya05QVl9DRnZIVzVNQ2hLTS15aUR6Njgwek5jeGc3V2gzWXdkSUstQXMtMUdQZDJNdi1tUk5sdUFvczZya3BRX1BUdUpSa2N4VkpkTzhvV2pkYTRnTmVJQ2dBdUNSM09La082U1lvYVJlQ0pOMHVWbDNZZHNkdllzUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPR1NpT2R0RmhBRVJxSFQxUm0wQl9NdlZqTkxxek9feW45c1lPRjhoN18yRDdRaGN0VGlNTnE3YktfcDRtYWk5amVpZWZGRmpZSGt2RE0xLWtVNXRQQkZqYXlYSkR5b1dLOEt2Tkd5NDVVektPX1Yza1J2S1pUSWxka2ZhWTVqZThRV1hLVTNvMlJFWGF1WWtrS0pCRndKS1BZaVFsajM1U1JLeThDWnhON0xCZFRTRUdqdHo3LVRoMGVPMGNHa0JYWnE0UVVfY2E1aXJraGExdzdxVWFsRWZfaFQwalpxMzJDZXFGZTdsN05GUnJib0ZYUFBvTnlBZEZmSDd4OERRVEpHZWwyWVVOOHVFWi1YTXQwQWVLQXJkcXU0V3VlV1R3U0R0ak1fd2RSTkE5ejVldVM?oc=5"
     },
     {
-      "title": "今夜不加息？美聯儲決議日來襲：華爾街緊盯沃什表態 靜觀其變",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zV21QS2ZDN3JreF9qMk1rLS1mbVEtOHpiTmtXZmlxVGdtazNEbnVoMXZ4MFNtc2l5dURUZGYxVFZtVHREcDd2VFVEWUlNcURhamFQc1MwZHVqdHB5UkhabzVFeDhVcHpYWTFQZnBWclZWdWw0WlhneG53NA?oc=5"
+      "title": "聯儲局以10票贊成2票反對 維持利率不變",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKdWdudWhLTWhXT1ZOSDNBV1QyMHpXRHhJRV8wcGdPYTFGU09ZbUdrQ3NORDJmYXJ5Qnc5Sno2QkdqWkNpRlBCYW8teE5DeXFRNU9YMWozS0lrZmxJNGZQMVlfYTVSaHhNeUxvcFhsRQ?oc=5"
     },
     {
-      "title": "美股期貨｜聯儲局議息結果公布前 道指期貨跌161點、納指期貨升0.5%（不斷更新）",
+      "title": "美股走勢丨議息後道指升幅收窄 現貨金挫0.65%",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMVp2SkpFZ0F1S3Z3UU1rNWF0djBaWXZiMHJ3elVMZEtHSFJpUnZ3dnZGeFk3ZzhvUDJ2TjF6bEx2cXZoeXBBcnU3QzFfSlptbWNCYlVnTHdxRWRMQmdYMkItQ2Y5ODV6U0VFY1Q4eXpqRUZMZXlwQ3BoeFltQ2x5eVhVT1JlR1Y4Ql9memU1REJ4NWt5Yzk5bVV1c2tRYmRCSUlzbnFDbGliSTBZR3FhM3BCbXp2bDVOTlktT3FqZHRONkNfWXZOVGFGNGd3ZFBSaGlKVWJrdk5vWHFLc0I3LWdaNzkyclJ3T1pjc1poeFQxTlJrUGFfTHZfUnA0X3VtMUV0UnNvVUZqZHZsb2dDUVFnYVdSYVpjb2NIeDUyeGVqR3Nvel9hMmtpd1h0aTZISVdRTFVvWmFyZ3hkaGppRG55OGExZkxRWm04VVgwVnMtRUU?oc=5"
+    },
+    {
+      "title": "美股收盤 | 美股三大指數全線向上，納指收市升0.2%",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTRrYnBQT2NjaUR4cE5GY0cxS3djdFJ4WGlHaTBCcVFOaXJIX3JGbWcwWExKcEJjU3ZDX25wQmFBME15Zmtva1RrWkV1WVlBSGtFOWF2ejh1bFVPS0dFaXJCblJxUGRHTk1jenFXeUxHY3JBT1ZLelFHdmhkclluV0pWalloeHBZc2x2ZkpvSXk3U2NobkQ5bm1xakg1RlFJ?oc=5"
+    },
+    {
+      "title": "市場預測顯示聯儲局12月將加息，而聯儲局今日料將暫停行動。",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3d5NFh6NDJ3MDAyQmNDNnZlemp1ZTlfNjlKMFJqc3A5cXplYWFYclEwUHN6R3NBNFRqZnQ1ZnpVMlBPYjU2QTF4NVFWY1FYVGVxQ0RtU2UwbVdkMGppZHcyN040OWNhNWprSEFUMGFvdDFpNnp0RVZyWUtDM3RaZ3NKVkM1T0VRdy1sejNPZDVzYXZmRW1sLW81ZV9KWndiNmhVTi1mR3hDbUpzRVlqZUlRbDFBcEE?oc=5"
+    },
+    {
+      "title": "華爾街估國會易控權 也難救美債 民主共和兩黨皆「大花筒」 財赤恐難逆轉|香港經濟日報",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNTFMzVi1FcXlRQ05kTnpMNEQzeEN0dTg0NUxUV1hmWUNlT2hUcWh3VnZiLXEtcFI0S2NTZnVCcm5MZnZVX1R1LTd1anZLbUZyRHVMRUNMMG5RZTcyLVNtd3JsUlBjQkFOeFNZeDUzYTRMb0dmYjdFMjMzaHpzdXlNek1qZVJYUzd6dkhPMTJHODNoYmJienBqZGhsNkhoUmU3bUR0UW0yVkJQRG5FR3Z3UTJTR3lQSXJQNE9GZnRYZzNnLVpOanlZdmNPQWRsNGZjdlR4UTNYLWZ1d0hPbFNGNWRiMkc4djZ5LW9XcnpxRFJQanVrWXY5bWpDcW1zb0o3RU96QWUwMDZic05RQm9xRUFHa01nQ2x2ZXBjVW1Ec19HbXpvY1ctb1BsUUFkUGZLYTVlRWdldXVVakFJSjJsU3hYVTZCdFN3ZHlkeDcxWEVSbi1DOWh4N2FIUWJQMjlFaFFpakU4ZUdyVzVuUVVDeTA5LVNCWkFFTkllbWhFVy1EemVjMjVmcjdob0oweFBGU0ZhR3FTcUVVdFJEWXFVNDh3eXpLVE91TmphX1F0azM3TFQwNF93TUJreUJSTmttUmxiY2M3Nm0teWNCSk4zSzlHeHVQc0R5ZmVaLXNlZ2NXTlFxYjgzbFBIMWc4anpRamc?oc=5"
-    },
-    {
-      "title": "親美國家不再捧場！美債淨買進額銳減逾60% 日本大減99%台韓同賣超| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPMnYwUnZzTk80cVViWWRsdWtoc3BkNGUyOTY0aE9EX1NWNG9yalh5UUcwN0RfVl9vQXVqR0FzSlp4ZFgxRnpvOVJtYlNFV1ZNcUdBYkF4TFpEU2NsNnJNQkU3MGp2WUlnSlpxMlU2WTJCbkU?oc=5"
-    },
-    {
-      "title": "環球行情｜聯儲局開始議息會議，市場觀望結果",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNMldVODVUNGZJSmJKZWtLR0hUS2QxVmwxSGpGUGtlVFJnRVIxbjJfaGtRcUdjWlp5NmtpcGdIblJwRWdQMkR6b0NXSEdpT2hTWmFaUTVEU0VzRVhRWUtwdGJOWGVBT1Fmb2xNWW9zcVN1bnNnRzdXR2RjVXplVXVYbWxzSjk1UWVyNGdmXzRkaWFzajJTOFJzRHppSHpoM0dmM2psdXVBS3JiaXEtMjJ0Y2RaLTZTY29qaGJVdkszSEFqRkxsa3ctNmV0dVpDOW5sZ2hhR3hPRUJ3M2VmcWYtWGlfV3RBMWtPeEk1V3Vzc3J2NjZRMUZ5dy04cVJQa2d3MmJoQnVlWDUyUHNZWF92YWRxaUE4V2F1SlFFRkYwSTNyT0p4MWNuSlZvZXZyMi1HdUgxa3NEUDVCU1pWZUpqcXlOVzBlT1NhYXU5YlltblJ1SXdidXplRGx2NUJTZw?oc=5"
-    },
-    {
-      "title": "不幫華府填赤字？親美國家買美債縮手逾6成 日本暴減99% 台、韓名列賣方 | Newtalk",
-      "source": "LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CMVByaUNrVEZrbzZaRDhUY2ptZWt6a0JZdkRxT2MwZWVEdnNqWDR6UkEwYWlMUG1ySF9RWWxROHF4UXdkWExCMGFzeFdQemdoVXVVdTFn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNMnJZQkNQYmU3eVdoOXd2Qm1SX1pSWUtCWVpGaGk1bnkxMWZwblhjMXVURkxuZTRHb3dCMC14QUZFa1dGNGxuQzh5emMzSTRBNHE0NUtLN1Fpd0xFczIxZkotaDJTU2xYWnpPWi1BaEtGeWFubVBNYWRXbi1GY3JkYzJwMUFEZkFRRl9vZHNZMmdEQlhWQkY2aUVjV2RxV0RuejZ5UXR4d09sMUZveFF0SG5CWWJKT053NFI3MWNtOGVaVEc5VURyeWRRYkxvX0swQzBMZy1YX2NLVU9yY0ZaOFRqaUt1blNSRmY3Zk1EZXFmTmRNQjNRY2tNTTBZMnQtUGVaUURfRWhTR3ZSeGlQbnprUFZVM2Qtd3d6SmFzU1k4blNuY2pLSg?oc=5"
     }
   ],
   "events": {
