@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-27 20:57:38",
+  "updated_at": "2026-10-28 07:15:21",
   "gas": {
-    "current_label": "10月27日 (現行油價)",
+    "current_label": "10月28日 (現行油價)",
     "current_price": "177.9",
-    "predict_label": "10月28日 (明日預測)",
-    "predict_price": "177.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月29日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "中東局勢緩和預期升溫 油價兩連跌",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80Uk9XSVA4OGxwUlluSFRxNDBLOThNWUJDLTF5QXRBZVp1N0NMYXBiQllhaUhXbkxCU0ZsTDV6dGJnSmszYXJweVE3QTN5Yk5VcTBkQ0FYckhtRGtPNUxKeWtkU2pwdWM?oc=5"
+      "title": "全球政府齊發防災儲糧水警告｜歐盟16國籲儲7日物資、美國末日堡壘計畫曝光、日本南海海槽地震威脅- 東張+",
+      "source": "myTV SUPER",
+      "link": "https://news.google.com/rss/articles/CBMiigVBVV95cUxQbDFiNlJVYkstNlJxMzVaRmpyaHRTeTU0MlFIbjZzeTI3MlJ1bkdnYU9IY0o2MkRhUWRyVTZGaEppeFhaRHVwTDNXQUZFaVotOE1ELW4xTlhhX3REZXoxSkNLbzRkbXRTSWpjdWdKa090V1lucmZlZXpmRjhsTEMtTlAwaEdtSWFzZ2VtdW1MMU83VnhvOUdjZVlUV2szZTBwVC1MRE5yWU92eE9zYkpmNmJUc1FaRVdLSFM4MnhpMFJrSV9KdFlFbU9KM09MMGxvMVV3eGc0dUo2Y0Jyd2tKNXV1S2drR1BBOVR5UkJ5WURTUHlLb21mRjJseXFCbHV1aWkzSTZRQ1dzbUNObTFqR28yc1VjZ1ZYc1lIYnNuQ2ZCS2VKTjB3a1pScFhNS0swWU1WVkxLSFo3c0F4QnJXSjg4YzRLRUN2Sk9Jekl5NnREV2lJdld4cVZobVVhamFLaFNsZjNoSkl4dEFDRG9uY1JjQ2dTQTRTbHdxNTlTOHIyWGt2WlpYTVpWd3k2NVN4cmMxN21vVEpXOEE3VldTZHlKM3lCMy1Vc1lsRVlJQnNGdkNvcXF0TUsxTXdDVV9uRDNtYk0ybGhEdjVzU3Y3V3FsZVktQjFRUHphY013OHVwQTg3TWpwaWtuN1VycFREdThfMzkzT0VWRnpTOW9KTmFpbkxhbjlaNXBfV0dQbkJmS0lBZ3NqUFlNbGNJYmRQeWFlWUVPOEFuV1JMZXBuSElUMVBZNG9GcnJHbUQ5OUFDXzVPQnBkdWFHVkRBNy1qa3lEbi1ILTBuQ3dMUnBVemNOOEM5bjhtZkU1dUxJNTNNb0xwcU1lMldadl9FTzFDdlZLc29tVWcwQQ?oc=5"
     },
     {
-      "title": "扎卡里亞回顧白宮5日經歷：即使所有人嘲笑也要堅持到底",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nRkNzakU0THMzQkZJNmNsTUVDRk9fRTEtVEloWjBjbzB3WG82dFlzV1dFSnY1ZUhPYTNnSmlIQWo3WEdSTmRvdHlTcTlHZG5YMFAwUkttTU54WERnVVI3Y2RB0gFnQVVfeXFMTW54ZU9FeFpiVzFyano4U04tc2RBT251a0tYYU5uZWpJMmk1cFZtUG9IZlJmV0swN0Z5NEk4dmkxczljVEkwOEtzSHhLOHdIVmllYzd3Z0ktZnVhclI3a1BjZDk0VC1OTQ?oc=5"
+      "title": "陳茂波：全球須共同應對可持續轉型融資、科技成果共享及人才培訓三大挑戰",
+      "source": "国务院港澳事务办公室",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBudzM5NEJBZVdqTTRYMDJPcUl4UDZsOFBHd0tQLWd4QU5YbTV0dHJQQXhma0ppdzgxLWJWd3d1V283WEJZMkwxaTItcTZvS3YtaW5NNnQtdXh6RGdFWUdYRmM2S3l6Z2NIUk1UQ3ozMmk4ai1HUHpqZ3BB?oc=5"
     },
     {
-      "title": "俄烏於奧列什基地區提早停火協議 烏外長指準備好參加烏美俄三方會談",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQYm9GTU5nUVRqUmpHMmNHanZXaURCamxzRk1KTG9Oc0trWWlrZjFzLS1rZjZ6azRpUUk5R2FLOTBGVHRTa0d2VlhLa183bVhrRDQyLVhySVFOUlF1ek1hTmd5cHVjc19VZ0tEX2h0QmN1SEloMDJqMDFxQ2ttQU53UHZrYWZBYTBHdjBpc2FLdVJDaThjWXZaZUNwN01kUXdxcGFQeW9sTERDWTZFSENjWHhaMjNVYkhoT20yRUU5U0R2V2NrR0V5bzRSdGhKcy0tNHRUQmNkOS11S3NLSDM1c3V4Z2FQaDZzTU1XRG5JSUdBYUtTTTM4dU9uRXdlSWtnNjVKcnNHTFRvb2lKMlJBOWRKM1o4VUVhNlZSTjZIajRMVGhoZlB3bEhoSjRLcDY0VDdyLTY2YkU3MF9XamZnVGhsTjZtYjFPM3JFS3Z2eGE1Q1FRbTJjTEpwUjBaU243aE9TQk56dnZVeTRaWDNZU2pLT1JBOWk4bWZndmNnMjN5WUZubWhSQkhBYV9LbGhiNmxoZ0JhOE1BLWJzR1pNMFg5Mnp1eHZ5MmpTQjFvYkpQODFfRjRVV3hxWQ?oc=5"
+      "title": "奧迪砸40億美國建廠 背後的考量是什麼？",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOOExEOThORjNNUy1VMTYwblE3SXVxc2pDM0szRTZqbzhFdHl3Z2UxYWNwSm40Yy1UVFVNRnZUbjAyZmxDUkEyMkZTN01iZkR4cno3WWlxd2lqeGhKQzVJQm9qZ1c1VEl1YWtIN2FIMzZfaEZaTnlkQmFOZkFNbld1YzNsZ08zVHVhUFlwSTBkckpoMWdUNmRUSEFfQXNUR0lwXzN5RjRUNXB2NTU1OG9YNi1Hd0I1eXNCN3p2dTZzUXBPODd1OEJDVVlPM1l4WUhJcUtqU2hDMlhVaWVRTmNOQ1VzMDdZeWhIZUpuMjB2YjBJZ0xtZ2p4cmVuOHFKY090SDNZY2wzWmJMWWZZZDIycWduONIBkwJBVV95cUxOOExEOThORjNNUy1VMTYwblE3SXVxc2pDM0szRTZqbzhFdHl3Z2UxYWNwSm40Yy1UVFVNRnZUbjAyZmxDUkEyMkZTN01iZkR4cno3WWlxd2lqeGhKQzVJQm9qZ1c1VEl1YWtIN2FIMzZfaEZaTnlkQmFOZkFNbld1YzNsZ08zVHVhUFlwSTBkckpoMWdUNmRUSEFfQXNUR0lwXzN5RjRUNXB2NTU1OG9YNi1Hd0I1eXNCN3p2dTZzUXBPODd1OEJDVVlPM1l4WUhJcUtqU2hDMlhVaWVRTmNOQ1VzMDdZeWhIZUpuMjB2YjBJZ0xtZ2p4cmVuOHFKY090SDNZY2wzWmJMWWZZZDIycWduOA?oc=5"
     },
     {
-      "title": "美中期選舉︱白宮發與特朗普祈禱片 主教們斥「操弄」營造支持假象",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQY3JnbnlqZkNaQzQzWnJocm9qTW9DMmhObDc2VVNlTkxMWVNGaEd3Ynk5WnJCNjBpTjAzdllqcFY2Nng1U0s4NnJEV255aGpkaWFkVEJlUkNwVkRVdTBHU3l5SU9teEp1T0ZYR1Z0UTRVVm1xT05WdjJaVGphc3ZJdWR6RC1CRjMxTXUzNjdoYWNXOExJZlV4aHRMYVlXS0xLRE1LRzVmNkVrM1pjMWl6aHVaaWtvZzNGZ2pQMlBRckNuSXQzRE8xcUZuQXprcUQxRnJiRzZrSmEwNTlrSnRXTzhmdm9ZNWN0cU52cTVqaXZTeTRoWDlTYlNPSzk2QmdwYjM1VFFRcWVDNVN5NmZnTHJhZDdWeDBNZ1B0WW1FMFpGd3ZGYzF3Q3pYY1V6MnpfbGgyS25PU0lmc0hUVEpuRkxobURpenFRSmgwOHFqVmdvZzE1Rl84SDRLUFBkYUZQaHdybzdXOVo2Z1BVWE5vczFiUVh2U0h4TlhrQW1nUTFNdWh5WHItQndPUDRmU2RGd2g0RXB3cXNtWHpvRndZSEJzVXk?oc=5"
+      "title": "美國防長提議東盟與美國建立“雄心勃勃”的防務框架",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPS21XWm95QjZxYnF3Nmp0QmF3QVg1aExQaWwwbW5vVEVLRWQ0WVFYTlg3ZWVTQnJxXzhnRjh5YTFsV0wxeTJvZVhhakV6SUM2bkRjWVlsSUdVNW5LY3Jsd09Pal85bm9yWm8wNUg1eVQ0cFpSYjFYbk5TNF9BalJDZS04V2R3REpmYVdOYy1EaXJTVHI5WTZuTGlGZTREQXZiMVRJWmJMNTk1eEduNW80OHFncHRCWE1fSDNkeXJHZ1VMUzZxQ0Qxa2p4aGQ2NGV4eF8ydjRmbEhVMWJwSGo0ZHcyU0FNSzJ0T090bVRyNHFJOElwTUJBUUlibnd3TjFDT2o1LWhGeG9VU1BtTld2ajJNekJ5XzNDeXpwRHNuNnlOVVRLT2c3VDJCRWQ3VXp0TTR1SDc1eVlyNklkS2tRZW9vT1U4NzJMQk90NVhvUjhYNFRhQnk1czFlNExUeUtCaHc5SlJqX01mQQ?oc=5"
     },
     {
-      "title": "國際早班車丨美俄據報探討戰後庫頁島石油合資計劃",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPbHdWU3k4ZXZUbV84Q2FWaFB4Wl9yTHNvVmJNS3c0MlUxejIxWGRzOExkY2tFbGp4Z2J4WnFWVXVpMlMwN2tDOUFYalRNRkYyanlCNFNrRjZEMllSSHVjRlpXT1dsbElUOHhxQWM0R2ItN3FuWURrTVRTaTBVeE1md1lTWE5rLXFPU3BYMFB5STlNTW5lWTVrZDY1S0tOcUdjNU13UzlFSWFmV2xZWWl1LVdNWkY5QTdTVG5CSFZWNkUxR3hKdFJvcDlrYUUtTnZLMF94aGVQNE5ZWFZrb1U1TWQxb3dscklKWGY3d0NrYTlpM0cyVDVab3hvV0ZhNk9KTUNnQXl4b0l1OTFoR3JUc2lDZTNJWE1ZdGpsTHhVODNYWEdkWXN0blZaTG5TTjc5R2Fnc1kxbDE2N0Y5YUctYWFkWXJneXJsSHl1R2ZvSDdpMkMzbGhOZ3ducVlrR1RLMks0QlpqZGpqMXpaYUVYRXJ6anpEeUpYS3c?oc=5"
+      "title": "WSJ：美國中期選舉後擬向伊朗作短暫密集軍事行動 (15:35) - 20261028 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNWjFjcXpyZ2hNUFhjWnBlYWE2NlZSbXJrWW9xU2tWV3YxbmdxQXBVOUcyN29GX3RFaEVCM1l4czhPNnI3T18ycmFCSzh6RTROZjNHSWt6TldZdkJTbnBPQTlVNXNnMS1qZThJX2VxdDBCbTNqX3VtQjJ5dUtmWFhPLVp6UzBaN1JTcEZnWU03aEdZT3FISjVsMlBJMjl6Ym4tTVJGeEFUTVFNeE5jT2QyS1E3YlJkaEh6cm5vNndDNjk2dE9ZcXFuVkpXdFZ2ZXQtREVaeGRTVWJmOG9YTG56N3FDSWtxdkcwc1FHRmRnR1JsTXVYc3BVamQ1bVR0MXRNREJQTkhPUmQ3RzJxcFJTMzk1YzBUZFV2ZU8ydlc0VzZJaTMyRktqZTlMQ1Q2SHoxRDdtVXV0ejJSa1B0Y3k2NnFITmlzYWJDdkRzQ0t6TnYxMW5VNVVnR1A0VHZDTEd4Vk9oTFJmVExQSENEanI3YUFKOFUwMHAtUy1wMGlWM3Ffb25T?oc=5"
     },
     {
-      "title": "八分鐘國際新聞重點｜普京籲天然氣主要出口國加強合作／俄烏奧列什基地區提早停火",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOdU11X3ZrNm93d1lxbmpfRUJEX2F4Nzk1ckVhd0xLX2hrczNtU1NCZnBMSWpEVVdfY3NRYklTcG1ZbUZXa0xEa0tVbktEWm95VGJPejJpam5BR3RqUmhtWFN2M1ZucWlCeU5LMU44cVd4am12by01TTFWb21UODVGTzlRak9QT1owejJYOUI0MUYxUkMwQWdnNXM1OC15ZVFpSXZNNGtYNHIycXR2VHFmRVdTRjZKRjVSOGtVSmNZRWx6V21OTkhsLXU3YVVvTW5ZVHA5RElGYmtXM1Jlc0NhWllCdzFkTHRIcVR0T0dKajZMam9SNlJQc1ZXcW1wMVdPLXBXQTBLZXpqUGl6VVIybEpOYXNDR0EzalE5RUwybTIxMlF6dHNQVmhZeVRLMGpQWlZnZExiNW9jWlh3bUEwalUyYnVBMncxYkxERDRUMk11SXJFSVkxa0ZudTN4VmdHT0FTQWNRR25YZE9fMHlINHkwU29VOU9wd0NMaUJyMV9GVE80Rmp5WWxadFhvYkNwSE5IVWhDS0MyeU4wWmtQSHR4dWhBdGxrNVliUnkzRW5oNU1ndXhzQjB6T0dxZmpOQVVxd0VXc3BiTHZrVzBqRWkxbFBHenpTRnZkYl9penBWNVdBcXNJQ256N1RYdFVCUGkzZUJNQQ?oc=5"
+      "title": "國際｜Verizon行政總裁估計SpaceX建全美國移動網絡需耗資最多5000億美元",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQUFRsQXY2Tm96SUxKUHFmdDd6eUlTM2R0M1h5WUJUQzlERjh2QVpJejY5bUNnRlZNVU15d3FudUl2a0ZkZFE2N3RpMEZadmhUSkJOMk1WUWxOZVh4MjdsTWZkSGtIWEQ3MWpNRHhtaU9oSEhEQVJIRnJjSFZuRWlVWkhyNzIyRVdnR243TXQyckVpWnNOTk00REU1dWtTWUtXMkhTYWpMQWRFOHA1REZPMkJCMnczME1CU3NFWGludnpNa2syMkVDckJJd2pOU2pUSWZNUnlYQ0NEWnpTT1FXOTVZMWFQVTdxY0d3NjBDTVBSZ05ndE1tdktIbU4wd1JEeGxzMDRnYXJ4aU94Z1JrVEF0N21BRjBzc3JwaUZtd1RGcHRPbUxONHRTQklvZXhVR2staDFfMEN4THI4SzdtS3ZTV2tVLThmZzZvNHdKR2c4dTJXMG1XRHdiUHdoZTBYQ2E0dUxPT3lISm5QXzg4bGZlLW10N1B6dklGTC1sMTBkd0dVUzlzNGMtVHF2MUtqNms2SFhB?oc=5"
     },
     {
-      "title": "美國9月耐用品訂單錄得五個月來最大升幅",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrX3ZzN3NnOEc3OFJqWW1fYS1mandnMm5kb3BmUXpjRXBPd2lRQVFfczJoMVNBVmJDU1Q3N1FqSTRQVGRXMTJjaHBEcFlyYkVLUDdZREI2Njhib0FxYWw0ZWlvRXUxa28?oc=5"
+      "title": "美國最親密夥伴對美債的買盤銳減逾60% 亞洲縮手最明顯",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUjNmVU1laXhCMlZ5eHVqejZtZTJja2VOb1ZnRTAta1E1U2M1aGhRRmNqYWpUX0twRFFocFpfWS1kSTVmMDdnRk1PY1NwNG9MU3B6LUJCWHNrbEpuWVpleXExY2ZLb1NOLWRfc1JKRkNoME5TUXE4TEh4UHdrQmFtX2RldHNFTUFZWG0zc01CcHNvMjU2N1hLTWhhYU5MMmhzelA4ZU9CXzlFX0FkaW9MZzhNODVVZWhMa2ZIZzF6Z0JOM2U1Y3RyM1d2MGprTjV1TEJrQmVzdmQtR0owSkIyQVA2ZFV0eFNNZWh6SmJLVTFsVWt2R3ZmNFA1b2pya05QVl9DRnZIVzVNQ2hLTS15aUR6Njgwek5jeGc3V2gzWXdkSUstQXMtMUdQZDJNdi1tUk5sdUFvczZya3BRX1BUdUpSa2N4VkpkTzhvV2pkYTRnTmVJQ2dBdUNSM09La082U1lvYVJlQ0pOMHVWbDNZZHNkdllzUQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "科技股帶動納指高收逾1% 道指升15點",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01VlIwa0FVU091V2V0cndFZ2NMdGY0MjExaFpGRUo5ZXdsa2FzTTRibHNjNVQ2V3JBNVBrSEVaZnZWNHQ2d0ZIOUhNcDRQX0NvV05tb0ozQ3BpSjEtZmQ3SlBCSWV5bjQ4T21KMG5KQQ?oc=5"
-    },
-    {
-      "title": "美股｜多隻半導體相關美股午後造好 AI大額融資消息帶動氣氛",
+      "title": "美國最親密夥伴對美債的買盤銳減逾60% 亞洲縮手最明顯",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOX2xKRjhJYXJQMndzUjVGYWNnanBwbW1OVDNpejZha0drSGNycVhYVmo0NmN6ZVdmbl9Ka1lIN1R0Vy1fOFRCVWdDdDNlYS1na1lzc054RnpwUHE2NWJweF81djhtbU56bmlIM1JtUjctWUZmdGNmRFNKTzQ2d2xwZjV1Z09kSVNSMllNZzI2WHZmU3RpZldxeFdoNWNJQTdkR25Zc3g2NWJmR000SmN6Q0RsRDFIV0prOHBKR2tSMFRBcm0tS0V2WHVCU1ZDQ1RGUHdwQUZReTNNVzdFdUpaZFBsLWZ2RE9MR200cmU1MUxTLTRZMXV2ck1jZWwta3RrOWNsUFVsdDFuTVcwRE9jSGlTM2pwR0MzZGlWUVA2a202blRzV0hrLTFja29KZ1doLWdWS3NPVnliemRlSldrTTN2aVNNOFJtdVN6VU9nMXN1ckplTDVYS21PV3BqTTVtZ1VaOTVaZ3R4QndnbmV6NjBhVHM3dXR6MV93VFlSNjNXX3ZHSW9zRnRfMmItVG8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUjNmVU1laXhCMlZ5eHVqejZtZTJja2VOb1ZnRTAta1E1U2M1aGhRRmNqYWpUX0twRFFocFpfWS1kSTVmMDdnRk1PY1NwNG9MU3B6LUJCWHNrbEpuWVpleXExY2ZLb1NOLWRfc1JKRkNoME5TUXE4TEh4UHdrQmFtX2RldHNFTUFZWG0zc01CcHNvMjU2N1hLTWhhYU5MMmhzelA4ZU9CXzlFX0FkaW9MZzhNODVVZWhMa2ZIZzF6Z0JOM2U1Y3RyM1d2MGprTjV1TEJrQmVzdmQtR0owSkIyQVA2ZFV0eFNNZWh6SmJLVTFsVWt2R3ZmNFA1b2pya05QVl9DRnZIVzVNQ2hLTS15aUR6Njgwek5jeGc3V2gzWXdkSUstQXMtMUdQZDJNdi1tUk5sdUFvczZya3BRX1BUdUpSa2N4VkpkTzhvV2pkYTRnTmVJQ2dBdUNSM09La082U1lvYVJlQ0pOMHVWbDNZZHNkdllzUQ?oc=5"
     },
     {
-      "title": "美股沒崩、股票卻很難做 高盛直言華爾街交易已「無從下手」",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2ZzlqM3hFUTVZZGlOYjVPS2U1UEc0R2JaYVF0RjFTYWRucHkwb1BpaDFodzZnVjE1Sy1FcklyT1YwQW5sYjRTeGF4elpCcGc?oc=5"
+      "title": "今夜不加息？美聯儲決議日來襲：華爾街緊盯沃什表態 靜觀其變",
+      "source": "香港商报",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zV21QS2ZDN3JreF9qMk1rLS1mbVEtOHpiTmtXZmlxVGdtazNEbnVoMXZ4MFNtc2l5dURUZGYxVFZtVHREcDd2VFVEWUlNcURhamFQc1MwZHVqdHB5UkhabzVFeDhVcHpYWTFQZnBWclZWdWw0WlhneG53NA?oc=5"
     },
     {
-      "title": "美股兩連升 受助油價跌及科技股造好",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSnZ4X293eWI5VlVWUnk0ZE9tQlFOLWJoMHl6QUpNd2FNMW83RHVDYU5VWGpyMm1mZEVlbWs3c1l5VmN3Ti1rVjV4QUJQMmhWbmlrWUsxQ3hUSUZjSG1GM3FvYjZUdWc?oc=5"
-    },
-    {
-      "title": "北水操作｜誰最傷？北水狠掟4科技股|香港經濟日報",
+      "title": "美股期貨｜聯儲局議息結果公布前 道指期貨跌161點、納指期貨升0.5%（不斷更新）",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWjNoc2VTZzhEZ2pINWVYZ1ZoNUhkRFNBS2pQWVNuUE1MMFc1REFaRFAxSmp2NV9oZEoxYlVpcEpaVHAwM0MwMUc2VHUyV0tFOGVqQjlfVkQwdlltOWY1SWstc3NyLWdEZ3pQZGQ4Zm5Rckw4aHpHVmxoeVRWZk0tUy1mQ3c1RUxlamlHc1ZRc2NsLVg3a1JNN3NuWDUydUwwZ1FvTldWOGdqMEJ6bmpWUVF0VnVDRUxDT1J4eUthMmRoNDVqMVpMR2VmSC1ZMzF4c29Fc3JOWENKMTB6S19CTVdVd1NGSkpZMFJZcDBQNHNuSTNZd3drUEd6V3Z5ZVlJRnhsdnVyVEg4OEZ0MWE1ZUV6cw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNTFMzVi1FcXlRQ05kTnpMNEQzeEN0dTg0NUxUV1hmWUNlT2hUcWh3VnZiLXEtcFI0S2NTZnVCcm5MZnZVX1R1LTd1anZLbUZyRHVMRUNMMG5RZTcyLVNtd3JsUlBjQkFOeFNZeDUzYTRMb0dmYjdFMjMzaHpzdXlNek1qZVJYUzd6dkhPMTJHODNoYmJienBqZGhsNkhoUmU3bUR0UW0yVkJQRG5FR3Z3UTJTR3lQSXJQNE9GZnRYZzNnLVpOanlZdmNPQWRsNGZjdlR4UTNYLWZ1d0hPbFNGNWRiMkc4djZ5LW9XcnpxRFJQanVrWXY5bWpDcW1zb0o3RU96QWUwMDZic05RQm9xRUFHa01nQ2x2ZXBjVW1Ec19HbXpvY1ctb1BsUUFkUGZLYTVlRWdldXVVakFJSjJsU3hYVTZCdFN3ZHlkeDcxWEVSbi1DOWh4N2FIUWJQMjlFaFFpakU4ZUdyVzVuUVVDeTA5LVNCWkFFTkllbWhFVy1EemVjMjVmcjdob0oweFBGU0ZhR3FTcUVVdFJEWXFVNDh3eXpLVE91TmphX1F0azM3TFQwNF93TUJreUJSTmttUmxiY2M3Nm0teWNCSk4zSzlHeHVQc0R5ZmVaLXNlZ2NXTlFxYjgzbFBIMWc4anpRamc?oc=5"
     },
     {
-      "title": "美股走勢丨納指收市升1.18% 半導體股續漲",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZkJVUXBPUFRNTzlOT0Vlenh2cTFrVDdvTzVpMTlqVmtUbXRjOEJHMnI0cy1UQUdEbDAtd3ZzZlc5SXk3a0tPLWtRMUZTOFBXcFk2b1VJOEthTUY1dEJxUzQ0WFhyWGNDd2JYLUlSUFF5RHljWFB5ZXJ1Z2ViQi1jVlFiUDNScDBTeUptT3FIUERrRGx4UEs1eUtPa05hV3RmTjlYMDJScnFSU1Q1alJJOTZySW12ZEdzSXhyb1BJWHZPbUtrTUN5UXV2VWZrV01USlNQN3BSVks0eUl3WnM1RkdoeE1ZTXAzZThRYnpYZFNISmNSVXBxdjhER3c0ZzNzOHFSeGsyQ0JUS2tvQ1Q2eElpZWJHbjBaLWFWUjlMbDMwa2NxMDV0WGtn?oc=5"
+      "title": "親美國家不再捧場！美債淨買進額銳減逾60% 日本大減99%台韓同賣超| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPMnYwUnZzTk80cVViWWRsdWtoc3BkNGUyOTY0aE9EX1NWNG9yalh5UUcwN0RfVl9vQXVqR0FzSlp4ZFgxRnpvOVJtYlNFV1ZNcUdBYkF4TFpEU2NsNnJNQkU3MGp2WUlnSlpxMlU2WTJCbkU?oc=5"
+    },
+    {
+      "title": "環球行情｜聯儲局開始議息會議，市場觀望結果",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNMldVODVUNGZJSmJKZWtLR0hUS2QxVmwxSGpGUGtlVFJnRVIxbjJfaGtRcUdjWlp5NmtpcGdIblJwRWdQMkR6b0NXSEdpT2hTWmFaUTVEU0VzRVhRWUtwdGJOWGVBT1Fmb2xNWW9zcVN1bnNnRzdXR2RjVXplVXVYbWxzSjk1UWVyNGdmXzRkaWFzajJTOFJzRHppSHpoM0dmM2psdXVBS3JiaXEtMjJ0Y2RaLTZTY29qaGJVdkszSEFqRkxsa3ctNmV0dVpDOW5sZ2hhR3hPRUJ3M2VmcWYtWGlfV3RBMWtPeEk1V3Vzc3J2NjZRMUZ5dy04cVJQa2d3MmJoQnVlWDUyUHNZWF92YWRxaUE4V2F1SlFFRkYwSTNyT0p4MWNuSlZvZXZyMi1HdUgxa3NEUDVCU1pWZUpqcXlOVzBlT1NhYXU5YlltblJ1SXdidXplRGx2NUJTZw?oc=5"
+    },
+    {
+      "title": "不幫華府填赤字？親美國家買美債縮手逾6成 日本暴減99% 台、韓名列賣方 | Newtalk",
+      "source": "LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CMVByaUNrVEZrbzZaRDhUY2ptZWt6a0JZdkRxT2MwZWVEdnNqWDR6UkEwYWlMUG1ySF9RWWxROHF4UXdkWExCMGFzeFdQemdoVXVVdTFn?oc=5"
     }
   ],
   "events": {
@@ -84,8 +84,8 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 9,
-        "status_badge": "9 日後"
+        "days_left": 8,
+        "status_badge": "8 日後"
       }
     ],
     "stocks": [
@@ -95,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-10-28",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 1,
-        "status_badge": "1 日後"
+        "days_left": 0,
+        "status_badge": "今日"
       },
       {
         "ticker": "NVDA",
@@ -104,8 +104,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 22,
-        "status_badge": "22 日後"
+        "days_left": 21,
+        "status_badge": "21 日後"
       }
     ]
   },
