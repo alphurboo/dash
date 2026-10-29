@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-28 21:30:57",
+  "updated_at": "2026-10-29 07:15:25",
   "gas": {
-    "current_label": "10月28日 (現行油價)",
+    "current_label": "10月29日 (現行油價)",
     "current_price": "174.9",
-    "predict_label": "10月29日 (明日預測)",
-    "predict_price": "174.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "10月30日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美國的反全球化民粹主義浪潮是否已見頂？",
-      "source": "日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmJlV0gxRXpXemQ2N21memhMMmo5YnBxYmpjb09xMFozM045bTJtNVRicEwtWHFfMDBIRWYxc0dkbGhCSXRYWW1YTHRvN2I0bno3amNTd2x1S0NOZUZkNW9TSG1xU0FzeU0tQTkzUjdhaWQwYng5blVxdXdQYjhXQnJJeHE?oc=5"
-    },
-    {
-      "title": "美國對伊朗的戰爭耗費逾470億美元 拖累川普總統和共和黨選情 | 信傳媒",
-      "source": "LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4TWpCX3BJUlN3a0dMN3NCbGxLUzhaT1JsLU1NVW9zUUJxRFdFS3RjNHotNEhKSFlSTmtJX3hrUFRHM0FvZklUelhveEFnUGlVWFgwS2F3?oc=5"
-    },
-    {
-      "title": "國際｜美國號郵輪將沉沒 成全球最大人工魚礁",
+      "title": "國際｜全球同步警告？ 多國籲備72小時應急物資非「末日預警」 防災與地緣風險共同推高準備意識",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNaWE5UjJ0cjdZZEtGc29FRE5jZGlEN0ZVMktQU1RPMURKWFREd0t4djc0VmVXLUtFeC1PRldxaURYYnR6MFp5RG1vME81UGtoVnZJSjQ2V2VsbUxGNW8tVkplemlPZ0RUQUtyNmVFcmhKX056Z0JaQjhOLWszSDNKb3VEYVZFaXg3VGpGQWhmeDFFRDlKVWZ5QU5XZ0puQXJ1MWluRGZ3Ry1aa1dJd0RkakxzTTBZeHVMdE9rWmF4dFc0RjV2eGlQNjF3QjhTNHViNi1wY2dkQjZFdkstbHd2Nld5VjZ4MXg4bmpMWGkyUmVaN0YydWpkcFo2ZGtnMFVsYnA1bW1ENExOaGhDcnoyMGpXeFIwbFQwSHJZRzVfSHNXT043Sl9QUEJwV2RtQ2JEUW5KMi05Ql9OcFBHUTJFNGFUOGM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNZUVscUZMOTY5ZlN2aExtc285MHVGNEVfU2tMSDZrZ3FVSFpiUVU4QXNEbEFZOXJ6dThqVHozejhxT29QU0FaeG9Gc0k1ZWI5aFVfMS1nV2UybzFySW9XQ19CNTFBNjNRWmdlTWd0d0hfZ3hYUUdBMDdrWEt0UDlzZWFFeDZuSmphXzFyU2hTMldRd2tQRjlqeTJKZjUyakZCMGYydjBwYzVaWTFGajlPTVZDREJwOWNuZWJIUkI2bXNvMnFicGZPOC0wakk5dUlqUzhJYTA2YTg1RnAwQVFOVVNaWG1NZ1A5cVFpMjRvbFM0M2V6Nl9IRzhzV3MtY3FPR0Z4SEszTkUtTTBKY2FEQ1J5Y1p3U0ozdUZUQkVWcEZyNXdKdXVPTHc1d2dPR3VCaWVyZ0tsTjM0RmxaRk0zY0J5aWRRejUwUXBGenliTVZmTl8tZ3BLTkpjdkljU2JjN0ZJakNoclpDVi1NSUxPZFhnVVlxR1g0WWg0RUN6b3ROaWRmaG1zT3RXbVNhcWFBam1tYThjUHllck5PblIzMFltdWt1T2hwcUpUZXBEMFdzSi0wRjdXekRpRDkxbjZxR0JOazZmZVFJdHFIWno3eXJXZDVCVVdrZFZWSU8wMTdfVWFYMFNfRzlLbWVVQXdIbElyZnNTWVVCLU9NUVM3TVpuZUhVdEZ2T3FISkdLWUZUSVNGb2VoZHJLeHZVbUZlNXozOFpnU3NnS3N0VVE?oc=5"
     },
     {
-      "title": "美國列中國華大系3企業入實體清單 稱涉強迫勞動",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQblVRcXcyR1ZERGctaU1LempTdUVfa2ZiNGlYbDMwZFNGSm5UdkRxcmE0Q2FON1Y1dGNPbGVaRVZkeEhOMWllQlZSOGplOF9adWhCSW9FbERYVU8zZTVvNFltemVpTVQyOXdaRHJ0WWxqQmN6MXFMVzgxMGJaYmFqdVhlaGVTTkhPM2trM2ctdkkxb3Q5MV8wTVh3T3RFdjhjdVZpMzBHNTRzWXBHd1JXaEJ6TV9IWTJUSW8wZVVvVkJOeEh4dEdwdFJib0pnNXU3MDFwVzhmbFpSZlF1WFhqdzVyU0VKLUUxdGlZeF9tckItS0RfZzBqLTFfWXlMVlo3ajVGbjVmeDFxLUUzVkt3UC1LMk1TOHhKWEdjWUhNTDluNW9qbjFyM3VXWnY4SFNFQUw1T3pwS3Atdi1ENHVwNi05MnlQNnVxOVNvZ2pSWk9URHU4RW5Dajd6THItQnZE?oc=5"
+      "title": "華盛頓郵報：在墨西哥試駕“美國人買不到的中國車”",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11OUd4VTVVS1BnOVRDZnlZZ0k4NVBCOXlIOHpjUGM1dXk0ZlZVeHRacXNIMzJTMEpvb25BQUFTWjRzVm9JaHA5NDBmTV95OHVpRHhQbHFMMlFmUHpyQzM1cUFVYmxXcTJUdFNYWE4wdw?oc=5"
     },
     {
-      "title": "社論：美以選舉難息伊朗烽火 中東勢力平衡恐大兜亂",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxON0FFQzJWcUQwSzJEQkU0T1BSNUFXYThJM3lTay1QbEsta2NpdHNVaVJScEJGdW9aUWhrUjFVUjIxRHpFV0tNRmZwbXI5ekEzeU9VX01HT3FpS3R5dXB0M1ljZmtHd2MzWGhnYXdZNUJ5RjR0aXc1TE50bkUyTjJPazVzb09qUFdndXFKUWZPZm5OdlV0WWRXaGdtMFd2ejhFMWU3VnRHOGFVdlA5MTAwUWwtQmhVRlotbXBScVRYZWNmNU8zYkdzMWVRVDYySlpqRUh5MDdkTUpCTVp3N0ltS0pmQUlxdURBS3FCS2lzdFNxSkE4dGpRRThmVVlTMlRQNTc0aXlfaGpLem8tSTlVNmVaa2stbGtUSWJFcl9IQ1FxTm5QaFlLUUIxTlN5azgtck9VeGNFY3F6SkxIWG1BUzZNTUkxTjAyVUw5ZnpXcmx4dDI3bkhwSEQ2bFFxVDFjMVRLQ1UzZWtQZw?oc=5"
-    },
-    {
-      "title": "美國期中選舉倒數6天 特朗普奧巴馬分頭助選",
+      "title": "曼谷專欄 - 全球安全動蕩 美提議新東盟防務框架",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNOUplNmY5TmVGd2E2OW5xU3JxbnZuSjA5TFVRV0RCQWQydmcwM0FLMURNcnJfQXZCSXl4LUcxLV9teXlweWdFZm5pWHFhRXA1dHIzUXoyVzZCRE5QdHZGR3NBQW9nSU9FSmJxVkwxS0pGRm1BX3Iwd3VRcVRSRFJqRlhGTF9sOUVFcHhFU0xnUGs0ZzZCTU1KUnNmTVNjZ3ZZOXBVZVEtVmstbVE1ZVlHV1NlcWR4VkZkd2hSWnV6bEZnLUgzcGsyU3ctc000T29IaGZLekwyQ1lKNUR2aFpxenlGZmJvd2Jxd25KVXFUV09weUxvbkJMMDlxQjRYWjhPQW9iY1NPOVNzTUZjazd0eGFud25DVW4xZVZSVEo1S0tyX0JfbVd2MHBaNmhJdVRLV1JRcTgyblA4cmdvN3ZjMnd2b3BYZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQYUFnNkZqOW5XVmo3Y2FxS1hNRGVwZzNUZF94eGJFaHRVVTBmcVEydGJ2QUhTNE9KVkxaeGRkTzdHTXdQOTZXODViaEY1NS1DeU1KRUZrTG9KLUxBMVYxYzFUT2p1TEFNY3ZNQ3BMR1JQbldTVGppUDJfS0tIX1k4VW1ENlc2Mkg5VFBWckVOaEZ2SDNBNXJVVXNXeXQxSEdSeGNBY01xVWxSWXlXeUN1Y1JXZ1RxZnVMV2p5UWU1TGlqTEhHamhVVk1ldThPTFRpRlRXWkJpaUtrcnB5SWZzZlBoRTZ1bWJ6a0lNUU53SVJIQXA2LXVjWm45NUdzMlZUV1BZamxob2E1UUNqRDhhQ09uWlMzbWRDZ2syek54RDRFUTF2MV9OYUxLLTUyaHlLelJQc1g5OUNLNEVSUHVzSXhpeGpXQzNjUkhXeTE2WFBITlFIcXA5cTNsUEtfbHc0UnBxTFFEdVFtQQ?oc=5"
     },
     {
-      "title": "聯大再次通過決議　敦促美國終止封鎖古巴",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pRk9HQ1g0RFJ4c0dONGloM1hMWTBDTlVkVXJYS0ZMWnpteDE4dmFUNWV5aWhFZGE1YlRrQWhqTVBHUmE1QlFkTkRGaVFsZTd1cmE3bVN2OUpRQjhlT1HSAWNBVV95cUxNUkcxeF9HeHNHdG1jYWh5RHJhUEdRaDA1UkxlcjhlZW05VWtOeGZEMzVfZ1hjZ0g2RjRCRzVNWlFHLUtMR2h4ZDRUQUtBcWo3cXRTWG5laUx6MTV3VGJfRFA1M0k?oc=5"
+      "title": "石宏：特朗普還能繼續競選美國總統嗎？",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5aXJDTDUzbXVOWkdoLVM3RUZSeUdvaWtGblRxYmVHTjg4RFl4ZXVKYkFCdEtEMHpDY0F1MmEwYmRwemJyNUtxWnUyRHR6LV9yWGZkZHBmV0pZbER6VDlDTS1HNU4wZHpjaDB2WkRWOA?oc=5"
+    },
+    {
+      "title": "商務部：若歐盟對中國產品採歧視性限制 中方將採必要措施維權",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQS3EwYkZuNTZRNmpKVXRqZlNnZ3ZpR1RXRmd6ZS1FemNqOFlQWl9VaHJ6TF9RN1l4TzAtTjJKdV85bFR2YXFBWElzcVlZWDBGQUVJcjU2NVcxczJjSTFpX3N1SFI3T3Nibl9sVzhRUm9UYlZ1VTZ0UXVicWVxazAzdmRTOUVqbWQ5d2wxYXJiRDZFVkhWSlNnb0xUamFocERXSklabkVYeUk4QWRrTzJqR3JDTmNxOXl6SkxnRWZha2R1a0s2TXJkb2NidldYTWZLN25PS3RSVWJHYUNTYVpIejB5SjFab0FEYldLUGh2Z2Z6RTNwLVhqUUJmN0NfSDFSVlFMYmlqWHN1R3htRFQzS0ZyZktGZEVZbDU2elE3TldIZE91MVpTbXFGXzg1OGw0Y3Y4TlBNbklDTUctbWJLZTRUMXgwdFZ4QXhFcWw2bWVjenJocWM3dTZUT1Mzc0lKVmtvZ2lTVWtyMTRHcENyZ3o1ek1aQy0wODZYM0tsUGFmUTV0dWFfaXEyOTBTOGJvdXNwZkwyb3EtUGNoNnZKcW1tZHk?oc=5"
+    },
+    {
+      "title": "美財政官員在港會晤七美資大行 談美元角色及經濟安全",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQcnExSjJ4S05XcUxUcDZtczlaZUhXME5Fa2QxbWJSY3ZTWGNjTDFGR24yRG5wLTRuckxYSGdJM2gwVjR1bS1uUzNpSThsMDAxV2JYYUtaVlN3dnZ1bjFZYi1WZ1dtRGxmMzhfT0tRdUo3OWdmcXd4NnBzSThRYUxYWlNlTERCWEZ2M2N6LXQ1U2h3Ym1OV0Rlek5uV0R0emwzYmpCWlYxUG52dllCZmhRclNwRnkxQ2xuYmRjLUo0QXlVbFZkcnhSMzliSG90M1h1c0o3bHhQY2M3RTRIYlNQWEt4azJhV2t1WFM2VXpmNzJjQ2JXUnFVUEpJOUdPRDM5M3BldzdudTJ1MTBDdW5wT2JQYWZaVHctLVJReWZwbkE1bU5FR3E5QnFOamZ6ZXhUcGNJcEZxdGdVck1jZkFnNE5zMnNhMXNUMG1kNEpxU2RoSUFPSEZRZkh0MU1vbFFwYkdfQVJnQ08yeVlWSzY1U2d2WVF3RWMxUXlVZVhBbGY2TlJIUkdxWXBsU04?oc=5"
+    },
+    {
+      "title": "美國撤換五角大廈軍事規劃主管 另傳萬斯致函伊朗強硬派重啟談判",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNMlRxRVg1dVlrRXpTUkU2WGZabUpvZlk3ZnpmTm8tbURCM0h0amtMdFp6ZDJsaWN3cFdtT1l6bzhTMEpoN3oxQkNvR0ZXT1g3WnN2M1hJd3ZPNHNheVp3b0lsTnpocjhKMkNoanlHZ0VSTldjMllaaW9GQW0tbU8zdVZqaGxjSkoyMHJSMmpMQ3d5djFvdHhCVkVBLUx3ZFdPREdNdFpYaGFYd0hyc3M2N3pNSEFseHdnYVlGU1NrOEwxbXJURENKLTVOWjFNUm9HeF9FQlhmWjl2S0VvR1F1Q1VVdXA4SXVmME5mNmUyaVFLbHRuMm5kWWVEN3MxbVlNR2dfakozQXdIalk2bGxzWXNUTEM0Mlo1WkxjS2gycW81bzlmamVQUGFtUVlwazExMFdKMmhQUHJsSzY4MXdWNkttNXFXSkVjVHZfVXpJTUFOdE9wQWZJTlBFTG5BcnBXNDFiQUJuYTdIRmluQlRycVhBVU1kZm1lRDZrVVlRbi00RG9fS01FS2pxcDVTZ0xmR3VwaXJjUTZqZFhia3RxQ0hPOUFHOUV0bWxHV19KVjREdFExUElCaHp4QQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "道指升近百點收市 聯儲局維持利率不變",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Wb2VpZ3kwVm9LNTFQNE9pSGFEbDNmZEloR1NaTjZXM0pwSWVENm4wa0dhNHFvb3NBWERwa3JnRjN4MG15Z0x0TFJXeVBiVmxzdnhXQ3Vwa2ZfeHhPWmRtX3VIY1JRdlNhc3BtZnZIQQ?oc=5"
-    },
-    {
-      "title": "更新：聯儲局暫停加息後 標普500及納指連升三日",
+      "title": "美股｜微軟業績勝預期股價早段彈4% Alphabet績後瀉一成",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNNFk3bl9mVFdqb2lkY2o4OU8yY3RaS2RoOHlkNHQ5QU04SzRZbHozeWRFZ0ZqcXVlVGhlc1dJT2paX1Rob3htOHM4bWlwMkI0eXhVdzVGYjRSOWRIT2hpeFJZZmdFUnRHbjhGUzRhdkpqOWpTS0pyV3lMOUpzZDFvUS1UZ2ctSEJnZEpxUG1sOTZpb0pia0NxUll3VjJocmc3X280Y0Z3ckRQSXR0aEpHVEw0SDIxc1dZOTZPb0tOei1tVV9mVHUwcTZYN3J3YWpQbGpIUXgzdzE4YnUyZlN1QU5DQlNGZ0JYVzlhREoxTDRqZnFfOHdXcC1ycWZPUFJ4STAtYXdLM1N4OXVGN0FHTm1jTk5HQkdkejhFU1l4eHZFMXRxWkpkZklEYjlmU1BLek9xWkg5djFEOUVzS1VlM1J1MU9UNW44?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObHVsb1RwYzV4dUF4amR0YXU5MjBfV0ZibERKYUx2TDY5UlY2YnZNcGY3djRZMU5sSUttUmVjZjJsSi1zRW5OLWU0THg1OHd4SFJXNURuLVFHR0Q4ckFmRkxlSEpvX1N5NTlaekVROWo3T0c5WWt6VmdqUWxHOC00dGN1d1VNZTVlb1gyMVBWYWpuQ1lYbzNyNHhGTG8tWk9XeEdyOEE1YVdzeVY5azJtcE1yM3NoUldjSmVYTnVkUXE1by1fMkZHVE1vTnJaVE9BaFRid2I4bHNJNDd1NnNLM1JJV05rMEV3NXJxM1U4elF4OXEzT0lWTzJpS2ZfZUxlV2J2bE1uYkV4ZGduaGxMMllCNGVWVzVhU1NhWDJWbWtBbVAyQWZiTW5USGJVLWZfa2RZb0Z1a19LZU9jeWo5dTY2MFNEdw?oc=5"
     },
     {
-      "title": "美股三大指數連升第三日，聯儲局維持利率不變，稱通脹仍偏高",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekxqTGhQWnBWUDlfcHBDeUdsVXNoQVk5OGh4NXNlU3ZoQWRIS1JMWFVnMjdxWDhnWkdRV1hvTUQxTE9yQW9RdWp5ajNrR2xFemdIbGhqbUJEbks5eGJnTFJXYTBfN1pHVEhPWnhoLVBUUHFNYVVQSlk0T1BteF9BeHRnNUJBOHVLczVnMmdjbHQ3ME5yc2lSS1NFeVViajU1T09meDVlN2c?oc=5"
-    },
-    {
-      "title": "美股走勢丨道指收市升97點 SK海力士ADR飆逾13%",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQcWxpMUtWTU1TUG1fZDdMRk9iZVM4bGlfR3N0bG4yMUtYcHBaUDhhZC1CVW82SWdabHJ3OVo1ZDBvWDJlYU5jclB0Q1h3OUEyQkVNcnJJSklfcXdZOVg1dkxzLTBtb3BZemJyc3dERktkOUtwQ05CZERxbF9Sb3o3RXhOTUhiRjYtVW1nX1hHbnZXQWJYaXJ1MmowOWhBQVdVQ0lnWl9aSlNNbURwOWVBNjYyMUxJUC1RWi0wZEdSX0lBaXdKOFZYeXFvcGtwanItSWlXR1JMN05lY3F5T0VHanVFNWM1ekdydXRvdktHYk45ZEVpSFdMdmhqU3FmN0FsLW51SEdDamZCZnRPV1N1RTBXSzR5WWRNTjk3ejlneWRJbjFseGk5eFZ1NndoV1NkeVNTVmZhcXdBMXNUVFJYRHFn?oc=5"
-    },
-    {
-      "title": "北水操作｜北水掃貨5科技股 智譜吸金稱冠 中芯次之|香港經濟日報",
+      "title": "美股期貨丨Alphabet夜盤挫近一成 道指期貨升213點、納指期貨跌1.1%（不斷更新）",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQZE9FZ0JONXJTU0JWdVBibWp6cU8tRm8xWmxuZ0V2Tmh6LU5YMU1QTC0xMzk5VTcxaVNqREI1LThtOWtXTDNicjMtM2l6VHhJTjkxWkI3QkZkRG0zOGJJcmhoZWFiTWl2bVFFdElwMFpsNmJWVU5VM0lPa2Z2VFVaejhlM3hwZ3c2SE5SWXRaeDY3dWpITnI3NElxajdIYzA4ZGxyZ3U2NndfWG5UcmlJanBjWUVtQUdYZmRNM3VaNGwycUs1UU80RzFJZ08yMDdOZVpBLXNtX1FieWhhTWtHWG1JNzhkWXlhUGRnZ3V3OThtNDgxcmpGRFBIc1pLVlBhTjV0aE81dzFfQjBsdTBUeWtvOWpLN3NrUVlnY3BzNmlmTW0tcEJkVU93UnlKZ0JQQ1Nvb1g0YlU4T3hpRTNPZVNlbWZta21MV1VSSy1uQTBod1FHYVNpTzdpanVKbGpIanZEZHlnekhGdTg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxNSG1oOE5OeWFuXzVZdmR2QVNkOVlrQnpDb0tyZ3BHd3VIODhfdmpneF9CdGctdUF6Zm9lM3Vyd1lBTG4wX2RDajhrdF9MN016V3paUHJZeEZxNlAxRjNPNEdWenJLY1hscFRBU0J2X0xUMVMtOFBneUR4R1VGY3lNRE1qZjlMbGxoS1NIaVlwbkkzbnhGeWs1cW5mWnM0UXVTZmMzbUQyN1RSWkNUT1h2bmhjQzVYeS0ycFphV0VQWkpEWkdTSlJZelZjSzFxcm1BVThzR2daclJIY2M0V05VSzRfQTB6SFdUaXE0dDZ5eUxOY2xiMzBMWjFRSzc5OC1QVWpwOWVIOEdzSS1VeHpfamFibHNVWFIzak1HR1loQ0dkOHZ1UGlRX3g4MlViYklBNVU5TjVQMmxMZVdzMDVDdnA1T0JCc1FBa3hfbTlzWTJRWHE3aVdSVktaQ194bXY3NlczSHZmcVp5U00tUlBFV1U5OHBUNFdrSC1uaDVMTjFpbEZxUHA3eHEzdTZFLWRydHJXbUNxZWNESjVLWVJyUVQ0bGkxUTJzTmdnYmVMRG0wbHptdXYtMlE0ZEFWY1o2N0NSdlNuUEppQXhp?oc=5"
     },
     {
-      "title": "美股三連升 聯儲局維持利率不變",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnY3R2TzNha0prNGphc3FsZHVyc0VQeW9zbTB2TWg4OU9pX3czMWxWWWsxQk1XTm40MGwtVG1yZXYzUEVCS2ZBck5kSHljTUtiZEpsN29mRjZGVFRpQWJBSGw5UXY?oc=5"
+      "title": "聯儲局議息｜聯匯之父料再加息3次 港受「小傷害」好過美元脫鉤",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOamhJdGxOelhZbjhkNERfUmppM01ieFlIV0lnVE1BX3RKRlNSR2RCTzFIdDJwSXhPMk56dnlseFU4eDQycFp3UDNsdTVpeXpiWjdxSEF6LVVfVy1YTDdmWmdPYWhVelJNbUtnMFNobmlzY0Eyc3M3UEJ4R0lydXlsYm9kTm1RS3ppSjc1VjVGOUZ1UnZNVjFnZ05kRU1FcU0wVkItNXpPcndSQmpvWDgtYzlSRnlzYUtwZ1dJUndDbzVMRnE4TXNGS3kyamdDeGI5NU5NVEJNUmh4OUtFNVE5eWhPM1BWQlhPT2lpYmJkRk01M2FVTVJjQkZLN1VZQ0R4V2x6RFBTdklHT1l3OEVvdWxfa1NoSkVMN25rRmVRQWE3ZHdOWGs4a3dKZ2dLelQyOWdWVXdpX2Uyc3c1Y0lfSUxCYVZLU0NjOHFiWVRvXzM3TlhvZHpXeGdYc21VNnZIUHVVN0FuN3ZUZ2E5RmhjdUc5X2IzT09LWF9GcEVQRmZIbXRJZzBMWGRrQWRUdnNrY1B1cW9Xd2x1S1gzend6ZzZwaUh6bXJ4?oc=5"
+    },
+    {
+      "title": "經絡：聯儲局仍有加息機會 料更多買家轉投先P後H及定息計劃慳息",
+      "source": "香港商报",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nZGJTTk0yMXk1OUlvVFpjQS1ueWdOZW8wS2dQOExSUzJrcGRSdVN6eDNid1Z6WjRFQ2JGMGxRdkpnSlVKRTZxY1BzdjRLZEgxbFBWUGJVVlNfNzh5V3Fudk4ya0xJMFBoVUtfX21XZ1lTQi1nWmFRZTQ4bw?oc=5"
+    },
+    {
+      "title": "駿利亨德森指聯儲局進一步緊縮的可能性仍存在",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNRFk1MlNHZk9yVHdhNGJPdHRGZ0JlMDZUQ1NtQTlpSXFabXJiVjlyQ3hfZEFsT3NjMU5KRm5hdHBEdkVuZ3Zsb056b3N2Z2h2UThkZDNQanB2LTZKNWZZenpNYmt0OEViaHJobnNRbHdWYUVSSWFJUHBncjNrVGZWRjhSVUtZaGx0djJHZnRfSnhCQ1psTWJwaEJzZ2xsY0ZsVFh3bkF1YlRPaUN1YU5qX0xQMF8xcERRdzVVZS1LeDBYR2dMdGVNcTdhSTVWSG1ESGczQ3lXcXZMUXMtakFxMi1FU0dISWx6NjgzVXVRRE9hS1d1ekFSOFNrUWZla0ZkblRUYkwteFAyOTFuNTdyX2ZObzRWRkVsVzM1czB5TzNGcUpDbUhqN3dmR0dQX0s3MEppTFhhUlJoSUhkQ0tKUERXR0kxSW5kYVNHcWRpNA?oc=5"
+    },
+    {
+      "title": "【美國息口】聯儲局按兵不動 「新債王」岡拉克質疑「還在等甚麼」 指油價不跌12月須加息",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0pvWVphTUVUQjFYWl9sd2xqWGpTeE53eUszVTN3aG81cGpTVmo2SXVvd0FJOUh1VlRrWnJZanRibTFoM1F2R0tTOWpDam4teHhUdkFEb0pNQlFFY2kteTE2Um5uaHFKN3ZMN0d2ODZkSTg5cnFldU9ORThHUjB6S2c5NGQ3YzM5TTlnek96Zjh2blU?oc=5"
     }
   ],
   "events": {
@@ -84,28 +84,19 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 8,
-        "status_badge": "8 日後"
+        "days_left": 7,
+        "status_badge": "7 日後"
       }
     ],
     "stocks": [
-      {
-        "ticker": "GOOG",
-        "name": "Alphabet",
-        "type": "Q3 財報",
-        "date": "2026-10-28",
-        "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 0,
-        "status_badge": "今日"
-      },
       {
         "ticker": "NVDA",
         "name": "NVIDIA",
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 21,
-        "status_badge": "21 日後"
+        "days_left": 20,
+        "status_badge": "20 日後"
       }
     ]
   },
