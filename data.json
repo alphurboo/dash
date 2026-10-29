@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-28 16:15:23",
+  "updated_at": "2026-10-28 21:30:57",
   "gas": {
     "current_label": "10月28日 (現行油價)",
-    "current_price": "177.9",
+    "current_price": "174.9",
     "predict_label": "10月29日 (明日預測)",
     "predict_price": "174.9",
-    "trend": "↓ 明日預測跌 3.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "支持朝鮮融資網絡？華盛頓予以制裁",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQXzJ4Yk1JMkFqenQ4dTBvYy11YktCelBub0ljbEh6NS1xbTVoZXp3cWhMQzJ5TXFkM0hiSlVoMGxFZnVWNHVkSXN5QXNDM1lheFpQMUlLVHZIeWFGMVIxMkxaVlp5allhb01wV2c2cFp4bDViczRwaVA4SDRCcVpNRTl6Wm50di1yUlQwSktYSk9nOUlsNXFIVkxGTEZoekZQZlNDanBCbGtZWFUycDM0bWh3di1RZ0ZJRUdnclVJeHpRSGhzRlQwWVZjRFVhVmwtQ2V4U1ViTEFNck1HeTBUeEUyRXlDcEk2SHZpajBKdmdUQTYwUEx0OEpHSlVweHZqUFFSNkk1aG0xZThBaWJkT010X3Q?oc=5"
+      "title": "美國的反全球化民粹主義浪潮是否已見頂？",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmJlV0gxRXpXemQ2N21memhMMmo5YnBxYmpjb09xMFozM045bTJtNVRicEwtWHFfMDBIRWYxc0dkbGhCSXRYWW1YTHRvN2I0bno3amNTd2x1S0NOZUZkNW9TSG1xU0FzeU0tQTkzUjdhaWQwYng5blVxdXdQYjhXQnJJeHE?oc=5"
     },
     {
-      "title": "全球政府齊發防災儲糧水警告｜歐盟16國籲儲7日物資、美國末日堡壘計畫曝光、日本南海海槽地震威脅- 東張+",
-      "source": "myTV SUPER",
-      "link": "https://news.google.com/rss/articles/CBMiigVBVV95cUxQbDFiNlJVYkstNlJxMzVaRmpyaHRTeTU0MlFIbjZzeTI3MlJ1bkdnYU9IY0o2MkRhUWRyVTZGaEppeFhaRHVwTDNXQUZFaVotOE1ELW4xTlhhX3REZXoxSkNLbzRkbXRTSWpjdWdKa090V1lucmZlZXpmRjhsTEMtTlAwaEdtSWFzZ2VtdW1MMU83VnhvOUdjZVlUV2szZTBwVC1MRE5yWU92eE9zYkpmNmJUc1FaRVdLSFM4MnhpMFJrSV9KdFlFbU9KM09MMGxvMVV3eGc0dUo2Y0Jyd2tKNXV1S2drR1BBOVR5UkJ5WURTUHlLb21mRjJseXFCbHV1aWkzSTZRQ1dzbUNObTFqR28yc1VjZ1ZYc1lIYnNuQ2ZCS2VKTjB3a1pScFhNS0swWU1WVkxLSFo3c0F4QnJXSjg4YzRLRUN2Sk9Jekl5NnREV2lJdld4cVZobVVhamFLaFNsZjNoSkl4dEFDRG9uY1JjQ2dTQTRTbHdxNTlTOHIyWGt2WlpYTVpWd3k2NVN4cmMxN21vVEpXOEE3VldTZHlKM3lCMy1Vc1lsRVlJQnNGdkNvcXF0TUsxTXdDVV9uRDNtYk0ybGhEdjVzU3Y3V3FsZVktQjFRUHphY013OHVwQTg3TWpwaWtuN1VycFREdThfMzkzT0VWRnpTOW9KTmFpbkxhbjlaNXBfV0dQbkJmS0lBZ3NqUFlNbGNJYmRQeWFlWUVPOEFuV1JMZXBuSElUMVBZNG9GcnJHbUQ5OUFDXzVPQnBkdWFHVkRBNy1qa3lEbi1ILTBuQ3dMUnBVemNOOEM5bjhtZkU1dUxJNTNNb0xwcU1lMldadl9FTzFDdlZLc29tVWcwQQ?oc=5"
+      "title": "美國對伊朗的戰爭耗費逾470億美元 拖累川普總統和共和黨選情 | 信傳媒",
+      "source": "LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4TWpCX3BJUlN3a0dMN3NCbGxLUzhaT1JsLU1NVW9zUUJxRFdFS3RjNHotNEhKSFlSTmtJX3hrUFRHM0FvZklUelhveEFnUGlVWFgwS2F3?oc=5"
     },
     {
-      "title": "美國聯儲局維持利率不變",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4NkZ1alZMelZjU29KNHBHbzlyR3NOUWFsdkw0eGlOMGZsNkFNZnp0NnZ6bGVMVTRGdjJYY0hxNXBxd3A0UXQ0b3E4TWNNSXAxVzFHRnRGcFcyM03SAVtBVV95cUxQeDZGdWpWTHpWY1NvSjRwR285ckdzTlFhbHZMNHhpTjBmbDZBTWZ6dDZ2emxlTFU0RnYyWGNIcTVwcXdwNFF0NG9xOE1jTUlwMVcxR0Z0RnBXMjNN?oc=5"
-    },
-    {
-      "title": "川普選後打算再攻伊朗？傳白宮已通知波灣各國備戰",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPemNnU3lneHd5WlZub1Zydk9PVFFBdEJGeXJuMC1MYUc1NkFkOVlvbzVXTEJNSVBEQldlOXRkU0xaQlpDOVdtMnowMFFxS0pZR3E00gFYQVVfeXFMTkVlcU0xdzZ5aWRMakhOMTcyWndzeEdzVTN1SE4zR3NYZGlqSVB1MENlc0JQWDhWSkhZdmJ3d1ZWbnNPYkpXbkxiUE91Mlk3eHVtUWdURVotNg?oc=5"
-    },
-    {
-      "title": "要聞分析 - 姆巴佩辱華事件：毫無幽默感的國度把自己製成全球笑料",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOYjVaNGZtT3c5THQwVmRtU2t3b0NFc29CMUE0SEJ1amxLenN6Sl9INTZ5YmtaVzE5d2ZnSTNLV0VJVVpOUl94eVNfcGs1LURTSzY5YXN3STRWWXdYOGlxRkc1MUdBanZsaEdwVUYtdzRpVW04WEFXTjBMdS1xbGpZUmdYTnZ1cUE0VHRkbFYtOGZWMnNyeVNHX2ZqRWpzQk9WbE00eVhsbGcwbDk1OGoydTVyNHRLREx6ZFlhSVhOM0lIWV9EWEZFQzFwVHFKbkxBeG9kdURKOFc3cU0zYWt1cm8td0xQMjR6R0p1bnRXSFNuUGNWNGs3b1RYbXhDb1NqUHJDU1pLTFpCUVVyZFdkWWRVVUhyWHdoTWl5YXk0OFp4NkpmMFNJWVZwY1dEOHhwYnZyNmk3REhLbzRaLTNIa0FNazNwWEpmMUs0a0MyYUpqemVuaXphVWpBdDZuRWRuejVpSjdwRjRBeEdHUDB2VjdiNVNCZXFvaUNZYkE5T3dQN2ZGY1ZVMHVDb29qZmpTLXlaZkRXMzJSUkw2eS1EMXVMTXM4cDEwNVBEWWpiem8yTy1MWUtINk1BcjMybUdIYi03dEkteUktQQ?oc=5"
-    },
-    {
-      "title": "美國將三家中國基因組學公司列入強迫勞動實體清單 禁止進口產品",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPODdyRUtIcnU5MDQ5VDh5R1dQYVpBRklGQmNVZzRUak1uLU1tTURobndzOG12bVBiZVptdk1JXzJLaDIySWpNTzNTSU5mcmFpa1FqdlBpS2RuN3Ffb3U0N2tSalZuSldIUTFpeHViZ21qUTAyLXpIWGxYdDg1YTNmbU51S0xOLUhTdWQtTGpSTjJQeUNhZ0VFb1lWQWdXYTJLSXhOeWxFX0pLZlBMbWpkR2NVaEhzMUc2SWlmVlhPdFZLYTFmZmg0VDY0YXFoQm5QdnVWYjljVUJxSkNQUFRnSmhlaUVBbnR4TkpaU0pFamdOWkZpcjU1cUViNHNxaUVheUhJeWhRUGUtRU0wMk5odjNKa3BNWG1aZmxDMzk5b290MHJfV1R4ejlYYUI1ZkZJODFvZlNWNUx3UEhtbFJRWERpZVJIdlB4UXdzZ09DSW9rQzV2eTFqR1RJZWlyOTNndE5ub3lpQ0VsaXQzSUowY2xId3Y2bHEzN0FaUy1UajA5U19ZQUtHREtoU2pBOGtyRVA1MFpNSmpsOVBadVAwTDlRbUNuaENpX0tEVEpaQWhla0ZjeXNDbGY1RlY?oc=5"
-    },
-    {
-      "title": "國際｜新疆精河縣4.2級地震 消防派10人先遣隊奔赴震央",
+      "title": "國際｜美國號郵輪將沉沒 成全球最大人工魚礁",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNMlFweWY0MTRnQXFrSC01N0hZZG1feUNBc1dWaXRKRmswaVBoc29HSHo5V1lyby1Nc3o4dkVMOVhPcTVpNlVwaEw1QnhGajBWVzlNVHhCQlBETHpHZjE2MG96dDgzQTd1UEpsODVlZHNMS0h6MGhTbE1uTy15VWl3N2l4bENqMnNVZVpqUGVpM3VhUTRCa2dINno0ZERETVZKbzJSTC1JajlTd0hRWkxhMXVVVmw5NVp2TVowTEQ0MER1NGotbmt4SzlYQTFkOEFLNmctSGxlQUlTRmhGc0lZSVBsNkFtQlhfaDE3M1c4QWFNcVJwREJmZ0VXcV9RcnNnX1IwVXhxMFkzQU5BVXFxVmZ0aVlUclBXUVF4TXRieFV0Z19Sb0hNbzZLb2ZSZF81YTdpQkJiemVGNS1lWkZoSzdaa19iemRITGdidXZRcnpOd0ZtMkV4WVZsZGNsV2xJdTc0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNaWE5UjJ0cjdZZEtGc29FRE5jZGlEN0ZVMktQU1RPMURKWFREd0t4djc0VmVXLUtFeC1PRldxaURYYnR6MFp5RG1vME81UGtoVnZJSjQ2V2VsbUxGNW8tVkplemlPZ0RUQUtyNmVFcmhKX056Z0JaQjhOLWszSDNKb3VEYVZFaXg3VGpGQWhmeDFFRDlKVWZ5QU5XZ0puQXJ1MWluRGZ3Ry1aa1dJd0RkakxzTTBZeHVMdE9rWmF4dFc0RjV2eGlQNjF3QjhTNHViNi1wY2dkQjZFdkstbHd2Nld5VjZ4MXg4bmpMWGkyUmVaN0YydWpkcFo2ZGtnMFVsYnA1bW1ENExOaGhDcnoyMGpXeFIwbFQwSHJZRzVfSHNXT043Sl9QUEJwV2RtQ2JEUW5KMi05Ql9OcFBHUTJFNGFUOGM?oc=5"
+    },
+    {
+      "title": "美國列中國華大系3企業入實體清單 稱涉強迫勞動",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQblVRcXcyR1ZERGctaU1LempTdUVfa2ZiNGlYbDMwZFNGSm5UdkRxcmE0Q2FON1Y1dGNPbGVaRVZkeEhOMWllQlZSOGplOF9adWhCSW9FbERYVU8zZTVvNFltemVpTVQyOXdaRHJ0WWxqQmN6MXFMVzgxMGJaYmFqdVhlaGVTTkhPM2trM2ctdkkxb3Q5MV8wTVh3T3RFdjhjdVZpMzBHNTRzWXBHd1JXaEJ6TV9IWTJUSW8wZVVvVkJOeEh4dEdwdFJib0pnNXU3MDFwVzhmbFpSZlF1WFhqdzVyU0VKLUUxdGlZeF9tckItS0RfZzBqLTFfWXlMVlo3ajVGbjVmeDFxLUUzVkt3UC1LMk1TOHhKWEdjWUhNTDluNW9qbjFyM3VXWnY4SFNFQUw1T3pwS3Atdi1ENHVwNi05MnlQNnVxOVNvZ2pSWk9URHU4RW5Dajd6THItQnZE?oc=5"
+    },
+    {
+      "title": "社論：美以選舉難息伊朗烽火 中東勢力平衡恐大兜亂",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxON0FFQzJWcUQwSzJEQkU0T1BSNUFXYThJM3lTay1QbEsta2NpdHNVaVJScEJGdW9aUWhrUjFVUjIxRHpFV0tNRmZwbXI5ekEzeU9VX01HT3FpS3R5dXB0M1ljZmtHd2MzWGhnYXdZNUJ5RjR0aXc1TE50bkUyTjJPazVzb09qUFdndXFKUWZPZm5OdlV0WWRXaGdtMFd2ejhFMWU3VnRHOGFVdlA5MTAwUWwtQmhVRlotbXBScVRYZWNmNU8zYkdzMWVRVDYySlpqRUh5MDdkTUpCTVp3N0ltS0pmQUlxdURBS3FCS2lzdFNxSkE4dGpRRThmVVlTMlRQNTc0aXlfaGpLem8tSTlVNmVaa2stbGtUSWJFcl9IQ1FxTm5QaFlLUUIxTlN5azgtck9VeGNFY3F6SkxIWG1BUzZNTUkxTjAyVUw5ZnpXcmx4dDI3bkhwSEQ2bFFxVDFjMVRLQ1UzZWtQZw?oc=5"
+    },
+    {
+      "title": "美國期中選舉倒數6天 特朗普奧巴馬分頭助選",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNOUplNmY5TmVGd2E2OW5xU3JxbnZuSjA5TFVRV0RCQWQydmcwM0FLMURNcnJfQXZCSXl4LUcxLV9teXlweWdFZm5pWHFhRXA1dHIzUXoyVzZCRE5QdHZGR3NBQW9nSU9FSmJxVkwxS0pGRm1BX3Iwd3VRcVRSRFJqRlhGTF9sOUVFcHhFU0xnUGs0ZzZCTU1KUnNmTVNjZ3ZZOXBVZVEtVmstbVE1ZVlHV1NlcWR4VkZkd2hSWnV6bEZnLUgzcGsyU3ctc000T29IaGZLekwyQ1lKNUR2aFpxenlGZmJvd2Jxd25KVXFUV09weUxvbkJMMDlxQjRYWjhPQW9iY1NPOVNzTUZjazd0eGFud25DVW4xZVZSVEo1S0tyX0JfbVd2MHBaNmhJdVRLV1JRcTgyblA4cmdvN3ZjMnd2b3BYZw?oc=5"
+    },
+    {
+      "title": "聯大再次通過決議　敦促美國終止封鎖古巴",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pRk9HQ1g0RFJ4c0dONGloM1hMWTBDTlVkVXJYS0ZMWnpteDE4dmFUNWV5aWhFZGE1YlRrQWhqTVBHUmE1QlFkTkRGaVFsZTd1cmE3bVN2OUpRQjhlT1HSAWNBVV95cUxNUkcxeF9HeHNHdG1jYWh5RHJhUEdRaDA1UkxlcjhlZW05VWtOeGZEMzVfZ1hjZ0g2RjRCRzVNWlFHLUtMR2h4ZDRUQUtBcWo3cXRTWG5laUx6MTV3VGJfRFA1M0k?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "更新：聯儲局議息結果公布前 美股盤中上升",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPR1NpT2R0RmhBRVJxSFQxUm0wQl9NdlZqTkxxek9feW45c1lPRjhoN18yRDdRaGN0VGlNTnE3YktfcDRtYWk5amVpZWZGRmpZSGt2RE0xLWtVNXRQQkZqYXlYSkR5b1dLOEt2Tkd5NDVVektPX1Yza1J2S1pUSWxka2ZhWTVqZThRV1hLVTNvMlJFWGF1WWtrS0pCRndKS1BZaVFsajM1U1JLeThDWnhON0xCZFRTRUdqdHo3LVRoMGVPMGNHa0JYWnE0UVVfY2E1aXJraGExdzdxVWFsRWZfaFQwalpxMzJDZXFGZTdsN05GUnJib0ZYUFBvTnlBZEZmSDd4OERRVEpHZWwyWVVOOHVFWi1YTXQwQWVLQXJkcXU0V3VlV1R3U0R0ak1fd2RSTkE5ejVldVM?oc=5"
-    },
-    {
-      "title": "聯儲局以10票贊成2票反對 維持利率不變",
+      "title": "道指升近百點收市 聯儲局維持利率不變",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKdWdudWhLTWhXT1ZOSDNBV1QyMHpXRHhJRV8wcGdPYTFGU09ZbUdrQ3NORDJmYXJ5Qnc5Sno2QkdqWkNpRlBCYW8teE5DeXFRNU9YMWozS0lrZmxJNGZQMVlfYTVSaHhNeUxvcFhsRQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Wb2VpZ3kwVm9LNTFQNE9pSGFEbDNmZEloR1NaTjZXM0pwSWVENm4wa0dhNHFvb3NBWERwa3JnRjN4MG15Z0x0TFJXeVBiVmxzdnhXQ3Vwa2ZfeHhPWmRtX3VIY1JRdlNhc3BtZnZIQQ?oc=5"
     },
     {
-      "title": "美股走勢丨議息後道指升幅收窄 現貨金挫0.65%",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMVp2SkpFZ0F1S3Z3UU1rNWF0djBaWXZiMHJ3elVMZEtHSFJpUnZ3dnZGeFk3ZzhvUDJ2TjF6bEx2cXZoeXBBcnU3QzFfSlptbWNCYlVnTHdxRWRMQmdYMkItQ2Y5ODV6U0VFY1Q4eXpqRUZMZXlwQ3BoeFltQ2x5eVhVT1JlR1Y4Ql9memU1REJ4NWt5Yzk5bVV1c2tRYmRCSUlzbnFDbGliSTBZR3FhM3BCbXp2bDVOTlktT3FqZHRONkNfWXZOVGFGNGd3ZFBSaGlKVWJrdk5vWHFLc0I3LWdaNzkyclJ3T1pjc1poeFQxTlJrUGFfTHZfUnA0X3VtMUV0UnNvVUZqZHZsb2dDUVFnYVdSYVpjb2NIeDUyeGVqR3Nvel9hMmtpd1h0aTZISVdRTFVvWmFyZ3hkaGppRG55OGExZkxRWm04VVgwVnMtRUU?oc=5"
+      "title": "更新：聯儲局暫停加息後 標普500及納指連升三日",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNNFk3bl9mVFdqb2lkY2o4OU8yY3RaS2RoOHlkNHQ5QU04SzRZbHozeWRFZ0ZqcXVlVGhlc1dJT2paX1Rob3htOHM4bWlwMkI0eXhVdzVGYjRSOWRIT2hpeFJZZmdFUnRHbjhGUzRhdkpqOWpTS0pyV3lMOUpzZDFvUS1UZ2ctSEJnZEpxUG1sOTZpb0pia0NxUll3VjJocmc3X280Y0Z3ckRQSXR0aEpHVEw0SDIxc1dZOTZPb0tOei1tVV9mVHUwcTZYN3J3YWpQbGpIUXgzdzE4YnUyZlN1QU5DQlNGZ0JYVzlhREoxTDRqZnFfOHdXcC1ycWZPUFJ4STAtYXdLM1N4OXVGN0FHTm1jTk5HQkdkejhFU1l4eHZFMXRxWkpkZklEYjlmU1BLek9xWkg5djFEOUVzS1VlM1J1MU9UNW44?oc=5"
     },
     {
-      "title": "美股收盤 | 美股三大指數全線向上，納指收市升0.2%",
+      "title": "美股三大指數連升第三日，聯儲局維持利率不變，稱通脹仍偏高",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTRrYnBQT2NjaUR4cE5GY0cxS3djdFJ4WGlHaTBCcVFOaXJIX3JGbWcwWExKcEJjU3ZDX25wQmFBME15Zmtva1RrWkV1WVlBSGtFOWF2ejh1bFVPS0dFaXJCblJxUGRHTk1jenFXeUxHY3JBT1ZLelFHdmhkclluV0pWalloeHBZc2x2ZkpvSXk3U2NobkQ5bm1xakg1RlFJ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekxqTGhQWnBWUDlfcHBDeUdsVXNoQVk5OGh4NXNlU3ZoQWRIS1JMWFVnMjdxWDhnWkdRV1hvTUQxTE9yQW9RdWp5ajNrR2xFemdIbGhqbUJEbks5eGJnTFJXYTBfN1pHVEhPWnhoLVBUUHFNYVVQSlk0T1BteF9BeHRnNUJBOHVLczVnMmdjbHQ3ME5yc2lSS1NFeVViajU1T09meDVlN2c?oc=5"
     },
     {
-      "title": "市場預測顯示聯儲局12月將加息，而聯儲局今日料將暫停行動。",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3d5NFh6NDJ3MDAyQmNDNnZlemp1ZTlfNjlKMFJqc3A5cXplYWFYclEwUHN6R3NBNFRqZnQ1ZnpVMlBPYjU2QTF4NVFWY1FYVGVxQ0RtU2UwbVdkMGppZHcyN040OWNhNWprSEFUMGFvdDFpNnp0RVZyWUtDM3RaZ3NKVkM1T0VRdy1sejNPZDVzYXZmRW1sLW81ZV9KWndiNmhVTi1mR3hDbUpzRVlqZUlRbDFBcEE?oc=5"
+      "title": "美股走勢丨道指收市升97點 SK海力士ADR飆逾13%",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQcWxpMUtWTU1TUG1fZDdMRk9iZVM4bGlfR3N0bG4yMUtYcHBaUDhhZC1CVW82SWdabHJ3OVo1ZDBvWDJlYU5jclB0Q1h3OUEyQkVNcnJJSklfcXdZOVg1dkxzLTBtb3BZemJyc3dERktkOUtwQ05CZERxbF9Sb3o3RXhOTUhiRjYtVW1nX1hHbnZXQWJYaXJ1MmowOWhBQVdVQ0lnWl9aSlNNbURwOWVBNjYyMUxJUC1RWi0wZEdSX0lBaXdKOFZYeXFvcGtwanItSWlXR1JMN05lY3F5T0VHanVFNWM1ekdydXRvdktHYk45ZEVpSFdMdmhqU3FmN0FsLW51SEdDamZCZnRPV1N1RTBXSzR5WWRNTjk3ejlneWRJbjFseGk5eFZ1NndoV1NkeVNTVmZhcXdBMXNUVFJYRHFn?oc=5"
     },
     {
-      "title": "華爾街估國會易控權 也難救美債 民主共和兩黨皆「大花筒」 財赤恐難逆轉|香港經濟日報",
+      "title": "北水操作｜北水掃貨5科技股 智譜吸金稱冠 中芯次之|香港經濟日報",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNMnJZQkNQYmU3eVdoOXd2Qm1SX1pSWUtCWVpGaGk1bnkxMWZwblhjMXVURkxuZTRHb3dCMC14QUZFa1dGNGxuQzh5emMzSTRBNHE0NUtLN1Fpd0xFczIxZkotaDJTU2xYWnpPWi1BaEtGeWFubVBNYWRXbi1GY3JkYzJwMUFEZkFRRl9vZHNZMmdEQlhWQkY2aUVjV2RxV0RuejZ5UXR4d09sMUZveFF0SG5CWWJKT053NFI3MWNtOGVaVEc5VURyeWRRYkxvX0swQzBMZy1YX2NLVU9yY0ZaOFRqaUt1blNSRmY3Zk1EZXFmTmRNQjNRY2tNTTBZMnQtUGVaUURfRWhTR3ZSeGlQbnprUFZVM2Qtd3d6SmFzU1k4blNuY2pLSg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQZE9FZ0JONXJTU0JWdVBibWp6cU8tRm8xWmxuZ0V2Tmh6LU5YMU1QTC0xMzk5VTcxaVNqREI1LThtOWtXTDNicjMtM2l6VHhJTjkxWkI3QkZkRG0zOGJJcmhoZWFiTWl2bVFFdElwMFpsNmJWVU5VM0lPa2Z2VFVaejhlM3hwZ3c2SE5SWXRaeDY3dWpITnI3NElxajdIYzA4ZGxyZ3U2NndfWG5UcmlJanBjWUVtQUdYZmRNM3VaNGwycUs1UU80RzFJZ08yMDdOZVpBLXNtX1FieWhhTWtHWG1JNzhkWXlhUGRnZ3V3OThtNDgxcmpGRFBIc1pLVlBhTjV0aE81dzFfQjBsdTBUeWtvOWpLN3NrUVlnY3BzNmlmTW0tcEJkVU93UnlKZ0JQQ1Nvb1g0YlU4T3hpRTNPZVNlbWZta21MV1VSSy1uQTBod1FHYVNpTzdpanVKbGpIanZEZHlnekhGdTg?oc=5"
+    },
+    {
+      "title": "美股三連升 聯儲局維持利率不變",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnY3R2TzNha0prNGphc3FsZHVyc0VQeW9zbTB2TWg4OU9pX3czMWxWWWsxQk1XTm40MGwtVG1yZXYzUEVCS2ZBck5kSHljTUtiZEpsN29mRjZGVFRpQWJBSGw5UXY?oc=5"
     }
   ],
   "events": {
