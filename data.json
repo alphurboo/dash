@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-31 07:15:22",
+  "updated_at": "2026-10-31 16:15:23",
   "gas": {
     "current_label": "10月31日 (現行油價)",
     "current_price": "173.9",
     "predict_label": "11月1日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "177.9",
+    "trend": "↑ 明日預測升 4.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
     {
-      "title": "加拿大總理接受DW專訪：我們過度依賴美國",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPcVNUMVF4Qm9keGFxT2ZYV1NqT19yel9xVGF4MzdTaUU5aGp0WlgwSmtRQUZtRmVkVkJkNlQ5dW9ESEFpXzZlRGJqYmQ1X091aHV1LVh6aWFMNG00Qlo4bXhTbmN0LWdmLUdFTkhOYWpiRUI5M3NuX2doV2VQY2dpcTR1b1ZZcEJjeU9pd1hQbXNUVmZ4eGJSa2hKbEdLU3pISWFSenpFMkJQNXMzdGJ2dGxuaHgwRE93UWl5MjFXa2pMSUd1QVhHYjJTb204cWxVSURjSWJndHZaTWVwQ1NuLVhPUW04RmtXb0xqSEozZ1ZPUTlxaHRIdEtyM2YtcVBOaFZsSXZUcFpDVklwbVNIb3lkck9MNm1jTGZTZEhR0gGeAkFVX3lxTE9xU1QxUXhCb2R4YXFPZlhXU2pPX3J6X3FUYXgzN1NpRTloanRaWDBKa1FBRm1GZWRWQmQ2VDl1b0RIQWlfNmVEYmpiZDVfT3VodXUtWHppYUw0bTRCWjhteFNuY3QtZ2YtR0VOSE5hamJFQjkzc25fZ2hXZVBjZ2lxNHVvVllwQmN5T2l3WFBtc1RWZnh4YlJraEpsR0tTekhJYVJ6ekUyQlA1czN0YnZ0bG5oeDBET3dRaXkyMVdrakxJR3VBWEdiMlNvbThxbFVJRGNJYmd0dlpNZXBDU24tWE9RbThGa1dvTGpISjNnVk9ROXFodEh0S3IzZi1xUE5oVmxJdlRwWkNWSXBtU0hveWRyT0w2bWNMZlNkSFE?oc=5"
+      "title": "俄烏局部人道停火俄占城鎮居民：靠吃草活命| 國際焦點| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Yb0RBOGRPVC1RcGxTTUZFR0pxS3FJUVN6SGN2aS1xcXFNbERUb1BRYmplMHBOYjNIUTlzbjBzQ1ZLQ0ZJTklvR3VJT3EwN1hR?oc=5"
     },
     {
-      "title": "墨西哥外交部：美國州政府不能單方面改變墨美邊界",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnME9FT29pZWdsUFF5ZFg4Q09wZW5MaGdQTFNZVFJBU0dnalp1NVZaQld2YzJ0RnBwZWJTbU5NUUpGQVd3MmRZcjVVY3ZJY1diWGRBQTVTUFdWTGUtYlljclJDRENTUFpOSkJ5dHl2MA?oc=5"
-    },
-    {
-      "title": "俄烏戰爭｜美批准向烏售500枚愛國者導彈 俄烏聯手撤走奧列什基被困居民",
+      "title": "俄烏戰爭｜奧列什基居民已撤離 澤連斯基抵土耳其晤埃爾多安",
       "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQSUlYNW5jTUdfc2xlRGtWd0FVdVJTTGgxNFhKTGdOdVVRQlBXOTdzUmpMUGo2SDBuRmNYNENpdDd5endNMDRSb0t0YUlIRS1qMGVvNjEyTVRzanZuSmRiUjFpQzB5eWp5YzMydU44b3JVOGR3bTNqSGc1ODZWeldtdWVuTVRLS2xyb0ZCaDNQLUhqa3ZqNmwycFRLWjhBNGpvSDlpZExtVHc1Y2RueExzNE9lTDNFbk81OE5WZmZmLV91aE9Uc1pVZElSOFMtME5tR1ROVkRQMndQMllDTU5malhDekdqbU1lX0tEQS1ZQjFCSnc2anhaOGtvQUt2eGw1SXk1RWNQa241Q2NkcnJZSHhmNk8yLUpYZW54T3IzVnVZWTNkV3lIaUVsRXJtc09kc1lkUmQtS0MzOTAxY2hWSFdLZFlJVGg2cDBKa2lzSnRaWk1aWmg3MXhfLWZNdlhHdXRSX0ZTYXZoZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOVExnQzhmb3FNdDJXdHJMMUNLX19IVVVLR3hJSzZuVFJlT3lDYmNEOE9rTGUxNWUtTUUtOGJCd2sydTZ4M25nVUMwYU9hQ1lGUFpUUjlwcEhSdHlxd0Q3dFVoTkNyNVNPc08xQTE0emxsMjRSM3pCSGdmaU5Nb3NOWFVsb05JaHRtVlpoSWExOGNraXN4N1ZmXzF3UlFRaWlybVhDQ1o3ZXExOWRIVzQzcWZoT2dzT3VtUU00U3M5MFJXZEw4Wl8zamZKdWxLTmFBYlQ2V3ZQUTZ0Z3lxdFZWNG1jLXM3RC1NNWF0YWdHaUxma2ZseUZNSzNwRmEyNWpmZEhDTjVjbUZxSkJnWlNxenpyRFNzWDVTdHh0X0gtanRzZGRkZnY1YW11aS1SQkdGZEFBRFM0WVRKU1l5OVBxVk1ZRlFSeFA2WUpVaWxiaTFFRFp4YjR4TFVkREhodDBWdVNKb3VvSDh4QQ?oc=5"
     },
     {
-      "title": "美國以國安為由 計畫禁止中國電信企業直接接入美國電話號碼",
+      "title": "四方安全對話外長聯合聲明 未點名劍指中國經濟政策",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQVUdfdkp0b3laMUc2ZWpmY0NfVUI4RjFuWlNfV3BsQks2Yk5XX2hJUVZCS3h0cUJBY1FhOWR5QWxpRGVtVUIwakcyUWdKbWJhQk9DYkJWUzcxai1RYXJVMGlnal9tQUlkY01hT3gxcjNpRHd5aXJmeG56cnk4VFQzbVNKTmJWLVdWU0cxSWJQWnN0cDJxVXRoeUVNYnVPSFZYbUdrRDFPNTFCa0hmZHNWTTlxV3ZBOVF0emMzRUxqNUxqN0x5NXRIRzQzZzBwR1BfQjlLcEZtdmZNMzIxei1IZWRNUkoxRkVJUUlzc0lqRm1Ud2JRdm5YWUlsX0xfaEs0ek9UUGJPQkF0Rm8wUGVab2hrSVlGdW5VU09RVng0VVJ2ck1fN2FNSVk5bjBjSjNvaDNjaEFRLUhlODBsTjlMX2diaEdHUXpxc1haVFZjQWZhbVYwNzFic3FRZFpkWE1ucXhBOUJRa2QyeGk0V2I2S2xIckNMMURYX1Y2MFRWTHppVjFQMWQyNG9abXU2MzdLZDBYLUZlRmR3VHdsQlU4M0dLeU8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOQ2hrYjVwT2ZndnRnTlZzd1N6cWNjVURtQ3RPYUVFQ05nNzlGZUtfU3FReXpaQXlteFIxTXpUZy1JS3NzVUtYNWJ5eXowQWxsNUJyNmpqRzhHQ0g5Um5NUmZBS2hYWTBhc3FKalpaUTZWMzBTeUV6WU9JaDduUWRNbzN0NmtnTC05a0p5WmdWblFKMjhyNGR6cTQtX2xha3k4clhnZHdWV0U0bS1VUkJ1M1VCa0dVVkZVbkhRcGtDc01aVVhYbEJ3a08zZ3lRY2M0cWVlNTJvaC1UYjIwZ3FENnM5MGlPUy04SzhTMU9SOWp6M0tSN29oRFNVUlFVczlzcWlaVDZoVFlkQzlpcXM3YjI5Y0lzRVdOREdzQ1AyX3R6bklPNG5jOVdGVUxrbU9xNzNQX2pFWmk3cE40VlRPNjBxbEpORU1VZTZ0cHl0Y2EzVnlQTVE3V2swTXJtazZxcm9waGNadVNBYlpoSzdra013Z2s?oc=5"
     },
     {
-      "title": "美國加州費爾菲爾德市商場發生槍擊 1死6傷",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ja1dsOUQ0V2NoZkM1Q2tiNTRHbDFybTRYODhxUzJHU0hzMS1SUUpXczRHRDVEV1U5NnVFWHJMOGZ5NEVQTzBnRGNtcUl4d3hyZzhzcXkwUXJvLTkwblHSAWNBVV95cUxOcmpRLWR5a25yTnUyb1QxbThVMW9sekRHTjlwRHlDb3FCUlZvN28wM3JJZHZNc1hpX2JMNk5QanlCNENRTnhCcWxvT0RxYkVXUllsTmZYTWt4LXpyUFBMQ2VMWlk?oc=5"
-    },
-    {
-      "title": "〈分析〉川普暫緩機器人關稅 180天談判能解美國製造困局?",
+      "title": "國際｜保時捷聯乘La Marzocco推911主題咖啡機 每款限量911部售5.08萬元",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNUXFnNjlRcFlCTmx1aEh1WVlQQk9PX3JJZFA3Wm96TXBPWEMwUUV3V3pURER4N25hMVVHN0p5eXp1M1p0TjBORTMwZ1ZScmdINXhvTWgtTlNmWERBYVlKRXZKX0h4QUZ5dlZWYTFtNXpyR194eGtCZnZwUmhOdktXSXFyd2ZtcUNfaE5CVWplQklhOEkyNHdHY09qeHFrVFNiTVZxR3Y3VkxhT2N3OFMzR0ozZDZKVncydC14QmsyZW9UVzRIYW9DS0hzUUFPXzY0MGxDeWYyLXBMTm1ISFhHZ2NKRlR5TWVWYUE0V1phRW1vOEUxMDdQcDJNZXFNRzltS0lPdkNxelM1WklmTHgxVG1BQXJPbVhFd2lKUmdBbEpBQ3AyR25tcmltc0Jac0ptN0N3Y0M4WUY1aDFjUm9sc2ZyWU12dy1LUmpZaXhEUXdGMUkwaXUyeG9YZk9BYmRjQmxrZHBJZFprSEZs?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOcFJlOTdRM1Z6THdKVm1xdkFLRzVPQnNEMGF4WWxLNFViWlNQdGJZMTRfQ1hsbWJKeFEycld0aEZFX1g0anB4V0NyTndkdmdkLVhWMzRnZm1SSlZSdFptWnNDQ1o3YTBkekFHaE5qSGhNczg3TEVJd3NHTldaVkgzSy1qeGFmZDJXS1pBVVB6N1k3U1UybDRHMV95aDBQeUNSR0Y2Zkt1ZV9rYXIwUmVoWHYtdURVMkNBUDU2RFNWX2FyRWdJa29vb1RhTjZXcE9ob19iWmFzV3JRb05lNnpmd01qZmd2T3hiWl9KUU5IWmxtRWlIbTlyZlJsYmxFcnpCZkk0dHVCZnFEVlpwRzNkOE9HUXlRTU11LWZxNUFtTTVvVmtsUDQ5R1hqUGVoOUlPN0tlWDFwRFd5ZVpnSms3VFhYYUxnVHZYMDJTRmxWNE15X3Fvb1pqVlpLYjZocjBRdko1QzQ3WExlZ3dGUXFsSFlseUZ1emM2?oc=5"
     },
     {
-      "title": "尖沙咀龍堡國際自助餐雙11優惠！低至$111/位歎雪花蟹爪/凍熟蝦/香茅烤魚長者第二位加$11、聖誕節買1送1",
+      "title": "美加貿易僵局有待突破 卡尼：寧等到換美國總統再談",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWUhKeC1CZUJNb2xKMk8ySzhkRXhMUWl3Y2xNNkFONUpGOXpZRTN4cERRMmZPdjdXVTFJbmhYVTNraGhrTUVicGJvRlVsQXhLdVppZmNyQUdRX2V0MzVyZ2JFczNROVdVSGdFZg?oc=5"
+    },
+    {
+      "title": "首位美籍教宗參與美國中選 良十四世郵寄投票創先河",
       "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMitARBVV95cUxOS3BoejhqWkQtVzFGRXFjbEFRVG5IWllqLWp6X2Z2MWtlUWNUcjVTR1VYSE5kYjRHYk1kTnBJYTRhQ3FCdjJlY2xjcTJlVUtkcG5ZSl80RWZ1bzlIek1OX21MMVYxcFpPVS1KdnkzcjJiTFJ4TXpSVl85cDBnMnNYQnktN2wtdHZqRG82ck5palAwRnVBZVlrc2ZvSUdpUzFyd1dqVGk5clYzQm1Sc2I5NmdKc2FiOHZtTVc3T195MFRZME0telRpN1Nza1k0Skw2cUdFb2tOOGRaOXphRW1NeURpSVQwVXE0ZFlXcWJoX3VtOXVYcEtTWUNqSVVETkJpaVlXNnpMY2F6ZkFYZEMybld1WHJzTnFTYnFNUGZWZk5NeG90LW41WDRzamFCeFpjTDl1Q2pGVkNVRkZiQ1F4REJVQU1OY1lDM2tNdmVyWW9sbWloc25hdzNZSktlV0xwRHBISGlMc0theHZueFhHdnRRNDJVMGcwdTlOcjB3bk1nVEFlXzdmd0d5dXdKdUw1MWJ4QVdNU3lmdXB3MUNGcU5Za25jWG1UbzlMblJ6Q1RDVVV2RTBoX0RIZU91SjBiSXQzYTB3VGpOdXJLdElYQUtTcHhpN2lSN2NoQTlCNEMxYU9GcVY2M2tiaGJJLUZFZmZiOW13clA3dF9ySmpkTVF3aHR0eFNBakJRREw0QXRZa3RXUXA2bEt6cGw3LWlaT0dRaVd3dXRnclJGc2NrcmZELWg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNUlJEQVFOOFdHd0FXRWlOa0FnOGp4RTBwd2Z3bEk5MnhYQUFTUWVlTGUtZ2hkRnZhVUtuVWZQRnRncmIta0o3a1hUM1Fudm41a3V5MEtTLVZhNW5VcmxNSVlYMUVfZzlvOWduQzJ0YTBYY2ZyYk9wSkdkRG1SQjF3dGd0aloyam9Rbk8tMHRRRXRvM2xoRmc0Y3ZERG1relpPNkpFWTVFTEEtUk8tOGR4NDlDRldBWVhfOEcxOVJ2ZDhQcEM4T081R3hmbENPZm9qcnNYajZwNlJyOUVFTWxJajNFWG5WR1FrRlQtem9SNTQwWDdyR2pnWlRYc0d4M3ZPOU96d1oxQVdpSzlfYVZlenlIOUk0R0ljYjRqaVdyLWx0dTNJMHNXRVExOVo2U0F0TlBvNk9vN0pXblpsdkd2TF92WTJNT2tQdE91QkhWSDlPREN2cTNhdWZyTGpHb0NuR0NDb1ZOelpvM2NJY1dqOEhicWlZOTdobWM4?oc=5"
+    },
+    {
+      "title": "兩名中國公民因對美國海軍進行間諜活動被判兩年半監禁加三年監外看管",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNajZwR3ExSzZheEZIckRhRV9ib0lKdjZ0WV9OOHNHMHlQLXEtUTduenVfMVJZMXJTbzFsYzJTVW5YNkJfT2NvTmpEVnFfdHJNVVdpRDNPUG5Ec080amc0UUo2U0s1OFNoUjJ0b2dGdXQxM2N1TTdMdDZYMVFpWDZHam4tTFJOOWQ0dmVsR21MeHVpQlU2T0F5WEUxN1ZzenNkcnZiTGJGSEQtVkpJeEVfQ3VZeUVDbHFBWUE5UXExclIwbzQtOGhSYU12QmVUOTdWNTNfNFVrVTBISE11dGVBTlVvOFNvOGNGZ0I5YVotaGNFeTRqdnRQU3RFRVpERDV5bmRPZVMzemd6c3E3dnotQXlWSFJyWlhfS3lmZVNobU1ESV91aUxySURjaDZaMmZ0QjZwenJFcFpsR2Nwenl0WkROUmg5d3BkTW9vdVBPMTVOTGJZOGlIaW10dFo2NGJSWDFsWkdyaVhuU3FCM0RFRElUOE9LZWhrUUQ4ZE4xUkZveHZzZGZVMlNlVGVJSG1OTDhQc05WRlJQVTN2YmdEQVkzNm1JeUNINHU2U2FqeThvMW1BNHA1SjFXMWpjYnBiTVlEaEprQmNjaENkeGljNmFiZTZzMHBiT2xFY3dJUQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜亞馬遜設800億美元抵押融資額度 支撐AI基建擴張",
+      "title": "美股｜Tom Lee指一大戶被迫清倉 拖累納指科技股急挫",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQazJPczRMWG9nTUQ5OHJ4YUQyNnBrTDlRRjZfM19wRUVYRjhvTHNsZERDM3BOeXhyWlhYbFd0OHVMVkRSTmpGNWlaQldMeXNzUGtZUGFMX2RLeDdaRlZac2l4bWFMTkN0RE14Q2tMelYzcVFVRHlacDRKbW5YTEUwZzRBVjVpSzNXNGpYUFAwMEEySUxSUzFramlKX1c0SC0wQ3BkSVlVU0x5RXd4QU5BMlBnYjQ5Q1dBbE1KN252cjJyZGsxQXpTZzRTZ0lKc1gwUU9JODV6V2NocE1ZYkUyNWlqQXRwNGpEYTUwd3NzUGo4eUh3THhpalRJWG1KckRENGdVcV9OZ3VabDFvVWlhZkUxenVCS1ZNMTA2WXFnQUxKcjNxZjB5V25mVVVkZ0s0THVMMzEyMmxYY0M5aWNjRnh1NmJTczBSdXZ2MlJOZks0amJOSTNzQUQ2RUlaNk5EZFA0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZWFiU2M0Wlc3ZE5ieGUtZDJZOGkwdGktY0dzOWdOWDVfQ2EycXgwZmtSaTdNbEZ4Y2R5dGRIVl81U0tqOE5ZRnY3WGswNDRZZkhRYUpIdjktektMTEs4QkpzQ042WUNqWmlYTk1PV0xBNEVTRFl3RGZ2Y1FHdWJzZ1FEUGtpM0pHQ0R5WFhKWlFjazZweTVuY3BvZkpTUTU3SDNhLW9KQmp5bFdIMmp2T29XUG0wd3AtcUF2S1ZoY2hSVm03Zk90WjUzbV9lNHdwWDViMWRYUHRQeTJMcHJuMkpYZFRjaHRHT2wxMG5BTXU4eE9NSmVaM19ZZWdDcXUwYnV1VER3aTVRNHlERHFBN2VLZHNrQzBJWjNFQVc2VnpHM0MzRFQ1ZVE1MEdhLXUwRG9xa3RncEZON2huaVRnREpwZw?oc=5"
     },
     {
-      "title": "🚨 納斯達克剛剛創下自六月以來最差單日表現。歷史數據顯示接下來會發生什麼！",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFhobE9jMlN3ZktXVVphaGluUndnY0d3TnhHX1pHV3ZpVVk5NGkyOVA0Y1RsUzRnUnN6Z21xT011bnFiZ0NzTTk5Y19zRV9xU2tfYTlyRVg3enotQ0N1MnF0cmdNT3QtRHNNaUFzY2xhcDBNX3ltUXQ0cGJ3VGJxZVBkZG1QX09hb0UtRTZlNFpvczk0WTFvZkxmcGZxR21xN3ROV1F2LTlYQQ?oc=5"
+      "title": "美股急挫揮別十月 英特爾瀉28%累科股",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWHNyOE1jUXFmQ0Y1ZjVhVnhhT3llOHllV1N3TmJ0Q0pJZFRGRWlvZFplX0V3MmdLOVBpYlBleDFQck9zQUFMckhaVWV2QnE4MlAtRXNFV2Y1SVpTc01NV0xfRkw0aW5ZbGs4b3lJdmpjU1p3SFVDR1hwZnV0NkpXaVdNbFFSTDlkS1VUeHU1WmF5eDRxRk9SRUUzd2UtWDdhMENWV2FBWXlBemIzdFlRSjN6aEM3dExvWEdhRlFPOEtlLUxFdEJrbGtObjNVVzhDMEN0aFJ6b2dsQ0lfOFJXWjFyc3RfYV9XUUxvakwwVEs5UTlFRGNkYnNSdGE0Y3doUWlaSm5yNVJEWnVOOHhqRkxyUzBidw?oc=5"
     },
     {
-      "title": "華爾街「10月股災」今年針對性特強！ 全月跌最慘的晶片股是這支| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSQTBVR3ZXNFlGOWhoSVpZLWo1a1F5dnRCQW1VYWtIQWNJUXp6cTNucHRMWDN2R0NmM2xMQm5MVHV5RHlsamEzOFVMX0ZOY0NO?oc=5"
+      "title": "美國法官駁回了特朗普針對《華爾街日報》提起的訴訟，且該裁決具有終局性",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54TElCNm1kR2VVaVR5SmZmTjMyd3NsTUFMbUpCY1J5Yk5ncWswUDlnTnRqS2t2MS01RkpWc1hiek1uTENRQlprdXRIQTk5WVRVc1RTSlVOQ0h0S0FFenk1TTNUUUVOcHZpeDE4UVA3eTlmY0pweTdB?oc=5"
     },
     {
-      "title": "美股日誌｜股金虛幣跌跌跌 大摩施展「還原靚靚拳」",
-      "source": "加拿大星島日報",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxObnJydTJmWWVqVm1hOXA0NTZYaUdkMmVSdUlCZEpvY3ZSUkplTVc1VERjS1hNQVprMHhrcFNlcnpQdjB1Q3V1SEpNdjZUVjE5NVU5VkJNWDJTeDlOUVJwRWo3MFEzc0U5Y1hrNXNUcHo3Y3VKenpRc0c2aU9jZXk1TVZfQ2hocDBlb3JrNkZSZWpBNGpVU2VwMzczWjVfZkJ0Ny02NnViXzBnQTZibktncGZfWG1VYnNDa1NTcWxKd3ZEei10dHRMem9qX1VjZ2F6OHFZOXVYTmxpNnhIbTNaM2JqbUNWUVAxZnlvbGR6SG9wd0Nud250aDJiLUZGZUgyZHByZGlRdWNuYVIybXpCak1CRU93dVhXMENTM2ZjcTE4aHhGMjJGb29mQmlLNC11Mnp4dUZaSUNqX1YtS0FXanI1YmRCZk1KaWxIQ043aEFuUFpJTXpGVklwYTZ6TWo0cTNkaFgyeURTZEhHVFJhTE5RSQ?oc=5"
+      "title": "資金轉往防禦性題材 美股走勢有壓 | 基金天地 | 理財",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmlfUHE2dGxJYjJTMzdkNTJRa2wxcU5aaE0tc0VoTm5EZkRnMGgyMmRIMm9fZE44eFBHWnhtNVJUc1V3cWNxV0NTdmhRc1pnbENYbjkwUVM5Rkw4cm44Wi1wZzdiTDJzU1dUVjVjU3VmMXU0Qkl1aVZMdWE2dkJaUw?oc=5"
     },
     {
-      "title": "德意志銀行：科技股拋售後風險回報比轉趨有利 作者 Investing.com - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMaktEbkprcXkyWmo2WWpWN0syVFVIdHJQR3pQaVJYU2xXbTNIY1R3RWRNclgzbXhTcFA5LUdnNGtnUnNIeHdFSVNkbVFtZDI4QkpWWlZyWlo3T0RJZEM0U3BhcU4xMnJlNkR6djJDeEk?oc=5"
+      "title": "歷史數據顯示：不論誰贏誰輸 選後美股都會漲",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50Z3AybXJIaG1zSl92SzRLZlNDM0ZWdGx5SmlQOEVoNzdDYmVtSzRlRHk5d2VHTGRDNmpfTUI3eDJCS1EyUXlRbklDNVBvTVFGZzgtX1JOVkpJMkE1cFJycHlR0gFnQVVfeXFMT011aWlYX2VyOU52QWdUbkR3d2RfYi1rWjByc2xkSi1PU3c0QkhUNml2UGd2TllGWXcwZzdSYmI2YzZnRU1sT1dIQ3plVjRCSVY3OWVEQ3BwVkp5XzNRaVJPVF96M1BTOA?oc=5"
     },
     {
-      "title": "AI股重挫而等權標普逆勢漲1.2%，必需消費領漲並一度創新高",
-      "source": "富途牛牛",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdnlVSUU1bm94Z2o0MlpKVWhfWXdHeUc0cnJiRlRMbnJ5RWJfQ09Wa2l4X0lOUnZBZHM0U0JhMlNLSE5vazZWbFltN0thendYeUtzdFdlSFpRbEM5dUtQMmJnQVdzdGZYOFJwNG5PWU1xS1JMVEtJNi1SamVxdVlkWUhaODhEZ0RfWm1mVkhNZ2RMbEFZbkE?oc=5"
+      "title": "美股盤後｜美債殖利率、國際油價齊揚，四大指數同步收黑 0924｜豐雲學堂 2026 年 10 月",
+      "source": "永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNc2RkNFNjMU9vc0YxXzFzck1mSFlRYVVBZmxOVmN6OEVnTUE3TWp5TWVHRTIwdzc4aFJYOVphVkpNUzhBOWN6OHlfTTFQb3NmY0JUSUxBZTBYVGtJcDk5LW1GZ3Btb0ROVGlaOTQ4U0lldDFFNVFFWnZxZ3pWdEY2YmFKRnQ4aGZiZVljSUJONjlUTC16a0R1V2gxaXpWNEVlMUFsUFV5blJ6ZEU0b1U5U3p2NkNhaHNrakJhSDRoNFppWkc2ZXRZWnVQenpNam1qaGJWd0dPOHBuQ2lFSlBBQnZiYWRZY0RFbnNQVGx0RDQ1TDFyQWdWdVE2ckYyMjVGOGs0YkNRZTBGUXc1T2xqQ1QyTTZkMzIzWTB1cWw2TzJFeFZUQmwwOHRDZ3NwN3BwakI1cW8yemhOUjZ0NERVeDBLZG9vdzBrbUMwa0ZwbnV2NjNfZlpWYV9TTHhzcENKMlZpN1dYb0U0aEV0VGRrR2FWRE40MXJ1R2FtbXFYZEstdGpjU2NNbGoxZmJkU1hENEZmMm5DNURUSTlCRVRwVGZObw?oc=5"
     }
   ],
   "events": {
