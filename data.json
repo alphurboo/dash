@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-30 16:15:22",
+  "updated_at": "2026-10-30 21:24:57",
   "gas": {
     "current_label": "10月30日 (現行油價)",
-    "current_price": "175.9",
+    "current_price": "173.9",
     "predict_label": "10月31日 (明日預測)",
     "predict_price": "173.9",
-    "trend": "↓ 明日預測跌 2.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
+    {
+      "title": "美國中期選舉：被問是不是吃不消了後，特朗普把取消的堪薩斯州和愛荷華州的活動又恢復了",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPUTZVYWJaSlBpZDFWM0VKS1VubWRqVm5qeGh5bjRqLVJ5V2lncC1Hd2FOZjBUcEpCb0JzSUFOTlJFY2paMF9PTmtZd0x1NGl3UXY1eU9kMTZqcHkyclZBSXNzMll0Mkx1ZnRPRnFXSGpWZTVST3I1VFNkdXFiYkJYYWFkREduc0Znd0NwSm1QN2pyeW5BRURkLW1Cc01lOTg3aXpDcGZkd25sQ3JSZXo1QXVyVlRmM3RvQ09yOU1CMklmc192dmFHQzVXMktWdDR3S1VRc09tNkhqZTV1alJLdy0yaVl5Z2FSQ3pPNHUxUGFSZXNWNVc2bVZ5NkZqTHpKNVdyQ0VFOEMxbHJMMGN2NmtWRG9Qd3A1WkttMmcxMjZfTWZaTjQyTHMxTlNnM0c4ZU5OYndrOGlGXzV4MkJJTFNER1JXUXFrSy1tY0poNWk2dTVBTldnNTVHUXdxcWhPM1VLTnlaN1kzaHJsN3c5Ty0yYVhNcld5Q3NRTzVNVzZSZmRRWWUtUi1mYl8wbHV2VjFaWnRyaVJ0bkhJcTNDQkxuSHBLVUR6RmFKRnZwajRwVDM5WV9UcWhya29sbHRLVjRCSHpxUElkMTVxaWphUHdYalYxVWZ4X2dKTU9vejNPMXo4MmVUTzVLYW5fQzBPeTJMdF9xZ2tOcVZPUzdjdWpJbEVnZUlzRTJfVVpCNlg5R1cyakdsRlhUcGRvVGRHd1pmYXV6QXBrYW9DLTVFSlpsNUNwYmlDb2FJYWFjdU4?oc=5"
+    },
+    {
+      "title": "國際｜G20外長會亞特蘭大揭幕 歐洲多國杯葛合照抗議俄羅斯與會",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOeTFJSWg5RjNYNGwtd20zNlE4YnJfbWszRTY4dXdST2dHUnpLTUhHLWpUMVJac3FoM2xveWVaeEF3MkwtOUYtWHpNcmNzYW85TzVPYVlZMjI2azBqMmgyZUFkMHhaVk1qaV96S3RFM0otM015c1pROVBhX2lqMjJ5SHFkRW9VRTJ2Z1J1WjBaVHQ5eXd1UnJ6X2JPdEVpWXBrUXk2OHhOWFJRMWJNVnE0SFRfcmZYa1BmM09ZY2c3OHBoOU8wVmpJSHNmN3N4REwwRjZ6R1VyQVNTUjFnRzFDUHJBT1JiMlJNdFN1dGQzeWhaRXV3UVJXMTVqdUZlTTBiT3V3elR6UHB4LXN4Y0VJcmZFVmRZTU5feUNsOHdKTmNHMlNEektTWGZVdG44OWJBQWNzYTRhMnFKRU10clFJb2c3c0JBT3VQWkVtSkQ4dnpUZ19QNzhOUWdINi1WaUZidkJINlFPblRlbjdKSFlsd280OS1tNWhQNGJOT01kMDhncDA2bG1POWpaOFlPZ0dZODVVYkhGLWRNWnIx?oc=5"
+    },
+    {
+      "title": "俄烏戰爭｜烏克蘭奧列什基數百居民獲安排撤離- 有線寬頻i-CABLE",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPMi1QVVRuYWF4bVpQZkhxenNwZkViZ3NGQWFMc2F0a1JtamlvUHB6N2ZYUmdnVmVRMC1sdzdwWkVZS1c3VWpxMWo2SFk3cWloWUROMk5DeXQwVVhxLU5WeXpiSFBONi1TbDRDVFRHNFNRellDcTU5OVZlZTRXMzNGcUZQb0l1M01NbFZNYzVOdDVNWUQwanFDdUpTaC1Rc2wtanhhX05NME9TbnN3aXJxaXdjbURrVU51UEhOWGJ0bU91aTY4eWwzcmk1Yy1XSVJsTW9SS0lmekdRUVhnQ05GUXdiZDR5dHBOUGpUcVhhdnlPSWtGbV9lYmVwREpyVWlHZUtyUjloNUc3UjZQcDBDSUhNOTF0OHBsREkxZHFWMFBCSV9SazN4eHJKWS1BaUgwTzRaeDhDb3lDNXNUV3ZSVUxfb1NJQjFsWmdqRVhpWXdFc1JYX3hZVVNCWWJtQXcyNmk4TjFzMEk?oc=5"
+    },
     {
       "title": "卡尼冀加拿大明年6月成為歐盟準成員 建立更緊密聯繫",
       "source": "信報網站",
       "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQOElXb2RDOXRiZlF2MVplY09fZUNTeEZHNmxNZ3FiblVmUUdQZk9XRXl4LWdwd190X29BV05ITDdPWG92d19ieEV5a1ljN0Izdk81OURJX2VHMVUyOF9tZnJ5bUQ4R0JscTlCX2FTbmpxNWFDTU5EaEJyXzlpR2lYcV82YVNnOWdwTzkzUndTWklyUXBDYWdjbXZfcFlkNjQ0ZjJydjU2UjNpa0dSenVmNlY4OFZrd0dIZTE3WVBZUW5oa2JCdFBiaDY4c0FDTU03dEhjRWhDVWtVb1ZYSmZ2eUtpZ0F5WHhldWdfSmJsVUNVS1IzTlhhSDUwQkg1UkRIMzRqeVdmZWctZFB2NXh6TVVkWGVwSmtMdjE1UG1VTmV4Uk5XUlJpRjk5RVRzNU5xSWdwaUdyQUFWeDF6YXJuUVBsUGJaYl9oNDJJTGlTbjZqTzVaZ1ZPd1hiTE4tSjl2LTBQVGhkQjdBSElYUXdSWWt1NVdhQjN6bjB5c0xncHV6Nzhmek5J?oc=5"
     },
     {
-      "title": "歐盟對入境小包裹再加稅 每年財政增收60億歐元",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNbWtMU25RcjZTT25LYUVjWWx0dVpGSzRObi1oOHJJSy02cThJRlBoOHltZUdnUEhwQ3pLaEtIaWpldzB1a095TF9oaXFJNl9FazBmNnM1Nlp1ZnY2eGRhZVNhSDM2X2RERmdvLTZ4R3F3TlpJUjVqZTdKbzhpY3A1dVpKTE81VExqa1NSNkdlTmtpNm1zdmJNRG54M091YnkxLWs3RW54NjRvZGFacDZzSzRKc2hMaURRRzVZX3ptcUg1am9ZNkRIbGpnVTNweGpxSkFfOTBTcXF6SHhGSUFTYm5KalRqdm9tTzE5WEJIRS1yT1Z5RHlpYl9nSW51ZDk3U3pwT0IyWVBiOXBFaGZWUFZtZ3FWN1lqUTRGeXhLVmNDR3Y2dWJoVTBCV0hyR2NTMVFMYnYxYnpfcGx3c0RWeko0ONIBwwJBVV95cUxNcmNIaTd3UmZxLU5xYnFyalZrTVJsY2pjRHU5TjVNWTBMT3R0SmFWV2trc09uRFQ2bC1Gdy1BMEVSRUpMajcySzdBcFpLU1JZNjFNdnNTUlh2aHh3Q2R4T051Y0tyT2o4R2RPQ0pqSjM1R0oxNjlxX2stdlhVOGM4YWhEaTNfS0dweHhWcElLRURvdGNJYllEd1VtUEhBN3M0YnFDbHF0RzF2SEJkaVByM0NFUmZXdEJITDFHRXVaVnRzRURZXzZtZUV3VnBya0JMYUhxazNrV3FOU2k2MW84TjJycVg3ZkdBeGx0alNjNWVEOFB1cHZNVU56NmZHeFRtb0xnazJyaG01VXh5M2VmdHBWdVQwTmlwNGNWTkoxUjBLamZvbk1rM3lpZk9NWFJWdVkxX3dpZzR6a2tSc3U5VFNxSQ?oc=5"
+      "title": "美國批准向烏克蘭售500枚「愛國者」導彈 估值164億港元 (08:52) - 20261031 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOUjliZWoxcDRsdy1sUjFQaUhGYWFPWlVDQmNZN2hDXzQ2NGxKQVp2ZHEzOHZMVk43ODZ2UnU0SzJFN096VWtEckpmLVhRb2N2ckhZY2xHT0p6N1BkT0dwRC1MczRtYy1wZjluZWV2N1Baa2Q0NmZCZEY2eGpvbGFSTlU5Y1NkXzdmY0dGbHpNdzYwQk5JZERzcU9wM290RkFkOGFORlhmdEZXTFlESnBjY1QtSGdveWk1aWNmZEcxRDdKd2lIdjhtb1M2MU53eGwwTDMyTkpwN3ZVRGFVV2FzbHBVbWZLWnZhYW9ienAyTnRwRU94T3Z2enByOHphX0xMOG5kR0RXdHB0Q01FTWZVa2hURS1CTzZHWnlNOW8xdW5wNDNuNzNadUxvRUtsaFdTaFN4eGRfT211MjBWT1ZXaE9oNkdpNTU2bHc3VXlpMVBtal9SQW5uVU9qYThBQWtGZjRIU1RzaTIzZkNVUDhUYVI3YkdOSWt1Xzdwd2JIMHR0RzZxRTNSMFRjVVdEZzFxN1RVSUktU3lVSFZ6WDFVaA?oc=5"
     },
     {
-      "title": "國際｜The Weeknd啟德開騷 梁朝偉劉嘉玲後台敘舊 兩周內二度碰面",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNMG5zQTR3bGZUazA4MXoxNkV0b21Jc0VhYWNlZEFIRTVxelVta1ZIVEVIWjROX1BTeENVVWctMmY3THRIUWtXYzVoTllteS01VjA3U0FBN0tRa2NaRE5FNzF2Si1GQjZGRHBFdHhocjNsSmdRdFhPcDlvZ2FtZ0xUTHJMbVdfSGhOOVlKTHZhQ0IxR0ZLU1N4OGowNkhZOGptYXJBRkhnQVc3WWhhRmJ6QUU2MXNDVERfOFZDMWFIRm5vbWFZSS1yUmk5aXI1N2JvVHB3dUNtV1hxSUJHUzVJcWR2enQyYXpHNmM3TjJOaTdLa3hCbnZDejRZN1daWjFxWkg1N0p2aElfUmRRWUg4Z1FhS3NTVWgtWEdkQjBlTVpIa01wd3FXOFFtejNJS25tZ1U2cWhUZ2ttTnZxMUNLMlNISUZmZnRTNlg3ZnFUVGQ2cnFsY2IwaUNuRDhHR3BTbjluQjJsa1FyLURSUUt2YUlwU0VPMG1HLWNRUUpn?oc=5"
+      "title": "加拿大歐盟構建「未來聯盟」卡尼：努力成為首個準會員",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUnNLMzlKVnpTdjZEeVU3QjA0d0JqbTVWbllqcWJnT0JqakZLNk5ndzBHOFFyam5pTUs5VF9uYll6UG5ZcVhGdTh4MGRraU1EckwxMUNHTmZqMEkxcFZWR0t3?oc=5"
     },
     {
-      "title": "聯大決定以視頻形式實施ICC院長報告 受美國制裁影響",
-      "source": "共同網",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02YTdTOFU0NnJ3d0JQWllrWkpKNUthbjZ5eHBNV19iRkNRRG5ma2IwMDRWT1JZZVVTcGV4SWs3MXpDelM0NEpLUGlGZFJFSGlsQjBrT2lvTTI?oc=5"
-    },
-    {
-      "title": "加“換身份”貼近歐盟？學者：西方同盟體系正結構調整",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UNUFDb3VMemV4eXpCM0ZQQ1pOb1Y4ZFZfM2FiTmw2M1lsQU00Zi1GTzFxTEV3VnRHLW9xaWJrMmRlaWhXcWxKRzVDQ1VUUGcxbjdWWFhnTzFzWGdwdGtSaUFfN3dpRzRpZFU4VUF3UQ?oc=5"
-    },
-    {
-      "title": "國際沖裁法庭裁決允許俄羅斯冰球隊參加國際賽事",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOZnZKTFpZMlpOcFpmektIdzhoeDJWeWZmenJJSXBIU3VmMWJWT1dwd3ZuMVpDbHZyUXJNRVpVSC1RYzlPVW1jNXFNM1ZhOGJ5X2pyNHlQakpSVUpxdDVQUmJhNjFHd2FsdkN4cFU4aDZOdVQ2R2NGQWxoTXRnM2FsSTFPd0FZeFVRa2gxckotMWZCM2I5M2VBeFlDYXBvYUxzZldUVFVvRS05ekI3S1BRTERNMTZ0TXVLUGVXTC1yRDhWU01vdjZCNFlqWTVLQ1U1WHRsbm83RUtYUHh5Uk5WVjd1d3ZBVlVUZThFVl84SWEwd09BVGstODNzMWdyZXZOOVB5N01URjg2VE5MUmJORDF5bHR1a2tHUzNjT3BjUXNGc3FLa0J5WDZFR183ZEJSRWs2aV85WG9EbWh2LWF1VUh3UWRVdTdBWVVZNjdFU2R1VHR1VFNj0gHXAkFVX3lxTFBRTmxqTG96TkhZaVBUdnZUbUo0bUd1ZnAyS2stZmNRd3oyWlljNWlIczBIV1JoOElKY1AxOGZaUWNITkwtVEpOZGMxSmg5bi1KbXBrMDFmSC1OclFDZ0NJenNFQ3YyejBFRUNEcVhCZTVUVWpTX09MUGdsWnpYZDl5OUMtWUY2YU1FVHVNaTM0bEpGSFY1LTBJN3EzV1VoSTNsQm9EUlhQNGhPdFpVMHRkVEhjSV8xcW1zXzhBTUhRUDhDM3N5UG9YbUJRWjlDOU9LQkhyMmpNVkw4U3Y4aGE3dmkzNFNJRTcwZGRPbjliS1hCeGs0VFpKMDRMUS1zQTdaaTZtR3NhLWE1MlVBOUpyNFJNekZIN1lwUl9tQUg2bzMwT001YkJGZVRqQnh4ajZaTWMyWTNTRGRvbWFGNFBqOU44S1ByZXhPQUxoR1ZJVjNrS3MyR3c?oc=5"
-    },
-    {
-      "title": "美國勞動力成本增速連續第二個季度低於通膨率",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOTVMzMmZUMXdxZXF5QjRidmdwYm9pNmo5NTh0Nmxfdk5KVTRVQmtwYnkxa3hsNVQtWjkyUktjdHB3VnFfTTBqUE15c0g5NkJxTWJpeEZGNXdFQkpSN1NLV0JZOVI2VkdXMHQzM3pmNEVxSmJfcW1LWWpPVnNyVlV2M3dwamg0V1NhME5TRmxPWGx1OUVuRHNCVXJ3YU1HNGNua25WcXA3ejhkdUpJUGkwT2tCWDhBeHNYc25WeDdJTF93WWlCZ1UtdEN6WmluaXhiLVFlbzBiOHlWZlJnNkFRVFhwTlcyMmd3UmlTMWZOSVlaNm1tVEJfZm9mV3AtSzFURzJRV0VtTUJnZndsQ1BJUTNWZl9NcDh6TGZRa0ZXSEsweHpiWUYxb2ZMWTAxeUkwQWgzcjBpQTlSeHBGM1ByMGxUSUk3UXBzNFVxSUpvVjZKRVY4ZkhGN2Rn?oc=5"
+      "title": "美國批准向烏克蘭出售21億美元愛國者防空導彈",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wYV9TbWlCdkptV2xuWDgxcU9KaGhtY0ljRDlDY1lxelYzUDdfaG4yRFM2dzJwU3V2SEx4YlJwa0xzSEFTc1ItZ1RJWEMxbC1qcjFYZ2xJOTducHA4NHfSAWNBVV95cUxPNzc2bGFHZTh6RlhMeFlvcVM0SldUVG9sWDNQRDVHd1VkM3VpMEFVbkt1UWtnVDhJSVZFTTA4TVZrcTZabWZyS3czNGxXZ1dlbXVVa2ZuQ2VrVlg5YXZjMGlKWnM?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜科技股捱沽 納指早段挫2.5%見近三個月低位",
+      "title": "美股｜美股周五受壓 納指挫2.856% 費半瀉7.201%",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPMkVUdzdlQk9ZMmtGcjctNDJVdjRScVZxWmlseUhZZXFRa3ZxMkJpMHBNNzBtaEVqVFNPRThqSzNkdzVjLVRBOWRLTVpIa1p0ODJyZDNzM0otT0xpTjFkdUI1SnNRRDQ2bWtOZmo4VWN1WS1jMEpGYzFCeEVfYUZhenJvVW1rWDFnM1pHUlJYSXZvbjRPekMwUTMteTNZY2htSzVROE11TkdjaVJxUHpZaFMxRkJQMl9JMUtDdzZNSFR6cGtjbFR4UDVRdktheHRrN2RvXzkzS2FhNkZEU0M0R1ItYzdzOVJ4VFFWZVZtS0dmODFid0hpMkFmaFZCcEx1YlZmVHAzeGtlRXZITTBaalRuMWU5a25WMnJwWXdYSWJPTV9UTzBPX1dCaTk1Qm96VUtleTJGT1pUYWVjZDJkaVZCblU5bDRZN3c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQcGc3SGNMZjdZVUFKOEhocXVXUmk3cUZ1UEg2el9aU09ielJJNzlYU1NhUS1SS0JCeGRiQW8zSVJxeFhSa1JTbTRpZW5DTW9DV25vQndlWUFaeGFjWTNqMU9FVVI5TjJoTFVNRnFVS1EyNTBoUkU1TWwxdkFTeUJsZDl1T3B3cmY3T3ROZjhkSVlBZXRld2doQjFvVUNnVTliNWRxZGlTUG1oZ2UtNFN3elRuQ3J0UXpreEhOdG9Ha09lSGJ5d1JRY29nMzNwZzBMV1k5Unc1bUxCeVdRdm5hdjJLeFdqYk1aVzkzVFBuWVhKYThXdEt1UVZKZGVJRjVsZW02VkNiTkxHUWYxV3AzaURR?oc=5"
     },
     {
-      "title": "美債動向｜美債投資者轉向關注AI及財赤風險，聯儲局退居次位 | 即時新聞 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEQ0dU8yODcwblc0ZF9ZUWdOS1NydUFBWGpRTTFTV2puUlFVLV9QeV9uWTZEck52VWUxbHIzdXV0dzRwQkNLR21tUVBzaEJQS2N2endSal85dkZFTFZVWWhsLVRMTWozYXJteHVNU2pGLUVTZG8tS2ppWmxDVUpqdjdPV05SQk0tMExyaGItZFZQN19iWGFmcWt5M2NuWVVX?oc=5"
+      "title": "納斯達克重挫2.9%；大型股盤後走強",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWEzLUZwaG9xT1VVOFJrUEdYYWJtRmxxSmk5RXpkeENYSTVHbDltMXJDSjdoc3JXZVE1aml3N1dWSnhSYUtiXzhKX0t1eDIwRmkySXFHeDU5UVFYUVd3eHQ3clVScjNNU3Vka1ozczdQR3BIR2phZm9JejRLNktNdV83dVp5T0JRUVVZNkhzeks0dzVvbGxLd25PSk1RNXRNcV82QmcyMFY2Zw?oc=5"
     },
     {
-      "title": "歐股收市跌0.36% 科技股指數挫2.7%",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONGF6d1JYeGwxMjZmbFN0SFU0NmhlWHpKNXo5YkRqTU5zS21LYTNFcDVYeTNxNF9RZzhIWWYxRUxpemlURmRDVzFDTlRUakliQkVBM0dCWWdjSFpEOF9qcE5qSmhGVDdVX1B1cFdtMm5DM21BY3VicFVyN0NsOFZaaTlZRUdOZWRYeTNmdF9KYjJIX2tycGtHTFhWVlhSM3VmTk9kTzZJUFN0X0FaT3VLamVIeHVULWtQaWFReUdTb0IyamJXb01CWl9mMndVdmdPQkZQb01IamZqY2F1c0htb3d3RjRoaTE5bTZQRlpkVy1SRDU5VjJyYmw5d0JRdjBSRF9pcHNtRQ?oc=5"
+      "title": "【美股收市】金價重挫3.7% AI股遭拋售納指跌2.9% 英特爾暴瀉29%（不斷更新）",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOMTByLXgzS3VkOERhTFd0ckI3V0gtaUVLSFZjRVl5VmhyS1ZuSWxXbktWTFRkRjBfQko0S0UwZTVDbnpuWEhUbzRwUjBxcmtqNGM4MGxPdmRYUHd6M2JiaHRlS2VXc01fdkwwS3NGWnY0SWoyalNKR3g5S016ZlVQWUE0V0RjS2N3bGZIMmxiQUcxbk54ZWw4eG54UVlmWmkyd3lVLWd1SUEwS0NjaUEzcXVnamtqYVhHMEkzd3pWMkd2MWpaQjBJWmtiTV9Sek5fNWoyZWdRdEw5YnZudDJ3cjB0alJYUUFOYTNYQlhUeDl4VXR5Z1dwSDhqanpESlI4QlVMVGd6RF9UWG5vS184T1FTNmN6NUFCN2ZDdzY0aS1pNTBidm9IZjJua2o3QmtVRGZaZFl6djg1RDNjRloyR3g5V0RZSkx2WFFkY0dMV05fZjNqZk8xQUN0T3F2bFpITno3ODlnRnBCSm1YRENhNUN4a01DMkdvUlVvUXFBZ21TQ1g2SzFDTXdkdTUzVWVlZ2xoOWg0M3RCU015dWFSLUhQRm5NZWpMTEllWmx3eHkyNXpzei12aFF3?oc=5"
     },
     {
-      "title": "納斯達克指數跌至近三個月低點，亞馬遜和英特爾的動向引發人工智能板塊震盪",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLRXpmOGlheDRma1hxd3VtNDFhQklVUlpxRTBPVWIzQWc3YkNDbHV0M1AtQVNVZ0pzSm5LTmVqUU9NRUJJdDFxNi1PRVVwX0F2MEZxUTU1SEN0TU52VzloTlRrSFF4SUp5YlpHUEd2ZHB2b0ZPNTUw?oc=5"
+      "title": "美股收盤》英特爾崩逾28％！科技股慘跌 台積電ADR重摔近6％",
+      "source": "自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mSG1lR09Ral9WTHZxeDJpVzhNR3hlbDE0UlVEaDMxcHRqbTFYUDlhYlFzUjhwRi1lUmE5YjJZS2o1cGlaSUNtRzdaZUZxWmhtQVZ6ZXF5RDNEbnNkSEJZ0gFkQVVfeXFMUEpMZkdUV1Jydm9UaTBHS3dwZGtXLVA0ZGNMUG5xTTBNbUJyMFBFc1NEdXNJNTA3M19wYk5lRXluSnVZdmxjOWtLTmVMZ1ZmRURBMzZiQUk0Q1pSbHk1OVVzV0d2ZA?oc=5"
     },
     {
-      "title": "美股早盤／科技股賣壓超重 那指摔近3% 費半廢 英特爾暴跌29%",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKa1NVckdCZjd4YmV6cm9QRFYxUlRTS3hlYldqVFZnWmZaN2NxYXhkU1Zja1g1YldtVGNZUGx3UWdnRktJSkpCN2Z2TEUwLUl0M3FZTUdKMWlUMTZM0gFiQVVfeXFMT0VFcXBwdElOOUdCaW4yeWtLbU1UeFRVLVFTS2twelpCMC1jN2l5OGt6bElHUHRHc2Z4WGdOOVVWZEFJYjZHUXVRazZxajBiNkJWY2x1MnVyU0VYTDZkUURsVHc?oc=5"
+      "title": "美股AI敘事現「裂縫」 納指曾瀉近4% Intel埋單挫近30%最傷",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQSlBtMEV2SUc2RjNZUy0zX3RERjFRMHZEbUozelBPcDNpOWNENmJsUS1nVFE4TS1OZnFuSmdTYTNmM3RwSmxVMnlSR2JfUFlDcnNQeUFWYW1YWEZ0MWtOa0M1RHBhWWdUR3dxYmV4cGM5S3R3V1Y5Y0NBZnlaZkt3UU1FTUNDdzl2RnVqRUtaZTRPR2t1YmFPZ1o0N2h2WC14RGxrNXIxd3pQNkIzREU1UU95VTVlMHgyZzFtUEo3c1Rpc003alI4ckNEYjRid2JBejRod3dxLVNkeVpzOUJab2NOZlF3YXJOajJnamhEUVBEYVVuclZRLVRNb2RSYS1FNDRwWUZ4Zk1qUjF0LUxJWFhXcGNWa1V3cDdvX1NrNkFYeG5jY2hsTzFDOGl2a3NiM3kyb2xsaE5PLXV2cVNKSGJSX1hzd0ZtU0lzWWtpR2R5S0tNNnFUU3M2M3BNYThQ?oc=5"
     },
     {
-      "title": "納斯達克100指數尚未進入回調，但已接近回調",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmxRMTJrcjg1SDE2Nkp6N0tjRzhUdWEyNVJqbThlZXR5aFpUYjdGNWhwMFprNHloNWpFTWxCOGJvU1VUdW1qS29tUEhXbnNfTWlSMk5fX043SmNBT05ENEoxNTBnaDhLX2txcjExaUNxYXZpbzZMV0hlamRGclVYQ1VMVnpKeVRjZ0tfOWs3REVGMHNKYUxNWjd2RTdoRkY2WTRXc2JWcmpzQlVUbC1WVGxRTTN6aFplOHfSAboBQVVfeXFMUGJsUTEya3I4NUgxNjZKejdLY0c4VHVhMjVSam04ZWV0eWhaVGI3RjVocDBaazR5aDVqRU1sQjhib1NVVHVtaktvbVBIV25zX01pUjJOX19ON0pjQU9ORDRKMTUwZ2g4S19rcXIxMWlDcWF2aW82TFdIZWpkRnJVWENVTFZ6SnlUY2dLXzlrN0RFRjBzSmFMTVo3dkU3aEZGNlk0V3NiVnJqc0JVVGwtVlRsUU0zemhaZTh3?oc=5"
+      "title": "美股下挫 投資者拋售科技股",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zSTFYbEJLMXZfSS1LRDhueVJrMy1HZTZlLUdreG9PWHJ2TmY3NVNLTVNKV25TaU1QSXFpUndTTHVtbWU2UFpBdGh2cFVMeUloZDM2anpyakJXdnN1WDYySjVUUU5iNl8wR3N3SDBR?oc=5"
     }
   ],
   "events": {
