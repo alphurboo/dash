@@ -1,55 +1,60 @@
 {
-  "updated_at": "2026-10-31 16:15:23",
+  "updated_at": "2026-10-31 20:40:21",
   "gas": {
     "current_label": "10月31日 (現行油價)",
-    "current_price": "173.9",
+    "current_price": "177.9",
     "predict_label": "11月1日 (明日預測)",
     "predict_price": "177.9",
-    "trend": "↑ 明日預測升 4.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "俄烏局部人道停火俄占城鎮居民：靠吃草活命| 國際焦點| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Yb0RBOGRPVC1RcGxTTUZFR0pxS3FJUVN6SGN2aS1xcXFNbERUb1BRYmplMHBOYjNIUTlzbjBzQ1ZLQ0ZJTklvR3VJT3EwN1hR?oc=5"
-    },
-    {
-      "title": "俄烏戰爭｜奧列什基居民已撤離 澤連斯基抵土耳其晤埃爾多安",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOVExnQzhmb3FNdDJXdHJMMUNLX19IVVVLR3hJSzZuVFJlT3lDYmNEOE9rTGUxNWUtTUUtOGJCd2sydTZ4M25nVUMwYU9hQ1lGUFpUUjlwcEhSdHlxd0Q3dFVoTkNyNVNPc08xQTE0emxsMjRSM3pCSGdmaU5Nb3NOWFVsb05JaHRtVlpoSWExOGNraXN4N1ZmXzF3UlFRaWlybVhDQ1o3ZXExOWRIVzQzcWZoT2dzT3VtUU00U3M5MFJXZEw4Wl8zamZKdWxLTmFBYlQ2V3ZQUTZ0Z3lxdFZWNG1jLXM3RC1NNWF0YWdHaUxma2ZseUZNSzNwRmEyNWpmZEhDTjVjbUZxSkJnWlNxenpyRFNzWDVTdHh0X0gtanRzZGRkZnY1YW11aS1SQkdGZEFBRFM0WVRKU1l5OVBxVk1ZRlFSeFA2WUpVaWxiaTFFRFp4YjR4TFVkREhodDBWdVNKb3VvSDh4QQ?oc=5"
-    },
-    {
-      "title": "四方安全對話外長聯合聲明 未點名劍指中國經濟政策",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOQ2hrYjVwT2ZndnRnTlZzd1N6cWNjVURtQ3RPYUVFQ05nNzlGZUtfU3FReXpaQXlteFIxTXpUZy1JS3NzVUtYNWJ5eXowQWxsNUJyNmpqRzhHQ0g5Um5NUmZBS2hYWTBhc3FKalpaUTZWMzBTeUV6WU9JaDduUWRNbzN0NmtnTC05a0p5WmdWblFKMjhyNGR6cTQtX2xha3k4clhnZHdWV0U0bS1VUkJ1M1VCa0dVVkZVbkhRcGtDc01aVVhYbEJ3a08zZ3lRY2M0cWVlNTJvaC1UYjIwZ3FENnM5MGlPUy04SzhTMU9SOWp6M0tSN29oRFNVUlFVczlzcWlaVDZoVFlkQzlpcXM3YjI5Y0lzRVdOREdzQ1AyX3R6bklPNG5jOVdGVUxrbU9xNzNQX2pFWmk3cE40VlRPNjBxbEpORU1VZTZ0cHl0Y2EzVnlQTVE3V2swTXJtazZxcm9waGNadVNBYlpoSzdra013Z2s?oc=5"
-    },
-    {
-      "title": "國際｜保時捷聯乘La Marzocco推911主題咖啡機 每款限量911部售5.08萬元",
+      "title": "國際｜奧列什基居民撤離完成 俄烏同意定期人道救援",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOcFJlOTdRM1Z6THdKVm1xdkFLRzVPQnNEMGF4WWxLNFViWlNQdGJZMTRfQ1hsbWJKeFEycld0aEZFX1g0anB4V0NyTndkdmdkLVhWMzRnZm1SSlZSdFptWnNDQ1o3YTBkekFHaE5qSGhNczg3TEVJd3NHTldaVkgzSy1qeGFmZDJXS1pBVVB6N1k3U1UybDRHMV95aDBQeUNSR0Y2Zkt1ZV9rYXIwUmVoWHYtdURVMkNBUDU2RFNWX2FyRWdJa29vb1RhTjZXcE9ob19iWmFzV3JRb05lNnpmd01qZmd2T3hiWl9KUU5IWmxtRWlIbTlyZlJsYmxFcnpCZkk0dHVCZnFEVlpwRzNkOE9HUXlRTU11LWZxNUFtTTVvVmtsUDQ5R1hqUGVoOUlPN0tlWDFwRFd5ZVpnSms3VFhYYUxnVHZYMDJTRmxWNE15X3Fvb1pqVlpLYjZocjBRdko1QzQ3WExlZ3dGUXFsSFlseUZ1emM2?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNOExjUE9TY3h4cWt0UFNrcXQwM3FhaC1jUnl5ZnpIazhtZy0wLU1Tdnc1Y3RpTkd0cFFqVUc3Z2ZVTzQ2SFhNYWs0cHBPWmsxY2lxSHNkdm8yczhBa1dtYm40QzRYZnlyX1U4YnR6dEYxbnVlUXNrejlfT0lRLVgtbzR2a2xfcy1Udk5KUDhzUzBCNEZCSDhqRUlVZ18tYTB5R0kwa1lieEp1X0d0VjRPQlNoalg3UXFpdVhuak9yWnZaSHppUUxjVDJqTm9xeVlUTkNMVm1HV3FqRkszalFaWHlkSTdBbHZNdVlfb19LaV90c25RWUVZRmtTZ1V5MzlCbm5MNGFERXZkZ3J2cDhidlBHZ3RydTFfWkZJMXlrUmsyVHlFMTVYbjJONno2amFZckkyakN4dWJlQWk3NU1IbGFJMkh0Mk5CZ0tRNExOLXZsQ3J1UFJocGREQUVUYk01MzNobUtobUk?oc=5"
     },
     {
-      "title": "美加貿易僵局有待突破 卡尼：寧等到換美國總統再談",
+      "title": "美以伊戰爭｜阿拉格齊否認伊朗有與美國談判的計劃",
       "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWUhKeC1CZUJNb2xKMk8ySzhkRXhMUWl3Y2xNNkFONUpGOXpZRTN4cERRMmZPdjdXVTFJbmhYVTNraGhrTUVicGJvRlVsQXhLdVppZmNyQUdRX2V0MzVyZ2JFczNROVdVSGdFZg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zZ2FjVHlPM3VTM2xWTU80S0ZZQkRfbFBOeno1RzNwWXd0elk4aDZkMUthVDYyOU9BbFhVVmx5TlN6czlBYnQxV3YyN2JOSmppVERqQTh2N05YeTZ6VXM3QmRUWEUxTVVNSXlBeEVubw?oc=5"
     },
     {
-      "title": "首位美籍教宗參與美國中選 良十四世郵寄投票創先河",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNUlJEQVFOOFdHd0FXRWlOa0FnOGp4RTBwd2Z3bEk5MnhYQUFTUWVlTGUtZ2hkRnZhVUtuVWZQRnRncmIta0o3a1hUM1Fudm41a3V5MEtTLVZhNW5VcmxNSVlYMUVfZzlvOWduQzJ0YTBYY2ZyYk9wSkdkRG1SQjF3dGd0aloyam9Rbk8tMHRRRXRvM2xoRmc0Y3ZERG1relpPNkpFWTVFTEEtUk8tOGR4NDlDRldBWVhfOEcxOVJ2ZDhQcEM4T081R3hmbENPZm9qcnNYajZwNlJyOUVFTWxJajNFWG5WR1FrRlQtem9SNTQwWDdyR2pnWlRYc0d4M3ZPOU96d1oxQVdpSzlfYVZlenlIOUk0R0ljYjRqaVdyLWx0dTNJMHNXRVExOVo2U0F0TlBvNk9vN0pXblpsdkd2TF92WTJNT2tQdE91QkhWSDlPREN2cTNhdWZyTGpHb0NuR0NDb1ZOelpvM2NJY1dqOEhicWlZOTdobWM4?oc=5"
-    },
-    {
-      "title": "兩名中國公民因對美國海軍進行間諜活動被判兩年半監禁加三年監外看管",
+      "title": "美國國務卿盧比奧與俄羅斯外長拉夫羅夫討論了特朗普和普京下個月進行互動的可能",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNajZwR3ExSzZheEZIckRhRV9ib0lKdjZ0WV9OOHNHMHlQLXEtUTduenVfMVJZMXJTbzFsYzJTVW5YNkJfT2NvTmpEVnFfdHJNVVdpRDNPUG5Ec080amc0UUo2U0s1OFNoUjJ0b2dGdXQxM2N1TTdMdDZYMVFpWDZHam4tTFJOOWQ0dmVsR21MeHVpQlU2T0F5WEUxN1ZzenNkcnZiTGJGSEQtVkpJeEVfQ3VZeUVDbHFBWUE5UXExclIwbzQtOGhSYU12QmVUOTdWNTNfNFVrVTBISE11dGVBTlVvOFNvOGNGZ0I5YVotaGNFeTRqdnRQU3RFRVpERDV5bmRPZVMzemd6c3E3dnotQXlWSFJyWlhfS3lmZVNobU1ESV91aUxySURjaDZaMmZ0QjZwenJFcFpsR2Nwenl0WkROUmg5d3BkTW9vdVBPMTVOTGJZOGlIaW10dFo2NGJSWDFsWkdyaVhuU3FCM0RFRElUOE9LZWhrUUQ4ZE4xUkZveHZzZGZVMlNlVGVJSG1OTDhQc05WRlJQVTN2YmdEQVkzNm1JeUNINHU2U2FqeThvMW1BNHA1SjFXMWpjYnBiTVlEaEprQmNjaENkeGljNmFiZTZzMHBiT2xFY3dJUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwRBVV95cUxNalVOZXZpYUhJSFR5dzNqLXVwTFpYNmRhcld6RmRnTG1ZVkZjdzEyb0tLdlBzaEtMUm40bk1NNEdGbjgtVVVFcDR2SDFRbm5ZMXlVdGlFbWN3NGRDak9TVE80QWsyS04xQ21FLXFNS2YxNmxsUWpLbmZpYjZFUHNIa2k3bVdDcXNrT2xSVXdka08xOERwRE03OG4tQnUxTkhvQU5tblRyRDBReVFBemozZmY1b0VYMUhwb0U0YkhjYXpLMnB1LTZjUEQ4ajNRTWhOUG5lcUZUeTA0dExUWTdjdXJ5RTZ3eGtkZkRxREsydjZxSngxa3dQaEVUckVRU0syUVBNVThOR3lzSFplbDRWdXllQzdrNl8yUFE0aGRJN0xseWRtTDZoMExwUWNYNGJUYVp0TGc1NS1JbVBuQmY1bVRXcy1UU0FrNnJyVlFVNWJhZjVPOEpCeG1rUHdFeWprVHkyamNLeVhCc2ppS21SZFVzS0xGeWlNTXhMVHN2SjFSNnM3c1RDZVBleHZTRmlFNkduaDY1eERxeWdHb0ZMSHRaaUJETXBoTGx0NEo0NUo1OVQ5aGc5cnZUOW9fX25ZaktHcWZHMW8zR2hray1NV3ZDWkZUTW5yVFpwSkdZQzk0dzVWNUw2Y0Q4NkJ3X21ZSWgwNVJ5T0RaRkZ0d0c3cjRuakIycy1iZkdTVThBUDFqcnBWR1JqMlRiaw?oc=5"
+    },
+    {
+      "title": "俄烏同意定期開展人道主義救援行動",
+      "source": "商業電台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54MmRFRWktZjNwVUhPMklWeHVVaTk4RmlKS0h3a3oyYUxIOTFOT3B2TDVvbUE2anpXaWo1ZVVTbjdGUHNNb0RYXzgtQUpna1ZCQUMwSnpvSXBUNGg4TEHSAWNBVV95cUxORzY1NmdjLXJCRWRuRENmLXhEWi14Zm5McGRqaUVUX1JkUUhLNS1tUEtyVXBMQkRfUE81U1QtMEFsd0RVb3lhSUhNRHZnMThQUlFLMmVPT05sci1FcXMtUUxaLWM?oc=5"
+    },
+    {
+      "title": "俄方稱俄烏同意定期開展人道救援行動",
+      "source": "TDM",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGJxdFJVV3pnQlk0dFpUa3gtLWtyc20zc1RDMHdDUi1sTHNGN1hVd2JqQlNaempUQjk2VElYY0gtczg0RTFPTFZPdGJDVjBSU2c2NFNpNEhVaWNWUFdrdnpQRUlMWERtemFha3dZNWNQMnZWaDBBQkZDcEItaldzTXN6UQ?oc=5"
+    },
+    {
+      "title": "【聯手應對美國】加拿大與歐盟深化聯盟 加強貿易及科技合作",
+      "source": "SBS",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjZRTkpSamliOHFHNDVDMHhmcjVpenVvcWV2ZGIxenVRZUtPX2pRVm5nNXh4b3ljTTZuX29WY1hRaWZCS2daeWlBWHI5UzBROEpPWU1qem5YalBEWkltRUFJNS0tdHJSSGJrdWdDS0VjLUVjbndhZ0pXLU5tZmJPVGd4SURuOVl5TGZDNHBiRG9fMzk0QzZHU2t0SnN0T2NodndHQ1J0NWZYY0J3VmE3blk4T0ZFZ1NxMDVyMmIzTlE?oc=5"
+    },
+    {
+      "title": "魯比奧承認G20外長會未就全球經濟安全等達成共識 無發表聯合公報",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPajVZVG41dUVXblpuSG1Yd0RhVWhvSkhDR1FnbzdoNmNGRWRRcHRZeG5nN1BYbm8tOGhkX3VrVERHTmlTVC1Za2ItZ3dwWWUwdVExLXlfU1pMbEFZR1NXQVdyYTY0blhWRTByUmQwSGVCQldiZzVoX1lTd0g2MElWZEg1cWVjeXZvWW5NWTIxbWl1Wmh1TWZfY1l5bkY1bm1SSFFjdXhFM3lNR3NaRmFSeWJsV3cxQkVHN2NkTVQyV2hYZWNKeW91ak81R2pDR2VIaXQ4SXdRdDZBYmNETWdRVkpua1NiczI1dVVxNF9oanJQa2U1MTRqWkpUNlk3X25CZFlVZHNYTzFwV1BpSVFaV0o1Y0dqWTJiUHpZaWx4SFpXTF9vZWNOUnZ4UGd2TEIwcmZGYnhuVjJ0NktDUExhZ3p6bHhmV1c2SjVpT2JGLVRMVE5TYnIxTTgzUmlIbFlBMEhZZXY0a2dQYy1jYWJFWjRSd202QlNpN3dDMElXSUFPeG41VG50dE5PUUQ2WnY4X0MxUkQ3a2dPdWs?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜Tom Lee指一大戶被迫清倉 拖累納指科技股急挫",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZWFiU2M0Wlc3ZE5ieGUtZDJZOGkwdGktY0dzOWdOWDVfQ2EycXgwZmtSaTdNbEZ4Y2R5dGRIVl81U0tqOE5ZRnY3WGswNDRZZkhRYUpIdjktektMTEs4QkpzQ042WUNqWmlYTk1PV0xBNEVTRFl3RGZ2Y1FHdWJzZ1FEUGtpM0pHQ0R5WFhKWlFjazZweTVuY3BvZkpTUTU3SDNhLW9KQmp5bFdIMmp2T29XUG0wd3AtcUF2S1ZoY2hSVm03Zk90WjUzbV9lNHdwWDViMWRYUHRQeTJMcHJuMkpYZFRjaHRHT2wxMG5BTXU4eE9NSmVaM19ZZWdDcXUwYnV1VER3aTVRNHlERHFBN2VLZHNrQzBJWjNFQVc2VnpHM0MzRFQ1ZVE1MEdhLXUwRG9xa3RncEZON2huaVRnREpwZw?oc=5"
+      "title": "標普全球調降Meta信評展望至負向 AI支出與現金流引發疑慮",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zcE9ZUWhDSzctRkFxelQxVmwyRnVuVmdnZ25naHBBcnZiVWhKU2tlek1tRlYyUWhCbkstVHQ3aGhWeVFINV9CZE9qTDZ6VV8xTHFfOFQ5a2hOXzl4NjBmcENn0gFnQVVfeXFMTnl6RE5fLUlyWXBIZDFHQVgzRkZGaWxlOExoUURSQkhEeGxiU1E4RUhwMWVCbEszbWVEWFVzWEFlXy12UmJOWHN2QUJCMUczQUdnR2RYdmJhQkkyckRLZlRzVzFvaFhqNA?oc=5"
+    },
+    {
+      "title": "美股遭重挫 蘋果超英偉達重返全球市值第一",
+      "source": "大紀元",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVQTVTWVpLYVVTWm41SnVPcDBnY3RoaGMtWjg2VlNnVjNQX0RpZFliRHdfVThfRjZxNk5kM0xlTXdDTUZ4bEw1WFYyU2RYV0tpSHNyNi1MekRGdGF0WGFOVTJB0gFnQVVfeXFMTkhZZzU3bTF4RS10N0RlNUR4VTRHVEpuQXFQYVJtQXNEVTBSQ01tVFpVSUFVYVNGU0JiLWZxQXR1RWVXczFLbWZQMWkybUFmZEI5X2Q1dDdXUWhBblV6Yjdia1NoWVQ3UQ?oc=5"
     },
     {
       "title": "美股急挫揮別十月 英特爾瀉28%累科股",
@@ -62,19 +67,14 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54TElCNm1kR2VVaVR5SmZmTjMyd3NsTUFMbUpCY1J5Yk5ncWswUDlnTnRqS2t2MS01RkpWc1hiek1uTENRQlprdXRIQTk5WVRVc1RTSlVOQ0h0S0FFenk1TTNUUUVOcHZpeDE4UVA3eTlmY0pweTdB?oc=5"
     },
     {
-      "title": "資金轉往防禦性題材 美股走勢有壓 | 基金天地 | 理財",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmlfUHE2dGxJYjJTMzdkNTJRa2wxcU5aaE0tc0VoTm5EZkRnMGgyMmRIMm9fZE44eFBHWnhtNVJUc1V3cWNxV0NTdmhRc1pnbENYbjkwUVM5Rkw4cm44Wi1wZzdiTDJzU1dUVjVjU3VmMXU0Qkl1aVZMdWE2dkJaUw?oc=5"
+      "title": "標普500指數新成分股曝！今年飆漲141%、將取代Kenvue",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NZzBZN3UtYXI1aXVDQzNxV0JKbjd0ZXlEUE1hOXZsRmFtNmVXa0wwVmdWLVFNbkVFRThQUlh3My1ySHZ4WTEwcnVPanFLWFE?oc=5"
     },
     {
-      "title": "歷史數據顯示：不論誰贏誰輸 選後美股都會漲",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50Z3AybXJIaG1zSl92SzRLZlNDM0ZWdGx5SmlQOEVoNzdDYmVtSzRlRHk5d2VHTGRDNmpfTUI3eDJCS1EyUXlRbklDNVBvTVFGZzgtX1JOVkpJMkE1cFJycHlR0gFnQVVfeXFMT011aWlYX2VyOU52QWdUbkR3d2RfYi1rWjByc2xkSi1PU3c0QkhUNml2UGd2TllGWXcwZzdSYmI2YzZnRU1sT1dIQ3plVjRCSVY3OWVEQ3BwVkp5XzNRaVJPVF96M1BTOA?oc=5"
-    },
-    {
-      "title": "美股盤後｜美債殖利率、國際油價齊揚，四大指數同步收黑 0924｜豐雲學堂 2026 年 10 月",
-      "source": "永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNc2RkNFNjMU9vc0YxXzFzck1mSFlRYVVBZmxOVmN6OEVnTUE3TWp5TWVHRTIwdzc4aFJYOVphVkpNUzhBOWN6OHlfTTFQb3NmY0JUSUxBZTBYVGtJcDk5LW1GZ3Btb0ROVGlaOTQ4U0lldDFFNVFFWnZxZ3pWdEY2YmFKRnQ4aGZiZVljSUJONjlUTC16a0R1V2gxaXpWNEVlMUFsUFV5blJ6ZEU0b1U5U3p2NkNhaHNrakJhSDRoNFppWkc2ZXRZWnVQenpNam1qaGJWd0dPOHBuQ2lFSlBBQnZiYWRZY0RFbnNQVGx0RDQ1TDFyQWdWdVE2ckYyMjVGOGs0YkNRZTBGUXc1T2xqQ1QyTTZkMzIzWTB1cWw2TzJFeFZUQmwwOHRDZ3NwN3BwakI1cW8yemhOUjZ0NERVeDBLZG9vdzBrbUMwa0ZwbnV2NjNfZlpWYV9TTHhzcENKMlZpN1dYb0U0aEV0VGRrR2FWRE40MXJ1R2FtbXFYZEstdGpjU2NNbGoxZmJkU1hENEZmMm5DNURUSTlCRVRwVGZObw?oc=5"
+      "title": "英特爾挫28% 華府持股價值蒸發936億 AI半導體股大震倉美股三大指數全跌- 20261101 - 報章內容",
+      "source": "明報財經網",
+      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPV29sRVFkNmRVd0tHQ3YwY1hZTDFyV25vdGR3YWEzdy01SnBnWHVxSmw0dWpLSTNEMVc4MGMzRU5WdmtRcUdTMmF2a0lhSkw4ZkotZEdHVHhGN2ktb05XRjZINlZIQWN0U2o3SjBUaUFoY01XNGtjTGNUSXNPb1RHSm1oZGJkeFpWdktOSGJKMU9ZWWlQUTVLd1IxWW8wZ3RlZUZsZXZ4bnhMRUNUVVhCeVZvcUQ3blFPTjhWMWwtZ2pRMmNEblktZnZUaUJmQ2EzMy1Cd3FJeHBMdEZsZjVkTkkzWjJwd1d5dDhGWVgydEpjMm8ySTBMbWNQdkFYX2xVZVBsejg1X2k1eGJma1QxVWFCSkc4N3M4anVNZkl4TG5vemx1MndvdkEtZ1c2RmItMDF6R25YcDlIdlI0ZlMzZEh6N2V5QTYwRHF4Qkxld2FXYjF0SzNfc3FoaDRlak41Q3RnOVZ4OEZnSkctVU1hcVBkSkZ0LXlreVRtMnZ0amw0NmlDQnoxSzhDQzF4ei10TllBV3VhaTFxV3g1NXFFajBmcG9heGZKSVBiMDlvMnl5T1pCVEJpMXZsQl9mZnZCODlRaTFCaXVtLXc?oc=5"
     }
   ],
   "events": {
