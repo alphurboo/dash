@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-31 20:40:21",
+  "updated_at": "2026-11-01 07:15:22",
   "gas": {
-    "current_label": "10月31日 (現行油價)",
+    "current_label": "11月1日 (現行油價)",
     "current_price": "177.9",
-    "predict_label": "11月1日 (明日預測)",
-    "predict_price": "177.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月2日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "國際｜奧列什基居民撤離完成 俄烏同意定期人道救援",
+      "title": "國際｜伊朗揚言無限制反擊 稱霍爾木茲最快兩日重開",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNOExjUE9TY3h4cWt0UFNrcXQwM3FhaC1jUnl5ZnpIazhtZy0wLU1Tdnc1Y3RpTkd0cFFqVUc3Z2ZVTzQ2SFhNYWs0cHBPWmsxY2lxSHNkdm8yczhBa1dtYm40QzRYZnlyX1U4YnR6dEYxbnVlUXNrejlfT0lRLVgtbzR2a2xfcy1Udk5KUDhzUzBCNEZCSDhqRUlVZ18tYTB5R0kwa1lieEp1X0d0VjRPQlNoalg3UXFpdVhuak9yWnZaSHppUUxjVDJqTm9xeVlUTkNMVm1HV3FqRkszalFaWHlkSTdBbHZNdVlfb19LaV90c25RWUVZRmtTZ1V5MzlCbm5MNGFERXZkZ3J2cDhidlBHZ3RydTFfWkZJMXlrUmsyVHlFMTVYbjJONno2amFZckkyakN4dWJlQWk3NU1IbGFJMkh0Mk5CZ0tRNExOLXZsQ3J1UFJocGREQUVUYk01MzNobUtobUk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQSG1UZnVCaWVJZVg5R2RERTVpY1VVY2xNcVpZYk9KU3JBWmdlMmd2VnZJNHl6dHE5dkZ1dDNrZ2E4OF9Hd1hsSUFDYUxpZmR6NFhWZ2xQMnFsTGh0TkRXajBNUEVBazhEcFdWQloya2lhb2p3M2NoeTNKVXNVeWFrbGJPdVdLZklBVV9IR09kY28zZE9GNGtnYnNnbVJCOVYzY3FJR2w2dVFfZW5rMTdqYzk2ZzJCYU11RjZmMFVNa3NXV3BiVDdvdnBWNVpqUk1JdHdmczlsUnhHV2ZmRnEyR0dhcnRBLWxQaURNQzFZdndaaUZTWExSRFJQSWpTeFhfUG42Yl8tTVBONjRWSHNlemFXOGZrNkM2N0hVblhqMGRuekJ6Ty1lcU5QNHJoNncybHk2Y0hBa0xZSlo0WFlyc2NzMEJCbU5DQXVuRkZ5ZUdKV3czU1dyS2pWVEJlakcwWC1POHViWGk?oc=5"
     },
     {
-      "title": "美以伊戰爭｜阿拉格齊否認伊朗有與美國談判的計劃",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zZ2FjVHlPM3VTM2xWTU80S0ZZQkRfbFBOeno1RzNwWXd0elk4aDZkMUthVDYyOU9BbFhVVmx5TlN6czlBYnQxV3YyN2JOSmppVERqQTh2N05YeTZ6VXM3QmRUWEUxTVVNSXlBeEVubw?oc=5"
+      "title": "美國要給俄羅斯\"影子艦隊\"解禁？歐洲很著急",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQa0RDb3lfbWE4WnNUeEJoZVc0SXN1Z2lpZU82RXUxOEFEaWQ4REp4WVFORU1kTDZ5TU1HcXRLMTVKWldwdHpCUzdzSzB0dWFDNnNRUnNheWZrTzcxN1RfYTZPd3JVcTNBZXRtUndPNF9NaDFaY3lhM2tSNDVuVjBkYlVXV1Rwam9fcWljSm10YXoxQkMtQ0JBVEV3MVhVdVkwOXlLOUpCaGtlUDV4R3hrOFZZU3hfUXkwY1pUTWp3emFUT3hqZy1jWkVsUGpHenk2UjhyVFRkLThBYWUxQnFSb21sTGJxRm13TlRZZ29JVThmcWtRT3pkS0ppUzJVazNURzBabFRYeUdPWExiVEtESENLREVldVRFSzZZd1IwcUtIUV85QWJfOS1NaGpNYlp4S1JXN2xPQmtSNG1ObDBPWEdhd3d5R2JuYlRZ0gHLAkFVX3lxTFBrRENveV9tYThac1R4QmhlVzRJc3VnaWllTzZFdTE4QURpZDhESnhZUU5FTWRMNnlNTUdxdEsxNUpaV3B0ekJTN3NLMHR1YUM2c1FSc2F5ZmtPNzE3VF9hNk93clVxM0FldG1Sd080X01oMVpjeWEza1I0NW5WMGRiVVdXVHBqb19xaWNKbXRhejFCQy1DQkFURXcxWFV1WTA5eUs5SkJoa2VQNXhHeGs4VllTeF9ReTBjWlRNand6YVRPeGpnLWNaRWxQakd6eTZSOHJUVGQtOEFhZTFCcVJvbWxMYnFGbXdOVFlnb0lVOGZxa1FPemRLSmlTMlVrM1RHMFpsVFh5R09YTGJUS0RIQ0tERWV1VEVLNll3UjBxS0hRXzlBYl85LU1oak1iWnhLUlc3bE9Ca1I0bU5sME9YR2F3d3lHYm5iVFk?oc=5"
     },
     {
-      "title": "美國國務卿盧比奧與俄羅斯外長拉夫羅夫討論了特朗普和普京下個月進行互動的可能",
+      "title": "景德鎮等5個城市獲全球可持續發展城市獎",
+      "source": "紫荊網",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenFPV2NLNUJzZU9RS3RRRlhDYkNaZGJqVi1TTHhsQTNfV2xDSmVGLVpyN1RNOVJfMy10dTEta0VIY3JSV01BZFJaTUNmOUdYRXpRQ3hpbTZUSnY4Q19vVzlMSmRYekd6aXZ0c3k2U2VuUFQ0VW9pYVVpRnhfLWVtdHhvNExqQ2haOUZhNG9Hc2k?oc=5"
+    },
+    {
+      "title": "美國FBI指控朝鮮黑客攻擊幣安加密貨幣盜取63億美元",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMimwRBVV95cUxNalVOZXZpYUhJSFR5dzNqLXVwTFpYNmRhcld6RmRnTG1ZVkZjdzEyb0tLdlBzaEtMUm40bk1NNEdGbjgtVVVFcDR2SDFRbm5ZMXlVdGlFbWN3NGRDak9TVE80QWsyS04xQ21FLXFNS2YxNmxsUWpLbmZpYjZFUHNIa2k3bVdDcXNrT2xSVXdka08xOERwRE03OG4tQnUxTkhvQU5tblRyRDBReVFBemozZmY1b0VYMUhwb0U0YkhjYXpLMnB1LTZjUEQ4ajNRTWhOUG5lcUZUeTA0dExUWTdjdXJ5RTZ3eGtkZkRxREsydjZxSngxa3dQaEVUckVRU0syUVBNVThOR3lzSFplbDRWdXllQzdrNl8yUFE0aGRJN0xseWRtTDZoMExwUWNYNGJUYVp0TGc1NS1JbVBuQmY1bVRXcy1UU0FrNnJyVlFVNWJhZjVPOEpCeG1rUHdFeWprVHkyamNLeVhCc2ppS21SZFVzS0xGeWlNTXhMVHN2SjFSNnM3c1RDZVBleHZTRmlFNkduaDY1eERxeWdHb0ZMSHRaaUJETXBoTGx0NEo0NUo1OVQ5aGc5cnZUOW9fX25ZaktHcWZHMW8zR2hray1NV3ZDWkZUTW5yVFpwSkdZQzk0dzVWNUw2Y0Q4NkJ3X21ZSWgwNVJ5T0RaRkZ0d0c3cjRuakIycy1iZkdTVThBUDFqcnBWR1JqMlRiaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQV0xabEI2VkstY2dJV0VER0FnWXV2RzUzR0hjZWhYRDFwMjN0cGpZTV9uZHZnX29rUDBVWi1fUHhsTUR2Vm5qalVqb0tTTktyM1JOMWNpLXlpc3h5R2FMLWNPYlZfOHdqSTNmNW9EVXRpTUpIUzdwQ05KdXBUX1pmWWJwVm9PTXNFRmxkTktJS056dUl3UmFUNnRNY1hIcDdjOEF2eVMxcEZQRlFRaFNFYk5pazFNT2dBck5mOFR5d3lqZk5jRktlRktDeFctOTNoc0lGcFNYMDNfR2VGX0RGblhDTE9Kd1QxeHhUTkJ0NjMyaEZmbTR2enF1YzhNRGZzeWM0ZzJRUGR3NFBUQXhmdzR4b21TUmFPSWxaS01YLWdKNzdJX2Y5RU5zLWpYaWNVYURwbjNnQUtLOHFCREZNcmpWMGwtTXdCNHBGc3BEajBYVU9GNFJzVGVaWnd3c0NoalE?oc=5"
     },
     {
-      "title": "俄烏同意定期開展人道主義救援行動",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54MmRFRWktZjNwVUhPMklWeHVVaTk4RmlKS0h3a3oyYUxIOTFOT3B2TDVvbUE2anpXaWo1ZVVTbjdGUHNNb0RYXzgtQUpna1ZCQUMwSnpvSXBUNGg4TEHSAWNBVV95cUxORzY1NmdjLXJCRWRuRENmLXhEWi14Zm5McGRqaUVUX1JkUUhLNS1tUEtyVXBMQkRfUE81U1QtMEFsd0RVb3lhSUhNRHZnMThQUlFLMmVPT05sci1FcXMtUUxaLWM?oc=5"
+      "title": "國際｜特朗普稱伊朗核設施尚餘一兩個目標待處理 料短時間內完成",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQMlFmNXJpeEZKZm9YN0FOT1Ewck9wMWktS1htSVVBZE95NkpsZWVrNXVLREc2MDc4MkNHcmhOUVFLYWY1MVpGMzNWZEExT0t2RVFadnQwX0pjbHV6cXdYTGFWbll1SGJleHlDRzZ3YXBOdHAzdXc2LUNXOWFSU2x4NXpDMjYwdWlUWTJMeHBsZXE5N3AxM2N4em5OOWZkTTlpWEthdm91TExYbjJjZ0Y2QzlGOW55VWc5bmQyN0ZITU96Q3lEdDJXTDFjQ0hBMXdhRjNXbWY2OWw1Q2ZObTJZRUdvd3pNTUhESDNiUXlFdWNGUjdmZjlDR1YwOHRHMDBLNFJXTXczekRaT05ucUc3S05sYjNJZDItaHJnbjRTOE9GcndYRl9MeG5uVGpqSDZxeGhGdFQzVVA4YW1LVHFvaHc0bkJBQ1Y2aVZQX3Q4NU1VVzRlZnJxSGhRclNlbjdTZXE2dDEzT0dUZ0xVaVJ4UnhyVFZuT25qdHNqbmNvYzdsUEtBckxmMFUtcFFBTWtWeWRkMm5JTlBqTnAtckVVaUU5LVhRQQ?oc=5"
     },
     {
-      "title": "俄方稱俄烏同意定期開展人道救援行動",
-      "source": "TDM",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGJxdFJVV3pnQlk0dFpUa3gtLWtyc20zc1RDMHdDUi1sTHNGN1hVd2JqQlNaempUQjk2VElYY0gtczg0RTFPTFZPdGJDVjBSU2c2NFNpNEhVaWNWUFdrdnpQRUlMWERtemFha3dZNWNQMnZWaDBBQkZDcEItaldzTXN6UQ?oc=5"
+      "title": "國際｜特朗普拒見巴西落敗候選人 稱弗拉維奧可長留美國",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQQkstaXlWUXJ2dlNYcU1mZHNSek9uMW10YnVVbzJWNFNSNjNHZnJCU2lCVzdtWTFHcjV1X1lLYlpOcGVmSVVneEJUWkpxU3Y4bjJDRU5ocnFXMXJRZDlubmgxYkstODFxZ0x5ZDQ1VFlmUkIzSFVqVktOT283UlEzX2QwU3duWE9BQkZURkUtMElXSHlRbGZsSUlxbUZ0N016WXdZWkVaUVJLU3JMTVN4UXVNeHRYdjRjZVYxcVFRcWFVTmRNajVyMFI1eG5QYlF4TFRJR1ZyaVViU2FTb094aDBSUFJ3RG9BalJ2M1ZxRDkwT3NRY3B3TnktNkZ1VVJiSVRkc3lyVjI5SFVWalRGT0Y0Z0dSZE1lU3VTaWpwMnhnanlQWkZPWk9SLUdEZURlYTFQNVF0RmJXei1kVkNtUHNWX0dBTnhGUG5QUlJaOE5zbjg1alFNTnFKdzlPeS1YVnZxbHhrelJWUTVOYlNQRTZDSTFmSUR0QVo4RW5FOTA?oc=5"
     },
     {
-      "title": "【聯手應對美國】加拿大與歐盟深化聯盟 加強貿易及科技合作",
-      "source": "SBS",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjZRTkpSamliOHFHNDVDMHhmcjVpenVvcWV2ZGIxenVRZUtPX2pRVm5nNXh4b3ljTTZuX29WY1hRaWZCS2daeWlBWHI5UzBROEpPWU1qem5YalBEWkltRUFJNS0tdHJSSGJrdWdDS0VjLUVjbndhZ0pXLU5tZmJPVGd4SURuOVl5TGZDNHBiRG9fMzk0QzZHU2t0SnN0T2NodndHQ1J0NWZYY0J3VmE3blk4T0ZFZ1NxMDVyMmIzTlE?oc=5"
-    },
-    {
-      "title": "魯比奧承認G20外長會未就全球經濟安全等達成共識 無發表聯合公報",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPajVZVG41dUVXblpuSG1Yd0RhVWhvSkhDR1FnbzdoNmNGRWRRcHRZeG5nN1BYbm8tOGhkX3VrVERHTmlTVC1Za2ItZ3dwWWUwdVExLXlfU1pMbEFZR1NXQVdyYTY0blhWRTByUmQwSGVCQldiZzVoX1lTd0g2MElWZEg1cWVjeXZvWW5NWTIxbWl1Wmh1TWZfY1l5bkY1bm1SSFFjdXhFM3lNR3NaRmFSeWJsV3cxQkVHN2NkTVQyV2hYZWNKeW91ak81R2pDR2VIaXQ4SXdRdDZBYmNETWdRVkpua1NiczI1dVVxNF9oanJQa2U1MTRqWkpUNlk3X25CZFlVZHNYTzFwV1BpSVFaV0o1Y0dqWTJiUHpZaWx4SFpXTF9vZWNOUnZ4UGd2TEIwcmZGYnhuVjJ0NktDUExhZ3p6bHhmV1c2SjVpT2JGLVRMVE5TYnIxTTgzUmlIbFlBMEhZZXY0a2dQYy1jYWJFWjRSd202QlNpN3dDMElXSUFPeG41VG50dE5PUUQ2WnY4X0MxUkQ3a2dPdWs?oc=5"
+      "title": "美國普通家庭 為何越活越累？",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWVTdzUwRlFnX2JlN1QwSm9Oank2eVdPbzR3Y0F5OFR6T2c3a0FiYmN3QjZFZHlqN1dKbkJNeXVSUktFRUVaOWJjU09wUV9zWDJVM0QwejVFUldPZjM0WV8tWGNxUFdxaHVlWkdOcVJXQ2FBTXNoRWVGVzc0V3RDeWp0NHdWQU9ucHFWRWR6SkU2ZGMwTG84RkF6SkdhMEtSYWJDeThlSGk2Q0V4MnI2S01OY2xUdmJUVWZ0WmY5aVVYRlQ5VGtGcUZqOTc3WmZqa1c2OW50MEtNVmN2aTFaaE42cWtsUQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "標普全球調降Meta信評展望至負向 AI支出與現金流引發疑慮",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zcE9ZUWhDSzctRkFxelQxVmwyRnVuVmdnZ25naHBBcnZiVWhKU2tlek1tRlYyUWhCbkstVHQ3aGhWeVFINV9CZE9qTDZ6VV8xTHFfOFQ5a2hOXzl4NjBmcENn0gFnQVVfeXFMTnl6RE5fLUlyWXBIZDFHQVgzRkZGaWxlOExoUURSQkhEeGxiU1E4RUhwMWVCbEszbWVEWFVzWEFlXy12UmJOWHN2QUJCMUczQUdnR2RYdmJhQkkyckRLZlRzVzFvaFhqNA?oc=5"
+      "title": "美股｜AI投資憂慮升溫 科技股對沖需求急增",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNX1M3Tk1PMTVIcG5udzdYb3FkaVZVd0ctUWJDeDItWkZxWkROcHpPOG9QMEJ4VzctOUx4OFJnNk41dGhDZXlRdUtWVVV4dWdkQjFwa2VBTWV0T0VDd0Z2V2MwYXBaQmZ6ZEdkbVlHb2RnT1haaU8xVzlXQzNlZkNpV1B1VWhTSEF3OGJDMTB4ZUF6cTIzYTBZTkNWUHdIckh1dm82bW1INjNTN1pPckoyamVnYjFXaWdIbno4RWxQOHVxd3dhQWFHOGdJOHBJamxzRzBweUxmVGNhei1EY0NZczQ3V0ZnU2xLbmJ5eDF0VnAxZmJNcS1ZaDJNejEyNlpzbW8zdlNWeF92TktGOWR0a0d3M1ZBaEZvZzJsRGcyZ1BrWFR5RDlKZlJwaEk3aTA?oc=5"
     },
     {
-      "title": "美股遭重挫 蘋果超英偉達重返全球市值第一",
-      "source": "大紀元",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVQTVTWVpLYVVTWm41SnVPcDBnY3RoaGMtWjg2VlNnVjNQX0RpZFliRHdfVThfRjZxNk5kM0xlTXdDTUZ4bEw1WFYyU2RYV0tpSHNyNi1MekRGdGF0WGFOVTJB0gFnQVVfeXFMTkhZZzU3bTF4RS10N0RlNUR4VTRHVEpuQXFQYVJtQXNEVTBSQ01tVFpVSUFVYVNGU0JiLWZxQXR1RWVXczFLbWZQMWkybUFmZEI5X2Q1dDdXUWhBblV6Yjdia1NoWVQ3UQ?oc=5"
+      "title": "科技股財報不如預期引發美股大跌 本周還面臨哪些變數？",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GREUwN0J2YU10NW5zUDFobEM4U3AtZnJ6OEExVnlvMXoxYWwtaTE4U3FNcWM2b3lWalZYY21CdXlEeUxIQjVmQk5ZUDZUaVJH0gFWQVVfeXFMTmN2ZkRoY0pFYWV0VEx1YXp4LTNnRkJSeTVaTEtVWGNjOHQ4SUxLS0NtdlRwYTBicThmLVRZdThsRDB5Wjhnbk5vMGVORTFvcUhKLS1GRGc?oc=5"
     },
     {
-      "title": "美股急挫揮別十月 英特爾瀉28%累科股",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWHNyOE1jUXFmQ0Y1ZjVhVnhhT3llOHllV1N3TmJ0Q0pJZFRGRWlvZFplX0V3MmdLOVBpYlBleDFQck9zQUFMckhaVWV2QnE4MlAtRXNFV2Y1SVpTc01NV0xfRkw0aW5ZbGs4b3lJdmpjU1p3SFVDR1hwZnV0NkpXaVdNbFFSTDlkS1VUeHU1WmF5eDRxRk9SRUUzd2UtWDdhMENWV2FBWXlBemIzdFlRSjN6aEM3dExvWEdhRlFPOEtlLUxFdEJrbGtObjNVVzhDMEN0aFJ6b2dsQ0lfOFJXWjFyc3RfYV9XUUxvakwwVEs5UTlFRGNkYnNSdGE0Y3doUWlaSm5yNVJEWnVOOHhqRkxyUzBidw?oc=5"
+      "title": "特朗普控《華爾街日報》及梅鐸誹謗案 法官駁回並禁再訴 (16:41) - 20261101 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxOTXA5WFFXOXNQMjY1WHR3eVZPU2dzQ296ZVJFWUZoaGtuYVJDdjBDVHlnRXlkYmZiUTZ6R05YS2JrWGRVOGRDOVRCLU1GbkdGaTFMSUJnQVllNHpYdTlYOTd1ZHJUMkpXaF9nellkdXlvMDVnU1Z5dG5xR2lvRS00T3JxZ2t0S2UyNDBTdGExampPMW1fZXkyZDNYVHRiRVpXM2lXaVBVazJuenRmdGl6dkNTS3Z5dGozUUd2Sko2UDVZQW50a2F6MkRoQnk5MlhXSWstSmM3Z1ctT2tFb2VKNnpsdmIwZ0VyX0hncGxHWDBHZXgzRjhfRXBWWUlTaExWUlNSSXI1WThqVUluWjU1bk9fOXNDU1ZBMjBoNlV0T2xFcTc0UFNlUURvWmRMc2c4c2kxYzlBSU9yN0UwWHo1Z0x0VTBRak9FQ3FEOEtVM3FXOXpJdUFFVmxFZU1tQmlkdHUxMFJZVXdNZC1MV09keUM4eElvaUNRWlo5Wm1Bb0cxMkNGVUFJQnVwbUVldV8xYUZOeXZpMmhxd1FuVU40M2tORDZBaGMyenpJa0RfZmhScWFzbFUwMlBybm0?oc=5"
     },
     {
-      "title": "美國法官駁回了特朗普針對《華爾街日報》提起的訴訟，且該裁決具有終局性",
+      "title": "港美股技術周復盤｜20261101",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOMVFLYW15MXhTNHJyd3RwTzFYLXN2NUh3SEZ0ZTU0MzJjRnJQQ0ZtLURWbk9LZ3pybjQwNFdQNkF4Q2loQ0ZvdWJBbFVaN3dxemVPZnVtZVA0b3dGMGU5VDhNM3N5SHVPZ2dTZzI0V1VpLXp5UXdlYnVhdi1hQmxpeWxnMXlIUmNsUG5FXzBiTXNoQUw2YXh2aTlQRjdzR0dGYXVDaWRpakZISVE5N3d4NWVrel8wb29kRFlGMnI1ZG95X1N3eXQtNmxoWjNPVkdJeXNpckowajR0cnBZR0s1Vm9aZktaOElJeW9UNWpTUlVZUGxoNGVvZ1JncGw2aUNfWFVmc3dCMUVQRW80bGJueVFPYlZybzZ1ejN1d19Ic2ZZUzJxQ2N1NUQ1QUVqZzNaLWZqY0ZoQjE0VGtHZW16TVVLVXgyX2RpcGVLbDVsSW9LUDZfU0xnUHNIa2lKelhVOE1ZVTBZX1I0WVE4cmJvY1Z0amhONWZWLXlmZkFkbUpkSVo1RGVzdlFMNkpMQ0dJN1MxWnlJdWFZSF9C?oc=5"
+    },
+    {
+      "title": "華爾街大佬：亞馬遜、微軟和Meta，越跌越買",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54TElCNm1kR2VVaVR5SmZmTjMyd3NsTUFMbUpCY1J5Yk5ncWswUDlnTnRqS2t2MS01RkpWc1hiek1uTENRQlprdXRIQTk5WVRVc1RTSlVOQ0h0S0FFenk1TTNUUUVOcHZpeDE4UVA3eTlmY0pweTdB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43WjdHQzN4OHIxSWR5UU9kSEp3MXhxZUhwSmd4Wkp6LWFrUkl3dnhBZVg5aWY4cVZjdEZpX0ZuNC1RdW00NnVFN0VIU0EwZ25ONFdhMXktcnhsVUVkRC13UTBPTURPTTNhZ1E?oc=5"
     },
     {
-      "title": "標普500指數新成分股曝！今年飆漲141%、將取代Kenvue",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NZzBZN3UtYXI1aXVDQzNxV0JKbjd0ZXlEUE1hOXZsRmFtNmVXa0wwVmdWLVFNbkVFRThQUlh3My1ySHZ4WTEwcnVPanFLWFE?oc=5"
-    },
-    {
-      "title": "英特爾挫28% 華府持股價值蒸發936億 AI半導體股大震倉美股三大指數全跌- 20261101 - 報章內容",
-      "source": "明報財經網",
-      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPV29sRVFkNmRVd0tHQ3YwY1hZTDFyV25vdGR3YWEzdy01SnBnWHVxSmw0dWpLSTNEMVc4MGMzRU5WdmtRcUdTMmF2a0lhSkw4ZkotZEdHVHhGN2ktb05XRjZINlZIQWN0U2o3SjBUaUFoY01XNGtjTGNUSXNPb1RHSm1oZGJkeFpWdktOSGJKMU9ZWWlQUTVLd1IxWW8wZ3RlZUZsZXZ4bnhMRUNUVVhCeVZvcUQ3blFPTjhWMWwtZ2pRMmNEblktZnZUaUJmQ2EzMy1Cd3FJeHBMdEZsZjVkTkkzWjJwd1d5dDhGWVgydEpjMm8ySTBMbWNQdkFYX2xVZVBsejg1X2k1eGJma1QxVWFCSkc4N3M4anVNZkl4TG5vemx1MndvdkEtZ1c2RmItMDF6R25YcDlIdlI0ZlMzZEh6N2V5QTYwRHF4Qkxld2FXYjF0SzNfc3FoaDRlak41Q3RnOVZ4OEZnSkctVU1hcVBkSkZ0LXlreVRtMnZ0amw0NmlDQnoxSzhDQzF4ei10TllBV3VhaTFxV3g1NXFFajBmcG9heGZKSVBiMDlvMnl5T1pCVEJpMXZsQl9mZnZCODlRaTFCaXVtLXc?oc=5"
+      "title": "特朗普控《華爾街日報》誹謗索780億 法官駁回 不准重新起訴",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPcFJDYXBjMnZtS21SVnV3eGhSMUdiV3FaQ19IRENuc0tqbEw3Y3RQZDhFcFZsTnJTbUJoVjlqaWgyM3h6R0NtdU1MQ1Mwa3Z1Y0hlTjhvWnZGZWppcWVpa0R3ZXhXTUU3N0VZRTJLME5BUUN5eG9SNEhxVkVsT0JaNHh2VEFqYWNpcWtHaHhFQm1sVHhHRHprZ19VRnV4WEhpNDNZdlN0dWl0bHJXX0xaZnJCTnczcVdGVU94UVBuOGJiOFRhMjhIX1p1WTRoTUhDSV84eGh2MHVYeUE4WGpjc09uX0c5eGlwbDlaMGVFTTdHZFlReG13RVMyOFF1M28zYzFkOFRWT25uUGRFbUE5TlJxNlpZUVZwTTR6d1dEV3B4Uy1feEo4WU5HRzNmazN2WXJ5VXh6U0xrUUJTNDFhX3kyWWxzZTFhTWVzb3ZQOVhqYldZZ2VyUnVIYUVrN2Fabi1OS1lXcWlYbFpQRzRUOXBtYTFORVZMOVphUFJqSlFSSlc3SXBfWlZycTg1OU5pZDhN?oc=5"
     }
   ],
   "events": {
@@ -84,8 +84,8 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 5,
-        "status_badge": "5 日後"
+        "days_left": 4,
+        "status_badge": "4 日後"
       }
     ],
     "stocks": [
@@ -95,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 18,
-        "status_badge": "18 日後"
+        "days_left": 17,
+        "status_badge": "17 日後"
       }
     ]
   },
