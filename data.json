@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-01 20:14:08",
+  "updated_at": "2026-11-02 07:15:24",
   "gas": {
-    "current_label": "11月1日 (現行油價)",
+    "current_label": "11月2日 (現行油價)",
     "current_price": "177.9",
-    "predict_label": "11月2日 (明日預測)",
-    "predict_price": "177.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月3日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "歐盟11月起加徵進口小包裹處理費 每類貨物2歐元",
+      "title": "美國中期選舉：民調顯示民主黨將取得勝利，但預測還準確嗎？",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjc0VBc0pJT0RNNG1BWVNEUU5xUDhNRE55SXI5TklfMFFOQzBVZV9qMVQ2R3JzN1FrRzdBcW9SeWx1clRTQksxbGV3OExfZWNsU2hCNjdiUkRKOTlMV292UEhfLWJKMHPSAWxBVV95cUxOd05hbXBLZUxOZi1tSUt0cmpLQnA2X2tBcVpyNGJFdmRoTjNGVzNIQVg3MXJ5OWRKeFQxenlna05OZUliU0RUanVUR1F0X3c4ZEFqZGFXcEpFQk5EMlB5eUtYdWNJWVZnSjB6UmU?oc=5"
+    },
+    {
+      "title": "[深度] 從巴西到歐洲「川普主義」遇冷 美國中期選舉牽動全球政局",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQcEhma1J1d2lGdWJEb0JlOWdXRmp5cUtib18yeUdkUXhmN1F0cXRZYVBVRDU5NHVfUjF0TFJ1QTI4dmJ3TUlXLVZfU0NMSzhudlVOak45QUo0SXlpY3Z1VVA0eUk3UGdza09kUmRtUGJVejRDWkQwLW1kME8yV1pKWDhUOGRFYXN0bjFKd1VrTUtSMTdNdzQ3SGpyLTczVU1zVm55R2NmWDFGSi1JTFB2T1N5TWFXQWRMWU43WC1jTlVnZTV3aHM4ZUpnV1NqdzhTbHpzVmxXQkkyT0s2YnFEemU5czdmZkptSmhlOV9xc0NKNXVVeUswNUR2WUdWWGdYZzdqNzFQZUplZ0hPckktTUxTSllNU3lNaVEwdU8zZ3o5U0ZsWFZ0UzJEMjFvazM0d25lRndTQmRTRlk2M2FZaHc3Qy1ucm1zS1Y4V1FVSTQtWjQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOMlNQWGtHTG5ITHJvajcyRVBKOVp4cGp5SVFudFlURGVZNjBpRmkzRVA3cjJPcFV1VTJzeTRRWGhEaC04c19XTzhXMklRb0U1ajQyVUVBeEtKMlFGOHJ1eGhtMWlSdURKMUdHY0pZZV9XYnlUZWtOVXl6ZVZlMGRIZVZJUkJsQnYtZlJpYkdhbEY5Vm5OVDB2ZEVUVTBzTWVYOEtMd3h2NGkzRGItNjFRLXVpNFhncG5EeHBobmw1cVhZbWdsOXVGdTFGcmpLLXk2ZDFyRFFHZWlrZnBwN2hxc1VENC01M3RDX2pwLVlCYU9Rd3RPMG12YzFyLUtWYzN6LXJ4ZjV4SmJXWUYzbHljQmlPZU16aWdEUmdoNVRDeDYwdkdwZElKSVE4RnVfTGR3YUoxeExOUW5UTUJQLVJxTXFLZ1V5YTROQnU2QW00clE1em4zNkNRMFRpcUg3MVdXb3h6U1pNd1E1cTZqRUZyVnRGT2w1U2Raem5XdmNnM2Nya3J0d2ZQSHgxZGliWVRXcnJHYmNybXlhck0?oc=5"
     },
     {
-      "title": "美媒：中國電動車衝擊下，美國傳統車企正面臨生存危機",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9razdJZDNpb1hLM21kZGVBaTkxWklkT3ZoVUJmNTY1WjJFclhRMTZlbWhaUE9CWWVSdklNRVlyZERsUTVncmN0TXJpbzU3NVFUNkpqLUZjeDRiaThKMHhMSkdDZmpuVWF5a19sMHZEcw?oc=5"
+      "title": "習近平：中東不應成為大國博弈角鬥場",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOOHFROGJIQUI1RXJoRV9GTnRRWWlyVlptemYxUXNLMG5sOHlwa1o4NGhXYkU5U1E2U2FDVDFCOWVmQ2o1eVo4MDNha1VNazNydWhIeG9oOFdESnc3ekVLU19fS0pQeUo2cnVsXzdYcTkyblZLX2gzd0NJbFZsbFROdUtMNmxaOXRLUWdkYkxLWDdkN0xUTk1obVdreVR2dTMxYUNNQjExVldIZzZMd1FSdXRnTjJGN2VzejFLeUNQRGFSempzR2J0a3R1Um5hUFdleTdENkFwVDM0ZWwxMFYtNnMwVGY3b2pLOUg2ajc0THgtVjVMa2JyR3lrVUJqd3RCUUF2OHRvbEhaVDFYLWF4OEpjeExQOGZFNmRlNHRZMDI1SHhsd3NMdmJMVE50Smd0dUlZSlBDX2w4RXpFMGlad2ptZmV2elQ1MjB2OEMxanJHVTNyY2FqcXRpUzFMSjk0MzZIc0RRaG9lZGJlYldIQVlKQ2FZLWVTRjZ2Vnk5SW45TlNseXAzYWdUU2FVcEZCTzVQctIBlANBVV95cUxQeENmRFFQSE5nalAtM1hnU0dabkJoZERWZUlwSUc0aDBtMWF5N1FaQ0h2WEdRV2M0VGhyU1VJaGlPYzliTnE3R0RicjE4R0RoRmJHZEYwSUZOd2U1bGJfR1NIMl96SElsZzh6S2I0ZG1rYzNHMzBVM1UwcXlwNVRwQlVuMzJxYlMzVnpiVV81OEdXSXdDaDhXeXoxdFFXdzF3VjMtVm1LWlo3NUNUbGhteFVaXy1zZVQ1d2lXOXczbTR4NlNsVlRYQk5YU0FpaU5xN0xnNjk3OHN2cEZ3aHlPdG84WDVDaDNlS0l5ZWp0bHFwbm5WYk5McjRlVGtkYm4tcFNabjFTcXpjdjdEZ1pWbk0tWXlyTVNzRTNacWdsYTZkLXBBS2wzNGxrNFZHbUs3MUlwaG91RjRrWExRWnMyQ3hJamdmbEJFcHVDV1BTdXludGx0cnhBS19hXzRPRGFMY0lRMVdHQTd0MlhxWWFuZmJLd1ZuR3AzZC0xVjh1eGJ5SEdfWW5zaEdtTnFKRkk4ZGVVNw?oc=5"
     },
     {
-      "title": "美股本周焦點：中期選舉及美國就業數據",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsZkk1QS1oSjJQN1FoeHVGWmdHTHBPZ1ZLMkxsR2t4eFB1cFRNcFhrVmxVV1NrajZNUDd4MWdNdXk5X2lHZ2pLTzVuR1pHbGY4cFNZWDZZWmk2aUI5Ny13NmN5czU?oc=5"
+      "title": "美國佛州小型飛機高空結冰兼遇氣流高空急墜直插地面機上9人全罹難疑機尾水平尾翼斷裂失控如導彈插地大爆炸女機師絕望錄音曝光：快要撞了",
+      "source": "BusinessFocus",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSWU5bVoxVTBWVm5YU1BNNmdhMzNPblo5cDI1N2lsNUp3bUlKUFhVM3BlQVZWZU1ycC1iWjBUWFNTbFJxYWc1MlM0T2Zlbl83b1VXYlR6QzlKemllakRrdXR4V29BMG1WdzR6ald4TFh5dFY0X0l6djJSN3o0YzlKQWNJUlNKNzRNQTRoWW54Zy0tUXhMYndLcWpmeHZZOWhBS3dReC1FcXVndGhxbmFwalBOVWJpaDdsTk16dTNvRUpnWXpYSjVIRFJqVnIwZnNzWGJIc3U0LVl2b0IyVHFWZWV0SnZDbXZaX0RTdEJZWlpCdw?oc=5"
     },
     {
-      "title": "俄烏戰爭 | 澤連斯基：美若提供愛國者導彈 烏將停襲俄煉油廠",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPWWc0QWZsMXBSRE1LY3VMSE9PMXdURHgzTTVRNjFZcjJLMmZsS0JmWnVHMzlvc0F5bUhJU0JPbkFDdEJCdVpZcDR2VF9wSm1FLXBQaDJKS1FhZXlPY0ZqeFlpNE9PNEZpT05FV1BMQUgxX2J4N1J3YnRGX05nYkY5ZUY2b0xyMUtISGRrdVBlWE0tYmJBSEt5Tkt0WEVVUWxXWmhZcDI1blZHVEZ0YXFSVWd3S1BqaHVvVmFqOWtsd3NaS2dBVVNpM3JKNkxiR25uWmRtZ0wzTHUzZFdUZ1VMSjNSYzgwSkk4R3BzalMwaVZURmxqak1xS2ZpMUF1NVJhcXFpV184cTE1ejFtT0NRSDV6YkRqLV9BRFhCcGgtTGJCSWNIS3hZUHgwcnIzR09rdnItVUlIaGF3eEdadFVjandRVGxjRU9SaEN1RTZiSnlLd0RyTmNFS3VlUDVRaWFtTnNMaHNsTkdna2VxY2JEOVVCYzRUOFplRVpORkFvLVU1amxfV0pWWDVKM1JNdw?oc=5"
-    },
-    {
-      "title": "歐盟Frontex執行副署長：汲EES經驗 電子旅行授權ETIAS明年避旺季上馬 - 20261102 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQTmstaGd2cGZxNU10U01JU19lbUhKanJ3dmw5ZFF5OWtXam5GbHppb0VqcVIzVDlVODR6TmNjaXZjam1TOG5rWW11Xzd2WnZ1Qkhvdm5mTjExZDBGMi0wRDQ3SXVuU0V2UnpsQlVJdmhFQk16WV9Wb0toTW45cWFVMzhZY0wwSkN2RjM0bFRrMXNMNHJFbUFLQVNfSndDblJTMFk2OEJYa2xFZEFZQnoyMEs4aExNUVA1cnUxWTRjWFRGSTQtSHZjZTZvWFltOUY5TlRkYm9ERDI5MkRtcmQ2XzRnR3NEYkRLeFBxLUdUZFVQZFZjWFcwd2J1MWVyU1E5eFdkSlc3cDBwYW1YcjFVMmpMY2ZJdUI1WmFoT2Nua2ZQQUQyVTZGVmJoZHI3aEI4N0s2ODNNLVR3VlNTR2tJTmtXbVRmeGo1dHRXdEJhMWhCV3FFMGszWFF1cGFkaklicW14RkxyODgzUDJaX184cXd2b3BLZFZ3aWlBUE1hWm4wMkVpQ293WHRfRWttaUhPcFJ2QjRrZXNIM3I4aEM2NVIwZll4RGg3cHRsWXc2SmVOaGlSMGxhNENn?oc=5"
-    },
-    {
-      "title": "美國佛羅里達州小型飛機墜毀9人死亡- 有線寬頻i-CABLE",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOd2k4djZyajZfVy1ZUnhfc0xmNnFrdGFCU0IzU2N4ZzVtNXYxRlp4bkFoUndZekU1LURqTnhKcG1RVnp0VkQyT2kyd1RvWFIzRXBtd2t0ZThqVkhfM2lLNl94R2dXVTZsUDk3emZxU0E2RVUzeVU5b3dpMnVxczhWWXZ3Nk5FUktjV05zY1VZTURxRGVhOWw0SjdTSlR0U2pBeFctSGd3amxlWFJZTTVQUExkbllGbWRmRkFmVmFQcFVvd2JPNUpGdG9JVFdrb1g2Y3Q1YUxoQjVKcmpXZnNNZmJDaVNBdEJxcEFSRi02UFhfYVFRT0F1ZExHV1ZRTkFjVE1nNnNUZWtvUDhzbW5pdV9Mb184MXZtMlBQOVBvSGVPNXFMZ1djNUJQbWZ3Mm1oM2NQU0p6RlpqZw?oc=5"
-    },
-    {
-      "title": "海灣國家擔心美國若再次發動打擊 伊朗將採取更猛烈的報復行動",
+      "title": "國際｜烏克蘭「氣球載無人機」突襲莫斯科 低成本戰術癱瘓俄空域 近千航班受阻",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxObkw2bTl6VlBJeUJJZU5aQVJheWNZeXU2bWR0bFI4eW1NRUNmUzNIV3BzRDNUakNIc1l2WU1SdlFUcnQ0V1JLSEplOWgwVDRVdnpoQzFSRmhkaGwxQTNVeXhGTGZqZWFTak1uX2xRakVFOWxfNmRoZXN6QWctOFJMY3dSMjFZM29aSG01S19CdlphY3YtMmpZN1V4cEF0WllzT2ZDVllhbm92ZHNhVVdzR28xUko4bllGc0xWU1ZUdXZkMUZMNlJxT2JjRl9YNkFER2U2Umhzcnc0VzhiQVFOYkNWRWQwLXVJTlZ2MEZ2YVJNWjFxZWpVUHpHTHB4WUo5RFV2Zk43cVI1QkxJeWlRQ1EzZE5va2U5clBFbFlib3pndy1rbzU2bFRCeko4enU5UVVLSkF2ODUxTEFSMXNvNzZBZmg1dVhtV3NFOWZyNTRoYVdiUmVfM21lT0ZFR3NzVHl5ZWVnZmJTbTdBcFUyUmNBeHNWUFAzeWdzV2RmWTNsQXFobDY1VTRLWHhSaHF4TUpZbktGNG5IM01pQTZ2SElwdTREa1Vfem1SNDIxUQ?oc=5"
-    }
-  ],
-  "news_stock": [
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNRU5SNGxUVk85a3dGQW1tSVdQYUhEb0ZpTnZnRTktN3J4VE1RSEVnYWgyR3Y4MDdxTFhFcVR4V19LU1BkQ2dpSUtnVFk3Tk9rNXU5VWlsU1hKZWs0dkQ4Nmo4WmdGdDV1TldDbFZYbnlwWjd6UU5NVFQ3aFlQdEhZcVBJS1NzOWJBUnFNMGU2YWZyZjlXajBVTno1T0E4NlFtck1VaXRWa0JHLVlMUk1TOGVWYm9wQXlBajNrbGM5QnRhSTI4czU5UEJvRW1McEtvbjllcTluNTFFUE5EVmlKd0xwcVlEV01VMUZITWlsUDJEeFRfd2FtbFlFNDZ1NTctRjN2Y2x0d0hXZG5RdG9fdXNUcG1uMVp0SkdVQ0hCTVVieERTRktWOVhpZ19WNVl4SllGSm9kU0JxYWl2NUd0aWt2dE1QVF8xcUZNWUNsRXZ6RWE2Zk1IQ0dLVVhleHk3cXpyZkNIbzdleHVZUUtQV2hCS2E3Q2Jra1dBOUE0STF1dmxia190Ql9tQ2UwY1FZWUJjdFpISm4zeTQ?oc=5"
+    },
+    {
+      "title": "美國中期選舉之後 特朗普依然沒有辦法對付伊朗？",
+      "source": "HK01",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPWHdrMTNGcUEtR29McTNPNkVRc2pMcmpfaXJtQUZ2VHp3TUFCMnQ3ZFFrX0pObGNPWWM2VF9uMm5LU1VlVTA1c1haY091NEN0X1dqRmF0eDhyMUwyTE9majBpOHpDNnZ3YkR0bklVak91dFo4VU9RYlhEOXZ6dVpVSVJjbEtKemxZVXFYSTJObC1oWENrUElEbEVwS2dzckp3TTA0N0gtYnVtbzZnMXk5WHhpSWsxSENrc0o2TDBqVklncE9tQ1V6OEZXUGJsY2VFZXdPSkJwTHVFZUdWVTRXTlFQMnFnTHNfc0c3U2RDSE95ODVLUDQxdldhTExjZGhSQ2pqdFpjVllBRnlMMkljaTJxT25PMWRXZXNDU0tNYUNuTU5jY1JhdDg4cU05LUtjZldvOUV1SzE3OVVUUERLRE1BSGZRcGRmSG9pS0tlV2ZmN0NzaWpDZW81Ym5GMmhfcjlobUtqYWpvOVFIWDlYMFpjaw?oc=5"
+    },
     {
       "title": "華爾街準備迎接美國國債發行多年來最大調整",
       "source": "Yahoo 財經",
       "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQRE5WLWFhaGlIbzJ1ZzZjaDJFTmR5VjRvVUhUMTU0alpGaWQyZDhkcS1uelcxQTJMMVVfMVVZVEItSmxMSmVPNjJHLVJwOGQyYkRZUFhhWXpwdlVFSVEtVE5nd2xSOS1wMWNiQ2xKclBudnBSeUpOUndaYmVtclNZeGVzR2JGV1E5dEFlbS00T1pKaWdDcTVxaEFQNkFWdFdkOURUaWoyUGFSdjJMUUEtazEwc0ljSFJJNm5wZTJMenlMN1d3VUQta29lNXdZUjk4cTdOTEE2VzM2OGtYMktmZDVNWkswckJlMXIzWVJlZ1JWRlVRMmtGanMzNHZESFpwZF9Fc3JONTBRc2ZJbXdzTkUtS0N3N3RuS1hhNGE2Tkk3MW9ZLUVyMHcyVGRZUGN0MV90U2xaQzJGbmtYSmJja210UHM0N0ItNUVtM2Jn?oc=5"
+    }
+  ],
+  "news_stock": [
+    {
+      "title": "$納斯達克綜合指數 (.IXIC.US)$ 行情不好就出去走走",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcmVxSzYtcGdaUGpoOGRLTGExdGRPTnlIbHl0Uk52SnhETlU5YjkxSmtXNGxaVTVTTENrYW5ldndzWkttSWw0Uzl0dzd5TllWbi16Vl84TVR5bDZ3cXNiYVZkU0JLcjBJS0lYV1hQOXR6akZyN3JjZnNyZDUxRTVjdFJrUmNBTXljN3FUaHAwWV93ODhnTWU3VTlzNU5pVGo2X3dJMFFXRldOOGJVeEtIZkwteWc2N0E?oc=5"
     },
     {
-      "title": "美股進入冬令時間 本周焦點：美國中期選舉、科企業績、非農數據",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZcFZLNW9STXZIMUYwdzNUWFRGUkVodld2Z2wzTTE2T2lTSjY0M3FKN0l1MUFPdmpkM2tLZWJVYUFYV1hLZWFaeWJNR1pZTk51NDNXWWZ2SG41cHRuZkhRenh4THdReDFaN3pVaExRVQ?oc=5"
+      "title": "美股投資人注意！ 台北時間今晚10點半美股才開盤| 全球財經| 全球",
+      "source": "udn",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Vb1Nub3Mxa3dLdUtBQ3cwWDBmSGZPRWNORFdISkhSQVh0c1ZDU0ZGa2I1SUY0SW9vV1NMNDg4aGNVTGpIa01Tc05HMlVKNkZ4?oc=5"
     },
     {
-      "title": "【樓按言明】聯儲局按兵不動 可善用「先P後H」或定按慳息",
-      "source": "Now 財經",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yRXVpbDAyeEpXMU1xSFBBRHpTcTNyWE5xc0dIUDBvWFExbDZqNjNqLWdwYjNRSlRmUTNHV1J3UkdtM3lXQV9QdTNrRXdkTDdRRnlzblM5dnd2S19fUUk4Wk9qODlwYTJkcVloRw?oc=5"
+      "title": "亞洲股市上漲，科技股領漲，市場靜待蘋果業績公布",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNZjZoOUlLRXc0c0JTRUw1SEkwU3RQenFTR2UzUDF1Z3VqWWxfdF9OZ0JUNWI2XzVlRURxbWxwekNpdzl2b0lpUUhlSDMzd01QMlplcVhLMlJMWWtXbXBKWDRFMUJQSjFRQlROMEVlUmFVWURVeTdRUlNLZ1FyZERSaG1uY0NoLXN3dXVNZzdUazJQam9UUmcwblB1XzQ3Y3JsS2hWd0pueVZyQ3ZMcEZPWm5EQlNxU1EyY1lYTzVwTGFTR0ZxXzhTVHRjY2laTmxMMnZPVlJRdWNuaW9XMDAyS3FRcktmRFRzV1RrU0l5Z3BzWWV4YkJzTzNWYmMtaDBBb2ZMc2dBU0trdHdNRV9BeFVHNjBkUFd5bnNzOHRiMWsxNHZUOWdVcmtaVnVWYXJaX1BZZ1pvSHNPUmI0UDZFNHJlVVNXLUxLNVdEM192Zk16UHhPdkl5a3FZZ2w?oc=5"
     },
     {
-      "title": "美股期貨10月慘淡後小幅回升，企業財報與選舉成焦點 作者 Investing.com - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3Q09QdFk1RjlSeDlmcHhkbGNHV2lseV9XQ0JvZzBsdFVURTdHLVN5ZmtWN2g3WDRhWjlUT2VtZTNMYk9qZzdHWUVJUmdRV1JHdDQ4eG5nUUU2WEVCSmR2WTdOSjl3T200aG1BYm8wNGQ?oc=5"
+      "title": "美股期指回神、韓股反彈1.4% AI疑慮未消 美期中選舉再考驗市場",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xdTdnNFdlbmNuYzNkUlA2NDc4TEVPS181V1Y3OThQalU2LTF1dXU1c3IyVG91OXRNeFh0SFlYY1VHbDdKc0EwdS0taFZwWi1oNmFJT2ludi1RSEk0MS1vdzBR0gFnQVVfeXFMUGxGVWpNaEhFQlktR2s1NXI2T2NUcmN2M09mVFZXZWZVbFNzY3lNdlFmQzhjQmNkajBFTl9PSWFKaWRmQWtrV3hLQkJ4em5GTHlKX3U5ZnBSdk1sY2tsUV81WlVjaGYzUQ?oc=5"
     },
     {
-      "title": "美股先跌就有買點？大摩威爾森：標普選後恐探7,100點 再攻8,000點",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FakdWelJJY1VLd0xmU3Y1SWtvbVEwV0xseEVhUTlSZXU3RUtQNHFnVHpURXZNUnVGX2tkNmtkLVdPbmItWlhVOHFTSGwwU0FC?oc=5"
+      "title": "德銀:美國科技股拋售過度 上調評級",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTjIzNUVHSDM1M1FKVkY3S2I1MTQ0RFlHZDg1MHZKZ3RXNTBLNUJCSlV3T1QwRFZrZ2ZpazNkRjlZQ0cxOS02VVRlRnJaVXdQektXbTdIc2diZE5pd0gyejJDU0xBMFFqWlVQNC12OHpmc19vcVJ5dFotUU9WLUlhVVkxZUxMcDMtOTFLQXNhYk9yMTlWZjVaYkFOZDRqWmQyMnlkaXJ3Q2pTcmgxN1RoUU5hbmRYTnRteGtOX0pVc1BncEtVd1NYX0lpdUUyNFluYWpjS0VZUmppV1ZRallSOEJyR0p5eWFXMTVtTUN3ME9FVXdEMEp6S2lRLXJHQkxtZkFpWmtwU0VvUWxDbjRWaGJKZ09tSlUwQXU5R2FhdVROSzRIcUVjeE9B?oc=5"
     },
     {
-      "title": "法官再度駁回川普訴《華爾街日報》出版商案",
-      "source": "华尔街日报中文网",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPN0Q5ZmYwWDU0RHBYb3NhXzVzdmNCMVY5dzQyWGppem4zVGZrWlpVMjdnSGlVaEpfVlV4b1NJSXdIbzNXRWpNWjI0UUJnVWpVWlA1alJfRG1WYnlFd2VvVGEyUWM2MGJpb0lVVExya0hjLUY4V3VucC1RX3VJR2dfckZWSDZ6V1BlZlVseElvV0lNQzZvcFVoM0tsQ195OE5rc29kV3RQNkttRlktUUEtTlZGcnVFQW1hNG1OMFN6VFZEMDVHMnVzanZFbXZvY3JOTS04V3dZVFFZOTUyYV9jZDJvOFpCNkpKVFZvdXJLUmhaZDRoX0xiNWlzYUtKZVFFelRTdkY3LXdjOVA2bFdwRWMwZWRJMGtmU3M0Z2F5RW83TEVYbmxiRQ?oc=5"
+      "title": "股票：美國科技股在拋售後料反彈——德意志銀行",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDBkLWJVdVNIT0RmblFDV182VWNYS1R5YTVEcW00MXNWYktzN1ZKazNIcGYzUXZqZUhBdFpzRVBJb04wcC0yc25EM0w4b0JoWFpUWC1GQVFVellmcUNfWDV2YTF0eFNQV0FkLTFTNko5amoxQnJpd2s1Z3N6a3g2Z2JYQzctSnpLSFB2SHE2UW45VU5NaDE0V05tNzlLTGMtampPanJjR1VQSzItMXlfbnR6SllCUdIBuwFBVV95cUxPdXNpZWdVV2NIemZsZGVIa25BcVVBdEQ2c01yeWZCU3VXOVRfT3JjUi1Cd0lCdWFULXF3ZFZPZGwxQjlSaTA3bXRyRGFIdEdzQmlPbUstVmM1anRnR1hfam9KTzFEdVYwaE9LN1JydnRzcnoza2p1VExlWDFuMjlNLUJNVFBDWjVrU0IzeXlTX0duQzdiXy1iOXFiOXdOOVc3dm5Ebmpac2RTRGxWUVNLQkRqYlVpQWZGVWhF?oc=5"
     }
   ],
   "events": {
@@ -84,8 +84,8 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 4,
-        "status_badge": "4 日後"
+        "days_left": 3,
+        "status_badge": "3 日後"
       }
     ],
     "stocks": [
@@ -95,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 17,
-        "status_badge": "17 日後"
+        "days_left": 16,
+        "status_badge": "16 日後"
       }
     ]
   },
