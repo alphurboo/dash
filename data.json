@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-02 22:17:32",
+  "updated_at": "2026-11-03 07:15:22",
   "gas": {
-    "current_label": "11月2日 (現行油價)",
+    "current_label": "11月3日 (現行油價)",
     "current_price": "177.9",
-    "predict_label": "11月3日 (明日預測)",
-    "predict_price": "177.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月4日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美國中期選舉系列：參議院角逐料更激烈；關注戰場州；重要時段指南",
+      "title": "美國對伊朗實施有限打擊之際 雙方正在評估調解人提出的和平方案",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOVXM5M3dGZURrWk56WDAwSXZzODlJZ1lmU19PaWwyY2Nub3dPbkI0UWtZR291dlVoUnp1emJqM25uaUlVMzlqUFNET0I0bW1KT1VON1I5VVdVcUxzYVVEZnRTdEg3V1d5M01yR2F1OUZXY19JQkRZeTNUVDN5VUd2TVpDX3A0NDFySHBkOWxxVGZDNHJDM0tjemZHSVVQXzE1dHdsSC1nUkJPODZSdGVRdUg1LUJFTGNKbGpGaHY1V0YxcThUckhkLWd5SGFTUkhGN1pQbHFhVG15b2JzMk9FM25DSVVUeHdaWnZua1AzbEltVEp2cjZWV1Z3anRfVFh4MWJ6bnFVRDRpdnFaT0pjeW40M0FKVnR3UWw0R2dJS20yWXNTR3RyQlcwWThpeGZHV253QktPdUluVGs0U2VOT09Sc3RxdFM2TjRVMGlDajRlVzQ2YlVSQXhUTHkwaFAtaVRWd09hNVBLd0Y2R0xhUVFfMUpRRmc4X1J0MlNwUDFIUmEzSEI0X0drdl9EVmZ5dHV4bnpVaWVKajJJRDBWV3ZkdVdaQ2hYMXpURVVJLTBwUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOUUYxbWdhVjhmLVpaVFhqOTQzd00yYktFdWJxSHNzV20zNW1FV194N2JEcU94X0RDYUwzemdPLXI2d25ORXpRQ0gwUGVQVVltZ2pyZ2Rybi0tM3ktYktHWmdqXzl2a0Z2bzQ4QUU5N2xpdUNnaEQ4MHJNVjBZZWlpdGhfWnUyQkhKRmtQRWJfalVjU2lxXzVGVU13YUQzMWtpa3FHdlQyRno5V0hnT0NUVmVva3NQLU1UbkRnekU4MnhZYWdVbVNnN0J0WEZZNjhsR1BraGdqbnBhNEpRbmxtZkhOMlV4S0RWc3RUSUxoZEZIdVp5QW5kT3pNV09mWTV2MEtWS3FtS3EtbmNYdnozQUtCUVBMVEh1VXY2Sk9jZUVlY3BMSE1HUHY2bkVpUnFRWTFLVjFjVWVKRmtibVFrQjJJMlFkYmx0a1M1ZklQcXAxcW9yTkZscGluTkNFdndNWXpud2wyUTJZbURvcEpIaFQ1UlJaYXNwVnNCZnRDd0Y4cmVFZG9GeHZhMm90ZHF1aTJzNmpqSnhtTE0tdHUtMGlWRXg2ZDdXMXNoeldHcXR5UmMyLTF4anAySQ?oc=5"
     },
     {
-      "title": "社評/發揮獨特優勢 引領全球金融科技創新",
-      "source": "国务院港澳事务办公室",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tRjEwWlpYSXgyMmtTWWhfQ2NTMDVsRWJzS1prekF2ekFlX2xCOVZpTjdELTMwSjFkTlUtRHhuSTQzeFBwbENxYU9oaWw5dUdXampCSlZBVFFVOGpncElZYnZwdlhka0RKZFdnTW5SQ3FaX2Nzd3N0NXR3?oc=5"
+      "title": "城大QS 2027亞洲大學排名躍升至第四位創歷史新高 首度躋身亞洲前五 三指標亞洲第一 八項指標本地之冠",
+      "source": "City University of Hong Kong",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yOERhMWhHcENPZ0ZpNnNDemd0c1V3U3ppU1hlSDVaRTMxNTJad2ZPam5zbzlUZHhlUXRIMktZWksySFczeV83aHloU0JmUDN3LW9tUmdUVzNkZmRPRHJUY3ZJNTdVSnZPYUFkVHZtVWwxQQ?oc=5"
     },
     {
-      "title": "美國車企聯盟敦促國會：盡快通過永久禁止中國汽車法案",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qSnlOU0s0THBmdmJ2ZEQ5R1ZZcjhRbVZXWVo2QmRucGZQNVVYakk4czNsN3FudGZ6NzVXSlIxNUM4NFFfTFNpaHlvc3FTRVFHRWFpV1JBVG9pNjNMd1lSc3JjNEljUnNyZlBlMG0wSQ?oc=5"
+      "title": "投資峰會匯聚國際金融領袖",
+      "source": "紫荊網",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWE1iSWIyYmhRQTUtZXpqSC1VQ1h0b3lXa0lweGFTZ0tIMXoyYkNzcWR5RTBzTXlxdkFtWkZ1UEZVaWpXa1BjZ2xHQXI4NGpvNjZaU2J3b2gzTTRfb1lWaC01aGpBbnNwUV9iNlJzcW1odWFIQmFITVhnU2FyanU5VV9UaFB2N3FlTHU1SlVDZ2I?oc=5"
     },
     {
-      "title": "美俄烏11月10至11日阿布扎比舉行會談 美特使：將討論終戰等議題 (09:31) - 20261103 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNdG5FTXl2WFo5U0FiN0gtNlZhRklKcVM5SU9RYVh4cE01N2Rib3dYT2c0aE1XLUNmenV1dlowbkxpTmtabzAwOER5OWVUM1kzMEtEZVhVajZBY19sSWxyREg2SElXaFJSS0hWaGxLRVBmUzh2V0dZVXlRcHQyS3pkc2x2VWxSSVQyM1p0TnNHS1dtbFQxdGxMZ2FWNDBRTXEydHVFZGw2Z1owZGpZYXp0cU1JRTdFcThJX1pYQ3BaX1h5djBBSnpxS2pjUzRubV94Z2pvcl9qSnlJX0Y4MDF6Tjd6M1pOMGZtb090WFo5TXRuR3R3dXFOQ3B6MWtsY3k0aXZxWmFhM2ZWQU1CVTRIV3JjenRObk1VZEtDZWp4WjVTMEw4emRnRTdmNUhOWlRadDdEVFBvbXFvU1FYN25HbldkRnlJVThuTDZpMUhSbHpJTjNCU09uSTU2eEpoSDBjTVktYUlrVnJGRzdYZEVCVHd4c1RleU1NZTR1ejRzVVZNaVZJQUNqdlVQdl90N1BhLVU1Z3lqZ2Jmc0VEenFNaUpYcWphZzVpZEN2eS1ROHY3MEhGTnBLdkFnbmVHMnZSLU56LWVn?oc=5"
+      "title": "為何美國中期選舉對特朗普至關重要？",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0ZjUnRUakVBYzBaUzZtbU9HbDNVS3cxOXRDZzVPaDRmbkhURDhLSGFza2tBQmdYVHkxY01uZ1FIYm5FY2lsbko1WTdRa0ZoS2tzenV5aVgwUl9OQlpjYWM5X3ZGdGVsSERpaGZmUEpIemNlSlQzTGRVS296Zi1wTDVrNUtUSDlhT3Rv?oc=5"
     },
     {
-      "title": "美國特使：美俄烏會談下周二至三在阿聯酋舉行",
-      "source": "商業電台",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RWGZZcTNZNllMazFXNW9ZUHVSdFF5Znl4dVZZWnE4MGtpbFZ6dVM0ejJCMG1WWWJzbDVGamhGbWdWdFZ0RjBJc1ZaYUF3QlY3TmFPU3FKM1MxdlFfaWfSAWNBVV95cUxNbVJULXdwYlZTc19UMzRHTTgwbG5GSHNoUFprUGVybTI2bU5HSWkzY25jRUVuS1BPUzVqSDUyRldENHlTamxEMF90dGVRS0t2QTV3SnoycHIyYTV3U0ZianlOQnM?oc=5"
+      "title": "美國期中選舉登場！川普支持率僅32%逼近歷史低點 民主黨國會選情領先",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOdkFXbmN6RDNnWTB3RHBQakpoa3FVMUZLd2tIRFRpbU1DZEYwZEk3UHRsS0tJNkQ4U3ROYWw0RmxaQnp1UE82VEtjVWpDeWtvdURJRHg4VjRxdlVwTEZON3o4S0xUS3VZVzAtdkpuS3FpeE1hMWt2X1Fkb2xjNVoxZjBUR25URU5oSDJUX3dmWWlYWktLWGF3NzltcFZ2ZnFyUmZlNEdGZUtOeDJSY0pUNlVUbTN1akU3dTZpLW9xT2VNZEZNcFoyYXFZd3ZodlFzN25iWElJbXVvdEdrNklSQm5uZTBQcV93aC1ONjV1RE5TSHJBYm9USjFJM29Ga2VaODI0dzNqR2pTWTB2UkpzbnB6T0VuUFpOWXdtX0hXMnRSaDhBSkt6WkpyT2c2M1lHR1UzMGhScU9PRU5rSktibXd3VzMtaGZZWkxZQUhwSThHazR6Zk82N183elppcnhWZTB6SW51a09RVjJoUGhfc0FfdTRpXzhpaU8zLUdTVWtrX3lRTExGdUtHTUQ5Y1hfeUY2U0pwQlYzTGJCT2NSY1FUQk5aYUVxNXNYQVJiMkpNNnR5YjJvRXAyV01odUNI?oc=5"
     },
     {
-      "title": "威特科夫宣布美俄烏代表下周於阿布扎比會晤",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXclVEbEd1cV9zeTNWczJKZFlBZGlGaWJtNW50cmFWR3c0WUUzMjdNMGRDTllCR2JZOGpVZW5fU3ZsUDZpVlJ6aFpJUjRzLVVYODZHeEtSc2dTQlB3cTdpdzRialV2QVU?oc=5"
+      "title": "國際｜瑞銀：六成家族辦公室擬一年內調整配置 安思杰料不會全面去風險",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNR3FQZ3ZfWVM3dlkyTDcwN1UzTHlNRV9ILURheW5abTRGbmpRZ2VZTm5JSm9BRHI4WUF4ODZZMXhrckk5WUhLOXF1QzFBRWtjdUhkbHhhYlpUdEIzdFJwbFFiLVZpbUYyWGtzeHgwNlFBal9aNzRBdXFZTEZ2WTV0M1N6VUQ0QmxpOEVkMnJmTW9DU0h5WkUtMFh5M2lmbDNiQloxR2ZJdTJDbThaWnNqbVpJM2MtOTB0b05Qc2tlTi1ZdkZqMTExU2JCdFVBYjRpYWR6ZEo2UU5VZ05Vcm1KZXFDX094TDRWb2VrQ3hEYWo0SWpObHhlRUFWM0N0ajlXc0tqZFkyQ2FySzF4ZHROTFN2eE9CU0FNZlU1SjRrTTJCdW5QeUdlcUVocF84Y2VmUGpPUFpjS28tV0NyUE0xWTYwMTZWaElBcFFFTGF3RUlrYnc1Y0JDZl84VUF6X3YyMTc3WHo4eU5uOUJRNG1yU1lsOEtON1FIdVE3YS1SV1J4Y3BSaTZTVWtPanBLcHpYY1N6LUZxZHpLS09CNjBGN3FOeXNsLTlLTnRRZ2VzaDZNMWxPWXdQR2cwTXVXNWM?oc=5"
     },
     {
-      "title": "歐盟新包裹徵收正式啟動",
-      "source": "pathofdemocracy.hk",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNanU0andUWUNfOUlWdjNqVllkVWpSdzF1MW5lNWtEYm5OVjhoWlpPTTVsYjE0SEZPZ3NsQ1U2aU5GRDhkQmZnNVM3RllCSTc5UmJITE9XN1BQdzJKWGNENUpDVDM3a2RFVlBwTnNxRDFubGJVSFNVRk9QX2VFSGlLZUJzLXF2VW8yUW5fRGsweGRYNjZHS0l4WUFGYzlmUkl5S2hydFJaVmxnT19BTS1Xd3B6S1BmbU5sS0o5N2l3YnJTS1hrNmc?oc=5"
+      "title": "本地｜國際金融領袖峰會280人出席 120位為集團主席及行政總裁",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPbFp6LUlxRUowY2VHQXV2YlhNNGlFRHdPZThLNldxY0ZmbW95ODBiUFZhOVJXMUNOQ1RGNnhpNW1tZmhlTVdUMFJYMUF4T19FWktNV1ZpR09IeUl4MnFtRmMwZ25KN2trdFVuYTQ1djcwYURzUElVc0h4M1FxUGhZWkVCUTdJYzhpd3B1SF9DeUJSblpDYm5pNFZLbVBZcld6dTZ0LVRLcUhxZmpVUGRkUDJpUlAtSWJ3WllOZXc1WVJ2ckFuTmFZelRVOENZZDhaSHNncVRvcHRXSEdQdWwxRjc0VElxNFl6TFY4WDVJWGJSTnFJWlJrMDlKcDVpOE93X1N6RGlQblRvenYyWU9TRWxyQU16OW56Y0NBeWR2UGR4a2ZGS1RYUTFaXzFocEVCNDc1OHlKcHdjVmhyaGphQ0wwLWNVY0Y0RE9PZWJSZDk0cXBvTTNOX3lySVlYM2YwR0JSWWg2OUZKSzBNbzYzaktoQmZWTGJMcF9TSWYtWkROZUlLTWphYQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "【美股收市】Anthropic增長放緩 AMD跌8%、美光跌6%（不斷更新）",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPYjdXV1V3VUU0cnlPXzRTaHQ5eVU0d0ctOWhyXzdRb3FjaWVRbGg5eUdBcndqWHc5VlMtaGJLNnI2eFVMc2Via3FSQkpiNkpMaGg5Z2RtR3JrTUxXWHhXbXBJMGVTMlRCTVcwQi1vSGFOc2pMZkp5dEs5S3Bta3BQb0d4a0s0b2c2WGFhdnVmc2VMdy04X0NRVjNrdzNFX2FsdlRjZXNyU1ZveXBfUkhyOVhZVEJVY0FLWnFGWXlHc3M3cThOZ0NRcGZ2SFpya09zS0d1eVJtQU9wZ2c4Y2pNT3hzQ21pZVU5TmZrTjBFcG9Fa2J2Ml80WDU4QzBzekF1SVVoWXBlUDR2Sk84RDhraWlJSVpFUzBwcEtEMWg5TmlpZ0RYejVESmd2dlYzNi1mN0MxNzNscm9IeVdOVmJEUW81Qy0yNjdEMmJBS0JZZXo5ZUpCYlp1S0tEY2pRUlc0UVNFZEhB?oc=5"
-    },
-    {
-      "title": "美股｜英特爾股價續瀉 晶片股單日市值蒸發逾3000億美元",
+      "title": "投資人只注意到科技股大跌 但美股多數股票仍上漲",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQTjVzUGxRb3R5eGFWT0FsZ00tT2FpcjB1bmljUWFFcjk1RmMyYkN6cXJrYjFUNE1Idkt6QUtsS3B3aDZNN0ZvWjRGRFNHa1RUMDhpd25ROTN1RktZTWU1X0gzbWtYZ1BLLXdkaHV0SDh5WW9jOWtKbkZneGlqTFVneUxUQ2t0bFdZWHpYZUxGNFhCZE8yYUg0dXFKSGhoaVNZN2dZaFJfN0RteURtcHVPbUFvZ0wtaV9qdzJsUVU3SllyMm1jVlhyb1l4UFU3UmFOMnBTblNVYVFfYkx0cUhnS1p5ZURlaXdGZ0t6NEI5V09fdjFtWFhmelJoMGFLYzNlS1B2VE1icVV6cjlBVi1NOGlTcGt3U0NwWkJlSndUenVYS1Zfc1k0MXBKakI1bzVuWG90NktET3JZRWhxQzhIWEpvRmNGbVI5WE1QenRreGRkNjF0RkJFQ0RDT3VBcFJsN3RvaHROYWtuR05feWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPbWhPR0RJUlgxN294bS1PcDBfZzVPQmRqUzdtMlV4NWIwTXlwZi1odGVZeWFINHhMZXdMNWQybERxS3lmd0t3aXdfWVpUSVZQX01OTW9WTW9HeDY1WHNsZ2ZCaWFPSlU3bWQwdHQtTlp0bXlmR0JJTlUzYV9kaVY0WVFzWjNWdEVxZnpaVEFmMmpMTUlFeHY2R1VOdVFHV016MW83Qk11a3psYWlySHgwUWplYzlCc04yRW1rTFRkWFdrOVFjM3VUOS1LM1JqNmZ1ZWtjWnJZWWJwYnRNYnM0UkhNbzRiVGk3bFIzcHBYS0VCNWZjR1E2b3NKc2xLcjlpN3R4dWljUDVRckpiX1Y5UXFpR2p6LWR4ZkVJWngzQUdJYzdtRzFyckludy0xRXpaUFVHcnBGTmdNMkhBM2g4VWFnNzFhV0FUUnlHZDJrRGVYRGxIZ1FaSnVCRWF0SjFXYmlOdWtuYw?oc=5"
     },
     {
-      "title": "隔夜美股晶片股大跌 亞洲市場半導體股開盤皆墨",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hUGtxdGtZTUJ6dkpBY0x2QXRST0xUWk5IOHJERXRrczlVVDF5R0JxOUx3WHVaVUE4WG1oUHl6dUVvc1h1OGxpVUxJdUtNQW5xdW9tdDNSUkJoOFdReVdnQU5VMHJsOUE0VUh1X0g0UzRtVWxzU1E?oc=5"
+      "title": "皮克：若不明朗持續重磅股繼續受壓 蘇德巍：企業盈利仍支持美股",
+      "source": "香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nd1h5MEtwZXluSXdfeHBIcVhBWmgxQWs4dXJ4TFR0UmlaUy0wSnI1c0M4Ry1iRy1mU2dlTmwzY1FNanlCRGs1U191NzdrRUhOTy10RmRyNl9UYVhITmlWSVhydjBjMFljWTdMV2NhYw?oc=5"
     },
     {
-      "title": "芯片股反彈推動納斯達克期貨走高，此前市場收盤漲跌不一",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3dlZTRKYnJ5X3A2WDhpUlhIZl9jNVB3N1RnNnBtV014WW9FY3VIQS15ZTBBaThkR05FMTFLMGs4dk5FVUhDQ0xmRlNGM0s3VFpObTJGMDBaVmpyRTFfQURzWXZVbDlfX096MmM5aDMtY0llT3FxU0tVd0pGdjhLNmcyQWFtODNRVVlqdWRhZ3hjTnF2Z1k2XzhNbUNFOGo2dFhDeS1KSmdQVFBkc1E?oc=5"
+      "title": "【美股】維權基金預警 稱美股將陷大熊市警鐘鳴響 籲投資者保本待市況動盪出擊",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMijARBVV95cUxQTmRRRHV0RmM4Ull2Z05qQlFBcGpEcDdFeXp3ODdDTnpZMHVIQlRvM21QMVk5aUJGUEE3bEI3N0JPYU9mSVZJVW9GXzBZR2RTRnBkOWp5TUFEazNwQVBsZElFZ3FZZ1o0VHY5OHh5RU5lb2I4QVFGWkg1WWhVTHN2UHpBMjdLbnZMUTdtSUpBWElRRnJEc1I5QTI3U1FCV2FZT3dOdko5OG11OTNlOVpuZzdoT3JQaTNVS2pEQzZPNThnSldIUWptU2J5WVFnTmdMNjZGbnJhX3JuRTk0QnZnM2lqdEY1ZmRxTnVZVEtKT3NYX1h0S3QzemxQQnhaT3RkaUotRzFZM2VuMFkyclEzU3Rmc1lGQmRnRDVnYmhhWEs4dk9yQUpCYjZLYzBiMll1Y1JuVE40dTJNdi16ZFdoc05UYmxsY0dqQWhwRlFFLTA3NmFqMWFTeGZScXRjSmE0SUJfTXljOFlRYm50V0FVNkpMZzVQU1lHV3JROHBZcERFalFqbkpFX3BXTHdYdkVwbzRlR09ZSS1QUEd4ZjZSdWN6VUN0R25IUy1MNDdld2hsRXNSUWFQOWctLTNBdDRHcFZxcTVHbVM1MGhlTENGaWFJdTlNbGk2X2pYNVVLT3RIWE1XVzRZZl9fQ3NVcFFrejJmWXVUbWlsc2FnazZpa0dYYmN5dm5SXzFndg?oc=5"
     },
     {
-      "title": "聯儲局輕率加息 全球經濟備受壓力｜C觀點",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQb1dhTC10VmoteS1uNkxiRDRNY1haU0RWUndtWEtTUmtvbFB0a0hRYjEzTnc4T3p5ek4yWTJHelRUSDZfUlRpN0lCZXFucFdZcjdGSVZkeWNhYnp4LVRZYkxaQ1I5NWZsSnR3dU8ybVRQdFJTd2dpRy1XTUl4c3BXZkx2LVFuX0FocHJ5OEJ3RkJlWG9tVWZxaThCUTh2cjNISGF0bzZPczdmX19Mc045ZE9reXd0WkQ4d1pRUmRZX2o3cmkzS19OeUlOTUNQUGJEUC1ySmltOFdKZzA2QkV4NGY5S1RkZ0VyaTUxQWYwRjFuaGVfbEJJZzU4ak5aOGdUODhVU1pZX1hSZGdLM0JaUWJDeHk?oc=5"
-    },
-    {
-      "title": "美股期貨小幅走穩；蘋果因財報喜憂參半後下跌 作者 Investing.com - Investing.com 香港",
+      "title": "納斯達克暴跌5.3%，但這些AI策略在10月份勁升最高達9.3% 作者 Investing.com - Investing.com 香港",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OYThXVWI5ODBaYlFtaHpTYlJHeVVQXzAtR1psX0FvajNVR3pKV1FGanZiZ3ZxYTR5N0hrOGhYdi1DbC1oNkdDa3JKZExjbE9XcnNENjEtUkZyN0MtWGhRYTA2VXBGNEVtemZDZzV5azI?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56MUpjUUUxV2JoVFltS2Qxd1hLdG1sd1hqbFBUUm5GWmJRemN4N2ZuWWZHVmp0TFJndHB3QWhIcW84VmtqWXl1Vk9QQjYyamFpdk1iWkEyUWFhc2p5bmhPVXlxd0dWQU4yLUFCdVgwWnI?oc=5"
+    },
+    {
+      "title": "中期選舉後美股19次全漲？歷史規律遇2027年三大變數：美債、通脹與AI",
+      "source": "富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1UyUUtlV1F6dzB5X1g4RXJzdlFpV1pldTZERTBsUkN4V0EyV1F0ZGFxU3pYZnFDclltRTBxMjVPWFItVlI3OUFHLVJyeW16SVBPa2ZFSzJ4UXVYT0lYN0c3Q2hGbTZ2c05rZ0tpbVlHc1FhUkoxejFSRWpjSmtsUkRoTWxIV2dEeWZJbUtIR09QMExmMXU3cTY1cmltTWhYa2Y4?oc=5"
+    },
+    {
+      "title": "【美股狼來了？】對沖基金巨頭Elliott警告大熊市警鐘已響斥AI炒作與零日期權如賭博散戶情緒恐由怕執輸變為擔心一鋪清袋",
+      "source": "BusinessFocus",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU19Qa3p0d0tkMXg5ak42NFRDTVRIakxnZnRxbWZlWXlvM19uR0Q5aHpJc003U3dMWm1RYmdvcUk0SGpQeHlYclVTVWp4VGZhRkR2Y0hEVTdQR1N2cGM0cHBmNkFDQWNPVmNKWEdsR0p5MWhEZEdWdTlZcVpqcHBQWDNvLWc2SHJWZl83SkNVNFNNdlg2ZWNaS1lWVTBHblY2WmlXT2ZQTlI3MlpsV3VYWTBFa3VXeFhDMUttSk1MZHRwRjBCX0ZJRUdMbEZreFlsRTAyejJ3?oc=5"
     }
   ],
   "events": {
@@ -84,8 +84,8 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 3,
-        "status_badge": "3 日後"
+        "days_left": 2,
+        "status_badge": "2 日後"
       }
     ],
     "stocks": [
@@ -95,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 16,
-        "status_badge": "16 日後"
+        "days_left": 15,
+        "status_badge": "15 日後"
       }
     ]
   },
