@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-04 20:58:40",
+  "updated_at": "2026-11-05 07:15:34",
   "gas": {
-    "current_label": "11月4日 (現行油價)",
+    "current_label": "11月5日 (現行油價)",
     "current_price": "167.9",
-    "predict_label": "11月5日 (明日預測)",
-    "predict_price": "167.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月6日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美國中期選舉：共和黨為何慘敗？五大原因解析特朗普的選舉挫折",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LdHFJcWlqTlF5R1hQalZKbmw0R3QzNW9Rb3Npem9CSW1ITXdDRVRSOWZDcW5xYlVkNy1sS1B2YXgtMGx6Z2dpS08zdUdGbjNONWtCUzFPQVNZX0w0cEViXzhxejVpakHSAWxBVV95cUxQejNUaDI0WkQzYWM4b2wxZUVIZjlXeWZZRFRoUHBHU2VSbFhOanZLNzZrMjdDbTVOUHQtMUFCU3BWTjN1b0ttV280SnAwQjk0Nml2bFJ0WDJvQlBXZm91WGZSZl92VzFnS2ZKeFc?oc=5"
-    },
-    {
-      "title": "美國中期選舉：盤點滾滾「藍潮」中的贏家和輸家；關注川普後續動作",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOQjlwQjh6SFUxb1BWWDZOLUthZDZLTkdjY1ZMeG96dzJ4N2JWOXdqdjdRb3dHR1hZN0tYNVJNeGxNaUZ5LVl2amN6bVU5M1dUakNhTm9sSk4zZnlTZjZESVBNV1BHZC1WZmRxT2VvOVpVZnByeWhRSkU4VlNnZXcwZktGSE1UalpLNHZ3bW4xNXdJVjNRTWRBMmxWMG5MaUR5R3JiWWVqM1dVUl80MDRod09vRHNIRnNZWWRJUi1HT2hiSmZXMzJ6OVBCUHVKMkpmR2hFcWo5TmptZXN0WVFXTXVwcFh3LUpiVkVPcUdOZEZ1S3B1SDJHVDhSeFJfa1NjSUFnNDM0Rk5fUDUwQnA0ZG52amMxVGFULThYblg3TVBxMnpiekwzTE1IaWoySlFsNDBGd21EQ3lOSTI1eENTTHVCTTBrbGd4MDFEV0h3U0FJemRYNFItODdrbjRCX2dHVTlVOWh2UVhEMldDVVpiRkVlQzg5bE44N1RqOTV6MDdLZVVKY0hHOUdSOURESU5ZclgxOEQ1M0lkeVIxYUlCOHBNSktNSjQ?oc=5"
-    },
-    {
-      "title": "歐盟委員會舉行多方會談討論烏克蘭戰後重建與經濟發展",
+      "title": "美國中期選舉 兩州參議院候選人得票非常接近 暫未能推算結果",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pUHRYRHBhVXd4U1k1SFNxYVAtTjU2XzFuZHZVekNRMXZBNG4yTUxSRDhtMEd1ZzhHNnRkZzlPYWppdlpRR1JaVjJSaTBPX2xXbHVmZHU4emJoSmhwQk0xa2dDeVZMRlJ6WXNDY180WQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pcERwNHlTdnhCOE5BdDlrck1JYjJDVDM3RkNqZnB5dGFHMHRTemNrVDVKRDdFRzNJX3BNdEQzQ1BtSUF3eUhnYmtJRmFnTDl6QlJBcllnT1kxV09WS0JHRzB0cDlIOFV3dHpGNG1vOA?oc=5"
     },
     {
-      "title": "專訪：民主黨贏得中期選舉如何影響美國的對華政策？",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOSXFqaGNtZU5PY2ZQa3RXNko0OFgtdDZFdWRCNEduSFRPbFVaNmFnaGkzTnMtc1dnVU12a3doQjUtVk1HOE5FLVBEQV9MV1dQU2ZyUTJOeHUteEtUbGM5S2pkZVpORnJlMnNBN0VuX1UwNGI3ZjIzZUVYUWpVMjc1WFFtYU5sd0NQLVB3djhTWkIyNkFiX2d1UzBHRk5DMXpRc1JfZG5jRFc4WnFQWXoyZmVvcUxNR0lqWkh4dkRNUkFBQUpTMTNrMnEwZFdIV1ZMelJNd1QwdHBsRi1QMkpCSGVkRFZxUDU0MjdJQlhhNF9aamNzS2JnYWxNYlA2ZG95Sm5SWFVUaFczWWhzWExYcVAwYmlRQlR1TjFXOWFlWmNYN2I4eWlsQUFfa1pyQk8zT0l6VzYwR1haMUM5ampGQVZJN2dXMnkzUnBTLWY1SU9DSkRoZ3Rn0gHXAkFVX3lxTE1pbFZwazZHU3ZyZFRMNEVKb0hrRi1ROEMyVnhaeThadDZaaDRqeHVPR1ljOERRRUJmY004b3plUHZMX3o1OXdoc0xRODhEaVY3RmlIVHg1Szc3eEZMUFlDTlFjX2pidm1xU3pqcXR1bVl2N3hDOUtJRGQzd05PSnRKTjVvMW45QzNnc1ZZSExkVkh0OXJuTUJkS3RCX25aLU5NT0ozRnU2TDdUZW1HYXRXY3VSRWs3UG51eTQ3bVBoREdxU05pc2dtRVNXMHFsX3pLdEZDa1p0aVdXbXFhU2VqYUdsa0pMQ1ZNSGRBQkF3U2VUVmJsN09aXy01NmZxU2tkLXV6LW1yOEdSMVBqdjhJcHkwYktuT2ROUFBqalZEdHp2TjhhWFJqckJZNEdoczlZazY5a1ByVHR5UHAxaTBid3pHT1FzVERZQVZwcEhDSkh3MlJVRXM?oc=5"
-    },
-    {
-      "title": "美國中期選舉丨民主黨橫掃 反數據中心勢力趁勢崛起",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPWi1sZTdaMHMwdEFFTkd6c1l1X1E1RkNCVWtYVkh6U2Nvc1JlWFlFUGxXRGhCLXRVVnlKdk96dGVGMEtKX08zbmVnaW95Y2F0ejUxQWNXeHJib0RCbW9XTXF3LTNGYzQ2WUtVelM1YlJJX0FUUFd3Z3pmc3RZVEs0VVR5Mi02YVlCME5RQW9iT0dpZHhDT1Rmbm83ZkhMaDkxMk5VN1RVWjB1bTFuVGM0TGdDaVBPXzkwQy1jX2NNVlh5a2lzdm9KcndNMzNOYmJKZlRRSEo2VzJHTTQyXzNYSGZTYU90SUt5QUV1NHVEb2kzV1g3TW1XbjRDVlpLYlVhQi1mbFRod3RyR3BXRXAtREdpRXZOODJ3SnNfTHJHQV9FS1V2WmhZN0NVZlRCSkc1T0FnTXdDYkxlajZzZ2tEQXFXTFlJVTV5bVduYjNMeVQ4aGZjc3RSVW1FdUlVN0NMR2dRRG5GMzhEcUJZTEpjcTFuQ2JYVXhGTDNydEdfRnVvSE10MlE?oc=5"
-    },
-    {
-      "title": "加拿大官員：美國中期選舉結果不影響貿易談判加方立場",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50amRKZEN3YU4ySUZ2elMtY1lKRkt4QWpnV29iUnh3bzhPQ19YUU5kMVJIX3E1NHc2T202eXRPQk5zV1pVOEdIRWtOOUJsVEtZS2wwRXpzN2JrTlM5ck12VWR5a2lKbndoQUhSOXZWcw?oc=5"
-    },
-    {
-      "title": "憧憬特朗普迅速尋求和解 美國股市周三股市大升",
+      "title": "中期選舉慘敗引發美國共和黨相互指責 2028年總統潛在競選人借勢佈局",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNX1B3eXkxcUFwMVYxV1lORU1VZUpTWkFBc045eF9Mc0tSemR6cGdkVXdwZm5VemlQTWRuSXRLMF9zdmJCSTcyQk1xRzR4djhvdC1qd3E5QUt5UGtlaElTdi04aU5TQ0M1Mm9XMzl6bXpZT2xsY1A2Rl84dzloTU9Ed0FFT0FYMDltdTNmcWRDb0wzLVRVWkJoN1NuOV9QekZXcmpYYVoyanF3cWxQa0g1a0w0RVNLM2F6OWJUUzBKWkxoLVhGVVZrdDl3eG91b2FCM3NtQlpsUTA0S0NjbjBlYVV0TlBnR2hkX1VtbVRnZ25hSXVTUzMycDJLRGdTMmxKNUpUUVVNWlVla1BnV3h6eEJFUWdZSTVCUkpHVWVNdDY0UW1YdlV6WUtWbnVrUnozVl9ld25ubDNDMWx2bkRDTTZKYTJPbTk0OHQtMmExOW5PbkJpNUNTbHFQOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOMDJmV3JrcmlLRUFpMWxBeklIRG1MQmJKUko1QUFyMlhPYU8wUGRRRlhHZmtQczFsWEVzYXNiSVR3SXlwYTZrLWNvSXBEQmh3UjQyQndJUTE2MzhySExNUUF5VFhoUjlpMUhHNGRieEhKT1lEWTJjVFJ2THRFUGhhWDVVSk5HUWFwNVJEYjBweWR5bTM3UnRjRVVpQVAwQll6SXlHblRwdFNjdzkwTFVLclFPaU93MGZ6WlVXTEJBc2hVTm1hWFBFczc0U3ZoZE1fOTMxYXAxOTVDYnpDTzMyUEpaZ3UxRHp4cGstLVU4RGdJaVg4eTRjakxvVEc0Y2VOT29kN3lSYWM5MmxhQjhVbDFoNXFUaU9HWmo4WVZjZUItZnhOOHMxQmNKbHgxczNDWFpEZUlfM0Uxa2VMNzRQaUo5dVMzNnZ5WW1HOGw5TV9uOVVCdXpSVnNMSFB3aWxhY3JVQ1hBMVZNaVNuaDA3WkdyTFVrbDlvVXdISjU2SDFObWlsa3ZYaTB6TjlwTjZyVXU0cFBBOXo0RzdVemI2LUp4dG0zS3FwQ1A0cmxPVFFPbzFOUlRhT3JURFU4Qkly?oc=5"
+    },
+    {
+      "title": "美國副總統萬斯：「人人都知道我們為什麼輸了」",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPd0JIcGhKZmQ0WUVPQ0tiQWpySzl3RTN4ZUdpNkFjeXJwVzgxeVRLSDdwRXFMZVF0S0VycnFqenNCSTI3ZmRjaUpCTXFtLVdWTXZ6Z1d6Vi1kanVsOXlaNkdjUUIySWFidEpJOTFMWjB1T2dyeUpBRUx0NndPaHg1eDZEaDB4YmxrdXAwT2ZOXy0zaGxRM1hNa29ybjA2Y09vY1JRM0NwSE5mQkJhdWJwRGJPTkNnZkV6NVBZbWV6NzFQOUpxRWdnczg1aXdBMHJLNWpxaWg2QmFUUG1mWmFVaDA1REI4V3RXVjRpZ1d0TWtIQlBJbUMzYmxpMy12SEhPbUxjR042VHlzUHBRQlIxVTBlNWViZ0k3VEM3THhFTUNnajMya21GWkxYVk9nYnNZZXFz0gGzAkFVX3lxTFBKU1EtRmhrNDcyT1FBcS1PQ1pRY1FVM29iN25uYjg5T2RWQUNTbVRBYWNfSHFTUVh0UWwxRC1rSjh5dExwRGFZVGVsemJuTkJUamU0azdHUjJWNElBR1VOQjloQ05pTExGdmQ3dnJpYi1ZU2x6MkRoWEVkbXcwbXlPaVBvOG0tZzcxaXRQVDdwekVzT0JyWllndVlNd05rV3lOWi1TbVlKWWs4RWM5bGFLSUxXb2haMGZkUDBQWnJqV1lBOEh1M1Vabk5Wek5wTmVEWVY1M2Exc2U0TFBaVmpQYnRESjZNam5JNHM5Nmp5RGNaa0d6X3lGOVpTZW1Zbl9sWEhQTV9PcGpqbThLUERNVXdEaWw3VFdlZ2t4THBwR3RHcmsyTXpHcG53QzQyZ2xVWFE?oc=5"
+    },
+    {
+      "title": "鄭若驊：國際調解院成績令人鼓舞 12月舉辦首屆“國際調解院論壇”",
+      "source": "国务院港澳事务办公室",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBySm9WRHZIWVIxZlFHNGhQOXpRakJINW9wdThXRG9CNlpNa2hQNjBKX0N3eFNxNnBWTEVSWEFxZU5idGQ1UnhQLTJsRkZHNENYTUo0dWZSWU5EaWw4OXJHY0ZGVUVKTE9EYk9nQkJ6QmhORVV1T2tHNWdn?oc=5"
+    },
+    {
+      "title": "民主黨重掌美國國會：能做什麼、不能做什麼？",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HdXlZMlFKUXNmbE1RTXN4SzN5T0xlYU1lMWNhNkxiLVk2TE5Ddlg3MVhvWThmTnp4MGgwc2VuX3JOYzVRZFhTMVp3QUlwUEpCOTc3UzBJMXBERXJKLXBZVDJncHNBWnfSAWxBVV95cUxPWEhGODRtTEZMcTIxb3VLUWgxX2ZfN0RYWU92YzJ1YXZ0elFib3RVaG45cHRVaFN4LVNjb0prcXZJQk1CdXUxNkdydG5jR0tYbmlXSFp4MkZ4cWJpRy1lTTNsSUp3dHpzTUpPUWQ?oc=5"
+    },
+    {
+      "title": "隨著美元反彈，歐元回吐早盤漲幅，靜待美國非農就業數據",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUWNRN3lSdEo5b29udWplVVRIMWxyOXFWOGdZMGlzT1h1eERWa1k0dHJ5elVXU1pHWFBRb2dCZl9kRFFpV1hiYnp2MVREdVBZRnI0ZlMyN2kwLVlGN2NmMGxOY1hZR0xROU8tXzZualhNM3h2NjE1YWFrbWJ6SExVVHVzTERzRVctS1pWam5lRTFwUzZlajd3SHBuREV4Rm5BQktlUDdEM3N4R2JhbXE4bmZRUjAyaE5wb0ZjYWo3VlkwR2IzdUN1UTZn0gHPAUFVX3lxTFBqQ2JkU1VaWlJaTE9iZjZxQU1oN2w2dGRtVmF3c1d5UzNHdGFMdzNhZ19QMnBYZ1MwcU1mMnk3U2NzemNYNmtjSmxYQk5tM0dMSVM2YnBwWDJ0eHVaZFhrRTFIOFRJNmxRUW1QRVVaYVhxMlVaU3ZJZHpXVFY4eW1NVFk2bXI2WlpEVXhobmRZbUc0UXh1QUZYZmQ2aTZlQzJvWGtqVDRUSFBha3l2aW1HY1Y1aGZyLUxEMjZ5bWg5R0NfSkJ1ME1iMF9FeG1LRQ?oc=5"
+    },
+    {
+      "title": "日本各界關注美國中期選舉結果對經濟的影響",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fS3BLR0RKTkRxMXBFNm52TEN4UE1IOUV1cE8zU09tel9NNEM1UjljMHlKeDZfUW9mY0dMQWlMTGhHTWtIWnFFV2FCN3hOcENHbGRYcWNQLU4?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股造好 道指急升1569點 AI概念股受壓",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ON0FOdmhCVTVkM0VGRHRiWnpzYkJzSDBsRG5qQk5DQzZ0V0pCUmJROVJadERIX1NzRk1XQXFkUmF2d2NCb1JxZW5lOEpfN3I5ZFE3VXNaUDlySnNlNVBYYVNzWG4yUGthOE41cHZCZw?oc=5"
+      "title": "據報韓國考慮大規模購買長期美債 以提升外匯儲備",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPc2stSmdncHlMVzkxd2M2djlsOTFJeHJJUU4yeTR5ZE42SzRQa0YtR0ozR21CU29WSVlrLWdzQmIxa25iQzRSa3cwX3p6WENFWG9ZajhONkNrNEJUOWk1UjlWaHdiNmVWSUE1YW9rWVFVek9KTGxfbEJmdDNkUlJrZ1JEaDZsMjFQZ0RPdmZwY1ZlVVZSVllTaFJBVE1Cb01NeVFIYmEySi15ZlFKT3dnLWl6eUZjNXZoaGVqbW9HYnA2YmZRNGhvejgwU3lGeUNtZzFhcVBmM2x3YjcyamU0YzcwbmM0d3dTNURFUGg3Nmx2dUFGZ2tCa1ZpQVFyU0JwRkd6ei1yUlZ1c19SYmxZNThSN01NTms0MHFoWTQ5UmJWZzFpLXdYYUNTaDMtV3BuN2NwUzYxRGJZSWM3YnRKSkhPMXhXVmREMUlVWkUzc3dITkFGeHpxTnIyMkZzdV9mc29ha0dNSQ?oc=5"
     },
     {
-      "title": "隔夜美股三大指數集體大漲 道指漲逾3%",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrRHhzc2FrMmRvY0FCbzNLRC1KS18ybmhFMGFJMWh4UWxMd3BBQTcxa1JlZFRQTEtGUmotYU5jM3ZEMlVndU9sSFQxWUV3VXVBWUlQalZ2Z2FaS19yOW5rUWN1bUlIM2hENnVTZFF4Y0VndmVFLVE?oc=5"
-    },
-    {
-      "title": "美股 | 美民主黨將重掌國會，道指收市飆1569點，標指納指升逾1%，油價急挫逾8%",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM21mNlJuanVqajJtLUVVSWFyR21RcGM4LWU0ZGVTNDdkd1gwU3lnTEFUM25SMHR0WmRmS1NrTFBER2tqYmIzRHQzMXZxREFMaEVzTXlnMG13VWRBS1l1MEhKTTNxVGU1M2EzVWF4MnpxTG8zSnh3cFJWeVpLZzdpUnlZdGsxTDlSV0JvYjJqT1JhLUhk?oc=5"
-    },
-    {
-      "title": "美股指數期貨在中期選舉後趨於穩定 作者 Investing.com - Investing.com 香港",
+      "title": "我們早已預測！11月潛力科技股昨日飆升逾30% 作者 Investing.com - Investing.com 香港",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ySUh2WFFWTWJyWnhoZDE0N015UFEtQmRCU3d1MlVYbV92bUwyV0R0SmhTQ1RqdF9iS29UT0JwRjM0UTkxUUFyQmd5TmQ4ekF0Tl9wTDhUVWFDQnptUldveTBPWm1vZndFSGxRUHI1SUw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxbWF2U3NpOTNLX3lvb0oyV0ZkM1BTdDBsUHhfejBaX3RtX2xPYnRWdVlNZUxCMmxRS25rUWJCNXByWkplYTBqZDdPQnNVMlNkRTZGTVVEOGRjbmVYTEZxblhOQ3A4VHZuRFhVN0dzdFA?oc=5"
     },
     {
-      "title": "$星展集團控股 (D05.SG)$ 美股銀行股價格依然一片飄紅，昨晚繼續上漲。",
+      "title": "中期選舉後的市場平靜利好大型科技股，但受監管擔憂打壓半導體板塊，QQQ期權偏度仍顯謹慎| 期權市場統計",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRi12SW01OE9rbkt3UHBHOHdjMVNlYXJTSzR1ZHZfaHlXVzFzQzZVaW9ZUkc1NHJZUWJlUFF2YzFkZzVTODFJSjY3UXlHcDNERTJDRFB4c0RjVHR3TFVIOXhzTThHNW1VRWdiV3J6YUxWY0lMODRCQTBuQ1JjZVpDYkdYM1Ayb2ZFSGsyQ0JNS0hqX2pUOXlBZE5wNVJBS1hDUWJiTU83dE9OZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWh1Y1hxc0Q1dHZ0OWRsZC1wZDQ0MXN5ZmJSSDRoVUJod0FnQVdfQzl3NVJyV05zTGEzYk1ON1FUdEJwZGdpSy1yeGpKMHRVTEt6OWZ2SHBXbE00Zlg2XzVvVlJTVWUtYXVLak9sRElITncwS0Y1XzA1YjNIXzBBeHlRS0FiT0NZbVV1a3hHUVhTbUluMXhmTExwMjFMSUQwb1lsNFdWa2lFbEUzZXFLVzJrcw?oc=5"
     },
     {
-      "title": "美國中期選舉｜美股勁升逾1500點韓股無受惠KOSPI指數挫逾3%兼失5500點 SK海力士更傷瀉近8%",
+      "title": "標普500指數期貨在中期大漲後持穩；受芯片板塊疲軟拖累，納斯達克指數表現落後",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02LUQ1U0ZkNkJFaGN2N29VeGFEdVhoTTdvNzlVRTMwQUhjWlRyZ1F4UFFxSGY1Tk9PZGJ6RnFSRDBRS1RrZFYyODRVbWJtU043TWdZSWlXdl9JV2FxTjJRRHFBYXNiVlRoU2p2dmliemE1OGZ1T09B?oc=5"
+    },
+    {
+      "title": "美股期貨丨道指期貨續升229點、納指期貨跌1.1% 油價續軟、金價再升1%（不斷更新）",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxONlYtUmpfQW5iMEw1Q0dvQlRaSU5XeVRoRkFMYlNmZEpWUVpXZmMwaDl1THVvM2NEYlZCdEJSOTZsWTNGdzNwWHliZE1iczJSbm9YM00wY1pKb1B4R2s1SGZwai1GdGlaMDViXzcxRTB4VDB1OWNLd2FOV2JNWFp5bUVpa1FTTnZzcDJVaFgzMHhOR3BsTGN4TDBkRmhFOUNkYktjVGRsTVdMZjcyOUZnLWh1Tk5IZzVJWjdNbHNlZlhoWmVSR3VNSk95YWVOdnQxdElJRzlMM3pjdUV0T1pzOW5vc1g1ZDZUN0ltRXpUVHQzXzBLYlhBVGNkN2lNT2pLbVR1dEpxREFoZTM2dnRhYXZnRmhGXzE1S1F3bHZQbUhnVXRkT3BqQm9yMXljVUU4UXFNcnh1SDVjM0VqWEVZZXRuN1JmZFYwUFVuTERnNkxPdnRLMlJ1UFdjQy1nZEplNkI0SFJsNDNyQUFYR3BoS3JVMzVmRy1JaUZwZk5Hc3Y0SlVWVGZRdmFJakZXWm5oV1FtaG1RUHRtOUdraFlXb0JXWEpPU1lZX09LQUtHT1ZGaFBjX3JSSXc1RERJQnFXOENtRVFLTnhKY0NNNHoxV3FsaHhITHM1ZEU2cFN6ZE02NlA5TDJYNXZSVmpYWHVERk5BT3BQTnlvT3p4Zmp0Z3dn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxOVVlrV3ZKVl9ibVpDUVdiMjdtMmlQd1oxcm9NN0FQZUxLQm0tcXhGUGlORWRHN1NSR2hqMHFzYnhyNFdTNGluSmRHYlBaOWotbzJVS0U2NllGam5RbFhGanZqQjloRXQtWDFjM1FTMXg0NFhSbUhjQk90Ylp5RmZZYmx4RmFZNVhjYWFqc1dFbnFHYTNRRVpJLTFJOHFwNkJxQ1d4dWdCRXdLR1BCSWdHMnQwcUhqS29kVmNSVkhTYU5IaS1tYVB2TGxtS2VPVkZTOWRzaGtVMXpzdFgwMnlwNkhBS05GaXVmcElIamxtOXdTUnFmTElzcXE2N1ZodUZsV1g2SlFxeW9pUkVzWHNCYkZPWUEzVm9ScHRLSzhQNzFnekJxZ0wxbmdESkVVMDV0bERYbFNKZ3ZjZ3Y2ekw1MHlhS2VRem5Ka1dQXzRwcUFab0VtcVJFbm93dm1JeXd3WWtvUHJaUjl3ZUZ0OVhVN20zTmpacGZ6RDZST3Rqem5ITzRLWmg3V2ItSXBaM0R3THV1SDhNNFdyYVlUejNxcXc1MzVRLXk4OFdpWkxmalUtRUpvVmRyd200NmhhYS1hNm8wcFJja0hLZHZQZkNGSkw5WHJSTml6YVRXOUdIbU83TmR3VWVxeU9tcGtKc3hTQWNEUk1ZQ3NpVURqLTlacjRR?oc=5"
+    },
+    {
+      "title": "香港科技股大漲領跑亞股 美國期中選舉靴子落地促資金加速輪動 | 港澳話題 | 兩岸",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10RW8wVXI3a1VWemg4dmRnWEl6Ty1UOGFNd0ZyNzV4ZllGcW8xWTRCOFVTdnJtQnZxcU42YmltN2xTXy1MLXlReFdjSXg3Vm5ncUloM2pwLTVldw?oc=5"
     }
   ],
   "events": {
@@ -84,8 +84,8 @@
         "title": "美聯儲 11 月議息會議",
         "date": "2026-11-05",
         "desc": "公佈最新利率決議與路徑",
-        "days_left": 1,
-        "status_badge": "1 日後"
+        "days_left": 0,
+        "status_badge": "今日"
       }
     ],
     "stocks": [
@@ -95,8 +95,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 14,
-        "status_badge": "14 日後"
+        "days_left": 13,
+        "status_badge": "13 日後"
       }
     ]
   },
