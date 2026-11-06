@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-06 07:15:22",
+  "updated_at": "2026-11-06 16:15:26",
   "gas": {
     "current_label": "11月6日 (現行油價)",
     "current_price": "160.9",
     "predict_label": "11月7日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "161.9",
+    "trend": "↑ 明日預測升 1.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
     {
@@ -15,66 +15,66 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxQWZNZDloZ2twWHYydTd3NzRoU3k0aGtVN2dCbnRvejRIa1lRX0pvejZmY1ZKXzBsaUtWQmVhRU4zaEVEam80VWhMNmxKTW91cjYydXpMZXRYRVZhdm8tMUV4MDhWRFHSAWxBVV95cUxPRXFVTHg0Tng3VUdJQVhFX29FUzQtdjdiSDctc3BGcnowcHNValM5OTY3VjJxcXZBOXFJVDZ1MHplN3hnWFZvQTlLVG9waEdQR3YySWg2bTQ0VzNRT3UxUnVteU5kbGlYUS1JYnE?oc=5"
     },
     {
-      "title": "美國專欄 - 民主黨奪回兩院，如何影響美中關係？",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPdUZDNDRDTlpsR3RqTk54bnZSNWJiQ3Zub0FGbWxJeExtTG90a0VqcWM2UDNwaXdudXFnR3h2cXZyY3NYbmhtd2ZhSnJQUTl3eW9xd29YZlVxdG81LVBZb0YyMEpnTUhnQXJBREtzTGFTYXZPcjVZblJrYzRUTUVFZTlyQ3BoeWVhSTJpbUo3RVhNMlhqY1NxSjlfa09vazhKdUdnSVVTbjVGU004SFVYVkhGa3Y1QW1ua3p5SG1XUGt4SkxYQ0FzRFpJOG96OENrV3N1NGd1aktBOHptYzlfeTZSdG9ycmpkSEpuNzNndDhJTlU3RDVTaVlTdHRyU2gxU0Q2bGJwMnhvREhWMFpiQlpvT01vbk9ncDBrQjJpeV9yc0tVdFd4VUdKdHBIZmp6Y1R3Y0d6SUpFc0pvQkRtWWxtRGViNGthSXdzV0tJR2ZuMDZLcklTRVRMalQxUWlVX2l0Mk50RVk?oc=5"
-    },
-    {
-      "title": "馬時亨稱本港發掘很多新興市場 美國中期選舉對本港不會太大影響",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ad1dOWDQwVmNwYnBuRTkyYXFTOExqWXVGMENRaWtycmwxRURYMjB3TEFWbHJSLWw4OXRMT0c1ZTUtcm1sNmxJRjZxY3VoV2U3b3ZGYXpuNkdsS1NTUDg4RE9zc00yLXVxOUhyQmhMQQ?oc=5"
-    },
-    {
-      "title": "七部門發文提高航運保險承保能力和全球服務水平",
-      "source": "紫荊網",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDFfVTlENVl6M0JIQ1hzMnBzUmlkNUtqZWtWd2p6SmRqZXc1QlJXTkpPeUZjYjJ2X3FzWDNBX0tNV0NEM2lFVkVUbFF5amNtMmttcUktWVZNSFNiX05IXzVua3ZTanpqYk1TVllUb04wbHhzSndybGppWU9UNWtSb09NNktReUVNcnpId1YyY1E?oc=5"
-    },
-    {
-      "title": "美國聯邦法院頒令暫緩凱旋門工程14天",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPSG1seC05LXo2bEljcnMyU0Y2OHJsd1dkWE5tTGQ3Vy1zNV9LSkRNYlFtZTlTd0FQM3NIYjZ4U1l2cy1PQ0R0SDdYSDc1eVROeV9EZFA3WDNvLWc5SUNHRV9uTEFmQXVENzFIWm1YS1oyaTJ0Smk4OFFpeWZQWm5vV2VjNXRzSmpaM0JtUlNCV3ZheUlMZkdoX0lZOUtOZERyT19KSnItWDdrUVppcXNtVWRXSkVwUzRYb21qcWVoRXdSM0Z0MlFkdURjbVBqbUQ0RzQ4TVlDNEYyd1VjbmJmRkwtRHZZOHh6djhiWkUxcVlYeFFsV1lmTGliSnhXYjdubTQ3OXE0SVRLREYzS1VIallwREZYbnZVeHJfQnhreEpqMUNnM2J2UnNkNUdaTnJHb1RXN3ZTaGpPdw?oc=5"
-    },
-    {
-      "title": "國家商務部：與歐盟對華貿易救濟立案數量相比 中方在貿易救濟領域一貫審慎克制",
+      "title": "11月6日美國重要經濟數據摘要",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOTHBMYkVBX2pOR0lYMGIycElRZkN6ektVN3pmaTNOSGhOd3ZBa3lQd00xNDR1MWpvRzZTOGR4S2cxYWtmWnNPV2J3cTZTMTAwSVlUQzZCQ1hwVEMyeFg2ZDd5SXJ4U0c1ZWR4ZndVb2dVbXBGQ1AteWxsYXR3ck1NaFZqUGtKRmRJb0NIYld6WGNUbHlhQ25kQXkyd0NfUnRXUklNSDRuR1BPSlJ0ZWRsUzR0VXY1OTZNSEJ4dGw3RDl2Vi1WWVY1WThEc1R1S3diTGxWT3BobjRPdHlNSFNOaWxXUjhMWUtXdHNqczlYZTRwWmg3bjc4TGxkWDBucEZXU0ZuOENmUEV2bDVNSVlGcFF4SzROUks4bDVjdFNZMFEzaklFanExVmItRTFfWVpnNlBJQXJqanp3eXdnLXk2cjBCTlJUT2xXblR4ejBwanpMZGZ3ZXpFWVlybkFGaGFVaGZMV2ZYQkhMcW4wWklucVFydm43bkxZWW9JcnZqWEc4MUttaGFkakdZUWNyRE1jVG5uVDBnMk9LYTJaS3ltbUVOSmRrVnpfZEVUcVpIVnZEVFBNV0VjSEd1aXhMRTZSa0FqczVNY3ROcEQ4XzZWMVBpUjl0LUxiendTdkk2TFVzdXJtS0djSnVGRTdmalRHOG8wVkRCdjVqZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQmNHT3ZQek9EbmRzSzJCbGdqcHhnVkNacWhlQzJBeGYtVlRkZ1EwWXpZY3VWVVBDVFZ4bC01VUNEUDd6a2trUXdUbG5mRDBtN0ttQXhObkNleUU2Y253dGZGUm9uTTEycTBrT0NTLUtUSDBxNjU1dThSVzNKWlJnSlRuck9zQy1TQVRKV3F2VzBlcXJ1MDRObndvZEJXRXRJUTZJM2YyM29QUGxlUVpQZ0hfYkE0bUl3U2VtazdrbTNiVEtMN3FjaEVUelNzS1U0dGJKRl9fR3pudHZLc2NkSGNhVEN5WXRrb1hFeXBLV3dTQQ?oc=5"
     },
     {
-      "title": "威廉姆斯：美國通脹過高 必須降至2%目標水平",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5icFFPY3BqVUh4LXNhRkFYdjc2MEdZVGRwdDNpci12TGloOENQR01XVk80Y2ltaHVjTEF5QVRHOUlwQmIxaE1jTzVnWEZYY3NmY3NGZThMaFJOcHNjQURoUjJnYWRqYjZnbVlTUWo3bw?oc=5"
+      "title": "要聞分析 - 特朗普:將很快決定是否恢復對伊朗大規模軍事行動",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQdFJUWl9Jb3N0NWtlUVNyRGNiN24wSWhMbmlLZGNhTXFkTy1OSzhVR2N3RFVjYWNFbDVOLUxWMnNyWGQybm50VklFMGpyTThwcm40VWVfSU85dEJRUjRrcUQwMnY3bEdaTHdHeXYxTEhMRDRkNnktdXNEVDNjVWZPcURrTm9JQ3Vja1lOU2kwUUFsNTN5ZlVaWktFc1hpQkhudENKcEJqUUxYcnVtbDJwYjFpZUJXTm56RjNDSlg2Q3ZrMy1EbENOd1RLWU90cUN5U3F6eVpjWXI5VW9HbFc0b2Y4MjVZcmZwNURnSDVLMHd6RDMwd3BRTWY4cVdwY2tadHliWGZaV1E2dHpyOG1Tamo3WnpudHNPVG43d21TVEQxWTNyRS1KbTAydFhIb250dDcyNDdDZVd2S3hhanJFUF92RjQ3TXVTZHFXYU1jWkR4Y3phTVRpMFQtVmdPWVp6QnJsODFMakhRcGIwN3BFQXd3eGpxVTEwSXhBY01LUlloV05RX3dFZ1EwbloycXlrVTIyR0hwQlRkbmxlRzVTYUtDb3JfWjBIRlZwOG1QTld6aFRqeWVBdjhuM2Vudw?oc=5"
+    },
+    {
+      "title": "社評：AI發展地緣政治添變數 「憤怒鴨」特朗普更難猜度 - 20261107 - 社評",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQOG9NUXhsVldxZV9rRGQ4a25LUDNSbkxTWmpQUEhVY2tJODY1ZXVEUC1MNVJCQ09GckpwNm9oTzFReDJRUk1RSDdSeVVHa3FPaVV5eHdzdWFPUDNha0xLRU1VVXAtSFJKM1hLVHJ5V2ZDZG5Bc2FIeWRqOUw5dm5tWHNqVDJnaUVsalo4WnlPVG95aWV3bkdjNmJCVFNnRjhkalltX0ZuZGRaUjFuWWIzQ1VNeGg3WVN2MnVDcnRVVGQ1SVZkSFdmdXhrNzNLRU9lVkc1V3V5S1M3RHBHN0ZSTkRUdGNOUWN2VGs2MTcxdXJlX3Z3V05qVVhZXzdSN0hrdVZpNHlPcVJadkt0NTNGZXBDazh6YU9VZ2pTZVlOTm1qSnRnZDhsQm4wZ2NjVnpMb1g2TksxTE9sWmtiTlc0RDFZVVBNSm9kcUFtSk9zQV93QWRwRGk4SWtzcWhKNmRBUHBXeU9Hc25XZDlOZVBWOU10QVRka20zaFJiQkRZMDBYUUcyTlNxUUljWHJDQUZsN3Nqam51VWx0MnVTVEl0RWRBd2o1Nm85?oc=5"
+    },
+    {
+      "title": "國際｜Portillo's擬關五至九間分店 上季收入升7%",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMXl4LXRGcFlXOHVHMnRyOXp4cnpJR1dFUFlOTF81aGV3ODNUczdoS1N1bjM1TndTeDhZUE43TEdFbVN2anFUTGp5cjJuZGRkTlV4a0dlc0hMVnI3XzdlWFlyUmlwOFBkTW9nRXJjbjNwdzh4Ynl4dktDOHkzck9YYkhlVDB6TGV4M0I1MktnNmFEVUZQM3l6bERKUlZPWWpaa2tYaF9yWXlBbkJjWFU3X2Uyb2RmVTdEcTNPZEE3WUNKdUd5TjgwQXlrd3pfbmlHVmw0RlZ3VzJXdkJLSkt0SVdRYWVSV0xnVGdHYmFFbnQ3MkpfQnNCYlFSR1ZCWHdtRU5wMEdLZ1lWY2RsaW1od3k5N05JNFhxQWVSZ0xITjg1QQ?oc=5"
+    },
+    {
+      "title": "歐盟對澳門前民主派議員定罪表示“遺憾”",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVXI5eHlkWHpoNElhWThfOHIxMnVGRVRzakVJRlo3aFRVSVRvRUF2Q0l5amd4aTdEMm5FUjFFMXJYamZWYlc0dHBxVUJ5Skg2eXhYcUU4dzVZWnNDSTdhY1oyODhranljQkI2MHdBQU9HbXFJSjhYMkE4WXBaQmRScU4yN3Z5RHVGeTRNMGNEREVJOFRKVDdyRENWVnJBVnVYeXpFZDVXRW9xSmtZLVVmV3B4THFFOThyR1NPbXcwOWIzQTNVbDJtSUd1X1V1NWwwSGoyMGZpYi0tYVlJVTVNV2tnLUtwejNoTFVqemM1cUx0V3YzTlpNU2VZQkdxTURTbkVqNGs0RDFSYTdKS0RUTmhrSFlQRWFsUnk2RWlmZDFtWUcxYWFiRnpET0Q?oc=5"
+    },
+    {
+      "title": "國際｜比利時國王拒納首相辭職 促重啟聯邦預算磋商",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQdkJBTjhJZmcwYUVPOUx2bFVCUmstNnVNa190SU54QVFmaWtFTl9UVXRkbG1GcTl3N0RKdkltU1dCZGNrdDNjQURKOHVOd2l1YmpxSklnVDRQTVc5RjRWbTlRSTJQQlQ0N3d5MENiUjVYcW5PNWRQaUZFaXViZG5rbDFwNU1ibmR1TjZpYUE3OGxnSnItUURUeFpvM1NiWmM2YWEyVURmWHBnYlVkanNoUjNRQVYtbEUzWHpVbWZhYWNNTXh4Qmp5MldQWEdVQ3VvcGFWMkphelU3SEZVMGlveXhsZ2dPOUc0RktuZG5xcXZ2Vk51Y2E3bmpRaXc1UWRTQTZEdW90Q3NVMjNFYzBEaW5SZWVKQlBVdzVtUnFta3pHS3J4c01wMkxjaWJ3TGJMWFNTSEFDQmptTVc3NzJadFFzVnJTWmdUMXFSOFk2T3JpQzJsZ0RkZGdnMk9ZWldVaVVvRGlOQ1A?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股「大崩盤」臨頭了嗎？AI概念股殺盤最慘緊盯這4個紅燈是否亮起| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16U3FVa2lEbnBQM1F0dWZsSzBkSEhxRnA1ekpKZnZ3aHpwd2hfQ3NpdUxSdkFNeDlIZEs1NFVzTEdTS1dCbzNmRUw4bEd2OUxz?oc=5"
-    },
-    {
-      "title": "美股｜納指瀉5.5%步入調整區 英偉達跌9.2% 晶片股挨沽",
+      "title": "高盛美股恐慌指數觸及極端水平 預示強勁反彈或已不遠",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNS1hDU3piTFFBVGpXeTBnV0JUZWZtX2dKV1I2VXhjUlhETzRydmtzQmI4U00tYkJFMEdrNVJwVXdHM3d1QnlKaEtPSVpFREg5ZTRXeGNwdGJNNjktX3hBSTRRUXhsVnZGLVVCOWRJQy1jOU9Pa1Fka2ZPcmRHbm4xOXkxb2kwLWlpeTZLdU40c2tUcXBGWllHeDlaM005TTFrYkZnZmN4U0NMRTJLeGJmRlRrbXUyamZQQXlETXAzNk1teW1oZ1FpLVpnbGh5YkJwa1VGUE1hNl9RTThsYjJraFJ6RjdDRjRGOWk1TGhzdHp6ZEZDcTg0MF91c3hGMlROb3RoTVpFYjFra25MTDBj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNOUhWc0YzYTB1MF9PTWFva3pzdGZMc21uaWlPOGFZZjl4TmtBRkc4TUFidVpfNkVQZ3NPSWJuajV0Q0htNHVRQ3E2LUJlWV9DbHRoTjdWQzZMT08zV1JhMXlMODZPZnROY05LdHVHU0FuRW1mUWVwODJoWW5PTlBrOVJRZ0pHRXhmSGMzSDd1YlZROHNlQ0Y1RGpwVmlpckNDVmc3eHpRbmZmOVRKVTBTSU5mb0tSNURrYmpQd2xPTXh3dG9CdkhFZ2UyUE5fTTl4OENpek81OFZHdnpUQmVtM2lXLWtCblpYLTRteE4tZWFnVWhMWGk0eDk4MWNSb0cxaXhuaXdSd1ZVM1dPM3Y3aW44d0tyZC1CNmtLeTlYdUtFWTVER2lJSXVYUEYwb0NtUHkybWhKN3M1QVlRMnd2dXk4aUE2V0dfN2tJTFpHVEtETXl0X0RiZTN4dTNTclVkZnBRWUxnMkMtYURuM0g1SG9TSTJHWklpWWw4MGFrOA?oc=5"
     },
     {
-      "title": "誰該為美股暴跌負責？特朗普直指民主黨",
-      "source": "紫荊網",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPckdrcHdSRHdDNjdSTzAyZW1CLWVwUjZWZXpYOHpxSkRZbzl6ZUNXMlJhM2NWcE53R3VjN1lVREIteXZqbjBMdndfVFp5TzhxODhuT1ZoUTJUdHVicUx5OFp1c0R1RDFrcU13UVFoZ3BSbTREZUd1bnI3QWFGdUFhTXVpOGFaejFxc3dkQ3MtUTM?oc=5"
+      "title": "美股寫照 缺水收水散水",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmVyZ0ltX2JUcFpyd0xqblZGZDI0d0l6eXU1R2IzZlgzQVdqeUJLeDdlSG1STEVQRlM5TVc5UmxWc1M3WFhLZmpiQXdrQUVQXzRlanNOQWFVZW5hbGw1MWdjOTJxazZ1Mnh4YUJ4cnVvRVVvN0lzOHVFXzg4RjY1ZjNMMWxacDJMa3duajhRUWQyajRyd0NSb0l1b1ZVWWtENE0xYTRyWU1WQ2tybWFWMkJsbHNELWpodldrS1U0OUFRVG96VzhyMVZfTDBRSmcwLVg2dDkxZ1Y3VG0yNTRORm5HVQ?oc=5"
     },
     {
-      "title": "納斯達克重挫：人工智能硬件增長故事發生了什麼變化？",
+      "title": "美股初段個別發展 晶片股反彈",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CempWV3ZjeVR3dGY2eElrcjBQSGEtNGtJeklZajBaekNQN19yTkNUSzhKVWtuLXRxMl9SekU1cGNNbDN0ajBYVWZOVnlHQzdRSElwSmxpRzJZZm55d0pBSUQ2UWVqaFk3ZVlneG1WRQ?oc=5"
+    },
+    {
+      "title": "VIX暴漲近70%！歷史統計揭示後市投資機會？｜美股評析｜豐雲學堂 2026 年 11 月",
+      "source": "永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOa1EwbUFEekp6bFZOcnp6QUR0cnFxcy1lR3gxZDQxYlVxUGF2TGQ0TEdWM29iZ0NvMXN4RjhfOF9VOXVCalpsa0NhZkoyNG1ibWx0Yy1WU1E0ajVmV3VkWXQzWmFYaWRpODBQRnpxMUl6MzJtbFJjQnBrUUtBWWdMX2h3UGxfdi1RaVFHdllSMFRISE5RSU12M0xPdUVCY0F1U1RKeVBUOGZFYTNDS09ISDdraUw0djZHc2NSVHNuYl93ZUt6LWxKZl9iUUFRM1hPM2h6Zmh2WDk3bFJ6MllVNGd2aXo5dVQxQmVZQm1tNkFXajVqdG5xSUpTaHF2TUk0ZUNKWXpkUVRvUnRjX2Ywbld6dHhuMTd3OE44Y1dkaGl0UkcxaUZzNXpwS3Q2RkNTSGk0dkhVQmQtbkJrQ1RFdENGeks5SzFFQ3lLWlR1MXdGYXRkMlBUMThRR1Z5bG5HNFJGWUxQYkt0NlJkMkZiYkdQOEs?oc=5"
+    },
+    {
+      "title": "更新：科技股反彈推動華爾街上漲",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGZ5TWhCcEJTN1pRdHJaenVXcGctenk0NFJjVzhjbVZaTjB5eTNlanhsdVNMUGJ1MkdKRHV1LXktaUJsd3otUjVCOFBaQkNZMFdpOXRtUXVQLTFlREFCTE9VdzM4dGJveFZrSEFEd1h0VDNsTzI1OEFBa1hkZUhidmVUNWVnSjFDYUZVWTNtSXdWRHFRWEpMcEd6al9kSkhOLWVCa091eFQyRjlpRmYwMWxVUDJfUk03aFE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEppUWt5YW1zTlo5QlB6amQzX2k1MnJkbEt1bzhYaWxCa1QtcmxTazdiN2NGTHRHQ2ZSSWlxcjZxczgydlczdWlxbmdpUGNyLXlXakxNUUlOeXlrajZqdVpZNlo3V0hmUDBkejlZM3RDMDd6OVVEcWEyYjdtSS1VZ0FKU05IMm0zeGxoLTBsTkNpRG52NWIyWk5Wd2Q?oc=5"
     },
     {
-      "title": "美股急挫：美國選民又後悔把票投給民主黨了？",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNTFpGdkFhWFFBZVV3MS14YS0waldHSnp5V21pd2plVGQwaTNBOW5yclpnZlRJMjZXdzk3aHNQYmZJZzdXUkFYSUQ3QjZtWHFSRXpaQW9lS1U4ZFhxLWc4bWU2MHZZNE9LdmNTWTFrb1NKVGdrUTl0TTljaDE4WXdrOVhmTE5qNHJqTFhmcmw0cjRjWTdrb2tJZlhodUZMVklreWpxWURJNWdzVnVRWFNmaVB1cERyT0RiNkZDXzF0OXBBeGI4Z0NyTWVXWUZYd0FDSjFPbGVaVHdpb01NbFNORUx0T2h5dUpXdkpZbTVZSWtsU0NKd3dNR2tvMzJqOEFYMXRWdWVfX0hGQUtKdWdkTTZWQjRnYWZpYkNvYWpYTjFlNGthLTR2X0pBMjV2dENlSnoxUGN5YVhlMmgxaVdCckFJSEFiUlNjd2E1QUJudGlQWUR1THpyc3M5WQ?oc=5"
-    },
-    {
-      "title": "黑色星期五！亞歐股市慘遭血洗，華爾街抄底 市場進入恐慌拋售最後階段？ 作者 FX168 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2MkpzZHk3Y3lCZ0lwUnBST09pMWVxRFpjZFQwVmozMkxXd1BlU0NobXRMMnhiSXN4TmdIbGgwV1djbFZ6TUxVT0NMVjVHOXdmc3FhelNjeGJYOWR1RTQ5THlqVFpmREk?oc=5"
+      "title": "美股面臨大考|香港經濟日報",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0VlRjhDTW9xaDdjOTBVSEp2T25Zczc3M0tNejZuNzFBRWRXdV9nOHdUS2ZuUTgtbEh2emtOMWhJRTNJNmhkekxqUjBKSmtrOERYYjRPcUVTXzBrSHRVMnJRTjJEdFZza2VHRFFHbUxVS0R3RlZwZnFwdFB5MWc3UF9qV2Ita3oyX2FkeTNubjBKZGJEZTBrbjVB?oc=5"
     }
   ],
   "events": {
