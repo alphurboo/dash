@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-05 16:15:26",
+  "updated_at": "2026-11-05 20:58:14",
   "gas": {
     "current_label": "11月5日 (現行油價)",
-    "current_price": "167.9",
+    "current_price": "160.9",
     "predict_label": "11月6日 (明日預測)",
     "predict_price": "160.9",
-    "trend": "↓ 明日預測跌 7.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美國共和黨大敗後産業政策會變嗎？",
+      "title": "美國中期選舉結果或引發日元升值情景",
       "source": "日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSkE5TU9qSzJGVldTeE5PTE8xT19wVklYVGI4ZjU5VGFDZlc1cm1ITl9va21PajA3azlMbE5uNXBLT1pGYmwwSGllcEQyOHA2Rm9wdG5UVFF5bUM4Z1FxSWUxNXlxLUt3RVB0U2szam54d3NId1lpZ2tCbmd0aTlfLURCT29fel9KSThQUWxKaUJxZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQWFDenYwUkxRdWtoM0IxbVVzU2htSUV3eDFWVlJCN0RaTFdVUFM5SDZGYjdzX25zVW43d0FfUHdUWFQ4amxBVFItQlc5LWp4NDY0QWRLYzZpamRpOENNV2t6OEpucTVZRVhMMXlQX3gwU041RnRMU3Nrdnowd29tR3pFWnh5Y3MwTXVr?oc=5"
     },
     {
-      "title": "美國第3季非農生產率增幅高過預期 單位勞動力成本下跌",
+      "title": "特朗普認為非常接近解決俄烏問題 協議範圍或涵蓋整個歐洲",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FcE5sR3pYNV84T215QnNBTk9tbFJFZlJCblNTY3VjNG9mSk1PVUFnRHl5MURYRnJneVh2LVdGUXlqZ29kR3Zfb2xBNkgyYzV2N3hfTk5WUmxOTUx3c3lGSl91eHFoOWxxSVV3bWphVQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwXzdubVJxLTdzZmlEbGJPeHRpb2lGTmx1SDZ2SVdXekw4bWZEdzlRV3JWME9jaTBIdWpMNjhUbFRmUTNiV3FFVTNrOU1XN0lBd1FUdU5wQ19nOFdZSlVJSXNTbHdiTWNpZXpZLU90QQ?oc=5"
     },
     {
-      "title": "中期選舉後美國兩黨最新出台哪些政策？",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZlAzTExHRnl4Z3ExdGo1MnRLdklURWZ5TzNCT0JXX3hJRVhYX1RLdEgyWVdsWmg0VHM2cUZnVF9JZkdIeHpCMXczOGgtTlE2ODZ1czY5OHlBa1dQeksxdnpaQ19sZ09iV2E0Vk9NRUhYdnV1Vk53RENudUFoZE9ZVFZoc3lHVERVdHRYbEpvaVUyVVItMF9qZ1hfMExXbGh6ZE11dmt5eXNUMUY1SzVobWVCbWhMbHhweW1leE5XXzZ1S3BUZm9sOG5SVWlNbDdoSFhkNVpMM3Z3dTFPWjJORHVob3Q5bmpvMlhWUjVXdUdNZXBlbHhvcnV0VnJ6eE5JVWV0OGo2dG9TcDdTWGJkY1VoX3F1UVkyVWVoVGVOZUE5X1lzMVpKSkt0VQ?oc=5"
+      "title": "梅拉尼婭會見俄烏代表 籲在人道停火基礎上創造持久和平",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iNWJqZ1BTbjdzdkZ5U2VoVnJhOV9IUDR4T0F5VmdHNzNXdndHdFoxSThoSEg2SWNOSVpaU0ZLTFEyNmdzSjEtVThGTnVvdFg5NWZhMEoxM3ZWd09MQldxSm1SaFBzOGM?oc=5"
     },
     {
-      "title": "國際｜Outback特許經營商申破產保護 放售61間西岸分店",
+      "title": "俄烏戰爭 | 特朗普：將就俄烏問題達成重大協議 可能涉及整個歐洲",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPRGd3aldXTjF6MFRRT0ZGREg2NGFYRmt4WlQ0eXNhU1liZW1EbWVaSHB4N2NqRWN0aVE1NGJtNGpKalQ4VjdVdE9uT2Q1X2ZTZWU1clpObVRKSUdEckVkTEtweTdzZURpcDBFcTJVWm11d005MkRUcFE3dUxpYVlDNS1CWnJCeThPaFQyaU00Ymd2dEcwLXB3WXA3WmdVTDV2aDV1Vy1GNzlXSFg3X0xxUDdVenVWR0NURW9WQ24xX0xhbTRWOER6VGVFMlYwM3FhbGptUzdISjVoR2hLRFp1ZXJFNEN0Y0FGaDRXM0hxVThFTEdBQk5oekJvQmJ0dC1FLU5ncFY5QmlTMnNHSG9qLWM1ZDBRbmpWd3RhTW9CZjhCMDBMN0ZmOG5ZWTR5VVpicV94ZDZWQ3k4Q2pYdVZwNXlmZ3ltNE1pOXE5eXVOTWpLeWRCTkxhZTg1a0J2aGZEdzhMYTJPb0h1a19FV1MxVl83azEwVzVRX3RzU0lLcDRDVnFKbEgwVUNpOWNEZ194azFwVG1fNFdiWkJYYTR5WmEzVXM0QQ?oc=5"
+    },
+    {
+      "title": "川普會見普丁特使 並預計就俄烏問題達成「大協議」",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPYTdwSEd5aURSLTQ1eU5DbDlRV2FiaDZSTTBvWW1ubU83SmMxQjB0Q3NYSjVDcmp6NzVEamFHV1NGLXZpa2h0SU5EV2NsWlpfU0k4bk9Sb2p1S0RiNlVmaU9wX2tOQ3pTQU9BU2FGSWtvU0lmQXNfbS1lem91cVAtdHJRWTNIUFhnNmRCS2JmTEtmaUhibGV1dEJwdUVLNkU3V1JLZTdQWjFlcVJUbXZQUDBqSU1VVE1rYnVfWmFrc3VGTnMzNmhpWExTbXA4OG1nSzZoQTU0cFdlRHlLZFhFU3g5alp1Mmh2T1VXWDFLNEo3Z3BtTVYyU0RQTk4zNkw1YS1RVU9wNXJRRHR0NFJ0eG4xdmdQWVpoeU1XRkVCTkpmck0tWmE3dGMwNHNRUF9SUjQ5R2N3WndYZDdNcTVyQlJyazE3QWJpSU9rM2k3WVo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNSVl6Rk40eGVJMGttM2Jkb0hhRllYY2Etb21OeVM3LUtXUmhEcVctM0g5WTMyc0Q2TXVVTkxHVDZPQmxpdmUzQWNZUDFLUWFpOU5aUHd6TS1YYnJ0UzZyVUN1aldhNVpkRUFQZTJvQl9nSjNnLU9DNHFoZk44US0yeDIwYVhPdTdiWlg5U1o1TU9tMXN4MFBaMVYxajlLVFc5M09lYS16OEFmWjI3YUFuS1ZvNUNIYlBidEVXaWt6NVVjdWJfbnpTQy1xQTJGaE1JM2dSVE02cnlJckxqMGgwaEx0cFVFd2tpZm1xVVVlX2JSQ3hIMGxvNEh1UmRjRHhxbHVmT0RqdHZxWXc0eTlZZkFrSE1PNWxtUjlqcVNpX09XNEZJWEF1a2NxSmtvTk1tQ1Qwc21fekxNZ0VBSDQ1alozZWdmTkNTbU1jTldRWm84bUVCWFc2U1V5eU4?oc=5"
     },
     {
-      "title": "澤連斯基冀美國中期選舉結果 有助美國增加對烏克蘭援助",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CTjRvV21lUzlERi0xVk9jN3Y5R21PMXNTUGhTNk1uLXBLYzFzcnNVNmlqdTl3am1rc3N2ZVhxWHBjZHM4Uk5HeWV3Z1F0UmEyQXhGVlVlYUNLTWRiUGhWMFNtNlNVNF9razJKSUNGOA?oc=5"
+      "title": "俄烏衝突丨特朗普:戰事接近結束 協議或涵蓋整個歐洲",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPSzQwVGlMaDkxTlZZcVJSUFRMX3plVUhCelJNeklXN05sNFRocFZxOVg0cnJrS3VFV1YtLW1PczA4Zk5vMTNBdmpxNV9yMndoeDR6RloxMDJWNGhaZG43N3haa0VjNTl4MjhwbDk5VGR3MTAzSVhQSlhyWmtLTFBUeWItcVFjSVhoOXZIY3MzZ2UxUWZ1T3hpWHRRZDg2MXVGQ0ViUTBZUkxNRThiQmkzSlFxUktxTEZ5dnpQLUNlbmV0dE5KRXh2ZVRuNmM0OC1uLWp2dlNsVzBnMDJvYkd1WEdFNG5aZjZDbmVHalk3UHM3SXRxaW16OTZhSmVmZWVET0VqTmZfVG9SdEZfNUZzQUhfVWRkVTJwRmRqNmw4RlNlOTZOVE0wUDlUbi0tZWNCUTFTVXVQaV9yeTN2QnowUHptS2s3ZWM0Q0FfXzJid0tFYUdtT29HQnpOWHN3N28yYVEtbmdMVTRXVDNVMFRneVkzR0ZiaUFXcnpYQ3J1bTFCQQ?oc=5"
     },
     {
-      "title": "國際｜古天樂監製《憤怒鳥3》 Jisoo包辦新歌創作",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPV05qdFYtRHk4Q0hhcDR6bENGcFlkRE5hRHhPc2JDVWkyY09CTnVEMjcwSFdmNXllUTdDdDhGYWtpc3JQUlV0UEJkakE0SUx4WnpDS2h5cTJTQUdGLVljTmRjakpqc1MzYlEtSU1XRUM3SVJybndPajdJMnBBNlI5ZnRKbkFzTEZhdU5lUVBHUlZOa3R1LUt2RW9ocGt5R0NMd2RZS3c3WmJKa2hwTGk2MjBWM29XVUxSaERYSEcwM2JieEc0M1JNcnBrQVN4ZHk2M1RQbGxBaGR3cmlQQjIybnFyX1FQb29EeHFOaldaZ2tIRXpZbjFLMHplSnJCVWJkWW1VdTN1ekZIZ1RxMjNDZU9zT2NTTnZ2dENYNjBVUV9hakdrMkx3VXdB?oc=5"
-    },
-    {
-      "title": "歐盟稱對黃之鋒在政治動機下被判刑10年表遺憾 英外交部促尊重《中英聯合聲明》",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPZzk0UnBQMTg2MjNzX3BBUW9fZ2NZZVVvLXVmSHZmTnpwbEpLUTFFMWtqekszTTBWVGRjRnF4V3FISDUtRktiX3dJY3lsY3pkWVZPMlJ2QjhucWJXdGc0R2o5QWlraWVVeGlTZkYxb1RBMVpsVEl5Smt3S2ZTTnBBSW94YTgza29CYVAzQ2I5bzZ1MkZwbF8tTkFRQUJQZk5oUFp0Yk1aT1hMYWJycDdKc1IwejNrVzhWZWhrRnJYMTdJVHE5OTRXOVJtdnViMEtyaXR5M21IdnU2RXktRklkaEFOQ3JNQTMyZVlBZ3Q3UkZONS01a2hudXB4WkFQTXBnWURTenVxN0lGN1NlODhrV0xvRFJrOVQ5N0hGS0puUjhKVVpWMlpyWHVPajBTYmNMamlha0hEWXYwajI1MEg1cGVqZnIwSEVIV0ZRVzB6TURmRTlscUhXYWItZ050b194RWtXeDQ5d0ltLTAtdkdUcE1BZDdleVp6eXBYMXNCWHI3RlJvaVlVbzVaaWlSNEZOQTFDb3Y5OW5jNGdKc09TMFd1OVJyVk1mSTBCMHNJZXlVYVJPcnQ1Q284QkJ1MnNtTEtDbVFlcjdmM3FLMU10QWhrMERCNUdhT0N4MEo1UWp0bHM4TlRfU1hwVTZMT3By?oc=5"
+      "title": "美國想快速獲得巴西稀土，巴西卻提到了中國",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DNTBBVHRidzEyVkJnVzByQ00wUWhhU2RKQnEzam9rVnNfajV4LXlnUWc5Q0EzRVBkbndqYjlxbFl2Nk94cERiaHZPM3Q3cnlZRURmQW50RTZveWNfN2NsOVZBQk9fVzJNUU05WXNFVQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜中期選舉後升勢僅一日 晶片股急瀉拖累美股",
+      "title": "美股慘遭2020年以來最嚴重暴跌 五張圖展示讓人無處可躲的衝擊波",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPRVJVbHNrZERQcHBwd1lUWkRpckItemQydEEwYmRWQXE2M0Y0dllrY0t4cTZjNXRxTkNTTlZZazV5Y2xpMDJqSHl4WmdMTGpJcEVyX2lEblp1Z2R0NE0wTmpZUzhBQlFJNWlEOFNabjZ5dFZ5VWc0YVRTWDI3bURoZkJ6OXRKYWwybnZkNXFvVFA5ejh1bkl6SWhINFk0N0J2dzc1cDhMRWp2RTFHZzR3VW9mSmVEMmJhMzhodExkOUdleVI3azQ5alhFamJhdjNNYVM0a205a2ZBQzhqbzlPdWY2VGR1ajZwS2RlSUZ6eGFoTHM3N003d0hYMnhoR3M4NXlfVGtIUWR4ZWhwaFlSQUtlZWlFRGhlZ2ctamp0dUFXbllIS0JqYkFDQW43elVjOGF5bW9KTXR1S0tnbkJvdUk4WmR5YmpGQnpTZ3pNMWc1Zw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPYmNGY01iWWVpN1Y4VVlvSEl2TFhsc3dlUGlfVDI4ZTJwWnMtUVUwV0lTM1J3VDl4Sjd0V1YzYjFUODhSUXo3RVBGOFBvN3ExeHk4ZXYyZllmRHQ0cXhrQkZVa2Z6YjMwVk41ZWN2X2xWUzNIaUJna1p1b2JSY3NXZGZJVkpQZ3dydG9xbnVacGtLeXRRU08zNjM4YkdZYzlFeUVBRVY0aThaS084S0hrMk5kWWU1dlAtLUJmR0xaN2d0U1NQbnJaS2p1NW1qLV92SVNmb3hFdFIxSU5FMnAxcUxfRk9nandmNmhCNXBsb1YyaS1RN3dPYjhjQnlJeHphdXBYVjRaMlpkb3dyMGJZOW5XVWVLMkF6Z0FCeUU5WkgwRnpQcnJrY1RGa1NZcndDblNfMDI2RGxpZTk4UWNEVG0yLWp6c0Z1NDlzcmFRMTdvZXBaWVlaMUl6Vk45bFE2dFJBczFxTEgzM2htMHJ5Q19rWDdaa0VZS3hzLVcyZHlwUGNILVhKMDBoNV9TVThZVFF6bU1VN3UxY3BZTEFhSVloUEdjXzFx?oc=5"
     },
     {
-      "title": "【美股哀號】AI股暴跌成災、普遍跌1成 加息預期升溫（不斷更新）",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxOMnctN3E2cDFnVWJ6bXpTNmlJY3JYUVhvVGpvV2Niem0wLTkzOGlBb0J2MWthS25mM09JZU92TGdHdS1DRGdNQ0l3M1BGVVhtS0Q4U2k3S25QaWZaaVJoV3ZSVzlWMTRXaWNoTnczUXpzYk1jM0ItM01yNXp6ZFd6VnJPeHduZXltaXFGMWd2Y19aeDZhUDZoQllmcjdIeEE5MTBaRkJDRlZrVXVEX19KTzI3WWZRYS0wWlFBTDdHcEluZVJZM2JtTFk0Z1dKdUIxZG1wdFJXbHdxVHVGaDVPM2d5UmlqZllRQ2gwdW43TWg3bDMzcnoyUnA2eDhkUktNVzlCLXNkRUZ5eUl1ZHhFSS1UdGw0cmRmQnFsYXVlMHUxYkxDeHU1RUFKd2NQQXhLZkxtVUVTV0xleEljcklQYXBnWTNSZUgzUllEMUM1TGdvcUlzWTV4R3I0UHFqVG1YclMxUExxd1ZSZElzLTQ4TzN6ZUdGUmlMcWR5U1p2NWZOc1lFUmMzajRvTHM0RzBjcjg5aW9EODMwUDRVd3B1cnJzY2VSRU5wOFJBbklKeGs?oc=5"
+      "title": "美股急挫逾3%至5.5% 晶片及光通信股暴跌",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwVHlLdGptUEFhYi1uRkdlMVFZdXRObkYxV2V1WmpWOC1ZVFFJLWpPd0U1TnJ1X3ViaFV4Tml2YmlJVWlaOFRaeHBpQzRoWU5ZWDNMWkJubl94WGVwRjJPWFU5MXJJcm14UFpRWmh5VQ?oc=5"
     },
     {
-      "title": "歷史經驗 美股選後看漲…S&P 500指數勝率達91%",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MQ0NuY25kaldDUC1pUlFxUmIwckN3MlJXbzgtS3Y5a0RtSlRGajdyWFNTUE1QVXpDNldSWml6eFh2eTdlY0EySVZ0bGdEZkl30gFWQVVfeXFMTVlBcG1XWm1JVUpLWU9NdjBWUk1lR0IyUzVuRkNIV2pYV1YxR0d6U0QteEU2VERHYU9RNm5OZmthWHVJUEdvNEJ5aTRDZ2Zlc2UxNVFGYUE?oc=5"
+      "title": "美股芯片股遭大規模拋售 納指重挫逾5.5%",
+      "source": "香港商报",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qZ2NRNm5HbHo4TmI0SEdGNDViZ2x4eGNJZHdiZWFEamdYUVlKbmtOcW9oeXFJRWkwdXRGVjNDNEdyTVkzNWg0em5LN2dYMUZTUnZDd3ZBUkxhVlBpN2ZZMEVBUDBySmJlUWxyaDlhWXdFQllxYkE?oc=5"
     },
     {
-      "title": "民主黨橫掃兩院觸發美股大跌市 納指一度暴瀉5% 道指挫近1300點",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxObWxwU3BwbFRNa01ETkhWSGIzV0RkbkZjV3hWREZSVjRLRzY0UnJuaXdBVFVUQnVoZHc2cjh6eHdldnZNRWpYREQ2TnROd3dQZXYwTEdPZjJmNHFCclZRUS1TNkd6U0VSQWdaOWIyYTBDUHBGQUZJckpoN19TOFlrX19TdEtDSm9QdHkwb3lSX2JXc25qOFRXOS0tRE0wOFZKUEhDR210THlzWXRlUUsxc0w5dnpPOXhQaU5velp3Q1Y2UENyeHdadjhlbkl3OE1wbkh3eHM1dXRWbFpLVGEyLWh4d1VxMWJZYVc3dG1uMkQ1WGlJSGVjdHBwQ1FtWWRTNjVDSDVLUVdiQ2N5YzdtSzhlOVhWcWhBSW1HSnFjU0djSnd0TjdCa3VrRGtKQVMyN3hmaDFwbUkxWXBtREdPa3h3OWZKaDRGWjNXLXFyZE0yaS1tQVMzdnV3NjYzdFZfazhIZ29WbTQ3Z29zY3RtZUFsMzZjT0VuVm91X0c1WGtvQ3dGc2FFNFlYODE2ZjIwdnc?oc=5"
-    },
-    {
-      "title": "美股異動 | 光通信概念股集體大跌 Applied Optoelectronics(AAOI.US)大跌近11%",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUk5BY2VGSWlpUXdGMzhzOUg1NEdPbnhCenFpVDI5MjhfdHBNNmNFUlF4bHh6d0l6UkxHRTNfLTRBTHhEYU8tejFmLUpRX2RFUXk5SUJVSlJTQnhpY1RTdm5yeFRXZ2hpTTdnSEVRVnRlVGJ3LUJXd2lFTjE0Rk42c1pBTXIwNmhiVENJZTMtaVR2UGVJVUdSZ0V2aklqdXpMZzFfeGlmVGpmM0V2RUF2XzF3Ykttd3pPRDRfMm5JNk5HX0Vxa2c?oc=5"
-    },
-    {
-      "title": "【美股】七雄盈利增長跑輸大市",
+      "title": "美股史詩級拋售 馬斯克身家蒸發千億美元",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR1Y5anMyd2kybU9kajFIQTVtbTJMSnVCSlVidm1jejBiOUg4QVh0ZmNZQWpyZXV4Q1p0V2Y4R25lRjNZWnFWOVRBdzBsY3U5QXJzWFVsYS1iejJieENjaE9KazVFSUtKM2plcTlLbEZLUE42UGo5eGpDUlZoWTVGSklLOXhmU1pINmw1N3dTeDQtcmtQMzdXTDRuYXhEV0s4bllyU2FubGs5c09VSFFWZFJmalBsSFlrUWZXeEw4T0hVd0VUdHpFQldRTXJnc1ZSOV9PYnBLU1pUY3pCQl8yWjZmZV9BTFBqRzVSaWVGbmNRSmZ0U21IMVNvSk9pUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOOEthUUdBemZaOWdIbDJiSVNyZWZUVXB0bEdRa0VYTzRaNGZsQVVmczI2d09QVkJVNTRJaktXdnRrOEx1bWJPUmVWQkJJS0ZHcHpCY25XQnIyWlVJVUllRGRVLUtFanpmTW5ONnMtSUxGQUtfNjZtdW9UZ1EwNFMwOXdZX1ZTdGJtWEtRT0hDbklJdk1fMGdVdldvb1BBS1A0eWJGYmNrODh3azJUTXlldWlUNzJHYmdBQ2hYZXdCb3V1RmM5czJzY1F2RTJtUi11X0pSM1VySFcyV0liNVpPUFVhRFQ4RGNydC1WUTcyVHFnb2hFRnA2TlRTX1lUaG1FSGFYeDRHZjlwNjJxcEVyTVU2TkRtVV9MZkNRNDA1cldsMGw4T3pTTXBveEZ4ZUN5UWFkb1YwUFBwMEZXR3puQ1hGNFVTNTBzVXc?oc=5"
+    },
+    {
+      "title": "美股期貨在AI股拋售潮後回升；非農就業數據備受關注 作者 Investing.com - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rM2g5bk1yWVo5YkMtZGdXUjkwNlFGbUtBOW1iM2NhOFg2YXo2dWd3RXVfaEhFb1ZiN1FBNVEtRGxGdXItelZSRHZScEFzalJjS2JJX3VlRHZVdUk2NFRyUVB0NGhzOElVaF90MmlSRG4?oc=5"
+    },
+    {
+      "title": "美股大跌，AI漲勢遇阻",
+      "source": "华尔街日报中文网",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSm1JZnV0QWxTYlVCUHdrUExMeUh0RHl0TV8wcHUzc3FMSllsWXhleE81QmVFdXctaUNfMlpWZUVZY3VwX205TnFXaWFpVW1Ncld0TWlZRlhJNXVJcnROZUJyT1F0VjRTaThOWUtnZWJENUFZdlhNODRqenNwbjJRZG1FUjRGdjZJYnBSc1FlSVlqX01Qdmx1N3F2dnd2OVQtTGw4ZUItZ044Z3pQNURxYlhn?oc=5"
     }
   ],
   "events": {
