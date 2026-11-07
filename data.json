@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-06 16:15:26",
+  "updated_at": "2026-11-06 20:35:32",
   "gas": {
     "current_label": "11月6日 (現行油價)",
-    "current_price": "160.9",
+    "current_price": "161.9",
     "predict_label": "11月7日 (明日預測)",
     "predict_price": "161.9",
-    "trend": "↑ 明日預測升 1.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxQWZNZDloZ2twWHYydTd3NzRoU3k0aGtVN2dCbnRvejRIa1lRX0pvejZmY1ZKXzBsaUtWQmVhRU4zaEVEam80VWhMNmxKTW91cjYydXpMZXRYRVZhdm8tMUV4MDhWRFHSAWxBVV95cUxPRXFVTHg0Tng3VUdJQVhFX29FUzQtdjdiSDctc3BGcnowcHNValM5OTY3VjJxcXZBOXFJVDZ1MHplN3hnWFZvQTlLVG9waEdQR3YySWg2bTQ0VzNRT3UxUnVteU5kbGlYUS1JYnE?oc=5"
+      "title": "官員稱米勒接任白宮幕僚長表明特朗普無意改變政策",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KeXRjUDJ3TXVTX2x1R0Q5MDVBbFZlTm51YW9HY2MxM3E3ZFBjcHktR0lQQWxOZjl5ZllydWw0alZDWUsxamxYalVOUEtMRkJWam9vbXlGTVprQzltSTdnLTBNN3R3cFZTQThUaVRmaw?oc=5"
     },
     {
-      "title": "11月6日美國重要經濟數據摘要",
+      "title": "八分鐘國際新聞重點｜烏克蘭不期望與俄美會談有突破／米勒將出任白宮幕僚長",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPYWNNT3J0M29XcTF0d3BaaDZyMFUxSGRpWjZRZGpLaWJoOUN3dWItVklkNUl6TkVXX3lZb3RWa0lSWlJxS3NUcEgzbFhDWE5hci0zYl9XUTJVd3Fpc0Z2Ul9FUFlZSksyOGFtdjNVYkZIYlA3anAzTHdTMUJLMndVV1U3VWJiVjlnU3lKYWFfaUlhdE44UTJyd3R5SWFKT2V5eXYyamxUdWhUaHB3VEZ6Y1pPZ1JMclNIRnpYOTA4QmNaLXFKREZQMlRQcmVheThmQWdMbHBxQU9fMWk3M1hfQnVjSUFBT0dfRG4zT1Zrbm41Z1pSR2FWSFZKa3Y2djAyaHFiTGdIcS1ldm05d2ZNUEptRFcybzRSdmFXT3c1ODJ1R0lkM1loS25OUXdtbDF3MEVQemRZcXF3OWMtenZkbmxRdTIxZ3ktdW90eEdTaGVxQVI4dUVveDVPeHlrOElLSFoya2ZnYUgxeG9GYUVvMkFpMDBCdDNZbHZSOV9lQk1ZZUZzLUduVk10OTJPSHF2cVVwNTBfWWFkaW4xU25mWmFNczBhN0Q0c1NXTktNVHpSZGl4MkVnc25ITkpkUjRnNmRYMnZpanI2bGp2RW1KZXNpTQ?oc=5"
+    },
+    {
+      "title": "歐盟擬向15歲學生推「AI素養」證書",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZW1jOWJKNGk5dUpnRUxUWGdyV0VKZDlYNlI4R0s3N0taT0JOTlRkZFdmNjF6bHdBQUEtdG9qWERBRjdVdHVwN2FrcEs4VmwtMUpCNTM3N0oxVDYwUHZTalhZZlhRRkQwVG1BQ2RhZGZTY0NCd1NYdXp6a0VWNTNaN0tDRG5pQWU2a0xGVzdHOXpCYkc1QXNGa2IyT1pfdkxHTldtVUFFdUFSUXZLXzNETnQ3VmlaQzNyOERCdVhvYk1zSlRuQmloRnNrSHpxNnRMMWJjcGlpVk54SkVXUEVaeW45N2Z3U1hVZWhrRWRwdDRlV2hq?oc=5"
+    },
+    {
+      "title": "特朗普任命米勒出任白宮幕僚長 接替懷爾斯",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OLVNwN2hoTmRJUERsSW5Rbnh1R18xVHVYRTd1UGhKSlNYYk1hampBSzNXS3NTRmlKNW9BekNKRVlkNUZMUm5IdFJheS1vZ0Q0X2ZzYWU3WHBqaFpneHVRYUloUUd2S2NMTkNwNQ?oc=5"
+    },
+    {
+      "title": "高盛將全球數據中心容量預測上調至2030年273 GW",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQmNHT3ZQek9EbmRzSzJCbGdqcHhnVkNacWhlQzJBeGYtVlRkZ1EwWXpZY3VWVVBDVFZ4bC01VUNEUDd6a2trUXdUbG5mRDBtN0ttQXhObkNleUU2Y253dGZGUm9uTTEycTBrT0NTLUtUSDBxNjU1dThSVzNKWlJnSlRuck9zQy1TQVRKV3F2VzBlcXJ1MDRObndvZEJXRXRJUTZJM2YyM29QUGxlUVpQZ0hfYkE0bUl3U2VtazdrbTNiVEtMN3FjaEVUelNzS1U0dGJKRl9fR3pudHZLc2NkSGNhVEN5WXRrb1hFeXBLV3dTQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOQ1gtQjNSbzQ4aUNDT0hFaXFLVHgtYUNBYlJYU3ZuZU1ic2xaZHNmaUxUNGphNllvVzlNWWp5MlRFQkU4YUtLMS1CTjJTSlFHTkQtbFV1WjFScklHTnlpVGFqbURfTDBmTDd5YmVpeDl2bm42WUdzN1RUdGE2WUJ3MDI5ZFl3blo4U0ZTcFNhbTAwY2JjNm5UZHNyRVZ6UlpYQXNrWW9YSGNwS2xwem4yMV91U01teUZFeEV2SEhOa0k5aVNjN3UwMklUN1pyUUlRV1lRU0NkVkxiTklQby1Fc0pob2wyVU1BaDBIMHdrTGU3Nm11eDJfc3JxWHo2TlA3VkJaLTVuLVpXd0J0TllvNnZFdk9WeDM2MTFQcW1zZUpKdW5HQnB0TTItMVNQaHYxdTFaWUdPSQ?oc=5"
     },
     {
-      "title": "要聞分析 - 特朗普:將很快決定是否恢復對伊朗大規模軍事行動",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQdFJUWl9Jb3N0NWtlUVNyRGNiN24wSWhMbmlLZGNhTXFkTy1OSzhVR2N3RFVjYWNFbDVOLUxWMnNyWGQybm50VklFMGpyTThwcm40VWVfSU85dEJRUjRrcUQwMnY3bEdaTHdHeXYxTEhMRDRkNnktdXNEVDNjVWZPcURrTm9JQ3Vja1lOU2kwUUFsNTN5ZlVaWktFc1hpQkhudENKcEJqUUxYcnVtbDJwYjFpZUJXTm56RjNDSlg2Q3ZrMy1EbENOd1RLWU90cUN5U3F6eVpjWXI5VW9HbFc0b2Y4MjVZcmZwNURnSDVLMHd6RDMwd3BRTWY4cVdwY2tadHliWGZaV1E2dHpyOG1Tamo3WnpudHNPVG43d21TVEQxWTNyRS1KbTAydFhIb250dDcyNDdDZVd2S3hhanJFUF92RjQ3TXVTZHFXYU1jWkR4Y3phTVRpMFQtVmdPWVp6QnJsODFMakhRcGIwN3BFQXd3eGpxVTEwSXhBY01LUlloV05RX3dFZ1EwbloycXlrVTIyR0hwQlRkbmxlRzVTYUtDb3JfWjBIRlZwOG1QTld6aFRqeWVBdjhuM2Vudw?oc=5"
+      "title": "科大校長葉玉如獲教科文組織國際生命科學研究獎",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1eTNLWEczaE5iS040S0lLbEE2UmU5QVhuUmJUdElzZk1uRUNmR3k3cEl3THRuQWpNa3UxNkFMcS11UlFVRlRUcXJyZ1hBV2QyN2NyZDNjV2pMVTE1bTMtOVZKd3dlcXJRSXhOV3lxdw?oc=5"
     },
     {
-      "title": "社評：AI發展地緣政治添變數 「憤怒鴨」特朗普更難猜度 - 20261107 - 社評",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQOG9NUXhsVldxZV9rRGQ4a25LUDNSbkxTWmpQUEhVY2tJODY1ZXVEUC1MNVJCQ09GckpwNm9oTzFReDJRUk1RSDdSeVVHa3FPaVV5eHdzdWFPUDNha0xLRU1VVXAtSFJKM1hLVHJ5V2ZDZG5Bc2FIeWRqOUw5dm5tWHNqVDJnaUVsalo4WnlPVG95aWV3bkdjNmJCVFNnRjhkalltX0ZuZGRaUjFuWWIzQ1VNeGg3WVN2MnVDcnRVVGQ1SVZkSFdmdXhrNzNLRU9lVkc1V3V5S1M3RHBHN0ZSTkRUdGNOUWN2VGs2MTcxdXJlX3Z3V05qVVhZXzdSN0hrdVZpNHlPcVJadkt0NTNGZXBDazh6YU9VZ2pTZVlOTm1qSnRnZDhsQm4wZ2NjVnpMb1g2TksxTE9sWmtiTlc0RDFZVVBNSm9kcUFtSk9zQV93QWRwRGk4SWtzcWhKNmRBUHBXeU9Hc25XZDlOZVBWOU10QVRka20zaFJiQkRZMDBYUUcyTlNxUUljWHJDQUZsN3Nqam51VWx0MnVTVEl0RWRBd2o1Nm85?oc=5"
-    },
-    {
-      "title": "國際｜Portillo's擬關五至九間分店 上季收入升7%",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMXl4LXRGcFlXOHVHMnRyOXp4cnpJR1dFUFlOTF81aGV3ODNUczdoS1N1bjM1TndTeDhZUE43TEdFbVN2anFUTGp5cjJuZGRkTlV4a0dlc0hMVnI3XzdlWFlyUmlwOFBkTW9nRXJjbjNwdzh4Ynl4dktDOHkzck9YYkhlVDB6TGV4M0I1MktnNmFEVUZQM3l6bERKUlZPWWpaa2tYaF9yWXlBbkJjWFU3X2Uyb2RmVTdEcTNPZEE3WUNKdUd5TjgwQXlrd3pfbmlHVmw0RlZ3VzJXdkJLSkt0SVdRYWVSV0xnVGdHYmFFbnQ3MkpfQnNCYlFSR1ZCWHdtRU5wMEdLZ1lWY2RsaW1od3k5N05JNFhxQWVSZ0xITjg1QQ?oc=5"
-    },
-    {
-      "title": "歐盟對澳門前民主派議員定罪表示“遺憾”",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVXI5eHlkWHpoNElhWThfOHIxMnVGRVRzakVJRlo3aFRVSVRvRUF2Q0l5amd4aTdEMm5FUjFFMXJYamZWYlc0dHBxVUJ5Skg2eXhYcUU4dzVZWnNDSTdhY1oyODhranljQkI2MHdBQU9HbXFJSjhYMkE4WXBaQmRScU4yN3Z5RHVGeTRNMGNEREVJOFRKVDdyRENWVnJBVnVYeXpFZDVXRW9xSmtZLVVmV3B4THFFOThyR1NPbXcwOWIzQTNVbDJtSUd1X1V1NWwwSGoyMGZpYi0tYVlJVTVNV2tnLUtwejNoTFVqemM1cUx0V3YzTlpNU2VZQkdxTURTbkVqNGs0RDFSYTdKS0RUTmhrSFlQRWFsUnk2RWlmZDFtWUcxYWFiRnpET0Q?oc=5"
-    },
-    {
-      "title": "國際｜比利時國王拒納首相辭職 促重啟聯邦預算磋商",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQdkJBTjhJZmcwYUVPOUx2bFVCUmstNnVNa190SU54QVFmaWtFTl9UVXRkbG1GcTl3N0RKdkltU1dCZGNrdDNjQURKOHVOd2l1YmpxSklnVDRQTVc5RjRWbTlRSTJQQlQ0N3d5MENiUjVYcW5PNWRQaUZFaXViZG5rbDFwNU1ibmR1TjZpYUE3OGxnSnItUURUeFpvM1NiWmM2YWEyVURmWHBnYlVkanNoUjNRQVYtbEUzWHpVbWZhYWNNTXh4Qmp5MldQWEdVQ3VvcGFWMkphelU3SEZVMGlveXhsZ2dPOUc0RktuZG5xcXZ2Vk51Y2E3bmpRaXc1UWRTQTZEdW90Q3NVMjNFYzBEaW5SZWVKQlBVdzVtUnFta3pHS3J4c01wMkxjaWJ3TGJMWFNTSEFDQmptTVc3NzJadFFzVnJTWmdUMXFSOFk2T3JpQzJsZ0RkZGdnMk9ZWldVaVVvRGlOQ1A?oc=5"
+      "title": "歐盟指控TikTok「為你推薦」功能有害兒童 要求修改否則重罰",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPRng2Uk1LV3JRazZtVFNtQmc2VnRJT2UtYzAyMGNCcGRBVzA5QnVXMTExcUcyUjRZWU93c185WTFiU2RjWnMyS0FjYzJyU1pzMEdBWVF5eTRwMGxMUmVjTDhqdkY2eUlOWXlvX0dVMzBiZGx2eTlSTUhsWnFJY0dkU1p2cS1sYjg3Qk1YTnhubHp6c3Y3enlfQTgxbHp4WXpjZHpDTFBjR1VDUUN6UDJIcDdRRDlXVlA1cXVjdzhQUXVVRjZoTEpiS2ZmYjJlYURDTlZBNGdaQ3Z2cXE0cTktWngyVXc5ZWJWNXVhcHRwcU40WExsY2lObzdhbU1vQURGa3paNmllRWVMMW53NElKLUV5Z0tqc1YzXzl3SXRSR1pZU0ZkZXFQVS1nQm9xekVQNTlsWVUtQU9wbEV4YVN5QmplRG0zaDNZMTllNjRFMDZDQzcyemlVX1lHUDVmakZpdUdGVmFwcUZ3VTRoUUJobQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "高盛美股恐慌指數觸及極端水平 預示強勁反彈或已不遠",
+      "title": "美股｜美股周五個別發展 納指及費城半導體指數顯著造好",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNOUhWc0YzYTB1MF9PTWFva3pzdGZMc21uaWlPOGFZZjl4TmtBRkc4TUFidVpfNkVQZ3NPSWJuajV0Q0htNHVRQ3E2LUJlWV9DbHRoTjdWQzZMT08zV1JhMXlMODZPZnROY05LdHVHU0FuRW1mUWVwODJoWW5PTlBrOVJRZ0pHRXhmSGMzSDd1YlZROHNlQ0Y1RGpwVmlpckNDVmc3eHpRbmZmOVRKVTBTSU5mb0tSNURrYmpQd2xPTXh3dG9CdkhFZ2UyUE5fTTl4OENpek81OFZHdnpUQmVtM2lXLWtCblpYLTRteE4tZWFnVWhMWGk0eDk4MWNSb0cxaXhuaXdSd1ZVM1dPM3Y3aW44d0tyZC1CNmtLeTlYdUtFWTVER2lJSXVYUEYwb0NtUHkybWhKN3M1QVlRMnd2dXk4aUE2V0dfN2tJTFpHVEtETXl0X0RiZTN4dTNTclVkZnBRWUxnMkMtYURuM0g1SG9TSTJHWklpWWw4MGFrOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQUnRJU25sNm95M2E2eXlZTDFObm5GN3RtU3A3ZFJYMWEyYTQ3VHk5Xy1tZjB5bm9NSlRXOG04LXBNaHFucVg4TUJTdXFsS2hWVEJpV1ZZZ0NBRjNlbDBqb1RibVdyYXV6LUxqZGlwM0xPVU14cVhsMWw1bWY2cU1aSTlGMzNLUWo3U0VYQVk3ZnBsdmhXV2YxVkwwZ1JzeENYd0xBMXlHR2hHY29GeV9xbHgxbkxaVXNxaVFSMURwdFBRSURjd2hTV3NweE5pV0lLZkxQcTd1Yy1NZUEtWTBBM1NMSzMySU42Q3IwaV9YWHFjYkg2UTcycy1vanBfdUNxSlU5NjI4V0dBQVlVWU9nRmZlQjNuelZ0SHlmeTlUamQ4YVlfQ1puVTQ4bXBFSVM1Qm5jYVJwTXlMZlRQVE96QnRyd2RDc3JHS0VmLVgzQjhlS0xvaGl6VWpWazJzc3VoaFdCdWpIb2JSX3Y0UGhfYlV6S2hvWl9RUUZLNHVPaGw?oc=5"
     },
     {
-      "title": "美股寫照 缺水收水散水",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmVyZ0ltX2JUcFpyd0xqblZGZDI0d0l6eXU1R2IzZlgzQVdqeUJLeDdlSG1STEVQRlM5TVc5UmxWc1M3WFhLZmpiQXdrQUVQXzRlanNOQWFVZW5hbGw1MWdjOTJxazZ1Mnh4YUJ4cnVvRVVvN0lzOHVFXzg4RjY1ZjNMMWxacDJMa3duajhRUWQyajRyd0NSb0l1b1ZVWWtENE0xYTRyWU1WQ2tybWFWMkJsbHNELWpodldrS1U0OUFRVG96VzhyMVZfTDBRSmcwLVg2dDkxZ1Y3VG0yNTRORm5HVQ?oc=5"
-    },
-    {
-      "title": "美股初段個別發展 晶片股反彈",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CempWV3ZjeVR3dGY2eElrcjBQSGEtNGtJeklZajBaekNQN19yTkNUSzhKVWtuLXRxMl9SekU1cGNNbDN0ajBYVWZOVnlHQzdRSElwSmxpRzJZZm55d0pBSUQ2UWVqaFk3ZVlneG1WRQ?oc=5"
-    },
-    {
-      "title": "VIX暴漲近70%！歷史統計揭示後市投資機會？｜美股評析｜豐雲學堂 2026 年 11 月",
-      "source": "永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOa1EwbUFEekp6bFZOcnp6QUR0cnFxcy1lR3gxZDQxYlVxUGF2TGQ0TEdWM29iZ0NvMXN4RjhfOF9VOXVCalpsa0NhZkoyNG1ibWx0Yy1WU1E0ajVmV3VkWXQzWmFYaWRpODBQRnpxMUl6MzJtbFJjQnBrUUtBWWdMX2h3UGxfdi1RaVFHdllSMFRISE5RSU12M0xPdUVCY0F1U1RKeVBUOGZFYTNDS09ISDdraUw0djZHc2NSVHNuYl93ZUt6LWxKZl9iUUFRM1hPM2h6Zmh2WDk3bFJ6MllVNGd2aXo5dVQxQmVZQm1tNkFXajVqdG5xSUpTaHF2TUk0ZUNKWXpkUVRvUnRjX2Ywbld6dHhuMTd3OE44Y1dkaGl0UkcxaUZzNXpwS3Q2RkNTSGk0dkhVQmQtbkJrQ1RFdENGeks5SzFFQ3lLWlR1MXdGYXRkMlBUMThRR1Z5bG5HNFJGWUxQYkt0NlJkMkZiYkdQOEs?oc=5"
-    },
-    {
-      "title": "更新：科技股反彈推動華爾街上漲",
+      "title": "$納斯達克綜合指數 (.IXIC.US)$$標普500指數 (.SPX.US)$$道瓊斯指數 (.DJI.US)$$英偉達 (NVDA.US)$",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEppUWt5YW1zTlo5QlB6amQzX2k1MnJkbEt1bzhYaWxCa1QtcmxTazdiN2NGTHRHQ2ZSSWlxcjZxczgydlczdWlxbmdpUGNyLXlXakxNUUlOeXlrajZqdVpZNlo3V0hmUDBkejlZM3RDMDd6OVVEcWEyYjdtSS1VZ0FKU05IMm0zeGxoLTBsTkNpRG52NWIyWk5Wd2Q?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTg4cnJPZlMxUEhvUG1tYlUydWJWSHRQLVRDWlZSekp2bnN5dGtCcHd5bTJwS2hrV0F0SkZYOHJ1ZS1WNUVrMWJlVVJISEZnbVNTeU1sZkxnTThnUDRfbW5DTmJabzRySGpxckJTZDFZVlo5RVk0S05VNXYxQWtzOWxaNld0YjlVckxpSkM3WWFPVnFjMmNCanhtSUxtVlBaZUtBZjhxdDZzSEU?oc=5"
     },
     {
-      "title": "美股面臨大考|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0VlRjhDTW9xaDdjOTBVSEp2T25Zczc3M0tNejZuNzFBRWRXdV9nOHdUS2ZuUTgtbEh2emtOMWhJRTNJNmhkekxqUjBKSmtrOERYYjRPcUVTXzBrSHRVMnJRTjJEdFZza2VHRFFHbUxVS0R3RlZwZnFwdFB5MWc3UF9qV2Ita3oyX2FkeTNubjBKZGJEZTBrbjVB?oc=5"
+      "title": "道指低收237點 納指反彈逾1% 多隻科技股回升",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwQ1VnYU1EanQ3WThkZ2JoUy14NjR0d1NEbDdtdWVLTlJlMHJ1TmxsZUlJNjN0Qy1nZG80UEh5SFhXVVNsNm9LVHBsNUVEcnFEMHp0cXg4aVV6bG9YdExmQTdyUERvSXBKaFNtUzhscw?oc=5"
+    },
+    {
+      "title": "美股三大指数集体收涨：Riot Platforms（RIOT）上涨14.55%，AMD上涨9.57%",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkTktCMjJCMTV6cFNaNldyM2lFT3hPZ3VCeE5PZXEtNHNYRUFhTm5WWXdvU0VkakZjRW9kVldoaTdqNnlxSzZ1NDYyc0pnYXlGbW4xb0tIZjhiVHBVOWdJSmJHODVDQQ?oc=5"
+    },
+    {
+      "title": "科技股推動納指及標指上升 道指兩連跌(曾惠琪報道)",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jSmgza1RiMmhETW45Z01NZ1RHMmptMjhlQzAxZnJRdWszNE03NmtzejZ3eGd1ZGdVNjUxUUtpVnZVZGt2X0xGMWVnNUxxRlY0TUNsYVNYZFFRT3RRNE9naklOLVpaUzg?oc=5"
+    },
+    {
+      "title": "美股收盤 | 道指收市跌237點，科技股反彈，納指升1% | 專題透視 - 新聞",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejNpVGJac0F3VkVGVmF2QWhmUGVmd0RSUkVjQlk1SmdUcVEza2JKcHlHYXZXSFl2MERzekdJb0hNWWc4ZDVhZVROSzFheFp1TFYyNXZZTk90WmhBcmRkNHRMZjFQcVF5cDBxTVhPc3dLS0kwSHV0NE91TGVYTnNQQjlycDZNOVl6VFlwalk4VHFuV3FTYUVYVXBnYkhCdC1fTVJ2d0dyYkc?oc=5"
     }
   ],
   "events": {
