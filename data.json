@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-06 20:35:32",
+  "updated_at": "2026-11-07 07:15:24",
   "gas": {
-    "current_label": "11月6日 (現行油價)",
+    "current_label": "11月7日 (現行油價)",
     "current_price": "161.9",
-    "predict_label": "11月7日 (明日預測)",
-    "predict_price": "161.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月8日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "官員稱米勒接任白宮幕僚長表明特朗普無意改變政策",
+      "title": "美國多名民主黨籍國會議員稱將致力推動撤銷不合理關稅政策",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KeXRjUDJ3TXVTX2x1R0Q5MDVBbFZlTm51YW9HY2MxM3E3ZFBjcHktR0lQQWxOZjl5ZllydWw0alZDWUsxamxYalVOUEtMRkJWam9vbXlGTVprQzltSTdnLTBNN3R3cFZTQThUaVRmaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yM0hmbjZqOFhTN1V1dUlWVGpHWHVZV1ZuMmIzaWxEd0NrZkxTalhTc0hGWHN1WnlRR3NfS3J6Rkd4b2xxMFpaOXhhc0xkNmc5b1FwQ21EcTNELWl5M2xienVXNWw0eWMwVkZOTHpPcw?oc=5"
     },
     {
-      "title": "八分鐘國際新聞重點｜烏克蘭不期望與俄美會談有突破／米勒將出任白宮幕僚長",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPYWNNT3J0M29XcTF0d3BaaDZyMFUxSGRpWjZRZGpLaWJoOUN3dWItVklkNUl6TkVXX3lZb3RWa0lSWlJxS3NUcEgzbFhDWE5hci0zYl9XUTJVd3Fpc0Z2Ul9FUFlZSksyOGFtdjNVYkZIYlA3anAzTHdTMUJLMndVV1U3VWJiVjlnU3lKYWFfaUlhdE44UTJyd3R5SWFKT2V5eXYyamxUdWhUaHB3VEZ6Y1pPZ1JMclNIRnpYOTA4QmNaLXFKREZQMlRQcmVheThmQWdMbHBxQU9fMWk3M1hfQnVjSUFBT0dfRG4zT1Zrbm41Z1pSR2FWSFZKa3Y2djAyaHFiTGdIcS1ldm05d2ZNUEptRFcybzRSdmFXT3c1ODJ1R0lkM1loS25OUXdtbDF3MEVQemRZcXF3OWMtenZkbmxRdTIxZ3ktdW90eEdTaGVxQVI4dUVveDVPeHlrOElLSFoya2ZnYUgxeG9GYUVvMkFpMDBCdDNZbHZSOV9lQk1ZZUZzLUduVk10OTJPSHF2cVVwNTBfWWFkaW4xU25mWmFNczBhN0Q0c1NXTktNVHpSZGl4MkVnc25ITkpkUjRnNmRYMnZpanI2bGp2RW1KZXNpTQ?oc=5"
+      "title": "特習深圳會晤在即，美方催中國兌現稀土和農產品承諾，中美俄三方峰會議程仍未談攏",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTXA1QjRCNzNwdG1zVVR6aFZVZ29Xa0tzT2ttRFNjOHkzNWt3S2h1NVRFZ3kyeW9pVmE5VFNiM2xfdDBlUmt0Y0hHS0hxRXJMMGtjR1NyN2N1aGd5SEhXWlg3RVprNktCN1lHdDFHSC13U3RyZHlXelhHLTVpVkVldW0wR2lydG5XY0JKbGVvNnFCSWhBUFRjdDNDTW5JYUlCTkZBVXA4YXZtbXUwU2RFQmprUkswcXc0X0ZEVVU0a1czU0Z5azloc250WHptZWR2SXUzT1dqNE9iZUVFcVNRNmFLM09MakVQWTV2Tk8tUU9BR3ZLdmt5NmFJZmZiSF9fTnhDX3RoRDl4QdIBigJBVV95cUxOZnpfemhubk5HZ3lEa0syeTFWcG9pOHZyc0dYRDZMTkFUWDBzVmRSaU1fOUFsYU50VVltOWVFcm1TSmR5TlpOaWdzZUNyMjNWRG50b29MRWVmWHlRLVJKY1hISV9NcUVfTTRrME1PLV9DeERQTTJrejZtck5kY0w4QU9QbDBjdE9KTDB4c1dSZGVUbmpjeGlZdzlMWDZ3SGFDZnlJdmd4alNXdVNiV1lWQjhWcjBzdmJPVnVwNHFqckxmX1E4anVzLTNGRzJfODdnM292UmFhQWotOVMxbG1tZUlVdFRPYzZRbFhyU0l0UnJZQlRpaG5CVjhydUM5cUZFR0t1TENmaFNaUQ?oc=5"
     },
     {
-      "title": "歐盟擬向15歲學生推「AI素養」證書",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZW1jOWJKNGk5dUpnRUxUWGdyV0VKZDlYNlI4R0s3N0taT0JOTlRkZFdmNjF6bHdBQUEtdG9qWERBRjdVdHVwN2FrcEs4VmwtMUpCNTM3N0oxVDYwUHZTalhZZlhRRkQwVG1BQ2RhZGZTY0NCd1NYdXp6a0VWNTNaN0tDRG5pQWU2a0xGVzdHOXpCYkc1QXNGa2IyT1pfdkxHTldtVUFFdUFSUXZLXzNETnQ3VmlaQzNyOERCdVhvYk1zSlRuQmloRnNrSHpxNnRMMWJjcGlpVk54SkVXUEVaeW45N2Z3U1hVZWhrRWRwdDRlV2hq?oc=5"
-    },
-    {
-      "title": "特朗普任命米勒出任白宮幕僚長 接替懷爾斯",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OLVNwN2hoTmRJUERsSW5Rbnh1R18xVHVYRTd1UGhKSlNYYk1hampBSzNXS3NTRmlKNW9BekNKRVlkNUZMUm5IdFJheS1vZ0Q0X2ZzYWU3WHBqaFpneHVRYUloUUd2S2NMTkNwNQ?oc=5"
-    },
-    {
-      "title": "高盛將全球數據中心容量預測上調至2030年273 GW",
+      "title": "國際｜鄰居失火卻收1,800美元帳單 田納西夫婦獲撤銷",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOQ1gtQjNSbzQ4aUNDT0hFaXFLVHgtYUNBYlJYU3ZuZU1ic2xaZHNmaUxUNGphNllvVzlNWWp5MlRFQkU4YUtLMS1CTjJTSlFHTkQtbFV1WjFScklHTnlpVGFqbURfTDBmTDd5YmVpeDl2bm42WUdzN1RUdGE2WUJ3MDI5ZFl3blo4U0ZTcFNhbTAwY2JjNm5UZHNyRVZ6UlpYQXNrWW9YSGNwS2xwem4yMV91U01teUZFeEV2SEhOa0k5aVNjN3UwMklUN1pyUUlRV1lRU0NkVkxiTklQby1Fc0pob2wyVU1BaDBIMHdrTGU3Nm11eDJfc3JxWHo2TlA3VkJaLTVuLVpXd0J0TllvNnZFdk9WeDM2MTFQcW1zZUpKdW5HQnB0TTItMVNQaHYxdTFaWUdPSQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNZ05Bc2FNV1BWM3BQYjZQT1FvNkhybmZZV2RXMGxTYzhZQjFXcU53eXA1WThyd3BzeHRVdE1FdGdTM1o5X0xpekdtY2F5bkZuYmdUNWpVX0hUYkNRLUx1aU5OU1pxQWtNZVNZY1VKd3daRW9BSEVQbnRjR0tnZkNPOWJaUW1PLWY0NjFCZXVyRHk3eVZYWF9BM3VTbmRCZDVuQmIxeGhWTzRzRkg5eVZDcWVITzlxMURmb0EwWnYtb0pnd3FBVXJ1SjlCYW5PdUx4T3BiNDlWRkZyVVJvdmhpQUNuUVIyR2JIOXJMeHZqY0pmUml1Z3d6eFVlLXlPZzRTZXlSYWk2TFluZTRCUC1VeTBpRGQ0WXJIZFF2cGNYQnVmYmxvMEQ5dWRLRkFOT1ZOQVR4bkRpM1JEMExiUzdfYzJrUkYxTGFLSmhZR3BsUnktREhjci1F?oc=5"
     },
     {
-      "title": "科大校長葉玉如獲教科文組織國際生命科學研究獎",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1eTNLWEczaE5iS040S0lLbEE2UmU5QVhuUmJUdElzZk1uRUNmR3k3cEl3THRuQWpNa3UxNkFMcS11UlFVRlRUcXJyZ1hBV2QyN2NyZDNjV2pMVTE1bTMtOVZKd3dlcXJRSXhOV3lxdw?oc=5"
+      "title": "伊朗喜見川普期中慘敗 將要求美國更多讓步以建立中東新秩序 | 上報",
+      "source": "LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xTTN1WmxKLTgyWXZQUVhQalQtdFA2Q0FxTnlaVVpVbWpZb3lUb29RVHV2eE0tRVNWZmUyc0VWRkhzaWpmUWFJYkJzeW5PVzN4Uk9hY0pR?oc=5"
     },
     {
-      "title": "歐盟指控TikTok「為你推薦」功能有害兒童 要求修改否則重罰",
+      "title": "科大校長葉玉如獲UNESCO國際生命科學研究獎 表揚阿爾茨海默症研究貢獻",
       "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPRng2Uk1LV3JRazZtVFNtQmc2VnRJT2UtYzAyMGNCcGRBVzA5QnVXMTExcUcyUjRZWU93c185WTFiU2RjWnMyS0FjYzJyU1pzMEdBWVF5eTRwMGxMUmVjTDhqdkY2eUlOWXlvX0dVMzBiZGx2eTlSTUhsWnFJY0dkU1p2cS1sYjg3Qk1YTnhubHp6c3Y3enlfQTgxbHp4WXpjZHpDTFBjR1VDUUN6UDJIcDdRRDlXVlA1cXVjdzhQUXVVRjZoTEpiS2ZmYjJlYURDTlZBNGdaQ3Z2cXE0cTktWngyVXc5ZWJWNXVhcHRwcU40WExsY2lObzdhbU1vQURGa3paNmllRWVMMW53NElKLUV5Z0tqc1YzXzl3SXRSR1pZU0ZkZXFQVS1nQm9xekVQNTlsWVUtQU9wbEV4YVN5QmplRG0zaDNZMTllNjRFMDZDQzcyemlVX1lHUDVmakZpdUdGVmFwcUZ3VTRoUUJobQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPVllDSDJaMy1aSEk1VXViMktiQzV6OVlNbk9QU3kweV9nUXMzbU8zYzlWZUNiMmVVbXduXzFYY3ZBWngtVXdxNUhxV2h4cl9UZlVDT19QTnpBTU1sOUZMREVNU3dSX3BxMDdGYXNnNkM4ZXJ5emhUY2ZZS3otS1ozc25icHhGLVFTODBrUUttSDBkOTNzT0tXcUx5YkZsZ2FBU256LUdic1l0NjV0Y3hCY3lsV19WNEpTTTRlb3VjRDB4ZndVVEdRbzBLQ3hCYWlaSEw4M2ZKWW8tQjB2cTRZcTB4NVB2YzRjX29CYUdvZEt2NE5HWlhtVjBTbnlRcjJkTmQtU1owcG0zeTVjUm96NVotYmVhaDRKcjYwU1NsNVl5cTFKc2dTaW5YYUc3N1NaQ1hkVldSUUVNTnA4WGU4elBWa29FR3hlLTVKdElUeWlTcGEwR3RPM3NweG1PUXU0eENQQ3pXanU4RVdKNll0VHhWREJPLXJicGNCTHVqMUhTLWJPcDl1M2RmTXFaMEZlMFR1cm96S253OEhvdzB6Njk0cWI1WjMtUnVRdXFEWTVwdFpiUXBEUHBCRWxkS0IxY0E?oc=5"
+    },
+    {
+      "title": "2026年11月7日：伯明罕躋身全球空氣污染最嚴重的前 10 大城市",
+      "source": "IQAir",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkE3QWt2ZmhhOWQwekdoWXNYaTdWZkJ4eFpDSkJDNnFmT1BUa2M5UDZEYzRlMXpLbnVRMXlaQUtkdThMSEd1RkZSeHJuUl8xTndRTk9jZVlYQ01RQm5pVU1rT3ZkZmVTR3JBdHFxaElVSnk0dWJpTmN1SUlGZEZUYXVWODQ1Q2VGNjB2V1kwanpNWF90MlhDZ2dGSjZjbHpPMk9z?oc=5"
+    },
+    {
+      "title": "全球首個仿生人形機械人新聞主播亮相 「不需睡眠」樂意返夜班",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQckdjM25XXzM4MjlrTGFDUUZfR0dRdFhoQ090NWFwNjd3UzZzRzlRMDk2Q2VYd2JsZFpmRE1XZnotV05pelR6cFYyNmJmandhY2d4YWRLRTJIQW1WcVBCemVWTm8tenZkT2N3ZklFS2x3aGMtd0o0d1pfT0pLQ2hOM3lUR28xbGxJT241TjRMQmxydWplUmZySFh1d1A5UmNKcGRfMllRZnBIdUJiMnJ2OVE1cm9Cb1lWelQwZnJUSDNQVUZVamx6XzdsVEtlNFBHY2RGUzJLcDIwbkhfTzRQWlJqOFRhRkpBUDc5UmVCR0FyRVpZRE1ZdGFlb190UzV1RzZUZ3NVNjZKZTZSYWw3czdQWlBwalN5clBvT2kydnlHdlN0TXdnR0dhZDVidnRZVnFCNkx2YWpXLWN4eWZmM1Q3MWtJN0hjZDVYYmFKeE0yNWRZSm5ldEJaazdkaHdPaXgtVGtfNEdOQ2tZd1ZEU1p4NzhGUTR1QTBlcVk2WQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜美股周五個別發展 納指及費城半導體指數顯著造好",
+      "title": "美股｜特斯拉2027年中停產Cybertruck 德州廠改產Cybercab",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQUnRJU25sNm95M2E2eXlZTDFObm5GN3RtU3A3ZFJYMWEyYTQ3VHk5Xy1tZjB5bm9NSlRXOG04LXBNaHFucVg4TUJTdXFsS2hWVEJpV1ZZZ0NBRjNlbDBqb1RibVdyYXV6LUxqZGlwM0xPVU14cVhsMWw1bWY2cU1aSTlGMzNLUWo3U0VYQVk3ZnBsdmhXV2YxVkwwZ1JzeENYd0xBMXlHR2hHY29GeV9xbHgxbkxaVXNxaVFSMURwdFBRSURjd2hTV3NweE5pV0lLZkxQcTd1Yy1NZUEtWTBBM1NMSzMySU42Q3IwaV9YWHFjYkg2UTcycy1vanBfdUNxSlU5NjI4V0dBQVlVWU9nRmZlQjNuelZ0SHlmeTlUamQ4YVlfQ1puVTQ4bXBFSVM1Qm5jYVJwTXlMZlRQVE96QnRyd2RDc3JHS0VmLVgzQjhlS0xvaGl6VWpWazJzc3VoaFdCdWpIb2JSX3Y0UGhfYlV6S2hvWl9RUUZLNHVPaGw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNUEttXzFqTVpaOGN1cEdSSXFGY05jMlV1UldjZWhpcHQ3VzBvZTNJUmpFbFJPN0l0UXpzM3UzVElFSjlBcUJ5Qi1kOVRTeHZEQjF4WVlibEZJbVpVNzY2ODZwNmNPY1FiQllMT2g4NFdoSlRjdmFuY1N1OERkcUUxXzNCeUZwLWNjd3haOFdadkVqb1dJZ28tQ0FBMFFicXZKdVRMcmJxLWRmZzJHLWU4a3hoUGpxX0VrOTJLY0Q3VmxlNHlwLTZ0WUJJNjFBcnhxMXk0TTNfcmlYUjczM3JMc1VTbkNwdmMycHI4MUJmcjlqVk03SHRoWlJhc0hQRnRST0FDRnRjYmY0OFNVX3RZeXVnQ3poVFNrbFRwQ2lGWnhuRFpXM1E?oc=5"
     },
     {
-      "title": "$納斯達克綜合指數 (.IXIC.US)$$標普500指數 (.SPX.US)$$道瓊斯指數 (.DJI.US)$$英偉達 (NVDA.US)$",
+      "title": "AI股狂跌後又反彈看懂怎麼回事嗎？外媒：科技股修正進入新階段| 全球財經| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ODNhOHpHUGFwSVZEOWZPQktlYlEyWGNzc3U1Ri1FUDItTnhXb2NPZnJHSVBWTHpUcWVjS25oZGp6bEtoT2tUQ19PYTJiM0No?oc=5"
+    },
+    {
+      "title": "美國債市：國債下跌 收益率曲線趨平 芯片股反彈削弱避險需求",
+      "source": "風火輪傳媒有限公司",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tYXVYYXZXR0lscDJRX1FBa2RmQUMyZVR1ckNJUFNhNnNtQWhkSmdySUgwRVFXVHBOMlQxQURBVDRSOTI4Wi1uWXJ4UHBEUGhPYXJ6LU53OXFNdVdMSFRiektWNmtTMXlhVjRCQmotM3h2bGY5?oc=5"
+    },
+    {
+      "title": "$NEOS NASDAQ 100 HIGH INCOME ETF (QQQI.US)$",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTg4cnJPZlMxUEhvUG1tYlUydWJWSHRQLVRDWlZSekp2bnN5dGtCcHd5bTJwS2hrV0F0SkZYOHJ1ZS1WNUVrMWJlVVJISEZnbVNTeU1sZkxnTThnUDRfbW5DTmJabzRySGpxckJTZDFZVlo5RVk0S05VNXYxQWtzOWxaNld0YjlVckxpSkM3WWFPVnFjMmNCanhtSUxtVlBaZUtBZjhxdDZzSEU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONkpiWWw0RHJYRlZlVkZYWlNGQ0pjbzdGdUdCY0JCSjdac2dPV1NRc1lfR1ZidXRfNWk3b0gwRk92dUtndDJmVnREdkVVNGVIYmVvMXBlVVhlWFNhdHFLLUhWVGNCR01BUmVLZ25hR3Z5YzBZVkhwbGdFdWZ5VTMweHdLelNndnVHak9fa281cE42VzJGLXA4OXBfQXJ6MFdQR3J3Rk1XWS0wdw?oc=5"
     },
     {
-      "title": "道指低收237點 納指反彈逾1% 多隻科技股回升",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwQ1VnYU1EanQ3WThkZ2JoUy14NjR0d1NEbDdtdWVLTlJlMHJ1TmxsZUlJNjN0Qy1nZG80UEh5SFhXVVNsNm9LVHBsNUVEcnFEMHp0cXg4aVV6bG9YdExmQTdyUERvSXBKaFNtUzhscw?oc=5"
-    },
-    {
-      "title": "美股三大指数集体收涨：Riot Platforms（RIOT）上涨14.55%，AMD上涨9.57%",
+      "title": "glassnode：比特币与标普500指数的相关系数达0.8，为2020年以来高位",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkTktCMjJCMTV6cFNaNldyM2lFT3hPZ3VCeE5PZXEtNHNYRUFhTm5WWXdvU0VkakZjRW9kVldoaTdqNnlxSzZ1NDYyc0pnYXlGbW4xb0tIZjhiVHBVOWdJSmJHODVDQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fZ2l4MDFEQjNuM2RqOVR6UXBvb2xkb25sSUc2aE53RGVVT3N1TXNNZDVIV3F3NkZ5TWVQaG5ENXZMS0lFT01VZnhhZDU0MWY0WmJvVmhETGtQQzVGMzJjdGVjMll1UQ?oc=5"
     },
     {
-      "title": "科技股推動納指及標指上升 道指兩連跌(曾惠琪報道)",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jSmgza1RiMmhETW45Z01NZ1RHMmptMjhlQzAxZnJRdWszNE03NmtzejZ3eGd1ZGdVNjUxUUtpVnZVZGt2X0xGMWVnNUxxRlY0TUNsYVNYZFFRT3RRNE9naklOLVpaUzg?oc=5"
-    },
-    {
-      "title": "美股收盤 | 道指收市跌237點，科技股反彈，納指升1% | 專題透視 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejNpVGJac0F3VkVGVmF2QWhmUGVmd0RSUkVjQlk1SmdUcVEza2JKcHlHYXZXSFl2MERzekdJb0hNWWc4ZDVhZVROSzFheFp1TFYyNXZZTk90WmhBcmRkNHRMZjFQcVF5cDBxTVhPc3dLS0kwSHV0NE91TGVYTnNQQjlycDZNOVl6VFlwalk4VHFuV3FTYUVYVXBnYkhCdC1fTVJ2d0dyYkc?oc=5"
+      "title": "一週展望：CPI或坐實美聯儲12月加息？黃金恐又打響4000",
+      "source": "群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTZBZk5wTUl1TE5nOHg4QjdaSmhmVGU3Ynp3bzRWalhOWTZmalZOY0dRMXhzSmFvMmFLSE4xRjNFMFBrMUZZRTJNS1BCT08tdTNJVncyYmxSelEwdElLMjNwT1ZjQmZ3dHlFMExVMkZKdHdxeUN3WHpWY3piV1p3NUVxQ2djdy0xSWVfc0FrMA?oc=5"
     }
   ],
   "events": {
@@ -86,8 +86,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 12,
-        "status_badge": "12 日後"
+        "days_left": 11,
+        "status_badge": "11 日後"
       }
     ]
   },
