@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-07 07:15:24",
+  "updated_at": "2026-11-07 16:15:22",
   "gas": {
     "current_label": "11月7日 (現行油價)",
     "current_price": "161.9",
     "predict_label": "11月8日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "162.9",
+    "trend": "↑ 明日預測升 1.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
     {
-      "title": "美國多名民主黨籍國會議員稱將致力推動撤銷不合理關稅政策",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yM0hmbjZqOFhTN1V1dUlWVGpHWHVZV1ZuMmIzaWxEd0NrZkxTalhTc0hGWHN1WnlRR3NfS3J6Rkd4b2xxMFpaOXhhc0xkNmc5b1FwQ21EcTNELWl5M2xienVXNWw0eWMwVkZOTHpPcw?oc=5"
+      "title": "要聞分析 - 臨近阿布紮比美俄烏會談 俄羅斯持續襲擊烏克蘭",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxONFBVVDE2MGdCdlpfN0drcHBNT2dibTRtbjlWX3FTZDdMdTB5TVEtTmUzZG9majUyVlpBVk1uLXlzbGpJbTk4Y0Y3TzdNZFl5VV9XV2xPc0V1djE5MHJlQTFZa1ZyeEJZdlBlM1hWNl9CanB2WVl2dUFrTGgtOWM0X3NMT1R4eU9KanVHaUt1eTM3X2pGZXVtTXhPT01kd0t6bUY4eVFFMU5tQ3JJZkRMandWWjkwRlozR3dfeXBQclRpMDVZR19sM1RwQ1AyVDNEY1JEZ3hVUFcyTUZkcEZTZkV2bjRybHRmOWpGbkV1dUNtenVyMnBoWVN4NDhlam5VdV9iWDJMc1cwbnlyNThtbEdvYmxQcFVzSFNqMUJiSnNCdHVYNjgtM09heGFidmMzUkFKNlZYNEt1TDZqUnJoYUpNQWxlN3BPelJaSEdnSEgwUVB3cmdwbTE0Q0RjQ3RQdzRhNjctanFFazlxWm0zLTNDSGZ6bmZac19LcWtmRFFadlZXZEZ5b1ZyVWs4WERCaG45YzVxQVRyOFNUU1hFam9uN3Qtdw?oc=5"
     },
     {
-      "title": "特習深圳會晤在即，美方催中國兌現稀土和農產品承諾，中美俄三方峰會議程仍未談攏",
+      "title": "中期選舉失利後，川普任命移民強硬派米勒為白宮幕僚長，民主黨誓言對抗",
       "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTXA1QjRCNzNwdG1zVVR6aFZVZ29Xa0tzT2ttRFNjOHkzNWt3S2h1NVRFZ3kyeW9pVmE5VFNiM2xfdDBlUmt0Y0hHS0hxRXJMMGtjR1NyN2N1aGd5SEhXWlg3RVprNktCN1lHdDFHSC13U3RyZHlXelhHLTVpVkVldW0wR2lydG5XY0JKbGVvNnFCSWhBUFRjdDNDTW5JYUlCTkZBVXA4YXZtbXUwU2RFQmprUkswcXc0X0ZEVVU0a1czU0Z5azloc250WHptZWR2SXUzT1dqNE9iZUVFcVNRNmFLM09MakVQWTV2Tk8tUU9BR3ZLdmt5NmFJZmZiSF9fTnhDX3RoRDl4QdIBigJBVV95cUxOZnpfemhubk5HZ3lEa0syeTFWcG9pOHZyc0dYRDZMTkFUWDBzVmRSaU1fOUFsYU50VVltOWVFcm1TSmR5TlpOaWdzZUNyMjNWRG50b29MRWVmWHlRLVJKY1hISV9NcUVfTTRrME1PLV9DeERQTTJrejZtck5kY0w4QU9QbDBjdE9KTDB4c1dSZGVUbmpjeGlZdzlMWDZ3SGFDZnlJdmd4alNXdVNiV1lWQjhWcjBzdmJPVnVwNHFqckxmX1E4anVzLTNGRzJfODdnM292UmFhQWotOVMxbG1tZUlVdFRPYzZRbFhyU0l0UnJZQlRpaG5CVjhydUM5cUZFR0t1TENmaFNaUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUnRMZjg0b0g3eGY4VGJDZWtlUVZnTktTektzckVFSEl4QkJSZWxlTHI2aWFXUHdDampTbGFiYWlUSkZsQ1FrUGdEbmNVOGpqcm44aEhNdk5uQmdUSzFvSG5zQ3ZXTGtZQzA3TWxSYUNVS0ZZclIwTy0wWEJpTG1YVFFJVlJZeVBmUFBodmtmTk5Oc0gtQld3SVVWOE1rZmUxOFJGX0d5cnJEdFBsRjMxem82YVc0QXZDSHlmbVUzYVJpV3VScmFtMy1rRDNySUFWanFoVjc4dWNocUtBblg2bXNjelNsUWx2czJVZm1Pd3E1QzhvVlZqVmw3T1psZnE2S1EtQWRCdGVRRDdvYUVmTHdxSUhRbTVmbEhxRjlVUnplYWxNR1V0Vl9LUWtEcGNsWHkyc2lFaVpRZnA5WkU1ZGdmTW0xUzFVSVlKYTBkeEZ5R3NSSGEw0gHXAkFVX3lxTE5SdExmODRvSDd4ZjhUYkNla2VRVmdOS1N6S3NyRUVISXhCQlJlbGVMcjZpYVdQd0NqalNsYWJhaVRKRmxDUWtQZ0RuY1U4ampybjhoSE12Tm5CZ1RLMW9IbnNDdldMa1lDMDdNbFJhQ1VLRllyUjBPLTBYQmlMbVhUUUlWUll5UGZQUGh2a2ZOTk5zSC1CV3dJVVY4TWtmZTE4UkZfR3lyckR0UGxGMzF6bzZhVzRBdkNIeWZtVTNhUmlXdVJyYW0zLWtEM3JJQVZqcWhWNzh1Y2hxS0FuWDZtc2N6U2xRbHZzMlVmbU93cTVDOG9WVmpWbDdPWmxmcTZLUS1BZEJ0ZVFEN29hRWZMd3FJSFFtNWZsSHFGOVVSemVhbE1HVXRWX0tRa0RwY2xYeTJzaUVpWlFmcDlaRTVkZ2ZNbTFTMVVJWUphMGR4RnlHc1JIYTA?oc=5"
     },
     {
-      "title": "國際｜鄰居失火卻收1,800美元帳單 田納西夫婦獲撤銷",
+      "title": "國際｜克拉科夫中央廣場槍擊案六死十五傷 疑兇落網",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNZ05Bc2FNV1BWM3BQYjZQT1FvNkhybmZZV2RXMGxTYzhZQjFXcU53eXA1WThyd3BzeHRVdE1FdGdTM1o5X0xpekdtY2F5bkZuYmdUNWpVX0hUYkNRLUx1aU5OU1pxQWtNZVNZY1VKd3daRW9BSEVQbnRjR0tnZkNPOWJaUW1PLWY0NjFCZXVyRHk3eVZYWF9BM3VTbmRCZDVuQmIxeGhWTzRzRkg5eVZDcWVITzlxMURmb0EwWnYtb0pnd3FBVXJ1SjlCYW5PdUx4T3BiNDlWRkZyVVJvdmhpQUNuUVIyR2JIOXJMeHZqY0pmUml1Z3d6eFVlLXlPZzRTZXlSYWk2TFluZTRCUC1VeTBpRGQ0WXJIZFF2cGNYQnVmYmxvMEQ5dWRLRkFOT1ZOQVR4bkRpM1JEMExiUzdfYzJrUkYxTGFLSmhZR3BsUnktREhjci1F?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNNWRqTU4yU2VoVE9uZU5ya3hvWVh3NGZ0alpHajktNmxvNjB0bXUxUl83eHRvN0NHLXFROWhVWlE3VUJkeVl1c2FXZm5obU1CSHh3ZFdpQW1Vd0I4c1NodVREbjR0VXdGODYwa05maFM5SERGNHdhT1NMdl9tRTlSb09sZFhPTUdySXFIS2I2YVpkbVNldkpRell1T0pKUVU1dVJmVFdaTXNvYVBVbG9MU1phTUhrclcxNFVia3JyQ0I1TUlQbGd3VjlLb2xVczgxTFA5WHA4cmwtSUNDR2plei1BVzNqaTVNZklCMklHRWwxTU9vdWxZbUVsa1hQX3FXSUhzS0wzdnI4Tnk4WG9wa3dvTHBqOEFFTnZac1Y2RUJOYWk1QmJWcmdTZGQ1eTBtYWVkZWZ4RW50M094UV9OQWZqX3VvZGlzbk9vR3dOOEZ4dzZwU2gzVHRXRmxNLWhFaDh2QUFVNjg?oc=5"
     },
     {
-      "title": "伊朗喜見川普期中慘敗 將要求美國更多讓步以建立中東新秩序 | 上報",
-      "source": "LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xTTN1WmxKLTgyWXZQUVhQalQtdFA2Q0FxTnlaVVpVbWpZb3lUb29RVHV2eE0tRVNWZmUyc0VWRkhzaWpmUWFJYkJzeW5PVzN4Uk9hY0pR?oc=5"
+      "title": "特朗普公開邀請UFC總裁出任白宮新聞發言人",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNSjRzc3ZHQUl3VUNmYXdSa1NnY1FuZnBLV2w3NWNnZzFYLWZMNFJ6QklmaTBhNXp2SG9yem1EaW5YOVEtRWY2LWFsckhoWWxDNlBvYm1SUkZPRFNFM1VHNnBQek9hS1YtQzNsNjRfNHhGTHVDby1qMDFQZXA4ejZOdEd4Z25GUnVPUUtncVNQbmtOLXlCVTI0a1hvQkl2bUhaSm04Q1k5cEZsSDJJb1pFNjNFZ0luUVpfYnJCVjZKMm5XMmFzMTB0b3VZdDEzanF4Qm9rVk44Q25WcFNJc0lod0J0bmVkaFk4ZHhrWVcxa1RKckVwUHdJcmV6R0JLcWdnZDB6NmVpWnpOT1BNMzdJcWZ3bUlyX0RRMGRhQ3BPTGhudnRHRkRSYjNVdWV4OGRpTEhXQWFmcXNuczQ?oc=5"
     },
     {
-      "title": "科大校長葉玉如獲UNESCO國際生命科學研究獎 表揚阿爾茨海默症研究貢獻",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPVllDSDJaMy1aSEk1VXViMktiQzV6OVlNbk9QU3kweV9nUXMzbU8zYzlWZUNiMmVVbXduXzFYY3ZBWngtVXdxNUhxV2h4cl9UZlVDT19QTnpBTU1sOUZMREVNU3dSX3BxMDdGYXNnNkM4ZXJ5emhUY2ZZS3otS1ozc25icHhGLVFTODBrUUttSDBkOTNzT0tXcUx5YkZsZ2FBU256LUdic1l0NjV0Y3hCY3lsV19WNEpTTTRlb3VjRDB4ZndVVEdRbzBLQ3hCYWlaSEw4M2ZKWW8tQjB2cTRZcTB4NVB2YzRjX29CYUdvZEt2NE5HWlhtVjBTbnlRcjJkTmQtU1owcG0zeTVjUm96NVotYmVhaDRKcjYwU1NsNVl5cTFKc2dTaW5YYUc3N1NaQ1hkVldSUUVNTnA4WGU4elBWa29FR3hlLTVKdElUeWlTcGEwR3RPM3NweG1PUXU0eENQQ3pXanU4RVdKNll0VHhWREJPLXJicGNCTHVqMUhTLWJPcDl1M2RmTXFaMEZlMFR1cm96S253OEhvdzB6Njk0cWI1WjMtUnVRdXFEWTVwdFpiUXBEUHBCRWxkS0IxY0E?oc=5"
+      "title": "國際｜六旗加州大美國樂園2027年9月6日謝幕",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPamJNRUR0VDViazdNRzl4N1lUeG5saDN4T2hXa2hxRWdPTFhjdWpWN0p0djBpQUVwaVdsSnpya2FWbEF1ZE4xZnpIOXRJYlFzOXRuM2N1RG9TRGpOS2E1NzVmWWV5REhreHRFUHEzSndZblIwbWJrcURDVVBsQ1V3Q3JMaWNvQ0U0cjd2UGtBZDZfMVZacUlmaExqbmRfN3JUcEZSX3hadnNlRHN0R2s1RVRkdTNFc0E4bEZvNEFqblNyaC0zOTRCcDVwanAxVkIwYUJtZ3ktdThGQ09xYjF0bVYyMk1hemI5ZmRGQTZEOWhaa2hpbHBHV0pXYUR3OHdrel82NlcxVGdjeEZQRW9XOEVNd3plb2p4UWRIWUV1blZvci03V2tJ?oc=5"
     },
     {
-      "title": "2026年11月7日：伯明罕躋身全球空氣污染最嚴重的前 10 大城市",
-      "source": "IQAir",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkE3QWt2ZmhhOWQwekdoWXNYaTdWZkJ4eFpDSkJDNnFmT1BUa2M5UDZEYzRlMXpLbnVRMXlaQUtkdThMSEd1RkZSeHJuUl8xTndRTk9jZVlYQ01RQm5pVU1rT3ZkZmVTR3JBdHFxaElVSnk0dWJpTmN1SUlGZEZUYXVWODQ1Q2VGNjB2V1kwanpNWF90MlhDZ2dGSjZjbHpPMk9z?oc=5"
+      "title": "美軍擬尋求限制伊朗陸路貿易 美官員稱習近平告訴特朗普同意伊朗絕不應擁核",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPQUNXNmZwcDR6RmZIdTJ0TUJCelktdWF1azYwRzJ2cnNCMXNQeFluZ1VQVW5PR0ljZjhnUnFuX25XLUUwd3ZrV3hRZEZmbkY4YWtfTjdHbnBBb1M5Q0FiMkhOMHpaWDlkUEFDOU9oRElMQ0dWX3cydUJmcHlqNkdWLWRmSVZ1dWxJdGFwZzM2TGRIcHFoTEZWdG9ZODNrNk1rN2lmYkVZRVA4WldBSlpvR0tfU1Vzb1cxMFZsakxLX3lWNWlnMmpDcnpDYWhEV1FoTm1KbGVxVmduNFVpeWRpNElKa2piN0hXOTJiSE43MnRqbzlhNmQ3RVBjUGdYdFNpYWYzQTNZZl9yc1pnbklnV3E2X3l5Z0NyT05GUjZLcmwtT0h6Wk0yVEZycjlYQVhIVjhkVkdaN1c0bElOLWxKdkUtRTVZRmlFVlBtekp2VkNTWllFNWNPN21BTWJHUTJMbU00QlBOUm1KZXR0OE5GbDdWN2NPWG9hbFZ5cWlMM1NJMXZFZ2JrbFc1MmJCSWYyR0oxU0QwQnBTMUpTTmd2aG9rS3J3YTh5czl3V3RfUDlEZTN5dURfeW5VeWxjMEJnbS1BZGJMSzBJLXFZMjN3ZHpsbTNlQ3VuekZsbE42Vk9waV93cTJlMHVRRFVhemVETExqUWRzZC0?oc=5"
     },
     {
-      "title": "全球首個仿生人形機械人新聞主播亮相 「不需睡眠」樂意返夜班",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQckdjM25XXzM4MjlrTGFDUUZfR0dRdFhoQ090NWFwNjd3UzZzRzlRMDk2Q2VYd2JsZFpmRE1XZnotV05pelR6cFYyNmJmandhY2d4YWRLRTJIQW1WcVBCemVWTm8tenZkT2N3ZklFS2x3aGMtd0o0d1pfT0pLQ2hOM3lUR28xbGxJT241TjRMQmxydWplUmZySFh1d1A5UmNKcGRfMllRZnBIdUJiMnJ2OVE1cm9Cb1lWelQwZnJUSDNQVUZVamx6XzdsVEtlNFBHY2RGUzJLcDIwbkhfTzRQWlJqOFRhRkpBUDc5UmVCR0FyRVpZRE1ZdGFlb190UzV1RzZUZ3NVNjZKZTZSYWw3czdQWlBwalN5clBvT2kydnlHdlN0TXdnR0dhZDVidnRZVnFCNkx2YWpXLWN4eWZmM1Q3MWtJN0hjZDVYYmFKeE0yNWRZSm5ldEJaazdkaHdPaXgtVGtfNEdOQ2tZd1ZEU1p4NzhGUTR1QTBlcVk2WQ?oc=5"
+      "title": "拖家帶口 去中國實現“美國夢”",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQazEzV1VZS3VkQmRnMndPa3RaQWtuVkpZX1BTUUhhQ1RwRnpJcW9UM2pIMVpwbU9uellOMXJ5bXdVRHkxOTRLeHFyUzBpM1JHdEl1X0dpLTJPRko1bG9Nck1LSjVFTGRKVWw5WTdsUzhRX0NUc1ZyZlVCbndpa0FhUGVRT2NnaWR0el85ZTUtY0UwUnIyVG1MSzY5ZEExekZuSEhGM2NsZG5ldy1kcFJyQ2RFQ2lwNm1NV0ZSTUF1VVZOTFB0ZnJnOUZDZFhuLUdKTVlFRFMxbEY3T1VsSnY2RVJmOHR3eHBYX2hsQ3RyQ29hQQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜特斯拉2027年中停產Cybertruck 德州廠改產Cybercab",
+      "title": "美股暴跌令華爾街始料未及 策略師卻看到買入良機",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNUEttXzFqTVpaOGN1cEdSSXFGY05jMlV1UldjZWhpcHQ3VzBvZTNJUmpFbFJPN0l0UXpzM3UzVElFSjlBcUJ5Qi1kOVRTeHZEQjF4WVlibEZJbVpVNzY2ODZwNmNPY1FiQllMT2g4NFdoSlRjdmFuY1N1OERkcUUxXzNCeUZwLWNjd3haOFdadkVqb1dJZ28tQ0FBMFFicXZKdVRMcmJxLWRmZzJHLWU4a3hoUGpxX0VrOTJLY0Q3VmxlNHlwLTZ0WUJJNjFBcnhxMXk0TTNfcmlYUjczM3JMc1VTbkNwdmMycHI4MUJmcjlqVk03SHRoWlJhc0hQRnRST0FDRnRjYmY0OFNVX3RZeXVnQ3poVFNrbFRwQ2lGWnhuRFpXM1E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOZHAxS0ZmUXpkS1ZSS1NrZl9rTU5vQ05DY0xwUTB6eEc1UlBvUHhYZWNvNDZyQTZQajgwZGF4SlVvZnVzd2xla1pDelZsLXQwQXRFbURnSmozTXg3djlNNURyMU5WZExvNExMcjNyekN5azctOEN4TTBiRzNNUEo5YlpWakphbVA0LTMxbXBMRGpONm9ZbEJNTGxnNHNxWkVqRkhib0xhc3lMWWYyWnhBVE9Hd2VHb2VOaUpWWG93NjN1MHBwdjdBcUFoS0RmS21NejFoM3IwUW85M0JiUnY4aEQ0MlF6YThwWl9LU3Z1OW5GWFpSeGdOQWNMOGNuVGszSWZjRHU5dWJWTkd3T3gzcGwxV0oxMnJOMjBUUXJwZjA5YlhGVWRqc243VkhLVEZINzh2TWd1dDlJOWFCZFdjQi1oMVZfbDhOOEZRLUxVcl8wQmE3LUpyUVlrRlRrcmgzajZ2Z1JJZw?oc=5"
     },
     {
-      "title": "AI股狂跌後又反彈看懂怎麼回事嗎？外媒：科技股修正進入新階段| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ODNhOHpHUGFwSVZEOWZPQktlYlEyWGNzc3U1Ri1FUDItTnhXb2NPZnJHSVBWTHpUcWVjS25oZGp6bEtoT2tUQ19PYTJiM0No?oc=5"
+      "title": "美股｜民主黨橫掃國會激勵美股 不足一日AI交易崩圍 納指瀉5.5%",
+      "source": "Fortune Insight",
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNQzJMRGpVMDFmUW15bUNleHRCTFNka2NhNWpkbXY3c3I2ZnNvOTJsVzY2V2xBa2xNQ2sxWGMycmV4ZjM2UjEzekRTRmE4cVB4eUh2cE5nQ0U0X1BPdlo0bTRmQWdwWldVUUFwNlhVNHYxbzlrRnkwNUlvSnJlMDhlQ2dOQ2VlQlZNUE5OR0MwMk9yT1VHUDNRME1ld29ZSWlISzExX3BEcDFLdC1LZHJSbUU4eTdwS2E5cHEwdXQyNXlQNDRTSmg3cm1nQWtSWlJsbl9mWEw4bXFnV0VYaC1idU1xXzN5S3ZGQTdZU3FkdEtkU0RLTDFGejJ6NnRhWlFXa2dFNm1sd3dvc3p1M1p6dnh2Y0R4MVNIX2w2SGVsTTZhNTQ2cFc1ckhGSjdYTnBlc3F3VEFMZXBSRF9mMmpCODY1QW83eTJ1aTNFazlIR0RSLUZyUU8yWF9odGNiMzB4QnBGWE05QWJhZXJSZ2xJRWhMWmNIaUI1VG1jejA4aDA3MmM2Ym9FZ1JfZndiYUg3TW15dzdWTTQ?oc=5"
     },
     {
-      "title": "美國債市：國債下跌 收益率曲線趨平 芯片股反彈削弱避險需求",
-      "source": "風火輪傳媒有限公司",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tYXVYYXZXR0lscDJRX1FBa2RmQUMyZVR1ckNJUFNhNnNtQWhkSmdySUgwRVFXVHBOMlQxQURBVDRSOTI4Wi1uWXJ4UHBEUGhPYXJ6LU53OXFNdVdMSFRiektWNmtTMXlhVjRCQmotM3h2bGY5?oc=5"
-    },
-    {
-      "title": "$NEOS NASDAQ 100 HIGH INCOME ETF (QQQI.US)$",
+      "title": "美股盤前追蹤 | 閃迪現升9.41%",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONkpiWWw0RHJYRlZlVkZYWlNGQ0pjbzdGdUdCY0JCSjdac2dPV1NRc1lfR1ZidXRfNWk3b0gwRk92dUtndDJmVnREdkVVNGVIYmVvMXBlVVhlWFNhdHFLLUhWVGNCR01BUmVLZ25hR3Z5YzBZVkhwbGdFdWZ5VTMweHdLelNndnVHak9fa281cE42VzJGLXA4OXBfQXJ6MFdQR3J3Rk1XWS0wdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVA4MVFfVzBvSjFMRkhLYjk2akV6enFMcHVfSFEyR0l6V1lMZXhnMzdod0FWSVBMSTN6SnpPOFVzVkU0T2EzR0VHa3R4SFNQeWZNak5HYU1BMU90YXNxNUx2YlY3Qnc2WHEtVjFJeUdQQ1cyRHBWTXVYXzJHTS1RTWxKTGkwcnhBWlltdUdRUVA1czdYbVhfWEZqbndUU1R5cExN?oc=5"
     },
     {
-      "title": "glassnode：比特币与标普500指数的相关系数达0.8，为2020年以来高位",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fZ2l4MDFEQjNuM2RqOVR6UXBvb2xkb25sSUc2aE53RGVVT3N1TXNNZDVIV3F3NkZ5TWVQaG5ENXZMS0lFT01VZnhhZDU0MWY0WmJvVmhETGtQQzVGMzJjdGVjMll1UQ?oc=5"
+      "title": "解剖華爾街周四科技股股災： AI 股賣壓狂湧 誰開的第一槍？",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaR21BbDRIazQzUUhtQmJaWUFlaGhBdkIxTktCcXh2RHBtT3EzdUhUVWkzSjB0bmZ4bk9FSy1RODdlMHZ2MkpFSl9sWHMzTjFJTU5fa3R3TFlBLTRI0gFiQVVfeXFMTnBEMHl5Ym1jTmRNUWQxci1sVThoQzdoZUpjSWtRWGJqTS0ydV9ISU1xRm5zd1NBT1lLeVgwWV9VX2lEV0t1YlI2ZTM2cm5nRUwzbkNGMm5Nc25vMFZIUE9IOHc?oc=5"
     },
     {
-      "title": "一週展望：CPI或坐實美聯儲12月加息？黃金恐又打響4000",
-      "source": "群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTZBZk5wTUl1TE5nOHg4QjdaSmhmVGU3Ynp3bzRWalhOWTZmalZOY0dRMXhzSmFvMmFLSE4xRjNFMFBrMUZZRTJNS1BCT08tdTNJVncyYmxSelEwdElLMjNwT1ZjQmZ3dHlFMExVMkZKdHdxeUN3WHpWY3piV1p3NUVxQ2djdy0xSWVfc0FrMA?oc=5"
+      "title": "美股1周展望：晶片股急彈能追嗎？通膨、CoreWeave財報考驗反彈成色",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XaGx0cm8yakxLQUlVbzdYR09RNmZnSEs4VkNsbmRxQWFPWUFjOTdoaHc5a2VEbGtMQkFhQ1h6eTVac0tPTC1RckVFMTVpOC1IU0U3bVBpVi1QMmRxS3pxMnRn0gFnQVVfeXFMT2Y3VTlaN09DMjRmUnVCTEpMbGhDWkJSQWFTcXc4dklZQkV4TFBNaElvT1BFMkc3NTRjc0RTM3l4Z0VmVTg3ZHNoTU0zb3B3VGhDWGdVRUtCM1JTM3Y5SEdpVDVmem8xYw?oc=5"
+    },
+    {
+      "title": "美股｜巴郡上季回購96億美元股份 營業利潤按年倒退近6%",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNbTlFdUM5RnlwbVBuT2lyR283YnU5MDF3dmVEbVYyaXkzcjBsVXFoT3RhYTFEdGR5SkNMcGZRbjRURlZGTDB1djFiSFNCMjB2S3Q4QnFmMTFfWGpKOEl6SVR0cDBvUi1iU3N4ellpVkt1Y3pEaE02SnJ3MzRVU0VhZmxxOXdsV0ltVFNwaXowdEwtcUtzVk1zT0p4QUVoTDZOQUhqTS01b1psSjNWQ0NhOF8tczZ4S2U3UldfQmFEOUlUT2RQQzRGanFMN0pvMzloSllMRUpXRXFxUGNyTVM4N1d1dlJGU181bjZUS3V3SWRkME1XN0EzaFBFb2JQcVlnbkhxdWlmSXFPOFF5SDh6Y1FtcTJURm9CRkN0WmRDbi15X1VhRWtRYy1kWE1XTVd0TFJtU096S0dWaTBrU05XMms1UERWMkJ6TVlhZ0YwZUd5LWpLcERjanoyaEgzZHd2azNpM1huU3hJTTk5?oc=5"
     }
   ],
   "events": {
