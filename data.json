@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-07 20:03:12",
+  "updated_at": "2026-11-08 07:15:22",
   "gas": {
-    "current_label": "11月7日 (現行油價)",
+    "current_label": "11月8日 (現行油價)",
     "current_price": "162.9",
-    "predict_label": "11月8日 (明日預測)",
-    "predict_price": "162.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月9日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "特朗普稱已邀美國終極格鬥冠軍賽總裁懷特擔任白宮發言人",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yVG1kWU91ZDc5RFA4TkdYQWtEd1pVa1JaWkJjQXpYaXl2MURKTHgtV2tFU20wdDdnYjJTOW5BcDhrclQ0U3plSlh2T082ekgtUWgzX0E5eGluQVJraC1QT2hPU28wbmdxVTktc05iVQ?oc=5"
+      "title": "巴尼耶：英國不能在歐盟單一市場協議中「挑三揀四」",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85UEhlTVZDU0s1TEFqdExGNjR6N2FMYTVuQ1RxVzhjbUY5R2hXNkZJYTZfT2d0Y3lJbWltZzI2VmJxem9KM1JwZXJyS2NTaFE4Tzl0N2FqTnJ4YmpfQWxDLVRRQUd6akXSAWxBVV95cUxQeXExSWExMHB1YXp3MlAxd19uNzI0S2RJZ2hvQldRUWI5MTRQcWZjQW1RM3ZwclgyMGFPLXlHamNIUWNUdlpRWEV0Q1JRcHk1SGU0WlJ4UTd1NHpZaldjaWJNRFpOQnltXzBieDE?oc=5"
     },
     {
-      "title": "要聞分析 - 臨近阿布紮比美俄烏會談 俄羅斯持續襲擊烏克蘭",
+      "title": "克宮：俄美中正就潛在深圳三方峰會擬定議程，須就此達成共識",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxONFBVVDE2MGdCdlpfN0drcHBNT2dibTRtbjlWX3FTZDdMdTB5TVEtTmUzZG9majUyVlpBVk1uLXlzbGpJbTk4Y0Y3TzdNZFl5VV9XV2xPc0V1djE5MHJlQTFZa1ZyeEJZdlBlM1hWNl9CanB2WVl2dUFrTGgtOWM0X3NMT1R4eU9KanVHaUt1eTM3X2pGZXVtTXhPT01kd0t6bUY4eVFFMU5tQ3JJZkRMandWWjkwRlozR3dfeXBQclRpMDVZR19sM1RwQ1AyVDNEY1JEZ3hVUFcyTUZkcEZTZkV2bjRybHRmOWpGbkV1dUNtenVyMnBoWVN4NDhlam5VdV9iWDJMc1cwbnlyNThtbEdvYmxQcFVzSFNqMUJiSnNCdHVYNjgtM09heGFidmMzUkFKNlZYNEt1TDZqUnJoYUpNQWxlN3BPelJaSEdnSEgwUVB3cmdwbTE0Q0RjQ3RQdzRhNjctanFFazlxWm0zLTNDSGZ6bmZac19LcWtmRFFadlZXZEZ5b1ZyVWs4WERCaG45YzVxQVRyOFNUU1hFam9uN3Qtdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNVWxKdDRlTTZGWmI1ZWNBeGg5RXh0NGhtQXEtSXRPVDByd2xfTzY0clNOM0RnNURucE91ZEp1ZTN1UTVCZkVuLUNqcFJRYzJmcGNXeV9VdHBkNnhmcXM3NGpKX1Q3UEZiMUpQTzQ0M09SaHh2bFRMV3lSX05TOXp2SlhpZTVsQ1pRaElxblVROVJiWXduUy1mYWxoZ0owcDFzQzFhbWhMa2E3bHk5bnFnNi1tNnJwUHRIX0lXZWhqalc0QnBCTTNhckNxM01BbGF4TVpNeE5oTjA3YldKQUVKMHRBaFE0SXNmcWE3TEZwS3U2N2xSTVlvY253ck5waEpOMVc1R003RDUzS0lsVlJuRk1BTkl6RTZPcnMteS1zRVhIWmN0NlJZalBmNU5QSGU3b2RMOTBjOHBkRUtuTFhMQXF6aUtMYU9sdE1BMGg3OHQ1MC1PNEZ6d3hra3NpTXZVNXJCSENOOVpRWjROLWxHdUVJdHk3Z3lFS1ZZM0d6VHAta21sWjdyMXVDUUZNWV9TdVVsTjluOEhVQ3RPYjRtWF9uTUI?oc=5"
     },
     {
-      "title": "國際｜特朗普邀UFC總裁懷特出任白宮發言人 形容對方與眾不同",
+      "title": "國際｜沙特阿美利雅得辦公樓遇襲 彈片造成局部損毀 未有人傷亡",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPMnV6OE1jUENrN2lYM3AzZ0dXeEdPRkw0Q3hteGp3Zkw3NmZ2eVdFcVpaZXFWVXBiYUhMQ2xibmlETzU2NE1aYl9TdzRiOHM1QkNjVGxfYVVHWE1jYndiUlFSTElOYnlGb2l2Wk9ZWGgyN3ZNV2lqWkVDSWpfeEJvZ0RUVWlRNzhfZmpMSU5nVlB3ckJOalVGcUlTLURTZVFxV0JkU1VPMnlHUWx0ek4wRXZad0ZDUzB6T3U2M2I2VDVzYlZ1TXh3eHZNc3lnQVJ5Y2FqajlHWFJIOXVoeXZrWVhjQ1VVZDMwMFM2TGZqN29xQUI5a3J2V2wySlJfM05mSEtSSFhvLVU2cEgtOVVtMXlaZzlGMUs5UDhaZnk4eXJMZnhvWFBNM3pqcDlGc2FFenE5SG4zamV1aFNwZXVfUlZONnlhRGVsTjJlaHZUUEVqUUctSlp4Qy1qbGpFbkVqWl95dzVEc1NWdGZfOVd5TTV3Q2hNRnJGTWlZREhsMVFPcXdQRFpEVnhXMmlwTHJX?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQcFJreDhoWnpTa0wtdW41VXIzdUFfLUp5bWhlelhzVm5GOEFfaW5HVW43dDlxdHhYQ2lWOTVzOEdFRXBRb2ZDeUdzTUhjYWdPYzgtaTljMHlxbk5tUWZTNVJqUkVrOTg4VkxRdlBvSDRNVk9SVk44YlZUR2VTSFpKRDRSX1dSUmpCMmNyWWx6dWFZVzhPMTVfOXV5dDFpdm5fX2xvZXd0N1JrZlNBbTZBRUpFZDhRYTNZY3VfSkFGeVBZUlQwZUplSy1ObW1PdFAxNGJFR3B0bnZFZ2ZmdU02bmVQYUN0VXNCQ25MZmlzak5WN1FRTkpfemtKM0l5WjBsc19EaTVSd0gyV1hPZEpIRlVVRWppWlZheEVfVXJOdnZRNUhudzV4WTdfNmRIMlpIaWZvWHlJWnpFUnEwMkVNY0NNRUZCakwyb0FIaUI3T3V0Y1pTcDF2dlhZOHR4dVNBYlBlRUFjWC1PWkVVQWdMXzczcWNycnMtb1pUWVBCMmtMbWpwa1VfcjhJOFkwWDJiR29tT25hQzVFekh0QlkxV0JhaDh1Zw?oc=5"
     },
     {
-      "title": "歐洲多國超市雪櫃遭黑客入侵 國家級威嚇或「孤狼」施襲？｜國際分析",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxORnhLbDJ4cndOSTA0QWEtM0VOMV9VYnlhVHdWM3NmUlhIOTNqLURqd0dmQUJRQWxKNmdmOGtMbWgwdGVmZDc1dDlMMUp6UjFxNHBqNzl6OERPR0I5MUNBajEzWGZ1alJ4cnFZUU5nWExoM2lVbjhUZjdUbW5BZ3gzdmJrTXhEeGxXWG1FWHNabXRTTDVaaElKVS10TUIwU2pPMlVMQVdYZEJaWWJLdHdveF9qTGZKX0prSzFCbmlGTFZkQ1ZWWm9fM0Y4TlpZYkxacHVBMGhvaGM3cjZMUGR3d09aRVlPQnNveEtvbTF3dzAwVDkwckFxUGNQNV8yd1pPN3EyX21EVGZFWWQ0a3ctdS1wNXpaV1BPaWtJNlR5RHlsU1N1RVluR1Q2aUpVbVFoMzFIQ2ZQMWVTQUZERHNHM19fUzlqQk9sa3gxclNmaUNZNlhpb2RBRVVReTNqT2pzNDMwbDM5cWpyYlNrVjgtTGR1YTJxT1lRMXloQUt0YVJYSDVqWlZnNktMRQ?oc=5"
+      "title": "美國批准 NVIDIA H200 晶片銷中國 《紐時》查出獲批公司辦公室竟是空屋 背後牽涉制裁企業",
+      "source": "unwire",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVFwYnJYbXdWbjlTR2xtazVkMGZ0em1MaVJBQmcydTVJTFpkNnc3bHVkY3NXQ3lmQ3BXanVwOFZSOWNNbGZldFZUaE56U1lyLXpkVFh6Ukw1cmtCZDhkSlE0NDlSaGJOUHM5Qm9kb0M2M1VKSEJ6anlzLXVGdWVHTzVIaWM?oc=5"
     },
     {
-      "title": "特朗普稱已邀UFC總裁Dana White出任白宮新聞秘書 稱可帶格鬥選手任助理",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQdXlMeHc3YjR4RFVCVE4tM1NmX29NbVowaUZpcnpqcHFnMU9PWEoyandNOHZXNlZxQlZORUhZY1RTaHBWaEt3NWNMT2RpVk1UZ3lwbE1fM3R4QUFYajBQZEFXWDFjU2QyZkNwWWJtWGFzOWtMUFJWT3dEVlRGWEVSUnRZR2tDc1BQLVZYWlByVkI5OUxIeTNiVHBnNTFfV0N0aHhtVmtQa2ZaRmxIRnpIYWxZS0h1eTRSUUlZdTdBN0ZaUUpCWjFjM1J4UHdGOHVQZ3dlRzAwd0xlUmlscmRjM1RlM2laRi1qYjJ4LUd3cTdYSEJCcjNmWEtjN1liZ1ZKaUs3YmpNUzNZenRXV0VLZUJMV1hyOTdzdHJGOXltX0Z6RUhsOHFoT0NuemI5a1lhbnduTjUxc1ZEQlhOZXRSQXZHbG13YnR5TFBMS1AtemU5dGNQNS1wbzJPRGIwVGV3aUxnbkRzcThVSGpFRGZ4Z1AtRm9RMU0tb0ZZNHY3N3ZpR19nSWlMTy1qR1lSa0dhbmgtVU9yNGloc3JtcXlVVktrVENpbkFfLUE?oc=5"
+      "title": "特朗普邀UFC總裁白大拿出任白宮發言人 惟據報對方已私下婉拒",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQYTZqSlNVa1NTNS10NW1ZVWZEVHpwYkk0X0UwWkhxdy1tSHFhQmxseEo1VHFwVHVCeXFpQXBtMU92OUN5a2psV3hhMEdJeGJFa216Z3BLWWZrMkUyVHFOWmdBNkNjN2prNjZjRTgwUzdZb3FZWllwelhYVEtXYnY4OUZPMW1VdHE2SDZpNlVYcG9EZUo1QVhfdXFfUjU2TVV5MV9ubi00S0lGbWp3Sm5FSlk5VDVZOVFmLV80eTl4Q1d0b2xmVU8tOHVfempja0JBeUFSMzlGQUdIS2NHS1hRRDFZVGNEVHJmSTlqRHllSERLRGwxWmhsMDNkNzF6SFVyMjZVODFkLXRERmY4dEFJdVk4ZlFmaEtkUVZZcWFzT1JJTUdNYmJRajZOaWJMRkI0VjdER3NwSHBSckptNlNIRC1kLU5XVFYtRWFlS1Y1TzVEV1ZTcnRjdDdkb2JzRzJBckRURnpJd0ZPbmt0?oc=5"
     },
     {
-      "title": "特朗普邀請UFC主席白大拿擔任白宮發言人",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TM3g5QWtvSkRRNkJ5YWtlQzZZU1RlZlZjcUF5N1NhUG8tdVRLTEhlNHljY2R1dlBRZHgtejFrMV9HdnBjZXRobWEtdVdKaWYyTzQ1OERyZVhLSkFDeEJpLWYxSlpJZGFBQXNzaQ?oc=5"
+      "title": "林定國：國家對港有期望亦有任務 國際統一私法協會落戶有重要意義",
+      "source": "紫荊網",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlN3ZTZwVWdGZDJUTURjY0V6UXZLOTdlaVZoQWlrMElfcUVaQWozRHN5ZHdkUElGdnJicVdmLUhoX0FDbGtMdVoxcnNGcnhwcUo0SEQtNXpYUFhQMUIzUDRlSnhDN0JTSXN3dDRuWnBiLWhLeEs5ZjRtR2U3WEFnR2FuUy1XcF9xQWgyVFRscm0?oc=5"
     },
     {
-      "title": "國際｜伊朗革命衛隊稱導彈射程限制已撤 可攻敵方意料之外地點",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOaWdoNEFEUkJwUnJLM0ZWRDFDSmU3Ymh2bUZqTjVUZUF1MDhWeTFVckthZU02Wjc4ODJ0ZU1qYUV4SkQ3MEJKSFg2X3hOSjV1UG9xY29BeFdzUG9VLTlucDZ0eUgyempMTmVTS0RYLVoxaVlwaWk5YkJ3MTdUeUd3UHlKUkFhTXBQUnJyZ1ZaQ3dmWjhwV2FMcTBDdEZ5S0MycEhxSVRQbmtMNE9jdS1tSnoyUWNaQXo5OUFNWHR6V2pCeTlScnI4WWRQUGFpQzlMQjNVSlprQkZ2ZXBMb01pYjNxazJyOEJIMkNubDFWQUZ2d2lTdGRWdElWN3NOMFhHbWJoVmt0YVY5OE52ZGVTRVhTMWFCV1lvejd5eVNiUWU0c25rQ25yQ3Fvby0yR0FmR3BWNF91UGZ2dm9qSnEySFVLWkF3RGw0Z2FTZklVSnpFdjdlMkVJQlVvUEMtVnNqNHRDZXFRNXdLQlJvdjdoVGhHa1ZJT2JCRVYzWXUzZEVKYXI5Zk1fYVViR0FxSm5mRVJ4QzNVYjlqeC1jOU4yaGR2TEU?oc=5"
+      "title": "從保守派校園鬥士到川普親信米勒接任白宮幕僚長…更接近決策核心| 國際焦點| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9scW9PVWtBNlAxWDZfcUlmaEVqbXhXVTZfbnBoVmdSMlVXX2dHTk1NdG1wNHNrTzBhVjRKZ3JXbm5sVmtaTjFfN3JwMDkyQ19R?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股暴跌令華爾街始料未及 策略師卻看到買入良機",
+      "title": "美股｜巴郡上季經營溢利跌5.8% 回購96億美元創新高",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOZHAxS0ZmUXpkS1ZSS1NrZl9rTU5vQ05DY0xwUTB6eEc1UlBvUHhYZWNvNDZyQTZQajgwZGF4SlVvZnVzd2xla1pDelZsLXQwQXRFbURnSmozTXg3djlNNURyMU5WZExvNExMcjNyekN5azctOEN4TTBiRzNNUEo5YlpWakphbVA0LTMxbXBMRGpONm9ZbEJNTGxnNHNxWkVqRkhib0xhc3lMWWYyWnhBVE9Hd2VHb2VOaUpWWG93NjN1MHBwdjdBcUFoS0RmS21NejFoM3IwUW85M0JiUnY4aEQ0MlF6YThwWl9LU3Z1OW5GWFpSeGdOQWNMOGNuVGszSWZjRHU5dWJWTkd3T3gzcGwxV0oxMnJOMjBUUXJwZjA5YlhGVWRqc243VkhLVEZINzh2TWd1dDlJOWFCZFdjQi1oMVZfbDhOOEZRLUxVcl8wQmE3LUpyUVlrRlRrcmgzajZ2Z1JJZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQYm0zeEJtT215ZFFZSkJyVkswS25WQ2dMeTlMaFV1a0N1QWpPSUNNWEFVMUVCM1gwRmxocWdDWlJFakh3a3ZSQkFkYURxZTUzczM5LWRiRm5lU1F5ZC13Y0NKa3VhX2tPOUF1MG4zMVZEaGhydmlzVHJCTUtxWkRZZmJCUHkyM21vUXpKUDZTUU5PRkpjdHBEbVZMTDNGZHhpcW5sRUVaUUN1V2tVRmlYX2NoZVNOZEtvZkJxcVd5WGUxc0FlZmJxZm1CS0Q5bU1Ba3ZaTTdQRHRhak5RQU54M2hKMWJTMEJTaDRCVlFLQndJblRSbkxVZDR6QllQT2lUUGtsS0dTeS1LZnFOd1BDdk8zQ2tWcHlIOWRFdFBLV0tOQnRkYXFVN0Rrdzlpb0pOcDFVNjBKSlZjeHdfUnN4WXpMVFFQTW1yT29F?oc=5"
     },
     {
-      "title": "市場靜待期中選舉結果 美股早盤漲跌互見",
+      "title": "美股暴跌令華爾街始料未及 策略師卻看到買入良機 | 美股動態 | 國際",
       "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XWl90QzZjZXhwZ2Q4TzBNM2tlMlJNVXoyU0tSQzVrWVRQUTlVNUNiTW1rODAwT0pYcVYxMzZCcGMtTGRNLTlUWGswbktPUkk2ODNrNWQxWW9HcTRE0gFiQVVfeXFMTXJuemh6MmhuVUpmOVl5NlBIejRMWFBueDFoWkJ3M05kNGExT2pXQTF6WHBrMU0tU3RaODlac3kzV1RhZjFKMmxmMW92eTdPS2hVWFd0SUpuUnhybVUxeVBEaEE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeWpIbkJocDBab3B1eU5ZbTFnd0ktcDRMMVloNWRKdEZyVndnSkk1RThXMFUxN0d3WFhjQ2N3R090ZTROU1pWMGgxVG5zMmFyeWVyRUZlUnVYdE1Z?oc=5"
     },
     {
-      "title": "美股｜民主黨橫掃國會激勵美股 不足一日AI交易崩圍 納指瀉5.5%",
-      "source": "Fortune Insight",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNQzJMRGpVMDFmUW15bUNleHRCTFNka2NhNWpkbXY3c3I2ZnNvOTJsVzY2V2xBa2xNQ2sxWGMycmV4ZjM2UjEzekRTRmE4cVB4eUh2cE5nQ0U0X1BPdlo0bTRmQWdwWldVUUFwNlhVNHYxbzlrRnkwNUlvSnJlMDhlQ2dOQ2VlQlZNUE5OR0MwMk9yT1VHUDNRME1ld29ZSWlISzExX3BEcDFLdC1LZHJSbUU4eTdwS2E5cHEwdXQyNXlQNDRTSmg3cm1nQWtSWlJsbl9mWEw4bXFnV0VYaC1idU1xXzN5S3ZGQTdZU3FkdEtkU0RLTDFGejJ6NnRhWlFXa2dFNm1sd3dvc3p1M1p6dnh2Y0R4MVNIX2w2SGVsTTZhNTQ2cFc1ckhGSjdYTnBlc3F3VEFMZXBSRF9mMmpCODY1QW83eTJ1aTNFazlIR0RSLUZyUU8yWF9odGNiMzB4QnBGWE05QWJhZXJSZ2xJRWhMWmNIaUI1VG1jejA4aDA3MmM2Ym9FZ1JfZndiYUg3TW15dzdWTTQ?oc=5"
+      "title": "美股科技股重挫後 高盛稱AI債務供給壓力正在信用市場累積",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90T0dhUXh5Si1hX1lGTnNMemdzbFg2UzU3MTdSM29oeUd6cG1DOUplWUJ3VUVoank0ZE9heEQ1Q1RyRDh4dHAyNWI3bmgzU3FBclB2bmRQMjhISVZH?oc=5"
     },
     {
-      "title": "Anthropic擬11月納斯達克上市 投資人指此前2萬億美元估值難實現",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOTnMwcEdreVZ0QWdyQUxSaER1ZUJTNmRRa3ZQcDZQdUV4Rld3Qk1SbWI5ZHc3Z1R6XzFKVU1xa0FQblRqT0c2aV84YWYzbTRqMWF4TEtXNkhWeE1yakNNVnNaTUptQ2M0QTluTV8xX1VMUE1zcVlMeXl6Vk5TSGYwcENzbktSV09Uck4zZ0dzSU9xMUQycnBHdXgtMVlBcktsZjdjcG1Ndk5ySkM5UGJ3Ry1PMWRlbWlWMHg1b2hCU1FfOGRDYVlEdXhtRnB0UkpqVnpmNGZPM2tCMzZPd05PNk9BdkxQVU9UOVByVUZ2a0hLZkhDZk1zbjFtSVhXN3JOX0ZqT3hOV21fSEhJVEItOXMzNTYxZWRRNERVQlZxZ08xR2xTdl81eUlvazdmekdBN1Q0UEdoekZVc0FsY1VSbUoxem5LVklIV2hJc29BbHVEVE83blpGNVdjSlJtR2F2a0R0VVZ4YlZGTmZWOXJxUVN3bXllWE1BQXp2TzdrcUNEcnhiMjVud2thTmxVWXNVNDBuekZGdk1Hek0?oc=5"
+      "title": "廣發證券：10年期美債收益率中樞應該是多少？ 作者 智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTUXIyY05pYzNCeXFVdS1aazNQVHo0RlFFNUdQY2lZSk9nZnJNQlVGUUYwN1k0QnhNR2dtdFp2dTBmTzBkalczbnkwM1h5eDkyVmRGWXdJUVBrY1hDSzhnd09scEVUUmVPa2RKWHE5YUw?oc=5"
     },
     {
-      "title": "美期中選舉衝擊華爾街！美股科技股還會跌？下週2大考驗成關鍵",
-      "source": "NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UNTZIc2tUMHBLTFpwb3pQdVcxYV9lQi1ORTdFNWNUWHhDcmpLZ3JYNVdLVzVWQW1HVVNoemNvWl9Xb3lJQ1hNMmF1YXdmNFNkNVHSAVJBVV95cUxPVDU2SHNrVDBwS0xacG96UHVXMWFfZUItTkU3RTVjVFh4Q3JqS2dyWDVXS1c1VkFtR1VTaHpjb1pfV295SUNYTTJhdWF3ZjRTZDVR?oc=5"
+      "title": "中國銀河證券研報：美股AI泡沫處於“狂熱階段的後期”2027年為危險節點",
+      "source": "觀點網",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91X3VQVWVZRWdTRDZWeUVjbHJmc3dnWjQ1X1RlbEtXaHFqMzJmRnIzTFVveEo4bFdzZDFyazZOM3pSZVpZdGNObWU1bUlGTHcxSFZpWTQwbTQ3a0FhbFNiUDBGMU0?oc=5"
     },
     {
-      "title": "樂觀GDP遇上不買帳的股市　美國經濟敘事與市場定價的裂痕",
-      "source": "ETtoday新聞雲",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBabl95X25hUUowZmNmMnVrRG9xbUF3TnkySzVTV2gxNEdhUHVZUDEwQmR0VmJHUk1TNXpCTDZiSktmSGs4WGZGbERvM19uVXfSAU5BVV95cUxNclVabzdjZmdISmRuamtNUUZTZU1vZlNucGt1NFhIRUs3aGZZZGpfclJ6YnJjTm4yY0V2YllGcUoyX21nZGRhY1NsM21oNHc?oc=5"
+      "title": "美股崩跌她卻很淡定！女股神揭多頭還有大戲逆勢加碼這檔股票- 國際",
+      "source": "工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4welhOVFZmNmVWUzYxcjJ3ZEd2TUh5RUdjSHMwYVF4cmU0RjBZQkMyZ2lFdmdyZTNFOVdLZlZUZGhvOFFWdTNFdGo4eEVKa285X0ZFazVMbEhLS2FJTWVN?oc=5"
     }
   ],
   "events": {
@@ -86,8 +86,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 11,
-        "status_badge": "11 日後"
+        "days_left": 10,
+        "status_badge": "10 日後"
       }
     ]
   },
