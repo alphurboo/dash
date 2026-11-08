@@ -1,48 +1,48 @@
 {
-  "updated_at": "2026-11-07 16:15:22",
+  "updated_at": "2026-11-07 20:03:12",
   "gas": {
     "current_label": "11月7日 (現行油價)",
-    "current_price": "161.9",
+    "current_price": "162.9",
     "predict_label": "11月8日 (明日預測)",
     "predict_price": "162.9",
-    "trend": "↑ 明日預測升 1.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
+    {
+      "title": "特朗普稱已邀美國終極格鬥冠軍賽總裁懷特擔任白宮發言人",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yVG1kWU91ZDc5RFA4TkdYQWtEd1pVa1JaWkJjQXpYaXl2MURKTHgtV2tFU20wdDdnYjJTOW5BcDhrclQ0U3plSlh2T082ekgtUWgzX0E5eGluQVJraC1QT2hPU28wbmdxVTktc05iVQ?oc=5"
+    },
     {
       "title": "要聞分析 - 臨近阿布紮比美俄烏會談 俄羅斯持續襲擊烏克蘭",
       "source": "RFI",
       "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxONFBVVDE2MGdCdlpfN0drcHBNT2dibTRtbjlWX3FTZDdMdTB5TVEtTmUzZG9majUyVlpBVk1uLXlzbGpJbTk4Y0Y3TzdNZFl5VV9XV2xPc0V1djE5MHJlQTFZa1ZyeEJZdlBlM1hWNl9CanB2WVl2dUFrTGgtOWM0X3NMT1R4eU9KanVHaUt1eTM3X2pGZXVtTXhPT01kd0t6bUY4eVFFMU5tQ3JJZkRMandWWjkwRlozR3dfeXBQclRpMDVZR19sM1RwQ1AyVDNEY1JEZ3hVUFcyTUZkcEZTZkV2bjRybHRmOWpGbkV1dUNtenVyMnBoWVN4NDhlam5VdV9iWDJMc1cwbnlyNThtbEdvYmxQcFVzSFNqMUJiSnNCdHVYNjgtM09heGFidmMzUkFKNlZYNEt1TDZqUnJoYUpNQWxlN3BPelJaSEdnSEgwUVB3cmdwbTE0Q0RjQ3RQdzRhNjctanFFazlxWm0zLTNDSGZ6bmZac19LcWtmRFFadlZXZEZ5b1ZyVWs4WERCaG45YzVxQVRyOFNUU1hFam9uN3Qtdw?oc=5"
     },
     {
-      "title": "中期選舉失利後，川普任命移民強硬派米勒為白宮幕僚長，民主黨誓言對抗",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUnRMZjg0b0g3eGY4VGJDZWtlUVZnTktTektzckVFSEl4QkJSZWxlTHI2aWFXUHdDampTbGFiYWlUSkZsQ1FrUGdEbmNVOGpqcm44aEhNdk5uQmdUSzFvSG5zQ3ZXTGtZQzA3TWxSYUNVS0ZZclIwTy0wWEJpTG1YVFFJVlJZeVBmUFBodmtmTk5Oc0gtQld3SVVWOE1rZmUxOFJGX0d5cnJEdFBsRjMxem82YVc0QXZDSHlmbVUzYVJpV3VScmFtMy1rRDNySUFWanFoVjc4dWNocUtBblg2bXNjelNsUWx2czJVZm1Pd3E1QzhvVlZqVmw3T1psZnE2S1EtQWRCdGVRRDdvYUVmTHdxSUhRbTVmbEhxRjlVUnplYWxNR1V0Vl9LUWtEcGNsWHkyc2lFaVpRZnA5WkU1ZGdmTW0xUzFVSVlKYTBkeEZ5R3NSSGEw0gHXAkFVX3lxTE5SdExmODRvSDd4ZjhUYkNla2VRVmdOS1N6S3NyRUVISXhCQlJlbGVMcjZpYVdQd0NqalNsYWJhaVRKRmxDUWtQZ0RuY1U4ampybjhoSE12Tm5CZ1RLMW9IbnNDdldMa1lDMDdNbFJhQ1VLRllyUjBPLTBYQmlMbVhUUUlWUll5UGZQUGh2a2ZOTk5zSC1CV3dJVVY4TWtmZTE4UkZfR3lyckR0UGxGMzF6bzZhVzRBdkNIeWZtVTNhUmlXdVJyYW0zLWtEM3JJQVZqcWhWNzh1Y2hxS0FuWDZtc2N6U2xRbHZzMlVmbU93cTVDOG9WVmpWbDdPWmxmcTZLUS1BZEJ0ZVFEN29hRWZMd3FJSFFtNWZsSHFGOVVSemVhbE1HVXRWX0tRa0RwY2xYeTJzaUVpWlFmcDlaRTVkZ2ZNbTFTMVVJWUphMGR4RnlHc1JIYTA?oc=5"
-    },
-    {
-      "title": "國際｜克拉科夫中央廣場槍擊案六死十五傷 疑兇落網",
+      "title": "國際｜特朗普邀UFC總裁懷特出任白宮發言人 形容對方與眾不同",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNNWRqTU4yU2VoVE9uZU5ya3hvWVh3NGZ0alpHajktNmxvNjB0bXUxUl83eHRvN0NHLXFROWhVWlE3VUJkeVl1c2FXZm5obU1CSHh3ZFdpQW1Vd0I4c1NodVREbjR0VXdGODYwa05maFM5SERGNHdhT1NMdl9tRTlSb09sZFhPTUdySXFIS2I2YVpkbVNldkpRell1T0pKUVU1dVJmVFdaTXNvYVBVbG9MU1phTUhrclcxNFVia3JyQ0I1TUlQbGd3VjlLb2xVczgxTFA5WHA4cmwtSUNDR2plei1BVzNqaTVNZklCMklHRWwxTU9vdWxZbUVsa1hQX3FXSUhzS0wzdnI4Tnk4WG9wa3dvTHBqOEFFTnZac1Y2RUJOYWk1QmJWcmdTZGQ1eTBtYWVkZWZ4RW50M094UV9OQWZqX3VvZGlzbk9vR3dOOEZ4dzZwU2gzVHRXRmxNLWhFaDh2QUFVNjg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPMnV6OE1jUENrN2lYM3AzZ0dXeEdPRkw0Q3hteGp3Zkw3NmZ2eVdFcVpaZXFWVXBiYUhMQ2xibmlETzU2NE1aYl9TdzRiOHM1QkNjVGxfYVVHWE1jYndiUlFSTElOYnlGb2l2Wk9ZWGgyN3ZNV2lqWkVDSWpfeEJvZ0RUVWlRNzhfZmpMSU5nVlB3ckJOalVGcUlTLURTZVFxV0JkU1VPMnlHUWx0ek4wRXZad0ZDUzB6T3U2M2I2VDVzYlZ1TXh3eHZNc3lnQVJ5Y2FqajlHWFJIOXVoeXZrWVhjQ1VVZDMwMFM2TGZqN29xQUI5a3J2V2wySlJfM05mSEtSSFhvLVU2cEgtOVVtMXlaZzlGMUs5UDhaZnk4eXJMZnhvWFBNM3pqcDlGc2FFenE5SG4zamV1aFNwZXVfUlZONnlhRGVsTjJlaHZUUEVqUUctSlp4Qy1qbGpFbkVqWl95dzVEc1NWdGZfOVd5TTV3Q2hNRnJGTWlZREhsMVFPcXdQRFpEVnhXMmlwTHJX?oc=5"
     },
     {
-      "title": "特朗普公開邀請UFC總裁出任白宮新聞發言人",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNSjRzc3ZHQUl3VUNmYXdSa1NnY1FuZnBLV2w3NWNnZzFYLWZMNFJ6QklmaTBhNXp2SG9yem1EaW5YOVEtRWY2LWFsckhoWWxDNlBvYm1SUkZPRFNFM1VHNnBQek9hS1YtQzNsNjRfNHhGTHVDby1qMDFQZXA4ejZOdEd4Z25GUnVPUUtncVNQbmtOLXlCVTI0a1hvQkl2bUhaSm04Q1k5cEZsSDJJb1pFNjNFZ0luUVpfYnJCVjZKMm5XMmFzMTB0b3VZdDEzanF4Qm9rVk44Q25WcFNJc0lod0J0bmVkaFk4ZHhrWVcxa1RKckVwUHdJcmV6R0JLcWdnZDB6NmVpWnpOT1BNMzdJcWZ3bUlyX0RRMGRhQ3BPTGhudnRHRkRSYjNVdWV4OGRpTEhXQWFmcXNuczQ?oc=5"
+      "title": "歐洲多國超市雪櫃遭黑客入侵 國家級威嚇或「孤狼」施襲？｜國際分析",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxORnhLbDJ4cndOSTA0QWEtM0VOMV9VYnlhVHdWM3NmUlhIOTNqLURqd0dmQUJRQWxKNmdmOGtMbWgwdGVmZDc1dDlMMUp6UjFxNHBqNzl6OERPR0I5MUNBajEzWGZ1alJ4cnFZUU5nWExoM2lVbjhUZjdUbW5BZ3gzdmJrTXhEeGxXWG1FWHNabXRTTDVaaElKVS10TUIwU2pPMlVMQVdYZEJaWWJLdHdveF9qTGZKX0prSzFCbmlGTFZkQ1ZWWm9fM0Y4TlpZYkxacHVBMGhvaGM3cjZMUGR3d09aRVlPQnNveEtvbTF3dzAwVDkwckFxUGNQNV8yd1pPN3EyX21EVGZFWWQ0a3ctdS1wNXpaV1BPaWtJNlR5RHlsU1N1RVluR1Q2aUpVbVFoMzFIQ2ZQMWVTQUZERHNHM19fUzlqQk9sa3gxclNmaUNZNlhpb2RBRVVReTNqT2pzNDMwbDM5cWpyYlNrVjgtTGR1YTJxT1lRMXloQUt0YVJYSDVqWlZnNktMRQ?oc=5"
     },
     {
-      "title": "國際｜六旗加州大美國樂園2027年9月6日謝幕",
+      "title": "特朗普稱已邀UFC總裁Dana White出任白宮新聞秘書 稱可帶格鬥選手任助理",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQdXlMeHc3YjR4RFVCVE4tM1NmX29NbVowaUZpcnpqcHFnMU9PWEoyandNOHZXNlZxQlZORUhZY1RTaHBWaEt3NWNMT2RpVk1UZ3lwbE1fM3R4QUFYajBQZEFXWDFjU2QyZkNwWWJtWGFzOWtMUFJWT3dEVlRGWEVSUnRZR2tDc1BQLVZYWlByVkI5OUxIeTNiVHBnNTFfV0N0aHhtVmtQa2ZaRmxIRnpIYWxZS0h1eTRSUUlZdTdBN0ZaUUpCWjFjM1J4UHdGOHVQZ3dlRzAwd0xlUmlscmRjM1RlM2laRi1qYjJ4LUd3cTdYSEJCcjNmWEtjN1liZ1ZKaUs3YmpNUzNZenRXV0VLZUJMV1hyOTdzdHJGOXltX0Z6RUhsOHFoT0NuemI5a1lhbnduTjUxc1ZEQlhOZXRSQXZHbG13YnR5TFBMS1AtemU5dGNQNS1wbzJPRGIwVGV3aUxnbkRzcThVSGpFRGZ4Z1AtRm9RMU0tb0ZZNHY3N3ZpR19nSWlMTy1qR1lSa0dhbmgtVU9yNGloc3JtcXlVVktrVENpbkFfLUE?oc=5"
+    },
+    {
+      "title": "特朗普邀請UFC主席白大拿擔任白宮發言人",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TM3g5QWtvSkRRNkJ5YWtlQzZZU1RlZlZjcUF5N1NhUG8tdVRLTEhlNHljY2R1dlBRZHgtejFrMV9HdnBjZXRobWEtdVdKaWYyTzQ1OERyZVhLSkFDeEJpLWYxSlpJZGFBQXNzaQ?oc=5"
+    },
+    {
+      "title": "國際｜伊朗革命衛隊稱導彈射程限制已撤 可攻敵方意料之外地點",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPamJNRUR0VDViazdNRzl4N1lUeG5saDN4T2hXa2hxRWdPTFhjdWpWN0p0djBpQUVwaVdsSnpya2FWbEF1ZE4xZnpIOXRJYlFzOXRuM2N1RG9TRGpOS2E1NzVmWWV5REhreHRFUHEzSndZblIwbWJrcURDVVBsQ1V3Q3JMaWNvQ0U0cjd2UGtBZDZfMVZacUlmaExqbmRfN3JUcEZSX3hadnNlRHN0R2s1RVRkdTNFc0E4bEZvNEFqblNyaC0zOTRCcDVwanAxVkIwYUJtZ3ktdThGQ09xYjF0bVYyMk1hemI5ZmRGQTZEOWhaa2hpbHBHV0pXYUR3OHdrel82NlcxVGdjeEZQRW9XOEVNd3plb2p4UWRIWUV1blZvci03V2tJ?oc=5"
-    },
-    {
-      "title": "美軍擬尋求限制伊朗陸路貿易 美官員稱習近平告訴特朗普同意伊朗絕不應擁核",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPQUNXNmZwcDR6RmZIdTJ0TUJCelktdWF1azYwRzJ2cnNCMXNQeFluZ1VQVW5PR0ljZjhnUnFuX25XLUUwd3ZrV3hRZEZmbkY4YWtfTjdHbnBBb1M5Q0FiMkhOMHpaWDlkUEFDOU9oRElMQ0dWX3cydUJmcHlqNkdWLWRmSVZ1dWxJdGFwZzM2TGRIcHFoTEZWdG9ZODNrNk1rN2lmYkVZRVA4WldBSlpvR0tfU1Vzb1cxMFZsakxLX3lWNWlnMmpDcnpDYWhEV1FoTm1KbGVxVmduNFVpeWRpNElKa2piN0hXOTJiSE43MnRqbzlhNmQ3RVBjUGdYdFNpYWYzQTNZZl9yc1pnbklnV3E2X3l5Z0NyT05GUjZLcmwtT0h6Wk0yVEZycjlYQVhIVjhkVkdaN1c0bElOLWxKdkUtRTVZRmlFVlBtekp2VkNTWllFNWNPN21BTWJHUTJMbU00QlBOUm1KZXR0OE5GbDdWN2NPWG9hbFZ5cWlMM1NJMXZFZ2JrbFc1MmJCSWYyR0oxU0QwQnBTMUpTTmd2aG9rS3J3YTh5czl3V3RfUDlEZTN5dURfeW5VeWxjMEJnbS1BZGJMSzBJLXFZMjN3ZHpsbTNlQ3VuekZsbE42Vk9waV93cTJlMHVRRFVhemVETExqUWRzZC0?oc=5"
-    },
-    {
-      "title": "拖家帶口 去中國實現“美國夢”",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQazEzV1VZS3VkQmRnMndPa3RaQWtuVkpZX1BTUUhhQ1RwRnpJcW9UM2pIMVpwbU9uellOMXJ5bXdVRHkxOTRLeHFyUzBpM1JHdEl1X0dpLTJPRko1bG9Nck1LSjVFTGRKVWw5WTdsUzhRX0NUc1ZyZlVCbndpa0FhUGVRT2NnaWR0el85ZTUtY0UwUnIyVG1MSzY5ZEExekZuSEhGM2NsZG5ldy1kcFJyQ2RFQ2lwNm1NV0ZSTUF1VVZOTFB0ZnJnOUZDZFhuLUdKTVlFRFMxbEY3T1VsSnY2RVJmOHR3eHBYX2hsQ3RyQ29hQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOaWdoNEFEUkJwUnJLM0ZWRDFDSmU3Ymh2bUZqTjVUZUF1MDhWeTFVckthZU02Wjc4ODJ0ZU1qYUV4SkQ3MEJKSFg2X3hOSjV1UG9xY29BeFdzUG9VLTlucDZ0eUgyempMTmVTS0RYLVoxaVlwaWk5YkJ3MTdUeUd3UHlKUkFhTXBQUnJyZ1ZaQ3dmWjhwV2FMcTBDdEZ5S0MycEhxSVRQbmtMNE9jdS1tSnoyUWNaQXo5OUFNWHR6V2pCeTlScnI4WWRQUGFpQzlMQjNVSlprQkZ2ZXBMb01pYjNxazJyOEJIMkNubDFWQUZ2d2lTdGRWdElWN3NOMFhHbWJoVmt0YVY5OE52ZGVTRVhTMWFCV1lvejd5eVNiUWU0c25rQ25yQ3Fvby0yR0FmR3BWNF91UGZ2dm9qSnEySFVLWkF3RGw0Z2FTZklVSnpFdjdlMkVJQlVvUEMtVnNqNHRDZXFRNXdLQlJvdjdoVGhHa1ZJT2JCRVYzWXUzZEVKYXI5Zk1fYVViR0FxSm5mRVJ4QzNVYjlqeC1jOU4yaGR2TEU?oc=5"
     }
   ],
   "news_stock": [
@@ -52,29 +52,29 @@
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOZHAxS0ZmUXpkS1ZSS1NrZl9rTU5vQ05DY0xwUTB6eEc1UlBvUHhYZWNvNDZyQTZQajgwZGF4SlVvZnVzd2xla1pDelZsLXQwQXRFbURnSmozTXg3djlNNURyMU5WZExvNExMcjNyekN5azctOEN4TTBiRzNNUEo5YlpWakphbVA0LTMxbXBMRGpONm9ZbEJNTGxnNHNxWkVqRkhib0xhc3lMWWYyWnhBVE9Hd2VHb2VOaUpWWG93NjN1MHBwdjdBcUFoS0RmS21NejFoM3IwUW85M0JiUnY4aEQ0MlF6YThwWl9LU3Z1OW5GWFpSeGdOQWNMOGNuVGszSWZjRHU5dWJWTkd3T3gzcGwxV0oxMnJOMjBUUXJwZjA5YlhGVWRqc243VkhLVEZINzh2TWd1dDlJOWFCZFdjQi1oMVZfbDhOOEZRLUxVcl8wQmE3LUpyUVlrRlRrcmgzajZ2Z1JJZw?oc=5"
     },
     {
+      "title": "市場靜待期中選舉結果 美股早盤漲跌互見",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XWl90QzZjZXhwZ2Q4TzBNM2tlMlJNVXoyU0tSQzVrWVRQUTlVNUNiTW1rODAwT0pYcVYxMzZCcGMtTGRNLTlUWGswbktPUkk2ODNrNWQxWW9HcTRE0gFiQVVfeXFMTXJuemh6MmhuVUpmOVl5NlBIejRMWFBueDFoWkJ3M05kNGExT2pXQTF6WHBrMU0tU3RaODlac3kzV1RhZjFKMmxmMW92eTdPS2hVWFd0SUpuUnhybVUxeVBEaEE?oc=5"
+    },
+    {
       "title": "美股｜民主黨橫掃國會激勵美股 不足一日AI交易崩圍 納指瀉5.5%",
       "source": "Fortune Insight",
       "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNQzJMRGpVMDFmUW15bUNleHRCTFNka2NhNWpkbXY3c3I2ZnNvOTJsVzY2V2xBa2xNQ2sxWGMycmV4ZjM2UjEzekRTRmE4cVB4eUh2cE5nQ0U0X1BPdlo0bTRmQWdwWldVUUFwNlhVNHYxbzlrRnkwNUlvSnJlMDhlQ2dOQ2VlQlZNUE5OR0MwMk9yT1VHUDNRME1ld29ZSWlISzExX3BEcDFLdC1LZHJSbUU4eTdwS2E5cHEwdXQyNXlQNDRTSmg3cm1nQWtSWlJsbl9mWEw4bXFnV0VYaC1idU1xXzN5S3ZGQTdZU3FkdEtkU0RLTDFGejJ6NnRhWlFXa2dFNm1sd3dvc3p1M1p6dnh2Y0R4MVNIX2w2SGVsTTZhNTQ2cFc1ckhGSjdYTnBlc3F3VEFMZXBSRF9mMmpCODY1QW83eTJ1aTNFazlIR0RSLUZyUU8yWF9odGNiMzB4QnBGWE05QWJhZXJSZ2xJRWhMWmNIaUI1VG1jejA4aDA3MmM2Ym9FZ1JfZndiYUg3TW15dzdWTTQ?oc=5"
     },
     {
-      "title": "美股盤前追蹤 | 閃迪現升9.41%",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVA4MVFfVzBvSjFMRkhLYjk2akV6enFMcHVfSFEyR0l6V1lMZXhnMzdod0FWSVBMSTN6SnpPOFVzVkU0T2EzR0VHa3R4SFNQeWZNak5HYU1BMU90YXNxNUx2YlY3Qnc2WHEtVjFJeUdQQ1cyRHBWTXVYXzJHTS1RTWxKTGkwcnhBWlltdUdRUVA1czdYbVhfWEZqbndUU1R5cExN?oc=5"
+      "title": "Anthropic擬11月納斯達克上市 投資人指此前2萬億美元估值難實現",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOTnMwcEdreVZ0QWdyQUxSaER1ZUJTNmRRa3ZQcDZQdUV4Rld3Qk1SbWI5ZHc3Z1R6XzFKVU1xa0FQblRqT0c2aV84YWYzbTRqMWF4TEtXNkhWeE1yakNNVnNaTUptQ2M0QTluTV8xX1VMUE1zcVlMeXl6Vk5TSGYwcENzbktSV09Uck4zZ0dzSU9xMUQycnBHdXgtMVlBcktsZjdjcG1Ndk5ySkM5UGJ3Ry1PMWRlbWlWMHg1b2hCU1FfOGRDYVlEdXhtRnB0UkpqVnpmNGZPM2tCMzZPd05PNk9BdkxQVU9UOVByVUZ2a0hLZkhDZk1zbjFtSVhXN3JOX0ZqT3hOV21fSEhJVEItOXMzNTYxZWRRNERVQlZxZ08xR2xTdl81eUlvazdmekdBN1Q0UEdoekZVc0FsY1VSbUoxem5LVklIV2hJc29BbHVEVE83blpGNVdjSlJtR2F2a0R0VVZ4YlZGTmZWOXJxUVN3bXllWE1BQXp2TzdrcUNEcnhiMjVud2thTmxVWXNVNDBuekZGdk1Hek0?oc=5"
     },
     {
-      "title": "解剖華爾街周四科技股股災： AI 股賣壓狂湧 誰開的第一槍？",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaR21BbDRIazQzUUhtQmJaWUFlaGhBdkIxTktCcXh2RHBtT3EzdUhUVWkzSjB0bmZ4bk9FSy1RODdlMHZ2MkpFSl9sWHMzTjFJTU5fa3R3TFlBLTRI0gFiQVVfeXFMTnBEMHl5Ym1jTmRNUWQxci1sVThoQzdoZUpjSWtRWGJqTS0ydV9ISU1xRm5zd1NBT1lLeVgwWV9VX2lEV0t1YlI2ZTM2cm5nRUwzbkNGMm5Nc25vMFZIUE9IOHc?oc=5"
+      "title": "美期中選舉衝擊華爾街！美股科技股還會跌？下週2大考驗成關鍵",
+      "source": "NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UNTZIc2tUMHBLTFpwb3pQdVcxYV9lQi1ORTdFNWNUWHhDcmpLZ3JYNVdLVzVWQW1HVVNoemNvWl9Xb3lJQ1hNMmF1YXdmNFNkNVHSAVJBVV95cUxPVDU2SHNrVDBwS0xacG96UHVXMWFfZUItTkU3RTVjVFh4Q3JqS2dyWDVXS1c1VkFtR1VTaHpjb1pfV295SUNYTTJhdWF3ZjRTZDVR?oc=5"
     },
     {
-      "title": "美股1周展望：晶片股急彈能追嗎？通膨、CoreWeave財報考驗反彈成色",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XaGx0cm8yakxLQUlVbzdYR09RNmZnSEs4VkNsbmRxQWFPWUFjOTdoaHc5a2VEbGtMQkFhQ1h6eTVac0tPTC1RckVFMTVpOC1IU0U3bVBpVi1QMmRxS3pxMnRn0gFnQVVfeXFMT2Y3VTlaN09DMjRmUnVCTEpMbGhDWkJSQWFTcXc4dklZQkV4TFBNaElvT1BFMkc3NTRjc0RTM3l4Z0VmVTg3ZHNoTU0zb3B3VGhDWGdVRUtCM1JTM3Y5SEdpVDVmem8xYw?oc=5"
-    },
-    {
-      "title": "美股｜巴郡上季回購96億美元股份 營業利潤按年倒退近6%",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNbTlFdUM5RnlwbVBuT2lyR283YnU5MDF3dmVEbVYyaXkzcjBsVXFoT3RhYTFEdGR5SkNMcGZRbjRURlZGTDB1djFiSFNCMjB2S3Q4QnFmMTFfWGpKOEl6SVR0cDBvUi1iU3N4ellpVkt1Y3pEaE02SnJ3MzRVU0VhZmxxOXdsV0ltVFNwaXowdEwtcUtzVk1zT0p4QUVoTDZOQUhqTS01b1psSjNWQ0NhOF8tczZ4S2U3UldfQmFEOUlUT2RQQzRGanFMN0pvMzloSllMRUpXRXFxUGNyTVM4N1d1dlJGU181bjZUS3V3SWRkME1XN0EzaFBFb2JQcVlnbkhxdWlmSXFPOFF5SDh6Y1FtcTJURm9CRkN0WmRDbi15X1VhRWtRYy1kWE1XTVd0TFJtU096S0dWaTBrU05XMms1UERWMkJ6TVlhZ0YwZUd5LWpLcERjanoyaEgzZHd2azNpM1huU3hJTTk5?oc=5"
+      "title": "樂觀GDP遇上不買帳的股市　美國經濟敘事與市場定價的裂痕",
+      "source": "ETtoday新聞雲",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBabl95X25hUUowZmNmMnVrRG9xbUF3TnkySzVTV2gxNEdhUHVZUDEwQmR0VmJHUk1TNXpCTDZiSktmSGs4WGZGbERvM19uVXfSAU5BVV95cUxNclVabzdjZmdISmRuamtNUUZTZU1vZlNucGt1NFhIRUs3aGZZZGpfclJ6YnJjTm4yY0V2YllGcUoyX21nZGRhY1NsM21oNHc?oc=5"
     }
   ],
   "events": {
