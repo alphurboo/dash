@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-10 07:15:22",
+  "updated_at": "2026-11-10 16:15:24",
   "gas": {
     "current_label": "11月10日 (現行油價)",
     "current_price": "162.9",
     "predict_label": "11月11日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "157.9",
+    "trend": "↓ 明日預測跌 5.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "美俄烏三方會談開始 會有突破嗎？",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yRFdveDhlMWRYOHJMMlRWQkZseHA3VkNTNks0WUtxTklqZnRUUkswZlRpMjJZY2dQZmJFQS0tZlFUcUNzQ0hhclJQdmtPZG8wRnRTWFdWczZzZGFBejVvc1VNWGJQc3d2VlhuaU5Pbw?oc=5"
-    },
-    {
-      "title": "美國終極格鬥冠軍賽總裁懷特拒任白宮發言人 稱不想從政",
+      "title": "澤連斯基稱歐洲應參與旨在結束俄烏戰事的談判",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nb0d0Vm9YcGYwVUd1WkdDNkk3Q2ZVLXZNNzFTN0dZQ05Pdl8ycmhITGdMRUtGQVZ2eEJValUwTVNaRmg1dnFwSW5WTUwxTlRTMXpicUtDa3hZa2Ywc3ptc2wzc18xSkVPMFFqNnpOQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ncG44Q1V2MXVzRTNpV3hHRTJWZWlNeUI2VjItdkxiSkRPd00xa21PSTRFOE9TLWsxM2pZbXFTb0x2akVOam9RMVBpbmZZYUw3NU1hRnV3NWktenNfSk9aWWNBSFcwZzlNby04ZXZOcw?oc=5"
     },
     {
-      "title": "川普稱伊朗戰爭可能「很快落幕」 國際油價延續跌勢",
+      "title": "盧比奧稱美國斡旋的俄烏和談首日「富有成效」 呼籲歐洲更多參與",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOODZicHNveHpxVGNETDJOc2FPdUYwYnhrX0xYWlF6eVFuSmxWUzJnMmVfMmUtMUJmMXF1Wll1VFhwZS1hUVI0OXpKei1hX0NqQ2c4cHdiczFtX0VnelZTMWMycU1NTHBfNjNxdVpXNm1XOVM4eE1VdlFveTJaTHJ1czNuX3J5SHpUU0YyRE1GaFU2akd2bzR1dG5QT3dDNDlEcE53QnlLMHp0MHU2X3RIcTJISHY3eVZnTDJfZFlIdmNWLVB4el9fSlNCT2pzX190eXRxTXREQ2V4TlhZbVZZUXVBSjZqcENRd2ZKVWVtTVo0UGNfM3JOaDVyRThMTnQwdkVIUEVNX0p1aWhUUnZYLV82UHdCaDB0U3k5TFNNWVVLRXYzaGRac0xUOWVMd2J5M19kUWFMTDg4ZkxQSk9iVzl5ODNuaXM0anQ1dDE0VGJDczI3T0E3NElzSU4?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOOFUxNjBwM29IYlZ5cFlrMHlQa2JhOHdaYm1oejE3MEJJMXZpRHhvdk95MGhZZmdYTUp3eTdnU3gyOFBxdzZyOVFjYlhaRXdialRnV21WT2xIa216NmxRWXVPcWh3dGhkM1VxLVY5QWR6WWF1LWQ2dmVnMms3UXdGdmhCUGpPMlhtU0MtVGpDaGpNSHYwWjZmMXNFTjRaY3l5czBwcDNtaWpGSUF0eGUtNzJVWEIzUTlIalptbU0zV3NyNVhQd1FGam55a3A5dHptU3hsWGs4YnBKRXRvNlF4N2RNNVdPSjNhdTYxUFdSSFM3eXgteV91UXdkaGItMzhEdHhyRUw2eE16VDZqVlpqd0dsaTN5NlRPVWxzMmM0TEprZ0JqWGFMVmJHczJsSnZDWGJJcjA5VU9yd3ljTS1GbU1OMkVlakJCOFZzUnlRZlNCYW1DcDBqRVRwX1Y5QkRzcmNIX0RTbGV6QzJKS1hBamRsSnBCWFRjSjI2QThRQTlINVBfN0hKUV9HcGxQN2J5LU1uVC0yWk9tTzFoZmttVHViUUk?oc=5"
     },
     {
-      "title": "俄烏戰爭｜美俄烏重啟三方會談 庫什納稱已尋獲化解分歧方法",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQNHZDUmJ5aU9iU0RiOVRzRGJlbTBTOXBkLVNyeGJEdTBjQjdzcE9ET3lsTzh2eWlSNmJFUlliSkUtMXJBVENmdU8ydVZ1YzlycDBkRnJydXJrbThWUkdBS0FUeHhwNG1NSkc4SV82aHpfelN6SHhyTXhFY0VMbmtoQ1RZSl9xbDJMZm1lSk92QVdOWTdCSGtjOW82RnNUcFY3MHpIRlBNWW9ON2oxU2NMRTRKNWcwbXFpVFpxcmdaWXhkTHhRYjdxdml2b3huLXh3UHRGcWc0RUtxTk52ODFzeTBHaDdsZUZQZ3VRR0RaTV9YNU4xeVJkbUs0M3JpYXY0aHNfNmRKbXdseEdJNlc3Yk10OU1GUDAtLVBYdk9pZF9KOWhUcHp4Zi0yRGNyRmJhUlRiRXJUN0xZNEo1cUhKaFFyWGN2VlhLQU9BQTBwM2tOY0htMzlMV05fb3RFUGNqTFZEdzBhUmxnUQ?oc=5"
-    },
-    {
-      "title": "日美外長在法國舉行會談 魯比奧繼續批判國際刑事法院",
+      "title": "美國撤銷藥明康德中國軍企認定",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOVlQwR2dLbmgwVWRnX3RrU0JGTXUta3dQUERKNmtQRXZiaEpQTWdYZFNJQ193S0c4S3RQMHVUVHN5UWJEalFfMGNPNUxEWFd4ODIxR0hKRWw4Z3Bzc2d4QU44RVhhejJHYWd1dlItUmkxeGh3c0JuTzlmYTVUYlVNT0tWRUVKY1FlM1RXc3hvakdJUm5qWVpralJ2VDNmMkJTdFZ5ZTEwcGZSR0UzaklxdmRid3BLbHI3NFlFRjJpd2hKYzdDS0dQSXJWcHNiNWZnbF9US2hEREtiRU5rd2h0ejkyVjBXejM4YkFzV3ZzTUsyMmdLeVZ3N0p2SlprN0l0UXpBUzJCQnYzbXY5MkpQYVNfdUVNSVJYUS1kaG9XdEZRUUtsZVFVeTI1OGNGdFNkS0RJbFpkcExfNENsQk9pUUhxcU43azA3NEdrUWwyODhPSHNCZjYwUGhBdnRwZi1FdE5kZW9kTF82QnMwZHBHaHp3bnFReklEUUp4ZnNVc1o?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWXd5MG1NYWtDY21hM0ZKakY5VDhTUmFDLXA3c3dwMV8zanRNLUhQcW1sNEFwd2NoTTVUbExLVGRTS0pMMGc0eDgzanJmaWpRU3k5Vmx4ckFBUnNXMVhtemhSZnFqSTg4TzNSU0pIVXE3WGc3V0UtVjFSZ2RLYXQtTFQwOHh6MzVPR1BWQ1BEdzlzelo5WWFhSTItd3BrWU4ySHFRNUpwT3hheHVNUVRnNUJTYzhMaWlCMzg2cWNheFpXTUFqY2ZubmNDS29DUkVtTkNKenh2TllaXzJuZ3hXTzRzUlNaOTVZcVEyRElXRjNvUEF3WG5jVzM3YllPUWlRRWR2bkxDSQ?oc=5"
     },
     {
-      "title": "特朗普指各方就結束俄烏衝突存強烈意願 烏方稱應優先停止敵對行動",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPZTc4QWt5Njhmck1LMFJ4aUdveFNIZ2hwU2xQdXMyNEdvX0JEMl9ubmxQYTJZWkJVNHBpeDdlaG85bm8tUnR5Q2c5VzFUM3ZKRTZKNThFY19FT1VzakY4STJCODBVa0lRQ0Nka2tFZWk2LUl6ZTZ0SmZDdUl5VGwtMkpRTnFJRDNsTlAxalc1TU53dG1iRjY0aWszNEVaYzdtMng0UkMyZklVN3ZyZFBmTWNMeW5KcC1HNFdfWGNlNjc2cHZmeEkzcXRUX3pON0RCR0ZNV2hWY3JlYkNVS09EODlIYjlrRk11Wlg5S1J2NGtpaUc0WWs5MnpMREljODZxVzh4ODhpdnhVeXk2RjBQU2lPWVdLVW0xV3BtcEdjaUNIeWEycEo3bFNJUFhWM3Qzc1YyYTRmM09CUzFNT0dycUVCa3VaMzg5VWpzZ0hnNUM5eDEta1NweTJLQnNmMGcyZGlmZVhFZlpiUk5mNzdHSFZ4d3NrSTNkZ1p5d1dqMjJrYlJ1ZU10TGxJQUhaaFUyNlQyWTN0ZkpzZUZHYXRUbnBSYWp5S2hOb01kRUZoaw?oc=5"
+      "title": "美籲俄烏止戰與歐洲安全架構綁定歐洲質疑| 國際焦點| 全球",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xMWxnaTdHbWlBN01mUHM1VGdjWVdqU2lHWVo2X3B5T250ZWxqaHlsazFvU09kZ2ZwZFZlakpDWmF5ck1GLXllaVJsWC0xenpB?oc=5"
     },
     {
-      "title": "AI數據中心為何在美國成為話題？",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51alZ4dHJsUEFlYTgxUmt6TFN6dURwMGE5M2FpS0ZaSmZQd3ZLTlFhU1U0cTRDd3E2eWZjQXV4VVh2aXlVVjRTaWF4RWJmQnNLSlpSZzN6bmtHbG15dnl0c1UyYw?oc=5"
+      "title": "伊朗外長稱美國對伊朗戰事不可能實現任何目標",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZHRTSEVaNVdCVXdYd0llZThvMnlNVm5IRnA4WWxqRlpiSmxscHlNb2hZRE80ckJhLUVBQTNPN2NoRUxlMlZKenB5YzZVcTRSemJVRVdvbklQb2RNWnVTUjRYWWhaRTBSZjJuRGtScw?oc=5"
+    },
+    {
+      "title": "國際｜澤連斯基指歐洲須參與俄烏和談 三方會談聚焦換俘與安全保障",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNcXljQTctNnY0SklHNHdIVW9yVlY4bDBmX19yU0pZc3VXWURuM0FmeWU5TlJTMDVranZLUk40NkxXU2dHdy1ucEVhNVk0NERfTlk4V3V5YmsxaW1hQ2NOTDZ3WXlsMi1SQ0wyVGpGSS05Z3ZjblZtRDkyVmliRTZoOEIxUUs0amh3a2RpUGxiUWxha0M4NlZQcVlFbGZFQWI1ek9VTEJVUDc0TEZmSUk4ZXI1S1hJZFM3UUxUdlhmdlB4ZHdOZ2JRT283bXZLSkJIbVhsZjJmazNNSW02WWJyYlNWUWNUamszTkNCeE5nQUZKWkZZWmVJaURUZUtWY3dNWVVuOUFpbnFReXpIN3RySTdPTEhUT2tFcFE4TkNlc0pILVY3SU40ajJ2NjRud3dMdW45WUFIWGtqUkNHdFp4RnVyM1BOeElodEVCazFkN294VkpsaUtNMjJWUmhpQ1Y4M1VQc3luWUVBcGRLc1NoR0J5SExtLUYxUUUzc0R0d2hpdThlcFdlN08taGZkLWU4QTEtN0hVaklNcDR3SzZnSnY1ME5IeTNGLUx5YUZsWXFEU1JjZzBNTVR6eHo?oc=5"
+    },
+    {
+      "title": "美俄烏三方首日會談結束 俄外長稱局勢不明下俄方不會同意再停火",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15eE9CWTJXVzNyZk9IUmc2RHZWRUktTnZ4UVQ3YlhyUjJWT01XVjhaTl9IenI1aFY1d1pfQkl0OVdwdVdOVm1paFpUZlJUNkpUYVhhQlN6SEZmdTdJd2JTSlZDNTByZDlHd3BHVDAxWQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜英偉達股東集體訴訟 指黃仁勳婚外情披露不足",
+      "title": "更新：通脹報告公布後 美股盤中下跌 債息急升",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQN2tqQzV4VDdkdkFXS0NnM292SktLRUE4YXllM1dIdC1OU09UV1N2WFNDZXFveUltYVFhQkRzdERzTWtEd2hOUjZBQjhaYUtUZFRUVy1rakNCOERJWjYzZTFRdzQtQUhCUGtlYzA2SXJvSW0xZnNwTzFrX214X2IxS20zR2pWeUhxQ2VSNWdsN0haUVR6LXMwbU1zbVkxeG1sUEpmbTBOd09PUEtaX3BqYTZVY1ZCcHA1em5pNHdIVllIZkppSm9mRXhhS19YcmNUSmFsNjg2aHY3eWtkZ2FMTGEwZHo1NkdUeGJwTVhBNHNWSV9TbjdSZlV2VzZHUmZCVm8xUFEyT3ExZTkyY3JnZURsVV91Q01NUngxVkt2UGd0clVLWGNBR292Nm9VcktfUU56RTVUR0hNVEJkUlF3NklUNzMybEMwcXhQOW9ycGQ1LXRlNm5ndnRpM2FKTTh0eHlSNDdJRkk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPQks4ckh1WGUyUGtVbjA4b3VJQUNXZHBPYWppcmx3UzdXQS16VnAxd2QySW00eVFucC1fT3lLcmhGOXB6cmdxbVJ0ZTdMbnB2RFpLckZSS2QzVUhBS1U1RVhTdUFIQ0Z2TDZCZXNNdTJBLVp2MTMwNmhJSE5uZzdaek84bnB3aVFidkJ3YmExTWpiWEdRNDBvdzJNbE1uNUhJSDA3aTE2bjUxalN2dHhOcW9XcmVvZnpKQjdqRW82TGNtc191bmJJakp4TWdncmJ4cEdiVVF5QjhzTjFhTUxWWEZxOGMtQlc5YXV4X2NqcjE2NlBHQ1Y2Vm5mVFpKNWVZeTJFaHRNS1JkcnNJWXBJNkdIckxqb3FPRXlDY3cwMDNjcWV1MzFiRWg4NldISmtDeUVHMmJVbVBvZkNBRndqVFFUUEpuQQ?oc=5"
     },
     {
-      "title": "QQQ期權：市場預期聯儲局將進一步收緊政策，靜待CPI數據出爐 | 期權市場統計",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHJvMFkxQmZnazNxN2xqVGI3ekMtWFZsZk04MTk0YlUtNGVEeTVaWndfbUxySE5JclB6TWlyVjVqV3VPLWhpc1NqNXQ2RUxnUnJXbVd2bFpvcDFERXlxMEFuN3JUTm5WY1doUHBJRHlNemp3a2ZsOVpxdEdWV1RMWEZNVVpaaUJiQnY1TXJfUVJzX2ZqYlZsRWFyczNFQ3NBbnhzSV9MZDlDTk9rSmhfRDd3?oc=5"
-    },
-    {
-      "title": "【展望 2027 系列一】 美債破 40 兆、AI 狂發債！2027 年債市還撐得住嗎？",
-      "source": "MacroMicro",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcDBUTVI4ejdyVGZDYWJmMThyZzBwdEFySkhEdFFMWHYyYkQyR0czMjZjUDZ2aV8zWm80b1FkQm9iSF9XNjFESkxXanhIRHhxeG9zcTNBRGpBaGMzaVRKblhmUDRqNUpOVUFpTU1FT1FwRDl6UFhMVlA4amlSVFBxdEtndWFQWU1JNkYyUnJZcEdKM2ZfREphMkV0ZmZNTlRDZ25peGsyakc3ZVR3aDQwNDVVZnY1bFUtY01qcWhVWTlsSW9LRzJXcWNYVVhlT3FETnY5cXdqMlFzNzdUXzJkekJzN19EOEFIT3JoQkxlb3dIYjJkcnFlVzFIS2VlaEpEZnV1Y1dBOUw?oc=5"
-    },
-    {
-      "title": "沃勒：若美國上月核心CPI按月升0.3%或以上 應加息半厘",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NQXNreGtiQm4zX3dRaDdBSFE4QWFmRGt2QnhEbkpCbGZKbjBwTjJRWFF2Q0I4cVhIZjdkMWdOMGdNeUJidjBGZEZjLXJrYm9nWUlMdi1Bd09odmY4d0ZUcUlmMHdIbEt4Qml3YmRyQQ?oc=5"
-    },
-    {
-      "title": "美股前瞻| 三大股指期貨漲跌不一美聯儲沃勒放鷹12月或加息50個基點美國10月CPI今夜重磅來襲作者智通財經 - Investing.com 香港",
+      "title": "美股異動 | 貴金屬板塊普跌 金田(GFI.US)跌超6% 作者 智通財經 - Investing.com 香港",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UU2x6X2tFamJNUDk2R29NTWdycl94RklLX2NVSGFSRVpiNkVhbTB0QzJLOEhTdGZOeVhtcmxrOE44NVZXVnVEV1B5REtwazJNamNfZkJHNUNhaFdEY0F0NHBadlJVSjQ0aXdEUWJ1MHo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQQjhoTDliX0hPUVlfc25JSmxGZG51Y1JDOG5hMHczbDZ3TXFZTVV5YXNVYUxlVkRyZmZBSHQ0eEVIQjE2a2Rnank5YWNPR3owSU5aU1V6dmhzQTNkdERHZU9XT3kyT2tUN3pTN0JoRzg?oc=5"
     },
     {
-      "title": "美國債市：美債長端走強推動曲線趨平 油價下跌提供支撐",
-      "source": "風火輪傳媒有限公司",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKVHg2U1lvUkRYajVOdmpjS1BVOF92WThOUXNHeWNPcVF2Q3dPUUFwOFVDQS1sWkUxR2lSaUIzQXhEZmZEcExfbzZaemRCa2Z1QXFZQ1VOVUg3UExRcWtpUWZLdnQ4bGRxbW9EdVhMVi15U0xh?oc=5"
+      "title": "美國10月通脹數據略高於預期 鞏固聯儲局下月加息預期",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Sc3dPenpNcUhqU2ZmTFcwLUdaZzlCQWZVSElHcWdPLVpyWVQwZUVVSGp2NHNHR2ZCbENSQVBKQ3Y5T1RXZUs5bTVYVmNHVFRwcWM2N1ozWThhcmlic1BRRjZVaXVsank4RTI0SGpjUQ?oc=5"
+    },
+    {
+      "title": "美國10月CPI增幅超預期 美股期指下挫",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iNDRnZ1hENmQzaHh3QjBTRkFkd0xYWVdRbzVKaVBDWVBtNThSaTI2V09sRHBaTUx2d2h6UWZ5LTlQZHNlZ29ZMW5LZlFFYThTeHlDbWlXQkVzZlJBbWZmOWhR0gFnQVVfeXFMTm1kTnNTclVRaDM0cFhRNk95THREVXg0dEZIbnktZjVsMDQxVnQzSXZOel9uVnBvN05zQ1RaUk9pU2s5eXJyY1FBeVZYNVhwQ01UQkVzREV5SGV4RkM3Rml1OHlGSUN6SQ?oc=5"
+    },
+    {
+      "title": "聯儲局理事鮑曼:AI押注如落空 股市或回調",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNU1RCMmt0TGhjVEtqWFBpTllMSkE1eFdGQWc4ejlrN2JpU2VLRDFfSElvcThWQkd0cUtRekF2WUVTVEhZTHNYR01IVVctQW1nLU9JMzYzWmhrUkNUV3RYTTQ5cmNfSjgtd00wNEtkV3Zoa1pKWGlYVXdTVEdvYjdodHpQV3RnZlZuRGVFTU1YWjJ5ZE8tOWZ1SkJTTUw1eUVZSWZHYzE5OFZ3UEdQS1U3bTlWckFVenJoN2FDZm1ZZHFsLS03ajhmWVB2Uk1YYXZCNUpCTllrRWF2WWlCc2MtMzh0UkJHckJOZm9jM3hKbkthWF9QOTNhSHpBQUlJak1lWFBPS2ZBWEZPRDBiQnVFV2NRWUwtbUx4VklPb18yRWRLSzVxZGxjOFVEdzdpWF9UYnFqTzlnZlRLM1V4dXNrQzRrX3k?oc=5"
+    },
+    {
+      "title": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1obWFCX2c3VGxBeUloUkVsbzdhWXBLOURCWlRBSHZHY3FmVHhmU2xralUwdE5mYS1YQXY3Z09pa0VKS0xhbFlTM2VhUjhNUU0?oc=5"
     }
   ],
   "events": {
