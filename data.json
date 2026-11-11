@@ -1,48 +1,48 @@
 {
-  "updated_at": "2026-11-11 07:15:23",
+  "updated_at": "2026-11-11 16:15:26",
   "gas": {
     "current_label": "11月11日 (現行油價)",
     "current_price": "157.9",
     "predict_label": "11月12日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "156.9",
+    "trend": "↓ 明日預測跌 1.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "俄烏在阿布達比啟動第二日和談 料將重點討論局勢降級措施",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPUFdGQlpmRXJDU1hzZEl5V3pzMnY0MENSaHhzRFFpel9Zekw5UG13a0l4cDRPY2RsSktsNVhhc09hbEZRRDRxWC1ycEh5VGFHaC1iRmx5bGxJdkFidFBvUlZ3QjhWXzRsV2NSbEpoaGNpZnVoTEtEU1hBQk9yZEVKTjdNcW5zUmdhX0RZWHlEMmlZcEFLdUs4U0JOQTU3R2cySURaSXI0MzdiYk1RZ1oyRUJ3Szg2MWJNRXpPUVJLak1XV3M3ekVoVnBvanlrUnh5aW9OYm43eTRNMGdJazZZNXVja1U1QjNCVjI3TUVNTFR0T3B6TWlicVVuZm11ZlNrRXI5UXFLMEdxeklWcXVMa043bkNoaThfR25abW1YNklRQTN4Vnp6eHFjQXZENDVpM3JUanRENHNQenpsSVplVTY3cGVBVl9Fb1lGWDZOUFAtU0R2dDRjOE1tTGNRTTlseVhiTjVva1JuS3ctWkc4bnRsaEpfbFFrM056SlJiQXR2M1pWQnJOOE5MemRzbXlaWXE0cVNvdw?oc=5"
-    },
-    {
-      "title": "中大成功舉辦國際太赫茲/亞毫米波觀測宇宙研討會 匯聚全球頂尖學者 共探天文與深空探測等前沿科學議題",
-      "source": "CUHK Communications and Public Relations Office",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQd1ZKREV4VGpSYTQ2ZG40MnpRYnIyNHJhbERPVGgySThrUWN4UVJZbDZKQTN4NWJpaEgzWlplMGJHdlFrZzdaRU5nQktnSlRsY0NTWjhVdjBfZVM0S2QtZm1zSlNXMXBiVWwyN2pfeFdnMklTRGZIYlc1QTZiODlXQ01Oc0c3akpsOTV4SXBuQzZrbWRCeENLdVZ4WFllM1E3dndfM25UUmVoZmNzQmNMWndQVk5RMVBRemdKMUk5TjQtZDVjU0s4UTNSc19ka2Q3WjFZcXYwdnVqVm15OVRETTItY1ZuN3MycTREcUN0RG1xU01SRHBjYkpzNkVDeGFRTld4dHA5Q0pkS2s0bWU0ekZOSzZqTjBDNkVlajA2WndUWm45TmZmX3JhMU8yYlI5dUJuUWd1cXI2ZnM?oc=5"
-    },
-    {
-      "title": "美國國債：CPI衝擊推動收益率飆升——德意志銀行",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQW5DcEtLLXRSWk1sTkU1ZlBtR1dMYkF2Rk1HbS05OGNtd1NZb0xOMTRwZVFkbjhvMzIzczQ5NWI1X0diZjA5MlZ6M3g2SFN0MnRHajV5cnRJWDcwb3dZNi02cHF4Yk9tbkdMVk1rdkNiTUJfRllSQndLTy13V2VvWk5vWEhfcUpBVUVHZF9wcjRQUlBzRE11VW55Nm1YUFUzUWhaYW5rem03Qkl2QUwzWmJGQ0VtazlIVUF1Vg?oc=5"
-    },
-    {
-      "title": "中國已與150多個國家30多個國際組織簽署共建「一帶一路」合作文件",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPQXgzZjhqVHZ6R2Y1cFB2SmFmWG1CZmxaLVNMZnAyYWF1Zl9wb0JXM1k2cE5PWEJhOFdNdTEwa3lmTWM5ODN2a1NEaS1WVXhjVWpBTURxbWl3b194NEVxZjZfcDhpcEZ5WEVqTlZNNnNrc0VnbE9ycUpDSzR1T3NzdHl6UExYazVpVno0LVpNZFBEWXozVGl3WklYMGFFWFRkX0s5TjZORUhWcUVERlVUWUR0ZHZlSXNnUnlVeGlqNHBkQThwdXFhVm8yRExCNHJNWXpnOEpPSEdBOXhvNVE1UWVGXzFiU1o5MFhRLVlnUElwUVJJdEVwMmVVcXZvNnNJS2ZtZHhfLVV2LXFmS19IcjlkUnNEOWswdE5YY3RlWWpHUmZUU2RuVDJRdkJTMjBXMHM3amkwcW9RTXhKSzNkdkkzRE8tWTNRYXoxM2dEdU5rSXBlRjJVckFiMFdNbVRxYU9zb1llYlcxaDIzd3RZWm5PRjFlaXBOSmFSUldxSjBUTWR6YVVlQ2VpLXRUeXRWU0d0bDJzQktOZFJhT3hPZw?oc=5"
-    },
-    {
-      "title": "2026英雄聯盟全球總決賽冠亞軍決賽｜戴祖儀/林沚羿/彭家賢任主持 附直播時間及賽制內容",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxQdzZoVmxaWlVjX0JaNk5TdEZrV284eFo5eHFaRV9NdkpkdkdTZXJfT3VnZG1tNy1pMFFkeXJST0JyYzNibE1zSDYxVjhrVlBGYnhLMWl4OURfRVlNcjhNM3JhRXU5UmpDbXlMeUE2c05BNHFPRWljOU1CeGRqRHRYVXRlOXQwOEFFZTZEZ2ttSm1hYk5mbXNtVnBiMlZEaWtHZWRQeUJ5dnhiS19mYnhWc0hHUnRESnhYS044c3paaVRSTFBQRjFyUE5JSDlucktpamRtTi1DTmVCMVNjSUVCY1VtMVNGdnVWVWpVbTBfSUJPTGJlbVhFTEFIR0FNZmF3V2gzWmItejlBQ1JPeVZHNjJNdDZrUGNhT0RzeUcxWUFFWG5xaWd0NEFqTWp6OFg4X0xDMFBzSXdzUUlIdDEzbnc1WTJ6V1F1bkVlaXcyZG9mbUFsZHhJLVpZY2FEbjJCQ0dWSVBkSjBCb19hSkVUVzh5eWQ5dWhwcHc1M3pOT1hXNjhmZVgwV1dRbHdXUHpoby1LSF9hdUhOdlA1aHcwdlAyblFuMFoybXRWUFhZVFNsOE5qdXRBeUh6bFQ3T3d4NFdtWGRMNlcwcVNYbW1EbDhKRzhZR1FidnBDNjE3VjRSa2hubnhFRFVGbGY4b0c3M0REMzJiUkpYWW1Nb0NZWGcwU190SU90bl9iMnk2WQ?oc=5"
-    },
-    {
-      "title": "伊朗去信聯合國要求譴責美國懸賞徵集伊核情報",
+      "title": "美俄烏三方會談結束 特朗普女婿及特使將分別晤普京及澤連斯基",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DaEh2RFhLMkhhRTJwaTNINHNqWlV3dkN1eWZaZUhlbkZWVmFJRXplSmVWamRDUXZrRDJqWEFWTVNDMDhaNzBBSEdKaXVEU3d3dWo1ZUxidVQzbDJ5RlZUdmdaUUZabW9GQVM1UUlfcw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzNUg1MXBmTGxVd1MzMDlELUo0Z181eUx5ZDZTLWhHTV9xbGZ0MDY1dWRlejA1bG9LQVlLNzFUX0pYOU1obFJwaTNVTUtZOWprQ2dVZFRrcEY3N01kRGFTUHgzNW9WNmIyNWdsV0ZJaw?oc=5"
     },
     {
-      "title": "俄烏美三方和談重啟：阿布扎比的窗口與紅線",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwY3FjZ0FPSjRRQ3JpZG83S0RqektVclRnWUtZa0pxLXl2dDNJNzBiODdFTkdQTDhzODcwUEROa3VlQUtqR01wVUU5Tk1PY1pEM0hqd1ItV2dTNzFQa05VQ2EtS084ZUxqc3JzRzdUOA?oc=5"
+      "title": "全球經濟指標| 鉅亨網",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
+    },
+    {
+      "title": "洩密數據揭示近百國公民死於俄烏戰爭 人數超過1.1萬",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNcVE4VC1zTkpGcF9vTWotVWV2aTkwU0VZeGJwTG4xQ2ZpTGlTXzRIS0ZwLUtMWFRseVpXVmdKeHBmVHVTMUczUEpMcnV1bHRUdV9lWk1kOUJSR2ZyQjY5bDAzX2dnelFORTlpNzFDb2Q2Sm9QTTRiTzFPVkpKYW5mUWs3ZC1JNDFoREVjZGMxbnFFZ2pHVVZwU1ZQSklKSVQxanBiMjV3UWc4aWd0N3pKVnB5R1FLWTJKZGN6dXRLbVpGNWpta0ZCVXYwbGJDczJhNGd2dWxjYXpKSmNGb01uVDNZcjVueXQtYzZYdUFQR0hKcWVQSVhQLWtvR3dLSldXcnhKMlNXMWN1Z1BZMm1nN3FUNHFQeElybXYtX1Z4WEFxaVlmNVY2bEthTnNaRkJSaHdMcnBleVNnSUZORy1ydzR1VTRmZ2ljQ3VfUlZQWnB5ZlAyQ1RoVDlWSHlrUVdNbENsdVdvNmp5TXM?oc=5"
+    },
+    {
+      "title": "德國智庫發佈全球變暖對策排名 日中分居第58和第56位",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0MVM0R3J6VUpZT2w2UnVVWDUzeUlQRDk2Rnl2YnMtNE1ISnZOd3NaeVN0OWlueWxaakFXNjFEOTFyT1VSYlVzVzRLZndja0dJRHRoZFNBV2w?oc=5"
+    },
+    {
+      "title": "F1宣布中東最後兩站如常舉辦 - 20261112 - 體育",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPbDdrQkhTNDZGSzNBZUpmLWh3SVdQV0NObXktVlNaNklJT0lLV0xkdVQtNTFzcm9ITGJsQlFBR1Fid193bTBONDJDR3FzZkx5MWI0cXZSc21MR1QzYjB5eE0xTnhhbUNKOWpmRGRnMnd5c0JBVHBUMi1YUFZIaGtuWDh6XzdvN2NfSVlJMDZCbVFaT29jQUNnR2dMSDdkazFWSDFoNmRuNzZSalEyYWJ3T3lJc0FiUTV5ckE0UThfQXhWbUs2MTVodHNLODJtMW9mbE9GZ0p4aDVSM2hkZ1lJRmhjM1BJM0EweUt3RE1IcDRPQXBjbHVlWVRtQlNQam96OXNTc0FxQ2IxQ2p4YWZuVjBMdDdpNHh4R2hrZWxaSDQ3dw?oc=5"
+    },
+    {
+      "title": "白宮法律顧問據報去信警告民主黨 指國會調查計劃或涉嫌犯罪",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LYWVoMjJZUGNzZHNLRHFtR0c0WWZmVUdNVi1kUzFsdm5EWHBFS2RZZWwzVHIwUUJHdXN2M05iTVo3STg5WWhydjJpZzlGMDZnSm03MXF1cDlIOFJHZUQtMjFscG9QQ2dnUnNtOWJjNA?oc=5"
+    },
+    {
+      "title": "國際｜美俄烏會談落幕 庫什納轉赴莫斯科晤普京",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNa2hjZTJiUmFEcjBnOGlHMXlaeEt6UVNXQkRGMFY4TExTdlo1V2dqOGhJNHQycFpFbFZ4MHJ4eHRXemUycURJazFScTAxVy1qd2ozdmxlbm85OHR5VmUyTUcxRVZyLXRMZFBZMWkxMGk0eVQ5WW1SX2FoeWtjSTVxNmRoNTNGNXJzRFZHTk1NLVRodmZYWU5rcF9xaC1ES2l5amlYSTRSdTZRVXVyWmxVZDFneTkyakdsX2Q1R2RNdExOcDZodmJkaldBbkxZWVVGTVlJWGw2UW03TVM4STFhU3JzX29NQ09EUGtBeUdtYUk5eTZlOFVXTHlieF9Tb1c1N0ZoSzhmMjVqVEpSMXY3MVhzeHYxdHlTMnItY2VQNzVuY01mNUR1aG5FVDREQXU3SkV5VVlSTUJORndSYmdoNEctRXYyMUdSYnIzVWR4X3k?oc=5"
     }
   ],
   "news_stock": [
@@ -52,29 +52,29 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WZlA1RFIxaURFTWJJdVB0anFILWdYRnZYcXk1OEsyV0F6dG0zUXU1WXJ1R1RWX3MxWDFKM19qZFpuRWg5MnhhSTFRMU9JeU1VVWFxNDJFX3l0dGQ4a01QNkFqMHN4Z0J1WFdTSjA4al94eG5ROVh4X2g4OGZ3d2s?oc=5"
     },
     {
-      "title": "美債跌勢料延續 加息押注升溫或推10年期殖利率破5%",
+      "title": "Sandisk Corporation (SNDK) 股價、新聞、報價和記錄",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQWDFyRzVfcHl4bjFtSTR4dmI2aXp3STAzaUFfT1hjYjF1Y2ZlQ0k3NUFzdzJVRTdRdHJwM3JVc2xCTERjTE96SFIzLTJiZEs4UnpxR0FieDA1Z1lsTVlrRmpzdHp0alJNZy1iZm9Id3h5YzhYTWZsWFRqYlZFdk1NYzZGUU5LemR3dS14cUFIZzNJZTZmeUlMUG16Z0VXWlNqa29JR1dLeHlHdHc2cnJ0dF8zbERQX1VrcGFOSXRsU19OTU9sUU5adnl4UVdFbG5DX1hoWTZDQjgxUXBXb1hIX1AzZE43elY4V2hLUzhfaGVSM3BpeWhrY1drcWdvR2hQcGtVWjduWmNYWVdNa2ZJZ0x1U2VhTWVPRVFGMkEwMTJnTjJFTjBFSDBJZ0E2SEZ3UXhqNFdRLWExaTRycEFCODFCVFNtMEhfeVJDS1BFUmdlcExRSFNuZ1R6ekJzdGs?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EREllWGpnX1ZzUkRIQVZZSU12clU0eGdDZVBwWVdrLTVzakk2QmI2NXd4UkJfNlFoOEFyODNUUjRTdGVSd1ZsLWNlMTRmSlVLNHc?oc=5"
     },
     {
-      "title": "標普500：收益率上升拖累股票——德意志銀行",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTVyQnpOejE3dVM4cjlYdDg1WFAyelUxMVVnYVZYSzMtV19fRXRjY2pFdGgyVDktZEUwMjM3WElxQ2Zkbm5FWk9OV21HZGd2dEdNOXpQX1NaX2lzbGE2RG5UekgwUk1xLVAzMnpvZmF4Q1dYMDAxUUNuVVhfUGl1bmRHcGRLYkpsQVJXTXZVTko1b0x4X3F4SWk3TW5mRnVrRnpGaHZOV2llUFBYYzA4Mg?oc=5"
+      "title": "捕捉美股見底訊號",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWp0Vm9EUmtEM3dTSlZIYzRwWWh5VC1YQUhwem55TGZRNm55TktueGM0dE11QnRwWW5RLVN3a1ZIRDZ3MGg1U1JfamdiRFdDczNQT2dKVkN3aTJvUkdWMUs4RWtlc29QdUZQc3VRdXFhalItY0RIT0lQUmg5Q0dXVFpxWmhXa1JZc3dUelBINUFlYmE0ZDlhdGRtdDFJalAxa2JlbFcwVEdjd21tdzRZZzhzY05NQmM?oc=5"
     },
     {
-      "title": "ETF系列丨5隻美股ETF大比拼 最高20厘息|香港經濟日報",
+      "title": "大行報告 | 標普上調通用汽車及GM金融展望至「正面」",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnZjTmRCWVI4OUdkbkc3UUR2SWtMZmU0OWZjYmUxU2Z0SzB5U1ljTTRKb3pzUkp4MlZ6VjFEOWZ0UUhOZThlaWMxN1RyYkdKZThjdkRrYjBrUUNxZzduaGNsQzhzLVdwbWQtT0t1cWNTdW5xTDZNdUdFcXZ3TnZmbkVJQ2VySVA3SG9CMXZyTTFzZEUxS0c5SFlpcENlTDZW?oc=5"
+    },
+    {
+      "title": "有圖有勢｜AI美股收復失地 HSI未止跌下試23900點（持續更新）|香港經濟日報",
       "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWHVja3NZbGZUMUZURXpUYTRmTkpQaVo2RkJJd0tsbEVsV0w2VUs5cFNDMjdiYWp6ZEItNmtKa3RyamE3OUpoVm9NdGt3ZTZuYmpBS3ZMdmhwMTFmMFhGYkJpNjhFWjgzbG44ekNHdXZNX3RwY1Mwd21XaWJaTG9KdGsza3JoQ28ySzNnV1N5NFpOOXBOWDAwS2dMMFAzNDVIMExaLW1RdWtuQjBMX1RPRks4V2ZqRXpJRUx3d1ZCRUZoZkQwRnpmb2Y0TFZEWmFXZUN3b2hscmtpd3dnUEw5X3N4aUNqZ3ZnYmlMcXVvbFZDZE1uNmgzZ1M2TDJlZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQY1pvdTlQYWdnMkJ3LTJiSjJWNDFNZ0c1WExpUkdtSjE5Vks3NE5PUGh2Q2UxZjJxVTFIZVVIR0tZMHFuTDhZd3BVRi1vdVRnUk04VF94X2ZLeldXNk1jSEM3enllM3FSZjNqZXN1YktpNnBYa0FKcDRzcFRPdmJOcWpGcmswbXlGS1VYRjFiY1RITU15MGFkTFlLY0Z2d0ZfWHVWT05CdHFGM0trTGdKWkFiQ3liVHZxNEJpYm1xczRoc3NDNmswUnFGa2k5a0l1Y3doLVpiU04yWWZ4eG5uTkVCQnZ0dVhqTzZZZGUtMFZ4TWRmRU5FY2MwcUdsV0FuTDJsVmZaRmJ4NnBNWHJJTzZFbG81ZWtWdkl2OXBDUEJFa2NJSHExTDdGM0xVdmZTX3Nra2JORDdjdXZ0UkVHZkFZYnFHall6bzIzeGRrbE4tR3k5emJDTHVNQURnbnZvM20wRTVXZEhNbkUxYmRnQzNHLWtna1k?oc=5"
     },
     {
-      "title": "$標普500指數 (.SPX.US)$ [鏈接: https://snsim.moomoo.com/share/channel/Lh6W5?lang=zh-cn]",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObHdzMG4wclRBYktxYkxyTkYzUGRRQzJwbHpUT2o3T2Q5cV9NQUUzM1QxcUVNbmNXTlRIN2podm10MVNOeU5SdVFXa2FXWldBOXRYLTNBRjJDbER4YVRfYkVvbjRsU2xKNGJYbXgtV0NXS1dKazA1a2M1eFZGZjl4ZHRjczdSZw?oc=5"
-    },
-    {
-      "title": "美股前瞻 | 三大股指期貨齊漲 CoreWeave績後飆漲 芯片股、光通信股盤前走高 作者 智通財經 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YdGtUYksxZ0h0Z3R1M3p5NmRfd3dncG9QRG9aRUlONmhOeTQyRWdIZVBGbFZjZVpnb2F2V1ZaNy13UmM5QjRta1NQWjM5UGhDOHBRWmo4QmM5cmZPbXhEV054ZXhveU84eEptNncwOWw?oc=5"
+      "title": "美股納指造好 道指早段跌逾百點",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRGxfUDh1eWdva2VMV1RfRXdRWmlmTFRxVTRjWml3UWZ0YzJ2dVd1NXdQaEt4YkpDT0pGUWdKcjVMaFRDdHBERXNKWW8zazRxRVVLbkw5NnhhbzgzMEc4OXdCVEJuXzZFdnhQaVAzUEpCVEVmckRqQTNUWU9yS1c3eW1CM3htRDBKWjNqYkhiNjlSNldSNGtHVUlTV2s1SzVNaV9ESHFYWFRvd1FCZzNNZ01zSnk5X1c0Y01FUHhMRmNkOFhQZEo5YlVGOGhyWDFnNG5uMGtSMkk2QWZ0elJfQ29kNUVNbVJkWFlBRVhRSQ?oc=5"
     }
   ],
   "events": {
