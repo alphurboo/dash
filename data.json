@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-10 16:15:24",
+  "updated_at": "2026-11-10 20:41:39",
   "gas": {
     "current_label": "11月10日 (現行油價)",
-    "current_price": "162.9",
+    "current_price": "157.9",
     "predict_label": "11月11日 (明日預測)",
     "predict_price": "157.9",
-    "trend": "↓ 明日預測跌 5.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "澤連斯基稱歐洲應參與旨在結束俄烏戰事的談判",
+      "title": "德國總理：歐盟須將對烏克蘭支持政策全面納入歐盟預算",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ncG44Q1V2MXVzRTNpV3hHRTJWZWlNeUI2VjItdkxiSkRPd00xa21PSTRFOE9TLWsxM2pZbXFTb0x2akVOam9RMVBpbmZZYUw3NU1hRnV3NWktenNfSk9aWWNBSFcwZzlNby04ZXZOcw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zcDNzQWY4Y2Q4enc1VmVmYzdKTDJoTV9XNTJ5RDVVZWFzTzdabmRvc3Y3WXFYUVJaQXdiUERxNkw0UTZlSHdqcmI1N055bmdYSzdYYkZmMkJnUE15TXkxVmJBcHdEcndVaXdrUWdtUQ?oc=5"
     },
     {
-      "title": "盧比奧稱美國斡旋的俄烏和談首日「富有成效」 呼籲歐洲更多參與",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOOFUxNjBwM29IYlZ5cFlrMHlQa2JhOHdaYm1oejE3MEJJMXZpRHhvdk95MGhZZmdYTUp3eTdnU3gyOFBxdzZyOVFjYlhaRXdialRnV21WT2xIa216NmxRWXVPcWh3dGhkM1VxLVY5QWR6WWF1LWQ2dmVnMms3UXdGdmhCUGpPMlhtU0MtVGpDaGpNSHYwWjZmMXNFTjRaY3l5czBwcDNtaWpGSUF0eGUtNzJVWEIzUTlIalptbU0zV3NyNVhQd1FGam55a3A5dHptU3hsWGs4YnBKRXRvNlF4N2RNNVdPSjNhdTYxUFdSSFM3eXgteV91UXdkaGItMzhEdHhyRUw2eE16VDZqVlpqd0dsaTN5NlRPVWxzMmM0TEprZ0JqWGFMVmJHczJsSnZDWGJJcjA5VU9yd3ljTS1GbU1OMkVlakJCOFZzUnlRZlNCYW1DcDBqRVRwX1Y5QkRzcmNIX0RTbGV6QzJKS1hBamRsSnBCWFRjSjI2QThRQTlINVBfN0hKUV9HcGxQN2J5LU1uVC0yWk9tTzFoZmttVHViUUk?oc=5"
+      "title": "「弱勢川普」引發美國經濟新火種",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFlmcEZEMXhSeGZsRHF2QXhBVW45UFh6c1UzSE5xOTBhYXRFT1A1NG9fekJhVjhFNC1aX1I0NE12VkFoS0h5WGxhZXlnVnA3bTFwWUl0NWlaRHVrTE92Wlg3aGYyUVlaWDZfYV90emZWVlFBNGlzVUVrZjJra2dKM21MWWQ?oc=5"
     },
     {
-      "title": "美國撤銷藥明康德中國軍企認定",
+      "title": "要聞分析 - 俄烏談判 仲裁者偏袒？ 前景不樂觀",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWXd5MG1NYWtDY21hM0ZKakY5VDhTUmFDLXA3c3dwMV8zanRNLUhQcW1sNEFwd2NoTTVUbExLVGRTS0pMMGc0eDgzanJmaWpRU3k5Vmx4ckFBUnNXMVhtemhSZnFqSTg4TzNSU0pIVXE3WGc3V0UtVjFSZ2RLYXQtTFQwOHh6MzVPR1BWQ1BEdzlzelo5WWFhSTItd3BrWU4ySHFRNUpwT3hheHVNUVRnNUJTYzhMaWlCMzg2cWNheFpXTUFqY2ZubmNDS29DUkVtTkNKenh2TllaXzJuZ3hXTzRzUlNaOTVZcVEyRElXRjNvUEF3WG5jVzM3YllPUWlRRWR2bkxDSQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNak50NEtxZnFrOEktR1Jydk1iNWxmWkF1QlAxLUpxLXRrVWJzY2ZLRWRXU2RRbkVyc3hkbVNaNzNZYUIzN2pJWmo5YWwxdUEtQU9vRi1VT3JCdFM4YkFOWm05NGE5c2lGLXBFMGxoNmlvMGYtUlJpZURmM3FCaHg1dmJHTm04R2o4cE83RzhWM0ZaSk5ON1FPZTdlejBtQVp6TWV1S0E3LTF1cy1aV19MMjlOOEx6SGxOSVdXb2VDMG1pMzFLUThwQXRaLTczVk5jbDVEZklTSlBuVkJvemQtSEtDRHJyMW5PVUQ0djJFbnNpZVE0TkM1NnE4YjNKT0NMWWFpWnBlTWZZR2FuMHEzRUlzUVVxOVZJMHZ1a0NiamZ6ZUlGUHV1cDB4OUZRRzkyS2pmUGFSOGw0N2VyQlNzOC1JNURPUnFrTTdnalpaY2NnR3M?oc=5"
     },
     {
-      "title": "美籲俄烏止戰與歐洲安全架構綁定歐洲質疑| 國際焦點| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xMWxnaTdHbWlBN01mUHM1VGdjWVdqU2lHWVo2X3B5T250ZWxqaHlsazFvU09kZ2ZwZFZlakpDWmF5ck1GLXllaVJsWC0xenpB?oc=5"
+      "title": "美國CPI總體數據沒有告訴你的通脹真相",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0NfTWtEMW82UHdTY2RGS2hzN3dxZGwzc2FiR3dsRnJUMVlFMTRVcXNyMG1zaUNRQmpPb3lMLVNFWlc2Um0wblVMMVlYM0dRR0RhSkxUUnB6c01HeERBdjE1eVRkaUduaFhwT1lkQVNZSzBsZTBzeTFoRHZqRnFMT2txQk8xNkFIaU1XS1o3cXp6cVQ5RVdrdE9hbkJINEhlRWJZQk54VzAtMUFsN2RnbGVGdWs?oc=5"
     },
     {
-      "title": "伊朗外長稱美國對伊朗戰事不可能實現任何目標",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZHRTSEVaNVdCVXdYd0llZThvMnlNVm5IRnA4WWxqRlpiSmxscHlNb2hZRE80ckJhLUVBQTNPN2NoRUxlMlZKenB5YzZVcTRSemJVRVdvbklQb2RNWnVTUjRYWWhaRTBSZjJuRGtScw?oc=5"
+      "title": "國際油價下跌 布蘭特期油一度跌穿90美元",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQVC0zaEttVkZ0ZzlmeUxiS1RnNlk2c21JeWFxU3VueUlDSGFrSUw2cTJCWkpiTW9kNElVR1ZQRmI3aS0zU1NtUkV4RUlMeWVIS0tWYnBLNnAzUldPeURiVExRNTROLTZodlhJZlZEUXk4X2toaDlVRjFZZ2U5MGJoakdPeGRWQTAwRWlnZTRCbzFFTV9IazUzWU92VEpqOGJnYmptcGpQZm5xOWdvRUI5clNQMEE1U3ZJeWxaVjJXQTB3M1UxLWRGeDZwSWtlZHljYmthRHNaLURxVEo1TDNQbUo3Vm8tNTVlQXRhd253ZVV5WUFWMVNhSGY4RTVsWEVQVExLMHRQQk5wZjM0cENoZVJpd296Rm4xRkxyRlhFcGwtSzc1bjJDWDc5WmczWkN2VVpyQTFGZ0hhLTZjRGR3aFp1YkZMU3c?oc=5"
     },
     {
-      "title": "國際｜澤連斯基指歐洲須參與俄烏和談 三方會談聚焦換俘與安全保障",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNcXljQTctNnY0SklHNHdIVW9yVlY4bDBmX19yU0pZc3VXWURuM0FmeWU5TlJTMDVranZLUk40NkxXU2dHdy1ucEVhNVk0NERfTlk4V3V5YmsxaW1hQ2NOTDZ3WXlsMi1SQ0wyVGpGSS05Z3ZjblZtRDkyVmliRTZoOEIxUUs0amh3a2RpUGxiUWxha0M4NlZQcVlFbGZFQWI1ek9VTEJVUDc0TEZmSUk4ZXI1S1hJZFM3UUxUdlhmdlB4ZHdOZ2JRT283bXZLSkJIbVhsZjJmazNNSW02WWJyYlNWUWNUamszTkNCeE5nQUZKWkZZWmVJaURUZUtWY3dNWVVuOUFpbnFReXpIN3RySTdPTEhUT2tFcFE4TkNlc0pILVY3SU40ajJ2NjRud3dMdW45WUFIWGtqUkNHdFp4RnVyM1BOeElodEVCazFkN294VkpsaUtNMjJWUmhpQ1Y4M1VQc3luWUVBcGRLc1NoR0J5SExtLUYxUUUzc0R0d2hpdThlcFdlN08taGZkLWU4QTEtN0hVaklNcDR3SzZnSnY1ME5IeTNGLUx5YUZsWXFEU1JjZzBNTVR6eHo?oc=5"
+      "title": "美國陸軍軍官涉助俄羅斯情報機關在英被捕",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQMHVtaXRXcnpjaDBmY2s1YnFiZGczWVZlNEItYm81alp3dUwwUDgyaHJ1OGV0SHZTR2lwSW56VlI2Ujk3SEp1SGVVYzQ1TGNHRFRXRFdYeFhMcERWb0VMbXEwR3FXTHQ2ZkdxVURaUzVNRHl3anU5Q0ZFVHVGVmZtVzNsSmFyTHR1akF1RXdNSEhHN0tZaGNpUlJMeE9ROEpnNy1neXYwTlJwMjlsQmh0OFpTZ2MtVFJkU04zSy0xbkxRR0RsTE1YOFhjaE8xVzRIX3dQZUVrSnI5QzZRc3JTT3dJMk5yeE5Uc09hbnhZMlkzcmpfU0FkbVd0Zy1YbERQTmpiQ0R2R0NSZU1FdnN4QWN5dDh3RXViOURDaElvckozeVdKYm93a29acw?oc=5"
     },
     {
-      "title": "美俄烏三方首日會談結束 俄外長稱局勢不明下俄方不會同意再停火",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15eE9CWTJXVzNyZk9IUmc2RHZWRUktTnZ4UVQ3YlhyUjJWT01XVjhaTl9IenI1aFY1d1pfQkl0OVdwdVdOVm1paFpUZlJUNkpUYVhhQlN6SEZmdTdJd2JTSlZDNTByZDlHd3BHVDAxWQ?oc=5"
+      "title": "英國警方拘美國陸軍高級士兵涉助俄收集情報",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BNWtCdGM4YWNzdjhnU0N2RE05VHBhaHc1bzhuSzlTZnlvV19NZ29nRmRSeUs2cThDYTNQaEZOb0VUd0x5cWZqZktJLXpzQm4wd0dOVXp5VHZYX0dDcm1iekpJbWdZV1B5TVNDSg?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "更新：通脹報告公布後 美股盤中下跌 債息急升",
+      "title": "美股｜Coreweave上季收入飆1.68倍 阿里「平頭哥」擬港上市籌最多30億美元",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPQks4ckh1WGUyUGtVbjA4b3VJQUNXZHBPYWppcmx3UzdXQS16VnAxd2QySW00eVFucC1fT3lLcmhGOXB6cmdxbVJ0ZTdMbnB2RFpLckZSS2QzVUhBS1U1RVhTdUFIQ0Z2TDZCZXNNdTJBLVp2MTMwNmhJSE5uZzdaek84bnB3aVFidkJ3YmExTWpiWEdRNDBvdzJNbE1uNUhJSDA3aTE2bjUxalN2dHhOcW9XcmVvZnpKQjdqRW82TGNtc191bmJJakp4TWdncmJ4cEdiVVF5QjhzTjFhTUxWWEZxOGMtQlc5YXV4X2NqcjE2NlBHQ1Y2Vm5mVFpKNWVZeTJFaHRNS1JkcnNJWXBJNkdIckxqb3FPRXlDY3cwMDNjcWV1MzFiRWg4NldISmtDeUVHMmJVbVBvZkNBRndqVFFUUEpuQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNG16OFlSVlZCMWxjYnVDN1FmMzJ6X3JNRVZ3Z2RuYUdpSkZSRU5tUU11T0ktMjVWdE1qaDI2ZFktSDlaa3R6SzhxenJ1Wk5SZG1LNVFrVlcydkZTd2xaNTBYOHl1ME9xdGRCMEdEVUQ1YV9iYnAzXzUxSGdza3I1TG94ODFNLXdNNlg5S1U5RnRRZE0xOEdQeGQzU3doWjdlLWVEY1pYeHF5MkpBM2RXYmYyVFB2NnV5RjZ1RHFCeUtGWGctUE1GcFozNHlUbnh5YnBVSXVNLVhkblRENmg1WkxhNmtpWGRXVk9WTDhLZXhlWi1WOUFmT0xEekVXU1ZDT05RR3JPUkk4cjZQM2lJ?oc=5"
     },
     {
-      "title": "美股異動 | 貴金屬板塊普跌 金田(GFI.US)跌超6% 作者 智通財經 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQQjhoTDliX0hPUVlfc25JSmxGZG51Y1JDOG5hMHczbDZ3TXFZTVV5YXNVYUxlVkRyZmZBSHQ0eEVIQjE2a2Rnank5YWNPR3owSU5aU1V6dmhzQTNkdERHZU9XT3kyT2tUN3pTN0JoRzg?oc=5"
-    },
-    {
-      "title": "美國10月通脹數據略高於預期 鞏固聯儲局下月加息預期",
+      "title": "聯儲局官員關注通脹數據 未來可能逐步加息",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Sc3dPenpNcUhqU2ZmTFcwLUdaZzlCQWZVSElHcWdPLVpyWVQwZUVVSGp2NHNHR2ZCbENSQVBKQ3Y5T1RXZUs5bTVYVmNHVFRwcWM2N1ozWThhcmlic1BRRjZVaXVsank4RTI0SGpjUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MUGppaXBKdEhpMjN5dUVDdkhMSi0xeWJId1RTQVYxSkdWSm1iV013TndzSjhELWswdVNFa3V5MmhyWVE2Wi1BUmNxQzFPaEMxTlptbFc4X2RQTV9Yem1WTm93WkNiaUFPc09RbDljWQ?oc=5"
     },
     {
-      "title": "美國10月CPI增幅超預期 美股期指下挫",
-      "source": "世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iNDRnZ1hENmQzaHh3QjBTRkFkd0xYWVdRbzVKaVBDWVBtNThSaTI2V09sRHBaTUx2d2h6UWZ5LTlQZHNlZ29ZMW5LZlFFYThTeHlDbWlXQkVzZlJBbWZmOWhR0gFnQVVfeXFMTm1kTnNTclVRaDM0cFhRNk95THREVXg0dEZIbnktZjVsMDQxVnQzSXZOel9uVnBvN05zQ1RaUk9pU2s5eXJyY1FBeVZYNVhwQ01UQkVzREV5SGV4RkM3Rml1OHlGSUN6SQ?oc=5"
+      "title": "美股收盤／四大指數收低 輝達再跌5%拖累科技股 CPI數據推高升息預期",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92dXFlYjdYazFsZHNMYnk3WTZxai1pRG9uaU9UZTd5YVBPNnQxa2wxWEJISmtPdk1EUlpnQUJvR0ZKQWRYUklsYjJSNXFCYUVvbmxDZ1hSbzQxX0FT0gFiQVVfeXFMTjVhdUtTdGlLd1Zpd0owVG1BaEE2YzBJRTdfSF85cUk3OXVIaWVDSHFuWkE1VjNncU1abjUxR0JUVHhVMm0tLVBBRTVrT0xVV2ZDU2p3S21ZaXZjQ2lUSmlJTVE?oc=5"
     },
     {
-      "title": "聯儲局理事鮑曼:AI押注如落空 股市或回調",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNU1RCMmt0TGhjVEtqWFBpTllMSkE1eFdGQWc4ejlrN2JpU2VLRDFfSElvcThWQkd0cUtRekF2WUVTVEhZTHNYR01IVVctQW1nLU9JMzYzWmhrUkNUV3RYTTQ5cmNfSjgtd00wNEtkV3Zoa1pKWGlYVXdTVEdvYjdodHpQV3RnZlZuRGVFTU1YWjJ5ZE8tOWZ1SkJTTUw1eUVZSWZHYzE5OFZ3UEdQS1U3bTlWckFVenJoN2FDZm1ZZHFsLS03ajhmWVB2Uk1YYXZCNUpCTllrRWF2WWlCc2MtMzh0UkJHckJOZm9jM3hKbkthWF9QOTNhSHpBQUlJak1lWFBPS2ZBWEZPRDBiQnVFV2NRWUwtbUx4VklPb18yRWRLSzVxZGxjOFVEdzdpWF9UYnFqTzlnZlRLM1V4dXNrQzRrX3k?oc=5"
+      "title": "開市Go | 聯儲局官員接連放鷹，Anthropic招股規模或超SpaceX，周大福企業尋貸50億元",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3IydWJXZ0tSODhPYmEyc3RDSEowYXRTZlFqY2NoZnptRHYwblZSakFDMkVVLWZtODdqZkpkMlN5bU5PSkE0dFJVMzh4Tl9ueGlPYVRFcVhnOFJzYlc5aTN3T25EYjhEaU01bGxBanFZNy1yQlIwQjd5dmFXb3ZnaWgwSE1tVzN4dnRXRHA2UGtYN0VQ?oc=5"
     },
     {
-      "title": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1obWFCX2c3VGxBeUloUkVsbzdhWXBLOURCWlRBSHZHY3FmVHhmU2xralUwdE5mYS1YQXY3Z09pa0VKS0xhbFlTM2VhUjhNUU0?oc=5"
+      "title": "市場觀察 | 英偉達進一步落後於同行：華爾街是否正在失去信心？",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXJCMWhXem1uX0o2NXJhUGV1VzZMeVFteXNsckhOTk9MZTAyc3phVkIySzAwMUpOZFNxdHJxZW4yQlI0Y1FGUnhBTEFQaHE4djVGLVFsR3Roa0lBSDZHaGFDdWctUEdYa2RNaHZtQTVoRFdjUGpneGEzbGlnb3EzSXNUQWVqWWkxVnhSMGI1emJua0diT3pzZjk2WHdyUjB2b19aT2lhdU5YVUNBZW5VNTJiUUh2NGs?oc=5"
+    },
+    {
+      "title": "美股期貨小幅走高，此前華爾街因CPI數據超預期及英偉達下跌而收低 作者 Investing.com - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2S2stQnRUcEFDbTY4ZWNNYWhEcWczLWUxdDlOZnliQ2hDbnhMVmItV2lTZzRHMnZ0S2lhdmoyRnlUdjJsSUVGYlhoMHhiaWRLVEN5bTlCYUF0ZmRoQWVhaDJEMk82Qkx0VDdLTWFVVzI?oc=5"
     }
   ],
   "events": {
