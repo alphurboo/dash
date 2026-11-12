@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-11 16:15:26",
+  "updated_at": "2026-11-11 21:40:24",
   "gas": {
     "current_label": "11月11日 (現行油價)",
-    "current_price": "157.9",
+    "current_price": "156.9",
     "predict_label": "11月12日 (明日預測)",
     "predict_price": "156.9",
-    "trend": "↓ 明日預測跌 1.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美俄烏三方會談結束 特朗普女婿及特使將分別晤普京及澤連斯基",
+      "title": "深圳APEC｜金融服務業界料APEC會議助深圳加速國際化",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzNUg1MXBmTGxVd1MzMDlELUo0Z181eUx5ZDZTLWhHTV9xbGZ0MDY1dWRlejA1bG9LQVlLNzFUX0pYOU1obFJwaTNVTUtZOWprQ2dVZFRrcEY3N01kRGFTUHgzNW9WNmIyNWdsV0ZJaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kcFA0MHpqVTNtd2dPTWQxSEVUMW45c2dPVnhYLVpRWjlSck9vMTRDVEJHSDh6dHpENldlNnFWZGVUSUhpSUxTX3plVkZJV2pmMUlvQnZPbi1OZ1JrTERfRlFFZ1A2WWN0V09JaUtIWQ?oc=5"
     },
     {
-      "title": "全球經濟指標| 鉅亨網",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
+      "title": "黃仁勳出軌公信力受重挫：一場可能衝擊全球地緣政治的婚外情",
+      "source": "HK01",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOZzJNZUVJYXFGVkpzWWVrWl9XdndGblhiNnJHWkdzdk40Q3NaWnBtYVVHbVB0STRMWnRsUEozOHFXcUZGTlFQWldOeUVnZGI3ZVlXQml5Uk1sQUFfVmNsZmFiY1JEd1VTblZXbzNXclRoX3NWaDlkaGpic2VnN0dmbk5hd2d1a2x2TEZzWDhweEhvZUo1TkowQnQyTmZ5eXcxbGtaV1ZaM0RPbWtQLVdVS1JFV2Y3bWtsR25VZFBQN2ZtSGFYUFpYRVl2eEp5eWdzMVhodktleVAtOE52a2pMVVd4VENZQW5zb2lmTUdfNVRMS3d1UWlqOXVZUnVkYlY1V0d4NTFraERfdzhBZWVTS241cTBSQzZlU3E0SGRTMEFsMFJfZXBxZ2xVSmlMZHJRZ2JoUXp0Z3NEaVBXQkxPa2QzdUJJNmF3ZVFPMU82akhPZFM5Z2U1Rk9zakc0Y3FWRXlreUZDRVFzN29iXzdJTUoxUU0xbmlBTS0xNW9QTGRBT2ZNbW1YSDBtUERfVlpYcXpNQkh5V2xoUnJ3SGwtOHM2alV4dGFaUTItbFpTQ21pM1laak15bTZVMA?oc=5"
     },
     {
-      "title": "洩密數據揭示近百國公民死於俄烏戰爭 人數超過1.1萬",
+      "title": "讓貿易成為促進全球發展繁榮的普惠引擎（國際論壇） --新聞報道-中國共產黨新聞網",
+      "source": "共产党新闻网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FejJGd1BZNGE5aTE2ck5tWmpyMFRvUGtCMkFoenRIYTExc2poN2pSSW1aNlYwTVhJcFBKSk1zanFGQXZCdmdZcHk0ZHY1dW5Wb3BXMFJrZjR2SmRjc21EaHlWUGRseWotSnV6ZmkxRUw?oc=5"
+    },
+    {
+      "title": "法國世界報 - 波蘭政治舞台激進化，歐盟密切關注",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNZnZLSmc3RXp3bzBaZ3hFZUEzZ21kZkM0Rmp0MnBBeUhBYmtpRGgzY3ZIaTdIUDdDT2FSWXVDYi1KMWd5VjY2UnpTOTZlWDNLeldCbkEtT0xjSWhPalN1TTNtUm5YcVdkcEpnbzgtY25lM0drYjVtU01pbm8yNTU1ck1tankwZC03cWY0b19IX05BU21CdmlCVGk1R2JNbHRoc05wUEFqVGpNTjdOVFJvS04zV2hIanliYXVNUTlxcHF0M1RfdERBeHM3SVVNRmJXaHFWdXBneTdkaTJqZ1ZpUi1MVG9lN1JWSmNXRHlqOERSTi10SW5RMThGMnpQX3lkVFZJX2JibW56T0FlQmhVMVBkdFNOa2ZTbUU1dGY2N2NWOXhtRHMxTWRtRHVnN3RfdU9ONkNfeWlxV2NqUFdBZ0ZDXzZrZ1pRUFQwMTEzU0tVVEF0T2F5OWtyNUN5a3JJU3RITjhNc00zdUpWeUJCLVVPWGg?oc=5"
+    },
+    {
+      "title": "美國長期國債上漲 輝達風波令風險情緒受挫",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNcVE4VC1zTkpGcF9vTWotVWV2aTkwU0VZeGJwTG4xQ2ZpTGlTXzRIS0ZwLUtMWFRseVpXVmdKeHBmVHVTMUczUEpMcnV1bHRUdV9lWk1kOUJSR2ZyQjY5bDAzX2dnelFORTlpNzFDb2Q2Sm9QTTRiTzFPVkpKYW5mUWs3ZC1JNDFoREVjZGMxbnFFZ2pHVVZwU1ZQSklKSVQxanBiMjV3UWc4aWd0N3pKVnB5R1FLWTJKZGN6dXRLbVpGNWpta0ZCVXYwbGJDczJhNGd2dWxjYXpKSmNGb01uVDNZcjVueXQtYzZYdUFQR0hKcWVQSVhQLWtvR3dLSldXcnhKMlNXMWN1Z1BZMm1nN3FUNHFQeElybXYtX1Z4WEFxaVlmNVY2bEthTnNaRkJSaHdMcnBleVNnSUZORy1ydzR1VTRmZ2ljQ3VfUlZQWnB5ZlAyQ1RoVDlWSHlrUVdNbENsdVdvNmp5TXM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMXdJOEg3bVEyZ1BZelRlY1ZoZjVlbklXSVBNOElqNmdNYUFrbXdBMGNNWFUtZF82aUlUYk9nUFdXMjNuVjBOYTFZeUhCWWZ2VklkeE9wcjVMaG9FUGlwRWRnalo4MDctOHhOdE9fQk9kYmtjMUg3TzFwZEpQcGxyNzdsaWNoVGcyUG9TU1RmbDZYTjlpZDcwTGVJMUJTdGxmOXIyM1AwbWJRTWQ2eThZVFphMmowVFRhVm5XSDFFUGZkakJmeGxWQmtWVHdVOVVXanQ4VThnYUVGSGpWc0xfOEZvdmZzRWY3MWoteXJKWnNwbUtKRWJnWHppZ1pnOFBvLXZwcmtaUC11eXlwOU9QWTdSd0kzNTJhVUNUSW93QXMwUWxLbjdscEJvRTI3dXBkYTlGQ2FEbHI2OU1fQ09NRHdGcw?oc=5"
     },
     {
-      "title": "德國智庫發佈全球變暖對策排名 日中分居第58和第56位",
-      "source": "共同網",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0MVM0R3J6VUpZT2w2UnVVWDUzeUlQRDk2Rnl2YnMtNE1ISnZOd3NaeVN0OWlueWxaakFXNjFEOTFyT1VSYlVzVzRLZndja0dJRHRoZFNBV2w?oc=5"
+      "title": "中期選舉一週後，美國AI行情出現分化",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY09oaDB3amNVQjVxai1YWlNYRW9tUmVFUU5KM0cxWGZLSFBrTkJvSHROT2hyN2V2bXlpcVVaRHB4eDVfVUFUY0F3UE5GLTZkOVpjaU5RSmJvQVJRSkpYS1diYUxfUHZFTHdaNW5SNUZKVXBGdWJIT1c1WkVMOTljdjRDSTdPSGZiOUUw?oc=5"
     },
     {
-      "title": "F1宣布中東最後兩站如常舉辦 - 20261112 - 體育",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPbDdrQkhTNDZGSzNBZUpmLWh3SVdQV0NObXktVlNaNklJT0lLV0xkdVQtNTFzcm9ITGJsQlFBR1Fid193bTBONDJDR3FzZkx5MWI0cXZSc21MR1QzYjB5eE0xTnhhbUNKOWpmRGRnMnd5c0JBVHBUMi1YUFZIaGtuWDh6XzdvN2NfSVlJMDZCbVFaT29jQUNnR2dMSDdkazFWSDFoNmRuNzZSalEyYWJ3T3lJc0FiUTV5ckE0UThfQXhWbUs2MTVodHNLODJtMW9mbE9GZ0p4aDVSM2hkZ1lJRmhjM1BJM0EweUt3RE1IcDRPQXBjbHVlWVRtQlNQam96OXNTc0FxQ2IxQ2p4YWZuVjBMdDdpNHh4R2hrZWxaSDQ3dw?oc=5"
-    },
-    {
-      "title": "白宮法律顧問據報去信警告民主黨 指國會調查計劃或涉嫌犯罪",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LYWVoMjJZUGNzZHNLRHFtR0c0WWZmVUdNVi1kUzFsdm5EWHBFS2RZZWwzVHIwUUJHdXN2M05iTVo3STg5WWhydjJpZzlGMDZnSm03MXF1cDlIOFJHZUQtMjFscG9QQ2dnUnNtOWJjNA?oc=5"
-    },
-    {
-      "title": "國際｜美俄烏會談落幕 庫什納轉赴莫斯科晤普京",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNa2hjZTJiUmFEcjBnOGlHMXlaeEt6UVNXQkRGMFY4TExTdlo1V2dqOGhJNHQycFpFbFZ4MHJ4eHRXemUycURJazFScTAxVy1qd2ozdmxlbm85OHR5VmUyTUcxRVZyLXRMZFBZMWkxMGk0eVQ5WW1SX2FoeWtjSTVxNmRoNTNGNXJzRFZHTk1NLVRodmZYWU5rcF9xaC1ES2l5amlYSTRSdTZRVXVyWmxVZDFneTkyakdsX2Q1R2RNdExOcDZodmJkaldBbkxZWVVGTVlJWGw2UW03TVM4STFhU3JzX29NQ09EUGtBeUdtYUk5eTZlOFVXTHlieF9Tb1c1N0ZoSzhmMjVqVEpSMXY3MVhzeHYxdHlTMnItY2VQNzVuY01mNUR1aG5FVDREQXU3SkV5VVlSTUJORndSYmdoNEctRXYyMUdSYnIzVWR4X3k?oc=5"
+      "title": "歐洲企業2030年面臨挑戰？中國歐盟商會主席：不如融入中國供應鏈",
+      "source": "HK01",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNRXJ6aXlGcFBmTzZqOUVvMjBFLUtIbFBMT2wydy1IcHhESlNPLW15d0dNeXk1ZnM1MXBzTk5OUHAwYi1WQk5YTTBhaklCLWpVT1dKckQwZkZMbGNfUjF5ZlNXa1J5X0N5c216QlM4VzFmOTNueHNubHlza1QwUmFmS1B2d3AzMlZ5TFVmYVcwRUxoVHZVWjVvTnJIdzV0ZnRlVF9rY09iOV9iMDJKVVdlZmdOeXpTQWdkNHBDMmlqTmlUNlV1QWEyY1hXQ2J2MzhLd0szd084N3czN2l0Q28tLUxjMGJTcTBhS0FlR2N1ZW5xcDQtTC1UdzBDam9yd1gzWlVSczZ4VHhJdGZuRHRYLXd5ekY0R0lUU2NpSFktRHNOVkx3MlpDX3V0Z183LTBxTlBrdDl3TWNOLVNYMnlMVFY3RmxkUEkxYkNmVjNuRkZVdzFDem56UHpXQ200cGI4ZllTcTlpcDdXT1NCLWVSRzBLQ3M4S3RhdElyalpFVlRncGx5Uld5Y1M4V25kaFhvM0xqb1ZFU2RnV3JZZDExRXdNM3l6RFN3UWZISXNSMUktUHVyNWc?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美國股市轉向：科技股回檔、資金轉向，納斯達克100如何布局？",
-      "source": "CME Group",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WZlA1RFIxaURFTWJJdVB0anFILWdYRnZYcXk1OEsyV0F6dG0zUXU1WXJ1R1RWX3MxWDFKM19qZFpuRWg5MnhhSTFRMU9JeU1VVWFxNDJFX3l0dGQ4a01QNkFqMHN4Z0J1WFdTSjA4al94eG5ROVh4X2g4OGZ3d2s?oc=5"
+      "title": "科技股越跌越能買？操盤科技基金逾10年老將揭「超底」關鍵",
+      "source": "鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbjY1cFlwVFBOQzRMQ2FsY1d2OWlsREpXTnpKMm9XOFJ5azl1YXFwUlpIeUJfd1JxdzRiczlJd181bWY4bmlWajhjUGZuNXg0RS1ReTQzMGtTU09rdXBhUWNBRnV0akZfQ19QM2N2eFdfVEFwM19fZUluQjdFX1RlOEVWbHFWdFE?oc=5"
     },
     {
-      "title": "Sandisk Corporation (SNDK) 股價、新聞、報價和記錄",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EREllWGpnX1ZzUkRIQVZZSU12clU0eGdDZVBwWVdrLTVzakk2QmI2NXd4UkJfNlFoOEFyODNUUjRTdGVSd1ZsLWNlMTRmSlVLNHc?oc=5"
+      "title": "🤖📈儘管利率擔憂揮之不去，人工智能樂觀情緒仍重振華爾街",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFdvX1lPMjJqelc2REYzTkFFbURzSDY1MHhNcGZlTENWRXM3dDVsYzJwMHlaNlNFa2RiZDNUalZySWZfSGlKcGVXbkJTVi00ekhhckpsUW1wdEw2U2RxNWxLTTVxZ09qY1lhNDZ3QlhkaHFkZjNIM0R2M3FDdnhUd3JjeXhkRVluelZ2TjVENkJPVThHZDI5OEZDMm1ONHBzMDViVzZ3M0YtQTYtUlVYZW5oeUFpZ05EeW81aWxNdw?oc=5"
     },
     {
-      "title": "捕捉美股見底訊號",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWp0Vm9EUmtEM3dTSlZIYzRwWWh5VC1YQUhwem55TGZRNm55TktueGM0dE11QnRwWW5RLVN3a1ZIRDZ3MGg1U1JfamdiRFdDczNQT2dKVkN3aTJvUkdWMUs4RWtlc29QdUZQc3VRdXFhalItY0RIT0lQUmg5Q0dXVFpxWmhXa1JZc3dUelBINUFlYmE0ZDlhdGRtdDFJalAxa2JlbFcwVEdjd21tdzRZZzhzY05NQmM?oc=5"
-    },
-    {
-      "title": "大行報告 | 標普上調通用汽車及GM金融展望至「正面」",
+      "title": "美股 | 道指升254點，CoreWeave績佳飆24%，帶動納指升1.6%，日圓曾跌至近160重要關口",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnZjTmRCWVI4OUdkbkc3UUR2SWtMZmU0OWZjYmUxU2Z0SzB5U1ljTTRKb3pzUkp4MlZ6VjFEOWZ0UUhOZThlaWMxN1RyYkdKZThjdkRrYjBrUUNxZzduaGNsQzhzLVdwbWQtT0t1cWNTdW5xTDZNdUdFcXZ3TnZmbkVJQ2VySVA3SG9CMXZyTTFzZEUxS0c5SFlpcENlTDZW?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGFZUTJ3YkdQOWRydHZZaDdrd1FOSkNpb1RmS1NoTjJDYWJtaVptOXZocU1feHgzeW8yVkZmd01tUTByRWJ3bXFhQkFjS2ZZMzB6ekc3RmRuRW5JQjNsbVRIOTg1QWFyUmRKOVdfUldaVUs1cnUzdnpWdDhfejZPUENkb2MtWUw3SUVHdDJYdDZqa3ZveUVZbEpvazRuSU80d0JkS2JmSWc?oc=5"
     },
     {
-      "title": "有圖有勢｜AI美股收復失地 HSI未止跌下試23900點（持續更新）|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQY1pvdTlQYWdnMkJ3LTJiSjJWNDFNZ0c1WExpUkdtSjE5Vks3NE5PUGh2Q2UxZjJxVTFIZVVIR0tZMHFuTDhZd3BVRi1vdVRnUk04VF94X2ZLeldXNk1jSEM3enllM3FSZjNqZXN1YktpNnBYa0FKcDRzcFRPdmJOcWpGcmswbXlGS1VYRjFiY1RITU15MGFkTFlLY0Z2d0ZfWHVWT05CdHFGM0trTGdKWkFiQ3liVHZxNEJpYm1xczRoc3NDNmswUnFGa2k5a0l1Y3doLVpiU04yWWZ4eG5uTkVCQnZ0dVhqTzZZZGUtMFZ4TWRmRU5FY2MwcUdsV0FuTDJsVmZaRmJ4NnBNWHJJTzZFbG81ZWtWdkl2OXBDUEJFa2NJSHExTDdGM0xVdmZTX3Nra2JORDdjdXZ0UkVHZkFZYnFHall6bzIzeGRrbE4tR3k5emJDTHVNQURnbnZvM20wRTVXZEhNbkUxYmRnQzNHLWtna1k?oc=5"
+      "title": "美股收盤／費半大漲5.7% 黃仁勳傳CEO位子不保讓輝達盤後大跌8%",
+      "source": "udn",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pemliZGp1ZGlham5xdFNsRk5nXzdwV0UxNnJubTRsZkhteEJITVQ0VzFFWHpwYlBsbDV4TnNnVHVtMTVVSXkxc3dndFNkSEcw?oc=5"
     },
     {
-      "title": "美股納指造好 道指早段跌逾百點",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRGxfUDh1eWdva2VMV1RfRXdRWmlmTFRxVTRjWml3UWZ0YzJ2dVd1NXdQaEt4YkpDT0pGUWdKcjVMaFRDdHBERXNKWW8zazRxRVVLbkw5NnhhbzgzMEc4OXdCVEJuXzZFdnhQaVAzUEpCVEVmckRqQTNUWU9yS1c3eW1CM3htRDBKWjNqYkhiNjlSNldSNGtHVUlTV2s1SzVNaV9ESHFYWFRvd1FCZzNNZ01zSnk5X1c0Y01FUHhMRmNkOFhQZEo5YlVGOGhyWDFnNG5uMGtSMkk2QWZ0elJfQ29kNUVNbVJkWFlBRVhRSQ?oc=5"
+      "title": "美股反彈 道指收巿升逾250點",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcEQ4d3RIUUpvQnlaZXVwbWRMOXpDUlNhNFVJQ0FFQ2duejR3Z1lrWFlFRkdSWHc0ZkFUVEVnbHhEMldNQWo2WXU4ekpxbnNJR3gtZFh2cENSRTVlNVpLSHkyYTFHcUgxUkI0ZHlNbjBsUzNTREpwSFhMWWFueDE1aFQwY0pLcnYwckVsSmVmWmY5MG9Jb1hsd25SOVlKcm40cXpkLWhITEtsMEhreE1hSjVkZVNiSVRaRUxTS2ZFM2E4eVRiQ25fVTBzYXdnTUo3SVZzeUh3QWFfaFdMakUzNmhFN0lxZXNyT0txMFFuZFpXRVBVQkRqQi15OExxQnJS?oc=5"
+    },
+    {
+      "title": "美股｜道指早段偏軟 納指最新升逾1% Nvidia反彈2%",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQSV9JVGprd2lmNHJaTXBfSGk4Rlo5cEg3UldmNk5rZnVXMXNFeDFZTGs5RExDQWgwTEJGZGZ6T21QZVp3QTQzclREQzZhV0R2SzRoWkRYMEFTRklpRGIxa3ZidnRkdjNrSG5pWUV0VmhKM201U3BkdkNzV2RRczJMODdSei1iTUVMaHhmOXJxRXhsaDNLZlpKdmR3dWNIZG00cmtsdVc0MWVLek9lTHVBb2hjSmNWSXpKd2lCeDZmaXA5VDNwM2kyTWxzLVZRY2F4cHFRZzBpU3gzMzh3eElMQ1VmbW0xSWpCS2lCS1Y5ZXRJTy1OLVZ0N05kNzdHay1aTFhRUENDR1ZidEJuUUtlM1JDWGFQUld3dGJSTXFsSWtGeDhLTTFnTmJXREdQV0s3VTdlUzBzalE1VFFkTVpodDk4REk?oc=5"
     }
   ],
   "events": {
