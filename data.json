@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-11 21:40:24",
+  "updated_at": "2026-11-12 07:15:25",
   "gas": {
-    "current_label": "11月11日 (現行油價)",
+    "current_label": "11月12日 (現行油價)",
     "current_price": "156.9",
-    "predict_label": "11月12日 (明日預測)",
-    "predict_price": "156.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月13日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "深圳APEC｜金融服務業界料APEC會議助深圳加速國際化",
+      "title": "伊朗高官：美國若再動武 參與的西亞及歐洲基地將成致命打擊目標",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kcFA0MHpqVTNtd2dPTWQxSEVUMW45c2dPVnhYLVpRWjlSck9vMTRDVEJHSDh6dHpENldlNnFWZGVUSUhpSUxTX3plVkZJV2pmMUlvQnZPbi1OZ1JrTERfRlFFZ1A2WWN0V09JaUtIWQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NWnNZckthVXR0dVA0TkgtVEQ5UTVicGt1bEJYNFdvbjh2VE9yYUQzSk9VcnlZVU9EZl9YZHhBaTBLRDRITmRCNFVQLTlRdjdDZWhUck8yaXVKT2xYTllnWUVhOUp2amVIWlFoNGh0OA?oc=5"
     },
     {
-      "title": "黃仁勳出軌公信力受重挫：一場可能衝擊全球地緣政治的婚外情",
-      "source": "HK01",
-      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOZzJNZUVJYXFGVkpzWWVrWl9XdndGblhiNnJHWkdzdk40Q3NaWnBtYVVHbVB0STRMWnRsUEozOHFXcUZGTlFQWldOeUVnZGI3ZVlXQml5Uk1sQUFfVmNsZmFiY1JEd1VTblZXbzNXclRoX3NWaDlkaGpic2VnN0dmbk5hd2d1a2x2TEZzWDhweEhvZUo1TkowQnQyTmZ5eXcxbGtaV1ZaM0RPbWtQLVdVS1JFV2Y3bWtsR25VZFBQN2ZtSGFYUFpYRVl2eEp5eWdzMVhodktleVAtOE52a2pMVVd4VENZQW5zb2lmTUdfNVRMS3d1UWlqOXVZUnVkYlY1V0d4NTFraERfdzhBZWVTS241cTBSQzZlU3E0SGRTMEFsMFJfZXBxZ2xVSmlMZHJRZ2JoUXp0Z3NEaVBXQkxPa2QzdUJJNmF3ZVFPMU82akhPZFM5Z2U1Rk9zakc0Y3FWRXlreUZDRVFzN29iXzdJTUoxUU0xbmlBTS0xNW9QTGRBT2ZNbW1YSDBtUERfVlpYcXpNQkh5V2xoUnJ3SGwtOHM2alV4dGFaUTItbFpTQ21pM1laak15bTZVMA?oc=5"
+      "title": "黃仁勳婚外情：黃樂據稱身在北京，台灣廢止其入境許可證",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wc1gxMzZqZ0pyMWMwd3l2elhobUIzUzczQ0FpNWM0X05mSEViRnMtNWlRNEgwcC1Ud05TLWVMSmZ6UjJDb1BCUWJZQzVFMVMxYkROclNmM2hOSU9NbnhYSmgyZ0lMdE3SAWxBVV95cUxQYksxdVM4MENEdS1kbXJMWVRJYjAybjkzWG9KVldEUlp2OUkzVERTLTIydVJEcTJqTGZfdzEwM2wxZHJ1dzIxa2VBajU5eENaLVZ5LXFKaHlWSlRfMFd4MVJmdVBRQjRuaDU4eG0?oc=5"
     },
     {
-      "title": "讓貿易成為促進全球發展繁榮的普惠引擎（國際論壇） --新聞報道-中國共產黨新聞網",
-      "source": "共产党新闻网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FejJGd1BZNGE5aTE2ck5tWmpyMFRvUGtCMkFoenRIYTExc2poN2pSSW1aNlYwTVhJcFBKSk1zanFGQXZCdmdZcHk0ZHY1dW5Wb3BXMFJrZjR2SmRjc21EaHlWUGRseWotSnV6ZmkxRUw?oc=5"
-    },
-    {
-      "title": "法國世界報 - 波蘭政治舞台激進化，歐盟密切關注",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNZnZLSmc3RXp3bzBaZ3hFZUEzZ21kZkM0Rmp0MnBBeUhBYmtpRGgzY3ZIaTdIUDdDT2FSWXVDYi1KMWd5VjY2UnpTOTZlWDNLeldCbkEtT0xjSWhPalN1TTNtUm5YcVdkcEpnbzgtY25lM0drYjVtU01pbm8yNTU1ck1tankwZC03cWY0b19IX05BU21CdmlCVGk1R2JNbHRoc05wUEFqVGpNTjdOVFJvS04zV2hIanliYXVNUTlxcHF0M1RfdERBeHM3SVVNRmJXaHFWdXBneTdkaTJqZ1ZpUi1MVG9lN1JWSmNXRHlqOERSTi10SW5RMThGMnpQX3lkVFZJX2JibW56T0FlQmhVMVBkdFNOa2ZTbUU1dGY2N2NWOXhtRHMxTWRtRHVnN3RfdU9ONkNfeWlxV2NqUFdBZ0ZDXzZrZ1pRUFQwMTEzU0tVVEF0T2F5OWtyNUN5a3JJU3RITjhNc00zdUpWeUJCLVVPWGg?oc=5"
-    },
-    {
-      "title": "美國長期國債上漲 輝達風波令風險情緒受挫",
+      "title": "國際｜伊朗警告美國若再動武 西亞至歐洲基地將成打擊對象",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMXdJOEg3bVEyZ1BZelRlY1ZoZjVlbklXSVBNOElqNmdNYUFrbXdBMGNNWFUtZF82aUlUYk9nUFdXMjNuVjBOYTFZeUhCWWZ2VklkeE9wcjVMaG9FUGlwRWRnalo4MDctOHhOdE9fQk9kYmtjMUg3TzFwZEpQcGxyNzdsaWNoVGcyUG9TU1RmbDZYTjlpZDcwTGVJMUJTdGxmOXIyM1AwbWJRTWQ2eThZVFphMmowVFRhVm5XSDFFUGZkakJmeGxWQmtWVHdVOVVXanQ4VThnYUVGSGpWc0xfOEZvdmZzRWY3MWoteXJKWnNwbUtKRWJnWHppZ1pnOFBvLXZwcmtaUC11eXlwOU9QWTdSd0kzNTJhVUNUSW93QXMwUWxLbjdscEJvRTI3dXBkYTlGQ2FEbHI2OU1fQ09NRHdGcw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPNXd3U3A3X0d3ZGwzdmh6Vm85U1Z2NEtiMThBTHhyRTV0RjJLRWRxcm9xMkdKcl84blZpS2hoV2J5UEpFTFVxdWZCOHhtOVRSa1F5QUFkMW1lOVhzLUtyYktZbl9wOWhLMG14SnliZTBkQ1JEbktvd2dJcWltS1VzU3hocm40TzJLY29IZW50OTVmOEg5SUZ2UzJWSDZ5bTUzY0VIbjVzcWNmSk1DN3RDakZoWVVJVGpHMXI0OW1wLUR4V1lNV1RtS2w3TGQwWW1NbWU1enp1aTJBeURPZnNHa19FR0NzYVRYY0xObW9SQ1ZtV0NKSGdtTWswbDNHMGdnUEQwOFdvTnUxNEw5OElmYUU4MTZGTVdWU3R3UTJZWGpLaUloblVjd203ckhMb0dxUHlEaWdaT0hvVXR6d0loYzVwR2xtb01LeU9YbkN1TUk2ZlJPRUhyMHJRNzdrZEtFQ3o1VXNvWGlnSG1qclNoYmU2cGVSdGlBdTVLUzZqdHU2OElYbU9OMXNmUnc?oc=5"
     },
     {
-      "title": "中期選舉一週後，美國AI行情出現分化",
-      "source": "日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY09oaDB3amNVQjVxai1YWlNYRW9tUmVFUU5KM0cxWGZLSFBrTkJvSHROT2hyN2V2bXlpcVVaRHB4eDVfVUFUY0F3UE5GLTZkOVpjaU5RSmJvQVJRSkpYS1diYUxfUHZFTHdaNW5SNUZKVXBGdWJIT1c1WkVMOTljdjRDSTdPSGZiOUUw?oc=5"
+      "title": "伊朗衝突：美國戰略分歧與封鎖風險——荷蘭合作銀行",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZk9hbEgzRWVhVnU4MlBaS3Qxb2R1LXVSZDRnZVhFUGtRLXFzYUFWRVhUcW5qbjh6Q1haNVFtU1BZMWg4SFdDN05SV1VMelNlRUp5ZjdNaGItN3F2YXlEcWk5c0pCeldZTHczeUpKaENpSndzVGdidEZLcGt1LWtTS21rWGxoWG5CZUdlLVlFSkZaR3VQNUh3c1lCTlNrMXpCOVV5cEZ2TWZfVTl4UHVmUGpVdkl3UE02QS1zeG9Ec3N3LW9sNHc?oc=5"
     },
     {
-      "title": "歐洲企業2030年面臨挑戰？中國歐盟商會主席：不如融入中國供應鏈",
-      "source": "HK01",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNRXJ6aXlGcFBmTzZqOUVvMjBFLUtIbFBMT2wydy1IcHhESlNPLW15d0dNeXk1ZnM1MXBzTk5OUHAwYi1WQk5YTTBhaklCLWpVT1dKckQwZkZMbGNfUjF5ZlNXa1J5X0N5c216QlM4VzFmOTNueHNubHlza1QwUmFmS1B2d3AzMlZ5TFVmYVcwRUxoVHZVWjVvTnJIdzV0ZnRlVF9rY09iOV9iMDJKVVdlZmdOeXpTQWdkNHBDMmlqTmlUNlV1QWEyY1hXQ2J2MzhLd0szd084N3czN2l0Q28tLUxjMGJTcTBhS0FlR2N1ZW5xcDQtTC1UdzBDam9yd1gzWlVSczZ4VHhJdGZuRHRYLXd5ekY0R0lUU2NpSFktRHNOVkx3MlpDX3V0Z183LTBxTlBrdDl3TWNOLVNYMnlMVFY3RmxkUEkxYkNmVjNuRkZVdzFDem56UHpXQ200cGI4ZllTcTlpcDdXT1NCLWVSRzBLQ3M4S3RhdElyalpFVlRncGx5Uld5Y1M4V25kaFhvM0xqb1ZFU2RnV3JZZDExRXdNM3l6RFN3UWZISXNSMUktUHVyNWc?oc=5"
+      "title": "中方奉勸七國集團管好自己事情 為促進國際團結多發揮正面作用",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wTHZ0VTdzbDc4eXZRcWdnU0tJdW0tQ05od2pYWFVLLTAzSHEzZmtiYU1sbk1nOUlhVzh5akhkWFZMdEdTSUNFc3NERy01Y3FKSjNtM09icERDM1E5NGpTUWNnU2JNd18tcjhMV3Y0Zw?oc=5"
+    },
+    {
+      "title": "國際｜趙顯明起一連兩日訪華 北京稱高度重視願深化中韓合作",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOQUJSV2MzRXFVZ0YyLVhrbzYzUWlScDlXTG9Lb1hNOWNodHpqb1lmUWhvdEcxSVlYTU1qOUNwMnpqVWdpWGxyVE9KbGxjX0JCOWs5cUxZMU9oandjTDhzR2pNTU5FS296RjduYzhXY1dhR0ZMZ2F2QzlINW9sVVBuR2Yzb2ZoSXl2SG9zM3pMNFp1dkJoR3ZQWW5KTEZVemczeW5JYW5pRHhvWnBzcXhmazNXOEJYWjhtdTQ3V3lXSS1pNUlwdjFXb2htdjVwSk5tZld3dUtnUjNqeFN0VF94UW16Yi1RR1BjelFjc0lVN21XSHlBWnctcXY3al9Ud2VjbEx6OTF3c2dwOFNUc216dGg0Q19hX0FzZlcyQkdPZVhUQ1E5QzZqQTYzV3Jpc3pCdm9SekVTTUVudFBIQXlrZ2Q3dmVpYlA1X0lTUzJtTGRxZWxtb3BMWkgwODNhZEpfcjIwRkozMVBsWXBnaXpURURRYVk0NkJPOE9UX0tYNEdDak9ObFlXNW1Rc2pMdw?oc=5"
+    },
+    {
+      "title": "美國倡俄歐達成安全協議 希望俄方提出草案",
+      "source": "on.cc東網",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmpfZHdXb3ZtdHJwRThNWm9zcV9SeGlucnNKNlU0N3g4Y2M2eHNQUmw1eXhWQTc3Zmd6YUNQNzA1VGJpMUR4OGoyVENIaDU0dVZxZmNkUGhiS1VKb3lUYmlubGlYazZaUlhGQUVyUjZOWEp2VnRsUHVSTktRUE1lUlYydDJvWEREOXlUbzU1cw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "科技股越跌越能買？操盤科技基金逾10年老將揭「超底」關鍵",
-      "source": "鉅亨買基金",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbjY1cFlwVFBOQzRMQ2FsY1d2OWlsREpXTnpKMm9XOFJ5azl1YXFwUlpIeUJfd1JxdzRiczlJd181bWY4bmlWajhjUGZuNXg0RS1ReTQzMGtTU09rdXBhUWNBRnV0akZfQ19QM2N2eFdfVEFwM19fZUluQjdFX1RlOEVWbHFWdFE?oc=5"
+      "title": "輝達盤前下跌近6% 占那斯達克100指數期貨跌幅的一半以上",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOTTNLaVhqZTRLQ0dwekNtWE9HRmRrWlBjY1NBWUZTeHpvTC1oS2tBLXRtQzF3U3VMMHl0WDEzZFhRMzdTVVNyRmx3NVFhdm1SNUtNbEpHX1N0czZfRXpycFV6bGZVVmJsT09SVU0tZVlWWVVnZkZkV1g1WnFGU1VUQ2VjM0dIWVpuWjR0QnpSU2lHTXZUbkJmRUh0S1ZkOGsza3BpSnRVZUEwOHowMVhITmVVX0FXelp2c1c5dmg5X3p5cW90UXFTYjNHNnFhb0dCME1iZm5hRFdUTl9nM05RaHJubElOSW1ZOW1sZVQzX01iaVV5dll1QXRzM3pkdkx0LWh6c1BFX29tNEtEbUwyb0JrZTlHSExFbXJJRklwNnhZbElMMUhiZ3VaQnBTa3lnMVRwUkhGMlBYczJOekd6QkZ5YUQ1Sk1kSTZuaWJhYmEtd0p4LW90aU5PRnNJT0swMFVNS0tab2ZFMnczaHc?oc=5"
     },
     {
-      "title": "🤖📈儘管利率擔憂揮之不去，人工智能樂觀情緒仍重振華爾街",
+      "title": "華爾街正重算黃仁勳的P（doom）",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TSDJsUGY3RGVreEFfY2RHa2lVX0tTVXNWNkw0YmdNSnVjM0RYbkExeE1KQlhaSGZodkEyb1hKaFBsSkxUa09PNWRiVjBZY0xQWldLM19TbUdna2gtb3c?oc=5"
+    },
+    {
+      "title": "看漲期權Gamma限制了標普500指數日內漲幅，而SPY的PCR降至0.87 | 期權市場統計",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFdvX1lPMjJqelc2REYzTkFFbURzSDY1MHhNcGZlTENWRXM3dDVsYzJwMHlaNlNFa2RiZDNUalZySWZfSGlKcGVXbkJTVi00ekhhckpsUW1wdEw2U2RxNWxLTTVxZ09qY1lhNDZ3QlhkaHFkZjNIM0R2M3FDdnhUd3JjeXhkRVluelZ2TjVENkJPVThHZDI5OEZDMm1ONHBzMDViVzZ3M0YtQTYtUlVYZW5oeUFpZ05EeW81aWxNdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGM3TmJTdmVQUDVyazNBQV9neExzOVhEcW52ZXhIOWdyeDhaWkJNa1pLX3JJQkNTNzZNaXJlaDRkUW44WGpialo0WVVIdmhPZEVNQmUyNmxqQ2JwZlJWazFWT195RXVraHN4Q00wemhfQ2lnZ3hrcExENWt0Z2JZZmlnUFowc2l4ZlhrZlAzc2RDMDNNNjRXUXktOW9HaGY2LXhoMkpVZWg1WjJITHlleXNGc3BJUQ?oc=5"
     },
     {
-      "title": "美股 | 道指升254點，CoreWeave績佳飆24%，帶動納指升1.6%，日圓曾跌至近160重要關口",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGFZUTJ3YkdQOWRydHZZaDdrd1FOSkNpb1RmS1NoTjJDYWJtaVptOXZocU1feHgzeW8yVkZmd01tUTByRWJ3bXFhQkFjS2ZZMzB6ekc3RmRuRW5JQjNsbVRIOTg1QWFyUmRKOVdfUldaVUs1cnUzdnpWdDhfejZPUENkb2MtWUw3SUVHdDJYdDZqa3ZveUVZbEpvazRuSU80d0JkS2JmSWc?oc=5"
+      "title": "62%的交易日股債同漲同跌 美債避險光環褪色 作者 智通財經 - Investing.com 香港",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzMUtTSzVOOWdEb0h6TVJUdlJidkpkUlZxMnN0VXUyR2tNWTBNLWpyUFI0R0dOeXhJaWhjNTRzdWtscWktSlAyMEs0TVNraC12Nmk2LW1SNmZKRUp1emlfWEJvS1djc1poUjE1WVlVZXA?oc=5"
     },
     {
-      "title": "美股收盤／費半大漲5.7% 黃仁勳傳CEO位子不保讓輝達盤後大跌8%",
-      "source": "udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pemliZGp1ZGlham5xdFNsRk5nXzdwV0UxNnJubTRsZkhteEJITVQ0VzFFWHpwYlBsbDV4TnNnVHVtMTVVSXkxc3dndFNkSEcw?oc=5"
+      "title": "標普500：科技股上揚抵消CPI公布後的拋售——德意志銀行",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnl5NW40Ukh0TXZ4Q0ozZHhwWkZONXJGN0ZsWlp5akZ3aUM4RXoxWGFFSS1IMFRlUmpOUjRXekZ3bUVkdHhfTEtZTEM4b3BraHdsRUgxa0UzaDJIUXZxTVZsc1l3eGZBNUJ2TG90aEp2N0Rib3h4c2NxZW12N3BhZWJFdXRzUHEwc2NCMjBCOUw3QkxmRzQtdndwNjgyTXRKamhvaVNEZTM0Ml9TekVpRDkzWkNUZ240MTFsWHk5Zk1zeGtROUE?oc=5"
     },
     {
-      "title": "美股反彈 道指收巿升逾250點",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcEQ4d3RIUUpvQnlaZXVwbWRMOXpDUlNhNFVJQ0FFQ2duejR3Z1lrWFlFRkdSWHc0ZkFUVEVnbHhEMldNQWo2WXU4ekpxbnNJR3gtZFh2cENSRTVlNVpLSHkyYTFHcUgxUkI0ZHlNbjBsUzNTREpwSFhMWWFueDE1aFQwY0pLcnYwckVsSmVmWmY5MG9Jb1hsd25SOVlKcm40cXpkLWhITEtsMEhreE1hSjVkZVNiSVRaRUxTS2ZFM2E4eVRiQ25fVTBzYXdnTUo3SVZzeUh3QWFfaFdMakUzNmhFN0lxZXNyT0txMFFuZFpXRVBVQkRqQi15OExxQnJS?oc=5"
-    },
-    {
-      "title": "美股｜道指早段偏軟 納指最新升逾1% Nvidia反彈2%",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQSV9JVGprd2lmNHJaTXBfSGk4Rlo5cEg3UldmNk5rZnVXMXNFeDFZTGs5RExDQWgwTEJGZGZ6T21QZVp3QTQzclREQzZhV0R2SzRoWkRYMEFTRklpRGIxa3ZidnRkdjNrSG5pWUV0VmhKM201U3BkdkNzV2RRczJMODdSei1iTUVMaHhmOXJxRXhsaDNLZlpKdmR3dWNIZG00cmtsdVc0MWVLek9lTHVBb2hjSmNWSXpKd2lCeDZmaXA5VDNwM2kyTWxzLVZRY2F4cHFRZzBpU3gzMzh3eElMQ1VmbW0xSWpCS2lCS1Y5ZXRJTy1OLVZ0N05kNzdHay1aTFhRUENDR1ZidEJuUUtlM1JDWGFQUld3dGJSTXFsSWtGeDhLTTFnTmJXREdQV0s3VTdlUzBzalE1VFFkTVpodDk4REk?oc=5"
+      "title": "通脹超預期推升加息押注 美債多頭受挫債價回落",
+      "source": "澳門力報",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4UGppaUstSTk2VDh5SWZ3RnY0YXd2djMyWEIzQzF6M011Y2ZpQWRqekpRRlZ1eUNDLXZ3X2JWMjFvU1A4dnpXQzZtdk9PcEczU3lB?oc=5"
     }
   ],
   "events": {
@@ -86,8 +86,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 7,
-        "status_badge": "7 日後"
+        "days_left": 6,
+        "status_badge": "6 日後"
       }
     ]
   },
