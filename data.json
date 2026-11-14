@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-14 07:15:22",
+  "updated_at": "2026-11-14 16:15:21",
   "gas": {
     "current_label": "11月14日 (現行油價)",
     "current_price": "158.9",
     "predict_label": "11月15日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "153.9",
+    "trend": "↓ 明日預測跌 5.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
+    {
+      "title": "歐盟促以色列允許人道主義援助不受阻礙進入加沙",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IcGNkZlU0ei1pcWtlUXF2SU4tZ0dVdnVzOUtjVG5ENG9laWRlQ1pIX0pyUmNFN25nNnlDbHF5R2xEa2NnZ3dxdFZBZWxjX1pKbTRaNWJMcThQM21QZlBSSGxwdnFGOFM2c2FWSnFNSQ?oc=5"
+    },
+    {
+      "title": "中美俄元首周四APEC歷史性會晤 白宮：習特先行三會 料談核軍控與伊朗戰事 - 20261115 - 中國",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQYklRQWZYR0pnZThKRHlNWDlQNXpNYVktNExoTm1UWGppQ3FfZjBFcXZQdU9YSFY5UjNma2RZUXVCc2hfNk16MkVheml1M0R4QlVWazNTQlVyOFJxRVpGdTY1U0JDRlRrbkE1M2ZIdi1ERm9OUXZRQmY5Y0xkTG5yRU5Kbi0wM055NXNsWFU5UF9hZGpMdnFzLUdwSXhOaEQtOWh3QnNMMWxQSHU0OHQ1QVRYS2ZYSWhzaEZSWUVoa1hKM2dOWWNZRXQ0YnBYdWlHaWhqUV9nT01ucDA2LUJNWjNtWkd2MWVUaUp0U0hGa0NYRXVXOXpRVTRBbUpaMmIxUm9lc3dCQWtTRnMtSlEzZFlOREZMN2daUG5tY0hLYWZrdzJja1UwUkM0WWhqU1lBVzhfa0dHUWF2Z0NibHM0UC1PLWtoNEY4TTItQng2MXI2bks0RVNfSjFhRzJmbHBXYkNMckQzQlRKRkFuSXhGOTZjS1RucWtfNFdrQ1hTMUNGTWZiemdEUmJzajZEQ0Q0SVMtRlFfTGVQZGFFUGdIMkpTMjdKcE91eHBlTm9CZk55cmNsUW8zUmFFMDdSMzJHUlQtd2pjRHYySzBnR2Y0eml1Yk16N1hIM2VydnRMN01VTTZtZWplQ0JSdEIwd0NTOXI0TFgzSmZmMFpUQVpNaA?oc=5"
+    },
     {
       "title": "美國全國航班停飛：空管系統故障引發「911」以來最長停飛",
       "source": "DW.com",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZW5QMlROckJ1US1ZS1JudnJmQWY5OElJX3kzbjhRYldfMzBmeHpCVmwxSFEwdjdram5XSWM1Tkh1V2xQZDY0c2U0MGVXNGJadGpfVlFBSDBiNGZvZnZwN25GSUQ3QVNHYWZsUnFFVVdNTDB3elBKMXE2VDRNMkk2WnJoN2VfX2VqdGZoNVlwOXViZ2J5NEx6OEFxMzY1bmtocXAxNkFEeGxtM3Q2TUhFLTJTcmFyYk1rX1E1VHdsMks3ejhwZ3M1OHhIMkt6Mzh3dFVrM3dqY0g3bm52SkZSQ2RCQVRVYjZEcDctdEh4SHJ0ZUtpTVgyeUM5bzRTeWZocUNsbF9abVVYUWJudEhpLV9yTWZuV0RoUGZGUF9yRlZBVVBvQ3NoX0FKWHd1Y0E5cjdveNIBtAJBVV95cUxOd2JyakcyU3BTOFdxQW9NWnRQSHF6cHppQThWQTdzQ3FaRXVKUGVPNWJaNmI5Z0pueFV2LUdXc0pjc0tQMW5wUElqa2FvcEhxZEh2ZFFlNURJR0s4TmVycnBmX1liUmF5cUF6TC1wUmdMTXpEQjUzZG1aYW16T05zRE5jYnFUNVkzWnAzd3B4SVJySkcyUUpDbUZIZTB0S1JXd2xCSzdEQjBONjNmVGhtbWczTng4eUFqYVhpaDZEa0xaMEFRcEhKQXVfalljbmhwb0FiTElwTm4wRnIwbW9fcWxUWDNDTDF2ekZxV3Z2VlNHYWJBa2VQX3NjVG5naEhBWFIwcVVIeDhrS0dHSDJhWU1QeTdicTdidjQxS2FHV09YT0RqY3Fqb2gzdjludzIwR0pRcQ?oc=5"
-    },
-    {
-      "title": "俄烏戰爭｜稱美方首提棄頓巴斯換入北約 澤連斯基：已表明拒絕",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNQ2VoV01FRGVfZGVIcjlnZ1dnLXA5LTludXNMQm45QlAzUEktVkk5dnd1SkhWcFBuNTduSVVuS00xdmZ1czFNc3FyV0VibTJIY1JXYXlpd1g5U01PSDFON2NrcUNuQUNhVkxZdHFyUHRFNktSSTFvdHBtbURGS1JJOW0tM3NzVWJTVUhnamNSTXJUWGxRUWFEQ3FGSEo0VHJreVNYTUUtYV9laGp1WDdsUzAyTFFhVU1LUzkzNU1ZNTJnMHZ0dXI1RThGdzNuQllTZ2psVzlHNl8tZnY5YjhvZkFRZ1RFdVM4UmFTcElvMFhPa1hzaHVjTi1XRnkyc1JPdGw1bU9LUUdIdG5xUVNuYkJ5RmdJbXJ5UDhBSmRiR1BpbER6bkFmWEZJSDBCS0NwSG8xdng1VEFhajR4ZDRvclNfZDBiRGhPQmYtdjN4WnlqYl9LeXNQR3J6dGs0ZFRYSjNpYno3REtRdw?oc=5"
-    },
-    {
-      "title": "美高官：特朗普將與普習談核裁軍 預計不單獨見普京、不談俄烏戰爭",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPZTBNZ29fTkZOMzZtV0xSbjY5YVE5aXJ1YTdfVVpXUURCYXE5cDFyYld0MkNRM1JVMXFaQ3o2T2VhdjJCRVNyZkF1X1VUdjk2Y3N4bXhZcXMxaWpMQXlDdVQ2ak1uVzQ1U29HYnpPNkFpNnJxcHVyQTVEOXcxWWhsRjJDV2V1VElrRzkzZ3dIT3dmOTRVSkxGcnY3SDRrb0phSGxzbGZZQ0VMQ1VOVmxoOHFaSndGemUycXluTWdmSGZ2Y0NoSEx6TklndHV5akprcjZGRlhMRWVBNXJZaF9FZXY5Nkxic0wxZm1YYnV0OEhKTFl0bjF3YUdweDlQaFRnU1FhLXQ5VExkWmY1ZnQyV3ZHRjBiZnAwVnotLWtJQ3ZGWDNzYVdnbG9GRWRRRnVoQ2xvY2FDN3dGUkc5MndXbjd2TmJ0LTBHVFllcm1OcXZSS3ZyRDRvNmdjODZqQlBKaEJYdzY0dXZLb0dpaW12ekFXZEo5bWlYUXVrRTU4NzlPS1VWWUVIaExmcVVyWkg2S0lJc1RvWk8yMzFhTTFCR0FiRG4xa3dZLWFFcWlwZ0xFemc?oc=5"
     },
     {
       "title": "美國解除全國停飛令 此前航班因空管系統故障停飛逾四小時",
@@ -30,51 +30,51 @@
       "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPUlJtTnhMYTkzakk3M0c2a0pkUUlmcFZlTGs1NGVGYlNIcWJXa1JSbXpUMzJ3NEVKVzRDcGY3MkV1UEI5X3Y5UUFoSnZuSVdkNjNVYVF0a3JYNEotN3N5bDFzc0V2eXFlVjN5V0M5dEphZkFfejM1UWZub0hLdWpwekxEUndQNzh3V28xMGcwcnA4QVFKTkU5TngzLVRiaXh2LXlmeFBoelVuc0stSGVXZHhaUVVxT3pvXzdKZjBqWUd2LWhiMVQwNmVrZjFnZndoV2pKYVR4OUc2WmNBUG9Zdl9hWU1vUVd1ZklJY2d3UW44OUg4NnV0aW1Gd3VMUDRPZE9SajJsQ2NERGpmdmRxOUhNQURvSE4tZWNyczk3SHZvQXJHUFQtNllUbjNhT1N4OEpHNW9qdElmZGUtQnA5WV9rQ1JEWm1pblhudHdzOWZTMWt1UUo5anNwSFQ2MEs0Q01DX3R2djBhejhNdjU5djZSV19XakQ0SEg3dUVreGhsTzh1UGJDclhaQjZJaExwTGVKNlVvVQ?oc=5"
     },
     {
-      "title": "白宮宣佈深圳三方會晤談核裁軍；川普表示中國AI「沒有護欄」，「習主席說什麼就是什麼」；黃仁勳醜聞預計不會提及",
+      "title": "三方會談議程和形式仍未敲定",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVnRjYVlDR1FXY20zcW1IeGZvNkhVS090WHZJUkZodHE3cUluZWVkZ1lRTUViWG5GT2NUd0FNYjZ3Q2I5SXozRUQzVElYdEtYdWQxLUdVQTBSalc5bmI4RDZCaC1hUms0QmdnUXdTbWszdXF6UWUyNnprVWdDaGJoQUI5T3NNdWJubGVCZURDWm5RX2JicGx3eXZrTFpjTE9kM1FjanZZN3g4T3FneXNYWnVhVWYwRWpWN1cydTg0VVBtX09SRkItZVliT0x0OXZKVFk1dzhoNXVfNTJUSTZvelgyX1p5X09veVB4VENIbG9FNVVJRUh5a3JjYw?oc=5"
+    },
+    {
+      "title": "微軟宕機超過24小時：英國醫療系統改用紙質病歷，全球逾740萬次故障報告",
       "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOeV82MWY4N1BzX3VLZkdmQTNmZlZpcGtkSS1ONUVFUUhXbmpJTjZzbEk1ZlVfZlpVNWdFWlB2ZFJOekhaZUxVS0FzTDk2R0RpQnVPazV4d3VPU1c5cklld1dXVURIYzk1OVFGeDFRU2VQLXo0Q2FsVzc2YXFmSXA0YUV0c3Z2R2VZbHBKaHVXazRTSTZYUE51bUVsUGN1TGMyNHZNOTJudGV4SnBYUFBta1pUZXFrNnp2TGhIUW1jNFpPSXZhQzdrRWNoUG1xemlzRXMwZlNnaEpfNE9NS3g2UUNtRk8xTnJZa2JYcTVaQ3hqWERVeEliV1VaS190Z0psY1d6T050cjRUeEpKWl84SXhqSkRfU2pFRDc4UFhTVU5vV0N4LTliZHJnUko4S09XMTItRjlBOGxFalZIWklr0gG_AkFVX3lxTFBDTzlqbDFoS0JBaDNmTTZaMDhBVzVMWTg0Z1M1Q19pdnRFTVlsS0oySGlpY3Vrbm10dDdtb1RldzFqZEhCSVJBQU55dEVlVVZtU1pUamRPZFctVjZNcmlORGtYMUpaN1hNOFUwMTJkMHdPZkVBVm1rOWJlSTRFcXdZcy1WcEZMblFxTzVrc09VNHRSRE5YSi1kN1RzTGxnN09KMmY1RXhlb1dWUGNMUGF1LUJqT0RBd1RPNWE1ejg5UkpLdU9qbTMxRS1meVVabnBrTEhfQ0tBbkpkVm56dEFiMmUzNzFOckRMY2plQW1lWEpfSFVOMTUzcDk3RE1EeTNOZ2VVTV9fUGp6ZXhfWmRxemNZU1dlUkkyN3E0cFZFSUxMRGw2RTEwQk9RVGVxR1Z2czIzWFhFaXZDUU80QlU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNldXTWtIb3J5a2lUZ3ZrVlphd29LcXZHZ2FOTmRGMEJQN2RtVndjZW5kVjFqNTdlYzV1U29VQlZ4N2RULTVocmZrTXl0S1FBVm0xRUV6anBveURWZklvOFkxQU9PYl9WblVRTnM4S3V0QnRfbUJrVlhhczdzeE1FRThna192SkxFS1MzWk9EVngyVGlvWGdCSWZWd01lQzNfTkNMSFllajZ1RHc3bUVSZGx6VzZSZ3F3b1Zpb1VkM2VwSTIxUk1TSkZxTXNhdWdlaTNoeWx4SjAtUFlFUDB6QlVKaDZyTGRTNTJadUMxZkIwdTNHMmZqSWxIUTBEeFpteGcxTXZB0gGGAkFVX3lxTFA2V1dNa0hvcnlraVRndmtWWmF3b0txdkdnYU5OZEYwQlA3ZG1Wd2NlbmRWMWo1N2VjNXVTb1VCVng3ZFQtNWhyZmtNeXRLUUFWbTFFRXpqcG95RFZmSW84WTFBT09iX1ZuVVFOczhLdXRCdF9tQmtWWGFzN3N4TUVFOGdrX3ZKTEVLUzNaT0RWeDJUaW9YZ0JJZlZ3TWVDM19OQ0xIWWVqNnVEdzdtRVJkbHpXNlJncXdvVmlvVWQzZXBJMjFSTVNKRnFNc2F1Z2VpM2h5bHhKMC1QWUVQMHpCVUpoNnJMZFM1Mlp1QzFmQjB1M0cyZmpJbEhRMER4Wm14ZzFNdkE?oc=5"
     },
     {
-      "title": "《環看天下》：美俄烏三方會談 外界關注會否大規模交換被俘虜人",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRUhrY3FDeUc4UktkT2VHblpBcEJTYTVVUG0yVmFYWl9YNU5pSHZEWDFnUGR5WTgtZTZjNFR3WEJ2N2diQ0o2a2hZLVNVcHFyVG1IMmI1NVVZRWZpUG50ZnV5cWtOSzhxczNMTXFJMA?oc=5"
-    },
-    {
-      "title": "受美國停飛令影響 國泰指有兩班由美返港航班延誤",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84XzNhcl9BWGx0UVhENmhnd0h1VVQyV3Y4RHNnWXFCc3VyQ1ZkVlR2R3VJTnpLdWYzYnYxX1hieHZlM0pNNnVGbm1MeWY1dGdaeGotbWZzTTBoZmdRYXZvWWFEVzU0WXdqU3F1b3dwZw?oc=5"
+      "title": "新奧爾良遊船遭撞沉 逾百人奇蹟脫險 - 20261115 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNNWVkVUp0Y3hPcFpQazR3Z3BrZjNGcVIyWmRhU2NVcVI4NldtZGhNVnB0dE1rUG9NZ0RfY2UzSzBCRGxnSERmc09zY01OMTVNQTlVaUZjaFZaaXpROXZjT05JaVJ4NzV0bTBhdGd6QjBhVEU1eDZRaXZidUR5S0pyemJDSnFwanlwOVlhdFZzeHhXS0ZSZ0ZHc1daM05qY2piUVRSM2JsdUpPenF0MlVTQlFQZ29VRGU3U3JqSTFYS2IyYjlBSHV6c0RwYWVubXh1YmJzU3dNNU9jQnRYT2ExdGgxVzZDX0pLLVB4bEp6QjBZYlo1RHR2eFJwTV9NYUFtY0djMnNtbGdRbHRKRHN1X3prWkpjN3ZoQ0FfeTZzR1VqQ3Z3QUJXQWZyZXZpdF9kQ3pETkxDc2NoREVWUE1LMHMtbjJxZ2tqbjhGTXRHVXE?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜黃仁勳涉誤導英偉達高層 與受查女商人關係惹關注",
+      "title": "美股｜黃仁勳辭任英偉達市值蒸發1.6萬億美元 接班考驗成焦點",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNQUNjYTV3V1QtQ1ZvampvWkdqNm1XSi03VXZON1R4Mk9JNnFhZWw4TlVYbWR5R0t2eGQxSjdVenctNWFIdDl3cjZsdVVTUGR3bDNEb0NMUlRFWWMwTS1BcFZQbmhqaW9JZ094VEUtcHZKNGhXdTR6ZXhCSnVYUkIwZVB6aWRRelNlRDFZU2JkTkoxdElsQVNFcWxVTENTbWl5Y2tOa0ZTUUZGd29CRnZZSnRYWHJ3NEhIOHdNSXQtUjJkc2plWUx5anlHNnJMTEpmV0RtNF9FUXkzUTJhUHVNWjdjWDRVZWRlNzJPWTM4ZWhaNXlEVndueVdxc05qTGxTd0M3djh0NVpxZDBXTjk2UGszRVBwVEctV0taY0MzajBadHJJRlJwbzRyVlBDa0ctYy1hM0NwQTczV01YOUs4ejV6a3hocjRSeGIyYUppdU1mV1lMV3pXcFk2WTlJV1Jndzc0YkhUVEV6LWFfSXZtZFlLTWNuMm9iOUl0Zk9POXk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNOWdtYWpGbUJKcDVER1RjZURPY1hXNXlxQjYwbG02SWRTQVFvTVlDT084SUJpQ3dIT1ZYaDUwb3pJLS1pZGZUajM4RzhWODgtRTR0UGFwc0Q2NlN0ZDhwSmYySnlMaE04Y0ZKa1g2WDhWQVUxRC1KQWxpZ2RkdzBhdXI3NnlZT29IdWZKTXB1aEZaQ3k0R1BvUEVlRENPT2ttRzh1V21UdkJVN0xWZXNlTHdfQ19OeGVsRjNXekQyVW1UM0U2Wk16SkZqSDhsR29YV1FvNFc0MERNU0NDcklxVXRkc0swYWVxWGEzVlg0aGN0amdCUkNGRkFEWFh6WVRmM1U1Q3ZCam5JTW5ZNFo4YUdVSE83eTBMb2Z5MWlKUTBDY2ZmU185R1RfOS1IS0ZuZ3VHMi0zc2M4b01nZ2JLZ2ZXeVUxUG95aUlPWF9mS0Nqcl9RbVQ0OWxjOElYUUhHTDRRZ0dGekdLcFE3VnJnRXZJcHJaSUNObEh2Rzh0TXRjS2c4a1A5cWVVYy1HTTVv?oc=5"
     },
     {
-      "title": "聯儲局調查:87%受訪者列AI為突出金融穩定風險",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQZkprWkY2am1pU0NJeUFzU0huS2MydEtBWUdneEZrSHRRaldVcXpQbUhEY1lPX0VUREc2QlRQUXlrSVlLa3N0VXQyTGpxUEZGQ2k5WjNScWxPdWNFRms1ek92akpYWjIwdFcwbVAtRnJ1Smg4ZWIzNWlsOHNHUHRMSFp1UUkzejl2anZZX1ZnalhZM2VKUXp0MmlvcjFNR0xZWmtSMkRac2JjSVhOdldyRFk3MDRYT2luc3dxLWJTeXNVOGxiSExSUTJvNU0tQTZZbzdTTlFXbzhxekUxRjJRa2pLTk5abWxpSVozZWhjbVozbjBpX0xHVi13VVZ4N2w4YTdtZmV2SU1XQkZ4RGhWWDV1SmJKMXpHaHZIa0RQUXlZMXI0d3Y5dXBESWtVbWJWRndDREpDMUtwYnlHT2FZ?oc=5"
+      "title": "華爾街與大街脫節 / 葉劉淑儀 - 20261115 - 作家專欄",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUlF2eURVRnNxT09HTkFKWVVXcTFsT1lIQ21maGxiVElMX3ZNS29DUlFDRHRpYlNtQ1pBaldzcDFzNG9yRkJwVml5TGdhYjUwX2tLeWlZY2ppdXN2ZnNhSkFObDJOVjdIZmp6aU1Nel9HNDZRazVUenZKa19yeHV2dnBWTXVxVkpfY2NPdFFhZEd4OFhuVnprVEplMDBGRHhzYVlxWG9vZElsTE82RTMyZmxYc1JobXoxQ2dfQW1Bc0lqdS1SbjV3OWEtLUJadEtoN1g5Mzc3Skl3SDd3eExfT0sxcFZRUnFwck5INGxSSWlGR2RrTk9HOW0zQVNOZVZwaEpnSnkzRQ?oc=5"
     },
     {
-      "title": "【美股盤前1111】CPI高於預期為甚麼不用害怕？美股走勢無須過度悲觀？｜豐雲學堂2026 年 11 月",
-      "source": "永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxORDUwMmxWUnZYS2tvZ2ZlUWw1d1pyZFg3Z29SOVhYM1BzQ0xqX25zX3piMDVJaTlFVFBVSU16UmpEeURYNTFkMUpDYmN3eVo2R2w3YTFYUjFtR3Q1OTZGTGExMGZQMi1hSXN4VDdGY1dINUFUaHhLY3QwNnZNMFppX2djQThoQ3oyS2FrMUxCNDhjM0wyMU5vZFFlNndsWi1Ma2FhR3Z4bTJVeWc4VXBPWWlrM0Y0ak5QUERpSUJOYk85dWNnTXNQVGotNFk5bE1tTTRXdDhaeEpOT19PMnREWklUazQtV1QzQVJEbnl2V3RxaFNHWHlZYlZyWmRrS25mNmluQnJldDBiWTlGamxhcjNjcnphLW5MTXRDVndlREZXSDQxMTVqZmFZWXd5RHhiWHl5RjRFRUJFTFQyUHIwNXVTb1dVTEo0NFNzcFVQMWVOMlUyVTBlTnF3RnJRejFvZV9FZmpfay1McllWUEtmRzVKaFI3bGJNdzBiV0ZYVWdxWG5LeU5FYVRSdGpVcHZxV2xtQVpoTkNaMC00WDViZEdwc0J0dk5zTGxQdG9jSXN6VmFhNXQ3VmpNQ3JQVGc?oc=5"
+      "title": "美科技股續捱沽 輝達全周瀉13%",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOUtyakw4ZDA0WDJERC1FS0dJaVRoWGVzVWJTMVdYSWVnYVh2SkRNZ0tMdHh1Smhld0xfVUJTRE00UU93SF8wdnF6Y2dhcGJTSzFaUVZoS0hpT3QtNlV4RWtNbmtRN3MtQWRySEtfN0hGcFlvTy0zNXpWUXRCZFJOalVkTHpJYmZKLXJ4Y0ZJU25oUGluVDJpQmVEeW9ub1l6UnQ2RmVnZVNVY2E2UFV5VnNRTklWZFBRcUMyTGN0MXZwbUt4aGphaFB3a19ZWXhnQkhZY0lsX0NBSVBhcE03aEllLVRQRFJ6R2ozaUhCZUJEUQ?oc=5"
     },
     {
-      "title": "美國債市：國債收盤漲跌不一 收益率曲線陡化",
-      "source": "風火輪傳媒有限公司",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GZnVtd2kyN3pwUnh3bGphZWhSYVpZUFJ6QW9HSERUb3N2ZHBxSzZPcW5JQ1NpaWRiRkp1XzJWS1ZWN0ZKdlItemJCQy1XSEc1ZTBVd1VjSEVJUVQwenJqOTAyZ05RNTJfU3VDZVdpVFhObkZ0?oc=5"
-    },
-    {
-      "title": "普徠仕 預期美國通脹持續高企：聯儲局2027年加息或超預期",
-      "source": "香港財經時報HKBT",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPTGQ4OHN1WFk3QjF3TkFqZC1DUTcxdW9OMVpselE2MUh1X09iUlNSNTJjVkpkMzZ0SVU5VzhvVGprRDF5T2xSbVhyRmpLRFlfZUVCaEdjU3VhUXBWNHR2WVJzVVNMUGZEY01FbFBXVUtvNTdUZzFId01ndHUyQ0FCOXdLMWlqaHN2c1h0QnZ0V3VlVFVrclhVZkpoMUw3dVJmWVFVRm1Zcld3dlVzU1JyY1ZTTW5QNmt0T2JiVjViUUZiRHU2VGFDbFBTNHlsZFlIS3dhTUMyaHFfenplZkEzQ3BJd0FsT20tdFFJanhGY0g4N05UYkhncEVmeTZkTlM3ZDZaU1RuLUk1bEZyaXZaSVktWUNmOU5kNzNkVUpENHRiX1k3OWxmel96VVZMVFlheGEzSDlEZGlxYjJPampCMzN3MFFHSWY1WmF5WFFia0pTVXd3eG12cXNGM050YnEyRVY0?oc=5"
-    },
-    {
-      "title": "🐻 第7天 | moomoo 美股期權挑戰賽 🇺🇸",
+      "title": "美股本週前瞻：CPI週二登場、三大科技股業績接棒，AI交易能否止住拋售？",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPalZ5VEdzRVZzNzdmbmlMX1hsaE5mUzhpSzhHamtYV01TbmE2c0M4TDZxdllYZEc0cnlDR012eE8yRG9hWXItYmRxSUxldUctaFQ3akxjekR5bjlFczY5eGE3RjdTV09wYU0tclZQZnFNYzBRRTliZXBuTWNfVno4YVgwT2d6c1lwSnZ0UHZ4VlhRT0g5SnNB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0w5LUR6czA2UmtRZFZpcldTSkZjZHJmaGN0SFNJdXFtRzMxUzZaZXJXVW5mWFFWNTREcXduMDJYWkhpZmVzNnh3emdDTXUtMDU0cHN6bjhMRnk1OUVKV0hKdGNVOVJPd1E0b1U1a1NtYmhQQzZlQ20xb1ZwSEc2RGx6bGdEcXJncEsySWpzU2RUaXg2S2J4cUdPczJ4Z1E?oc=5"
+    },
+    {
+      "title": "九年來首次！美股科技股估值竟比大盤更便宜？",
+      "source": "富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUXFKNi1qMTlUVXl1X05LT3hZQ1BDY19TX202U2l2Mk55ZkEtOE9Sa1RTaUR5Smo4aGtVTWkxMFBJVEU1SVA1bTI0ZFgzTjNaV0dWd3F5QjROY1ctbk0wRWNNbXBNWGNqZHFXXy1TUzlRQUVfTnk3SE5YZUJLcnFnb2tKYzR2NGRsMzRIQVhBSUY?oc=5"
+    },
+    {
+      "title": "美國10年期美債收益率報5.15% 兩年期本週累漲33.04個基點",
+      "source": "觀點網",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6SXN3SVU0ekdHVnYxSGlMZDZvalhFcV9mdDVOTGFDTDZmb1NBOS1WZVlDQmR0NnRxeFlrdUMwY1FMbzVOVkYxOEZYcTZmaEZmbndoZ1VKWktPQWZoTEIwcE5tdWs?oc=5"
     }
   ],
   "events": {
