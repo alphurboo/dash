@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-13 16:15:23",
+  "updated_at": "2026-11-13 20:57:21",
   "gas": {
     "current_label": "11月13日 (現行油價)",
-    "current_price": "156.9",
+    "current_price": "158.9",
     "predict_label": "11月14日 (明日預測)",
     "predict_price": "158.9",
-    "trend": "↑ 明日預測升 2.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "英法德等五國與歐盟將參與涉烏問題談判 科斯塔稱須發出統一聲音",
+      "title": "美國聯邦航空管理局因空管通訊問題發布全國地面停飛令",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVTdlSVp6dzFLSnNHM1ItR2pZU2hrLVZCdERrOW5xU1dndWNoejNNNFFhTjVQSUdESjc2Ui1WdDdMOW1uRGd0UjJIcmdWT1JLOWRVX3ZtajNEYjEyWWd0VGd5SmU2ZFB2dEZvMHdMNA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJT2ViTEE2ZUFCN3FHc0JaUnlweE5wVmlqc0dJM0xGbHkxM1poVnpocU5kazlUd1ZVQ3J0RVp6dkQxVVlBZmNlZW5sa25EYml0cDlkSG9ITC1Kb0VjQU9HSHAwQjR6bFpZT0xUaVkzWQ?oc=5"
     },
     {
-      "title": "美國人如何背棄特朗普——2026中期大選結果覆盤",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmc2NDNvTDE5bk5aUWRXNVZUNHJwVV8xN2NQOTVjX2pvZ05udFZaM3VsdDl5am9wbGJTWFhTRFBkYkZWOFpRbjdjMVdwc2dHX2R2d3YwbGJINXJBTnVpdjRnUGxyNkN3NlFEaXVibG5OYmRIRG5UdDZGR3QxeVkxZFh4em1JZw?oc=5"
-    },
-    {
-      "title": "更新：微軟服務繼續從全球故障中恢復",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPd1lCcVA5THNlb2JIYTk3YVMxbl9PcEJ5MnZGakdOYklhSjhQN1duQW9md3oweUwxYXhvWXJRV3lDYmxMcF9nSm9TOWdzU290ajJ5eUlWRjU0U2I3MFgwbE9mNlBMMEZFUE5CZ2JfcGVGeVlxTWdzQUU2ZU03NktoSHhDbmtDa0FVenl3enpISncyc2dEV3dvaEtnRkZ1QjU4dVUzTTBNWTJrcnZBbFNWMy1uXy1jQWlKLWZEMDJNdUpPQ2ZFc3JqcHNiVTF5UDNVOURfZU5wZ1pKS1dSb3hHb2JJSmRmb3kzR2c0ekt6Xy1jXzhKQUZQeWxJZVRubjRXNUN4QWJVbTZRTVQyUzgtLW9yU19OWS1KcEN4RlBLOA?oc=5"
-    },
-    {
-      "title": "微軟多項服務全球死機 科大城大電郵出事 中電受波及 - 20261114 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOOEt4cUpxeVFoNzA3NXRLT3BtdkdydjNaMVpjTlRxNXJNUnJyZUY1OUk4d2ZEc19RQ0NHc1o5eWJkcVlJMEdWYUkwaklaMVpadFN6UVh3ZXFSVXlhMmJkRGR0YVJQYlVaYms1c2E0TUlIMzRiUVd4OGFTTkhROC1GcnBkZEppZGFYMDR5ckxNVDhYbmhCLTRhano5clRVLW12OWtQc1YzbzJjNUkwVDk3Wnp4ZEl6dktqSzFnZXFTQ25ja2plcEoydnEyWFZFY01nUGRsbjJ3YTNNOTZ1c2RXRFVYWkV1ajlaN1k3QVNXVC1SZWx5ck9MUmdjOGU4Qk94V05jU3NrQnByNlV1dUFabm56eTdKcFA0UmZuaU1PWWRNSlpKYWRGRzVmSDNVZXNXNDFGNTE5T2R3YmI3eUtUVnZyTy04RHhJYTh5QlJqTjhaTHQxRVR1SXB1eXFsdkM5VzJBSl9FLVhKOHU0SW5iZWFZMmVBY01aWTV4c0NGeWhYTnJ3UlBoakZwU0taWG9fN0N2V1NKam9zc2NIUXNDNDlpU0Zpdw?oc=5"
-    },
-    {
-      "title": "英超｜普捷天奴談離美國投曼聯激動落淚 「生涯最艱難決定之一」",
+      "title": "全美國航班停飛 航空公司急插水",
       "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPTERuVFIydnZ1YnBMWlRoc3VvcnFSaDhGN3hzbmRlYlpFdDlGYldVSFFFVTVHeWw2Q3hkaGNpNDB5RUJfenY3d3UxYi15VjcwMGtTZ3Y4cXhQbVlBS2NzOHZkeUtzMDlxY2xkZ3V3bE5CejlrN1F5eHJ0NnJsQ00xLTFTSVNxOTNLYkQ0QkpjcF9HZkhVMHRXZEFfTVR1VDNqbEdyMGlSVUNXMmg2ZkRYZHF0eXZpMzBURlZxLXhjSzNPdnV5d2pMemw3TVlTVmtaNXM2VEVXX3ZPelFhaDVRNEZRMk1jRG1SdmZvZHZhbmowVklNUjZROExSQmFjRXlmNGtkZUtUZ0l6eVVBTFpKNzVLdnhacHBpanVkaDlTRjZLRkgzR18tdXVvQm1oVDRIQVdBZ0JhUTNjVXRmNU05MHo4ajRWanpPTk5VREstREdTeEdmMVFsVk45dURuT0NFS19pLUhLUk1ESGZsSlowaUg0d2E5RWg0QlVHZ1lkb09LMnZlb2JiSWFjNzVfUTFjMkZBMkJWTQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaDFrdTNVajR2b3llY0Exd0Q3NVpKNXBBNHhDck1HZGJhZTRFZWd5anA0aGlhQkxhWlJ2bWhMd1RqZWFudUQ2dk40bDZtbXVzZ21BOGVlWThVb0M1Y0NWYlotX0lEZzhUTVNvQnJrZjA2MG8tbUQwUzlKLWtBbXdrVHZTeWpZSWdwWFhaMkZzVEVydzA4RXRhV01wRnZMZjY0ZjM5S2pjSUxXWm5maTVTSEcyTTZvTE41NVlxV0hYOE9oSFB1dDAxQlJKT3dQOGF4dmZBR2JESkFmYjcyVTY3WWpIY1VMWV8ySGJMZEhrNVBlRDRlS2M5UUJGcWM3bVRLRGFJbGZ3?oc=5"
     },
     {
-      "title": "2026年中銀國際「科創菁英．賦能興港」青年科技人才助學培育計畫",
+      "title": "APEC峰會丨白宮:特朗普下周晤習近平及普京 討論核不擴散",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNR2ZITGR1aXBUYXR2NF81T1Y2em9TeEVud3JDZS1ObjFmbzVGRXFpY1RHNm5QS3U2bWl4QndHSEJ4b2ZkNXhiN1k1Y0VCUkRfeExVaG8zQjF3TGdnSVBOUXBvRXVJMTMyazF6ZTYtY1RuNWYtWlpQZERkTmp6ME1wVUFhWldEcDZCQ25KZjJ0WGFJbEVvaWVJeFlaNWRFTERqVW9Vb1RfRHBfVTI5cUFkOUlvY1NiTWF6YUZBYWVta2ZhSEtsdTljd1NQeVhXV3lrcVNLTFVDWThXODhpVXBJazJTQ2RGdDhoQ1pCbDNvZzllZXBydEdDa3lJUTlxelEzWWRVUXdGQVRPVjluakViNC1kWThvWjRVSkdtcGI3clA2M3hLYjdYNklvNTV2bkpyWFRvTEZncng2OUdCSmIwRk5DOEYyOW1aY2JMVU9CUE1Tbno3TXZtZ3RDMXlOVUpnUThzbjFqb3IzQzNZZTlyZmY1V0ctQ3RZeFBuXzRXVExtNHlJWTVOTFhOV3B0UzN3Ym5KUy1vQmpyXzZEU0RNUGZFZXNqVVNlWFlCZVZaQWkzZzlBS1Y3LU9sdDdTZ1U?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQdzctekluVWxSV3FJTDBIOWRoSnJmejZOc0hndU0tejljb1ZkeE12YzJkT0FEanVVWDZwaG5pcFY5UENYYm52RXZsZlpxcmkzZkVyeWVHQWJqclBTcnBUc3llbXVlQzJJSGpNbkw0eHA0ZzVJNXdKbzd3X3pVTUhyR3NWRXVsTU55OGxwd0JqWkkzd1I2N2Q0Q3VjV1NRVk1aQ3VDSFk2bUo4YWNvOXNJTVBMdGdTLTdRQnVRZFZNRW41SEJYcDJhTVBKSndacWtraXJ3OVZTWG5UQlozMWF1NEZJckNha2k0SnpUYWFYNjZwNUZUMnFxcmlyZ3o4eWRTSTl6dWdPV29sSEU4cXh6OEhVMkhJTkE4ZldGbEZsTGtCeWNicGpGTHgyaFotR1c2ZFI5bnJPTlQ5MW11WDllMGlrUW5jQTgtYXc4Q0NiQXg1V1AzaGZPUDkxNWdhbXB1LVRJWUFtNzdaVGl6NXNieGE1eHpmWEZ0cmFuUDlFejBaQkZMUWZR?oc=5"
     },
     {
-      "title": "白宮官員否認有關經濟顧問哈西特將離職的報道",
+      "title": "科技｜微軟全球故障辦公室淪遊樂場 打工仔打Golf練瑜伽 網民盼Teams一併停運",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPb2E2Z0RSbG1MN0RKMHdDeHEyTDEzNi1Yb2U2ZlJpYTVXTVVWeFJDX1ZWam9FLXotVXFaSWZRWkUxUzhKLU9UaUQzZHd5YnJVMHN3eEdwNERTTlptMk5PRFhFdnhERTlwTmtKNGxUWWsxTHZ4VExYZEMzUk1jR1VaQnpjVmQ2Y0pHOW5lY3czMmFyRzFQc1BZMzZYdFAzUVJ1bVE0X1ZYb3pobDVpQ1Nic2NHSmJUaWhIbjFSQmZVNVhuYmUzS1JnalcwbnplcnA0NGJralpKSWVvZ01EejFPdGlUUWVad2NOX25rSmpUdHRjeXduM0hkR3JvSUgzaHpZNTFMeTlyaGpYMWJhMWIyX3NKYjgydHdhd1VRQ0JlTF9nU3I4WUpsZVQzTF9zWG51bmFMVVo2ZU1uYVc4N0FIMkM2VXpSdm4yaEg4VGJCZDZQc0piVElvUmh2UGlBMlNudnF3VTE0VjBQX0hwa19KbTRHUWNlV2NSYWh1N0UwY1N5aktQNDQ1a2dOV1pLTUdpNUVpSjktUG1fdnp0MjluLWNTM05STm1WVnZnNG1SOU5mbDBQbEFudUxUeWFuWUE?oc=5"
+    },
+    {
+      "title": "白宮：特朗普與習近平及普京下周四在深圳舉行三方會晤",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HdkNhNmpmd2lnQVVvdlB3NVRpbE5yZXJIV2pZUjBIZ25uNV9pd1F1Q3pBNEJIWkoxeVpTT3hvOEVXemhNX3ZuUmpxTzRqYVpJMU9jLWpNcWxJd1kyUWN5cDY5cTBaM19LbWFvajFGRQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OMXhHa2tpa2FadUpqTWJuaGdLU3RMbUdtUmVoWkxXaTFkdG5yR0JqeEN4YXlOeUtMR18xTFlHemdqNWNxQ19lMTF0N2J0azVyR0pGcnMxQ09KZXg4TVZYaUxUX2RseHZUaVA5QWFlSQ?oc=5"
+    },
+    {
+      "title": "美國空管中心通訊故障全國航班停飛 官員稱沒跡象是襲擊",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBobFlQYk90bVdYczZ6TUc0ZEw2d2hLRTBPR1RUbUl6QjFtRVVrV3podk1sc2w2WjdEYjBHY2lNMVJWaGJJbVBRYTJwTkN6SllzMTFrM3pobU92NFVZRE1ROGg0SXUyRmZ3WG4yT0VvTQ?oc=5"
+    },
+    {
+      "title": "國際油價本周累計跌約2.5%",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHckZHUnphbWJvTEJnV09xZXFIMDkyUU53S0NDY213UXZDS3JVNm5kTTFILXRRaWRicTVTbktMTnBBRUFHbkVOeGF0WDNaTVRjUzQ2ZlB1bDRranJjQXlVV2ZZb3ctM1IwS2hyd2JMNA?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股初段個別發展 道指曾升逾200點 蘋果股價創新高",
+      "title": "美元持續高位徘徊 美債息上升",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ycnRyRDU5XzA5WGV0S0trV3A0OFpvV3JzSGxiTXp3ZC1oWk92VHAwUDNRVVdYMzR0cTMydkNJV3pRR2p0NnJ6MHBRa3VuaWlUdW9iWmk4QVVydnkzdy1hMXVoZUVzZDRDb1BWTTBwbw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jN0I1U2JEMi1RRTZvVzFkZkRwc1o3M1hfN0w1VF8zeUdhWkV2ZmE4VDJEUmhDS28xRllsUmZVNmZSYmRPMm1JVmdJRlBRQTE5Q2UwVlFna0ZpQ2NHQTZfZ1ZtY3lXdTdsYnFCRU9MZw?oc=5"
     },
     {
-      "title": "美股｜美股活躍股交投熾熱 細價股成交稱冠",
+      "title": "美股｜美股個別發展 納指跌0.9% 費城半導體指數挫3.4%",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQLUJkakJ6T0lEVXMtN0tzVUpEcFo4NWtpRkFzcWlDajNaN2ZKMEZDRWhNQnladnFqbXppLVVxVlpPTDV6bjRId0RrTHEwb2RsWFowaDNjT1NhR09lNjhRVENueTBuRUVSclJnNGVTSFpCeU9wS2twVU5CSFdPaERFRFNQTzhKYUVLSDFBb0ZvbWtWa0xZc2NfYlQxbmRVRHIyelg0RU1jMU9wOWI2aEpCVXBja0d3MHpLZXdGeFV0djd0Q3E2Nks0TWhURno5QzRTV1RULS1BdjE2d2Fva0MzLW0wRkJ1Vm0xb1lva280M01DWlhxQmwxRHU5NGRHMkx0THdhNEZielhfSWNBckVGVXNqMEdmRjVzM25BY2RQSTlMRV9wMk1sYXBVSU5lWkh3TFg1c3h3dGs?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOQWV4cXFRNUItZmg2bTZLSjM2VXpveFZrckNvcW8zelVSYXc3am1iNEZCRFVSZ2J3QmgxRlM3dUliWmQ3OTdxbGgwa1U2YS1UM3ljYnBQZXltZkJfTUpBY3F1YzFWWHY1Mm00WlRsdnlJSWhhS2xoY2NqYXhvakd6UTFycGdnTU85RXUwR3dFV0hqZ3V5UGp2NnBIWDBoSjlabTdnRzdfd3Y4aUVWYndSNFRIZy1FR0NjaXZhMXBROGJYdHZFbGtXejNuLU5seHU5MExaNUd4bUFSTHgzTk5iSE1sZnlwNGx5YTR5d09NcTNvOC12QWFrQnQtU3pGeGVUQVp2dlYtUGZyRlYtTnY2cGs1Y2gwZ2k4cDlTbmtPVXM5bW43ZlRJYjhybFZKV2xXWVZCQmZJLTAyVjZieE5GMjlwLWhZSFJVanYw?oc=5"
     },
     {
-      "title": "高盛預計標普500指數未來一年上漲14%",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LWEJVdjR2bk1xSW0yMC1qNjkydnFZUGdrQ0dFUzdJRzZPRDJFcmwwQlhXSmJlUHM4VHFSWnh5TWowR1B3UVJpZ09uZk14aU1pMlhPc3RURE1IS2ZPc0l6QWdtRjhxNzc3TFpNWG1IM1d2TXdfRVE?oc=5"
+      "title": "芯片股暴跌拖累盤後納斯達克期貨",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSllOREpsX0Q0M3psQmpGSGtvZ2FGbFhHQUFuMjBSbkJudGYxRUpMN1FRMWI1bTdLbGc0OWpfTVNraXJSbjVEMmxUdTFkUkE1VGg4bmdlVVhENlYweXNzMEVxRDEyb2hnVVp3RXRWVlBQVkZkUEJodkFJSUcxR3YzcG0yYjAyV1FnbzBFQTFtc1VpZXUwUDF0QzloRVcxQjRyeTFj?oc=5"
     },
     {
-      "title": "美股走勢丨納斯特100指數挫2.4% 輝達跌逾4% AMD瀉一成",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQZnVvZ004TFI0WTA5YXVyYXh5VDJfeGRrZTRyRGNzV1o1WHdLRWZJMmhyN3dlZ1ZzYUptSms1aWUzcU1DU2pzLW9EWEIwbWkwbHFtdTVORXJ3RjUyZlpvOTZ6eFZPMGhVaURsZVhXQVRCeGVSRmQ5UUQyNW95M3JqY0xZSFNHdDNCbWY3bjhPTUtDX0F6SVAyMWJfOW9BRHdPemlRNklfMXN1YkRxa1gtaVlkMEZGV2N6NjF5R2lDMTUycVdUeW1hS3NkYkZrNHVqWTJYeXBrb1hOT1BXR1Y0WUFxOGl3eTN0bUdVWUJUbHNrQkVUU3pfSl9DYzlHX1NOd2VDMDV0ODBwSGV6YXVSRV9TYW9lOU5oeWNJT0xha2piWnJIMzM5WGp1MzBNM1lmRmVaQ2VVcmpPQzJCaXhJUDJaNmVpUjVnaUszdV9jS044aWJmMXNYME1URFJBRERj?oc=5"
+      "title": "美股收盘光模块/高速互联、Neocloud普跌，Bit Digital跌超11%",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90cjlWVk4yYy10UXlQSHhaYkR5N0pSQ0xDUjFFNWdqZVByNkFhYm1JOEozZU9YWXRNV1hmNkwyVEt3VjZKOXR4NkZJLWVTajFfd3BydmxFMEk3ZkNpLWVBMl9TU1c2UQ?oc=5"
     },
     {
-      "title": "美股動向 | Robinhood 10月平台資產按年增12%至3832億美元",
+      "title": "美股日誌｜Nvidia風暴未平息 科技股再捱沽 比特幣失守7萬大關",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNazI4UmJIS0F0VkJEOGtYQVUxV2llRlJYZms4WG5Sam5uczhfSjc2Ym96U2xsR1lnLUpDVXNrQWFyT2VYN3NrdDBiU0ZZS21JVVVTRnlSZHNvN2MzdW9OTVZPbUZUOVQyWlJuM241TXlCMG1ZU2paWWk4ZmQxNjZRX1RUbVpBQWFkdnZ0enE1SV9rdUFRVXM2RDc0RFFOQTZhREd3bllxMXo0MlFpYjl0YzlwYWptdThwcHhwNGNpV2RtUUJsVFl4YVdTdXkwS0llcWVtcTlueGhOUWFlaHFtaERZYzJ2eWFLcXV3eFpYN2xEVkpKdEFyd1otYmNFRVQ2TUZGSVRVZjc2MGlXYXJDNXFHdzFOZGdyWloyVlhkdXJjc05ybkFIeFVISHo5NHpMSlIzS2JRZk5telRHZWlGb2d5UTBOUGk2ZVM1eU1yRTk4VTVSMEp2SURQcDN1R3h1ZDktcGstZFhCVE5RcjVZM3J6NU9jOFMzY0lUNQ?oc=5"
+    },
+    {
+      "title": "美股收盤 | 憂進一步加息，納指收跌0.9%，道指微升",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUY5Vkpzek1vVTN6cERwbDl2SnA4TGo2YmNmRVlNeW9ZaVp1MEVMWHhWY2VldjUtZDRpNk1vZzNsQmdqWDlxSnpIOFhLZkg1cC03dTdCdW1VR3pKQUM3ZUkySTh1b3pzNmFrTmg3Xy1WbVI2SXlvbkpSa180ZUtDdjhZYklmVXMzWEpYVERXOW5LZE1zb3dxQnpyVTcxRzBY?oc=5"
-    },
-    {
-      "title": "美股早盤／黃仁勳下台陰影持續壟罩！標普那指翻黑費半愈跌愈深| 全球財經| 全球",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85amxuT1BRdG1VRFRrNURTeGVCTDFmc1V3bXFoNlVKRXBkZ1pyOVBRMDF6Y0Z1UFYxYV96ZkU3djgzY2RzN09pV2U3LUNrMzJv?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGlEY3FUdnRucnR4YWZROWdtWFhUcjg4TmEwZVZfZmJFdTZxLWZyVEpaaEZmWkdvQlFWa190bnIzdDdxNGVBUG0zWWZockdSQzhDNnJKYU4yX0VrbzQ1TXBvdjdvcFJiWmhsR2daTDNURUVzdEJNeFhDM1dBLXlFM2dSUWx4TmNaQnRtdEFmTy1HaUlGc0VYazItbEhpMlNLUGc?oc=5"
     }
   ],
   "events": {
