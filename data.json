@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-15 20:32:53",
+  "updated_at": "2026-11-16 07:15:23",
   "gas": {
-    "current_label": "11月15日 (現行油價)",
+    "current_label": "11月16日 (現行油價)",
     "current_price": "153.9",
-    "predict_label": "11月16日 (明日預測)",
-    "predict_price": "153.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月17日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "兩天兩起航空事故，美國基礎設施老化問題再次成為輿論焦點",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6NG80eEJUemhzOXFuNjRhbmw0VC1PTkNmdUlRdkdkUkNIamNJbDExZU1vdzN5UWI3VG1IZzBZeE4tdWx2aWs2TUZTVXJaQTFmRXFVYWQxaklENkJhNk1pVWNwSElsMWRlWi0yMXlvdw?oc=5"
+      "title": "美國全國停飛兩天後仍有數千航班延誤或取消，原因為銅線升級光纖工程",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rdEhFZ2ZmRlhwVDRReEZ2ZlJxZ2Y0ZkdraVkwd19LeFZnQUJOQmtHRkRhTHkyTUQ5bk1RR3Y1dU1TdVM1LUVkZUdWbGRrWU9ibUhwWDdwaTFKNnp6Ml9oeVEwY0VDS3fSAWxBVV95cUxOUENZNkw2a1F3MkhWRjlhXy1iQ2xwZ1I4RlFjX281UkxRWXo1TG8xZXotNXZLWThxblZaS1VGZ1diWERZNHZPNVA1MFBJbVNoaHNoSXZqZG01ZUlBU2xzWUFKQi13bnpBX21kRnk?oc=5"
     },
     {
-      "title": "美國火神火箭未能將亞馬遜衛星送入預定軌道",
+      "title": "深圳APEC｜學者稱峰會將為經濟全球化帶來紅利",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5aGlnUHlwUzBaR2RxSHoxek02YU9TTEdYRjRZMjJKSTJHaFBHSjRYRTU2cC1HYjlWUld0TVNfeHZwU0gtSlFJS0dRQkY5X2haM0ZiQS0tTVFJMVFGaDF2NEhRektSbEp6czQ2VG8xUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVmRsRHlMU3VFQ2ltRF90ZDZxQ3F0c2diRTRiVlh2NVRiMWpIbXg2dF9GS1dKRXNrbXpNM19oeXFmcWxqZWh2SlZ2MU9QTFREOE5DeTVxTlBCRDdqVHE1MWY2bERTZzRIVXNwajhGTQ?oc=5"
     },
     {
-      "title": "國際｜堪薩斯城儲銀總裁施密特：通脹仍過熱 聯儲局要再加把勁",
+      "title": "科技股拋售與中國數據疲軟拖累 國際銅價跌至4個月新低",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNWVNqMG1Kd0hWWW1hRzFpelhuQjRTMGd4UmpnNTBUN2JscTcxbndPS0FiZUFUcHliUHV2QWlpc0kzQUJxNWpYWlNfWnlCWWtCc250SEQtRVYwTHhyaUtjWmpoRG5Fa21QRGFCdXItemxZZ09FNWlZSkVtMjBXMy13aERTaHlnd3gyaHIzWWJ0bkN4b2tnNDRSd2wwbExvS2VLRW56QUYxTHdwWGNneUJhbE5yUEpLM0ctQTJNNHJmTThIMUQ0dDdnLTBKXzRYbDkwSC1iQktEUGNYY1N2SncyQmdvMzNCaUVEeEJtN1J3R0JiYUl2WjFxbjZyN2hZODJRNThOZ2RXbE1QMFVrbTNLVk5FeXFDMnF0QnJfRFZteVE2LWZ6YlVwWnFhTWsyZzZ5NVZ1S1VWRG84RzFoT1ozNU9qb0wyYndEZ2p1LWRJZUhJYkU0LWxuTU51U19vUHFnTGlLaHJOamozaEtyMFc1ODcxcDhNallVak1QQ2M2TTVub0ZXM1JGVFJXbWZVLWpqVnhOczE2SHhKQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOUnFqSkQzNTVGek5kUzRxeFY5UU5lTjZIajEyWFh3ZXhfZU5FTGxaMkNYa29iN3ZRUjliNG92YXB2TUxSMFlTTGhZVnhsVDVvaXZ5UVMxcUUwUFlHQVBlazZjNkt3MXc5LXpld1hjR2xNY0hOT3VxcF9zUXQ2WVVfV09uOC1SOWZQS0V2RDAxbnVYM0tUZ29yeUFLSDhTQ3hXY3c3cTU3Zi1yVldHLTVvb2l0T21tODMwNURfdExZSzBIQzVNTWF6c09USnc0YUJIYVE4WXZCRzVnMEpRSkFUdVRXdW5uMDRNa1FyNExSbEVRdGVrSGU3QnpEaWY5NDFwdzhZc3BOclBPd2F4d2FQdDdXdW5MNHZsMmxpcU5tUDM3Mm1nclpOWWhVZVg1RkNlZDdnQVdIc0RXZDI0M2VpcGNoNy1Oa0VPMnN2QUZZcGdQa2dBZ3htSW1MUzVvd1gyby1BbERNRjEwaTh4UXM5VWpDelRXTEJLcGJ1aE8tSlo?oc=5"
     },
     {
-      "title": "羅斯福號抵中東現「三航母」態勢 料美加強封鎖伊朗",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUGFFcEE0aXRWWUNOYVhoemVFYW91NGRwbXNJaG9Wd3NkYkNSTTR3ZmVfdHJiLVFya29VLXJWbDkwRF9IUGF0SmtGOFZfWGtpOGczY0l2LUtraU5NZEtGWkYxTmlucEZZOHFDeElqM2dGb3ptWEctY21jT2NwSndOVFVRdjZGaXdQZGpfdVhNQQ?oc=5"
+      "title": "Speech by STL at Opening Ceremony of Hong Kong Maritime Week 2026 cum World Maritime Merchants Forum 2026 (with photo)",
+      "source": "www.info.gov.hk",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyZlAtWFF4NXdyYkExdTFTQ3BhX1pkUnVIX2JGZFhWa0lRd2Z3YUlPZ016SUhvcWo1Uzg2MkpwZFdUS2U2OVFtbjV3NFJqREk5NU9kR3ZPem45aERiUWk2N19PLWZLWm9QaVA5YzMzMUdvQQ?oc=5"
     },
     {
-      "title": "八分鐘國際新聞重點｜貝森特稱輝達領導層須徹底變革／胡塞武裝與沙特支持部隊交火",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPMTh5cENrd1lGTzJKWjVWU1UwUnNBQ2k0YmxNQXFsNjNBaFFpS0t4OW5TMFpXS2Q0VTNYamRTVTZWMlp2bmpreXBHaEYtUGhnNm1ibVUxbHVRRFRSbWFQR0k5eEEtdTlHbnc5eUxYR09KVnJ2d3h0d3BrQi15aTNTUXZKbUNWS0RXdXA4N1BpN1l0ZWZ3TDhHcW1SUGIxYmx1OVdidW82UXJnYUEwaFEtWWJ1V2gwSzVXS3hpaThoclpQTi1ZekktcWZJSHZEeGhuVnYyRlpFNUUwM0VPSG8tcFc4bEpTcVphc2hWQlBva2xpaVVpZVFBWjdCaDNaTlotbEYtX1FvUDRhRzU4enBQdGxIRklxYzRxUHczYnZWcUtwbGVaYjhKaE10eklkUkoxaENxY3lYTkZZQWhPYkZnWTExekdXRy01YzJRdjVHeE1CbGxFbjVBNDg1OElHTDBuZDJhdm9FMDhFa0FfbmJfVllnR2RlblZNTllLNzNLeVhXMmVUdHU2M0I2VHhaTGVKeExsNGxYbEZlUzl0ZUdSOGgwVDl0emhnMnRHZEdiWGRJRmNFX1lyVl9SdEw2b2RaT0Jjb3FjNldhcFNlYzdQaXRCWWxXVVNoMjBqaXBVOU5SeV9MbjdsbXVvQmFBYVVSRDVuRXUzYw?oc=5"
+      "title": "摩根士丹利建議「最大幅度超配」全球股票 認為AI支出周期依然完好",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxORWk5azR3TWFzcnNKYUlnMWNkQnJRY0poZmIzS2dPSS1TMVJvaVRjckdkaFRydXR3R1VrMUVYb2ZwZWZ3MXpiRU8ySVB6dEhrVXIwX3luc2NWN3Q3cUU5NGxVWWNUZUNvT3M4VDlhT2hPcFZQTGtHYnZkMEZwbURhVjB2NURURTV1M1ZyU3NFcHh2ZGF2ZXVfNmhSc2dISTJZTWxkaHJVYUh5MkMxMjB6RDRWMEhkYmdNZTE2aWEtU2NEOEZwWnhId3kyUHhPUE1rVVpCVWttZ0h3UjFQSFZoeGlRSzNNOUdIM2NEU2FmbGtqejBvY0JIbk4xZ0JoUTEyY2VGSVIzT2dRSGpqcndSRWJUdTlqWjZOXzAwa1FwQ0tndlVod2k1VjE0QkY0Qm9RREt1MWQ1bUZRRnNJTmhJcUNrZ2lSbUkzVkdjREUzNVN4amlYcVVqbUhjTjFGaTV3MEFLSlBJdHJtMFl1NEV6MmxoMXZjQjBORGI4Tno2c1N0eTkzVjhyenFoY0w3NFFLZWsxLUpsb09OWk1xQVZxM0xnSk5qX0JG?oc=5"
     },
     {
-      "title": "伊朗以無人機襲擊巴林的美國軍事基地",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk1xMnFIU3Q4T3NvUU92WjJiQ045Ym0zMzM0bTBDbFhnWFFxNXNGVmJONGxqdTBlUlhib1hDdUZKNDlPekZndTJZeEVKVnN1eV9EMEZKUGFnaHRSZF9PekIxS3hTdldIQWJPejltN0RWNkoyc2piZ0FTYTc0X0hxZ0VoUmo2TndJVnNVN0NRX0hmTm1OTE9hMWFFQ0FYb1FxSEE?oc=5"
+      "title": "國際｜哈里突訪利沃夫 稱烏克蘭終將勝出戰爭",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxORVExeHZkcnpvbHNHaTNFYW9Xa05pY05ITXh1UmstZ0ZWZHkxcmFjTXBDUDBHLVI2LW1RWjFKTEV1V01WeHlfLS1kSEJNNzltdkk3dWJQM2xXYzgxYVgxUnlnZ3pSYlQxaEEtbFpUY2lFZmtmcGRmaG1UbnlYOHdYQjhSeG44RWtVakRaakZRcW5qaXZyYjZ3NF9UUlFuNnNyWkp4Q3ZkZE5HT2J2Z3dFVHpUUFUtdTEyaDFxODIyd25zUkxjUW5iOFMwUHVIYTVUZmZkeElwYlNQdmRyWW82bnU2bC1EeTFrLTN0UHJBRTJCMnZjZ29ET2MwNVcxb1JCTEtlZ3d6TnNzelRIMzNlVVFQOXNrMmVXVEpRMkZqRTZNOUREbHhkXzRKbklfQTgtSThpZUlJTkV6TF9yVkVuMzF6M1M?oc=5"
     },
     {
-      "title": "美國火神火箭未能將亞馬遜通訊衛星送入軌道",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2b0xTY2FGa2NZb1FWM2dDQ1pQdEUwWHI0cFU5WEpYVldEZTNOb0pYOHVYOFEtU0UwT1NhV2htU25hbFo1UXJFVWZEYnI1dTJ1SmtLVDIxYTkxVmdEVkhELTlVOW14V3VCbkxDeWtvbw?oc=5"
+      "title": "國際｜摩根資管看股債組合長線回報7% 資金由AI分散至國防網絡安全",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOVVVRRFFzaG5JY2NtaGdDa3VrVlE2bXRIRU5vT0VUc0lVcTh0d2ozN1ctbE1ZSk81clktTnIxbEN5Zi1ZcTFKbS1QYkFCRzY1Z3dVVi1yS2J1Z1FjRlUtQmFPN3NrVFdGZTJNRFV4aVdiXzhoT1FodGctd1pGd2RQekdDakJ6WjBKU2htZGt6eEdxZE0zNFdWZ1MyN3hma1gtYUw4ZkNjMllTZm5xRjU0cU94dFZxVnlOaTZSN2FuU1R5bGNaejd6cElRNGdsSWU4UkpYd3JsOWpETnV3MkNaUXQ5UUFMLW5NeDBLcFR4LUdqekZleGZZS2lTeXJ2ZVJudnJCcUNOcUFZQlZKc21NeGZhek84RkJ3R3hpR09oSF9IMi1HeklDUWxtaXZQaC1pMmpBSFYySTAtXzZqc3dPb3JPT092RlIwNHhyeHNULVo0dHJoZGdlbGFDTVMxSUhaNWJ6Vkd5VjQxaFMwcE1IWGhlVnAtbDlSN0treFhKT2ZYOTRuTkNoNUc0OWw3ZkpvZldaTnY1VjV6WkY5TEc0VkhtQjVYTzds?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜英偉達放榜與Anthropic掛牌 左右美股本周走向",
+      "title": "科技股拋售與中國數據疲軟拖累 國際銅價跌至4個月新低",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQdVRETkZibEhPN2J1em1SMlZGSTVRWlIzU1RvMVp1UW1mU1lCNXFlOS1PbW16TkkxZmtPc2VwSkVLenQ5bzd2ejIxUTVQLWdJUUxYbE5WQlFrTzVYWXpjTUVUb01kY1lZR1NmdjhIRnhWSlg1SG9NSXB4S1h5NXdIZzF3WmZpVW1OMFZobXRqRWtHeU1vbnZZb0NRckljcEFrTXhpLXNYbG9zSVpzdWxNdm5NVktRN0lfMERraVU2bW9keGZQNUNQWVJlczJ6T20zRE1iMDdIME5HV0dBS1JKRl8zYS02SmZ0aW5FWUliVnBxQ3FzOWZOV29hODQ2MHFtSlZ1OURaZEJjaEhWcEZCSFdtdjJ2eUIyVGFqWnVxb1JXeEU4ZFV4TG96OFpJLWxoeTRHdTZXNE9uSjgxenQybXkzNUc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOUnFqSkQzNTVGek5kUzRxeFY5UU5lTjZIajEyWFh3ZXhfZU5FTGxaMkNYa29iN3ZRUjliNG92YXB2TUxSMFlTTGhZVnhsVDVvaXZ5UVMxcUUwUFlHQVBlazZjNkt3MXc5LXpld1hjR2xNY0hOT3VxcF9zUXQ2WVVfV09uOC1SOWZQS0V2RDAxbnVYM0tUZ29yeUFLSDhTQ3hXY3c3cTU3Zi1yVldHLTVvb2l0T21tODMwNURfdExZSzBIQzVNTWF6c09USnc0YUJIYVE4WXZCRzVnMEpRSkFUdVRXdW5uMDRNa1FyNExSbEVRdGVrSGU3QnpEaWY5NDFwdzhZc3BOclBPd2F4d2FQdDdXdW5MNHZsMmxpcU5tUDM3Mm1nclpOWWhVZVg1RkNlZDdnQVdIc0RXZDI0M2VpcGNoNy1Oa0VPMnN2QUZZcGdQa2dBZ3htSW1MUzVvd1gyby1BbERNRjEwaTh4UXM5VWpDelRXTEJLcGJ1aE8tSlo?oc=5"
     },
     {
-      "title": "美股三大指數上周錄升幅，黃仁勳事件令英偉達全周大跌13%，一周市值蒸發逾5700億美元",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUnpxbURNUlJJeHJsSVJTZGV0dmc3OHhMUEZBdUp1OHJ3aUMwMUhuRnFXbFRhaEIwS1F5U014VDF4aTdmWEptWlN3ZjdybUxqc3EwS1V1VFp6ckZwSHZEMGdqTE9YMWtoTWw1bUg4Znd6MU5aUjF4T2VwZGxzZ3JNcktwemF3WUVxd2lyUmszYUYyN1VM?oc=5"
+      "title": "普通話台|午間新聞/財經|陳柏軒：科技股融資問題與中國科技競爭陰霾持續籠罩科技！",
+      "source": "香港電台",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zb1NUUURVYk1PTVBOaGZ0YU5TeFY5Y3hEaHdfWEE1U3o5cmpOOVdUSDVUUlhSQXZQYUh3WTFtV2ppZEo3WkYtU0VOX0FMWGRSMllvQndZbTNZSEwzUmREcHlhUEl6aHdkZ0R3dTduOWJiQQ?oc=5"
     },
     {
-      "title": "美股本周焦點：Nvidia業績、Anthropic上市",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZzM4MXo3WFV3MlpyZkhDVGtxam1keWV2VUlUQUZ5d3YwZTctUFBBdG56X2NsZ2pUVEdld2NTcUJyeFo0dl9nTV9nQjVva25YR3BERXBfajY5RGk1bXVnV08yX0Q2UXBIUk85WlNRWQ?oc=5"
-    },
-    {
-      "title": "北水操作｜北水逾19億買6科技股 騰訊智譜最吸資|香港經濟日報",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNeVpvMEZhS2ZUamR4bGZlT0doNXRpLWdJVVpyb1dmc2NaYzNXN05idW94SWlNQkJMbm9xc2ZTVl9zVzk1bl9jRnFXMWVBM0F6S2kzMHRCNld0SlpPUGx3blBHSEpKMURGeHJ3WF9NYjI2WEZwbVNQUmRmdGxDMEZhUXEydF9aZHV0dVlfM3BTcVBCMkwzUzlhV3Jqem9icS1wT2dDWmI4dUtlSi03cG1NNEpFZVVpeHBONVZFTVoxQjlJLXFjczdydFY4U2RCVnZUd3YwUUpTSE5FbXBuVmdzOG5mY3R0cldNczgwcGI5WDdYZ1JlR0MyZzZjNHZ3TjhReHZKWHVDSEM1Vk95RTRsOXhoQ24zNURFWTJELUViYWxBaEJGRzg4SUQtQjA2MWNSNno2TjF0V0dIMUd3RjV5blZPMzdGOUE0Q01CQnQtcTJRUQ?oc=5"
-    },
-    {
-      "title": "美股期貨跳水轉跌，市場聚焦英偉達財報與Anthropic IPO",
+      "title": "標普500指數和納斯達克期貨走低，因英偉達財報及Anthropic上市在即",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xeUhJbmlRdHlYMzItNGt3Mm8xbERtSmxOTVlfZFJTYlFGdjU5emFOYzVKUU9OMnZUa2c1bHA2Snh2LUxqanpXWFZVYVRJTWU3WUNXcVVZWkdqU0pNQjdZVTltenZFTi1oVnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91MnJSUGY1Vm0yV3N3am91NVFmd3FiT2dBT19pSThaTy11VkhJTkFjOHZmeUZPd2ZaSTV1TWxhdzk2eGEwRHpKTDhzdEwzYkZpSEs5eWd6ejVTbVBVRmozWm5rbGhpSFYtZ3ZKZk1NaEFYNUV6S0NF?oc=5"
     },
     {
-      "title": "美股本周焦點：聯儲局會議紀錄、英偉達季績及Anthropic掛牌",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrejIweG1IeFhBWnFpcXRrM3Z2djVydHA4OEdlUlhYbTVtcmQ5NGQtRXoybHBYdEdkNmd6OVdSbE04RFdaTmJmZmJVWjJKR3ZXTmU3YzE5THE3Xy1VazdQd0dqa1Y?oc=5"
+      "title": "MPF管理丨買美股捷徑：MPF美股基金 冠軍持倉曝光|香港經濟日報",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPckYzWGN2QzMzcE0wUnppSlpNZ3NRZVJSSm1ybDRPN19hQnExNEVKZnYzNUYtSzVyQmpiTDRsLXhNUEowek5RS1RCTFozWjVmd3FSMVhHRDlPVm5lSWdCdkl4ZjBCOUdVWGt2SEtwQ0ZZRENzb21VeXBadnNWdE4wYy1fQ3V6R1BSV2lWTkZmd0ZRMWtMT0lTc2RBbjhJRFlrRzdaN2hOdUlHY3A2bWpXa2tPT2lCMnJEa3ljdkxfeVVtYlF3VU5kTjhZQzFaTEk4MFN2OFk4SnpLSEJVS2duc1d6TW92Nk9NelZzdnk0Z2hRTVpsR05UamNHSmpVcnhQb0J6cHRmM24xWmROcFY2QmpBZVdsN0cyQ1UxQUVMTjRpaE5DMVBxTXZ1ZXdkbWlBSGVOZ1FnY3FqQnkweHpCd2xR?oc=5"
+    },
+    {
+      "title": "歐股早段個別走 關注聯儲局主席講話",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOUTJqRGlVWGRoS2hLTmY0YmdzVzFOV01wbXRYSFVTdTk2akdtT094enUybl9iOFViT3FMYl9MYWdTank5LXZtN0JWSS1FUlFJakI2b1E3dkRqQ3NXYkVlVktfc2c5ampIZ29JZ093b1FtdGxEd2Q0SXZLbm4wdUxydzhqbENIcnp6QXVFSWlBeEl1bDRuTEQzWWwyNVpfXzJZdGgtYWxYZDYyRi15UDJudjlhdk9pMWxjLUE2TXdIY3lxSHRFNWNiXzBxR0lSd09JQlBLMFViYTZWc1hFS3Z1YXBTSkRSa1dEUVFweXRLdVpOaUlqSXNvQXhFblUtUkttVlBmVTVqRzBveTViNzRLaTlGMzdGdVA4UkRpX0laaE9ST0c3YUFOX0JNTWw1aVM1MWc?oc=5"
+    },
+    {
+      "title": "【法巴輪證】部署科技股業績期 阿里騰訊推新AI大模型",
+      "source": "Now 財經",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sU1gya0J1MlMwVmF1X1dsZ0JvclUxWFFxLVg1UU82NDh1MzZpQW82OVVpdVJtV1RaNThrQ3RpOGJNdkVBUjJmMUJ2UHRfXzJWbVhtak1Qd3FzX2s?oc=5"
     }
   ],
   "events": {
@@ -86,8 +86,8 @@
         "type": "Q3 財報",
         "date": "2026-11-18",
         "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 3,
-        "status_badge": "3 日後"
+        "days_left": 2,
+        "status_badge": "2 日後"
       }
     ]
   },
