@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-17 07:15:23",
+  "updated_at": "2026-11-17 16:15:28",
   "gas": {
     "current_label": "11月17日 (現行油價)",
     "current_price": "153.9",
     "predict_label": "11月18日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "149.9",
+    "trend": "↓ 明日預測跌 4.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oV1MxVkIwRW9MVWxFRjNGX0NYeEZFbHJuQ2JrM3B1Smh6UTdJWVA2bWdmNk54b2tvcl80NExDNjdpZ2pqeXUwWUVVcTRXcjJIT09GdVBsSFV2TEM5eE9POTVTcTZOQVXSAWxBVV95cUxNWmlYRWFTU1BWTmdmVU9lLVRxeHEybk1zeDVpYnRiUFNzeENTdEtreDEwQlF0NFJtSkpnZVFMZWNtUDg0d2FSWFNwUFhoUU1ia2cyQ1RRX2laakFSVklnYVpqNU5yamxaandyUms?oc=5"
+      "title": "全球經濟指標| 鉅亨網",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
     },
     {
-      "title": "台輿論熱議APEC峰會：“科技之都”深圳成全球焦點",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsMmhfQTR6SVd4dm9feWdabFBOcGlnLU5EbTAwTlVZUTk2Q254bWlPT3gwLUVqc2o4amxvU2JEUm13TDVfMlN6ZGJXbVlILWxfb3VVMEVBaXk2bldZV1hnakNEYS1wc1ZiNWM0Q1pjZw?oc=5"
-    },
-    {
-      "title": "歐盟擬收緊全集團範圍內針對公共採購中外國補貼規定 減少過度依賴",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPdDU1OUVQbnhZVFFPZ0VNS0dpcGxkR3hqZDQ2azNfQm15MnoxbjU5NU5LNllWbHhLcDJDaUVVNEo4SmkwaW8wWVltLVJQZmI2THBJbG1vcFRiMjZrUzFNWXZjTDdHc2M4aFBBcFpOMUtHTkR4QUNscXFfSERMTm1LcDNBSUxlTjRPY2EyWTZrNEc0eUxXTDZlVmgzeTUzXzVTSEpFX2hUcUNnMi1EXzVHR1ZuYnRpWVZ6eEdxYmJERHlZazlOZEQwdEVpMEtJbVlGaF9pY1l0VkFFZ0ZEc0pzRjB5d1RrVnRXUVM0TG5zZTQzV0EtcVF6amgzZW92OVlUT1N4VWc3SmhBVHdkNGk0U3Z3U1B5SVBzd1BlZnpKNkUwa2NMZ2xidlZXNzU4NldUV2QzWXliZHZnd0I5NzlxMlJqNTZjbV9ONjVhbms1SmYtcFVVYUswVmNJdzNYMmdKaXRDVmN1LWpzMTF3MmVIQ21XQ0hYTVE3UkZ0MTdCWHFDVWZYNWFZYm9rUVE2eElMc2x4RVNTRVo3RmJjRERiaFliUzVrT1V1S1VCZllCanctZ3BVOFhQT1hzTU1ubUItRFVCM1dqRUs?oc=5"
-    },
-    {
-      "title": "美國原油跌破熊旗形態，80美元成為焦點",
+      "title": "天然氣：美國需求下降僅為歐洲提供有限緩解- 德國商業銀行",
       "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblpScjJQRmE4YV9RUFRYRU9UaXlrTE4yUnRzbTMwYlNJbTBreDBjd2tQU05WWHBWc2I5NEl4QUxrQjlTel93QURBZzMyOXFETTBuMzZOeF9BcFBuYjhLRzNfSUZMR2lXYjFVdDlKSVYxd1ZIdmdDenBFQ0FYZldHWUU1a1hEQW9RaS1hUW8tLWNtakNrUU9QUXNRSTE1TDdzTjBqWEY5S3doVVpYdGZrRmVjR2NwcTd6RFE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcXhMMVctY1VVbmozdEt3b1JfSUxSX0wyc082Qmc1SUxpYWZmbHRXVU1FTDdyNVVFMFU5UURUTG5Obkhzcm9CUmVTZVlWYmRLNlBPTFFhcW5wNTBKZ194c1FiejNHbmRsN0c1aTZXRzA1Y2ZpTW92d2xKUTIxa1ZRWnMxRTg4QWdaY2JpSjRiUHU1bjFIWTZJQVREV3Q0RlNJM0tmT2hBYUpPRzlGUU14SHcxLUFPT2gybTlDa2VRdW15V1Rvc096eFBtdmJBMWpvODN1NWF5MUVRZVcw?oc=5"
     },
     {
-      "title": "美國出招阻中國透過海外數據中心獲先進晶片 中方：無理打壓、典型經濟脅迫",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EQktVOWh0eG1KZTRFUHhTVW0tYUQyOHVYdUM4eUNFWXNETUwwQU5jOWh2M3FGSWtkNFd5dURaaTljWWVDWkdmNFZkbjF3T3BlZmhudUllTHBJX0RxSDNSQWNNd2ZPV0ViTFNITnJxZ1pPTmt6b0E?oc=5"
+      "title": "白宮大打晶片牌 增對華貿談籌碼",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSDUteVkxLXprbzNhYlZGSi1zaFlSb01TNDltdDRBRVJtNC1kcmRhWGFnNVJOcHlfX1VwVFdhTXNEcHg1QmMzSWppcUR2ZFlIbUpSOXpRT0Y3aUNUZVg3TXZ2M0lKNGdxTzZOdjN0Rmk3Y09XM3p1bnNLWkRhTmU1Y2tzSWw2QWMyeW1CWC1QOXZEYkc4b3o1SW5pcTE4bWh4Mno4UzE2dVNaaUtiTXFSakxnTW9PQkhPeDhuVUpVT0Z1RGN0WXMxQ1VxLU5vVUlfdWV3VURsdTl1Z2xva2R5S2JXM1VHZndmd2dXdXFMaTl4cTJQWjhvWHE0cUNzQVY4TFVKXy0wWHJQY1R2cGZIX2tkaw?oc=5"
     },
     {
-      "title": "中方強調在美國輸華晶片問題上立場一貫",
+      "title": "美國10月製造業產出按月升0.3% 工業產出意外轉跌",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JSGhRdUVNUVFFNW9fN3Fkbk53R3hkV0pBVE9ZRC1XckNobVh6SmlSMF92Tl9KQjBkeFlzeXUzd1FRZEc4bjZaUnloNFpYTU9YUUlQUm9Pekl3QWt6S3RNTnlJclVGenc4Y2hVT0NJSQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SOVZaTURBVzBDY3M0RXVYRzhvU1JpeWNIWG00Mnd0SHJFNjhzcGFKcENJT25pRlM0OExmV3pYWUE1UE5lN0NUellqS2otVWsyeWpxZTJMdWU1QWMxdk1QUFBOV3RkcktvUGZ1NUpiRQ?oc=5"
     },
     {
-      "title": "APEC深圳峰會：川習會與中美俄三方會晤背後的大國博弈",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNa0ZlcjBGdVlrbmhxU0pxWXBVdjRoNDRrc05yTmlXbzg5XzNJVTliMmZOODhlczRMdjlDQ05TeDMxaWpYeDctSVRFMFhYWGZ4SHRINk5qbFNNZU9QdmlDc0FlV2pBWXFZVFFKLWthaFc2eWw0NUNSUF81cXJFaVZwekowOXZSS3FydHVxa3NUTXAwaDQwRHl5akxuOW8zYTRzb0J3dEhkcTFrajg0WWJweDFSS3hJMzhVeEptSU1mSmFTQVpNS0FwNHlQM0wyNWJhSW1velpaaV9FeGJhLXRYaVhlUUp2WVdKSE5oUVIxVmRlZGlUQldNSlQyLWhVU3ZiYlR5Szl5OWYtbm1LTTY4RklTcV91R2JQUFBDaVFPU0Ffc2VPaHYwTGs0X2FIUDdNV2ZpYnJSOVR1QdIBugJBVV95cUxOUWhmMzRscWtzdnFIaE9rVzU0aHFiY3JWTExNV2xPS2szQmpOaTBsckQ1RWRnZlptN0g5NkdLckxnZkFLZWJ0QUVkaGQ0bEJUZ3FwNzR3TDl5Yjhvem8xbmREOXNYRk8tSGtwdjFUZzRGSW9YQi03QmNMV2ZiQnNqWE54Yk13ZHROanU0cElOR19jTTRiR1NBNk91eWppcjBZWV8zY0lhTVZZaTZ2NDctTHBudmQzMFFQRjhqVXViS2dPTE81UHQ3dWh6T01HM3pSdG5Na1FMTkpjQU5IU1hjWjliLXpnUkJqM0pvUElxR2I0cmd0NWJpLWJUZm9GMDNrYXRnUzhuZG1FNWFmV1JpZlFpNVBneS02WXp2b0NXOGxqUVAxX3hiZF9tOERFa3RhV2dhRkxHWjBqQQ?oc=5"
+      "title": "特朗普出席QUAD峰會 深化AI安全合作 - 20261118 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQX0I4aEpvQjUtTm93eVhIdmF0OVpwRHBTZmt4bVAtWWdaOWhVWU0yaFl4SlI4aV8wb1ZnbzQ2LXFRSkE5VXFYN2FOdmZYbERpY3QxdmNqdUNHNGc5RzAtQ2NheDM5S3R4aGIzWnJScVNsbjJFTTdwNkxZMXF2dU1fTGJIMHpYUkJwaVZLdFRzLVgyOTVSZG5jODJrNjNvZHhrWWNzOFFfVmthbVEzdDZQUTdEMFhvTVBMUGZUNmZBcUx4ekd1OWVyZHpOcERzUS1YQWdLTXdQOTE3WjhDMTNBQktTM3lLWjZiSHEzdENBbGRPdW5vVDN5WTQyQjJoSU5Ma180RExhMi15Tl9ua1FqeFU0QUEyQVk5RnFtdnlpMG1kMk5lRkVvTktvckdGdnFlWURlbQ?oc=5"
+    },
+    {
+      "title": "國際｜中加外長深圳會談 王毅促把共識化為行動",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNUWJxSW9lWW5ET1lyNHZPbWliTE5yNllWSEwwVERXWkY0N1ZxLWFPZzBRcnFDaHVqRUpJZ0l5QWZhdkwyUHpiTW9nLVd2bnFSMGRSb2syZ1FveTdjWDFEVjR0QkhkaDIzeTE1WGlSMWxCZHFBWDRmOUlMb1JhdmIyXy1PQWlhdWc5Z2ZjRW4yWlFrT1pCa0ZEZzJULTVGZ0FkbFJhTXo0bElMM3ByMGhnZ0ROMVJfRW9EUjVZVmlzVFpLVGMzNlZJQ293al9ocGxlcVJmdkREOTdqV3Bya2EzQjBlZWxndnB6OWtXRi1wN1FhcmlKMWdMWHNHbEtZbkF3b24xb1JMcHBHeDFCOVZTS05HZVhwaDZUQXE4b2RQbkZZSWZWTF9GUllaMlI0ZWNXM1R3Sm8yLW95OW92ZkRHMWVVLXowOWhGcWJZeS1uV1E?oc=5"
+    },
+    {
+      "title": "【Emily】港首辦國際刑警大會 8人統籌團隊：如大總管 - 20261118 - 港聞",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPeF9xbUh4SkhBMUJGNXpvWWNvNWpOdlJPSG83UzRmS3dSOEEyNFpLSHpFbmVqZ3ZtdDViZEZNMWdRdVdCS0JaMlRhT200dlJlTXVuWFgxZWF3X1p2ZVNhb1F0WXNFUkhZTjY3eUxDcHB3WVRwa1U1YXBsXzdULXFRNGxuclVhTWVHcEVlRkRPVWFRUEZBMTNYWHFmZlZUX1QxWXd6c3cxcHRMbXdrdzNydFg0OTQxWFhBWDlFSkpTSGdZWWZneUxzNEtidTh5Mmk3V0l2UHI1djRkZW1CWnhZWXNUR1ZfVjZOMXVDcXA3RG5pSm5qR3JIMEY5dzg4RGhKd3RyeWg1SUd3QUVFVWh6TEEyR3VOSlRJVE1LanB2SFpybW9YY0FaYWhMLXotWk1acXlaVFNWQUNTU3ZIS2tHOGRsclJRYk9Qb3lYOWVrM3FGaXpTeUJ5N3pSX1lLNmFhTUFtLVZrSlhBQlZvNmVhVllWbUpmdGhzXzhQTmRrejQ3cEwxYmdYaVFB?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜Opera改以普通股直掛納指 撤銷ADS存託費",
+      "title": "美股｜美股資金轉投消費必需品 科技股估值回落受壓",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVVpWNUZnbFZRVDNTdWVSbWFwcGQyZmcyenRHUTNUU1ZFTmhaUlYxbWx0QU15dG1HXzZESWZCZ2FQQXBnYThDaDB5NU5sZ3ROd2Z6c0FXSmxJVVBQMjk1R1F5dWhSRFZxc0YtY0pfb2o0Ull3RlhFR3NzYXROSXoyQzAyZ1MzWmllVVBKVWNET2lvNHVhUjcxbzFLUHhlbjZlRk9BSW9EUTRqNm9EWThaNTVJQlRoN2VZclVlY3VZSEVMYmRaTUFab3VreHkxZEF5Sko3ZHdSeHZyc3FwSUN3bWdjVV9VTm1tSXJEeFBCdmh6RE4yeVFSQ2NqRlhDRGtZN3ZDd09TMVhQbEpISFprbms3WUltNFlFaHhPUlQ1MlAwLXRHaFpEQW9fMA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOVVEtQXZjSFpBTGJkYUxMSWdnSFhtZVcwN2l1LVFSVWtvdkpMdElnUjY5cGpFT2FXMG8wQzlBWko5YmoxT2o0VDVBdEE2ZU9PVmpaQ1hoeVE4ZjhQa2VsdnBwSG81RWlLQV9Yb2FmSXR4dkVOMk1hNlN4Qzc1UG1penB6aUdpWlFxZ0pRYkx0RlFFSzZIWUZEa2dSN05xT3kwT2ZhYkFLQXhBSEM4RlgxYkJwVk1wV25Ndld4Z1hTbF9kWlBneDA3dWdySHh1ZU90SlNtVWVSMUFodVplZk13R1hGTm1Tcm9TU18zampEVXBTZ2FvSXFYRXdsSjloVjZQUWtuN3Ruc2g1dndOOERpMEtIbEJjVVpzZF8zcTE1RnRERnVFXy1DbnptUzlpWGlRdGk4R0JZMFFNSm9OSFcwMnljOXpKR1FfUDhLeGhETUVjSW02Mk5YWFAyUTJUUFZZNXRwbm5QYkc?oc=5"
     },
     {
-      "title": "$SPXW 261117 7490.00C$ $標普500指數ETF-SPDR (SPY.US)$ 所以我選擇賣出 :)",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFBPUFR5cVpfM2ROa09XQmpIUVB5YmJ4N19WUmlWYl9YclRKNnlzNUp3NkZPbEZZRnpieFpXZWpjRjVQakZSY3NETzdSOW02Yy05cW9KV2VPZ2lxMWQ5Q09OQ0lBOXdtamtZd3NXR2JKclFxc3RBZ1FCZkVKaG4yOWxUa2oxazZVbXFvSnhvRXJvQTFMRV84bmk4bnpSUFRTaUpjWU14WHBYQm82SHFzRFJHb2s?oc=5"
+      "title": "聯儲局官員：當局有需要短時間內加息數次以壓抑通脹",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYajhBN2dTSWNfNU1rbnBkdGsyaE5GR3hTVFROa0d5RVhLRjYwX2hIZzNBeF9la0ZvMlk4TTdMYVRQeHFIbTBHTG9qdGJZMThZbkdKLXJDaVBCSjdfb1NpOW5mVmhMS0xUX3BtbzZraw?oc=5"
     },
     {
-      "title": "外匯日評：美元對科技股不穩定性表現出韌性",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcGFlbUF6bGE5TmNGOVRPX0RQa3d6a1VsZk5mRXpkRWdSaDZXcXIzTVY2WkVZNmRzQ2UySktTblFuSXB6TnpRdTZ2bWlxQ1g4MHJTMGJLVDFrbUJpNmVuY1kwbDlYdkhTdnlxVll5bUR3dnVHdV9MUnk2cDNDMVhPZGJYVnZfaVZmdXdvdE9PNlZUa3BrbnFmblpSRkdwSE5aN0VUcW5pbHpyMVlFUUE1RFdqWkRDOFFrOE91YWR0OG8?oc=5"
+      "title": "拆解美股分化與「中周期調整」",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQanBNU3ZVaFU0YlptdVM2ZlZGdzh6SlJuWHk3MTVfQU41MDV2ZHBHWFRwZmRCNXhHUHJWdW9GV3NsTmxaRFVBYkZ3VmEydjVxbGNLZ3dyRk1CeDRFcjVyM0k3ZXlRUEZockRaQkxJckQtUkR6eXV2d1k0bkZtMzVEVGQwYWM5Wk9JR3hTN0ZTa2F6SHFVNlgzQVJCWHNnNVl5NFdkOXdTUWtYNm5pOVdVYk5ib0Z6alBlbmowQkJGTmNpLUNpOWRSNjBpLWE5V18tMHg0eE5OWnFnWG1aQ1JUOTBoMHZORVlJVVFNbHNXRklTSWxRckQzRFlOc0VhaUk?oc=5"
     },
     {
-      "title": "標普料明年本港樓價維持穩定 本港住宅市場有能力消化加息",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxORXM3SjNMREdJSWpOSXRTZ0V3S0pSa2RCaXhPSThlQVUzN1BSM2RrRWplMnNlQ19GdW9URG5HWGZrQllMSGNsblZGOEI3cThXOWpfaHh0cFd4WUNIelJ4U3EzNXFQSDA3emRVNkU3OVlHVnd1UzFoYzROenFkeHRseDlQVVhEdW8wcVh3OTdKOHV5d1RpWkFBUnNIUHh1SFo1WmtSVEN5OHNpcnFDVmJfSGViNDNjRDJUR3FsWXQ2Wk9zRkYzYVh2dTF3QXRtU1Q1TkNVZk56U3N4T2MzNnpaR3hVTUxpRFI1NWtCcm0yT1BvaVVWaU1QZTFfQ0pkcGpab2UyV1FZbTV2bjZOVDRXelJqODZjV3hSR2UzcmZQMFZrUnBvekpXQ3FfOURjRTNaMXZKR1BDempuSllVcmdwaE1ZUzVQRzRHNXpnZnZ2RTlGc0tncHhTWVBtVGpGRThvUzlLOU51Z09MWTRJNFZzYUlXbEV6NDA2cUZobE03U05VYW84YTZ5V1B6aHNTVzVaN2p4Z0hTTnpMVWc?oc=5"
+      "title": "美股動向｜恐慌指數VIX飆升，市場憂慮擴至科技股以外",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1lJbkl3U0wtR25UNnBFQkQzdTIwVExRU19RdkIyYUZnV25WVU5JUXAyZ0R5WG5kdTNNOVR5cTVmc3NyMnpwTkw1Z0g2LTNZc3lDUFFaa2NOZlhnTDNlVy1WVEwzZ3hDVnBUNWVEM2JjdHdrY0g5QzBOZnVJNmNldDZMNE9qelJpUG5qQlBqckduYzk2b09fUFY0U1BfYU1P?oc=5"
     },
     {
-      "title": "AI成聯儲局政策新變量！沃什推演三大結局：生產力繁榮、失業衝擊，還是泡沫破裂？",
-      "source": "富途牛牛",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwWFE0ZXJWa1poR2tFSTllRWZhdlIwLVBCUzRVelFhMEFhZW01RDhuci1xbDlOYllTQ1Y0UUtuQ2QtRXUxeG5yUVRENzloZ0RYbzBkNmxYMThuZUo5ZlM1MWZxMXdadF9jZnN0RGthVGVXMkRNVVBz?oc=5"
+      "title": "【美股市況】美國網絡再傳出事 美股再挫 黃仁勳稱對復任持開放態度（不斷更新）",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNZHM4NUUwYmxIRmc1QTN3a3pwSWx0SzJPYU9aOXlEOWZZaGNVYk5CMk15MEVfN01vNXNZeURicXUydEZyWTc0UWVGa3o2bFdyX1hweEpqZTdNY2M0Tzh1TkN4Zk5nTDcydjZuRHRaVC05d1dZUEk0M1lVa2w4Zl9oZEZaazM1blJfTDdXa3ZsN2dQVmtKaldvX1BtZ2d2Um8wY0pMNmtlTG5mNjZTNFdXUm1DX1VJNGlveExZTl9IQ2F5ZTItZGpRYVluZnNYalJ4UXlmVkNFQUE2UzdBQXBqaTBGWmlienQwZUJtUUdfM3pZRDgwM1FOZXhFV2xFd0RPOFUxQS1xUlphSHdsRkptdXFCZWxvV0Qwb0NpUkNHcHdEYU1hRzh1cVpHbHRjNmpzYlhSQUE5X3ZGdHpiUjZUdzN0U1I3b1NtOWhDeGZ2NmlKV3FsZDhYdE0tU0FoMy1DcFZBd3N2Q0lvbUxpTDNzMFZXTmFBcnJuVjVDU0UyYWpjLUtWQzNBZzZXcFFuc1BkUEpuWGtQeTU3OUZqbFpFMU5NcHBqblFkWHpqc3RSOXlXRE92XzBoajJNaG9nNlpBZ1B3NllsVGdpM2V4MkNZWDhKaHBHaEt2T1ZEMEtUdTg0S2pWYmpqRWVwVFZ2ZTFfY041S3FBcnljMnVXRFpHOGNhQndCNXZT?oc=5"
     },
     {
-      "title": "Anthropic获准在纳斯达克全球精选市场上市A类普通股，股票代码为ANT",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KVjJiMnNzOGJRQ0VaUW9GZW91cUtJOGRKOGQ1T2t0Y1M3bDVkVkgyS3FwdU05SElNcEZNSUdZYlZoajRsT0M3TXg0dEVoMnNnOW1EOUFwRDRBRWEyWXhQRzlVMGFXZw?oc=5"
+      "title": "美股早盤／美元指數衝上103.6 三大指數盡墨 費半開高後漲幅收斂",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iLWJkY1l3RnhIelpaRmxKNWxKWlpXUE8wSVZNb29pbWdGbzdSRHYzSDBBdjFiVHZrLUxDYk1CVkRra0xhTXdZdUNFT0o0Zk5CN0tEVHM0QjlRWkQ30gFiQVVfeXFMTUxwOENTX3hCZHJscFRhUmI4OHQ5Wk4xS1J1Umc0RzJOcmxMSHp4eHo0RFVUMHVvcU9ZMXM4dGY2Q09XM3dWOHRPMXMtTzFFR25tSUxfRTQ1dThxOGtRcy15VGc?oc=5"
     }
   ],
   "events": {
