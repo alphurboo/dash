@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-18 07:15:26",
+  "updated_at": "2026-11-18 16:15:25",
   "gas": {
     "current_label": "11月18日 (現行油價)",
     "current_price": "149.9",
     "predict_label": "11月19日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "149.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "巨額罰款｜Temu再遭歐盟指控違規 稱未有效阻止違法商品銷售 恐面臨全球營收6％罰款",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQMDA5NnNEb09BV3ZpOWVfZkQ0LU9mcmZjaDVzeEZqa3NKVUExaE9rUmxqdW5Zb0VUTkR2NjJseXlqTFFVQTVmNGJVdjYtWDJCU2lYaktoUHY4SlNkaHY4M3luS1VoREI3ZHo2YjNWajBmVXNIYlZjR3FGZDgtbmViRFRxU0d4V2tQeDhEWEY2TWJaRXVaS1NhdFJTNjJJbkRuMnpNQ0ZvT2xsNHpIMnZwYld5WkJlN3BNamRzaEdDdmduU25ONFltZ25EenJ0VzAyZUI4UWV2VE5idldxTWs0RVN4Tk84WTJ4YzYwQzcwLWlLb3NBa3NWdlRpUjVKT2ZHbzdlLUpQWWp6VldaVVdDV1ZaOFFWdUszQWdRZHhENDZETHBvRS03LUJGS21BYzIzRHJFY0J1Y2ZLY1dqRnN3SDVNZEhyWk1hY1JIaWlTenltcmdfUE0tT3FqYVE1U1U5WnhRbUFHS2NHbndTQW92cFJVaUlGcUlkNE1GY3gwM2YyQnRMT25ZdmxIeExyd3Fvb2p2Qk1UWmFkOTdOWU5GVGtYQWxpQ1FqNEFCbWlDRmwtQkdjUXRTaXdmVkJjZFA3WlBGVlRWQ1VXbnJxUnlHOG1kRHRKVVJLWGpPQnRBaE9fT1B5Wnp0aEktRnRaMDBUZFZRZEt3?oc=5"
-    },
-    {
-      "title": "運輸及物流局與業界攜手共建綠色船用燃料交易平台（附圖）",
-      "source": "www.info.gov.hk",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52RmJyelpmUUVKS0pzUkNXYTNVZVN3MkVXdmJ2WU5OTGtxYXhqU1NTTnFFbVhjTkw3UV8zZWZIWGNDMDhnZllFWm1vTkQ4WlNmSlh1RUVYajBWLWttdFJaLUp5NllkOVFZcW42ZWNVTzBhUQ?oc=5"
-    },
-    {
-      "title": "全球經濟指標| 鉅亨網",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
-    },
-    {
-      "title": "灼見名家十二周年論壇 特首籲港應時局發揮優勢",
-      "source": "国务院港澳事务办公室",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmUWlCMGxTVG92d1ZMbTdwdUpwWXpwSzk4Sk5LYlplN3hEbnNtOHRoR2h5XzRRV2ZvQWVDcDh6MDRaTWdEYTNJaUc2Q1RraU9PMUhsbjdUUTAwZWZfSjF2b094VGx0SUgzZWNoNUkzRFQ0eDN6VVZpVDdB?oc=5"
-    },
-    {
-      "title": "要聞解說 - APEC峰會開幕 在與美國總統的三方峰會前 習近平與普及會晤",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQV1daR1lMdnk5NmJHS3B1X21KTjFiMkpQTm5MSkc5WkVYVWpTVVN1NS1fdlVZUlA5aU01YUZ3TGtyaV9ITmdwYlRaVTBLOWRLNFF6TUhtejA1bXF6NVJvaWtJbVdwTzhqVGtrdTU5dDZQSkhoNnlENmdmV29nbnpsS2o3ZmxOcVNJWTFmZVhqME96YWRIY1M5R0N5VWdEazFwUzRnMEhnXzlHZTBmMnZXTkFGREdfNE50bU5PNE9XdDdKOTl2M3VqLU9UUURuRXplMXdyMDBuRGZaQks4bXNKdXRIR2NBLTdhMlFkM0JVSFQxZzEyd05yMUUzNUViNE8tdE9zZnd6czFYa3JrNW9Kd2lRVEplUnUzOVVOMjVWUDJTZEMyNXlYSmhxaHgwYlUyLU51azhRc19UX2xXOU1WSUpxM2dhTXU0RTUyclFocnc2SVRtWDVSZDBzYnNLZkJRWXg2eVE2SE9ObmIyc1BvNEd3d2h2LTdadlQ2N2FLVVVTVDE1X2tnSjFsZDQ4S2FwNWdCOGpieWxhVVJSQzR0UWtnQTFiR3dtTXlpcFdZTnpxa3EybWQxcHV4aFlLRU1za1ROLUhXaUpReENnWHpiWg?oc=5"
-    },
-    {
-      "title": "深圳APEC｜普京稱亞太發展表明更公正全球秩序正在形成",
+      "title": "美國民主黨提名傑弗里斯為眾議院議長",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXaWFYVnZHTUFHVnJLN0pkeEY4Y0JZaWpGelhvVHN5bWFCbzlJdll3QzNaTFl2dkZDSThOM2ZGcUNid0RnY1JibFl6bGJRRnJjX3ZQV0F4ZDYybTZRekU4OENFUEhnN0Q0bHNweTdfNA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QdUtNU2djYnEyWmFjcW9NTUJST3RvYTN0ckZRdV9PTUo1aFFUUUN1bUtmVnF4MWdhUDd5R2VQWmFKRDNVekNhdm1JN214d2lpWE5ZZXE3Zi0wVUdHMlgtUkJ0ZGlCanZGRzREbVJvNA?oc=5"
     },
     {
-      "title": "國際｜習近平彭麗媛設歡迎宴 與特朗普普京等與會領袖合照",
+      "title": "全球經濟尚未失速，但增長可能成為少數國家的特權",
+      "source": "日經中文網",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEtqaHBOaUZPVzVFdjRKME5KM1JZYmtoZVh4OHRXQUE1SldHWTdvaG5obXUyV0lDXy1Fc3p1VGxiZWw1VV9mT0NaRWNEeHBad0VMS0JRNm91LS1XTUpUU3dJTDRZM3JBblR4amxjMy0tWWJEekh1VEpTZFJSaDF4ZWp4UFY?oc=5"
+    },
+    {
+      "title": "國際｜勞斯萊斯推39萬元西洋雙陸棋 訂製部門耗時一年開發",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNUEtTSTFFdUpYX1VlQ0g0R1BSR0I5R1ZwMWpEM1gxUXBJU29sMTI2OW01R191V2RuaW1ET0ZBV3lZU2hucDVQTVJGLXVQaFhLamxPNkVVT20xMDJWaFRqR0cyXzVkRHlDOFVaM1RlSlNqWVlpZ2g2ZEYySkhCU01hcXprYU52OXp3UXhMc0tmSkplV1lMZm1tOFRiUjJfZE9VUjM3Sm1GUzdQbEx2czVqaWVpNE9FZ2ZmdHpvMDExYlpLN2hKbTM3dm5vV0FsUG1yZ0Z1eV9aWExRenZibWNVb0xFUVQxNm05OU9Bd3h5SnZWblhjNUVyMVBRSzVSOGxmX3lhNTJlVzhIOFNtZUZDSXB2MDEtYUw5RlZ2NldXVEx5TXEzLWRqUDA4SGtNUkluV05nQTdNc0lLRGIyUHhVNjdpNUR5NHNQSzczX3MxNkpNWmFOa3lIVmFHRE56U0F3MWFqeXNsNUFmeUR3TTQtbGZwdHZYd28zNWtvOTBBeXpuMTZtOU5UdlE0THU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQblAxeXo0U0VsM1A3V2pJU21CNDJUY1o5RFZqSDlSYmtNeXJ5MlRfQjFmZ3V5Rk9HUkdVUm5wQXJ2SW5zcUdNeG4temk1Y0hQNFVPZ1NsVHpSM2FBdTJLRWg1NHlYMGdscExGOG9pd1NxX0d6bms4elQydzlVX0ZDOEpfdy1OM2t0enVvRnNndTRJTnI4clRlYjU3ejBEZW5yYk4tTU1iMk5hOWRjcUZYM3JGUUVjMWx1QnFNeWtiOUx3V2U1eUd6VWhRMjNtQ1hMUVpra09GbXE3MFFDSVV4OHgyYXBjSnlHQm5EVU9kaGJLTm1Yeks1eE5qaXZob3p1S2FXSG5IQTVFQmNIYU0tMmJnWExTZUFBMGpKUGYxWE9jYmJGdDQyTVNBakdHaFBjUnpNUUYteV9oX1lJUTc1TTkxVXVJZGI1VTVJVDRwQUlzWTNkdmthUEpnbVJHREtCWjZ2LWo5RzBiQ0Nqc3RZeFhVQzhtMmFU?oc=5"
+    },
+    {
+      "title": "美國10月新屋動工按月轉升9.9% 多過市場預期",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYQ2VmZ0ZSa00zOTBRYzUwblM3TlY2c3pKUlI0TnVvYTlwMnhvbkg3SXVEVjFSYkZyMW45ZUxGTnM4LWcyMS1PcHRseEdxUlhDVVozVUt6cFZtQ0lCNVlBWEM3MDdpN2RsUTZvd0I1MA?oc=5"
+    },
+    {
+      "title": "普捷天奴以勝告別美國隊即掌「魔」 - 20261119 - 體育",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPTjFfZzJZek5ael9iSFRhMWYwNFJwMFY0SXNRMWFZWjI3ZnpXZjRYRmhmX21ucDBNNl95bmFhVGJjMUZaRXBtYnQtVXpjM0Z5aEVKbnlwal9hRnRpczR4M293RllvdHhYRTk0SU9VQVBKOGVHNlI3V25RbndnQXZ0U0E1ajZ0dFZ3RDZZMTAtRGdWY1gxX24tT2t3M2JiOGswQnNhRXVFUVoxeG1hT3BYOXRkc2hNOWdVajRVN2JhZkFZTU52Z3pIZjhUQXJEVGNiRmFSNGtwdUI3RElzSUNiNWVKVVJyZWdBODJRV01zUmVDT05IT0hRUmlDNVZkTjhrbEc0S0xUQlBtdEFFZVRjVDloUXRiUXkzdUdIdzRZQkViU0lWN0lXUzAxbTBBRGpZOWNrTEdjSVFVR3JEazh6TUhMZkhsRGhVWnBvUEV0SQ?oc=5"
+    },
+    {
+      "title": "美國10月二手樓臨時買賣合約指數跌4.7% 跌幅超預期",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05MHNIN3ZGV2Npa3lDb2dlSnpIamVYaDFXWlZsdF8zZUNfeUVKUlVldEcyVXFPM0tKWnFOMElpSEpWRHlHT3dOTFBaV256T1c3YzZIcnpFTjFkQ000UHU3QjJ4RVpBQ0lkV0dKX1RrWQ?oc=5"
+    },
+    {
+      "title": "新加坡元：美國收益率影響新加坡元復甦前景——大華銀行",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUWlzci1TUVo5eURQYmdxUnhfR2dpMHdCMmVBaDM4TnpFcjlNdzZXYndJYUp6eHBmRVIzM0tfSTlXS0JCSXEzUV94VUNnT2hodXFUc3FZcEo4VUlNZzlGMXN2THVmYnFZM3pMTDFnSXh0X1dPZmxEX1dyVnZtNUphS2Y2cmlQUS1OV3RkTUVlaFpJdTBrZndHMlIyc21qaVpOUDNZdVB2aHQtZXdEblYtTU9jNVdpdGttWU9Wb1JOOXlBcmJCbEF0dUZzZm12cEY4?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美債保衛戰｜ 富達︰即便美債息達到6% 也不算「非常便宜」",
+      "title": "聯儲局10月議息會議紀錄：幾乎所有決策者預期12月加息",
       "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUZG9zUDUwSC15RF9SbWQ3U2Z0VW44ZzViWUJlLVBEOGdNOTBWcUxROE5pUjdRMDVPNllKRWJ0TmJjRkozaDMzaFZKLUhqZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPYVRSb1gwcURJbkJmQUo4d0d6MDFFdktCcEFyS0Y3bTdjaDRJV3FLeThudHdPUExvT0o4X2hHTUlYbi1oUEk1UUh3aEt0dHJrUlZaUjM2WjdoekNTemU0cS1IZk9FLVJVbWVwRTg3ZnpmTEl4MXktbmRLVWJ3YzZta3dGb0kyOGIyQnNMck1TYzlQSUFzT0RNVm9GZjJZam1QQTEtMGFrSlo4a19yLVoyV3FiWkFGOXlGMmdZeTRLdWJUNDRwalN0SngwVG1JeEIzYXk4VENzNFE2NXJXSzdCQzh2eGcxMDF6YzYtUlAzR3Zuc0NKenRQMXpzVFg1UnZNMDFXdVdNbUJnSnB2enJVWmp6aFV6enBEVUFyU2tMd3IzMTRjSXZZNGs4LUl2aHF2WTJ4WUtIbXBRWkhoUjRhcndKbUFoNlBJTlhwYW93UENZRnlSd2JZdWRVaWhUTUYzcUtldHc3MndQdXVVdFo1MEE2aWFBeldPX01qNFZYQ1NsOHhx?oc=5"
     },
     {
-      "title": "鉅亨投資雷達》擔心科技股還沒跌完？我還有哪些選擇？",
+      "title": "美股｜Nixxy推20股併1股逆向拆股 力保納斯達克上市地位",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOWmQyR0dSejJDRzVWNnVmeVlId0VXd3Z6QnNtbHRQV1cwekU2Nm85R2ptS21ER25kMTRfanFkd3d4Z05LREgxdERnRGk3dGNhM2dyUG9DTmJ3cTlsOVZZMU9GQlA1R0dQZVk3MWFydk5Lc0x0WXMzZjdZTkgwSFA5SFI5eGFpTXhsY2FLXzV3UlZMVnJRNkF4VGJpQWVIbjhKOUFsVjFjRU9xdFZEaWZhbWE3RmpwYTNpaVp3eThURjI5enZlNVRLMGliS3Bob1R2NXR5N09hLThzaXBhd3lZZUhPRHNsU2V3NnplTE83LTQ4OEh2VllyLVFkck5YcmR0RHNQc1hPLXM1MG9ReG1IeTFnMWxNMUMwVUZlNUZ3c29sRVVDUDZQb3JVN19Cc0h6Y2p1ZzBMWHoxdnVMWWFyd2Nuek5OOE1oYnhhM1B2VlpYZjM3b3VLOVlyRzd4QzlQTUw2YnhDSVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNMVpaZWdfWGJldGVsc3BqbkllY2RwN3dUVmVIQTBVQlhJNHRRYllJbThmdTJROTRJMURUNVE3LXZEYm1XQXJTY183aHViRUFHcDg5NE5VSHhNNjFUYzdxbnZFcFU4M25qb1BNYkwxQVdqZW5IYTRDa2g3NVR4ZWZYYXlmbDRVSS1RUlYyWWpTV2w0RkVFLTdwRGUxTmx6U2RrZTlpT1ZENnRzZFFaaTBEUmx3SjRWYk1UdS0yNFB0eXhGZkFQcEZSeFJhN0hlME1EOElUempTLTZLeFRzNXFvc2h2VDl2NGlKMm1jeklBS2NyREh6YW5HdVlJOVAyM2UwdThvTDhJdFVMb1cza1NOT3Vobk9ZSjdFbTQ4ZThZVmJMR2RnSW1mVXU1eFVhYzJtbXgyX2FXQzcyTjZvaFUwLVBDWC1kem1EZVdyWFRPdWo1Z2EtV2d1dEI1NA?oc=5"
     },
     {
-      "title": "瑞銀預計，受強勁盈利和經濟韌性推動，標普500指數到2027年底將升至8,200點",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14NjR4eURjNkFIelZ3b3NVclZOclhGbFRucDJDNndRVFhjSl9hOWx2d2k5UEtiVWRHalhmN3VwRlVDUmdJVVVNMnY4d0lnemlXZkRZZERKTmpxbGhicjJuSXUwZmNydG5mOXhTck83M0NFUUZHQ0pV?oc=5"
+      "title": "聯儲局沃勒：12月應考慮加息半厘 或明確表達明年將加快加息",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZRlNsQmZFRm9fcVFvNUpLWFZrWE1qX0RzR1pFRl9oZGhZUmlBVzlhZ1lXbGp0T3hSQ2huM0MzLUJEaGdZUXJpTjFtc3REcU5uUFFia0NxSTBtNE9fUWNGZG05ZWFDa2FmVWlrNXQyWQ?oc=5"
     },
     {
-      "title": "美股愈震盪 黃金為何反跌？拆解金價下挫背後的資金流向",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOMUk5aGdYRkg3YTVDVVFjWVBUbURWRGdydGNCV0lDX2dBaGxWR0VEbUIxNW9oWFo5SG5NeG9uWUd1ajhvYko2VkdXbmdHU0F1TkgxdjNYVjBDOC1hWWx5NTYzdmhIaV90Um1lYllNcG01Z2JWUW5BcDF0eE9yeGFJSzc0a0R4dkpfNGNZenBkdDlGOXBLcC1OOVE1aHhialVfNjByYVRHQVFTNEVneXFfUlRPQmU3Xy1hb1JtcWNfM3FjaVRzdzJmT1FJNUc1enF3T1R3VktGaWdaRTgxVFNfaUwwVExkWGxHZkIydTlfcVRoVGEwMUV5Tm9UbWRDb29fUmVuaVFfR1AzbEF0dVRjZGN2aV9vclN1cm5icGQ4VkxKd2lzUEFyOXd1eS13TmotTFZPUklvRFlNaTJwM1g3OW9yR0R4SUtlWURjVmNXVXNYcXJSY2o3VzRCbjZMU2FMWUlENzg3TEZ3R0M0eFQ3UHduZHlMUXlBZ292RGpNZzF5allhaHo4?oc=5"
+      "title": "聯儲局丨議息紀錄揭示將進一步加息預期",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNQ0hERjlDVkhTVGNjb1VzSHlFaGdJeFU3NUJmN25uNjNicG9LV2VqZjQzOWIxU2k5QmQzeW4tNEdLaWhFeTBWQ3NydDVUZzBUY09NZkltdF91RFhsNzl2eXFGQ2Q0WEQ4cDNfZUlsQTQ5VElTMHJKUFpJV1ZJTU16Y1c5VWRpMUxZZkxYX20xUXc2d212NWo3OEdydXhGTFVLQ0ZLZzRuUGNvRjdBYTMtU0dxR0FlSm9hUFpYbi16M2ZSeEdHbWVOVWZIS0tMdm1KQVZRSm9KSlFnSHJFQlhBSjZPTC1ON3czdHBaZDQwTzJpREV2MHRVcmVQU0k0NnA5NFhmRV82QVNNb3ByRmllbEtMR25ZOXYtenlNa014X3NpeGpOZVRPWWNSRHFpTEJVQTdEallSZjg1S0dEWFNhZlY3RkNkODkx?oc=5"
     },
     {
-      "title": "科技股動盪難掩登場勢頭！Anthropic(ANT.US)衝刺IPO最後關卡：超購倍數已近7倍，定價或破區間上限作者智通財經 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUZ0QxSEpLQU9NNzdQNTRRXy1lVVBGc0NpUmFEZTdEaVJnaS10RWRYQlJNZmtqTTY0eW1aamdCcWRHS1UySlhjR01oREhLS2F6ZGs1Z1duNEd2TzZEaVBmZlJEVEpVQ2NSNzJJaFJJLTM?oc=5"
+      "title": "美股IPO｜Anthropic上市前夕，市場出現跨資產拋售潮",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaTNpTnAxVVdiRVRQRTBmWnRFUE9GNlFTVUpndnFVaGQ0Rk1wdmJ2M2I4RzFUbDM1SWJDNjY0VkVTNmpJS05vcFlWcGVfaTZMVHVIbFg0eHJuOEtnQ1gxemhsN2lfOGxHTmRFZ1ppRDVtZ1V1Y1IzQzJxMmZNa29IMUJEUEVzY3ZzX0FnTl8zYUYwbDNEQXM0V3JMNWppWWc?oc=5"
     },
     {
-      "title": "匈牙利福林：匈牙利國家銀行的鴿派立場令福林兌歐元承壓——德國商業銀行",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMnBqU1hQWTdSUVRObUVLWW43YjNFRTRFMVdKalVxOHlBTF9jQ2REYk5EM2RPcExZSU5wclcxU0Q1VXB0NE5nUFVfZF8xcFJNSFFMb1BfSDdTanI2dXRMTWJVRk1SRXFINTNPRkcwY1NsWjRkWmVlUUViVUJPcGFFMFgzclJOZlNhd0FNTkxFbEd5aTNzaERweFN3aG1JSFFfelpjT0d1a2x3SWVPV0ZNNmZVTDJ1Z01aQklxbjBydVctLV9zWDhHelI3MF8wTzd6UTM4ZDFoSWl3dGlsTUFkX1AzU2ktaWhNXzhESVpSZXBrZ1B5Z1hiM2h3?oc=5"
+      "title": "聯儲局會議紀錄出爐 AI是元兇 揭示將進一步加息",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNTk1LYm1jby1BV0tYVXllMTZCWXVrS3lVQ3ladk01b0hvbmJ2c1pUOW9BQzRRQ1NlYXZUQXhJVTNtc0xhTlhSZWFmeGJMSEJQa0Q3dC1Kc3lzVmdHZGtJdDdLR2Fha2ZkMDlCYXYyeHJNbmZhcGsyTkQ5QXd1eUV0cExmM3ljdmpzbnpscU5LYlBiZVFXM1p1Y3NNTmVUQUJpQU5KLUV6NENoY1ZPYTIyajhDeEhmYVJGaERzNjh1S3JqdkFwS05yT0tKbUl6X2JHMzItWVduQzJhcXpKaVNyc25Ccm1nc0JnMk9xbUpvYnZ2MVdOenl2X0E4NjJJbEZzM29xbFhNS3M4VUFnLVFPc3ZiSU05OUFERFFXM3JNYl9kbHJSNUJfaGl2TnZNTElYUFpoOEYwWlpDaEl4VGJaTDZKS1FQRzhOdUk1c2h6TFh6UmZP?oc=5"
     }
   ],
   "events": {
