@@ -1,95 +1,85 @@
 {
-  "updated_at": "2026-11-18 21:55:21",
+  "updated_at": "2026-11-19 07:15:23",
   "gas": {
-    "current_label": "11月18日 (現行油價)",
+    "current_label": "11月19日 (現行油價)",
     "current_price": "149.9",
-    "predict_label": "11月19日 (明日預測)",
-    "predict_price": "149.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月20日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "海事仲裁量近10年高 港彰顯爭議解決實力 陳美寶：研大宗商品半稅 拓高增值海運服務",
-      "source": "国务院港澳事务办公室",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oRl9DLVZ6LUdaLXUxczZ3THF1ZE9FcjQxREFUSktNazVpb2s4dVNQZS1MdWg1d05MTk1keWwzLXg0TER1TXQ3U1hIRkdsTWtUQzdvQWN4RkNsMUxGRWtBeGlRR01pUl9KandSYUdZeHN0a3gzam5VNldn?oc=5"
+      "title": "深圳APEC｜中俄美元首會晤 習近平稱應合作應對全球挑戰",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MaURoV1lwbV9EZW96M2lxR20zUzhFSXA3Um1uWm5idHc3M3k3TmVpZmFKeUJGdHRibVo4d2F6MDNEWEFwUWYxSzN6WS1PRG5xLUVscUg2bno3cXVkajFhVHNRX1VLczlyM3hSbThocw?oc=5"
     },
     {
-      "title": "阿里巴巴AI雄心面臨嚴峻挑戰 美國收緊晶片管制",
+      "title": "國際青年人才交流基地成立 推動青年發展",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOVW1mTXJnX2JVdHhGS1dVMWlHSEdxaHBFMWgyZnpBNmlvUTVlZ0Z1U3ljZUwyMDczWWdxellPM0JxXzRCVDdHU1hWOVJLRjF6TXVucWhsbHRQZm1OdTVNYzc4X2JFbm53SUZoNkdRVFpzSU5jT204cmFZUk1nb3JaZThnRC16LTVoTXBKMVhDZ3lTZGRYVnhVMWVmZmZOdW1Hc1psTDZsWEE4TE5GLWtQa3RrQVB6Y0VMWVRmOXd4QlpBMkNYYTlLUlpzckdZekVKU2pBaXVQckM5QUt1UVpHdnhMUUROdU9pNmJXU3NZZEhUd2o2XzJXczBXUnEwcmZsTmlURS1mRklSV0RTVFFtNzUyOFkwVjhkYzUxRDRFMUQwQUxqczRzZDVaaVdCaFhHV3h4aXR1TW9iQ0MxR2RpVW9B?oc=5"
+    },
+    {
+      "title": "國際｜羅拔柏迪臣接棒007 跨性別演員Hunter Schafer成邦女郎熱門",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNb3N0cmN5STFCcVAtUVNBakZvaVZVTXYxTkU0amI2Sk9ORE4xckJtRGlveEF5MjZiZzFKTGpDUm0xU29JVTlaeS1wYUFVYkJCc041RGtKS1E4cHpyTzZKQU51R1VxZlp2ZmU1ZWw1Wk00OUZoc3BqTVVIRmozUXdQSl96TDVTTzlsNS12enpKaGpRb1B6N1dRb1BLbUZydUVMVFlMSElWUW1aOWJaVW5vVkRORXNEQ3l0NmtMNnZFeGxEZWR6QXlvQUQzbkdTTTJwdE1seTRkYWdrLVkxVjhVUkZXaDhUN1B4SkVDaGN1TkRvRHJ4RW54V0NkaXVlNEVaOHNIR0taVUhEN195UFcxeVU3OUVoTHBGeHAwb0tHUVY4OExqVlJIdUFrM1d3Q2lpTUxzUjQyYUVyUHFhZmpuZVZhb1RjUUtIWE8wRWVtMVk0UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQSTV1N0F6eDZFQ2ZKV1dHc3cxdDB5RnhHQWpIUFcwejNkOV84RjJkYmxOY3lfQnV0Q002SG9hNW5ZNXk0WHhfdm1uY3VlZlhoaWNxeWM5TFVjWVRSdFVnM1pnUjdua0pZMGhYUWVqY2dtWHJGLWFNTVNKaW9FZUtYUmUtdVF2Ukk3R0c4endSY2VHeFE4ODJJOUYtekg4NS1HRUQ4ckJxQURKbEp5Mk5YZGtaRG5GSFhON2ZRSEN3SVdFeERMdzhNX0FVUDBySUVkWmxxbDhWZTVmZzVMMFB0V3V2MlJkSnFtTkwxeF8yeXNJbzVrRUJFUEtWRElJSG96WEh4c3RmeDI1THV3TjkzMzdWc2lqVjBjdGdHODNleWUzdXgtUjhCRGVIeG8tSENQa0pIVlNLNnBHZjBSYlBqalpocTVPU2J6LUV1SDk4aElwZHBzc0trSDR1UjdiQTRCTjUza25RYw?oc=5"
     },
     {
-      "title": "習近平迎接美國總統特朗普--新聞報道-中國共產黨新聞網",
-      "source": "中国共产党新闻网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YQmxkSC1TMFRFdnM3VF9ySEc4elAyUDZzcC1JSF9OZ0lQV1lqSmVWNVhCeno4UmZRd3Q0NXRWcmsxdEM5T2FGel8xOHlWX0V6VlI5VFozQ3RBZkVtTzdrYkhvR1g3Z29haXoxWkNmbXE?oc=5"
+      "title": "深圳APEC｜習近平會見美國總統特朗普",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IYm43R2o4YTR4UWhaNUdIck5HSHRJbGs0OGFEVXlrd2tXZGVDQnVteHJucHpfcmpHTDRUaExjbXlCandzQUR3R3BQU080VTVablNRaHd6OV9rSWJ0VjdDaTdnak5BeWhHYTJfMG1GSQ?oc=5"
     },
     {
-      "title": "國際｜中國9月減持美債近270億美元 海外持倉跌至一年低位",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOYV9jTlpPSmtnSTd2clBPVHh5d2dTb0pjeUJ2ZVNPd1V2LTlBYkc1bk5qdTVWY3drRFIwNWFFal9fOGlxVy1XUFlzTWE4QVhVOFlpOEgxZjRGcmtFZ1pHOWZLTGpUZHg1SnJGQmoyQlZHRFpOTXJ5NVZyeUlUY3JLV0JEQkE5WklpRGVmdkpqbzJHM1h5UnIyRUV3VHA3YTMzNDFPTklsYTA2UDBTdmJ2LXF0RFp0bnFBMU9rSjJmcGJnb2l6VTJscndGMVVnR0FxcFJvUGRmMV9xQmZyRE54c0xaNnNOb2VwSkN3RVF0RXdkeDB1bUQ5WnA4MFRqcTY2aVB4YWRGY3ZMLXEtZTFra19LRkNrT0QzZGlDWlZNQkFXbGdjOTBJVzNIRTF6eVFadVhnNEQ1VDh3MnBjUUV3NmxUVHZHbUtSRjgyU1VxY29iZW1xRGdsdS1uOEo3TTgybHJGTXc5Q1dmbW82anJB?oc=5"
+      "title": "德黑蘭促地區國家採取必要措施阻止美國策劃針對伊朗軍事行動",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BNmdTR0kyRTQ5TTc4b0lkLUMzMTdiTGpLbm02dVlGWDBLTllVTjhlSE01YmtIS1piRUJObGtFenc0aEpJa1lBQU0tb0w5LWpvQnZtbXprM0tWRmVsOHd5a1dDNW1nby1nTzhWdk0tdw?oc=5"
     },
     {
-      "title": "2025年全球專利申請量創新高 中國大幅領先",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XcEhMNk5PZTc5eWFhd0ZlYzR0YmljR1ZkNk4wWFZ5VWt5VnVMRjQtRnBHb2JNTU9Qb2tYRHZRTFBNZ3ZrSTlHQmxhdUVWc1dqeG1hV1h4TlZOTndjOEc5UWxzYUdRMnBQdmVvMlBXYw?oc=5"
+      "title": "全球經濟指標| 鉅亨網",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
     },
     {
-      "title": "國際｜9月外資持美債降至9.241萬億美元 中日英三大債主同步減倉",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPOHQ0WXlpTUlOM1YxYU1NUkY4dnpfRzFycVFCVURLcVV2LS1Oc1d5QUpob2xqNUJ5Slp2WUlnOTZjUXNnNkc3YTZtMU5PNDBfcTF5VnNtcUE2czFta0pVR2VKc3dLSVJnQnBsX1JJUnN5TUNYc21RUmNsMC1XVUVFZEtJY1hWWm5YUGFJdVMxcXdKQXFOTXZ3czZGX1E3MGhTbEtIZ3lKTkxmRS1rWEY2UDZ3MFdITjFzbVBTTERyVFdJbkZrYlhqamJCTmFueTlwRURzZWVfczNzdjMxdkVndS1xMVlSYmpEdEhoZ24xWElOVk9lY0lOamtDVklTQXdEZkltQzEzRU9VdV9mbkpxeG04VmdhQmY4RFhjdTlacDN0MURJN2ZGbWFWdS0zcTljZldUWi0yai10a21jMjlORTluZ0ZGai1VM1E0U0xFMUttd0oxc3BjSXVEUFpOZ3ZEeGFTVnp3YUVtNHA3LVprd1ZsSlcxd211NVc2b2RRVHZXT0lDLXhibENSdVBwQUJKQXh0eA?oc=5"
-    },
-    {
-      "title": "WTI因中東緊張局勢升級反彈至82.00美元上方",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVzB4SlZTSzliV2d5dnlleXBLNWl1Rko3N1VGZzJheWRVdktlMFVVSXVCekJuOS1SVVQtckR0Zno4Y2xyMW1yYno4dUY1NHRNWnZ2Rkc2ZEFkTWZ6YXgzTWQxVkZWZ3JnUWdpdTA2YUJKV2xBcV9qb0s5czFXOHFNYWJBZHNMWWdnQktkSGRzQnV1VWJoTE8tUDEyRHBFWWZBay1hNU5kYUo0Yjdmb3I0Y1M3SEdwSnAycnNzckdR?oc=5"
+      "title": "深圳APEC｜中俄美元首和平宣言 三國將會就防止核擴散對話",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82dUdCOTFhcVpPcnp2Z2wxVjJDWExadlNJYnlDS1RDanlFTlY2eWZPN2M5bzRhQ1ZHZVFqQ3RlemZ5YjFqSUhocVVPQUhJMzA0d1FHZlpsTVpiYzhXMUJIclQ5cVVkc1lXQlVqb2hkNA?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "中國、英國、日本9月持有美債規模均下跌",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LcVFoVkE0MkNiQmRhOW5DRjdYbzk5N1ZqbHFqTEtkRzdrUzU4NVItdzdxVDREcXhMTjJaTUN2emJoSXlWU0NaQnUzRDZmNnZiWXd4T04zVW9zU2d0OVo5UkhwTjRlbTVuZmJlV1U3Zw?oc=5"
-    },
-    {
-      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄",
+      "title": "財經｜美債外資持倉創半年最大跌幅 中國減持268億美元至逾18年低位",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KZ0Jwa0RDakRGazBpcHJwRWRPM2RUbzAzM0o1NmRzc2h4b0FRMHFhNFZjaDRhRXpKZ0FEMlhMZDk5bDZhcmR2YjIxYTd2Uk1u?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNcUk5YUNCRDZNVnVmU3d2czltbnc0RTVMNW94QmZJMU1NNnZzTjZ4Y1VzbXpwZXk2LTBuNWIzdW96YnFSUUo4MF84MlZxbFBaUFZKOG9qZXJkYk1UeTZISnhrTzM0QnRORjBQZnRfaXJHeC1HdjhxLTgyeHpMVmswVDhsSno5cjlwM3VhTlZvU0hvdGpmeEdZMXBoUzN4TFdGT19wZlBKemcxN2E5SkdJaWhtTE1JNHRMY3NWWXFWSHBSUjZ4ZktNYy1zN0U0N3FWak44c1c3Q3ZEWUZBbFdxMU14enUzLU85NnBjcmNhdkFvUThpU1E4cEhBeTRKdlRKeXo1dXpFVnEwQ0h4UmozWHdPZUg4ZlFxRDdPc0NnaTVteTI0NE9fbDRPcFltaklJdkt1aUt3MUtrSGNoTmltU0k1LTVtb0szRmt6a1YyUGFkUTJscTVQTlJ4elJQZG11bV9Ybm9kVmVaeGd2aWNkQ0ZqOF9VTmtoRDNZT001dlN0VHpxVDhfbnE0MTN2RzEtclpxeUFNUGlGRy1wSFFrZmZFcU5YUG80XzA0?oc=5"
     },
     {
-      "title": "李頴彰｜《華爾街日報》狙擊黃仁勳：政治偏見凌駕事實何以服眾？",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQeERKVjlZOGpkREd1c1MwU1NvOF91S3dzMmlJRDlSWjhSQjZqSFpUSEtBOGJMb29rdzd4ZnhuVFMtZEFieDN6NG9IZDI1TXN4UTdfakZKVE9fOFludFFuRTFiZFJ0Y2tfSzZBVHBXdVgyT2JZc0tQYmJOTjBzdkFYbE1YRWU2NHdKWUZUcEQ3eXAta3N4WFhiOEdGcFFxcEZJSjNVQXZ5M1lCVVRkNkNJUFZINDdTYy1Mb3g0MVlXTF96NEFrcFRkZDJFdzBFVXBDWkhaTURLOC1EUHQ3M2c4VFluc3pPeV9POW9CU25EQ3duZ2hRWm9Fb0FEcmVHYTNMNXhZMldqeHllTmhOZHFMVUx2cF96QWVPRHF6VjhkcHZPM2dXMFQzME9LV3lJaDBqeS1IUE1jRnZITnNDNF9PaTFTQnZxWlF2VXBKZTNsSHpzaDZXQTVZWG5oNEthZGFpR29hQkp1MDZiQVZFNkdYM1dqSzB4M2VUYVgtYXBCd09sZHZnYjIteHI4dnVpeXpZ?oc=5"
+      "title": "澳元：疲弱就業數據提振降息押注– BBH",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaHhUMGVSZ3BhMmNGQWJrd29ZMFVSRnhjRUJ6dXI4RFNiR2Y0TFRtdWo0VWxpVjJkVm1LQ3pqX09heDBxcnpMV2JjOG50UElPdWx6eHNEeEVaN1h0N241LTRuczVlRTlncmVXNVItdnkzaTFXd0xDRDRQaGM5bmZXVU1XMkNNZGNkTXRrNkI1aDYxeGNRT3pEOVpBVkVyOVQ5N1Zr?oc=5"
     },
     {
-      "title": "【減持美債】中國9月繼續減持近270億美元美國國債 外國持有規模創六個月來最大跌幅",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNZEdpREpVRW1XQ2xNMjB4eFhNLWU0SzZBaEhPVjl4ZTR4UzBFZVdEVWxuVHJsRW9IcjYwdlhLb3R2U3d6QW9pVzQzVjFFWEFReXY1dW5WanBqenBLRGkwaEYtOE9Zd05oclBXZVltc24wNHlINk1NOVUzMUlkbld0Zk1sMHl2aE13X2o5MVhBOF9qc1lBZlRmSTdUOWgzbFByMlRtZ0VRdU1nNXlvSzh5VVV5WmNwRWc5Rzd5SGVpYXpIUnFkY2pyblpEZlZ1V19UZGV2RzBwM0xfQmkyVFNOTHBydTZsR2dxbnhtQVNHU3RtQmlfQ2djTy1HVDZlaW9SVlZSMktXMXU3RUI2M0diZldrRjlTZ0VrXzMydllQc1p3RXpDRTdLVDJJYmFaUFZybGU4VXhIYUNPTHFMSzRzNEp1QWFNb0Q4QzNEX2ZwODlwVUQ1QU9feDVpREJwX1ZXMjBvRGFuVnE0OVl5bW56YXlXWlNlVHl5SWJpLTdrQmRrOWY1LS1lWW9NYWdXZnlRVE9RZDdwbVJkdHpXdk84UDRudUdlemxNMjBDUGxyV0tqb1pXS1lhaXF4MGhPdlN6MUVRbHFyLXhYYzY5dHRndk9odDNIQTdsbWdtSGc1bV92UlZHNFhPdERKaXdRdW8wYWpfUkpDd3FlVVc0c19BZFJUT3BpbTVDd2hlYnY0RXA3UQ?oc=5"
-    },
-    {
-      "title": "隔夜美股三大指數漲跌不一 英偉達高開低走",
-      "source": "香港商报",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5abW1teGI2WmJIM2V1dDEySkdObjhqc29nYTZaUGFpZ01TcEpKY0U5WUtlWGNmUUZXR0ZjNHh0RE8wUkNNaEhGNjFVeGcwVGZRSUdWNFNjc0dUd1BkMkdkYkRjZVVpZ2FjQkJzSzltRDIyLTdoTnc?oc=5"
-    },
-    {
-      "title": "美股收盘光模块/高速互联、加密概念股普涨，应用光电跌超9%",
+      "title": "受Anthropic即將上市帶來的樂觀情緒提振，納斯達克期貨上漲",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54aGFxdXlSMWdITHZCNmJZT3lFX1N4Z0NhQTB2T2ZuaGEtVlZjRUM4Z1d4R1FONENoNkJkMEQ2aFVqNU1ZaFpEMEhheTJBTVEwNHNIejRJRmZNV2ZRcXBSMDEyVEd3UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwR01wN0FrNUxhZ3VSOWpORzVacnBhaUU1Zk82eFVlU1RmSC1xY1FNczIyd21OWDhSZzd1SGR4VWFxZ3NNbUtqNDJjZUQ4eGREV09Xc2s0R3pIcnBNQURLSldMdUpSV0tVay01N2RPa3UzWGRtWXNz?oc=5"
+    },
+    {
+      "title": "美股盤後｜Fed鷹聲嘹亮、輝達餘波不斷，S&P500邁向連五跌1119｜豐雲學堂 2026 年 11 月",
+      "source": "永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNVF9mWHFOZmIyR2Y3dUJoeHZlUGVZclI4S3l0aUNpTTRqUlp3bmpnMkFRZThiSEhqQTZkSW9HX3ZuQ1A5cnhEcGpBbmhxakdOTnFZRzgxS2l0OVhRNWd2aUZCdUFicFZjMkZTR1p4V3JoTFY2QXc5ZjlLN2dYTDJNWGtnRGRMVUF5SmFGbEFxbDc3U3RtcEM5VkpRWHJ1czlVcHlGQnBHdGlSN203SkRvTlJ4Y1BPRUNHamw3anVuOHc4R0tadHZiek9pYUl6N1FaQWFrS3JtU3hPOXFxUEtxd0ZDcDVLX2R1YW9ma2Y0Z2QwWmlIblozX0M3aTRId2VVNDhRTTRYZHVKaW1NWVV3RDNSR2Jvc2paaWV3TGg4cTJjel9lOTVWNWVzNHc2dy1YZUR3NjZCTjJhWlctS1BfOHhMdU9iMHRxa3p4bmNkMVRkT3d5ZVVMTl92TE0tSTh3M3RwcXJxUHlPR29weTh5SnlfTUhIQXRkTGRnZlpB?oc=5"
+    },
+    {
+      "title": "日經指數收漲0.71% 部分高科技股湧現買盤",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15dTdWajVFeEdLM0FtaHNkSXFmR1JuaG9DTzBYbEQtZU5ucFVWbGd1TXZQUUVoWTBZMjFlbVhqTVVGOEpUZUlMS1IwRDlOWmVodTcyLXAxWmY?oc=5"
+    },
+    {
+      "title": "美聯儲上月議息會議幾乎所有委員支持12月加息 金價下試3700美元關口",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPTzF2SVpMYmdaTEg1Y2VMWlM1LUdsR1BrQ192bjdOak5aRXlZMWpZa0xhTzZZWnNOUGtRZFdlWmM4SkVaaG03RjlrR0Fzd2t4VjdvS0UxWndxTHFnbTNyQmozS1RtLTlvMjdFQVlrVkNQU01xTEZhdFB3NDZ4OC1mVUZhR0tHWm9EcUE2aFZLdEp3T1E4VFFBOXA2dmtheEJURTcyWW95NDJYQnM0ZmJKbE9XTlhVVk4tVDh1eTY0TGw5WWZ6TV96U05LTi1XYi1nQWpwZ3FnTzNXS3otY1VxS2tMa0hnTzd6aW41azhiNGQ0Q1Q0aHI5aWstUURJN1o3WnBWM214VndXX2g5a2xDSE5oX2xtOHBXbnNZczViMUxydjZPT1gyM01pcF9YT1pZeXJ3WDM4aDJ1Y3lFTzlwWGR1bU9mR2xKQ2Y4QU5aYjRDS2M3Rk1jd2dxY0VxaDhYS3NmNm5rdW9vNWd3bUZVOHZBTzR0Yk82QmFmSWtzTDhyZHRJOEEzeGYwU050T1UyX2dRUXZLR09wX1NWQTRF?oc=5"
     }
   ],
   "events": {
     "macro": [],
-    "stocks": [
-      {
-        "ticker": "NVDA",
-        "name": "NVIDIA",
-        "type": "Q3 財報",
-        "date": "2026-11-18",
-        "desc": "美股盤後公佈 Q3 財報",
-        "days_left": 0,
-        "status_badge": "今日"
-      }
-    ]
+    "stocks": []
   },
   "groceries": {
     "milk": [],
