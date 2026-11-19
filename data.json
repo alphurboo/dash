@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-19 07:15:23",
+  "updated_at": "2026-11-19 16:15:25",
   "gas": {
     "current_label": "11月19日 (現行油價)",
     "current_price": "149.9",
     "predict_label": "11月20日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "148.9",
+    "trend": "↓ 明日預測跌 1.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "深圳APEC｜中俄美元首會晤 習近平稱應合作應對全球挑戰",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MaURoV1lwbV9EZW96M2lxR20zUzhFSXA3Um1uWm5idHc3M3k3TmVpZmFKeUJGdHRibVo4d2F6MDNEWEFwUWYxSzN6WS1PRG5xLUVscUg2bno3cXVkajFhVHNRX1VLczlyM3hSbThocw?oc=5"
-    },
-    {
-      "title": "國際青年人才交流基地成立 推動青年發展",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOVW1mTXJnX2JVdHhGS1dVMWlHSEdxaHBFMWgyZnpBNmlvUTVlZ0Z1U3ljZUwyMDczWWdxellPM0JxXzRCVDdHU1hWOVJLRjF6TXVucWhsbHRQZm1OdTVNYzc4X2JFbm53SUZoNkdRVFpzSU5jT204cmFZUk1nb3JaZThnRC16LTVoTXBKMVhDZ3lTZGRYVnhVMWVmZmZOdW1Hc1psTDZsWEE4TE5GLWtQa3RrQVB6Y0VMWVRmOXd4QlpBMkNYYTlLUlpzckdZekVKU2pBaXVQckM5QUt1UVpHdnhMUUROdU9pNmJXU3NZZEhUd2o2XzJXczBXUnEwcmZsTmlURS1mRklSV0RTVFFtNzUyOFkwVjhkYzUxRDRFMUQwQUxqczRzZDVaaVdCaFhHV3h4aXR1TW9iQ0MxR2RpVW9B?oc=5"
-    },
-    {
-      "title": "國際｜羅拔柏迪臣接棒007 跨性別演員Hunter Schafer成邦女郎熱門",
+      "title": "國際｜特朗普結束訪華返美 周五白宮記者會談多國貿易協議",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQSTV1N0F6eDZFQ2ZKV1dHc3cxdDB5RnhHQWpIUFcwejNkOV84RjJkYmxOY3lfQnV0Q002SG9hNW5ZNXk0WHhfdm1uY3VlZlhoaWNxeWM5TFVjWVRSdFVnM1pnUjdua0pZMGhYUWVqY2dtWHJGLWFNTVNKaW9FZUtYUmUtdVF2Ukk3R0c4endSY2VHeFE4ODJJOUYtekg4NS1HRUQ4ckJxQURKbEp5Mk5YZGtaRG5GSFhON2ZRSEN3SVdFeERMdzhNX0FVUDBySUVkWmxxbDhWZTVmZzVMMFB0V3V2MlJkSnFtTkwxeF8yeXNJbzVrRUJFUEtWRElJSG96WEh4c3RmeDI1THV3TjkzMzdWc2lqVjBjdGdHODNleWUzdXgtUjhCRGVIeG8tSENQa0pIVlNLNnBHZjBSYlBqalpocTVPU2J6LUV1SDk4aElwZHBzc0trSDR1UjdiQTRCTjUza25RYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPdkw3cWdDNVVUaFkwaGVRZXpUVy1FT0dzX0dDS2MwUjNWbkMySGQwSi1NZXJmY1Rfc3doR2RUN3ZzVUM3NXhTVldaQzNuWFEwd1ZwU2JDb1oteTJaVDA5eFlLTVVIYXBPdlNhLU94ZUNMVTNTV096RmJTVWphYmpMUzZFVm5IRVRPd3hNbDQtZktEOGFoVzVubVZEMlpnUmRmcG81RUwzX3ZlbHlxdUNjRnBpY01ubGVWQUctSkk5Z0p1VG5URGhzalhCblBFMmFJWXBFYld2NzJiSTROb2xQcnpJUUVlcS1wTXRhQlJmMDg5X085OFBSZm9oekxibFh6SWswdjFtQXJBeXBwOW9ldkFZTWZMSV9lR183SEVmZmwtVHZaM0pMa2FCVnk0aGhwa0g5ZFdld2Mxc1ZGck80ckQ5VGNocHRVWU1rWkI1TDJtaHFaRnNJQlFMYm1XMG1tWmxEa05IUWs1Y1RMaDZkSjFhdmFldUFYcENzdEZpdnhMaWpDZFc5YndzUkM?oc=5"
     },
     {
-      "title": "深圳APEC｜習近平會見美國總統特朗普",
+      "title": "丹麥議會通過涉格陵蘭島安全防衛協議 允許美國設新防務區域",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IYm43R2o4YTR4UWhaNUdIck5HSHRJbGs0OGFEVXlrd2tXZGVDQnVteHJucHpfcmpHTDRUaExjbXlCandzQUR3R3BQU080VTVablNRaHd6OV9rSWJ0VjdDaTdnak5BeWhHYTJfMG1GSQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxSlJCRHc2d2dmeHpqbURXNV9EOGFRM21qajNyQk5oZjZEaGt2NEV4eThSZFgzM0NFdEQ0Mlc4UDRhYjR6VWlsOFJfVmRRODA0bzU2THo0VEhFUUxYMEpGRVkyYTJ1c05MOEJfekw3TQ?oc=5"
     },
     {
-      "title": "德黑蘭促地區國家採取必要措施阻止美國策劃針對伊朗軍事行動",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BNmdTR0kyRTQ5TTc4b0lkLUMzMTdiTGpLbm02dVlGWDBLTllVTjhlSE01YmtIS1piRUJObGtFenc0aEpJa1lBQU0tb0w5LWpvQnZtbXprM0tWRmVsOHd5a1dDNW1nby1nTzhWdk0tdw?oc=5"
+      "title": "【私銀觀】將目光放在美國中期選舉之後",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNcW5NSm5MZ0tBRWJHenVQRE9JVmFmTjhKa1A3SFlFQnpiN0UxM0xyU3ZjN3FDVnhsWFVzT1ZTRTZwSThsa1d4U0JXWEZqRkctZTVWN3JHRWZFTVNBcUUzN1BUMEwxZHZNaVFibXg1TW5PdUNybi1KeEdXUVljajVaTFVrZ0NwYlM2enNwYnJNWGYxVzg0akZsZlZRa2NnT09zM0RTeDBsNGhUMkZNQXljcjdyZGI3NVFZZEQzcGJKM0RGQV90V2FnNjhRVjVWN005cnJFNV82OVZoc0ktQ3lUZTFveGZBUEF6VEhsQ2ZBTUNyakdoMlpRV0lkbzIwT2QxQkdYcnVYMWNrR0dmbnpYN0Z5RUZKemVXU1g5Yi16N0VndjRiZVNCdlEtTEU4UQ?oc=5"
     },
     {
-      "title": "全球經濟指標| 鉅亨網",
+      "title": "全球經濟指標",
       "source": "鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
     },
     {
-      "title": "深圳APEC｜中俄美元首和平宣言 三國將會就防止核擴散對話",
+      "title": "周顯：法倘崩潰 勢累歐盟歐元 - 20261120 - 經濟",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQVlk0TmlNZGRrRkk0QVBfcjF4YkI2b0VYZDR5cWplOUI0OElwejZ1cTV6S0p6WElGMS1TV21rY2JnejJjTkthRTBnZm9GR1VlakUwQmdnLTlMbE9nVV9ORUZsRE5KNWJXUHVtTzRmRUlPcER4TjVweHkzZDZ1OE9IbVl2RzlNV3dqa09aYjVHYW0xYWdyR29hOFI1OW9JVDFnTHBrTzJGMHgyeWlLdHZwS25rOTlXclNEM1M5Tm5jRzRFMml1Yzg5RE5GdGNhZ0NNZkxfVWl4LU9ndnNBZzVtWnNVUkhsTXNMRlpET29vX2VNZ2tqYUhpM3dXRUNQOW15YXN6YUhqUDRuQ0xaQU1IYTB3YVpma1JRanZ4a1JpOUgtUQ?oc=5"
+    },
+    {
+      "title": "國際｜Suica企鵝吉祥物2027年3月底退役 紫色兔仔接棒兼任新卡面",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQZ3p6aEt1RTl1Slg1ajFXYjU3NUxLWnNsZGRiVS1fckxaWWU1TFpDOXpPeERmVnRjb21DLWJWRkZfVXFFNWZhbzZMdVh6NWpGbkNNR3M3VGRNVTgtQXY0ZmRUYnJpM2kzdlNtWW14M0ViMm4wUDVyNjNhWWdqX0ZzZUxIb2dZVDF6ZExzOGNNandHS29TRjQ5N0F4OThTbEp1c2EzbXhoOGFQVVRiMV9qbXFOUTlYWFF0TE16a2hZR1NVQXRKTW51YThBcE1FcWxFcjcxc3BKWk9Lc0FQa2pLc1RiTlJ2VVdRdzdsLURtWFM5dUpRSVdBZUhacjdZWEc5Qzl0Ny13eVg5SXg3NVRoR1dwcjdJVWFwTDRPMUFMa3dGWmxfOXRyRjdVdGFaczB0djBqRGpIcWNUbVhmdXp1TGN4R2NJcmRkLXVKeGpUcDFHaTR2RFRLWlN6WU9Tc2V4S0ZaYzh1VkxFMUJJQ2tvNWRkb2dqaEstU05YWm1ScUpzZw?oc=5"
+    },
+    {
+      "title": "杰斐遜：AI需求正增加美國通脹壓力 長遠降低價格壓力",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82dUdCOTFhcVpPcnp2Z2wxVjJDWExadlNJYnlDS1RDanlFTlY2eWZPN2M5bzRhQ1ZHZVFqQ3RlemZ5YjFqSUhocVVPQUhJMzA0d1FHZlpsTVpiYzhXMUJIclQ5cVVkc1lXQlVqb2hkNA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hQmYwVWZwY2RyUWVOSFVGM3BsQ1NBS0t5SHJjUVJQemt5WmtWZVFBSm5HNzVERVA5MnlrU1lvTGxkSDB0NDM3NGZ3d1FSVEZYYTc4cUs0azRSUERONWd1djEwaTFGT0hBcHRWVW9FNA?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "財經｜美債外資持倉創半年最大跌幅 中國減持268億美元至逾18年低位",
+      "title": "美股｜超微遭沽空報告狙擊 指與黑名單中企有往來 股價一度插8%",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNcUk5YUNCRDZNVnVmU3d2czltbnc0RTVMNW94QmZJMU1NNnZzTjZ4Y1VzbXpwZXk2LTBuNWIzdW96YnFSUUo4MF84MlZxbFBaUFZKOG9qZXJkYk1UeTZISnhrTzM0QnRORjBQZnRfaXJHeC1HdjhxLTgyeHpMVmswVDhsSno5cjlwM3VhTlZvU0hvdGpmeEdZMXBoUzN4TFdGT19wZlBKemcxN2E5SkdJaWhtTE1JNHRMY3NWWXFWSHBSUjZ4ZktNYy1zN0U0N3FWak44c1c3Q3ZEWUZBbFdxMU14enUzLU85NnBjcmNhdkFvUThpU1E4cEhBeTRKdlRKeXo1dXpFVnEwQ0h4UmozWHdPZUg4ZlFxRDdPc0NnaTVteTI0NE9fbDRPcFltaklJdkt1aUt3MUtrSGNoTmltU0k1LTVtb0szRmt6a1YyUGFkUTJscTVQTlJ4elJQZG11bV9Ybm9kVmVaeGd2aWNkQ0ZqOF9VTmtoRDNZT001dlN0VHpxVDhfbnE0MTN2RzEtclpxeUFNUGlGRy1wSFFrZmZFcU5YUG80XzA0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPMVpLTWRmQi1rS2htWWVYemVOY1pCVFRQOXIxX1FlTlVwZFRDa2FvTjM5X016TVR1R2ZjX3g3XzJrZjVFX2hpLVpKSWM4dnRDNFd3U21nLVVZYzBLM1h1bW85eWdUQUZ2dXhVaXotd1Bmem10VzBPRWk4UjNoUWFMcTNQaFc0QlRXOEFuR0EwUmlQM0pjcWpTc2htWFhzVWwyNTVNbGJ5UVdjcktMbkJGVU5SbTR2QTZ3bFZhUE9wUENxOHJuS1k1WWwtS3c5MUdXWHZneXNUQlgwZDRraGs3anliZTlSb2w1UUduNnM1OGkwRDRkc1I1T1hHMXFERHFuU3BrRlpTRnF4SkFXMTh2Nk5zeGx3Z0ducmlMN2VHUFBBNjhWZThGMzZsMndCcnN5MWVzNWhiaWRicUt5YlRMb3dFOEZ4bVZ5emhicHhCc1FFQjQ0dlQ2RWRlekR6LVBjWXZtUlZGT29wbVJTbUhqdFNBdlU5YUJQb09CQndKNi1RZ0NEZXVsUF85b3lKWXJN?oc=5"
     },
     {
-      "title": "澳元：疲弱就業數據提振降息押注– BBH",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaHhUMGVSZ3BhMmNGQWJrd29ZMFVSRnhjRUJ6dXI4RFNiR2Y0TFRtdWo0VWxpVjJkVm1LQ3pqX09heDBxcnpMV2JjOG50UElPdWx6eHNEeEVaN1h0N241LTRuczVlRTlncmVXNVItdnkzaTFXd0xDRDRQaGM5bmZXVU1XMkNNZGNkTXRrNkI1aDYxeGNRT3pEOVpBVkVyOVQ5N1Zr?oc=5"
+      "title": "美股初段造好 納指升近2% AI相關股份造好",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3eDFYbi1yUnV1WHhWV2tqX09ZM1RQVXFDazY1cXRrT1NfX3JZVXJ3MzdvYk5KdmF2S0xVVlczSjZMZ2RzV0V2Wk1PX0lMOHY2SGNTMmZKSkY4Mk5KSUt2SkxFa0JacjZhSTFuSGQ3NA?oc=5"
     },
     {
-      "title": "受Anthropic即將上市帶來的樂觀情緒提振，納斯達克期貨上漲",
+      "title": "聯儲局丨副主席傑斐遜:AI熱潮正推高通脹",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQU0c4aUhVVkgzcThWaFRtMFgwNlNwc1k5QXBuWEJLdkZSTkh2V3duZGdQV25XbHRLbnVWTlhkMnFEUnFnVzJWdlNna2ZxZ0Fld0ZWVWowLUZQZHU1cUg5T25Zakw3dzM0eXZJRllmd21iaWtuZ3NGeUJWay00NlRZNDQxYUVzV1VIWnIzMGlrSG5Hb0xQWFRjaEtfWWN5VnRWYVQ3S0cyMjBJUHR5Y2UyUnZnSzB6dkxybV9FeVlhbDJRRUFMOVNUa1hRXzNCaENVZjdaZ1N6ZEZkRnVNUEN1QUdrRVRQVnd0UVkxeElzT1JpNzZiYWt2a2o2ZW53cDNLdDBuT18yTTM4QXB0Wm1oMXYyajByS3hfODRwTkRmTzJOeWVuSDc0dVlYOW15QzBuMHg2VEdhVldYZ1BPa2EyUjRONA?oc=5"
+    },
+    {
+      "title": "湯文亮：為何美債息居高不下 - 20261120 - 經濟",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPOUhJQ3g4X3FFZ3JYMXhGMlJURDBJNmpoRjl0ODktMWt3TjU3QzRFdE53d1I1UGxMTlFuNmlRZVJzd3Z0NGF6TUV2M0E3SV8xLXlZNVZEaVBwekc2RjNVMmxyYUl1ZG1oS2xzaXZHbVF5UjRFSGpVbEFNVU1jOVhQTG82ck9jdkNUTW41d1hXZV93dHBUVDNxWnVXXzdxUl9JbHNpN1N2R3dZXzhPc0Y4cDY3elZ0OTV6TjhZLUV4bzdGWjl6bG1PMFlwWEhRZUpsRjRYbEZFcHdFQmczY2NKTDI2RnBfVUpna256enFoeExRZzdjNVhqZTFzUEFyakxwMXhMZUtybUxFdlhIUURWdzl2OGhWZFhlbmtSOGxTN2E?oc=5"
+    },
+    {
+      "title": "Anthropic上市未能重燃人工智能熱潮，華爾街股指收盤大幅下挫",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwR01wN0FrNUxhZ3VSOWpORzVacnBhaUU1Zk82eFVlU1RmSC1xY1FNczIyd21OWDhSZzd1SGR4VWFxZ3NNbUtqNDJjZUQ4eGREV09Xc2s0R3pIcnBNQURLSldMdUpSV0tVay01N2RPa3UzWGRtWXNz?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55dmdHOHo0RjJtNXFjd3hoZnlxVGljWURXMFBGYlB2MXhzZWg0aTBkdTBfcGhpZkgxSWRfaHFIOU9NSTVuSnQtQjNBSHZHZmtRWU9PZGZTYVgtbXYxU2xlOHhRdG1TUHZmUFFQU2JYWVNmMGE2bkpz?oc=5"
     },
     {
-      "title": "美股盤後｜Fed鷹聲嘹亮、輝達餘波不斷，S&P500邁向連五跌1119｜豐雲學堂 2026 年 11 月",
-      "source": "永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNVF9mWHFOZmIyR2Y3dUJoeHZlUGVZclI4S3l0aUNpTTRqUlp3bmpnMkFRZThiSEhqQTZkSW9HX3ZuQ1A5cnhEcGpBbmhxakdOTnFZRzgxS2l0OVhRNWd2aUZCdUFicFZjMkZTR1p4V3JoTFY2QXc5ZjlLN2dYTDJNWGtnRGRMVUF5SmFGbEFxbDc3U3RtcEM5VkpRWHJ1czlVcHlGQnBHdGlSN203SkRvTlJ4Y1BPRUNHamw3anVuOHc4R0tadHZiek9pYUl6N1FaQWFrS3JtU3hPOXFxUEtxd0ZDcDVLX2R1YW9ma2Y0Z2QwWmlIblozX0M3aTRId2VVNDhRTTRYZHVKaW1NWVV3RDNSR2Jvc2paaWV3TGg4cTJjel9lOTVWNWVzNHc2dy1YZUR3NjZCTjJhWlctS1BfOHhMdU9iMHRxa3p4bmNkMVRkT3d5ZVVMTl92TE0tSTh3M3RwcXJxUHlPR29weTh5SnlfTUhIQXRkTGRnZlpB?oc=5"
-    },
-    {
-      "title": "日經指數收漲0.71% 部分高科技股湧現買盤",
-      "source": "共同網",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15dTdWajVFeEdLM0FtaHNkSXFmR1JuaG9DTzBYbEQtZU5ucFVWbGd1TXZQUUVoWTBZMjFlbVhqTVVGOEpUZUlMS1IwRDlOWmVodTcyLXAxWmY?oc=5"
-    },
-    {
-      "title": "美聯儲上月議息會議幾乎所有委員支持12月加息 金價下試3700美元關口",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPTzF2SVpMYmdaTEg1Y2VMWlM1LUdsR1BrQ192bjdOak5aRXlZMWpZa0xhTzZZWnNOUGtRZFdlWmM4SkVaaG03RjlrR0Fzd2t4VjdvS0UxWndxTHFnbTNyQmozS1RtLTlvMjdFQVlrVkNQU01xTEZhdFB3NDZ4OC1mVUZhR0tHWm9EcUE2aFZLdEp3T1E4VFFBOXA2dmtheEJURTcyWW95NDJYQnM0ZmJKbE9XTlhVVk4tVDh1eTY0TGw5WWZ6TV96U05LTi1XYi1nQWpwZ3FnTzNXS3otY1VxS2tMa0hnTzd6aW41azhiNGQ0Q1Q0aHI5aWstUURJN1o3WnBWM214VndXX2g5a2xDSE5oX2xtOHBXbnNZczViMUxydjZPT1gyM01pcF9YT1pZeXJ3WDM4aDJ1Y3lFTzlwWGR1bU9mR2xKQ2Y4QU5aYjRDS2M3Rk1jd2dxY0VxaDhYS3NmNm5rdW9vNWd3bUZVOHZBTzR0Yk82QmFmSWtzTDhyZHRJOEEzeGYwU050T1UyX2dRUXZLR09wX1NWQTRF?oc=5"
+      "title": "【即時新聞】輝達(NVDA)拖累標普重挫！里昂預警美股將迎10%回跌，多頭格局恐生變",
+      "source": "CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVm11MEM4dW5DY3dqX3FBVGNXOXQ0dlliM1hQbzEwLUs3Q2xHb0Zvc0dfV01WX2RfbFhXMlZ4MFp4eGhqQkJGU0hwQmVMNHQwZGVmTElpb0x6c1JzbmJlRzR5ejZ0SHRRWUczUFNFMzEwTXFLTjdHUHZzUmhjemtJNEFwWEcweTNKVFdWZF9xVGo?oc=5"
     }
   ],
   "events": {
