@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-20 07:15:22",
+  "updated_at": "2026-11-20 16:15:24",
   "gas": {
     "current_label": "11月20日 (現行油價)",
     "current_price": "148.9",
     "predict_label": "11月21日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "148.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美媒：美國創業者湧入深圳，“這裡是21世紀的機遇之地”",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGTUM2enRPdGR0UlItR3E4djVobFJ2V0Q0cmk5SXpPQ1pxSEFpNC1ydFBOMHlTRzIyMS1WQW51MXRZYnJYTGdNSlBINGJfN2ZVdHREbHVwdWc0dlhkY0w2RjF4V2kzWkpfbEtkTzFfWQ?oc=5"
-    },
-    {
-      "title": "全球經濟指標",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
-    },
-    {
-      "title": "美國明星河馬誤吞針織帽 腸道器官壞死不治終年9歲 (18:09) - 20261120 - 國際",
+      "title": "普京邀歐洲代表赴俄磋商烏戰 - 20261121 - 國際",
       "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxObjNtcGpkVFVNbEYxbHo0RHZ6amZ2dkpyMGs3ODhfRU1HVDduSzVpT09sNV9aS2NRNDg3RWVHZkIwNGpmSW8xQ09PdzRjVU9kbzhyLTB3S21RQUtZa2tSY1IzY1NLYkljSHI4Z2J3aGFjdVF0ZDhaU0JteDRLUTA5NVBWU1BXTmZCMXZOZnVxZjcxbHFWVXdPYUlSZ1RXNEVoa2t4dHFlcEk3dTgxdXdZVk1aalo0N0tMRHBNY0NSdHg1WndaNXIxQWlTQVZWZWZ5bE9aTXRaSjVVelVGNkhmbXd0N2VBYU5ZRG5WQlRjZ3J0eWlPZHp1enFEWEtPUWdVdkNES21WUHo5ZzJPdXFQTDFSRVF1SGpCa2FucklnenlxdGpVOW1Cd19yVFA4QmdBNUtnSUY2dFp0RTNCS2laQTA0UExtR3hMR0VRZzFYY0F0c0s0ak9fZDRfcUljMjJqTjJETC11MFZtVXRkN1pyT1BjRll4cXdFd1dWSGtDLTNDbmh3WHlKS0h6bVNuTFhjQ0k5ekw1ZkR5QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVER1TW0xVUlWUjUzazRmV1N3akl0WEppcWFrZlRBX3AtdzF6ejlzTU4xTHpmZG1WbjRwcGpKbEJLUmVvWGFTYk83TllxZ2Z1SzZoTDZhSHBhMnpIX0lyZ1RWbU5LUlZIN3c3MmVQdTBObEhCa08yaHBzOVNsc19XUmtYLTlybVRHTGd6VFBHYUtiQ3JHMDN4LXlFNmxsSHRQcE9IUmUtZXBBdS11TGJ1X3VpdnlhU25vRXJmdGJoWmJ1emZUcW96dFZIRkluWXZhSEhxMmY2eTNMNGRNOVVJeDY3ZFRCUVE4cG4wZ3NOUE1iQXhZZTZ4T2ZvbU9FVmhfeERLQzBBLXJVeGw4YXVGcnBKcHAwdDBKWDhCcXRWcDI5eUZqUDBnRjlQZw?oc=5"
     },
     {
-      "title": "美國不足兩月兩度毒針行刑出事 得州死囚行刑逾一小時多次喊痛 (17:46) - 20261120 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQNmpNRmpIcHVERmwyOWg2UGZIY2ZMbkZNNjNBWEhrOTJQZDNzc2tPd0NvdllDVFNiN2ZwdHpDdkp0SGNxM1NCS0lQMGQ0Vk05X2NMbnNqWUh6eE5DMHdPMV9LbXBCQ25NRlNqazliX2hXU3NmQkN4UElmQUp5cnVRLVY5LUdIVnVSRXhrRVg1ZDJTbzhDc1lPQkdJZ1JWTXA4QnU3Z1IzWVItajJ4ZEg0bkNhUkxROFhxczNYUnZPTUV2R2J2V0RCUUYzekJaX2hQa0ExZlVSUXFNMWoycUVYTTZuaEdhRjBscWNIVjh6S3hJVHF6WDdkbEdEcEd1SFF4cE40SWVIbDhaUE15aTBBN2hJX0hiVWpnNDVqMkVvN1VBWW8yZUtTZUZpaVNSVWZScjRVQlppQ1lrYnJxRFhlWFUxODhXY3lfeGU4d1RyZkx0R3NvaEQ1RTdTNmRzOG11VE0tWjRpZ2d2Ri1LemRrMnQ5VTlqRnFLc2xGRjJuRUo1bTRKa1doYklCX1hZa0hhTXdCZV8zTUwwM2FQbW0yeGJtY2doa1FvbTNOelpkNzhaQ0JBM29wamVqLV96RjdIcUxJeVpvaTRGRUhvLUV1M0VUNkdMcW1ZNl80cE83THA?oc=5"
+      "title": "科大聯合研究揭示大氣有機氮為全球海洋重要營養源",
+      "source": "EurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sendBMlVHVnFvZnFMVHdwNFZhbzJBOWNIMVl3UTBpMUFoMmlNaFV2Zkh6MExDY1JWcE82cUJ5RWRVa25VRHhUT3BtWHlOajFqNmFtYWozcV9sa3l4cjVzNGhoVTlqeUJLdF9MUnNmUGE0NW8?oc=5"
     },
     {
-      "title": "美國網絡事故頻生 外媒引述消息稱國家網絡總監被撤職 (15:15) - 20261120 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQcmdTSjhhMzNHQnVYN2llVWZSNzl6Ylh3Qmd0Nk4yVmN0dFZyemNlVklDMVJZeVU2SDZLNkRnWnhwQnFzRUJ4M2dIRVZ3YXFHQVlMZ2FpbGZ5LVRyUm1icGhJZC1NXy1sSmRuYkNxT3hMbm1SSkRhSzJXYm80VHVVTzRLVG1HLXFjM0xhajJRd2I2WC1GdFlfS1NsT1dmY0M0VkZRak44d1dCZFdnc19RR1lZX0lfTG9JeWFnck15SGp1WVg1QnhzR3QyMUpWY3pFZ201eEtSUVQzNXlrczFpWEg2RkVRTmpoamJpbkV6Z2dRcTdtSk5CM2xfYVFTR2pwOENEdlg4LWdRbDZBSTFhN25Bc2NydENySnhraU5sWGRfM1J0SGg2UWEyczFwclE4dloxcUV4WGJXWTZTYWJRQWFuUDZCWGJCVXYtQ1Y1X2dYMEYzVVZpSjVPblprWVpoWk5vWWs2TU1jcUR2YXMzRmoxeERURUxjdU1aZ19CYTE5UWlpODdGbnhnTkFuSk9CajRQam9WbUNtTG9DeElRTU9HOGJCSXVUdU10SVRhVWI?oc=5"
+      "title": "特朗普:不會允許美國公司在海外建設數據中心",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQUGFxRE14dEp1UHhNaHZkR3VIbkFkSnlBNHRPZXhveHM5QTZKSkRnWDZfRUdzTk15NXZ0eG1hUzVwR19rSzIycFJRcm16VFJXWTVzWTF2X1c0SEJpSkIyaHFrXy10dEVHajliODRHQXZPZk9qdXl5XzBPUXNhdXRSVDdDWTRDRGNHNEJNTXdNT0x5aWhoTmxkcDRfSHFrejlmTHFWdGswX2loT3RkU1hPaURDdm9qYUtSaG91dTdMbWlXMHNaN0MtbHhWTjBleDNxQnFwY1VXRmhxU1dfQzY1T2tNLVlPSVJYRnpwSkZ6TDhzZlh3VVBCc0UtTHJaRkVvZ3FrNmdScG9mR2Z6bXU0M3JNbHRsRzd3OEF3cGJZenlRazlfN3pUZlViQUloeEFHakxUMXRkNWFELVV3VW00WHJIM2twMDNqa24yNmpoLTQ0NkR5Z2c4Tl93cWc5WFBVTFYzXw?oc=5"
     },
     {
-      "title": "國際｜中投傳重啟投資美國私募基金 洽商制裁應變保障條款",
+      "title": "川普想把資料中心留在美國！美企赴海外興建恐遭禁或被課重稅",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNaGhZQU9BcThkLXd5RjhfMnB4OW1jWHFQZEp0TVNVTDlxMHVBdGtlQlBKLWxRb1ZuLU51QVEyb1ltVlFNR043STJGSUlRTGlPNjRwMUFwUU16V2Ewc2xaVXhQeWlvNnBxVzZZWlIzdV9VeHdrSzhldXpoZmlxZ1pyaFN0dFpDODlfbUEyU0hlcGpEMWhoSlgwbWpweGdlWmo2ZjhhSXpjRW0zY0NTOFd1RlZ4UXhYRWFVNmlzWEp6b09JSnd0M3U5Q1NqeUZIMThzY2tpNVVkSllCdUlmS3ZYaHNid21rM1QxcU9MejZqa0R2TFdsUUxzVzJMczQtUUVqRTU4Ni1SVnRnOTBkMjZuRjUxTWxPSDIwaDdHR3RobDc5bzZjU2xPNkFPS01FaUtIZTBNYWJmS3FQN0VKVEZOUWNHUS10NTBmZDhPOVI4dUNYZzJRUnJNTk90aEZuNzdXclJUSWEzQm1xMUFMMGV5UFl1VmhsWXVJd1YzejJObzdDb2RidFFMV25FVVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNdnFMRHNTYVItbHFPa1psaWkyUWxjU19aMDg2YnVMcExHMDZQSVJLWkprdzdBRkcyVUtJOEp6MHBNcmRseC15N21zX2VyWDJrUHNGWkEyTjBLWTRkMlM2YWxzVXpLdGs4TXRBb2lleDBTQXg0cXBBSHR3R2RiMlZ6SFoxaHRkT0g0aXNWWWlxS1RpYk4tXzNqOTM5YXhkRTI1SmVkdEQtUm9Ha1F0VDVhb0UzejdpNlFGb2dUdzlHdDE5LWxLQU1lMWRUd1BjX1V6dU9reHExUGlGUUZpVzdtM2pOSWV2U2lFSS11YkR2RWFLeFl6QTdYNFpFbFFwRkVVbHQwcnI2UHhFREtpdl83ZHhDWjNpMFdEb2ZONE5IYkVOVWYzam1ocFZIWkV4VzUxc0E1WkVEQVRxZ1RsZXJDSS16RFFGZWR1M2hUcEhrZEd2TEQ4cWVrUWVCTG5paXNGTldwYURrbUg3Y1RMdl8yTm9jNWplZ1NJWkVYR0pzdDM0LUtZcXd4TzNSWUkxX2xlcHd5cGQ5LTdYTVBjRF85XzNNVQ?oc=5"
     },
     {
-      "title": "國際｜澳門大賽車FR世界盃 濕地下De Palo造最快圈",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZUs1S1NwSm5JY2dkSVBfd2VpLTgyQW01Nk9IRlFLRG1RSHFQWF9BS2VGNW9oVVhNeEJvMURUR1dkc09DUTBWdDJrNFRPd2o5dWEzZGc1RzgzMUpFcTlvTFlEcmZGdkNpbE9Yd2VLRFZZT0hQZk9tbl91NTdqWnAzVV84dTUzbUpNSm9FSi1WU19Pd0JOUUN6VHVQX0JwVklCcjVzVWJUMnBLdW5RSzZ2aTVfc2pKMnVGQVRfaHgtNGM5S0t3c29KZnZfYnVNYUo5aWJ3NHNCTWpUVkRMMi1SQTQ2UlhWMFdCb2UtS2NQUGlxbnpZRldFU1VuYlF5SElZelhsVVd3TVNwZHN6blpvakllUm96UGxJMFdXUTZteU9nSWpwVGNwckVHMmN6SUEzR0pZQWdZV0o?oc=5"
+      "title": "英歐敲定關係重置 峰會達三協議 - 20261121 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNOVBWVC1xZWJmZXh0eGNhSWJKRjNacy1FWm1nVDJMMkJNa2x5RFZMY19oQ3hKZ2xMMFhraGdMRHJVdkRraUNtT0pOSGZNMEpwWUZJN29BOTk0NTVTeVV4STI1OW50Qk56ZGU4UFc0NVpreW5aOGdqSE12QU5xSXBlWTZwcDJBaEp4S1VIeWp3YlhwRHh0a1Z3UmNxa1RtanRqRERpOExzMFlZem9uMTYtMTM2M3RjWDl3OEJZREh1ZTc4cHdjcTN1QXV3SW5jVGI3a0FpcnVXY3V6NXhFQ2VSUG9JcUFPWTA0MXd4Z1UzTUR0TUdoc3FQbFBLM0JkaF9URk4yQlA1Sk1ROHF0MmgwaHFid1p0SEhpVERXaDBOZTVyOWFHOGtXdlNnanA3MkplX3lSclpraTQ?oc=5"
+    },
+    {
+      "title": "輝達會計處理問題據報成為美國SEC調查重點",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOMlVXaXNaQWozeWZpOGtQaVdWVGxvN0JHeEZsbzdYS3BKb0hYVFg4cFhVYVdPOVJVY1BLUkgwZHNIdXQ1WXpUMU15MnhHRmlRdTdBSThreVo2OE1sbTFyblNXczFkVkhZT0pWY0VuOVhsNWtxaE5hUlBzUUNkRDlTdklRU0pKNjdQU0FtQ2w4QzA1RGFrV3lrSGo2Z0lsM1A4S2REVGVkYTBKcE1oRlRTT1NNRXpXM2NLNEpyNm9UU293WnpqVHNkZXFIRVR2c2pnc2hacGFUb0J0WmZyY3JrbzNObk5NVXp0VDlKcG5RNU9DRHhRWWZkdXprWHJNblVxYjRqc3ZWa1pvcWNVYjg2S0NsUzltaFlmZDg1aGF3R1N4UE5iNFE5ZWFtZ0cxbzIyOFhFT1JXUm9VMk1XTFBGUTMydWNiV2h1WWgxSg?oc=5"
+    },
+    {
+      "title": "美網絡安全事故頻傳 白宮主管被炒 凱恩克羅斯欠實務資歷失信任 五角大樓資訊總監代任 - 20261121 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxOZGJjbkUxT0NOV18yZVlpamVpd0FvbElkR2NzRUhQdndWc1lEYWVCbEsxcllOMk9raGFKeHlCMW5ORXpndmxlVDZqRGF5VnUzNENMM0ZWZlVMM3o3Njhkd2RzWlFyS09jSk9vN1h4QjVPZV9PZHFQRmg4d3lfOEZpd245TlJqTnNKZUN6VjdkS1dSVG9RSFp5TkYzRzZLNmdGdHAyTlpLNXhMLVpFRWluYWhXMzNoZUFQSnNJazlFZkVRNG5NellSN3FLNVNzdTNJTWpDTXdobU5MNW4zbnkyZm5zaUwwX2VlR1NpYmhQb1lEaFFSN3VQbFZPbmRVUGt2M3preDNQSXFHNF9SQ2ZRdXN5MXdQRW5ENm56QTR6ZEJpLXNpMTZOYmFaTzh6SkNQVWxpc3lrUXp1d1lDQW54clBIRzJ0OWxfUjBzZlpqZ3dKWGJGcGlnTzh5NjR6TkVTb1VRWVF0enFtbUJzZWlUWlM0RDNudG55dUVwclpYa1VpakFzY1hkc3lVYkVyblc1aUE0bkdVMldQVnQyV2ZtSERxLXp1X3FGY2lUSE9YbzBjbDN2NS10aklqQVowR3dDUG1xUWYyZDJGcU1xWUcyT2NkY2doQmZhVERLc2hCV3FkYW9EUkNDTktuSnJqdGxsWXhpeWhLaWN1QnJmdVY0R2FiYVRETFNacmpVa0RKOGlQb0JrQmNPaWxhRklWVFlDTlpFSnlNclNicFRqOGNadGs1R3NXLXVrZk1zNmwxT2E1TnBaLWFCV1BscUVsT3B3MXNMV0VEZXpmMmc?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股科技股估值跌至多年低位，華爾街開始尋找反彈機會",
-      "source": "群益期貨",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHhTdlo3RnE1eW5RMVhTbll6Tm9nSG9OMmtBX2UwTWkwUXJuUkxKSEpxTXdVY1Z5Vy13czM4WWZaTXVORGZHQ0QzcWdXWnJCTFNvX2JpbVJXX25DMFRlVm5vNVlQNHhpQjBpR2ZwUENjQjVJQ1M1eWY1OFctYW8zZ0JPd1l5bHIwRVkxMXNLdw?oc=5"
+      "title": "美股｜SEC查英偉達帳目 股價再挫逾一成 新加坡收入申報成焦點",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQOFhhRkxBMDNPZmVfVXZZeG5md3lGWnd6aU9tc202eVZIejBSZWtMcFhFU0w4a3BKT0NXT3Z1TlJpbkZfNU1ydWVSR0hKNE5pcVBpNnVWSk1sTUZyTUFxT2FKNXVXSlVIVGVmVVlwTGMyV0IyR0hsMEJqOEZieDkya2FwQlJtWC1EbGlvM1N2MEcwcktKbVNMcGFpeHpKcThxYjk2NjBBaGxyT1E4RTdLTmlyQVFoaVY1MjdsZ3FIZ2Z4YTg5elJfVmhaWF9sanJPMmgzREZ6bkI3SDFTUmtSR0ZBU2poWnA0Y1hBcHZyZXpwQnF3NnJ2VzhTNTJwRFNjUFJrMkNHR1lNVkpWVTEzX3A4bE1NZm1sb29qNUVqTlBibUh4RE1mb3VlekpIclpUSG9pajdjRFpRanlvNUU3ejlLZ2FaeW1Rd1Z4Z19odTYyYjdSajZrVWRuQ1lvZ1kyM2hXT1JzbmhGZ1Fza2k5S0lxOFh3T2Q4ZDVXbGlwWmZGSjlhUmVr?oc=5"
     },
     {
-      "title": "美國財政部公布外國持有美債量創一年新低 中法減持最多",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSYmd6ZkFVRExFUUtpanpNV3R6eXlfN254QVM1NGh0Mm5QWnRjQk5zU2hSdk94dk9naTlQeVBITUJqX094UW1NUXNXd2hUQQ?oc=5"
+      "title": "美股初段個別發展 Anthropic曾跌逾9%",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtZXM3dDBuX3RNTzBNRHdaYWtNb0NXUVIxSlZWYlMzcFhRTloyVTJwMjRqLVBQbS1yQW1CSDhhOHpUUHp3Ukg4cnlnQVRob1U0Z0poMVJYM1ZDd1hOQXlKQXduRm02QlZnUUFVQjE1QQ?oc=5"
     },
     {
-      "title": "澳元：疲軟的就業數據助燃降息猜測– 德國商業銀行",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYktrTFFYb1VyTGRqbG5YZHBrMUZGQzJDMmZPRGxnUkpYLTBxUENJQ0xDbVBqdEdwVEphZkxCNzkzWngyMW9ZYUMya3hWWmpXT2ZOS3l6Tk8zY2xFblJNOVZyRHJybTdINmpIdHQtdWNOcGFHSkdXdkQ2TFUwbTdZV2llczh0TnNwdW1fdU1hVFZfdGxfRC1yRWtCbFZOYnZ5Sm1FU0d3ZENwZklwejMtSDQ4aXJKQU9aT3VuY1VCX2w5SDNaamh0T2RB?oc=5"
+      "title": "【美股市況】AI股拆倉加劇納指瀉4.3% 特朗普擬限制美企海外建數據中心（不斷更新）",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNclZzSG4wQ1E1UG5jczY4a1JYNVJETG9LTDdpcWRob1BfdmNJbVpSX0hzQVBSRGVVTzhnUlRDeGJvVVV5T014b2Exdjk5Vi1CRXUwSHVKUGJEN0l1cjQtenM3U0pkN0pmRl9FOWtYSVh1Wl9ZNENVdHk1c2hKejNKNnhHVENNbWdrNWtpOEh5ekQ1RXpxRzRleENPY2lZSW5NcVVPVEx0c2NPVzFaSk9CbTU3TjJmRVdubnh2TlJoT1FTcVlqa1JXVlBDV3dvSVprNTFiOWotWGk0Wi1RX2ZfclJpVnktU21iVV8zUjc5Z1RPei1SZ3BSNXhCc3pIakF1OWFyRFAzWW1yQjI0eFJUeS1YWFd1bF9iVHJWTHA3NFcwekRFWnREUVZKbVlqMHdXbVRkSWhvUEZheURtWTZyX2hwbTNsQVhxRkhUeHpFWmhETmpjRlVxMWtHYUwwQWtfQzQ1cWVzYWtVb0ZiMk9IYlVrNTFKMTNQaHNmb3pmSHVJdEx3TG45WUh2Nk5hN3g0WHFHYVBzbkViNVNHSDVCWHB5OXVEOHFMZW94ZHpLZ3RFZ0c1NnZDQlkxRGl0WmwzOVRaVUV5YXJvNDJtMm9kZGZBN3JYWmo2ZkdHUnZucmFZMlNFbktkdVVrMWxWUXVFUThmclg5VmdwZUIwM1d4di1uRC1DRzdW?oc=5"
     },
     {
-      "title": "全球經濟指標",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
-    },
-    {
-      "title": "財經HOY視野｜美股期貨仍未止跌…",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUkNuQW4tSWQzY2Fjb3pUSUlSOTdsbnFGb1hGZDN2YXBpTjhIR1JaQ2wxX2RaV3M2QUZCN3kxRGI5UGxXRlV5RWtEeGJwU05rX2lWT1NRVjROTThma2JWQXRVbzhnSGZ4cHI2NzBDN05rWXdES3RFdzRPWXdnMkxNX21NeUJvVVhtbWszUEFVc0h6U0ZMNW8zU0dSMy1oMDN5b3ZCZ3I1MUY2SnZ6dUUycU0xTFJQdnMzV2JwalFyWElFeEs1Y0ItUUFrclVNMWtkcGhOQ2o3MHQ2NGtsUTdDcnUzYzFRbWxueTd0NlBtUVFJVC1qNWdIemlLMzE3Zk1EVzkxTmtBaHFKR1NU?oc=5"
-    },
-    {
-      "title": "美股恐慌指数VIX升至30，刷新3月底以来盘中最高水平",
+      "title": "美股盘前：比特币盘中跌至61,225美元，创逾四个月以来新低",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5STHRVOU4wVktUWnpSWVZNZkpqeER2aEx6MTRlSGpuY0xFVFFEUW5fRkN1U3hneE9VWnVvLXFnUTV6UktvNG81WEJhdmRRdzI1dk56Ml83ZUdqVHlDQTF5RU1LWjc0UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5aHppRHdrcHdsNGpaOGRlTngyTlBXb3RGZ1ZXSUY1N2U3Zm9sa0tmN0F3UHE2VkZJTHdaTXRRS29pZFBzWmplcEQ5aDk2T29EQ1pLU3ZlNnpDalVJd0pfc05kY1k3UQ?oc=5"
+    },
+    {
+      "title": "美股動向 | SanDisk完成1拆8正向拆股，今日起按拆股後價格交易",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkR3TjhfRzZCS3lCMWZlQXZpZExnaEY2eG5DLVNXNFJXdm10MHE2Yk90NHlDOHE0YndvNVpabXJadXIxT2cweDU5OWhBb3RpcndJS2ViVUVMcEFQd3p3UlVXWjhGdUhYV25ZTW4tYzFKYUl2X01xSFJOR05WdWs1bHVENGloU0wtTU1zeF82Xy1JcFRmTEsybktkWEhfb1NN?oc=5"
+    },
+    {
+      "title": "風險厭惡情緒籠罩華爾街 10年期美債收益率跌破5%",
+      "source": "觀點網",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WNUE3N1V2OFlfMnVuclpsOVg3S21XXzNsdTdGTFdIMm9reVpCWS1EZGtQVHVhQlZNdG5zYXN6Ml9SOFVMOUZEbkJJT250RHZ5SzBfblowZHhPQ3BjRHlJM0xBQXM?oc=5"
     }
   ],
   "events": {
