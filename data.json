@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-19 21:48:55",
+  "updated_at": "2026-11-20 07:15:22",
   "gas": {
-    "current_label": "11月19日 (現行油價)",
+    "current_label": "11月20日 (現行油價)",
     "current_price": "148.9",
-    "predict_label": "11月20日 (明日預測)",
-    "predict_price": "148.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月21日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "全球經濟指標| 鉅亨網",
+      "title": "美媒：美國創業者湧入深圳，“這裡是21世紀的機遇之地”",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGTUM2enRPdGR0UlItR3E4djVobFJ2V0Q0cmk5SXpPQ1pxSEFpNC1ydFBOMHlTRzIyMS1WQW51MXRZYnJYTGdNSlBINGJfN2ZVdHREbHVwdWc0dlhkY0w2RjF4V2kzWkpfbEtkTzFfWQ?oc=5"
+    },
+    {
+      "title": "全球經濟指標",
       "source": "鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
     },
     {
-      "title": "國際法院裁定緬甸對境內羅興亞少數族群犯種族滅絕罪行",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZODBpN2dlcXhvbnpkX2RzMHZSa3V6WmtKbk5oNFN3dDNXVTg4cFhfTkpsY01GOFhBUWk0djRQdTlmZzV3V05rVXVEQXdwT2FtV1hiQ1RoSWplSFkxMS0yX0lsNENFWm52eWY1eEtUcw?oc=5"
-    },
-    {
-      "title": "習近平會見美國總統特朗普--新聞報道-中國共產黨新聞網",
-      "source": "中国共产党新闻网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4dE5iWmxQNmJCY1lQRXZkeWhFdmhid250dHNHZms3eUNUTlNJTWIzTF9QUThQeXRlUGFuU21FN3ljeHUtcDk2R2RqQkJpd05xTENTd1FaRzF2SU9NNU9abUw3ejBhM3dsUzVBMmV2ckE?oc=5"
-    },
-    {
-      "title": "國際｜道指失守五萬關 亞太股市周五全線重挫",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQWVBreHpUdzJuc09fMGcwMXRXWDNGSzNkNEFIeFJvdHFHZ2xKRnNHVG0wSFFpZ1BxdENuVzFILXpVb21QQVY2cHIyb0JVN3gyX1NwRmYyR2FLQTk5XzBXVDE3ZTVJSnMxUFJyc1g5MnVvVjJnNmNHNVlsX3l4UTRZUjFmb2ZTRTZJWThfd0FmYURHSkFPU2xlT2g0MzdDd0F4RzRZUWQwWlVTZ3RJOUJmeHhFN00tRDRJZWg2aFZxU3p5TFhvcm5RN0JmQUp0NURsZjBfUXBLdElzNEJDbWdPOUp1ZGJkRFp3c1owQ2RsejJzM3NBa3d2TFBBQlFFLVdJY3pKZFN0b05GVVZiTUx0T2laOXZBejZYTVV0US0tWWFjZlJlVEM1Qmh2RnMyTVBXYXd5VGVIWmdRSVZGX1ZtWDhrSEI?oc=5"
-    },
-    {
-      "title": "FCC通過禁中國3間電訊商取得美國電話號碼 (08:57) - 20261120 - 國際",
+      "title": "美國明星河馬誤吞針織帽 腸道器官壞死不治終年9歲 (18:09) - 20261120 - 國際",
       "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNVlRnOU1NTzFzT0JrcE40UWhkSUM3MGZ3aVBYOTJPLVM1bUpRTUVWZHlMN1FXTGVrLVdlak1EQzdHR2E3OEw3Z016NTFmdDVaUy1oTUZveXFYRDJCWDBxMVZRckR2LWNtM19fUnR6UGU5RUhXZko2MVE4dkY5eHJIbDNXbU5JSTVMRG41MTVJbENnR0FRYUlCaG1wVkFCOHd3RHhBLTR4ekFPLUZhTVRyLTRxTGNRY09OcWpnVmxFZ1kwV3V5QnBheTBwV0ZoWHhmQVhMSXp5ZDI0TXdCMFBBVVhLMEpvY0FBSmFlTm94QlVPYzBEdlk0SVdZeGV2ZWtQLWQzMEFSYUk1aWFIODRqY1JZZGtwcTQ0TFJoaHhiczNkbGpCYnU0U3Nlc0YxRW56Tk16Y1lvM1dZRU01bmlGQUpnNFU1THN4MWdWY1J6bGlPZmlqU2ZiVkg1UG1CSm4z?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxObjNtcGpkVFVNbEYxbHo0RHZ6amZ2dkpyMGs3ODhfRU1HVDduSzVpT09sNV9aS2NRNDg3RWVHZkIwNGpmSW8xQ09PdzRjVU9kbzhyLTB3S21RQUtZa2tSY1IzY1NLYkljSHI4Z2J3aGFjdVF0ZDhaU0JteDRLUTA5NVBWU1BXTmZCMXZOZnVxZjcxbHFWVXdPYUlSZ1RXNEVoa2t4dHFlcEk3dTgxdXdZVk1aalo0N0tMRHBNY0NSdHg1WndaNXIxQWlTQVZWZWZ5bE9aTXRaSjVVelVGNkhmbXd0N2VBYU5ZRG5WQlRjZ3J0eWlPZHp1enFEWEtPUWdVdkNES21WUHo5ZzJPdXFQTDFSRVF1SGpCa2FucklnenlxdGpVOW1Cd19yVFA4QmdBNUtnSUY2dFp0RTNCS2laQTA0UExtR3hMR0VRZzFYY0F0c0s0ak9fZDRfcUljMjJqTjJETC11MFZtVXRkN1pyT1BjRll4cXdFd1dWSGtDLTNDbmh3WHlKS0h6bVNuTFhjQ0k5ekw1ZkR5QQ?oc=5"
     },
     {
-      "title": "俄烏戰爭｜默茨：雅爾塔模式無助烏克蘭和平 澤連斯基倡四方談判",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxON2podUtqVzhhb1NQby1uYk1sajZFenotbmxDQUY4MTBTa29HN1kzeVBTdjhWOHNrSjkyamRncWFhOUFpRXVhdmdnaFVfNjg0WkxrSW1QWkhrbDlXaTBPbmR5ZTZhMkZzVnkybThudjV4d2pKOEU4bkEtTVZtaGp5TV9SYUVZZFJHbE9ZQXFuc0RJSkxFSl91TWRUVS1KcFZkUXdKdmp4Y2JINnV5ek8xY0liLTZCcVl2b0FxOERfVGRWZmR2OExvUTQ1RXV1cEI3NE10Q1JCckpacnlhQWdRbkNscjRJZ0lWNzZSUEdpcVUxT3J0VG5LaUFhUDRnZ1dBak94UlFDZGcxUXVVN01FNGx6U1JiNzM5WDRaN2ZYd204WHBWOU5tTmRfZklqYnpuLVlWaE9jQXp0cUgzdnJBV0F6d043RldueDRZQU9kVF93THhjZE9zelpRQ0pOd1k?oc=5"
+      "title": "美國不足兩月兩度毒針行刑出事 得州死囚行刑逾一小時多次喊痛 (17:46) - 20261120 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQNmpNRmpIcHVERmwyOWg2UGZIY2ZMbkZNNjNBWEhrOTJQZDNzc2tPd0NvdllDVFNiN2ZwdHpDdkp0SGNxM1NCS0lQMGQ0Vk05X2NMbnNqWUh6eE5DMHdPMV9LbXBCQ25NRlNqazliX2hXU3NmQkN4UElmQUp5cnVRLVY5LUdIVnVSRXhrRVg1ZDJTbzhDc1lPQkdJZ1JWTXA4QnU3Z1IzWVItajJ4ZEg0bkNhUkxROFhxczNYUnZPTUV2R2J2V0RCUUYzekJaX2hQa0ExZlVSUXFNMWoycUVYTTZuaEdhRjBscWNIVjh6S3hJVHF6WDdkbEdEcEd1SFF4cE40SWVIbDhaUE15aTBBN2hJX0hiVWpnNDVqMkVvN1VBWW8yZUtTZUZpaVNSVWZScjRVQlppQ1lrYnJxRFhlWFUxODhXY3lfeGU4d1RyZkx0R3NvaEQ1RTdTNmRzOG11VE0tWjRpZ2d2Ri1LemRrMnQ5VTlqRnFLc2xGRjJuRUo1bTRKa1doYklCX1hZa0hhTXdCZV8zTUwwM2FQbW0yeGJtY2doa1FvbTNOelpkNzhaQ0JBM29wamVqLV96RjdIcUxJeVpvaTRGRUhvLUV1M0VUNkdMcW1ZNl80cE83THA?oc=5"
     },
     {
-      "title": "行政長官在深圳出席亞太經合組織領導人非正式會議",
-      "source": "国务院港澳事务办公室",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56WU5vZGlVUWdpTXVsRlJjYVhxSG5FNEVRVlVDbmt3MTdrbERjOHp4R2U3U3gxWExMdThjYURIbUxGUHY0N2FBSGxmaE4xVGNkeXNYajFwTUppM3g5RFNpMVRjVTBtaWY1bGh2dy1qLWF1MnFPdVdmdFZB?oc=5"
+      "title": "美國網絡事故頻生 外媒引述消息稱國家網絡總監被撤職 (15:15) - 20261120 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQcmdTSjhhMzNHQnVYN2llVWZSNzl6Ylh3Qmd0Nk4yVmN0dFZyemNlVklDMVJZeVU2SDZLNkRnWnhwQnFzRUJ4M2dIRVZ3YXFHQVlMZ2FpbGZ5LVRyUm1icGhJZC1NXy1sSmRuYkNxT3hMbm1SSkRhSzJXYm80VHVVTzRLVG1HLXFjM0xhajJRd2I2WC1GdFlfS1NsT1dmY0M0VkZRak44d1dCZFdnc19RR1lZX0lfTG9JeWFnck15SGp1WVg1QnhzR3QyMUpWY3pFZ201eEtSUVQzNXlrczFpWEg2RkVRTmpoamJpbkV6Z2dRcTdtSk5CM2xfYVFTR2pwOENEdlg4LWdRbDZBSTFhN25Bc2NydENySnhraU5sWGRfM1J0SGg2UWEyczFwclE4dloxcUV4WGJXWTZTYWJRQWFuUDZCWGJCVXYtQ1Y1X2dYMEYzVVZpSjVPblprWVpoWk5vWWs2TU1jcUR2YXMzRmoxeERURUxjdU1aZ19CYTE5UWlpODdGbnhnTkFuSk9CajRQam9WbUNtTG9DeElRTU9HOGJCSXVUdU10SVRhVWI?oc=5"
+    },
+    {
+      "title": "國際｜中投傳重啟投資美國私募基金 洽商制裁應變保障條款",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNaGhZQU9BcThkLXd5RjhfMnB4OW1jWHFQZEp0TVNVTDlxMHVBdGtlQlBKLWxRb1ZuLU51QVEyb1ltVlFNR043STJGSUlRTGlPNjRwMUFwUU16V2Ewc2xaVXhQeWlvNnBxVzZZWlIzdV9VeHdrSzhldXpoZmlxZ1pyaFN0dFpDODlfbUEyU0hlcGpEMWhoSlgwbWpweGdlWmo2ZjhhSXpjRW0zY0NTOFd1RlZ4UXhYRWFVNmlzWEp6b09JSnd0M3U5Q1NqeUZIMThzY2tpNVVkSllCdUlmS3ZYaHNid21rM1QxcU9MejZqa0R2TFdsUUxzVzJMczQtUUVqRTU4Ni1SVnRnOTBkMjZuRjUxTWxPSDIwaDdHR3RobDc5bzZjU2xPNkFPS01FaUtIZTBNYWJmS3FQN0VKVEZOUWNHUS10NTBmZDhPOVI4dUNYZzJRUnJNTk90aEZuNzdXclJUSWEzQm1xMUFMMGV5UFl1VmhsWXVJd1YzejJObzdDb2RidFFMV25FVVE?oc=5"
+    },
+    {
+      "title": "國際｜澳門大賽車FR世界盃 濕地下De Palo造最快圈",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZUs1S1NwSm5JY2dkSVBfd2VpLTgyQW01Nk9IRlFLRG1RSHFQWF9BS2VGNW9oVVhNeEJvMURUR1dkc09DUTBWdDJrNFRPd2o5dWEzZGc1RzgzMUpFcTlvTFlEcmZGdkNpbE9Yd2VLRFZZT0hQZk9tbl91NTdqWnAzVV84dTUzbUpNSm9FSi1WU19Pd0JOUUN6VHVQX0JwVklCcjVzVWJUMnBLdW5RSzZ2aTVfc2pKMnVGQVRfaHgtNGM5S0t3c29KZnZfYnVNYUo5aWJ3NHNCTWpUVkRMMi1SQTQ2UlhWMFdCb2UtS2NQUGlxbnpZRldFU1VuYlF5SElZelhsVVd3TVNwZHN6blpvakllUm96UGxJMFdXUTZteU9nSWpwVGNwckVHMmN6SUEzR0pZQWdZV0o?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜超微遭沽空報告狙擊 指與黑名單中企有往來 股價一度插8%",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPMVpLTWRmQi1rS2htWWVYemVOY1pCVFRQOXIxX1FlTlVwZFRDa2FvTjM5X016TVR1R2ZjX3g3XzJrZjVFX2hpLVpKSWM4dnRDNFd3U21nLVVZYzBLM1h1bW85eWdUQUZ2dXhVaXotd1Bmem10VzBPRWk4UjNoUWFMcTNQaFc0QlRXOEFuR0EwUmlQM0pjcWpTc2htWFhzVWwyNTVNbGJ5UVdjcktMbkJGVU5SbTR2QTZ3bFZhUE9wUENxOHJuS1k1WWwtS3c5MUdXWHZneXNUQlgwZDRraGs3anliZTlSb2w1UUduNnM1OGkwRDRkc1I1T1hHMXFERHFuU3BrRlpTRnF4SkFXMTh2Nk5zeGx3Z0ducmlMN2VHUFBBNjhWZThGMzZsMndCcnN5MWVzNWhiaWRicUt5YlRMb3dFOEZ4bVZ5emhicHhCc1FFQjQ0dlQ2RWRlekR6LVBjWXZtUlZGT29wbVJTbUhqdFNBdlU5YUJQb09CQndKNi1RZ0NEZXVsUF85b3lKWXJN?oc=5"
+      "title": "美股科技股估值跌至多年低位，華爾街開始尋找反彈機會",
+      "source": "群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHhTdlo3RnE1eW5RMVhTbll6Tm9nSG9OMmtBX2UwTWkwUXJuUkxKSEpxTXdVY1Z5Vy13czM4WWZaTXVORGZHQ0QzcWdXWnJCTFNvX2JpbVJXX25DMFRlVm5vNVlQNHhpQjBpR2ZwUENjQjVJQ1M1eWY1OFctYW8zZ0JPd1l5bHIwRVkxMXNLdw?oc=5"
     },
     {
-      "title": "【美股】完美風暴何時減退",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWJGNzQyYWxkNXRPV1U3WXpreDFPQl91Y3VXNDMtOXNCal9QWHdDN1FNLU9telVMdzlpcWl6VUIxcG9QNklZR3dzQndmZlNJbG85Mk5wRlc2RDRNcjJwYkVNQ3pITXpwMlNfRWQ5eklqaE1DUDRTd29hdGJLbjJaSFhkU0dDejZKaDZCbFJ4MEJMTVJFYzVtWEdMMHdiVVhIUHpYSklHOG91SUxORDhYUGZBS0Qwc2NSb1NEd3dNODlrNnpZeHZFdXVvMl82MW55M0R4azQwck1wdjR6YnJKZDRvQkhnVnFPMDV5N0s5MA?oc=5"
+      "title": "美國財政部公布外國持有美債量創一年新低 中法減持最多",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSYmd6ZkFVRExFUUtpanpNV3R6eXlfN254QVM1NGh0Mm5QWnRjQk5zU2hSdk94dk9naTlQeVBITUJqX094UW1NUXNXd2hUQQ?oc=5"
     },
     {
-      "title": "美股低收2%或以上 Anthropic首日掛牌高收逾17%",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52Rk5VOGM0YmVaVTdSYlhHZkl1M3M4Qm5acUFiT0tSc3dxTjV3RFlnQzNhdjVscjE0bS1IemU4ZFY0YnZRUjNKUFF0TXdBRTVtc0drakgxb1JKOWlOUGZlYXkyRFhNMnpMQnRUb1BkVQ?oc=5"
+      "title": "澳元：疲軟的就業數據助燃降息猜測– 德國商業銀行",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYktrTFFYb1VyTGRqbG5YZHBrMUZGQzJDMmZPRGxnUkpYLTBxUENJQ0xDbVBqdEdwVEphZkxCNzkzWngyMW9ZYUMya3hWWmpXT2ZOS3l6Tk8zY2xFblJNOVZyRHJybTdINmpIdHQtdWNOcGFHSkdXdkQ2TFUwbTdZV2llczh0TnNwdW1fdU1hVFZfdGxfRC1yRWtCbFZOYnZ5Sm1FU0d3ZENwZklwejMtSDQ4aXJKQU9aT3VuY1VCX2w5SDNaamh0T2RB?oc=5"
     },
     {
-      "title": "美股收盤／史上最大IPO救不了AI股 道瓊重挫1,100點 三大指數全跌逾2%",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NRXdDSXkzZ19YRV9vekxRQVkzOERSU2stemVyMmh5ZmpOZ0xod1RTQWd6NXlpZi1tckkyMndKaEYtUU4yWWlHVU9tcEoxdVVx?oc=5"
+      "title": "全球經濟指標",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
     },
     {
-      "title": "華爾街驚現史詩級大逆轉！Anthropic世紀IPO竟成拋售導火索，道指狂瀉1100點、納指暴跌2.25% 作者 FX168 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnWnJRVm9DLVpNMUV6MXVQRk5wa1J2MGNfVXRfQU13TjNQWEltdDRnd3FCbjItbEZoRXZSRHItNUNJUDk3VmN2WTFwNzFCTnJZWFRScS1wMjJtOHJrQndFNmlrWExJVnFiYWxjV2NyMnk?oc=5"
+      "title": "財經HOY視野｜美股期貨仍未止跌…",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUkNuQW4tSWQzY2Fjb3pUSUlSOTdsbnFGb1hGZDN2YXBpTjhIR1JaQ2wxX2RaV3M2QUZCN3kxRGI5UGxXRlV5RWtEeGJwU05rX2lWT1NRVjROTThma2JWQXRVbzhnSGZ4cHI2NzBDN05rWXdES3RFdzRPWXdnMkxNX21NeUJvVVhtbWszUEFVc0h6U0ZMNW8zU0dSMy1oMDN5b3ZCZ3I1MUY2SnZ6dUUycU0xTFJQdnMzV2JwalFyWElFeEs1Y0ItUUFrclVNMWtkcGhOQ2o3MHQ2NGtsUTdDcnUzYzFRbWxueTd0NlBtUVFJVC1qNWdIemlLMzE3Zk1EVzkxTmtBaHFKR1NU?oc=5"
     },
     {
-      "title": "美股三大指數齊瀉，道指跌1101點失守5萬關口，納指跌2.2%，Anthropic上市首日升17%",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1FVN1dyU19wUklWd1JlUHE0blNETHN4NkpUcGFwVndZam5GYXZtSE1uSGxCOHFOVXM0UlhkeHFNNkxBRkJORDV6QjBrUnVMZHN6MTdROE9ZRF9Pa202Y2NabmNWT2ZlNUJ5dkZQYnpyYWhmRFZhdUtWVmJoS1ByX3VvQVMwQ0Y1UFBZMEZhcHdqWnNR?oc=5"
+      "title": "美股恐慌指数VIX升至30，刷新3月底以来盘中最高水平",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5STHRVOU4wVktUWnpSWVZNZkpqeER2aEx6MTRlSGpuY0xFVFFEUW5fRkN1U3hneE9VWnVvLXFnUTV6UktvNG81WEJhdmRRdzI1dk56Ml83ZUdqVHlDQTF5RU1LWjc0UQ?oc=5"
     }
   ],
   "events": {
