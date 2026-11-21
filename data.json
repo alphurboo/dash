@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-20 21:58:04",
+  "updated_at": "2026-11-21 07:15:26",
   "gas": {
-    "current_label": "11月20日 (現行油價)",
+    "current_label": "11月21日 (現行油價)",
     "current_price": "148.9",
-    "predict_label": "11月21日 (明日預測)",
-    "predict_price": "148.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月22日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "俄烏戰爭｜特朗普稱普京「朋友」 澤連斯基：他是殺人兇手",
-      "source": "am730",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNNnJHWGpGZEtsS3JWY1I0VzlHMjM2QXpYTEJXVk82MVJPaDlXTEZNYVd0Mlh2bW1nTzlsWi0zQUREeGhiQkxzZ2czMHUyamp3LXktX28xNzd1clE1eXB3WTBRWnV4UmlUWnlDakd6MG5LbzVsQ19UdldBYXlWZVRPUkotbnozV1AyS0FJWXdoVHFPaUxlcTF6QTMzczFmTkVCRFo0REZHOWl3UjEtWm1ZNGFHQ1VlOVBTSnJjd1paWktCY05WZGNJQ3BlSWwwM1BKWDZEdVVWdlVMTDkwZV9fajJNZlhfZnZ1MW16cGR0V0lzaVkyN0E5c0tDM1p1cjFuUUlYejZlZzZHblhwSFBWcHJycGF6cmdWeTJ6MW9PMVd5RU43cFVNUUY3SnA2S0FUYzRCRl9WMTJLQnRXdTVNUW0ySTZ5OVlNX3hVWTZXMXlKUWZOTUUxS1NzbUVDUmlCRGpSYmZQQ01hUEFjZmZn?oc=5"
-    },
-    {
-      "title": "特朗普：中美俄美元首會晤意義重大 美國因此安全無虞",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQN25WMG9nOEJIa2xIUnVxSG1hTmdHVmc4eWZMZHNqYUNEbFVFQmxZeDBEOGZ5RGZ4eHZIRk1ZRDFaQkR1bndWRERQVEhNeEZzeVo2VDMzb0h1d2RZTllOM3ZpSGt5TFhIOXRrRVFBR1RhdkhsbU9qeXhQMmpmQjVweHJldWFMUGN1dWxzSTdCYjdnTHh4R1dVQTRzaFJaN2JaeVhGeHZyNWdFdFg1eW9GWjA4M05Vd0NBNjlaQ3VoXzdsSHNCMlA2UlJJT3l5aWVPQVJPNUJNd2FSbnFxdVd2b3pXQWd3QU40cVlXVUoxZXkxZnpVRDM1YU96MmY5aG9qMW9aTEw3cGRGbERucFg4U0F3YnczRXg1RTV6RFV1U205WlpiYldCTjNOZkxkM2VlQUQzVGx6Q3p1Q3l5SUtkTElqTFpIQkRBZWwzdHBjOWlxMUlBNHhCNWczNlRlSm5SdHVYeDUtdVJMS0pxOFhyS2h2NEc?oc=5"
-    },
-    {
-      "title": "特朗普稱曾與習近平討論黃仁勳 稱三國共識絕不能讓核衝突發生",
+      "title": "陳振英相信亞投行在港設辦公室 肯定本港國際金融中心地位及優勢",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IVm1vNHRyWFpEZHBsNWhSS0ZMb0JtcFprUlVpdGUwRklkVXByMXE3QWpMenZyT2M2dlhRckdia2dackZJREo5THgwTjU2MjFpdUpqamRWMkx4SHMzcXBPYlJxd2UxVnJMT1F4WWF4QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42aHJfNE9mYnpxaVVIZVpnSmtLSGFjQTJESm1ndVI4c2E1ZDRqRUVDbjVZXzItWV9iU2lLeGdkdEhCanoxVWYtOFdWOEZZMHV0c2xnTjFOTnBQRnVLZmpJek9FVjRJVUtiUGJxQUlkbw?oc=5"
     },
     {
-      "title": "國際板網球賽事FIP Silver GO PARK Hong Kong準決賽及決賽明天在港上演",
-      "source": "紫荊網",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzd2X2ZGd2EybGRrNnFKN2RrNDRqdDFvdk44UlY4NzZJSWpiRDViYkVqUU5HbDJxQU9SRmhUa0dSNWJXdEtaZnZzZWlZZ2p6OWdVbThVZVozLU02OHRTTzhUTGFQTktpM2pEY0RmelZzbzhqTTI0bDFuSXZuci02WWR3dmJZRkQxdFJWY1NRTnE?oc=5"
-    },
-    {
-      "title": "科技｜特朗普盼黃仁勳道歉後重返英偉達 稱美國應予天才第二次機會",
+      "title": "國際｜澤連斯基指普京是敵人與殺人兇手 回應特朗普「朋友」說法",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxQVEgwelZPSTdzTjJpN2JPTnFsVUVNVXRWaEpfTVVxVHk4dFhTcXFjWmhRU2VJUUprX1RTcF94UjJZcUlZdlNaQWx4NG5oVHExLWpadnU1Q21UWUV3cWRFZFIzWTdRbzlGRV9RVGtPR3pXYVlEdGZOZDZ4X2ltanVXSUxoN0psNWNKOGtONjIxNk5yRzZSYXlkVzRqY2NpNDRJODVVWjhYYmtTNnp0aEFpZzZPWk5IclRlaHVVODJtOEtyRjFzVldIeUkxTllDMzBqNDJPdTEyeUpzcll5QmV1d2hfOU1TZ0VxX2dCeEhoTlR3ODlLRW95UElJWnNkZzRiejVJR0xFOGhrQ2R2Vl95VEExNHRNbEl6eG80QXhqLW1vdVMtRHBfSFprak9sTGRISkE2Ukc0TUZNYjR4MDFsaThqRFhuMlJjaDlwendnRkYycERNYlhxdWtpalZaTXJ5YWEwODYxU0tzM012ZVp2TktqQTlKb1lyLTBwVllNTUJ6RTV1cEhYMXdNZW5qeWc5ZjJSNTd1S1Q0dGRjcGVjXzJLejlRNTFwM2hRZmYyejlQbGJnNTZ2VUR6dTI?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQdGRjdnZFeTVUV1B5S0ZNbGphT2Q5TWlKbWRfZlp1SWlmUmpTSWJaTHl0T3JhV2VVQWlub2diVVVsdUJraV90cWpLdGVtREZJbFlrWXVMZGJINThuQkFXY3dOcGlhTGI3RzV1TjVvald3MEtkeG1RbFM3RnVpdURmaUhqSnd1eFNDMVhDanlrZFFXUEdkcGE2UkpFa1dyOEkyWFV6QTloOHA4dzlzbkg2VVNrWmdKUEhaaGczVl9oVm9USTRGMDZZaDRCY2RXWnIxTUI2T3dVcjM4UFBVMjdNZDA2Y1R4dm1UV2lvYjFQY0pKclJJRE5VaW9WRDUzSDRYMU0tQi1yRk1OQkJQX09NbGlDaEFjMko2LXBvVGxUdkdzOTkwOWs3QVdZSzRYNFpqc3RaS21fVXVfT2owZFh0Z1l6amJfYWc4VlJKUDhoTllUNXpEQks2WjhLZ24wT1F4b19XdGpwSHM1bTBSMkFtQmNFMmM4Zm1OQWthRHp4WVotQ1pNLVg3TDlwRy1vQWh4ajZGWlNZQ1BSeUE?oc=5"
     },
     {
-      "title": "俄烏戰爭｜特朗普再稱普京是朋友 澤連斯基記者會上苦笑聳肩",
-      "source": "加拿大星島日報",
-      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQUnItZDNjWGlKc1Z3T2dmcDdVSW8zejh4OHJhM2RVU3JhRC1Jd2NTQTM4LXBVZnVrakppdGlYY01sV25aRkNDTVJWNF85ejRGTGQ2LWhlUjVDTHJzdzFId2s1N2pVcEdVZFFQRjU3c1lsMW9UejYycl82N2lEZGZvOENOQllsNl9JelpmU1g3UW5XbS1hSmtoWEdiSkVhSHkyeDZmSExlVEdXUmVvSDR5eWhOdWxmeXE2SnV4Z1RnMlFxV1JMTEExTjlDdVpoV0ViTzJ5WVc4Y1d3ZXhlemw3VEM0NFpVQVhYYm5Dc1FPREZLM3I5bEszTmtodWttSzlmM082YUpyZEFMUXRHMXVCLXJLNzNSUHcxYU12ZEpEQVJwbDczdXRhM0pCbVREcnkxM0c0MWJmNEVCOGxDSE0wcmZ0RDIyb2ZNU1NKb0RoUE13R1JxWXFtWFBnVUh5M3hYZm5xcEpqa2xmVGxjcHRJc0tJeGRUNjJwR2RrbDlKRlJjZWNhcWNZMTB2V0wtNWVBZlNYUHd1QUI4MkRKS2JFMXhHSlJrT1NySTlPNA?oc=5"
+      "title": "陳茂波冀與亞投行加強合作 撬動更多國際資本參與亞洲基建投融資",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPR3RBYmFOS3ViMkFDaXZQWmwwLVRWZXVOSXQ0WmdtdnEyUlBEQ0ZuZE9ocUNpMVJOZDUxNmZOZWNrUEZBU2hnTXRYRjBVQVhsX3JfWURhaUV3WnZUSF9acUs2NGVTSWNya2JHc2VwUXBsdnRhd014enhkVGJmSTFKVTVqVEl0RDhQMlF1S2FLODNzYXg3ZGdsbVdWZG5SU0VvOXJWWjVhMmVud2lTSE1YS3JVMUxiZWk2VkdnWWR3blZtcDRKRTNkeXVEajEwY3I4QXFJcURGLUtVMnZxWVN1aEdkaEtnbjJvUE5saHN4eTlTTjNjQ04xTW5CLWVicDRFRllnME1fMWVrNG1sYmtrSlpwSURxdWRQd1JCdGxpNzRucXdBYzFhNTVvUzFrS2JHMnRPYktQNnV1WVlOd1JHaEZhRlVwQWZES05wYW1NcVdGalE3Q3hwUk52SnNwZnFVdmdfMmx1WXlzS0MxLVBrNDExTWg4cEVCWWRyODdxcw?oc=5"
     },
     {
-      "title": "美元指數結束8日升勢 美國10年期債息失守5厘",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uQnVLakp6UWNrcTJ6d3d5MXhWdEQzYlA2d1dCdFpvTC03YXdPUEYwUzZIY1FmcHVBTVNxaUxxZkxUWlZfY1Nwdm43c0VwQmIzTVpBYWt6RmtUNXpjX1NwX0Z1Q2xVNDEtNlg0LUxUTQ?oc=5"
+      "title": "糧食危機｜世糧署：全球近2.7億人嚴重捱餓 明年僅能援助9100萬人",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQcHlDUE9mVjgtRjJCdlF3ejNJck5CTzdTVjJIdjc2ZlZNZFZXNF8zSy1BSERwM04zSW4xbkJWVFd2cjJ3T2JyQnh0b1o5bkRqck5oVEZYdktVVkxGam1QOW4zNDREWnpHRDVDa1dNa1VtYWRUMHdVRVNUYi15YkNsTXE3UlVzWHR3dDJzZEgxSzZRd3hqNkpaYzBlbkFjbWhpNUxCUTJ3NUpSd0g1VVJ4Ynp0R3NpRlRuaUUxZ0dFVlNGV2NBVEFuNU9ibjhSVEk5U1hjRGxwT0NFcm5wNkxnUzVkQVNxQVYzVGRDRzI0T19aZGU0aG81YmNlQjN1dWpORGRPYkdDSmN5WG43OGprUHl0QUNuM1UydVJsUjFibmljSEFtTU5lcWg5R21OMG1ZdTZxNzQ3YzhuazM3V042eXJ3Y0Y1SU5OLVdtWXU0bVFMbnFLLWMtWUpnWnBDMmpRQ1NsVzFxTUJNcnFjRHVxcm9tRWlidVBUTnk0d05rQjAtNnJ3R3RzTg?oc=5"
+    },
+    {
+      "title": "美國大毒梟「矮仔伊斯德洛」墨西哥落網 觸發販毒組織報復槍戰 有棒球賽受波及",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxONUt4WDdqYTMybzFzVGJPb1dHZHY1TzdlLW9BWE94a0xJTzNNQXczU2VMbVl6R3pPZGZPSFU5bWtUcU1jaGMxUklnXy1xYTRobE44bFlGNk9YbkstVGpoMG1IWGVUcDEzWlpnVFRHNnJsRS1ZUXZoYmRSbjN3aklkUnVYMmk3aUJqR1VHWUc2OGFkTFpNQWhqX1VsQnlhbm84MUo0blZ6X2t1Vm1qRU1Ia2xITV9BV0RFUU5iOUt4UDcyWFQ5NGdVQTA2TWk1eHN0emQtakl6bFBianhtd2ZOTl9rWWgybEt3eXA1NzIzTmt4UTQ4a2RMQ0VxVzZSNy01aFQ5NU5Xc0xJbkh0UWRXYmYzalFMbU02TUU0NGFSX0ljRzdTMkRSa3p1VFA4UUh5cENnNGdKYXVCcEJaNWRxRlhYeDFKUVZJcTM1R0xodXNlaWJHa244YVl2YUF1a3c?oc=5"
+    },
+    {
+      "title": "美國財長：英偉達晶片對華出口管制到位 無意再收緊",
+      "source": "am730",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNOVZyNTFSSDdJb1lFRkxoRGw0a0RzVFhoTXlJcDlPT256TDZvZ0xDeEQyc0dkb09ZMkhlMkpLSkVBT1l2eHNKV0NHdHVzMXljcnRPdUVMbl9Qb0hNNnlBeERoeXk4TkJrZmtVU0NkS3dhN2cxX0o1bGt4eG1pN3lfN1hDQUQ0b1pmdV9FUEFoOEV3dlZiWHNEUXJNSHhfc0hxSVY3X2xUY19ZbkoyMWFPR3FENlI0U2RiYXgtWXNvdFNLQlRYOE1FQTJacTJLbloweFRjR3hma1lnR1lJSE5sQWowZHB5bFFqSDk0LUpJSEpwRG1WYXpnQmgxc3VPTmhYWG9pZ0hjUEYzU3dvWUNDd0ZiTTRKQm40UWFrVEJfRkZNVjBRWlZGREd5bUwydHczS3FWMzJ6NXNDbE5zN0s3Njh3cFNoNndqUWduRTFzRzdRWTZUUTdfQjVrZXJGWnF4NFRLSjBkaHNDZ3dM?oc=5"
+    },
+    {
+      "title": "「龍飛船」脫離國際太空站 攜科研樣本返地球",
+      "source": "on.cc東網",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaU1iU1ZTOFFpeU10MUMyUU9TUnR4Z3gxemk3blBQVXR1bS1MTzZGVm1VZzkzWFNSYlZZVU5UaE9FZG1QbGtlUF9tNHR0YlViSk00VnBCQl9QRXo5XzRHZlN0Q1hPbm5TRnM0dk5nQjQ0STVlX0FJMjd5VmVuRVFNVnFuQko5eExpYjdmejNtWQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜美股三大指數急瀉 納指跌5.28% 費城半導體指數暴挫10.73%",
+      "title": "美股｜納指急挫5.28% AI概念股光環褪色",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPT2cxZXRBSW1BdDM5Sk01UkRzcUxrZS16WjRWNXVhT01XNnlFRDJyRElJLUpMek1MS1otcDdnMmpLWGlsclhHc2VjalZTWDUxbVpuWWlkUG9qQ0toZ3EteUNUY1dVdGxsYkVOTm9jaE5MS09YcDBtLXlzMlJ1b3hSVEtFQUhMOWRCNkJ4SklzY1ZzWlFkMW5IeXhmbWFUN1BmQ1RadklYalF4dHhTdmg4MU12QXI0d2xFYURvcWF5U3RIZ3ZZV1VycHN6OUJzRGJTNTNlNHlzRWxpallfRkhLWWU1VjFOLXVaS2ZCVm9ER1JIb1UyUFRCOUVzWDdvSzY3dzc0eUptcTZLR2txOVdpaktCQTJDZnFpTElpNzFYdjRzbUV3QlZzM3BGS09fYmpSdUpYbEU1bFdrRDFQS0N5eEtIM244Wk9iX2k4RV9OM3Bqbmpvd1BzSzRDM2FOTlRWNVJIZmU0VEpHWU1NN3c4bExR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSURRV1V6OXhicE1iM0RRN1UzaWpPUWsxWGlQN0NLbDhLaWR0aGFmMFlxQjFKMlZiQWUxZDNndkt1aUt3YWJkQjZ0WUlzbjFvTmFubG9UeWtJemtDMHdrRmVZTmMzUldMOVVMbmhsOGFEQkY5VFQtSW1nYXR1bkg4TndfWFF6NmhkSnp1YzV0QkIxeEU1WmhPNEdjYTlqTFo0QzNsQmV2VE52V3FNckJvTHpkRVZnczd3QWVOcXhPVnVVaTNlcE5wR2FYalBMdUM5U01yX1pJcEh1NTFGelJBT19FcHUyd0U2WHpTbzRPOU5XYUt3T3RZMm5YQjE4NHdXLTVEaA?oc=5"
     },
     {
-      "title": "美股又爆股災！納指暴瀉逾5% 英偉達再插水14%連跌7日",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPU09TZHBaOFNRb3FBcEdMNzFFUUlZYzBVVUNQU0ZHMTI1bEpHcTlWSHBHMWJuTHRWbzlVci12eDdyZHpCRGRtZGhvSlEzc1d1ZU5lbkZKWmtQQXdzZnRvOTdsOUNaQ0pWemg0LUpXdGZuMHEyekprYUhuYXZzRW55STNYTEI2U2tEQkhUemRaZGxuWVpUV1FyeXVUNTd5ZFhwWnl0aTU0T2FpYVpEYnNhalVNdktGOHFqRXF6UkxnYXJTd0NwMzg1NTNkNzZIU1gzMi1vTkN0OWZVQmRZWk51anZFaHhvNVE2WjdTZzMzSHhXVC1DWkFZd3UwX3loX3ZyblpfQlB1ZUIwRkhTQzZtQTRGWlowUEt6SjJ1TzJ4TzQ3LWNPdV9rOEFUR05lUW5iSGs2R0piVXJRMjl3TnhyenFtR1hZV0w1N3NKbDh2VzIzX2I0Q01DT0NxYUhFQzVLWUZDanRmOE1XSjEwNHEw?oc=5"
+      "title": "美國債市：避險買盤推動美債大漲 投資者撤離科技股",
+      "source": "風火輪傳媒有限公司",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FajF0bUJINEk5U19va0Jid3RiMWQwbmI1QW9YY0ZDeGFCRWJvdDZ4VTJYOGJYNlFITTN5M0xyTVhrMUVsbXk5dmZ2TXdlMnJRZGJuZ0NEYVg4OXc5WmVLY0xHREU0LW56RFB1MExxX0xmZ0Q5?oc=5"
     },
     {
-      "title": "美科技股跌入熊市！那指單周暴跌10% 市值蒸發逾4兆美元 | 美股動態 | 國際",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaYWNyM2ZSWUo0eUxEaEFiY0dUMExEbjZHakVaY1czSUpmOTlZZUJOcFV1cUlLOVB2QmlmOTB4SlQySjI4a3Q2elhzN3h4ckFLU1pWa1Y3ZUxnSFYy?oc=5"
+      "title": "納斯達克100指數挫5% 高位累挫兩成陷熊市 (15:31) - 20261121 - 即時財經新聞",
+      "source": "明報財經網",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPSEU4cmdzVjZoa0FSRHFBM3RLVkNac2lmVEd2NVNYT2V3cXNjckdNWDdlSzNFWkpmTG1HOF9VdmhSUmRKeEozU3kwVkt4TVhZYXg3bmdaZm1mZnRja0VmdWdIa2R5Qi02TVRVeFlsUVlFbENqMFpiQzNEbFJtYU9BbEN4blo2am1LT1MyRWRlS2Y0Mk1FanEteXNvUlZBbGpFY1NsZGhUNVZKUXZ3VHdDUnZ3NlZkVndQamZybHJOTDl5Q1hqeGxXY204OENwR1pVSDdidmFFUkJWbFJZbF9GaUhqVnJMVHJGTVJkTzNDbDZhSFV5Mi01cG1QMlJJODBhVDMxeHBsT3Zva1N0OWZDQkJsMmgxTjN4cU5rdjNoMkpSaUd5VGpIV3V6Mm10YWdneWpJb2VpY0g?oc=5"
     },
     {
-      "title": "美股大跌怎麼辦？那斯達克再破底！輝達事件影響誰？AMD股價大跌大漲？｜美股即時通 2026.11.20",
-      "source": "永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxPUEdCYmdOOG1mZGI4dXR3Y0NhWnowQmlHaldxcHI3QmRtODM0bHRJSWVOb21zV1FEVnRvWENhT0JDVVlNeUFvaFFPM0RVUWFDeFJkdnhzcFBqdVVRSGtoUU40Q1U5M3JsRmd2U1c4UHdrUjFPYVRRSUEweG9JNEc3WFkzS1BDb2stVEpSbXlpN19Ea0txTDFKZF93Z1p3YXYzaU43bEZ3bEh1NkFLZVpnMV9tUTdsZVI5NWVPcWhIYW84UEd2cmlMZEI1NEk4bEpIa2RFRWZ5aUpVY1h0anpmSEpWNnhmRVZDUnJDX3ZVMWllUUQ4ZjBzU1c0OVpDaDFMbzJrcWZqZlVRbmtTTWZYbnFScmY1RWxEbXdCVnlIZF84a0hEZmY2Wnp0VFhjQzBualgzMWtfQWFJeDFrQWVTY2pRVTB6Zzg2eEZGRmdMcmF5WFpTa3lsa1FrMFVDSnVJcEFvVERqSWdFdEU1OE9pOW5zUmliRVpxUjRiY3lxbE9sUnJ3X3Nwbk9zVzVSZnlwUmZ2M1pjX2ZuNW1nQzlwUXhhTXZ5Y1VEeDN3bXBTQ0puU00xZDVOa21IeGlnczlkazBxOXVmQWNHVVJYaVlKdjRQblNsS0MwbWpvWW1YaXJxcEhkQ0pzUUMyUVh2ems0cEE3NzlhdkxyRlgxWWxHQVVHVVBKNFNYZmhPc3ZiMF8xTm5sWTd2LWFYUkpuUQ?oc=5"
+      "title": "分析：当前并非AI泡沫破裂而是正常回调，即使标普500再跌10%仍属健康调整范围",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1WlZHWDVUQlp2M1FiNjhOSzdRM05WVU4tQ056WGcyMlc1MnVVUXRFczdQM2hMc3M2QnV0ZjB4c05ScWdobWJNMjdMQ0I2TGRpWWJRcldqLTRJZDJDY09rWlpibTAyQQ?oc=5"
     },
     {
-      "title": "道指低收949點 納指急挫逾5% Nvidia跌14%",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DWWhMeHhvdk4xOE92SzM5UTIweWZsdDBZYUdYYjhhR2Etb3ZVTkhWbGlpaXlWeGIzMWxBYTI1VXRkcjVfUTNnNEZGMW9yVl9NSzBXeVA5TzlURkhLamRSWmw3RWJUTkliUWRxT1hCYw?oc=5"
+      "title": "台股史上最大單周跌點、美股崩盤 金管會「23日起禁平盤以下放空」5招救市",
+      "source": "UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGaEtpal9nLVpGU2pIZzRvQ3BTb2Z0VnFDNTVOU3dBLS13N2dxejRJNl9nUTA3VDdrOVRlNGVuSGRsRXJ2ekE3WHJQVVNad29l0gFWQVVfeXFMUHJ0VWh1cmlSTTdBMElpbXoxbm1meWFGNC1GbUJyZllYUXBBYktVQ0RFU0NYanloVGkySnc2T1UwRkxueGc2emNqMEdYdVhWNWpEOHM5MFE?oc=5"
     },
     {
-      "title": "AI疑慮引爆美股重挫！標普、道瓊雙雙陷入修正區間 那斯達克抹去全年漲幅",
-      "source": "鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVaDR1OXFOdzZxZVRnMURKTmJkbnpiWjFsNGlQTi1GYVhienltY0tTQXpwNU5KbXVzOVFpTlZZcVIzMWdOT2ViaUdjVGlGZjA?oc=5"
+      "title": "我最常用moomoo AI 問：美股科技巨頭（英偉達、特斯拉、蘋果）的近期行情走勢與關鍵點位分析。",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFRWX2pPMHllMW9fOWpNTGY3MDRyVHNRN3dabl9jVzkyRDdoMnJaRUxNT3R2R0dzUlo5bEFRQldCT1cycjhYQXItSGRjZEZPSUl5U0ZJYjJnMnVaWFdod1ptaWtjZGVzOXBJc2g2YWgwVThOb0EyakxsVkFaRE8tWW9nd1pxRmxFZEZVc3RvV3d2NE54UW1sMHgtbUVZUDhVbFd5Y0hBQQ?oc=5"
     }
   ],
   "events": {
