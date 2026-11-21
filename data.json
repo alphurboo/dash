@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-21 07:15:26",
+  "updated_at": "2026-11-21 16:15:21",
   "gas": {
     "current_label": "11月21日 (現行油價)",
     "current_price": "148.9",
     "predict_label": "11月22日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "148.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "陳振英相信亞投行在港設辦公室 肯定本港國際金融中心地位及優勢",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42aHJfNE9mYnpxaVVIZVpnSmtLSGFjQTJESm1ndVI4c2E1ZDRqRUVDbjVZXzItWV9iU2lLeGdkdEhCanoxVWYtOFdWOEZZMHV0c2xnTjFOTnBQRnVLZmpJek9FVjRJVUtiUGJxQUlkbw?oc=5"
-    },
-    {
-      "title": "國際｜澤連斯基指普京是敵人與殺人兇手 回應特朗普「朋友」說法",
+      "title": "國際｜伊朗副外長：濃縮核材料不外運 卡塔爾代表團訪德黑蘭會談兩小時",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQdGRjdnZFeTVUV1B5S0ZNbGphT2Q5TWlKbWRfZlp1SWlmUmpTSWJaTHl0T3JhV2VVQWlub2diVVVsdUJraV90cWpLdGVtREZJbFlrWXVMZGJINThuQkFXY3dOcGlhTGI3RzV1TjVvald3MEtkeG1RbFM3RnVpdURmaUhqSnd1eFNDMVhDanlrZFFXUEdkcGE2UkpFa1dyOEkyWFV6QTloOHA4dzlzbkg2VVNrWmdKUEhaaGczVl9oVm9USTRGMDZZaDRCY2RXWnIxTUI2T3dVcjM4UFBVMjdNZDA2Y1R4dm1UV2lvYjFQY0pKclJJRE5VaW9WRDUzSDRYMU0tQi1yRk1OQkJQX09NbGlDaEFjMko2LXBvVGxUdkdzOTkwOWs3QVdZSzRYNFpqc3RaS21fVXVfT2owZFh0Z1l6amJfYWc4VlJKUDhoTllUNXpEQks2WjhLZ24wT1F4b19XdGpwSHM1bTBSMkFtQmNFMmM4Zm1OQWthRHp4WVotQ1pNLVg3TDlwRy1vQWh4ajZGWlNZQ1BSeUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPTlZma2NYUlhnLVJiLWFpbVVRdzc0cWZGWUlKb0dhVlpqVWMwYTNVUGgyaXNvSm1qOFlRSnM2Yk5xam5zaDY0MUdQOUZjdTBiaU80OWhob01SMkdvTjRrTXQ4Qk5JUW95aFZBWlo2MDFsOFFlOUNXTVV5ZHNzWjhTUUc4aHFSZUIxUHFFcU1rUUZEMVhsMmZJWUZuakNPdWRDOHNjYnZuY1UtOUJyNlQ4S0dtV0RMcERiR0pCNzNSVXhMeDRCRWtBaEd2cHdFcDZETXp5QlNxMDNKeEcxeWJVQkdDV1ZOUGRhdkY1clY3LXBTeXZDeGd6VjdhVmRxVGN5Vlk1ZW9kTTMtUExpUHBmOVZ0MjEtTHYyc0JNRXpuc2l4RDA4Z3VvOG9aWEhzZDFlRmNWMXJyLTVKUzQ3UTdSc0F6Skg5OVZ6dlgxdTBEeW1MS1hTMWhfZmtrOEZHOHIxV0I4SGZpUUh2MUJqZF9WMkstMGV4ZmlvWjNTNm91LVVXck5XZnZjVlVaSHI4TWN1bU9GeTJoSnIxSXdXbXZQQktHekEtT1R3X2gwZHRKcHFJc3VWOGcxVElUTzRCYVJWT0FGOEFXZzBEQQ?oc=5"
     },
     {
-      "title": "陳茂波冀與亞投行加強合作 撬動更多國際資本參與亞洲基建投融資",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPR3RBYmFOS3ViMkFDaXZQWmwwLVRWZXVOSXQ0WmdtdnEyUlBEQ0ZuZE9ocUNpMVJOZDUxNmZOZWNrUEZBU2hnTXRYRjBVQVhsX3JfWURhaUV3WnZUSF9acUs2NGVTSWNya2JHc2VwUXBsdnRhd014enhkVGJmSTFKVTVqVEl0RDhQMlF1S2FLODNzYXg3ZGdsbVdWZG5SU0VvOXJWWjVhMmVud2lTSE1YS3JVMUxiZWk2VkdnWWR3blZtcDRKRTNkeXVEajEwY3I4QXFJcURGLUtVMnZxWVN1aEdkaEtnbjJvUE5saHN4eTlTTjNjQ04xTW5CLWVicDRFRllnME1fMWVrNG1sYmtrSlpwSURxdWRQd1JCdGxpNzRucXdBYzFhNTVvUzFrS2JHMnRPYktQNnV1WVlOd1JHaEZhRlVwQWZES05wYW1NcVdGalE3Q3hwUk52SnNwZnFVdmdfMmx1WXlzS0MxLVBrNDExTWg4cEVCWWRyODdxcw?oc=5"
+      "title": "伊朗軍方指攔截F16戰機致受損逼降 美方稱於中東所有戰機安全",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xMUVpelFXTkctLTRFdVdQTEVURGVXc09YTGhwTG8tS0RXck5hcHJtajlRWE1scjJ5Tml6RlFKVncyRk04eVZWVExWc0dwRXhORHNuemc1eVhlYU9qcThZSmxsNDE3aGhFTVk1djFsUQ?oc=5"
     },
     {
-      "title": "糧食危機｜世糧署：全球近2.7億人嚴重捱餓 明年僅能援助9100萬人",
+      "title": "法國報紙摘要 - 《解放報》：中國在國際氣候談判中為何如此低調？",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPQVEtcHZkZlFTbDR1VWdvVE9GX0RKRXNBenZyUjEyenFTb1dyVTE4emRXcTZzUzNhd0NZM1gyLTJNZEJGUlItUV82LVhaNWdEbk5DNFFkTENRd1duMGt6bENvc1QyTzJWbk5fT1QwcWdqOGNhUEg0ckhqNEM5WlB2bHBUODZtTlowRF8xSjhRTEFxWTUyeXd6bk9YMTZHYlp1SHZaRzNwNnZsMjNLMGVQbFlZWFdNZHRFT2prZ0otZ2RyVlp1QmVWLTVtRE1ZaGlITk1xb2FsTG45V083V1lhSTBpbkJFOHB0S1ppMkw5TTN3anFRbXgta0FxQVlxWm5aanRmeDE5NUpQQ0xDRWU5NkVXaUFHVC1aaVN4SDh5WmNON3ZIUmRPSXZhby1Eanc2eEpuenk5NmthblRRVUhEajBLbjVZVEQ5U3RBUWxOUnI5N0NPRThXMC1kLUhxOUhOcE9PZjIzSjlrWld6cDdyc29sc01BdXVaWjVhUkV6NFlxTEwwMlA3cnlQb05TRXN5UTFybXZneFAzbHdGSkhKcHlyOUVidw?oc=5"
+    },
+    {
+      "title": "美軍否認伊朗擊中F-16戰機 稱中東美軍戰機全部安全",
       "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQcHlDUE9mVjgtRjJCdlF3ejNJck5CTzdTVjJIdjc2ZlZNZFZXNF8zSy1BSERwM04zSW4xbkJWVFd2cjJ3T2JyQnh0b1o5bkRqck5oVEZYdktVVkxGam1QOW4zNDREWnpHRDVDa1dNa1VtYWRUMHdVRVNUYi15YkNsTXE3UlVzWHR3dDJzZEgxSzZRd3hqNkpaYzBlbkFjbWhpNUxCUTJ3NUpSd0g1VVJ4Ynp0R3NpRlRuaUUxZ0dFVlNGV2NBVEFuNU9ibjhSVEk5U1hjRGxwT0NFcm5wNkxnUzVkQVNxQVYzVGRDRzI0T19aZGU0aG81YmNlQjN1dWpORGRPYkdDSmN5WG43OGprUHl0QUNuM1UydVJsUjFibmljSEFtTU5lcWg5R21OMG1ZdTZxNzQ3YzhuazM3V042eXJ3Y0Y1SU5OLVdtWXU0bVFMbnFLLWMtWUpnWnBDMmpRQ1NsVzFxTUJNcnFjRHVxcm9tRWlidVBUTnk0d05rQjAtNnJ3R3RzTg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWm12dlNUWm1YX1kwVzdNU254RVpCd1p1WDlOeXVyRFNpQzRURUl6ZzF6WHRqdVR5YjBXNHFkTzgwU3lneVJJQzg5ZThYRDdfWTRoWVFHOXZsR0ZqeklaSDZEVDE5dk1RRWhuVXZpaFRXRUFrbmRPdDZ2QWZCdGpzYW5LRm5xU2hwbXZGN3doLTVoTU5ES080NXlzZU5hQlFjOFppUllOajM1eGZTRW5PRllENGFjWTJIb09iQWlwaHNSSnM0bUc3aG5PeDAtWUtzNGNaeXl4bzRlMEN2OTBtVnVyUTlnd2MwN1o4azN0a0cxWFNNTEpHY05McmNodTlUSGZhQXEwUW42MjNJUXV4QWtMRW5KN2U5c2k3MnAtY2hyWWdnOWpvM01IcUZfQXlueVBZTDdlUkQ4Vlhranh0WHBSM1RTSUREcS1mRldsM0VfYjBNSFBjaGNoU21NR20xMGc?oc=5"
     },
     {
-      "title": "美國大毒梟「矮仔伊斯德洛」墨西哥落網 觸發販毒組織報復槍戰 有棒球賽受波及",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxONUt4WDdqYTMybzFzVGJPb1dHZHY1TzdlLW9BWE94a0xJTzNNQXczU2VMbVl6R3pPZGZPSFU5bWtUcU1jaGMxUklnXy1xYTRobE44bFlGNk9YbkstVGpoMG1IWGVUcDEzWlpnVFRHNnJsRS1ZUXZoYmRSbjN3aklkUnVYMmk3aUJqR1VHWUc2OGFkTFpNQWhqX1VsQnlhbm84MUo0blZ6X2t1Vm1qRU1Ia2xITV9BV0RFUU5iOUt4UDcyWFQ5NGdVQTA2TWk1eHN0emQtakl6bFBianhtd2ZOTl9rWWgybEt3eXA1NzIzTmt4UTQ4a2RMQ0VxVzZSNy01aFQ5NU5Xc0xJbkh0UWRXYmYzalFMbU02TUU0NGFSX0ljRzdTMkRSa3p1VFA4UUh5cENnNGdKYXVCcEJaNWRxRlhYeDFKUVZJcTM1R0xodXNlaWJHa244YVl2YUF1a3c?oc=5"
+      "title": "國際｜芬蘭灣俄貨船起火受損 疑遭無人機攻擊",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNSS02NWU5eXpPNmtLN0tHWXVPdXBpU2lIWmk2ZlJxbHd4aExtazRZcXEtQTFlWndHbGg2V0pzVC1JOXVvaGZGRlhXWl9LUGdMTlBKQW5SekhOMVhvaTlfWHlIQ0pXWUhTTWhTM0p5TFVSNjktMHRaZWRTT3ZQa3RwWGVMTDlRN2Q4UXlwVnpBYWtrWjRqeG5CUHR4NDlzOGtVRFVtTG5CNU1fNHE0Sl9WbjdNMng1TmtYdUU1WnVPNWdYMjFwdnpDT0Q3eHRVd3VzV2tWUk5VOUhBWDJHUzg3czhvLVB4cjltdnZNQWp3YmJtTzQzRmJqVVgwY3lkWUxXWlBabGNCenhMeko4U2NLWDV6Q2JvNHhtVEFYQXNXQ281ck5PUlVjR0w4ejFIS19od3N3TDNvRmd6X0MzYV9GdTdQbUo?oc=5"
     },
     {
-      "title": "美國財長：英偉達晶片對華出口管制到位 無意再收緊",
-      "source": "am730",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNOVZyNTFSSDdJb1lFRkxoRGw0a0RzVFhoTXlJcDlPT256TDZvZ0xDeEQyc0dkb09ZMkhlMkpLSkVBT1l2eHNKV0NHdHVzMXljcnRPdUVMbl9Qb0hNNnlBeERoeXk4TkJrZmtVU0NkS3dhN2cxX0o1bGt4eG1pN3lfN1hDQUQ0b1pmdV9FUEFoOEV3dlZiWHNEUXJNSHhfc0hxSVY3X2xUY19ZbkoyMWFPR3FENlI0U2RiYXgtWXNvdFNLQlRYOE1FQTJacTJLbloweFRjR3hma1lnR1lJSE5sQWowZHB5bFFqSDk0LUpJSEpwRG1WYXpnQmgxc3VPTmhYWG9pZ0hjUEYzU3dvWUNDd0ZiTTRKQm40UWFrVEJfRkZNVjBRWlZGREd5bUwydHczS3FWMzJ6NXNDbE5zN0s3Njh3cFNoNndqUWduRTFzRzdRWTZUUTdfQjVrZXJGWnF4NFRLSjBkaHNDZ3dM?oc=5"
+      "title": "國際｜吉蒂貓攻佔拉斯維加斯 粉紅戰車配巨型蝴蝶結登場",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNc3B4c2tOQnc1eVNtcWwwUWZwS014OC1GdlItNlF4WHdEQV8xaFRTalo4djk4VnNKQzM3aTJCOV8yM3k4aEJFMVRvSjFBN1hMT1BlVTQ0bm05RWhMbVlkSV9ULVVRSERKY2E3Nzl4NkMxcm94Sml2T0RCNUdYNkdzYkh5TnJmb1l1cTZNS2N0eEE2U2hJZC1zcENRSEdvXzZNZ3MtbWpwVXllNml4eHlqWFhKZFVtcjc2QkZCZElnZnJnRi05bjBjNEZrUXRBLWVBeC12eDFCUjRfSGlaa2x0OEU0blJ6WXNVN19YaGhlUUtDckc4M09EZmJ3cU5fWWFzdk5ySGhtMHJjTG9NVUJfWkc2ZTRHOXM4SHBjS2N2cHJxTlBXb3FKNFBGdmhva21mcjV1RlRrMVZRR2s0T3RTSnhxdFJvcGlfOVVSRXNnMHFzRllWZWlKcWdkczVoS05nM3NhT2lzYUtOeHVrOXU1REtwVUlOcVVIRzd4cEVrckw?oc=5"
     },
     {
-      "title": "「龍飛船」脫離國際太空站 攜科研樣本返地球",
-      "source": "on.cc東網",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaU1iU1ZTOFFpeU10MUMyUU9TUnR4Z3gxemk3blBQVXR1bS1MTzZGVm1VZzkzWFNSYlZZVU5UaE9FZG1QbGtlUF9tNHR0YlViSk00VnBCQl9QRXo5XzRHZlN0Q1hPbm5TRnM0dk5nQjQ0STVlX0FJMjd5VmVuRVFNVnFuQko5eExpYjdmejNtWQ?oc=5"
+      "title": "Anthropic數學家 稱用AI證黎曼猜想 - 20261122 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPc0tQalFKdVVnOTdkRjloSEpDZ2ZGMDZXbEFIMXEwSTlpR010R3hwTzl6c2FERzJBdXhNMmRub2JEdzNDbU1qWlZBQzBDb3RKcHM0ZFZITUcwZ1phU3BEOGhpZFRsY3FnQzZzdmFJYzJqMkR4aVJOWjNMOTZINW1vdnQ3cUJmUTVNRV9PRHdmMHlENVNMS3dRM2g2V3NRR0VuRG84azhOQTVSX3FsSVliRzV3d0k5N3FfU0NvaXlPQ21SVFhJNjc4WXhvbUVfY3hLWHJkSE8wRnRzYm1LWm82amRpVndWVU8wZERpSHotQndRcFhnY29LemJ0THNiVVg0allfX1NEYmNyLUh4Y2ktMGJSUkRSbEU?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股｜納指急挫5.28% AI概念股光環褪色",
+      "title": "Anthropic上市未能止住股市暴跌 華爾街追問什麼能拯救AI交易",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSURRV1V6OXhicE1iM0RRN1UzaWpPUWsxWGlQN0NLbDhLaWR0aGFmMFlxQjFKMlZiQWUxZDNndkt1aUt3YWJkQjZ0WUlzbjFvTmFubG9UeWtJemtDMHdrRmVZTmMzUldMOVVMbmhsOGFEQkY5VFQtSW1nYXR1bkg4TndfWFF6NmhkSnp1YzV0QkIxeEU1WmhPNEdjYTlqTFo0QzNsQmV2VE52V3FNckJvTHpkRVZnczd3QWVOcXhPVnVVaTNlcE5wR2FYalBMdUM5U01yX1pJcEh1NTFGelJBT19FcHUyd0U2WHpTbzRPOU5XYUt3T3RZMm5YQjE4NHdXLTVEaA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQZG1haGh4czVScWdGS1ZOQXp6dG5UeGVuRTkycWVpaEpHMGF0Tmg1TlJDeVdpV0M3OGpGajBrRlF3M2NwVFNkVFpxX2t0UmFpTTNSbkFuLUtlamxwRmRIRHZFNHA4b3ZNSmJfTGd1R2pxakNIME5UcExpVkh2Zm9xLWxjMDBRUm9ScldqQmxkd3VXZldyTXY3Y1lod3RjX2ozdHZWNTRyRlVpc2VVUWJ1bnBreGI0enpYVUVmSldicWJ1RUt4MEw3dlliZWRLMXVxQ3VMVEp2eXJqZ2VSNDM2TzRkRmswdmh1WXgtbFA4UTY1Y0h4VFMzZDhHdmVCdEg5TV80Smd3MWtFbnVCNkVTSjBBLWVVcTBQaE9IRndPLXo0REczZ1NrYTJmY2xqN2N1SG9ydzhxUWdvZERheGRuSXUwNVd4aDlWYVVsanNZUTA2djdNVXdrZ2NaOXYyMElnbWg1OWY5S3Q5Z3VDYWNWZmw3cmZ4UQ?oc=5"
     },
     {
-      "title": "美國債市：避險買盤推動美債大漲 投資者撤離科技股",
-      "source": "風火輪傳媒有限公司",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FajF0bUJINEk5U19va0Jid3RiMWQwbmI1QW9YY0ZDeGFCRWJvdDZ4VTJYOGJYNlFITTN5M0xyTVhrMUVsbXk5dmZ2TXdlMnJRZGJuZ0NEYVg4OXc5WmVLY0xHREU0LW56RFB1MExxX0xmZ0Q5?oc=5"
-    },
-    {
-      "title": "納斯達克100指數挫5% 高位累挫兩成陷熊市 (15:31) - 20261121 - 即時財經新聞",
-      "source": "明報財經網",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPSEU4cmdzVjZoa0FSRHFBM3RLVkNac2lmVEd2NVNYT2V3cXNjckdNWDdlSzNFWkpmTG1HOF9VdmhSUmRKeEozU3kwVkt4TVhZYXg3bmdaZm1mZnRja0VmdWdIa2R5Qi02TVRVeFlsUVlFbENqMFpiQzNEbFJtYU9BbEN4blo2am1LT1MyRWRlS2Y0Mk1FanEteXNvUlZBbGpFY1NsZGhUNVZKUXZ3VHdDUnZ3NlZkVndQamZybHJOTDl5Q1hqeGxXY204OENwR1pVSDdidmFFUkJWbFJZbF9GaUhqVnJMVHJGTVJkTzNDbDZhSFV5Mi01cG1QMlJJODBhVDMxeHBsT3Zva1N0OWZDQkJsMmgxTjN4cU5rdjNoMkpSaUd5VGpIV3V6Mm10YWdneWpJb2VpY0g?oc=5"
-    },
-    {
-      "title": "分析：当前并非AI泡沫破裂而是正常回调，即使标普500再跌10%仍属健康调整范围",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1WlZHWDVUQlp2M1FiNjhOSzdRM05WVU4tQ056WGcyMlc1MnVVUXRFczdQM2hMc3M2QnV0ZjB4c05ScWdobWJNMjdMQ0I2TGRpWWJRcldqLTRJZDJDY09rWlpibTAyQQ?oc=5"
-    },
-    {
-      "title": "台股史上最大單周跌點、美股崩盤 金管會「23日起禁平盤以下放空」5招救市",
-      "source": "UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGaEtpal9nLVpGU2pIZzRvQ3BTb2Z0VnFDNTVOU3dBLS13N2dxejRJNl9nUTA3VDdrOVRlNGVuSGRsRXJ2ekE3WHJQVVNad29l0gFWQVVfeXFMUHJ0VWh1cmlSTTdBMElpbXoxbm1meWFGNC1GbUJyZllYUXBBYktVQ0RFU0NYanloVGkySnc2T1UwRkxueGc2emNqMEdYdVhWNWpEOHM5MFE?oc=5"
-    },
-    {
-      "title": "我最常用moomoo AI 問：美股科技巨頭（英偉達、特斯拉、蘋果）的近期行情走勢與關鍵點位分析。",
+      "title": "美股遭遇恐慌性拋售，多家機構認爲或只是牛市調整",
       "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFRWX2pPMHllMW9fOWpNTGY3MDRyVHNRN3dabl9jVzkyRDdoMnJaRUxNT3R2R0dzUlo5bEFRQldCT1cycjhYQXItSGRjZEZPSUl5U0ZJYjJnMnVaWFdod1ptaWtjZGVzOXBJc2g2YWgwVThOb0EyakxsVkFaRE8tWW9nd1pxRmxFZEZVc3RvV3d2NE54UW1sMHgtbUVZUDhVbFd5Y0hBQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS1Y4bHZZNGN3N2xLTWl2ZWdUWThvTXhkdktPcHpCZ05TSnhpQTNQdXpnVjNCdDBXSm9zdzhXUWdyMjdaQUtFTS1XTWQ2aF9PN3R3UHFrOTdTdWtma1VZZ2l2WnBYdVRscnc1TG1rUktYdFZ5MDR1MzNlVnc1YnVKc2RLU1FfWFo0ZFZnZ1dLQko5N1RLak1jTlpkTGRMMDRBZjgzRkxvQmVIVHJTNkFPaTNpbThzVDB2WGozMkItdzM1dw?oc=5"
+    },
+    {
+      "title": "納斯達克100全周跌一成 新冠以來最差 自10月初高位挫兩成陷技術熊市 - 20261122 - 報章內容",
+      "source": "明報財經網",
+      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQQ3pqXzNGajQ0WFl5X2JfVlBuRU1lYl9uSUhzdnJtN0pleUN3T0x1SjYzRzVKc2EyekYtYkFBRXNKTE9IZVBLWlJVLTgwZHZVTlVkLTloR0tHVUNQU3VNZEZId2ZuTUdoaUVpRTFhNEVUNXJXRk1pdW1iNV9UVE1najZleE52NVpZZlRTdWZRVzNzWW9md0l3Z0Zla0FmZE5OQ1k5bzZlNFJmRUlFSHNxLXpaUDZlMDJnZGdqUnVLM25WM0VOR2M4c3d1UWZhSURjcjEtNi15Nmc0YjJOQ3hjMUFkVUJHejROWFFKcFlmRXBFWnVncGZWczdWcjRnaVc4eXhDRnFZajBvVTNpNmNZMk53V1ZxN2NJRUxwTTREckRqZGJBQ2NlM2pLYkpfdmdIOE5abjQ5c3V2ZHhNbzMwRnY5UW9Cd3VQdjZETzBjbk0tb0V2RUdTRm5vTTJ4cnZMdlQwbnNSdkZncGZtOE80elpQaW1mX1I3aUFaQjZMOENlNVlBZElvbzFHWGRFd2M2V2hhdVUzeHY1cVgxNHl6TmNseXBjQVBlRk0xX21PeGdJd21ybTZzWnpkdGw2aUNMMTBwUXhrWQ?oc=5"
+    },
+    {
+      "title": "國際｜摩根大通料聯儲局再加息三次 利率上望4.5厘",
+      "source": "Fortune Insight",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOcEJma3kteHcxM3dhNVpLc0VhWDlNaWlZZUdxR25xb0NmU2xGRTZreXBlZWpGLUwwa1RRMmtyREFJclVROU1BbWJWeHAxQnBzN3JxZFQ1ZWxoUndCZmFlODVBc1l6SG1XXzdTS3IwZkQ1QkJTRDVUYXFmNEFDRm4tRm9LZGxlNG5QTlhuVkFXaGdMbWFqd3JZODVKbVF3eVhrN1d5Y3FmX0ZRWk5sMHN4d3EzVFhDQ3RIa2QxMUoxNC1BREV2cU9DTndYeUtUak9FTVNwVmhtcVdYazJXX1k1dnV0RGlSZXRJUkV0aVFvMW1kSXZXMFNraHJIN05xUG05VVNNVFMtaGtLNzZEMXNsZnFBWW1FYy1BbWZKV0hDNmxlX3FySmhHNHdzRl9iWnRwM1lYZGNyQlpVNkR5RnJYT1hHWmswWGtPbERFN3JCd1JNUWxCaEd3WVlCOEtDMGxTYm5EMA?oc=5"
+    },
+    {
+      "title": "美股恐慌指數VIX飆上40 歷史顯示「賣壓接近尾聲」20%漲幅可期",
+      "source": "世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TYzFjVy1iTTdETXVIZU0tWFdyUDJEODFWX3kwbElfeHBaTzlfQnhmMjJ6SnNNUnVKb1c1clY4d0c1UW1ZNTFWTVFNNmZ1cU9ubldhV21sQThGam1waktLelVB0gFnQVVfeXFMT1ZPR3h2UHdjTGUxdkR3Vm5iQ01JS1FjX3NWdGxpVDlpMWoxNjh3VFhrcmpCUUszZ21jS1Vla1QwU1ZsbE9jakNLNG0ybENGZlFzZDVacEpfR1pXU0JrbDZSUGZ2SWRIYw?oc=5"
+    },
+    {
+      "title": "AI 融資添變數 台美股急跌後該減碼嗎？",
+      "source": "鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUJXQ3ZIU1ozcnBUenFXVlVWVkVTNDZTZjBzdWhSUkJpYUlKcTQxcEdHcWxvcEFmajcxS0txeUlZSVZjLXVuR0Z2WGJGQU1XRm1lWHZjVS1RUHRPRzRBd0ZFLVZOQW1Fck5qcnkxUmc5N2JrMGN5X25WanZnaDdUMl83bjQ2R20zSXByTUF3bVkxLW81eE11YThR?oc=5"
     }
   ],
   "events": {
