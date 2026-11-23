@@ -1,60 +1,65 @@
 {
-  "updated_at": "2026-11-22 16:15:25",
+  "updated_at": "2026-11-22 21:12:13",
   "gas": {
     "current_label": "11月22日 (現行油價)",
     "current_price": "148.9",
     "predict_label": "11月23日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
+    "predict_price": "148.9",
+    "trend": "→ 油價平穩",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美國駐巴林大使館發安全提醒 指敵對行動有可能迅速升級",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TdEtTRFI1UHFjdXYzZzI0aWlQTVVTRktKQy11cWFZYlp4cHR6MnQ3ek5RN0FBZFNaR3hCZHFJRU4zTTNsVWJUUHpTRUVRbXRQWXJ2bklpdXRnYWl2bzhiQTBHM2RQWlFYOGJIaHcwWQ?oc=5"
+      "title": "美國達美航空系統故障致數百航班延誤",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLek9MMmNjYldhcnAwalRxSkxVbUhVbjlRd1JkZGVCRXpjRUUzSGRLTlhWSGRWeHUxSE1RWE9Qd3d5MHRQTlozWkw2WWxWVHNjaW9zd3dvWHA1eFhQcFpEWkdJTE0td3ozeE1JbmRrYw?oc=5"
     },
     {
-      "title": "美國調查黃仁勳事件涉華間諜指控 貝森特敦促輝達徹查晶片銷售",
+      "title": "國際｜金正恩稱朝鮮無意稱霸擴張 強調以實力保障安全",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQSnVkenl6U1hJQ2hDWk1ZWnBKYlFCUkp0eWJUdW9QMmJhcXNFdzRUUzd3eVQwa092b21LMENxeUpRd2lxNHVGLWZKdGxJQ0N1UTNOZ195NmhsQzFBNlZpZ1Z3emZGUUZIazV6TGs3UnVVUUQyS0hUMFRwaG5xNmNWSjJqeEs1OFYtYUU0RjBrQ19ncTlTMlR3QUpEblM4SGVJV0Q0SFJWd3dSTXJOQWpwaEpOS2E2NmlRRlBxdTVwTnZJX0JZaGFzSDlaXzRxM3NLYmJjaVhUTFRrUkllRFA1RXpNeU1MYnR2VC1CZ1lqNjJma2llYmNKM0I3Qm04eEtveFZEUEs1ZmNkc0lMOHBhemJtdV9VcW1tTnRlcGVIVTRQbVRVSE9TaWhtMjMxVGxKemwzeGxCLWtXSGJxLVlmLXlxbURDT1NtTExxaTlPVmJCMXpQejZBSm14OTFlS2M1MWZTMUxhQ1hNQlFyTGRxUTNxNjZmajJLcHRYS0xJMjhibmlyamotRlBOdlYwRGVuclZSQ01wRXdWMmNjUFdHR1BHZGRjRjJHYTVCQVRfbw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxORF93X185V3JJbl8xX1RDOGpsZm40ZVpoY0hEcVI3dU5pcVlvTW5RQWNsUUZEQWpWWHhHZ2wwVzFjQTBnUmJpdUFwUGJqd2k3T1pXaGd6ZHJyWU1nLVBBYndrR2YxeThEVkVJLWs1T091ZDgydVduRkI4Uy1PM2xBY1lvYVFPVjBBOUhXaVh5SWpiWEpJeEZLNjdleDY3TklpcC1ORTAwcHloOXIyRlA3a3BxSGpKd0xPMjI4VEhpTS1la3BwNnN2b1ZWUmJsRW10bVNrNVhhUmpoRlhIR1YtVmFVMk1IR1NmV1FRX3E3WTN5LV9FRXVPRl9JR3ByaUM5Rm8xZXh0QWpxa0FDalZTeXZQRGFmeDdCeFBTUGczb3BUYU85NlZQZGhhZUlnX2hxUzFZbEs2VC1fRjJyQnNaekotX1h6aW16cXB4ZFZ4X053a2ppRXNORHJveTlMVGFxQXcxeUw4MGdYbXZwbFh5ZHA4LWo?oc=5"
     },
     {
-      "title": "巴林再遭伊朗空襲 民用工業設施起火 - 20261123 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOQzFSU1hBRTRfb0NYeFJVSlFOOHNaMTJwWFNQZGNvZU94QnpoMFhuSmhjS0gxZmJHUDBaOU5fNm9wOEZNSG5aZHVvMjh2eTVpa0Z3RC15Vmd1UTVtOGQxWjZiRmU4QzNGQWtIdVdWS2pYYjdyQmtTMkJVdFpOMXF1TmVra0xvSUNnU2RfS2N4eDFJc0xPa2RkdER0a213WFVwczJkaWE1TXBQVTRaQ2xZSVpCaWdnZTdjakJvNlVVTEFGb0JfR3NkVlk3QkxBZUg2X3BQbXRNQmdBTngtYnhZRTRJMEdIYmR5OEpQTGpqaWFwd0pzVXFSR05uLXhCdWhSY3pxNGtXRUMtbnJCNWVHcEJadlhfdGNDcjhwZHZ4T08tSVNRMzExeE10YTd4c2E0THQ4Ykhsekl6OXpPV3N3TnpCNTgwOE5yWTVNRkU3dWY?oc=5"
+      "title": "美國指伊朗和胡塞武裝敵對行動升級 提醒美國公民提高警惕",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56eFBFWkdMd3I2eTl1VlNfY0cxMVN0T3JjT1dQMDRIeDBIQnFwV18wNERkMFZhQzc3NEU1b2RJc0tPaDNCb3d2Z1RZVUtTZml1dGlTTlBXWExrM0ZTRlRyVW1UWDNlRUE?oc=5"
     },
     {
-      "title": "美國可以 歐洲為什麼不行？歐盟擬效仿美國接管TikTok",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWmZwYk5Ca2FfSUN2YWVqZFRNLUR3dHEyTHdORXVOTTQ5cXhfYVU2b2NiYlkyOEdzeHBKak9BVG83Q0ZkaWp6QmhnUXk2UmRjakVSclpzcHlhNkZIX1RpQ3pqQXo0WUtKWjA4Z2hyM3NwMzEybTE3VkczTnQ4dFdfUk5VSVpUaGRCN2JKT2hnRXNGTWNjUGVpc1JZTGxFaUxfZWNPcDNBNWhuTnBQNElFV2VjVXp2bW8zRGRDV3N4Mjcyd0g4dElXYnlhVWlFckllSkFQRXZzYU5PSlHSAdsBQVVfeXFMTlpmcGJOQmthX0lDdmFlamRUTS1Ed3RxMkx3TkV1Tk00OXF4X2FVNm9jYmJZMjhHc3hwSmpPQVRvN0NGZGlqekJoZ1F5NlJkY2pFUnJac3B5YTZGSF9UaUN6akF6NFlLSlowOGdocjNzcDMxMm0xN1ZHM050OHRXX1JOVUlaVGhkQjdiSk9oZ0VzRk1jY1BlaXNSWUxsRWlMX2VjT3AzQTVobk5wUDRJRVdlY1V6dm1vM0RkQ1dzeDI3MndIOHRJV2J5YVVpRXJJZUpBUEV2c2FOT0pR?oc=5"
+      "title": "全球最長壽巨獺離世 終年19歲 繁育逾百後代",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNb2xKbDN5RGV4WktOZi1VbDdVZmNad3QzcVEtdEhKT2pzRU9NQVpmTFdPbE94VnZhXzNVZllCV0ROWk1yT2RwbjJjU1l6ZkI2UXYwaUdUN0lFVkVma1FrYlAyNmVtcy1xLXBqQ3Y0REExSkRXRG5ZLXVDalBfQTczSUJwZnpRTFBFOFYxZE9UbnNGTy1DTlFKa1FlZG1kM2ZfYnMzMEVJcmZ6M0hWV3J2ampDenppUDc2SHRBak9oSWJnRk5rQmhvWWRYeEFEd0Y4QjdqNzBZQXYtT0RNUGVGVjB2UkxKRzI1TUFSUEFIcFQ2RWpIZWl4VExmcXRrX25VT29DMFhsRkltd2ZtMElkR3gtczZpTkcycVh4R3IxYmJmVlhFOTd0eFpiOXZBTTBnenI0N25EOWt1YnlW?oc=5"
     },
     {
-      "title": "國際｜Cici's特許經營商申Chapter 11破產保護",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRGlYVFhOQlFITHM5ZHNWS0pVbE9qLU8zdmFSUjc3NnNzbGFvRUd5ek1nUS1wYXgtaTdhYTlpdURMX2ZZOXJDbXBianYya2ZxOWluem9iRGhWc1RWdmRaeXZHWnZSWXNjajlGSjFFQ1IweUxYWVBxdUNvRHE2N3RtOF9JZF9DckZsbEFNU2ExYUVfazBMOVpMMEFuamxfTW1Sdnd3QjNnWWM1Q1R0UGxqU2VfSFdyOWRub2owYjdHSUdSU094eWtDYk1zcG1QX2M3TkRsYjEta0MxVGVleTRJWEZjYXZDTEFTaDhOaGR3Y0ZMektBMndfNjRJWjdHdWFENl9J?oc=5"
+      "title": "烏克蘭稱俄軍襲擊基輔民居多人死傷 催促美國批准移交「愛國者」攔截彈",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNUExCc282X3BVN3JWLUtTeWRGZEpoVnBSakpfQm8wQ09ZYktETjRQemY0bEoxWVVzV3JuNmhEMXh1bkROZWc5RndUcjc0QmlDMFY2TmQtRzlLT1BHSm40Z3BBVzdtMmg2VkdXenVWaDN4YTJHcjF3M0ZpbVItdmZFU2VDdUIxMmhXMkJzU2NBajI0UUhhVUZrUVIzUHEwTkxRT2pDbXpoSGFaS19tTTVhZ3JNUmVlMDZJalFMTmd3a2ZnRHVnX3pmTUxwZkJBR2QtMDM3S1NwR3oyWkdjblRGZ0EtdG1Wc2pGdWZPZDlIakZCMEk3Z3VMNEE5aVJvMHZfSEFUZ0FlY2ljb3BMa0o1ZWRuS2c3Y1U2MjFLMkZsa1NnemF6UmxxS2NvX2RUSFgzLW1ielE5RmdzLTEzblc5OGNUWUQtblVaWXJ4ejU5ZXp0SHNnR21IUlRaY25MZ0Y5cUM3UW1ieVFETWZEMU9jX1RETnVDeXU0WVptdkFCZXc5elB1cEVVRjlGcnBfRXd0UVlKTHByYk0xRmFIS1BmemEtdm5oeE5GaWRJT0RYZw?oc=5"
     },
     {
-      "title": "達美航空於亞特蘭大國際機場有大批航班延誤 涉系統故障",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52MUhObFVsT2tDa1BCRW4yTjNYREloMnR4ajlwNzRfaFlCVllINFIwbW53TXFKM3EwaG92eUZLMzBMUGFKaWFpTGV6eEpWd2hDU1dXd2ZxZFlLdHZwRGVHNUNSN1ozc3hDQ3pDWVNubw?oc=5"
+      "title": "西班牙下周日大選 桑切斯籲對抗國際極右勢力",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQWWV3NTVZRk9CQi1FYXZvV1BJMUFEQjh1VU1RYnJnNG1iRXEycGVDeTZuT193ZDZjWFVBeHotdFJwOUp2QnBoZ2xSSjRtRENVU0lPVFNYZEFqMU5vY0NQVkhTNS0wOXkwc3lQaVZ4VW1XSjUzYzVZMmJqNFJKdWFSMXAyUy1IcGNKNGU4S2RSaVBJbXRYYk55cG1oSlVac2pYXzBKeTZPWFFJRnVheUhSNkdQOXhNRVFVTDJtVWp3anF1cy0zTjVoVjltMzFTTnI5X1NUcHFhQ2JOREZuMFY3dE5NRFdlMGhZU05HcDZqYVpxUFNILUNWTENqUVhjTEFWaGZlVml2WFpRWGxzWVhDeTAxZjJNQWJtUDV4WkxEdHJWRlh5b1BocFlWbmhUcWVzSHp0UXJFZFBrZXpicVBseUVIVTY0bzlBc2xrUTZROW9sb0RvREViR3kwMzVTSFJVSGxUMThDTkw?oc=5"
     },
     {
-      "title": "全球31%男士染生殖器HPV 打疫苗守護自己與伴侶 - 20261123 - 副刊",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQWjRMQ3Z5bkdVVUZTWFp0a3dPMElfT3hrZW1femlXaEZNaW1aT3kzdTRNQWNJa0xnWU5JbWNWS2hHSWNoVlFtektTcThxUWtxZmdIaEVEU3RJYXAwRGFxaXZVeDVHUDRTM1ExMWlIczhRZnpzWHBkamZQMVBSTzhYQ0E0ZG5DT2NQOEZNd3RaX1c0c0l3SXg3bTFVNW83azBmUWhiQmJKdklvVXRGUE9Yd05BU1B2bUZrUkdsNWlUbjF1cjFSdE5PcDVVS1FJUl9CbHJsRjVFTWFTQ0VEQnVOY3FBNjhzT2NRRDJ1ang5VC05d2w0VTJaUGs0OFJnNDdDazZnanFEN05qVTQ4a3dtUUdSZEhaNzJiNDVVQU1lSDZ4d1Awc1Vwenk0WmVadGU4VndCMUo2SnY4UVdUTGRXaGpYQnp4UVNodXYwTW9xZTRla1g2LXl1MnUtLWRyMlJTMmJNUGxyWmoyeDJzSkdhUw?oc=5"
+      "title": "瞄準北極航道！中國造船業開始制定國際標準",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mQVFjUmVFTVA4b3NseUpGRWUtdFBJT2hHWVVLa3FzX3AzRG90MWpfcF9XUzJoLXprTWdyUFA5V3VuMElQbk9ieEk0MUxHcHQtTDlVa3lwRTJUWWJHQ2xDTTVXYk9iU0g4V0h0ZEpjTQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "李聲揚：美股回調未算便宜 分散部署港科技股 - 20261123 - 經濟",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNWXM4RlFoaUVSZ28teVRmeFlRbUZwME95Y25jS2JvZ21FMkl1ZUYzZVd4WEd0alA3cy1CQlIxN0QzaHdWTzRsZXF3dVg2SVAtVDNCNmFhb2JZa09FN2ZjVWxqcm9PZkRCMUhId0IzNlRVQWhzdldzc25YZ1l6LWtCc192dFpPdUZSUW5kSWpLYjlMU1hZYUQ0QXJkNHptYzFzWnNrcV9nQW9FVXV5UXVMY1d4cHVHbHJST2RCX2JfbWE5OFROcjRZTDAtWEpBdVloSG1rdFpITEtXVGZSNjlUbkw3dUY2bG9SY0hTUlp0Zno2b2xYcld4NHNINVp5Nzc5M2VCR1h0d25qeU1SZDYyT3pvalBETWdCcUdfejFzTTZTMnU1dllmRFZsSzByTVR6M2kzLWZGUUc3VEpxQ3g5bEd6Z1N5cWhnRFhFV09mVk5UZllRR1psSzRMeEppaFgwZzNGeDd5cmRsVEJQNXlOa2pVYUdTQQ?oc=5"
+      "title": "美股大地震 | 沃什加息犯大錯？貝森特直斥聯儲局鷹派危及經濟，金融環境大幅收緊",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS1JDV2p5enZpYkhJS0lKQ3hjSUZQRzVMdG1HYkd3U3pzVXJQOHQ4QkZ3dFlaWnYxSnpnRWVZSW1LeXUwZTBrSVZad2pVUldsN3UwT3Q0MWU3RndfN1U0SmVZUUxZMnZpYXVWU1ZYRF9sQ0tpLWxZOTR5S3o5OWZlNk02b1RkNVhWZEJ6cUZXX3JlbVlW?oc=5"
     },
     {
-      "title": "美股｜民主黨中期選舉大勝 美股AI板塊急挫油價下滑",
+      "title": "美股本周3日半市 市場關注PCE數據及購物銷情",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55b1lOM3NkZ3dPWEx3NUJ2aGlXRjA0a0ZqQk9WLVNUb2hQU3czWXptSVU1V0xXSUc5QTM5ZUtfTkltYkI1dkJwRk5JRkR4cndfU1IxbFQ5MEJBSENDM0p6YnhoaG5faVJIT0E1bzFoZw?oc=5"
+    },
+    {
+      "title": "美股估值大幅回落但風險未消 何時抄底令投資者頗費思量",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQaTBqWGEwdTBKMU9tcUJ5VHpvNFdLNG9DdG5xeDBlZG85N3hyTkhGTEJncVpLU2tuVFFMTThFSVJsUzZIbnpHdmd2a21yaDdYYWpKejB6c19BTFZ2ZmU5YUdlMTQ5UFV3YzVGYjY3NzFNeV9SYkdleTJybGozd1JiSVp2eXJJV3QzbVVZd0w2MEdvQXVjaDlJYjY3M01QcTRNbTRfajRZTkp5SVI2dVIyX2JaZE5OeDBQeFFaMm1xWFN3UTNKUnVBMjFqMThIZHlLcGdRWkU4TkR1bmlnbTJqay1PS1BxYUEzcUtLUHpIYm9XczRVVGhDQ1pqcndfV0VmazVUajQzaGc0TTlFZDVpRW5oSklTOVg1bDZmZWlBd0FoZnlmeVNrOFlRZXF4RHdTcVpOV3FsalF4SjJqNnhJNVJpTWNtVElHYmpvbkJlTjU1RDNmaGNEeTF1MXJwM2s?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPOURYVF9JajlKUE43ekF1RkpYMDZhelZISW1MRlhiOEJFRU0ya2ZlMi1yejgxZ0FmVTQ2UEZwdDhRSVNwRkhzeXo2WWJrb1FvTl92OWFJLUVYWWs1VmwwTHQwbk55T3liZnY1YU5uTDR6dnRaVE1yZTkwdGFKVDc1QmxEakR0ZWdrX2xBbGo1S0g2eGtqSGFvT1Zsdk1MNVB1eTN3QkUzWXc2T1ppSnIyWW5vZU9BUjNEZ3QxZk94cWNEVkI1UmtZNmpNT3VpQ0F6Ym1pb0VEeUVlZko3MGhRR1JXSlNxcGVzMENTa0dNYTNxY2piSWlTNXZpVzRoTDgxNDVUSHdIbWdTWndyQm5NUGlyQ0hRMl8yLTF2X0FSTU1jNjNFdWx6bGVjVHNQZE9STkJnb3NacktsZXBzSng2QjVacC1OMEVpaVhoWGFYUThJUkJHUzNCSk9UMmd4MDd5cDFpRWtwWndZQ0R3cDA5azhNUXF0RHZ6YkV5T1daTFMwVGZWaXZkRE5XYw?oc=5"
     },
     {
       "title": "美股大跌，AI盛宴落幕？",
@@ -62,19 +67,14 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSk5NSm0zVnRsT29WS0pUeUc2aElBNGVIVEtxdFhxU2Q1cWZkYkhPSlN3d0Njdkl2ZDZLSm1Gb0taREVqT0x2NzBkRmZQYVJjOGVnNXRqNlRDbjFsX2twSHFsMkROenNOSGZNVURIcGFYMHliSXZvNGFKamVvMWtTU0pDTno?oc=5"
     },
     {
-      "title": "聯儲局加息是為強美元 不似純為遏抑通脹",
-      "source": "AM730",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxObG4zVHROV3Fad1hXMjY1dnlnay1LNGVxQ04yNDhPWnFvd3ZDbzYtNlJqVll4cE1KME1pT1NHbTgzZW1DRVk0SDRmSG03eW9yOFRRdzFJMjJmZ3BVcDVGM25BMEpic0wwSl9sZmlFbzl2bUxEbVUzNmE1OUZtWnVWVTFrbHZNcUYwTDlZQm03dURVYTN4bTYwMEludFpUc3U2QjlqUGZqVG53UVl6cVh3V0VTZHdHV0pXVUdIZ0VRaWVtbV90OVVQeTg1Y1BremJmTy1rZm54S1BHQ1NHbW9CMXlqb2ZMcGFLdmJBaXR2cGlWbXUyOG14dDY0NGFONGZCTzdacEUtdzU3T1FOX3BZRG9BX0FkM0JEQ0V5eFFjVUhEUzd1RGFKVUZaeWE1ZWFfTmNsaWx6M2RlSGx6U2lqQ21tNDY?oc=5"
-    },
-    {
-      "title": "標普500指數對AI交易泡沫破裂的曝險程度有多深？ 作者 Investing.com - Investing.com 香港",
+      "title": "美股大跌之際，貝森特公開反對美聯儲繼續緊縮，警告金融體系已現脆弱信號 作者 智通財經 - Investing.com 香港",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FbkJUNDFTZ2w2MGRXQ1pMVnVzaENTZHEzY3QzOGpyY21oU3MwNXRyN3hOQlh1QlVvRUNoa056SGRxMU44czhDWkNkZWNYcS15cVhadnNtVkFibXgtb1k3V3lINGo0a0pXMElUbWdSQkM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iMWpXZGxvV2FsSGptajFGSkZ3anZHX0dZcXJJekRKbElCYnBpMC1FRmlsUlBucFl0RE9NQmRWdlMydUM4WU53SllYVGZTVTdob1NONU1qQW5Bc05vRWp1SUxYWW8yQmJxdkxEV2tVaVo?oc=5"
     },
     {
-      "title": "Yardeni再降美股目標 陷入熊市機會低",
+      "title": "高盛指美股可戰術性入場 惟終極拋售未到",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcHhTTlVqMDFuWl9ZUHhuUGlxMkVSRFVUeGxWcFlOVnpRRER2YmlaWlgwM3dvODNGUjd2bDdvcmhWLWFTaVk4Q0JSdDlnQ1RjTlpzb1NiR0VNOXc3STdPZUhRS1NnNDBJNEVMRDAtQjFCdGsxS3VteElLVmFab0dHSS1udmwyV1MxeVI5ZkVhS0JmYndpZlBiSnFpUktLd3BWUUpEMkZseTBCRkx3YzF1c2ZhNHBOMDRtOFJkWFdhSVd4Z0tDMzR2REVEalZaSUxVbXAwb0V6T1h2UWpCM0lET3J0VmtrSFdmZ2N4aEhlVFJXMTZyM2JaT3VwQXRBSzM3ajkxU1hOU2NmUUd0R2xaUDg0OXpuNUk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNNFF2dVNzckNmb0xINHBBQkhHaEVGendiR1Zmc1ZqVVJ0eU5EV3p4VlhCcG5OajF5cU9UVVo3RTloaDd2QjVHRWp3WUNQb0ZLWmEyNWZlSTdYVFhoWjlpT3BsalJtaHpiMTFZT19LNVNoOU1PY1B3bjdILVlfYXE4dExHVUZ4NnU0aUpzdmxGd0YxdVZKZjIyRkJPQzdoaW8yNjQydFd0eWU3UlFnMXNnSzBtUms3NXZsbkVWOUJYdUl2aEV0UHQ5Zy1ZWUI2Tk1OSUdGMGItR0tkcjZMRlN5azZnU1M5U3RiNl9wblpSelBtYWxMcGxBRWFDc25EVk5CaTlzTWY3eDl4aTYyV05ZengwbmJyYjFGeEN5RmtkOXR6SHJzaUhBVTlPTGJ5bmhENDJ4WlJUWnNZNnp2dENOVWxZeVJCcHpjQUE?oc=5"
     }
   ],
   "events": {
