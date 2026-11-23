@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-23 07:15:24",
+  "updated_at": "2026-11-23 16:15:27",
   "gas": {
     "current_label": "11月23日 (現行油價)",
-    "current_price": "148.9",
+    "current_price": "116.9",
     "predict_label": "11月24日 (明日預測)",
-    "predict_price": "116.9",
-    "trend": "↓ 明日預測跌 32.0 ¢",
-    "trend_class": "gas-down"
+    "predict_price": "148.9",
+    "trend": "↑ 明日預測升 32.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
     {
-      "title": "國際刑警大會下周舉行 下周一至四全港設臨時限飛區禁無人機等",
+      "title": "美國家情報總監：普京絕非美國朋友 - 20261124 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQSGNVM2hSTHVYUl9BWW5vVUp4TDg5am5tNl9NMzh3T0dyMmFyMlExLTVhcVlEVHdmTmxCN291dWpVNzRCaktJT0otSnIwUF95eUhrcFljdklDOUFsa05oSldKNlpiRWZHTVBaLWh0VFJjQ2NzN1gtelRyUnRoLUwyd1hwM3BJOEhUTnluOW13a3F1My1LaWViUUd1a3ZaaEJLTDUzWDRVYTdBQTZLa2gyaDJ6MDJ5bWlGcGMwaXBkVURnTDctWXd3VXhXM25JYUd5ZjJ4TGhiaXRoRkF3Q1ZkWEtjcndCdkx0UVpDT0ZJUUZ0Tmg3RmFRd1ZYVlV3aTNfeENKRkZfdlIzek1IN215am9DS3pxVFFVVFhyTlpUcG1TaEM5Y28xb0s0bnFwbjR1ODFyT3BwbFI4UFJjcndOLTlmQWc?oc=5"
+    },
+    {
+      "title": "王小洪稱中方願與各方遵守國際法治及堅守公平正義",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vZ2NNNmlHcTByTG5ldXZNcmRYTGhiLS1fQlJEb2pPQjhMR1ZxQkY5d0UwOWREei1iQm1abS1LNXJUUFBmSHhNeW1zUXM4WnQxMzd6QTJtQ2hhV0N3NS1tYnRfNDRJbmUtaUhiNmRNcw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaLWxRTXdyd1h3QkthMVhNVlRrX2pBSzB4M2s5d04xNE1qUWRjcnJldmRjc21ISVFKOG9obWNqUHJ6U3Z1Q2xWWEg0NE9JQTNONTVrYzNZOHhySEd4bXNXekhXOWVZb19oTm9zRVlMWQ?oc=5"
     },
     {
-      "title": "川普称普丁為「朋友」 美國國家情報總監出面辯護",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNZnk2T0g0MlVVZ010QlJVb1JVcXdBc2ROQVhyeXNpeGFyR0l4UTgtNUpaRV9HcnJpY1h1SEk2RVhQdVBZSmRjd2tFOFpwYTVBSmNsYUVPNkI3V2YtYlNrVUFYeEJIckdNQ0JWeWJCUll6b3NpRGx0a0tOV05rZjRnejNMXzRERkpjT2NNNTRPd3ExTXhRNEFOOTlxSzc5dFV1MnRaSnVyd1RHZzRlMjNNWk41dktfeWxXWmtLWXN2NURUd3l5dF8zTk9rbEwwUFFaamxfM1RUTnFERW15cTJNRmRYSFNEeWpYRUdyaWw5ZmxLd2VxSXV6eFhjUm5hUzdLbW9Ib0VJZ1ZyQXlwT0t6YWNQUnhMN3NodDJ4SV84ODlLcnMyMVpBNnNZcEwxOVNQWXhJWHZoZ2Zoc0I3TWlPeVIzYTc0MXN5SW9QS3pwVzg1NkVuYjYyZXFDdVpROFE3Y0xNUlRvb3lNdm8tYkVnLdIB8AJBVV95cUxQSUg1a21IaW13d0xXT2pYNG5EZVJXWDFtbzV0Z2xDZElySkFXR3BhODRTdUJtckxDZFVackZTbUl3bEFlUFpsRXRiMDh6RDQtSm1uSy1BZ2Zxc09vdDBVMmlVeU1GUkZjRHFSeGJXOFR5ZWV3X1FIRXVTUXlRNU5TeUg0Yk1DOHJ5ZnI5Y2hyWjNnVmZEeDRWalUydU9Tb3VueHNOMGFCWC1WQlVGdFFEdnBQYlpkSlNIbmRGRDdhS1gwTkROeTFVU3F2Q0RfcHZSN1U3MUNzUERhSDNZWGdfUlpaRkFoZFh5TU5oSWFKcWt1Ymk1dE5idXZadWlXMGhtRm9rWUV1VWlKU0VjQkZjTU5ZWDZXdVB0bnF5MHRIaXNYd05TUzBtTHRZSHFJRzdxTkoydDVQMlVQcUdOMUVLUUtBOTc1VGRDLXk1QnpHYXE2Sklicl8yVWtnWUQtU3ZzWjkxbnJyTUNsaWNuRnNwNQ?oc=5"
-    },
-    {
-      "title": "中國新車份額在全球39個市場超越日本",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40dTVQMzNIQzgzZUxtTEFjX2VrYWYwRm05ZGNmZkhYNS1KVDJRSldfYm4yejhMMDhoS3h0Wk5hVzNsZGVmd09vdF8zN2JfWXF1aGxCUWhtU2U3b3A4bDBYaFFkeXBERExnVjRRT1FXcw?oc=5"
-    },
-    {
-      "title": "美國標普全球採購經理人指數（PMI）預計將在11月份回落",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0hWdlZmZFlTLXhwWHFTS2Vra01JODAyU0p1a05xU1NReHdCRWZZRG92bEl2blZkeENpY1pldC0yMVRuaExQWWFJcjR4c21JRUFHWGgyUk51UVBoalFzNkc0djRhU1dzOEp3UTVYNlNfUTVxVzc0ZWdJTEdoY0c2eGZBZ2VrRkRjT2JYdzlPRTUxdGdOV08xMGp5YTFncXVOeFJKNEExX2s1akpLbGg5cC0taUhyVW5HdWljNkxSX191WUM3aU5hQW5MMUI?oc=5"
-    },
-    {
-      "title": "國際刑警大會｜全港設臨時限飛、放風箏屬犯法 陳祖光：措施合理、望市民體諒",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxORDUtXzJQYlJrWlNRaE1GREl5TjBlaDNwVW5IaHdNbmoyblZnaVpOTGU4QzZSTDFRZHpLbXhYdWdPUW5HenB6Z0xUblhwLUdIYXVRb1NvdHdnWnVUeXNjeGIwdG5OX3RuTDRRTWM3ay1qTzQ5STJuSjVhQmhiRVg3bDVHbGRqUWd1VnpjUW84d3Y3VU9tN2JORGZJTnNLOE9hZTVzN1EyYUhZSFY2R3hNVzJNUFZMaE1RVDc4Yy05bFRqRVd3RTVxUm5tRExSSzVCWnpNdy1HbmRNR0dfNEF0UHVnNVg5MEhaZF8xdnUtZ0J0MC1hejFFU1pJd2RPdEczTHRTOV9XSDdBTHFVWUFYZDR3Ymw2M3dUOFVxN2J3bVlScEZzZ2E1eThZSUh1eDJZTC1iVFk5Z1RrczFONEQtX1Q0MjNDUEU4OXVnYklFV01PcElWUlMwVlJmZU1WZw?oc=5"
-    },
-    {
-      "title": "國際刑警大會下周舉行 周一鳴稱已多次演練確保大會安全暢順舉行",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIY1NSQVVNX0dGWVhJRnlfVWZaMzk4c2tMQ3NjRkdkSWRzdlczd3luNjlYT2VhSWI5STg4WEJtR2dYU0dsVUlZM1dkdzJXRThKQ29rdDBjdG1raXpVTG5HT0hGcU44LUNpMWlLeWFNdw?oc=5"
-    },
-    {
-      "title": "國際｜滬深兩市中午走勢各異 上證回落創業板造好",
+      "title": "美國WTI原油一度跌破80美元 川普似為伊朗斡旋留出更多時間",
       "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQUlhrMExKbEs4VGwxeWstdzNadXhyUnlkb1hrS1N3bVVSbk5fcTBZWEF0LVNBeGx0MEM1djZ0OC0zZm1ORF9rdzhnVG9VZm9qdFFCZm5xTHRVTjE0UTh4TmNTUHhGVjFOMUktaG5wNF9xZ2w1UUh0MXlIUGs1ZWpUUkVsY2ZDY1g0NlF6YUZsWTlMeUhjQUJBRFJIOUd2RDVaekZ4dFk3YkxiU0JvMUU1MlFCVGdZWk5SemY0a1lRSHdSNVFPcXJINkpUWWkzQnRTcmsyYVR6YUc2X1pTWkwyeG1UeWZyZWtSVi1LX04xQ3g3ZmFZMThIVGJSbjlYQmlmRmFDbWx4NmQzUE1BMzJWOGhIMTdHZ3pFSHRfQ01YQTN1S3ZZR3pqX0F5UzFBWHpyV3VFYmN2WEI1WWhBMmZaUlo5OGFCc3J5ZnZUWDU0RWdIVmg5Z1JVN3k1Umc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPZVYtMEJaTG1jR3V0X2NlUjZ5alcwTlp1UWpCUUVDNFNNdzlRNjlwSGFROGZnTVhGX3ViLWVGV2tfVGlhWXRQcURtMXdJZ1JZMFlWRUxXUFA1OUtVNnFVZHFtMEpoNVpSQThsS21oR1BZdUxuMEVXbkM4UXRqZk9INWJXOG1JaE9XWnVCdEhxeThnTGRQYWdMV01PcW0wOGdzanlkaDJybFp2eWJKd0VxSlRHMXpiVXBOWkdxNUhqNTl2aVpXVF9mUzZ1ckxhVnNDejZXQkY5RVE5MTBrallSQk5WZjZ5bmpUZWFXd2hYOEF4NHpGRkdfbWh4TXNaQ0JEa185c1ZxbkFtUWIzcy1IVjdYdDlsZ2tsVWN3QThpZ3RRMTRjOHVkekNKVG90Ti1sUGFFLU5zVVhWXzNTZjk4NkYxQ1pWd2t6WXlMQ2FOR2F1TUNha1Q5dlpTNW5admdxaUlqaHhfTE4yaGQxNFdtZFp5ejdubENtMGhB?oc=5"
+    },
+    {
+      "title": "標普全球：美國11月製造業PMI初值合乎市場預期",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96SS1CU1hBazc2djE0eVZ6bTBzWWdTNGxDMU9YeDlKSEJiTWNlc2dUcjdoSHh4ckU0TWh2X21KQTc3RnlNYTNrSTBRLVFFVnRPVm9JWmgtSkFpRTB1UmxlMG1uWTBGOGdHeE15ZVIyTQ?oc=5"
+    },
+    {
+      "title": "美國民主黨取本世紀最大眾院優勢 贏最少258席 追平1992年紀錄 - 20261124 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPdGVYNFRSYXdQOE5RT1NfemVhaHFFLXN0dVJMRzJLUWpGSUl5TmtLX3FLbGtXVnpkcVFGc1dGMTN5OF9KYmFZM3BIc2VhRkxHaWx6NUNOUFVUS3R5SGdMdmZpbk9YeTdXYXBWRUhacnY5OW1hNVQ1Zk04VGN4bjI2eUR4QkQxanBraVo2UE5aMWotZXhKT29HWjV6Q3hhYzVFUDFBcmJEVGZKVnFTQWFOLVBfNFBrX0lVY1ltLW51UkgwZ2hyQjJUYktZdDlxM0lwbUNiaVkyazdPRGUyekdMbVNrZ1c5N2kxazcxc0VUVEMwMkFucG9hNTBZRTA1S21idE82UFZkM2tWQmR2bV9FbHBMZ3NBVUV6OHoyTjM5bWk0bENvdEo3ZWxxYTZka3ZYdHZXLUg5TDVwam1VMVBaX3E3cDBLdVNXTjRmb1E3SzVVZEMyMHVfNzNNc3ZYWk5RQjhKanRtMzA4aTc5ZFBMSVlpck5YNmpsa0ZJTk9VVll4VnQwTHZIT3pGVFN4X2VyaWw4d0RlSC1oY2RwMi0zaUdHTjhjNDdzdnRNc2J0ZTB5ZHhzSGp5NGZ6RQ?oc=5"
+    },
+    {
+      "title": "美國企業活動增速降至四個月最低 高成本與供應瓶頸帶來壓力",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQNGttQ1h6QnNhc3J3M2RNVS1jbnpDZENHbm1UbkdyYnVic3MxZk0zOU9FanpEZkVPWlotOVRLRUZRdDdSbmZILUJaN3VhdjdsUVQyVi1xNi1VbzlFbVAyVG5TVmIzNlF2OGwtM2oxcU8yZ0dUak1LQU9pY2trTG5KdmtMNjJVUWV1X2JUYmU2WHZLWEZ0Y19XME9MUXZfR3g4VGk2MzBxNlctWTJRb2VvQ0xYUkNBaFlJRjBaZmRRNU4zbUU4SWxteHRndVI2Ty1mcmNnQm9ZZHRyakhuV2N0c2dNdFBoOF9DSlR6eV84WGd4a1RXQUlhTnJPUkN6dGI0MWppdXN5aVkxbHhvTlpOSEg1VjEzVTM3OUNia3F3LWlGenY1RWtPS2F0N2QwaG9qVUZfa3pWY21kTTVhTUNGZlM3RVdCWlJMQVlVS2VZSEVRUmF6TnRWbVJGcHNHbllSSE9IYWxwN1NGMEdBb2NkZHZ4elpMMXQzQ2dKUXZFMHRnWTZlSDRqY1NJQWM1Q2Y4enlDblFxeVduZGJvVXpadndhTQ?oc=5"
+    },
+    {
+      "title": "歐委會提出新一輪對俄制裁涉金融及能源等領域",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NN0plNkszbU1aNWQ3dGpwTjNkZ0RRbUp6Y3pnMWZyOGxjeFV2ZGM4bjAtZ21OMFJ1dFQ2czRxOWw2aVdBYjV3UXZkUWRwZk0zVENPTk5rTFRWUVpXM001M1p4YndkdjBnMGNzT2k0SQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "那斯達克100指數逼近熊市門檻！高盛示警：真正的恐慌性出清尚未到來",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNZjFTdUFBSUxuWVpDS0JfQUY0ZkJQYUJfbk5LaXRCZGlBNGppSUs5TElWQ2lfTEJVakFDaEM0ZWl3VXVzbkVadEJsZDd6dDAwYUFlNlNpNlRCWHd3bFh0SDE4LXpXa28xa1J0M05EUTNBcEtuWndibnZpMnVSWFcxWlhuYVVPNVdISHdjWHV5TjRjYTk5RG9acHFPRDBsSFZVVjRlRzZGbEtwMFhRSmdGd1FrQ1A0cjl4ZWthdTFHLTBib0ZTTXNjRVVFTW9WTzA0eVEyNnlTQnZEYUMweFBIYXJnZFJPVVFVOHZUeThjYk5tZHphQmh1Tmt6dWdramxWTzNwSTVqRTdPRGFvNl9xOTl1UzMyLUYwZzNjQVdPb1d6OUdxY0w5T29XSGNuY3lLRWNYXzVOSEdvNkV4R1NWd3A0V0NscEh0OGlPdlZaS3h1MjBoaTlDSjl2bjFINGlfeW15NGZvT0pxSFRlR1NPeU9Od2pPN2s1a1NINmktZlU1Tmo3X0h6R2NJZWtPRDVyZ3k0RVM1Rk5INldXZGwzanI2Yk5LN0toRVBObGdkSTI4Yl9I?oc=5"
+      "title": "標普全球：美國11月製造業PMI初值合乎市場預期",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96SS1CU1hBazc2djE0eVZ6bTBzWWdTNGxDMU9YeDlKSEJiTWNlc2dUcjdoSHh4ckU0TWh2X21KQTc3RnlNYTNrSTBRLVFFVnRPVm9JWmgtSkFpRTB1UmxlMG1uWTBGOGdHeE15ZVIyTQ?oc=5"
     },
     {
-      "title": "Capital 資本平臺",
-      "source": "Capital 資本平台",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51ZktsRTUyOUdrZHNzb3FfZFZtMGRVLTd1WTF4TkJudFZwVW5vLTQ5cDEtSURNbnJwSWFrVTZKYkR1U012aDRndUtQaDJBRU01eHV2cmVmRmNXX1dhNmdWc1F3?oc=5"
+      "title": "美股｜黃仁勳復職 道指曾升逾1600點 納指飆7.6% 英偉達漲36%",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUzczMkhrcDgzNHZ5aVVmUVRpczEtQ09IRDBuWEk4TFJONHZVQmFmeEhMeldBWjVDejgyeXNmYVFub2RaOVhFRS1rUTNmU1lvUDhvN3pnNHdVcVNBY3BXWjdRdXN1UENIcjdJWnBVOVhvbjlvYk5LNW94My0wTnJLN2hSTFROdGtsWGM1cmZNejlMN1Azb1MtZVRzODZlX1hpeUp6NF9TcFBrMXozM1FFaEZOd3E5THU4d09TRDBQMzBBVkNiVTlsMjBLaUlxZW9UX2htSnZWY2tkQUNQQUVsWnhqN2NyLW1FMmxheG15UEE0bzlfdFdoSzZoczlPRDdMRE5TeHhxdnhxUVg4cHFLNDd3NzlKNG9lQ3otQVl6d2lkWi1yR2lDSW1scEVRRE0zdlFaZE1MZGdZMTZMSXlhODV5NUZlU1czUUhFZnBCSm85Q09WTndnUjVHejltc1JpTjdfS1l0a0YxM3Z3aWdxTjdPUWpLTjg?oc=5"
     },
     {
-      "title": "溫傑：港美股短線或超賣反彈，可留意派息及港美ETF",
+      "title": "美股動向 | 甲骨文升逾12%，稱OpenAI基建合約資金全數到位 | 即時新聞 - 新聞",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kQXpMcEVfUzVQazZDOTRWZWl5eElqN21lU0g4eVVjWFpIQmpBMk1KLU9IMWJCZC03YngydE53OEEtaXRnSDdndlEwbkY4dkNpbjVVTnFudWFyX0RiNUFvLXFNZDQ4ZlFRX2hYYzFYMWJ6Yzg3Nmc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1RjbGdQSWVUUzEyWllLMFJUSGt0ODhCeWtPY2RGdDRDaGI1a05jWDRubmZydFQtbGk0WWxjYWFsZ1VvV2E3ai1USzk2YWZmTzRZbHhJLUt2WjZpTEZoOVdqcXJxYnhfZXNhazZiMkJzQVRjMk5NS0lFRUhSTVFodHc4YXFrb0NIRVFmblNXRXEzNVZsc0J6ZFJ3OGdyZmdY?oc=5"
     },
     {
-      "title": "標普500指數：波動率衝擊指向進一步下行– 德意志銀行",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSm1keklFUzR1dlo5T2lFUWdCZmxzcjNHX3lDRFhKV2tuQVZKaDhyMjZteE1INHItUTRSNF9VdGJGN3E1ZXF0ZHZGb2ROdEFuYmo1bW1xcTVwOHlYYzhERHNWNDI1VzdtbW05OWdxQ1NzTUlVRDF6WFJRX1ByU0tPZ2tiQUN6U01tOU9sMmkwcWVpMDdoTThxQWtmX3FheElHcVNsdGY1X1Y2cU9oNURrc3dYS1R6SkxteDhpdQ?oc=5"
+      "title": "歐股收市升1.81% 科技股板塊飆4.4%",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcXR4b3VWekQzRFlRUFczOWp4ZDZhOHpCenlSZ2VNbmpZV3RUWUVXbWx6YXJ1ZlVGUzg2LW9WbVRINnhJeWl3MXRRQXRVS3UxSFFURTVsWTF6LXM1d2ZCNjVRZFB5b0F4c18tTk90QW1adkgxZ05Zcm1CWkJVSFZ0cGEtTGk3cVpQWHRrN2cxc09qcFIwRHJ2ODRsMEpaWW9aUEhMSHBQRDRITXNyUW9YbjBpeGVwMTZXSnlCR3J2aE9tU0hkX0kwWE5vdEVZLW5oekpkUFpDMjN4RFJoMk14OUMwZHNOT0ZMNV9YVDdORnFGcm53Ui1NaWlYdVNFOWJCTUlaVUFuaw?oc=5"
     },
     {
-      "title": "《圖說市場》近期挫跌的標普500指數可能繼續走低",
+      "title": "美股收盘光模块/高速互联、半导体与存储集体大涨，英伟达涨超31%",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wUVBtVk9aLWdBajlxYmJXeUJKUlA1enQ1MWhWXzNnVGhySUwzWDJZU3JxMlN3eG5wSU5seW5XOUFraXRaZW0taEVEaUYzcXIwZmNYb2RvZ1dsWE5MUnYteXVGUmdLREF1bTIzNHMxNGZrRTh6aUVF?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ja0F1dW03ZFV4RG1HaTh3OHlVQV9RQXc1cmtjUnN0OWYyVnB6YkhnM0lyTFZzUGwtRk11SS1XdzVVSm1GZ01zRWV4QmktYlRDclpMNjhhdFpqeDN5ZDB5VEZaSUd4Zw?oc=5"
     },
     {
-      "title": "股市大跌難撼聯準會鷹派立場 華爾街仍青睞美債殖利率曲線趨平交易 | 國際焦點 | 國際",
-      "source": "經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TenU4NXU1OVRQaG5JM0p4OFVqcjVVeE0zTXpVZmlhX2lMZndvaWVvZXo5QVFBTWNIOXpuTWJ5ZGpQaVl1bkNkdk9ZMXJQaDRpR1U4aHFqempad1drNm01TTJBZkYzQ1VTSWc2Vzh2WXhDa2JuNmtr?oc=5"
+      "title": "美股初段急升 納指升近6% Nvidia急升逾29%",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUk1ITlB4RVlkZWtTcnJzRnVVNHZuR0EtbXhFeGdWSklsWXUwZnBRNEtSV1JtMzlSbHlUaFZ0X0xvd1E3clFHYUMyTlZuOG5SRHpxcE5GVmZtWjhibWEwZUF6Wi1XM2dUUS04d29QQQ?oc=5"
     }
   ],
   "events": {
