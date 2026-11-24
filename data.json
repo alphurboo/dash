@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-24 07:15:25",
+  "updated_at": "2026-11-24 16:15:26",
   "gas": {
     "current_label": "11月24日 (現行油價)",
     "current_price": "148.9",
     "predict_label": "11月25日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "144.9",
+    "trend": "↓ 明日預測跌 4.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "張舉能明赴新加坡 將出席全球法治會議",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FQ3hlNDNaLWJnVXBwT3A2SHBIMnZ2aDYxcEdsdXF3dVdhMlF3NWlZTW9BUVlQUHlwTHd1ejF1MGN4cmhsYzBzQ0hPUW1XdnVaQVptb0l4UFVfU3Z0UkFHb3N0SkJKTDVMWjZCTHhSWQ?oc=5"
-    },
-    {
-      "title": "Nvidia醜聞：美國將Megaspeed列入黑名單",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVGtlVGZoM3FzUUtmMnNWYkhwZXEtdkxYQlgtRUlnZ1JYNjRaNG5HSzl0dEd3dGJnMVhXb3EwdHhrYTdpWmxFM0ZEYkVhd2ViM0Q0WHBpQWU3MFdPcFh5SURBRm52U0nSAWxBVV95cUxNTy1DT1VWd0VkRHlOeXdmRmtoaHd1UzJ0ZTJCMTgyeDRZSmk0dE5ZU2JySGVvTW1JbmxNeTRlYUNsRC0xY2V6NU4zcTlfbGFHalNSX29MR3JLTEViQjBoVENVTWRZcG81Uk12Z1U?oc=5"
-    },
-    {
-      "title": "張國樑：聯動晉港國際仲裁 護航晉企揚帆出海",
-      "source": "紫荊網",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPckJyWk52MWhWTTdzY3VoWTRIVWhJb1ExUzVSeXBtbS1LQnpUTWF1OWV4X1RyNjlIWC1MWUZhUFc1ellOdXRyd1owSGFPM3ljcXREZUxCRzk5dmszLS10SmhWam9FN3lRR1dxYUt3WWZsRWowUmhhdFhxYUxWU3UwZ1FGVW5tWVczci1SQVlsTDY?oc=5"
-    },
-    {
-      "title": "IAL｜理科專才全球升學捷徑 ? 全港逾30間直私、國際學校開辦 英華書院校長剖析升學優勢",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPaTJma195RDFKNnB1NDMxYkxmaXVSRjExNHBXYkFPak9GemJ1aUhGM29tWU0yTF9UcV9sdTVSX1A1VGdlbFRlZ1cwZlZMRE5kZHhUR0dOa2FMc2hhTDNoSGRIUFI4NGU1cU5tWU5YQXlOTzBQdjdJT1R3dEpETExOUHdWYkp1cmQzcmNIaWpyT1VNcloxdzhLZWd5OWhlUjZHdVR5dHlVWXJQSkNVa1BGbkNwX3NFN0ZHMkRHYVNieUFXMkE0Y3ZYT2F4N2dHLTE4NDIxYWd4RVpFbS1sTG5OUDJJU3pYNm1RV3FJU0F2bU9kdjY1QWpRVEoxY0hrbGlRUmRIZjJleFEwYU4tUmNpbVZDTkdsNDdKZmV5YWViV1VqWDBXdzlpUEI5NGRIMTFBNHRjb1pmbDJqVnRvQVJrckMyMEt1ZldkZUN2UDUyY1NpNk1KSndTRm8xeHlWQlc1al81NzhTUEtlalVtUjJyMjJDbUdnRlBIcnpFNmZ5Vkk1VElIMWhrOXVfSTl4RWpMeFJXVnBaMXlxamlHUnVodm94azQtTU9uQXB3dUVsTnpTRGJhcGUzZkl1NDB4dmpHLWl4R3pXTjhwR255bXlnR1AzNzJGdGdZWGVrQVRJb05WMnl4TzloYl9qTjdIT3hYbnZOcDBrdXJXMl9NWWNVUFNB?oc=5"
-    },
-    {
-      "title": "中國商務部:保留就歐盟混動車臨時措施訴諸WTO權利",
+      "title": "美國據報提高中國和歐盟等關稅",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNeEYwVTk0QV9hbXdmZkZwMVZJWUpCVnVYZmdhQm9kVGdXY2U0Nkl2b3NuaHNXZm53VEJqWUg1X1JOdmZMRHY3QlY0YXZzQkFLbnJmeDlSWWEwTTFqZlhyVk8xN0kxSGl5R1JrY3BCQk5IYkNkclAza3lWYXpaZlBVUFBEb1QyWWpBN3g1RjRSSklvd0tOWmRSajdKRGxNTmJfVUlfbjBzWHFLeXF5azlWdXBFQTVWd2lDZ2ZIQXd1c09TcEQ5UEpWRVVFRWRJMGVudmtmc01nOUZoMkV1cEVzRlJHcldWOENfWGNGenZyY2N5MHZFLVFMOUlZVWZzaFJlRC1KeTEtU2NxV2NZTEhKWU5rM3VPOVdmdk90UmNNTnZrVkFESDgtS1l1MHFwa0w2UjhDZlRyYVFzaGFvdDZNdFV0QnJLRFBMTFVqdWdCZTBkdEhzMV9odkJwd2NUaElqWUFpZlhtQUlmQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQYWhpamdhdWtfQUgwN3B5ekxjcE54NW40MlNSWTZsNHNjQXFtM0ZCd214TFdmRmhDT0tmYUY2UzJHbXNSRTBaSHpjNVVHWW5lWElacTJVZ3g0TG9pMUR4c3F3RllTWFMyT3RTYnMzM0g4OHZsWDlpQmdIdkljQnBRWEl5TUpBYjlrNEtlanpoYmh1ekp0dDUtUkNJQTQtOWdlRnQ0MzlkTE52SVhsRTh6Um1tSjdvZGFKdWdBRkcxa1R5UllpQnJXZkRUWXFWRXVTLV82ZHVGZmwwZ01MOXZJTHJkWWJjNlhWd05zZmtEVnVnQlVtRGozSmlmRXZCbThQX1BvZ1QzZmt1SUJBc251ZUowUlE1R09k?oc=5"
     },
     {
-      "title": "劉穎鏇罕談美國初戀分手內幕 大爆曾被父母看扁不會參選港姐",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOczBfLWNxSnVFZldVTncyeEMzZFlBeHJ5eFBXRFNKNnBtbldwdnFjRUp6TkNiYktLZDZvM0RkTThPd0xKNUlrZzE2Sm02OGR4WHJpUnB5LVBMZUo3ZE54RmpXTTFFbmRBeURHNE55UDNGUlZDaDlneHJkVjlpUWxMMjlwUVhfbGpWZHNseXpfM2pyRGtCNTFBR21zTHhaZmVyVjVnaks3cDd5dDNFR2tMMDdoVzlMSzdxLUVuNVRVaU40blVqWjJMVnprVm1IcmhqM3d3Skh2emh3OXU3VHJLVWtCS1ZhTUkwMWZnUXl4LV9kbDBOblZlT2JUVTB2N1A2V2JmNHBCNHNKQUNuTjJ6a0dNQV9yeDJneWh2ZzlobDhkZk5ZWTdBLVl4aVpVM09ib3JWVDMwaGZaZ05JaFJkVGtQVXZQUU9ucHoza0t5OVRXRFVkQUJOaE4tWUs1b3l6Ui04enBIOC1uY090TTVkV1ZDTnVwY09xVHhUcEt6TmhDLUJfNGlQN1RFY3Y5dlhRVmM2QlpxSmh2UDNu?oc=5"
+      "title": "俄導彈落波蘭境內 北約部署預警機助應對 - 20261125 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPWk03OUFORTVzRC1hXzhQY0JiRURlVnlpYUhDbjBFYnVmVGJDd20wM29vTk03NjFwTGNsZXdtaVNiZUl5QzdRbnExMWpUY3VhdmY0V25XYkRhdzZFYUlSd2tXUXFEeFg4aEpMYjRVeVpHb3lvU0NxOWhQT1JEaDVkcmNVeVVDdURXNmNSOWZBTUxhTkJZZHZPaV83cV9ETlRFbWJ5RlBLaHRGd2ZwZWRLSF81NHFaM1JzaWxFX2ZvSFRPQ2plSFVJVXdKR216dWVPeUtzU2tfRjlBa0d0VXl1ZmxXNW10T1NwN3VKMXphejRKRXNJa2ZtLUJodzdQaS03aXY5WTBqWlJhOFpOd0REQVBsWFZTYTJHQlZrWDlrdzdiSVZpN29SbkczTEt5amtaSFFVbTF2VWpESUxlNzZGZ2dGWGtXNHd6UnRjbV9rQlVpZ0xkTUc5SkZCTFR2eU00dlRWOFBmQWY?oc=5"
     },
     {
-      "title": "《復仇者5》終極預告曝光 美國隊長兒子首亮相 「牌王」「女鷹眼」等登場",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPNFUyczZYcno4bW1XQkVkYzhROFE1LXZwZjJ1b1U4U003aXdwZUFGc016OVVhY19HR1NLTXp3XzN6TGtsY0dEaDFudzVTbkVadnZzeFBfZzR4MzAxOEQwRmFBNWVnbjBwSWZQOVJJM0xQWEFlanVlX0tfbm1MUVFRQk1laVZTN2pINWRFX084QjBRZzkxTWFEWjFRS2lBSUtuSG9fX3ZzQWRuTXdhTXMyX3BqTzNkWVhZZGJfRVdyaTdmSVZnTklSaWFxcXQ0aFhsNGJrR204RS1MMGZLdTZQN1laMU1HUnJONWNFbmNFRHRNSnU5Q3ViR1Fha1RlSHZPY1hURUJkTTNqWkJid1BMRE41d2hobXk1TllUUXF6UlpzZ0VNMVBzdGNGNGx3RzN4ZUNiaGVzU1dvN0ZwdjVFLXprLTVBVW1IWFh3NHdiblFIVHJ6eU1ZREVJQzRSRVNmSi1fYnhmeWhvQWJTSEZpc3RYM2l6SFVobWpqS0VNeUk4U25YX2N0VFZuNk9RdVBuemlGWjBR?oc=5"
+      "title": "微軟大當機檢討曝光！啟動「紅色警戒」拚1小時內恢復全球服務",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQZ2p0b0lsaVRKdHlfYUxURmhEdUpSckI3SkZkaFQyOENoVTZWdDZXbGgyaVNEZUxxM0E1ZjVlNld4TG9aY20xUTJWckV4ZVhkenlSRnRFS3d4NlF1eWZUU1lieWhsR2R5NGdhZGVuS05xd3BTSFhZbTM2NWZDUVdfbW5MdjR1MHZ3Sk4tbXZMQkdMWjd6UExncFlEdEZPeU5Zdkd1djlDLVhmT3h3ZjMzRkU0cGRDNUxYTGRsTGI3MHpGc0dLTzJQWWxqSUNUU2NkdVpsSHJENzFEQjAzTTlSR3VfdE9ESXJTRWN2WktROGg5UEdHWjVUUHlGeGNJSE9xc1hRQldzSzQ4cW1Od2ZZcFJFT0NxcUZhOUtYRkxrbVJjeHdNdmt6OGZ2LUxzMTJaQ3Fxa2F1N00zX2pyaElIeHhtczhhU2IwT2tjLVZzTWZpVFc0cmMwTVlkYUdnVV9NcjVFLXJ5THZTdWpPTWJ0RlJrSHRKQ1YtV25BcXlMR2REemktblhFcDNjczBTTFk?oc=5"
+    },
+    {
+      "title": "全球銷量突破60萬輛，影速斬獲東盟NCAP雙項榮譽",
+      "source": "BusinessFocus",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPYzR2dDEzOWstYVRFYXBZNG9Dc0RFTEpJWmtUOEVFTjhNZ2FRc0Vod3ZYWklKckV1MGltRzBwdXQybGpteVZGOWQtN1hwNWxwQ1luWFJqZ0hTX1pySmg4aEozeFY0UHZBUnl3NDFaeUFReU9RTDJzdG5lVEs0aE5LSVdZbC1ObXlJUUZFMHY5UHVJdGZDNzYzZndhM0N6bXZaNXRBTjUwTURHSVZaTE43WXZFWkhkLUUwYWtCRmtYQTFwYVRBUV9JSGhFbEpyd3pyQlBmVlVzal9rZE9yY1ZDc3R5Ukk1VmNQTXhuN196dVdvS2xwRXBhRW9COUtOdzUwTlhNUDRKX21tNlZNenh3WUEySUdsaWRWSzU2bkpBd2g5R0tTLU1hMnI3dGRkb253TVQ4?oc=5"
+    },
+    {
+      "title": "美國11月消費信心高過預期",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vRG5Ud2hLQ3JZVWR6aS1KM2dyNnJqVDVzOWFaZVJkbGZaM0h2dExsQWNpVi15VnE4NWJkZFowUWJEVTVvekFfVzJHNVpVcEg4Rl9YZTZmSi0tMXJ2a2JPdFFZb1RZbVpNRjh2UmxvYw?oc=5"
+    },
+    {
+      "title": "國安疑慮未除 「Nvidia不再一樣」 - 20261125 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPcVRLLVhLS2dDemNSWGlGeVgtbG5JQ2Qtb1hrODZ6QjhkTWhyUmpZUnNHVmFrTXRjdjBqYmJ3NnNvbDZqdjBvRjNRQ2Rsc3ZrM2hVMzhKVjg3R2RhSnlaQkFGRXpTRldBLXUtbXFxOGpvZjdmX0k0eUVIdWp2SWlSaTFGb3JkbllVdlAxZnQyMDRhZU1xMl92TXhyY2hfUHJlRXlxN2dOaU9TZGVKTWJNdW1wOExnMFBQUjRWTDVsY0J1MldMTnhzNlJTLXBfU01HS1JzS3JiNHNhazUyblNOdWg4TFk0eFk2aDRMY0xzOFRhSTBZTHlzMVlaTWZTVW9uQjFOOXFTRjhaQ0NXdEI5X0VUeUJTdHZkTGZiVVJfSU9RMS1TRVVfNg?oc=5"
+    },
+    {
+      "title": "今日外匯：澳大利亞通膨數據引領感恩節前美國繁忙經濟數據日程",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcVhzY09xdXE0WGgyamZBVjJhSHFOZ0FKZUYwbVAtSGxkOF90VHdETUhhMFBhbkdmLXdDdXdOTngzOTN0X1RnMUEzczFfUksxV1pNdUZZXzdjeHhTczFubE5JY1F2Z3RaRW1lYXdKMkV4dU84SGhLbHg5ZlpKcUJSU2x3bm9SOFdTdmxlRWpsWnZkcXVyT3Z2Yld2bXpHZU81NTBqV2RuUU1tUjZ1TmZUcnVDTjh5M1lNMDBnZzlvOXhBRTJuYnVXOW52OHhPRnlxOFdXVU10YnotX19BZkNnNTl4dkdfdw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "標普500正邁向歷史上僅出現3次的情況",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOaXpjbC1WUG1fZi1nWFZ3NUhnTDFULW5uRWQ0NFFncXZEVmw3VXFmNzhvN3RlZnJ5WTA0dTdnVmMzSGxuYzlMaHBQOHVSSUlfZWJ1eDU2RFJnZ2dWb3ZPWlhuR1hoV0ZHUlY1ajA5S1JQYnJqTVZfN3BaTzB6RFdNcVlDekdydjh5eDJGeDVsZG1KTjhUYnJHSVZlRm9JbFliRjUxd3B3cGl1aThTX1RZdjVrZmRJUlc5bHRPNnB4a0V0TTctQzNJU1M5cWZmUV81YTJ5R0psd0MxTHh0YW5rdWpjVHlJMFZ2NVdYaE0tcjFYTFRGYmUtdTN3ZWY5SHJfS2VSTmtHX3pQTFQ3Q29LQVhCU1RENHM?oc=5"
+      "title": "美股初段個別發展",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xUmpZb3VNSndQMnhvWk9OUkRvOXFabWE4NjUwa3JnWFFrUXljMGw2MUY0cWZOa0VXVVNMTTRJT244czd4SnVkS25WTndOV2MtX0tHMDQ4UUdjd1U5Vmw2c1JwWlhEMWhoaXRxZi1UMA?oc=5"
     },
     {
-      "title": "美股光通信概念股盤前下跌，Coherent、Lumentum、邁威爾跌超4%",
+      "title": "美股異動丨AI硬件板塊集體回調，高盛警吿黃仁勛迴歸並未改變AI基本面",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xLXd6OWZDM2hVMDBXcFhQT09iOFJobHktZUJsZ3kxMllWQkgxTzc3STU4NUQ5M1RRVWVuVnFaRm5VbEJEOUJ6Z3FzLXhyVk8ydDJyZmo3eFZCTllLWHBhQ2RzWnBaUVdWc0E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ld2tTaTB5UXF3dndqajYyUGJON2QyMTNscl9Mc0NiWTZDZlhKMnl5dHZGNHpzRFVnYWtmazQ0UGM0Wm5pNDl0MGsydFpIN21wRlJBQTctdHhZS0dsV2ZETmRXQlJya181U3c?oc=5"
     },
     {
-      "title": "美股走勢丨黃仁勳重掌輝達 道指飆逾1300點",
+      "title": "美股走勢丨納指一度挫逾2.6% 道指反覆升超過400點",
       "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNmd0VDNONHFTLTJ0eHQ4N1dUNXhHUkJmT0ZFelZjRjl5UmpPWEpuaXFtUHZGdkI3OVdNbVFvclhmMGZBSllIWXN5QkVRUDFPanY2cXhkd0pNbzJGYlB2c21qS215R0xFR2dEREFzdnk4VE56Q2RnNGVjYTVzVkVaa3lZYXdJSEJIMnNoOUJpd0tQeElfRVhXeEdqT1F4dVY1X3BDNWJITF9UNjZlVGZyYnBlejN0OTZESlcwenEtdV95Q0ZMUXhWODdlZHl5V2hWdE8tUi02T1V0Ti1Tb0RGNTBtblJITEJZakVKUE0xQUwyc1JfMFVYSEVJN2pTcjREcXNFT3NEVkgtYnVyZEZ6MmRERExvRFNVQmYwZUJTMW56YjYyUGVWUC1Fd2FkcElCdjBQZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNRk8wUS1ETEpZTUlrUi03RXlJTWRFdml1ejdpU3M4ZUVYeUlpQnhmeXNSNHhHNElycjJwS085cWUydVRtMW1fMGRBRmdCYW9BVTBLUkdNc2Vxa285TUU2VUlWX0pLVTdhTGozWENwTTNLTkw5VmY1LW9LdFVkVUtGd0pOM3k1SnhWeEVYeHpzSm1rZDVmZy1JRDVUTXVpeGNZTTRSZ1ZOQ1pycXMwbUJYUHhYYWpZRC0xQ29ISVhwemVWbEhqSlljNVRyMENqcGZRekdOX0YtZFFzeEM0c1lRcDA2dnFabEJhWFJjenA1WG1BTnE3SXpTUFc3YmFqaUUzZHI4c3FxRWQyMGxQS0FYT1p5UUpleWZzTHJvVmF3S0lwMGNmb2lqUmZ2TkJtSVI4MUJ1aFF6TGJieXNQdG53N3dSN01aVDZLbmx1aHpfU25NUzk4NUFhUWpmOVR2Z3dNNlE?oc=5"
     },
     {
-      "title": "黃金在急速反彈後回落，聯儲局加息預期持續壓制金價 作者 Investing.com - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vd3B1V1htTnJOTVZabHQ1b0k0QkI4al90T0NHemw1QS1NcXN0am1NZHZOSkkwek1rc3Jhc0pLWklEU2JZY0tzSW1fRnRETjZtSGFFOW1QOHpIWGtQQlJ5TGVnaVJrTC1BYTIxcVBpWQ?oc=5"
+      "title": "美股巨型IPO之中 Anthropic第3快潛水 另外兩隻下場如何？",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVXpWOU5UejJRWVFxU0t6ZlpZaDdqUDNGdWpTMWwwdGtrSUtITGpUXzMycEhOdjh4STNiUlVZQ3lwWlFka0IwQThuc0RpV0tNNmpXNHJvNUlzS3Bfb0prdU5lMjRtdURKcUlvV1AxQkI1TmNSMXZPUEhXZUZ1ODVfbWhCN2otbTFrNjVuVFdoYjQwT05fZEd1cGtFX1p4YzVTbjJmbGEtX09GQkF1V1hxaUQ1Q1g3Nk1IcndsUDRxNlc4SGo4Q2RvUTRIV1NhY3Iwek1fQl85dENCWnlkNDZCd0FRX05Ublk2aGMwXzN1UjVSQUl3OVdTTXljQ0xTWHRTRUVTUDNiWU54dlpDdVk1QThGUldBMXNRWkQ3SW1tY2RHM0ZncGxIYnYtZlBMb2ZoRWRZZmRuTFItMFdYU2Y4ZFFZZlUxRFFG?oc=5"
     },
     {
-      "title": "標普500指數：強勁反彈及雄心勃勃的2027年目標——德意志銀行",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOW5BYXRYTEdIRkNoTXRhUWZCSmt2MGo0X3hmcUx2Zl83UXF3dnlVN0JTYVFjOS15dzhMMWVBUkFFaGZRZkVZQllxODdfXzdrNEM5X0FtbGNmLVFIaU00ZVBXNThsYkp4VU56S21faGZra1lyRGNYcTQ4S293VkZSSWszQXljVlJ5UXRRN3RFWUI4Wk9qVHZXdTZpZWtRN3ZjelB4bHd2S21nd0twbW5acllQUXBZZ0lLbGZId2t0ZEdoWERNZ3NkRW9zelphMUJKaVU4?oc=5"
+      "title": "美債動向｜紐約聯儲威廉姆斯警告通脹未降溫，市場聚焦5年期債拍賣",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUVmdE14bXctaW93Ulhtdm0yWm8yMGlCWk1adWk0cmpEeExYOHJaLV9WUC1zUGRXUi1fLWtkbzhvdjAxTUtVWkNrUEZELXh5WDJab3MzbFVHX2cyTGQzTk5PTktmTjFGMlFWa21iWlRmMC05SGtydWg1Q2dxd0dGbXZfSElHSndheDVoektVV195cFFBRzhoeDRyXzlMNEpm?oc=5"
     },
     {
-      "title": "【黃仁勳出軌】市場再憂《華爾街日報》「唧牙膏」式報道 英偉達盤前跌5%",
-      "source": "香港經濟日報HKET",
-      "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOYWsydHljY0VWcDdURGM0RFg1c1daZkpFVFQ3WnJTT2JVVHJiWGhlV1FHV3ZaQ3M2RENrdDdnaFFZbUZ0Rm83VHNNSjdmb3VHMDV1SEtvUXQtUFVBZmJtbjN2T0FRMzJVZ3Z3MkN5ekFJLVNFT3VvSHlUOUZZM3hUdmNheGNhV1VURDd0NkdxeDdMTzJVaFNpVWlmd2ZLUWE2SUhHN3lXbE4tbVhjaUJRMlFLaEFtVVRLUmR3c1RKS21FSmRZbXF5SGlkdmxFRnR4bDdJcXp2YWFrM3RjOEhDM3pVWVUycWdKb2RrMjZLemJsWmdXaVdBcm84ZlUtOEp2VGItcG54cERiTmhtaUd5SEljVENqa2RBTFcyYnc3eE5GSWl0bEhmc3VkYzJ1M2xIMkhhUzYzeENqWUdTUXdTMXlYNUdvZHFJWFo0LUx0dUw4cGg4bVNpQzRUTmxsUmJSWjdMUjBQclB5UW1iZUN2dDRvNU5XaFdtZjNaQlZ2bWdxNm5zdk4wbUxra0Y3aThsTVJtdXpBMU9KMUliNGYweDRxTHJiYjdCQzRfdGczLTBZRjNQaVotS3I0SHktVUtWZTZCTTlQUlExNkRSZWR0TDhrT0FfNnF6dmhHZU5oYXhHM3Y5dHJ0Z2tfZVI?oc=5"
+      "title": "美股暴力反彈不等於趨勢反轉，急漲急跌令投資者進退兩難",
+      "source": "群益期貨",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPekNUQmZZcXBYSkJHZ1ZrZmdqN0VjRG95YUN3VURBdWYyVmpycFNUM2hkMmxMa3cxNzhzY0xWUGZqOGxzdWFSV0twd19BelQtZTNBYWVxZDdhMFlxWjJQMlhVaWNyWWpBLTRFWHZ3RVlTbDJwUFJ4MVl5ZE9OemJPVXhhQklnRjktZmRVbjZoMA?oc=5"
     }
   ],
   "events": {
