@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-23 16:15:27",
+  "updated_at": "2026-11-24 00:43:32",
   "gas": {
-    "current_label": "11月23日 (現行油價)",
-    "current_price": "116.9",
-    "predict_label": "11月24日 (明日預測)",
-    "predict_price": "148.9",
-    "trend": "↑ 明日預測升 32.0 ¢",
-    "trend_class": "gas-up"
+    "current_label": "11月24日 (現行油價)",
+    "current_price": "148.9",
+    "predict_label": "11月25日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "美國家情報總監：普京絕非美國朋友 - 20261124 - 國際",
+      "title": "習近平向「聲援巴勒斯坦人民國際日」紀念大會致賀電",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kYXg2bDlrRXBYNVN2ejh5MS14ZGxtWUpYb3FNMGs2dDhncGV6NGxHR3AwRFRUYmpjM0JRTHZWS2hQdU5uZUMzRUQ0cVZiWThSOVZuZVJmYmpNM0xqT3pnMVZ6YmtVSmZGWkZXXzhZVQ?oc=5"
+    },
+    {
+      "title": "美國調查Megaspeed晶片出口 黃循財：新加坡與美國緊密合作 (12:09) - 20261124 - 國際",
       "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQSGNVM2hSTHVYUl9BWW5vVUp4TDg5am5tNl9NMzh3T0dyMmFyMlExLTVhcVlEVHdmTmxCN291dWpVNzRCaktJT0otSnIwUF95eUhrcFljdklDOUFsa05oSldKNlpiRWZHTVBaLWh0VFJjQ2NzN1gtelRyUnRoLUwyd1hwM3BJOEhUTnluOW13a3F1My1LaWViUUd1a3ZaaEJLTDUzWDRVYTdBQTZLa2gyaDJ6MDJ5bWlGcGMwaXBkVURnTDctWXd3VXhXM25JYUd5ZjJ4TGhiaXRoRkF3Q1ZkWEtjcndCdkx0UVpDT0ZJUUZ0Tmg3RmFRd1ZYVlV3aTNfeENKRkZfdlIzek1IN215am9DS3pxVFFVVFhyTlpUcG1TaEM5Y28xb0s0bnFwbjR1ODFyT3BwbFI4UFJjcndOLTlmQWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNR0FCb3hKUXJHVW5KeEtwTEU0anNfUE5Xdk5RcmdJQ2t3bW9wQnRkSk5FNUZPWmpSLVdRbmNLazJYSlRWZThsYkdaOGttc01YV0hwNE93cjRSWjlpTWtaUi1pLW1vXy1ON3dZeFV3ZUxTdUd5WmtjNXRJRWJTTG9hZHJVWHJQSThMU1RZMjA4dHpBRnRJbmgwTTBGQkNDWl96cWw3WTUwYkI3TEw5LUFiMVREOVREcERpVFhZekpSQXFNeURBc1BsOG1zU3lDZmNGV1RKOUVIMVZtZk1lODU4N1Zlb2lQWVp6dDZYRWZ3ZnQzaXlXd1Vha0pmRTROUEJOVUswM0I5RlZGNUcwT1hfODFneGtza1Q2QW1mR2cydGtXMWwzMTZhUjF2dWM1Ukk4dEF0Vk1ucFVpVko4b3diUUhNSlpmUlBOUEtQYzlDek9fdmVkUXV1R190UG5IMDVkZ3FTR1NZaktLOU8yZ0VQXzA2SzVmT3JWZFVOV0QwY1B2TkhpeVdHV3JhRGNDZkFSaHFnenZjbm5QZw?oc=5"
     },
     {
-      "title": "王小洪稱中方願與各方遵守國際法治及堅守公平正義",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaLWxRTXdyd1h3QkthMVhNVlRrX2pBSzB4M2s5d04xNE1qUWRjcnJldmRjc21ISVFKOG9obWNqUHJ6U3Z1Q2xWWEg0NE9JQTNONTVrYzNZOHhySEd4bXNXekhXOWVZb19oTm9zRVlMWQ?oc=5"
+      "title": "生產力局三項成果獲2026「全球百大科技研發獎」 -",
+      "source": "- IT PRO Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52SHJoZ0dndjRGcUE5Nzdma2dYZVV6OS1kZzhMR3JOcVpxak93LWNHSi1aclMyMjNIb1V1QlhPNDVSSVFyY0l3Y1pOM0pyYlpzTlE?oc=5"
     },
     {
-      "title": "美國WTI原油一度跌破80美元 川普似為伊朗斡旋留出更多時間",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPZVYtMEJaTG1jR3V0X2NlUjZ5alcwTlp1UWpCUUVDNFNNdzlRNjlwSGFROGZnTVhGX3ViLWVGV2tfVGlhWXRQcURtMXdJZ1JZMFlWRUxXUFA1OUtVNnFVZHFtMEpoNVpSQThsS21oR1BZdUxuMEVXbkM4UXRqZk9INWJXOG1JaE9XWnVCdEhxeThnTGRQYWdMV01PcW0wOGdzanlkaDJybFp2eWJKd0VxSlRHMXpiVXBOWkdxNUhqNTl2aVpXVF9mUzZ1ckxhVnNDejZXQkY5RVE5MTBrallSQk5WZjZ5bmpUZWFXd2hYOEF4NHpGRkdfbWh4TXNaQ0JEa185c1ZxbkFtUWIzcy1IVjdYdDlsZ2tsVWN3QThpZ3RRMTRjOHVkekNKVG90Ti1sUGFFLU5zVVhWXzNTZjk4NkYxQ1pWd2t6WXlMQ2FOR2F1TUNha1Q5dlpTNW5admdxaUlqaHhfTE4yaGQxNFdtZFp5ejdubENtMGhB?oc=5"
+      "title": "Nvidia和黃仁勳對美國經濟有多重要？",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCLWQ1V2hLZ3gyUXhNck8tRi1rTF9iQWt0aXVuNGhsUlVueTRWbWt3TVU0RkxSNXJFSV9OUmpGVXRXN3F0bU13bnN3bmI4MTRneDhrNHNJekxqQ2lobjFSZ3NMN1BJaXPSAWxBVV95cUxOdEZlaWMtenp5U0h3QUtGcnU3SGN5WE90d0ZVQ01IT1lOLU1jWndVSUs4T1l2cmY1MTVhS25oQUxpeUhkYXZNYzBUYVBwMnNWS3FIZFVjQlJBcXZvLW1mRDJqUVpsT1k4dFIxNmU?oc=5"
     },
     {
-      "title": "標普全球：美國11月製造業PMI初值合乎市場預期",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96SS1CU1hBazc2djE0eVZ6bTBzWWdTNGxDMU9YeDlKSEJiTWNlc2dUcjdoSHh4ckU0TWh2X21KQTc3RnlNYTNrSTBRLVFFVnRPVm9JWmgtSkFpRTB1UmxlMG1uWTBGOGdHeE15ZVIyTQ?oc=5"
+      "title": "美國人工智能股復甦之際，英鎊兌美元脆弱交投",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFJuT2V1bWJJOXZMUWMxQXhxNHNBamZyUjFxUE9zR1JnSmd5UTM1Sk5hTy1nWXd0R2pPcjllbnkza1Rlano0Mm54QW1lQ2ZOczFaMERoLUJEaFNTTUJtV1hod0VKbUpteUczY1Vuc3FnMDcwNnRFWFZYNERQLUxpR0txNEZQNGNGbkRDNmhpTkY0cGpHaVZXVzF4NGRCa05HbkRwR1VlZTdwOFdpdG9nMjdVV2hNdG91TG9OQkU2eVBQQzlIZlE?oc=5"
     },
     {
-      "title": "美國民主黨取本世紀最大眾院優勢 贏最少258席 追平1992年紀錄 - 20261124 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPdGVYNFRSYXdQOE5RT1NfemVhaHFFLXN0dVJMRzJLUWpGSUl5TmtLX3FLbGtXVnpkcVFGc1dGMTN5OF9KYmFZM3BIc2VhRkxHaWx6NUNOUFVUS3R5SGdMdmZpbk9YeTdXYXBWRUhacnY5OW1hNVQ1Zk04VGN4bjI2eUR4QkQxanBraVo2UE5aMWotZXhKT29HWjV6Q3hhYzVFUDFBcmJEVGZKVnFTQWFOLVBfNFBrX0lVY1ltLW51UkgwZ2hyQjJUYktZdDlxM0lwbUNiaVkyazdPRGUyekdMbVNrZ1c5N2kxazcxc0VUVEMwMkFucG9hNTBZRTA1S21idE82UFZkM2tWQmR2bV9FbHBMZ3NBVUV6OHoyTjM5bWk0bENvdEo3ZWxxYTZka3ZYdHZXLUg5TDVwam1VMVBaX3E3cDBLdVNXTjRmb1E3SzVVZEMyMHVfNzNNc3ZYWk5RQjhKanRtMzA4aTc5ZFBMSVlpck5YNmpsa0ZJTk9VVll4VnQwTHZIT3pGVFN4X2VyaWw4d0RlSC1oY2RwMi0zaUdHTjhjNDdzdnRNc2J0ZTB5ZHhzSGp5NGZ6RQ?oc=5"
+      "title": "黃仁勳回歸丨輝達勁彈 特朗普持股增值",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNRmgxTUp3ZFItR3EtN0U3aU8wYXJEUE5LMXJjRE5GLUdUY0ZJOFJTUEF6emF3YTZjVE1QMm5rcHB5dmZYcTIwVmF3RzdfMWkyWVZDXzJBckROSjFqTlMwTThzQVVMLXJ2dmYzTm9nOFpRM3YwRklHVzlPZTM3OXdENndtZlpDUzl1Ti1oREtod255ZHZqdGJIT2F0UGdMeXFVclFZbG5WTnVUY2J2R2lsWmxhTkp0ZF9EeEJHcUJINGVNZkxQQmY5LUVXb1dCS2tCdjBEbWg1c01nbmhlcHJvVkM0WGJ3Z2RQWTlnemFPVkxIcW9zcU16d09EODBKWGFIdnk2aUxESElqekU3a3NfZ3o4Y24yRzVtbUJWUzFoYXVtS3Atd3NPcmtRZlRMeXEwalhhTkVYbW1hY214Q2c?oc=5"
     },
     {
-      "title": "美國企業活動增速降至四個月最低 高成本與供應瓶頸帶來壓力",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQNGttQ1h6QnNhc3J3M2RNVS1jbnpDZENHbm1UbkdyYnVic3MxZk0zOU9FanpEZkVPWlotOVRLRUZRdDdSbmZILUJaN3VhdjdsUVQyVi1xNi1VbzlFbVAyVG5TVmIzNlF2OGwtM2oxcU8yZ0dUak1LQU9pY2trTG5KdmtMNjJVUWV1X2JUYmU2WHZLWEZ0Y19XME9MUXZfR3g4VGk2MzBxNlctWTJRb2VvQ0xYUkNBaFlJRjBaZmRRNU4zbUU4SWxteHRndVI2Ty1mcmNnQm9ZZHRyakhuV2N0c2dNdFBoOF9DSlR6eV84WGd4a1RXQUlhTnJPUkN6dGI0MWppdXN5aVkxbHhvTlpOSEg1VjEzVTM3OUNia3F3LWlGenY1RWtPS2F0N2QwaG9qVUZfa3pWY21kTTVhTUNGZlM3RVdCWlJMQVlVS2VZSEVRUmF6TnRWbVJGcHNHbllSSE9IYWxwN1NGMEdBb2NkZHZ4elpMMXQzQ2dKUXZFMHRnWTZlSDRqY1NJQWM1Q2Y4enlDblFxeVduZGJvVXpadndhTQ?oc=5"
-    },
-    {
-      "title": "歐委會提出新一輪對俄制裁涉金融及能源等領域",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NN0plNkszbU1aNWQ3dGpwTjNkZ0RRbUp6Y3pnMWZyOGxjeFV2ZGM4bjAtZ21OMFJ1dFQ2czRxOWw2aVdBYjV3UXZkUWRwZk0zVENPTk5rTFRWUVpXM001M1p4YndkdjBnMGNzT2k0SQ?oc=5"
+      "title": "俄烏戰爭｜俄軍累積46萬人死亡 去年平均每日548人犧牲",
+      "source": "AM730",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOM3BJUXQ3RFhheFFBWnB3WFVQODRsaVZUWThJVS1aVmVqbXpXbktYZ3dzVV9oU09hbllRTm5TVDhKRE81V0lxTGpadVdLdWprcVZnQ1Q3OGZEdE91MF84NXRXZm9jaWJWNUxFS2hMZkUydllOMkFoNjZJT25DMTY4RFZiMHhiWkpXblRKdXpSR01GTkhKZkFNTW1TZm1Td3k5Wl95UTFHWmliYkFhYmJPU0Jrc2JwUWs4bDE0TFF4Tlg4ZG5WV0ZXUXE3TWJ5VTBxMWJTaFk4dFMyekVIZWo2R2lMNVBTN3NySk5NU2FoTEtwOVJQNkt2MWlrNmkySlhBTGY1TURaWkh6Y3hyekZJVGRhWjhqd2xRMjBlVDNTU3V5VldBMUdpTXFQbFlXNlNqSENqUEluTWZaR2ZZelJteG0xUHRLTGZVQmdnc2lHNE5MV2xVWnBTaThaUFdJTnRHdS1jUmZ4aw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "標普全球：美國11月製造業PMI初值合乎市場預期",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96SS1CU1hBazc2djE0eVZ6bTBzWWdTNGxDMU9YeDlKSEJiTWNlc2dUcjdoSHh4ckU0TWh2X21KQTc3RnlNYTNrSTBRLVFFVnRPVm9JWmgtSkFpRTB1UmxlMG1uWTBGOGdHeE15ZVIyTQ?oc=5"
-    },
-    {
-      "title": "美股｜黃仁勳復職 道指曾升逾1600點 納指飆7.6% 英偉達漲36%",
-      "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUzczMkhrcDgzNHZ5aVVmUVRpczEtQ09IRDBuWEk4TFJONHZVQmFmeEhMeldBWjVDejgyeXNmYVFub2RaOVhFRS1rUTNmU1lvUDhvN3pnNHdVcVNBY3BXWjdRdXN1UENIcjdJWnBVOVhvbjlvYk5LNW94My0wTnJLN2hSTFROdGtsWGM1cmZNejlMN1Azb1MtZVRzODZlX1hpeUp6NF9TcFBrMXozM1FFaEZOd3E5THU4d09TRDBQMzBBVkNiVTlsMjBLaUlxZW9UX2htSnZWY2tkQUNQQUVsWnhqN2NyLW1FMmxheG15UEE0bzlfdFdoSzZoczlPRDdMRE5TeHhxdnhxUVg4cHFLNDd3NzlKNG9lQ3otQVl6d2lkWi1yR2lDSW1scEVRRE0zdlFaZE1MZGdZMTZMSXlhODV5NUZlU1czUUhFZnBCSm85Q09WTndnUjVHejltc1JpTjdfS1l0a0YxM3Z3aWdxTjdPUWpLTjg?oc=5"
-    },
-    {
-      "title": "美股動向 | 甲骨文升逾12%，稱OpenAI基建合約資金全數到位 | 即時新聞 - 新聞",
+      "title": "AI泡沫 | 黃仁勳重掌英偉達，美股夜盤續升，華爾街大行調升評級及目標價",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1RjbGdQSWVUUzEyWllLMFJUSGt0ODhCeWtPY2RGdDRDaGI1a05jWDRubmZydFQtbGk0WWxjYWFsZ1VvV2E3ai1USzk2YWZmTzRZbHhJLUt2WjZpTEZoOVdqcXJxYnhfZXNhazZiMkJzQVRjMk5NS0lFRUhSTVFodHc4YXFrb0NIRVFmblNXRXEzNVZsc0J6ZFJ3OGdyZmdY?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVZmSVRCa2pjZDV5Sy1hek9GN3A1MHZsVWpZMGZyMU9oXzVhMGdYb3MwclRpamduYTFuUHFCdUtGV1o5RXFNQUduemZ2ZWlDNWx1VGRuc01SeDlqTFFmRExwWkZ0YmdrcnFiT1oteFdwYjR6ZjdKMzVCd2JEeHBKRWxCbUJKSmEteVpNY2VheXRxM1p0?oc=5"
     },
     {
-      "title": "歐股收市升1.81% 科技股板塊飆4.4%",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcXR4b3VWekQzRFlRUFczOWp4ZDZhOHpCenlSZ2VNbmpZV3RUWUVXbWx6YXJ1ZlVGUzg2LW9WbVRINnhJeWl3MXRRQXRVS3UxSFFURTVsWTF6LXM1d2ZCNjVRZFB5b0F4c18tTk90QW1adkgxZ05Zcm1CWkJVSFZ0cGEtTGk3cVpQWHRrN2cxc09qcFIwRHJ2ODRsMEpaWW9aUEhMSHBQRDRITXNyUW9YbjBpeGVwMTZXSnlCR3J2aE9tU0hkX0kwWE5vdEVZLW5oekpkUFpDMjN4RFJoMk14OUMwZHNOT0ZMNV9YVDdORnFGcm53Ui1NaWlYdVNFOWJCTUlaVUFuaw?oc=5"
+      "title": "科技股調整帶來投資機遇 靈活配置把握市場反彈",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOby1iUXBkNF9jWXZCcHUtaWNNRjBsNVRpUFdRMllSTEJIOEpDbGNZcUVKU2hjMGNyc2lwNGlHTHhJblZLbDB4NWdJWU5ZYkFxM3psY0J0bGV6VXc2eGwwSTBaVzZ2RjVWclB3dF9yYVRCaHc0Ti15VURRaWpEVVctOGtsMlJuSVQ3MWgyOUg3YjJKS3NjNl84aTRSeEozY3IwWUVud1NJOThnUFJuYUdEeHRvN2NNdlh6TnRPdXhDOUFVYVFPeUI5bjkyRkhFRUJlTGkxd051X0RGdjdTemVrQlNocjhRNnJJRmk5bm5OS1NSV0FHZ1gwblVsZHJ6SU1nT2QwazRwbC1vOGVlaUQ3OUgzMUJtV3Z2WHBvNEtUY1pCQVN5VGN1M0pDVm5DazhIaE8tTG11YTA3TTRoN2Q5M3pGRzNnQUpGbHpWQmVtcUlDLVlsRnZFRQ?oc=5"
     },
     {
-      "title": "美股收盘光模块/高速互联、半导体与存储集体大涨，英伟达涨超31%",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ja0F1dW03ZFV4RG1HaTh3OHlVQV9RQXc1cmtjUnN0OWYyVnB6YkhnM0lyTFZzUGwtRk11SS1XdzVVSm1GZ01zRWV4QmktYlRDclpMNjhhdFpqeDN5ZDB5VEZaSUd4Zw?oc=5"
+      "title": "摩根觀點｜科技股還能布局嗎？美國、亞洲、台灣三條AI路線一次看懂",
+      "source": "鉅亨買基金",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTBlbnQ3WjFPYmdINnVHSkNqT2pOaFVWQVgwUmVjd05XY2RTamszd0NHM0FQcHZNYndSckUtbWh2N1prX0hMV3h3Rmx3TFZoZm9QaUh3UmtGSmU3Ym9JR1liX1VzQWxkTWtDRnM0OF93Z2s4XzR1UXlvU2I5UnFqWHZPNlJSaC03bkdNMXd5QnpUVzVTMFNaMHNB?oc=5"
     },
     {
-      "title": "美股初段急升 納指升近6% Nvidia急升逾29%",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUk1ITlB4RVlkZWtTcnJzRnVVNHZuR0EtbXhFeGdWSklsWXUwZnBRNEtSV1JtMzlSbHlUaFZ0X0xvd1E3clFHYUMyTlZuOG5SRHpxcE5GVmZtWjhibWEwZUF6Wi1XM2dUUS04d29QQQ?oc=5"
+      "title": "匯金天下(24/11/2026) 美股回暖資金流出美債，債息及美匯升無阻金價反彈",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNYjYwWGQyQ1NHTXJvUDloMmZ6eFRJUWQ2OHZOODBDRW41Qm9CMzZwQkNzU2dJMnp0cHM3Sm00VHV2MGg1VnJUbmJ2VUVNcUF5dnhnMlRNV2tsVkVRVFdYZzgzTDQwRk00YXE0NWJRbXN0MldRYzJpdWJ6ME5Sa3lBR2k4ak9XQUJUSU1ELXNRVTRsMW0tTFhiTU9BM3E3NWlGOHpuWVJNT2ZFTkhMbWNnZWk2ak4zNXh3UXZ3U3ExeGJ2S0s5VmU5bmVMYnFCVEFwY01MOTVHaVdmZFZOYVM5ZzN4UVAyQUNKRUpuYkl5Q2Iybmk3SjRrT1hlak1YaDg4SWpIeVpNWF92ZnNRQ1BpYVRzZ3FLSFBac283dkMybldXcEpnLTQyN2dGWmFmdmgxdWdPb3JkOWJwOTMzVldUVk51eF93WDFSUTNPYUZfWE5xLTV4T184ajRFTmNWY2FEVTFyWkFhUzhQMnc?oc=5"
+    },
+    {
+      "title": "黃仁勳回歸Nvidia 美股報復式反彈｜古天后",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMVhKVUJ0Q0NpZTFxUm1FbHFQMEhkMW5RWWY3VF9qTkMxeFBsNWhEZkFQREJIdkpOcG44X3k3THJ0QU9lMVczQU95TkNLMDdkM2NIQ3Y4ZVA0TW5taUxyNkZaT1RlcEtMSWZiVVJXTElYS2s0TmNJTjVSbElZZFpvUFB1emFibnZ6YWRPbGtWRkNrYktwbE1jaEZueVdaaUYzZ1BDcHlVZjdqbmtMVjg4SEZnSzVoblI0X2xkTnNQaDVVRkw2M2RzVnhoVUl4dk5PWnNwQTBTTjZoeUJLSF9SY2tqQUgydjRFQ2Jobm0tUE9xcm9YdkdJaXhtQVJZemE4TjFfV0YtamVvYzZ2QXZ2cl9ydHFyRVo1OEE?oc=5"
+    },
+    {
+      "title": "紐元謹慎交投，納斯達克復甦提振美元前景",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU9qdTFmOVd6Wm1acWx6Sl9laG9QUXVWQzNGWkdQdlNlUVFBckRyWXhQN1BYdTUwdXh0enRCcGM0dURaMjJfSVVPRnp1WDVCOGVVYXFpemp6WDVmUjhhbTc5M05acmJna3ZyallhMlRmbUF6T0FuTEVEMDVOT20zamFxanpWMDNWbjBMS1A5NFBsam94SlpWZTlQbHVSdGZ0X1EtekIwRS1UN3M0bzlyckl2SQ?oc=5"
     }
   ],
   "events": {
