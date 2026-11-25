@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-25 07:15:25",
+  "updated_at": "2026-11-25 16:15:26",
   "gas": {
     "current_label": "11月25日 (現行油價)",
     "current_price": "144.9",
     "predict_label": "11月26日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "147.9",
+    "trend": "↑ 明日預測升 3.0 ¢",
+    "trend_class": "gas-up"
   },
   "news_world": [
     {
-      "title": "中大與《紫荊》雜誌合辦「紫荊中醫藥國際峰會」大學校長論壇 聚焦AI結合循證研究 促進傳統醫藥現代化及國際化",
-      "source": "CUHK Communications and Public Relations Office",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVUFyREQwN2JtRmtFX0kxWUx2WGk0SXBFMWp4bk95N3NQb3hJMlIzb00xbnlnb0JRQkRFODBIVlFrbG1xXzY1YVB1MHFfTTQ4ZWNvejhxa1g0SkltclBwOWVTb01LUTRKN1VseVdXM2VJdWJSVWVwaE1BajlPSEgweEpVaER2dWVmYms3cGJQNjFXTEZMRi1ycFF0LWNZVm9oVVN5ck5IVjV3YzJ5ekVmSmRjOTJRREhUNGY0OVJzYjRZRUZpOXBVUERGOEprREpYZjBZQ1A0XzNkUzByc0JmZUk5RWgtZFNVRk5DUWpBaUExOE50Z2pXUUtwLW5pb1k?oc=5"
+      "title": "室內空氣品質警報：美國西海岸洪水",
+      "source": "IQAir",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkYtRkRHX3FuN0lnV1Q4a2NxQXRqdjU3bVdQeFFpVE44NmI1b1d3WWxzamJLMWxhRjBvdlAwNkV1R3ItdXlsbDU2ekRJazBJWWQ1d0ZxT0RGY084bWdvUWNRdmdXX2NrZEViVTVBdXNIcWtJaG5QU0dKR1lqX0VHaHBBZDBqSFFxVkE?oc=5"
     },
     {
-      "title": "再生枝節｜歐盟下月起限制中國混能汽車進口上限19萬輛 中國商務部重申：保護主義沒有出路",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxQNEROTDUtMnV1TTQyYm5EeFBNbHpjaVBwYm9VZ3NHWUs1clNnRmRpN0lhcWpfRkFfN2tPTlJVSmhfM2N4bUI5T01ZYy1MTEhscXRkdlFyTjFIaTBQdDllUmp1R1ZPNWpYMldVajNFbkdKc0xHUFZ1ZHlIWnBaM2VLZFAzcjkwbEFxSlE2UXpFTUVGYkNLNjBVMXZUSVBxNE1CVS1sOVcwOEZubm9VX3Vza2ExcWo4UUdKYnNxM0s5TWJlNnplWS1XRU9vcW9UN0xsUWc3TXVmMy1BUDBQckVFUE1xTlozeklJbmdrRWhmNFVfTG9NV05ybVViREdkSDZEX1ZOdlJha3AyMVJNY0w3b1dzSmRiZ1ZqTmxrVXFtMGVZc0tiUE5XNVdxY0g5Qmg4OGxLRW9lVk51MVRXa0RVeDI3V3J5NHpQT3BtV0RLNkg3a2RFN0t6X3FROHdMOXdTY1hMRjB2U1p2THRmbEdmTmVtZHp4S3FFdThEaUNONE9qaTM3OC0wanN0OU9TVkowdnFzSXBGTnJBYmFlMUpwWTNqdlU3cTdRUWRIb3lGR2hjZW9HQUxpUEYxMTNKcHE2ZTZpb3ZaWF9fVGZRbHhSaV9ubGhoSVYyNENEeUdaZU83dUhSanF6UDRUbU4tbXZoRHRHMl9yMTFsVVlweDlKU2ExTUw3OHRnT3lmcTBDRHluZGEyYllPbUZjX1pzd0kyZzlOUERVUEY5X1k3?oc=5"
+      "title": "美國擬對中國等貿易夥伴加徵關稅 中國商品面臨最高稅率20% 北京批「產能過剩是偽命題」",
+      "source": "Deutsche Welle",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPZHlkVXlmd1MxVU9OY1c3cGNRWVBEUGNFM19FZldWTTNZUkRtWVRUaVRJY0t6ODEtLTBFRWEzRTZTaklkSm9uLXB2NENKUEhEbkt6Vjduc3hMN0U4THJKRjlsLXhhMFVSX1JXWDFoNmpDLUJRVDJlRUl5V3VhRVpVZWtIR09NdHZNZXlrQjRDakRyUXNGM21XMm9RY0d3OU5tZ1NuU2phX2Z1enJZY1RNczQ1RS0zc2pLWDVRWFEzcjVvMUQ2TFB0SlE3WWlQRWxGZHlTSHo3cml2QVlJVEdzamVjWXA4NlBtRmswWEN2STRPb2FkSUxCcXplQkVRV0dsN2xQUjBDSEY0TnFQQjZEUHZ5enUzUWZoUGJMUG5abEZhc2hkS0Y0TmxFYVBBek15djViQ01XLVRKeW9iV3owUVBRaVZvRGQxaW9OWmlyMGRYRkxpS2JKTTdFcl9oSlBNS0s3UDVKNHVCdkNCbl9ETWQydlJ5d1p3Z1YxdtIB_AJBVV95cUxPZHlkVXlmd1MxVU9OY1c3cGNRWVBEUGNFM19FZldWTTNZUkRtWVRUaVRJY0t6ODEtLTBFRWEzRTZTaklkSm9uLXB2NENKUEhEbkt6Vjduc3hMN0U4THJKRjlsLXhhMFVSX1JXWDFoNmpDLUJRVDJlRUl5V3VhRVpVZWtIR09NdHZNZXlrQjRDakRyUXNGM21XMm9RY0d3OU5tZ1NuU2phX2Z1enJZY1RNczQ1RS0zc2pLWDVRWFEzcjVvMUQ2TFB0SlE3WWlQRWxGZHlTSHo3cml2QVlJVEdzamVjWXA4NlBtRmswWEN2STRPb2FkSUxCcXplQkVRV0dsN2xQUjBDSEY0TnFQQjZEUHZ5enUzUWZoUGJMUG5abEZhc2hkS0Y0TmxFYVBBek15djViQ01XLVRKeW9iV3owUVBRaVZvRGQxaW9OWmlyMGRYRkxpS2JKTTdFcl9oSlBNS0s3UDVKNHVCdkNCbl9ETWQydlJ5d1p3Z1Yxdg?oc=5"
     },
     {
-      "title": "希音擬向美國財政部支付1億美元 就美國業務營運調查達成和解",
+      "title": "要聞分析 - 歐盟500億歐元基金縮小美歐在AI與量子領域差距",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPRnVjMkkwSEtHOUtKRGg4elNpQXZ5aUQxRkJfcEwtVFB2ajFndl9aTmVVdE1JdzdSX1Exc29QR1Z1TUdFVEJhbjFITU5aWUVRUDZTRnY2VEtDMHhFWFVBbUE2OGxxMXVOYkhkd0ZFaHJQejgwLUtQNkxKbE5qcmFZTm5obXlyN3M2Nk1qbWhtWUs3dmNhQV9rQUJIYkxnSFR3OGV5STh6aUloVWRSQjh6YTBkZW81RHNpQk15MVNOdE5qMzJTQk5nam93XzMwOEVCbVF0N1RWanMtUXZwMkw2TUVucTF3QWpaMjBXVFRXQ0d3VE9vaHRPVTVneHB3X3BPTmdrak5PUldUYlAwb0VoX3BoMVJ2eGlVVUFDMFQwQ3hKQ05GN01fTHZnd1RGY002S21OeVBqT09pNU15WjdPcWZlUGxiXzk0Z19tc1V5ZlgzR0s3dnJFR0IyM1Rwb3Q1TFI1ekdHblhhemR3QmxsM1haUzQ2TFVGcHI1TFA2eHlqS2Y5NlJCMlRfTFZOcFpLV0xN?oc=5"
+    },
+    {
+      "title": "美國上月核心PEC物價指數按月升0.3% 符合預期",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uXzR6QndsaWFGWXRrQWFUWnRsT3k0WVhxWE9ackdDc2RrSENXbE54RE9ydGZPSVlFM0Y2OGlJNm5aTE9ab3BGenlmS2h2S1pZUl9sRU5KMVEzeDFiYmR0VEtvT2p4Mnc0am1KY2pNQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mTXg3cWNWc2ZDbHA3a1dKaWphNWhTQV9rUkpsRU9QQlBCazJibDFLTlFzLXhGa0NEZ0Z3V0lrWkJVZnlDODB6RHlvdGhQZDJhbVVWX1BNa01pT3VhUW5uWlpkb2s0OG9ZNEFyUk9Kaw?oc=5"
     },
     {
-      "title": "市場評估美聯儲利率前景之際，美國核心PCE通脹率預計將在10月上升",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYXBjUWpGLTNtSlFUUno1YjdiNEFtQThmOW1JREkxME5GTzExSkJzZ2owTXVXWGgtWkRuU3p1SFhxQnZneDlFZVRmUDI3bUNfdUt6WU9pNzJIMDBiSmpFR2o4cGRadGRyV1ZkWFZFYUtvakhCVy1kRTdaQmZURkkwdlFtdWR1UVgzMndIanpubGxQVGIzeWF5b090UENwUTZlTnBMUTY5SUlKbUNwWDhkLU1MRFpsdzJiRTdnNkJJalNRcGRWRnZveXh0RXRTT0pfOV80?oc=5"
+      "title": "從火雞大餐到玩具都漲價！美國人勒緊褲帶過節 Fed升息恐再補一刀",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNc0JvLWZRSWM5a01oUWZ0WXEwT0tkaDhoUVFXLVE2UUlWNmwtcllHN0k4d3VzZ2gtLW5yVXpXUld5V2FGdE5CQXlfel9PVlZ4cmlpQ2dPUzI1Mi1hemo5SlhGaTRYOGhCWVQ2eVVENUxJNkdCREZldURqRzg2REF6TFBiNzNoWDI1WEJPbW9YVExNemlFWFFOa1ZpZF9iLXZQeXZPNmIyRWtYSTREMVFYRUNPZHdKUWVlYTlDY2lxWVBMT1c1T19lUTlGbGd5WW1RMF8xQUZjS2gtU1RwRmRyTU1xRnUxT2FhNFgtbWFsckZaZmJyUXQtNWxpZnZEcDZPVjFJMjlmX0R1T2hvVHlUUGRDNXAtdURhUlNwVmRFZm5JWjFXXzRTT2JERl9xVU1XQ3lBT0Q0eHlUNzJ5N2pXQWdNaDVkcHp3V09pd1J0V3lOalFNc3J2RGtGNEo0YUM2UEJodDgzM0ppalN0UU5GVVlaazBIRmRHbUNqVWpWRndHU0N0ZUV0Y1NEMnc5T01mQnhaVEFIcVBqTzdxNWc?oc=5"
     },
     {
-      "title": "中國農業發展銀行發行全球首隻「生物多樣性」綠色點心債",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQTDRNM0g1Z1E5ZU1LdVdFLU9qQjJ3dE50UlJmVExUVFM3WXB3M3cwWi1wWDVTcTdVSkNERDZWbkZlTW4xcU1sSG45TkFsejhOSVdKZy1Pb2RDS2I0VnRTNE5IQ1Nub0IwdEZHdFJDYlFZaEszS2RZcGh5aC1QdFc1XzFoZkJhcE1QM2ZJazVjbnRrQkdiaWNtUFlwSklJbzluRUtwdk1fbU5KdEVjdVA1Y1h0Y1hzYWxLbnpvS0tQeFBzRTY0Yjc1Z1pCU2xoaXFhcUd2enctSHRvVlBnaW5tZzcwLThPWERHb3dCRDJhTmZKM0hhbFlsYVc4LU5SbnNoamdfeUVzdUpUTlFlSkRlSHVrNVprRzNmaFdhemh3d3JQUWd0N3NaUjFKRTZBMkV3eWxXd29wQndXMF9UNExaa0hLblFZR2FrZkxYbmw2ZUkzNl9zaGptU1o0T3luWkE3MU1rWWlGUWN6dUZ0ZTNob1NkWk5SaXVGTHUtRnZMRUhndw?oc=5"
+      "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12aTNpdVgwcHpjZk96VVNzQlhpT0dlUFJTczJhXzVWR1pzYk5SRVBTYjV6bWUxSzhub2IzUFAwVWk4S0NMMFRlakVXb1dPREZTcmI0NHUwcUxyWnEwMnJyQlRCTHJfZVHSAWxBVV95cUxPMTBHR2VmZkVvLV9ITDhXNEs1WkE0UURZVWthbGZzeEtMTVdrTC01SV9hX3QxM0xyMEJBd1JUUEx1TDZtOUxlRTROXzdnWS0xaFpJUm42b1YxZzdNa21zdzdoSXNRSXVmNDVJbjQ?oc=5"
     },
     {
-      "title": "歐盟將對混動汽車進口設限 日中車商均受影響",
-      "source": "共同網",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Bc0tlMkpUVThzZUpCYXpTd3ZEWWEzb0NOSl8yMWFZSHdUU0hTVHlhU3BhS1dHVE5qd1dfRkNtcVFmcHByWHh4S2tySU1FUUZrM256RTdsWFM?oc=5"
-    },
-    {
-      "title": "美國密西西比小型飛機墮海 6人遇難包括2小童",
-      "source": "am730",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQSnRMMzFfYkkxRFIwdlMzeW1SR0ZzVW1FaFlhTE9SZ1JrTGVQNzNKa1FNUVdrSExRdklwSkV0alRCZDBuNUlnV2RveWxxYlRRb0F2VFoycjBoQ1RTanVwa3RXQjdhSUZjaW9jRlZlSUxOMHdpOUtaQ1h4clZzNnoxdzkyUkhuUW95SzhyUGFqXzd6MUtrZFJKOVJseXhwMksxTS1ISFNSYkl5U2VVU0ZOSHZNZkM4YS0zTUJHMVNFZC1USFJwSkNja0RJdHNyWXBzNC1mb0t5X1llYVJyZnk3ZWdtVVkxbFdWNlpTeEs5UHpuRFhvdWMtVWQ1TWRaVmVsZlhhaG5xODV4ZkFBMWFVNEdZY2h4aEJpNGg4LWFjLTY4Z2JyY0ZHX0hsWXk3cUVtbjBIcDZKaHhMdV9XQ2pITlB0QURiT0FqVmc?oc=5"
+      "title": "美國上周新申領失業救濟人數減至18.9萬人 少過預期",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YT3lyM1RfX1VUUDhvWEVJbXAzU3hhamdZekF3Q1pvRWtIekVDTG1MVUo1RFlRSEU4Y1BYMWtaQ3hVT2dES0RoajZmNHJ0a012WkVCRjdSbThVMXZLeXRzTzlVWjZ2bGw4MVN6RzVpRQ?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "瑞銀料明年AI投資續增長 科技股配置須審慎 聯儲局12月加息一次",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNQU42NXN0U3pFeHl5UHlHUjRhZnVnQ3FHZnA1TDBla2I0Ynh5RzZydVFkVmlXOUxDc3UwbkdlZlh5MFVXRU1wTWhYOWxmUkVSSG51bWtmb2FJU3B4RDM3WWFBa1E1V0ZBcHAtX0dKcWQwb3FKYkZqTERCczk2bU5TR2dCR3lza0prdHR5RkZRc2VGUkVUYWphVWpZdUo4NHpIRDdjY0Q2Qnl4NFo0c1RudU1wQkVIUGJ0a2c4ME9iNE16Nm9MRUhGSVlmakNmODNmNTdFLXRJZjVoZ0w2SG94UWlpNnloR3pxMGJBMUoyMEVFcGV2cUl3cWtLZmp5bm5pUUFRcVhHcjc5S29lenVsdFh4VWtsdEhZV1F1ZFdGOG9hMk1PTS1abHZGSjFWaW5PcGhFZ3NVRzAwblp0eDE5aXV4NzBQTG80TTZCbk90RV8td1ZfdW43TzFQdEF1LWRwX0FYeWJEWmhROFd3WTdpRmlZcnVVTVVuQ3pubG1SeHUxUWh3RlkwUy0xSm9iaUtMSXZ2RTVNNlhibVJIV0hlRjZB?oc=5"
+      "title": "歐股收市下跌 金融和科技股向下",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUtGbDhCWFlFTVhSNl9rQ3BrMjFpYTYwNmFHSXcyMnZOaFhRQlRqSkNFY3B4dXBmVnRsc29UN3ZqZWdMbF9QSW1vcUtIdzFQdmotVWRJeXpEbTYxSy1mOWNXOXRaanNmcThKUzFfaThBNEJJRDFFcFhhZnNBSWVWazRrRlJfZ3c?oc=5"
     },
     {
-      "title": "華爾街拉警報！ 小摩揭美股10大風險：恐迎「非常難看耶誕節」",
-      "source": "Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNZ1M0bG5qWUNkSm15MldrZjhvWFBLLXItSFJoNFgtSUQ3Y2xFWnA2NlJ1cFNqdjBTcEwxWmJtTmZFcTY4YURaRTc3ekgxRVpLV1hSV25DMFVqSTF1eXJPUHE1VjBYTzBqbzNuS09hMXZZLThhZFZ6WE1MelhueHliWHRvX0R3TUs3V3lRckJYOXNXUzZHSWhsWWstRlhKcFdfWm9pSlB0cEZ1NUVzWE1yMGNEX2pZalhuZ3I3MWhzRlhaYk8tWWZIR0o2SHRMTHhFRkhZMzJUdm95ZmYxRW9IMEE2bEkzazJFQ09aLUxlTks3NlV5NkVuMEJJaGQtNlF3aHZRUzl0bzZ0VmU5ZzVpN2J0ejVZLURGVnhpNXhCbTNXRHpWWE5zajRmcnFEazNKSXRiU3M0dE9QV3dXMkdIb1R0eVJBOFQyeHU5YlpyeGFCaTViN0ROcGMwQVBHV0FEbEl2WEFMazkxU09aQUEtZE1YS25Cdw?oc=5"
+      "title": "那斯達克100指數進入「先賣再說」模式 AI和加息之憂刺激拋售",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPVjNSZFV4bWZaNUY5YUxaVEtoZ2lRa21EUWxGM2g4a1JKdl9DbkY3R1FseU04YjlXWnNaMTRRSVMwdzVLdmRvLU8yeHVPNGx3S0xxaWp1ajVuYTQ0VDBZS2ZlbE1zYjlWWjZIZi1NZ1I4ejVsNXFSSzRiZ0hGdXoyNWFvZTR2QV93SzFJQ21ERVJwS3BnZlpkdkRhNW1JR3pObVA2X2t2eUxzc19hazVMUnctQm5jWmN6NmdKV1RpX3dMSmtKdmtfX1BIM0gyd2h5VnR5bXl0dlVvUjAzS1F3eGhMZ2hfdnJDbU41ZlFTelhBNzRTRTI1bFU5UF9LazBFUGpWVzE0cldQdUNmbVJRakVnXzh1Y1pwc2RLSTlYTTB2OHFxbXFoX1FhWERkT3g2cF9mNTEweVhiZ2p6ZkdLbDBORlh4amtlbUVDMDVMR3ZoT3hCaW1iOVBsMDVZd2VzU2ZNVW1KUS1ocVhBaDJqNHRwUXBoa1J2dnlwdQ?oc=5"
     },
     {
-      "title": "【美股盤前1125】費半重挫？新一輪關稅措施再來？｜豐雲學堂 2026 年 11 月",
-      "source": "永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNM1BBVmJNVU4tc1hudy1uOUpUNFhCTWc2c19qamc5a1JBdlg0WTRRd29wUFBUNVZ1aG1qNWQ3bWlFc29qTDBhWUJ4VmFhNC1WemZTdm1vWE4yc3pCVFo5T1hpdFV4NkhTdVA4OFpSdEVhSTJxUHJydzlwOVdxOUdOTFBVNVNkd3BJdGl1UWthQTJTVVpncDdmUHlBemlSVHdGaGx2Nk8yVUl4RnlIZXJvWURYcVpOV3VobzNyRUEwVDJicl9kbDVQSlg1R1BhR21JOWx4VHh2MnF4SFpGUnpmZW9TRklFbGlacWRmbGpNTVZkTnZhMGJjMG1YOWFNdTdiWl9Qa2p3aTc3TWVxM1l4TjRXMU5hVDRCZmNnZWxianBsVDJnNTVkbVF2WkV6ZXFLd1lDeS1kNGMxM1M4WEZLdGc1TVRta2pDWGoxTDNPTnoxM2VxcWxMeTRSdw?oc=5"
+      "title": "聯儲局褐皮書:美國整體物價溫和上漲",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQVk9qaHlOSkwtcUpjTGozYjN3WTc5Ui16OEJBMDZTS1o3b1ZmYXlSRm9US1FFOXVYRGhoVHRzbkRKMFlJVXROQm9ZbmpKNTZpakpxZHRET2E4Qm93Z0xZU21yUFBoRC1TbjhrZ003MC1GYXRKY3J2QzUtdTZHNE5DQkZvbnlBQ3ZYeWM2VHZKQ0s5YnZMY2dRV3Z5VUxXS3FRNGpCNjl6Ml95RHlvMmlHVm5NQ0ZUdnpmRUdTLXZkUWRvMHh3a1pZMDRJWm1reDl2YS1zSVZaS0ZrMHVsTTBDQjZnQ3J0b0hhc1dmeUtBSjZKdGpRaXJ1YldlWWduVTNQVWxvNUtzbkU5V2F6LURGZGlRNHlCSFdlWno1Z255QWVjM2l0aWtBMnRBSjFQZDM3YVhXdg?oc=5"
     },
     {
-      "title": "AI泡沫 | 摩通料AI超級周期未完，標普500指數明年底目標8200點，具14%潛在升幅| 專題透視- 新聞",
+      "title": "美股動向｜克雷默唱好應用材料，股價挫53%後估值吸引 | 即時新聞 - 新聞",
       "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbzB5dG03RGhtNEVGZWlWNWg2WndMbU5scEhGM3hjdlBOS0p4X0xEUHhmbVpNNjc3Wlo4LXJBTTVjdFdKb3J2XzdWS0JhSkd4aXIzU3NrdVN2elVLSXhKakNYa2todlRrVVlPaVNkcWFGMFlVbFFzWUNtMXAxc1RRVGlvRWtVOVVEUWdhUGV2TXl3SXZWQ2Fr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHFSN29xdUdPRVRDSE5qMmdNakNiYmZpUl9MRE5nLVdFWGc3QTZ0WG9qOThuMWQ5RTI0WlJXSWtiNHBrNG1saGNWOXVIVDNNd1NvZzZvbVY3U3JBelJwc0dfeVNGTkNRMU1YRnlkQmNjN2lxMVljeGduc2pkUHNPbnI0cDNrUjY1ZS1vYWxBWVNtUzhNdVNRSWFTeExKRkhq?oc=5"
     },
     {
-      "title": "華爾街策略師如何精準預測標普500的兩週劇烈波動 作者 Investing.com - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Hc3JINzBkS3lxMUVQamtXcUFCZ2Yxa2VtYWxIVGxSRjBGNHZOWFNiNXo2TDVxekVWaWl2QjJ3TXZTQzY5SGNJQUpOZUhMVWMtdU5sY1JJOGJQSVJkUFl5S21GNWJQSHZTaHVGUTNidTM?oc=5"
+      "title": "美股｜道指收復千點失地 納指仍跌近2% Anthropic瀉9.8%後反彈",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPY2RZQnVYTXdPRF9PNTJMaWYzODNOakJfNF8xM1k4WlExWl9ZWlFlcGpqa2EzWFNpWUh1ZGpVLU1jMk9FakIzZW5Bcm9XQzRyODBOLXZJTFRSR0lxSFJHcmVoQjZXc2Ztcml5MVV6aEZ4YmRaQ1drS0xhLTd6SjYyZUQ0TGhLU0wxeG8wRW05UkNLWWpFZDFEcEtsX1FXYjZmZUdGTzNlWHVreFlFdEt0RW5XRXhON0VHNnZTZW5QeHB2eEFSeVhnN0I2aXptZjVpS2p0aTJpaDRsMlREc09KQ3l1RFJPXzN3MXRabGRSaVZVUFZMc0NvZ1RGLWpYelppbjd0TlV1ZEw4b19PSi1sVnZjSFp4Nzh1ZTFienZXOXJZQnpwUzZ0S0c0dWFMdTRyajRYMzFsU2RueklIVXY2Vlk5OGJPVXNqZG5LTlBaOHZiMjNPdlVNeGdlTTYxcWt4SHQ5RkU2Q1NsNlJGaG1JTA?oc=5"
     },
     {
-      "title": "納斯達克期貨下跌逾2%，因人工智能板塊跌幅擴大；通脹數據備受關注",
+      "title": "納斯達克指數和標普500指數收跌，但較盤中低點已大幅回升，因投資者逢低買入",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZVWpQazExdHAzbGdfcjMxcHNTOGl6QjhBQ2xleUFNTUFfU3RwV1lOb21Id05YekZfd3hnZ1hZNEVKTjJ2b3pXZnluYzQxNlNSYzdVeG16ODdkVDVRdnlLQV9kWkxYVC1MRThXOGFxRzgyR1FtQ1kw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qbmEtMHhLN2RTTTRmbWhhX1ZjcjFFVmF4NE11VzBCMEhiMi1HNzBMT0p6MmJrRzZYcXpmR1IyVkdlbzRMZV9aak9TSjczU3NPOXZmSk85aDdlNW1LQnlCTXl2Q1JJV0NXdVpjSEFoeFMwa1lCM0VB?oc=5"
     }
   ],
   "events": {
