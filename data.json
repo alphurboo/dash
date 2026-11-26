@@ -1,48 +1,48 @@
 {
-  "updated_at": "2026-11-26 07:15:26",
+  "updated_at": "2026-11-26 16:15:24",
   "gas": {
     "current_label": "11月26日 (現行油價)",
     "current_price": "147.9",
     "predict_label": "11月27日 (明日預測)",
-    "predict_price": "--",
-    "trend": "⏳ 明日預測待公佈",
-    "trend_class": "gas-neutral"
+    "predict_price": "146.9",
+    "trend": "↓ 明日預測跌 1.0 ¢",
+    "trend_class": "gas-down"
   },
   "news_world": [
     {
-      "title": "警方完成跨部門桌上演練 迎接國際刑警組織第94屆全體大會",
-      "source": "国务院港澳事务办公室",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53T1BRZzFyWUU5U1B4VEtXYlMzc2U1aXNrTG9rMmNGdzRWVkw2LVhIb285TlN5TzdSUWgwVThKS2dHaXppOVN1bHpoVTh5Q18zY0hnVGlBZnZraUVzUnlwZWVsQWFBaHNaMEl0UDRfT1ZhOUg2bE8xaHVB?oc=5"
-    },
-    {
-      "title": "美國擬對14個經濟體加徵301關稅，中國商務部稱堅決反對，而其他貿易夥伴與中國的摩擦可能增多",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPUmowb2JhcERkM19Cem51alpEQXJNM2oyWmJFcVNjX0xkVUFtVi1WZjNvbW9abzJYcF8yd3A1U2pfZWp4eXpPc3RfZlFYd3VGV0xRMkJKS05JR0NZOFM2eTFCSkpDQU90LU96VDdKRE5ueTZ6SENXUDJqaklMUHdTQ3FIOUUzaFNnVmh3TUxOS1RRaTZfYk9qUlhhc3AycFpodzg3b3hRNm1ZRzBoa2E3NFhrUWN4dFRmWHZnV3dHZGtDWmcyWC1lVWZHZUFUakszTkZyRFNyeVVVSzByS2hxWFRkNTZMS1hJSUEzQmFHM1BPTG5PQVd0SkI3X01IcHluUkZrOFl4WDdnN01qQVI3aWhtZUs5MC1aRU9aLVFSN2JzTll6bjNHbnpmdV9sZkktR21xbW5XRUlveEg2eHg1TFlheDlCOFhqQzBfQ3pDQmZIaW56MURibG42VlBrTGQ4VWVkdk1KZTR4SGNUQ3JxSFRTa25hWml1REFXZzdVZTVFN242T19seU9IZlhfdnRGaEtBUVdsVERQM1paTWJMVFdfV2Z0dGFYRnNfTGxUM2VEejdaamw2R9IBuANBVV95cUxQZE5FeXpsSzBaRHFnWkFmbEk1cXlRMi1XWmt4emRhRGVCalR3eVVNM0lJTmxNZlRGc3Z4QTJNaVZpY0N3SjhFY1I1NUg1ekR6bE1WN2NodHR0X2xNZENJckNUUFA5a1Zyc056MGoyZzJlVHJtWU01RDYxeXRwMDdPTlNqQzZ3bzNTRVhvNkc3YXItbXhfYmFvOF9MWlU2VE55M0piMzZTQURCd2hsUDQ0STZmbDBzVnQ1OVU2MmF0RDROcldNYVI2amVnSHlRakt3anZhdlIxN3RDTEdlRjlCZnVwbkZDeVdQV0Q4WlFwSFlZR3Q2RFIxem9Scjh2NmFXXzNxYTRNdnJZNHBUM0dEeGNpSG9aSWhOT25Xa244QTlHclE5UUs4Yjc5dEV1WGlVWDAwaXZfSE94SzJJTnB0a0RzbXBHenpvSzlvS2duNktJdlFoMkZWZmJ0bmM4VGtBMW4zM05aZGh1d2EyODM1Ny1hY2Y3ZG9nbEpjSldCbGhmMkFlQ2tnSXJvZ2cxQnVGaGNyaVJHekJKLXk5Sm5YalRHV3ZKd2ZXWWNQWm1RUDJyX2ptZ0xuWQ?oc=5"
-    },
-    {
-      "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iaW9nWEFMSTNJZGZHZTRsbEppV2Y3Z0F1cmYxdktWc2ZLOFRzRzBQbTlYWkFIRXl3UWdxV05NVHl6bV9JMElMZXlta0dTUVdLZlY2aWRCMU1xeUNVdVBiMWc2TFlWa1HSAWxBVV95cUxPblQtMXE5S1Z1S3hhcnc4blg2YTVlTmt4VC02aTR1UFR5dUlKSUNTR0JSd3VYcVR1U1BseDc2NUNjeDZyR1dwQk5yUkZyZ1hWU0Iybl9pb1Rkdl9CYW5oM2drWng0NEg3S3pNd1I?oc=5"
-    },
-    {
-      "title": "環球貿易｜美國擬向14個經濟體加徵關稅 對中國稅率最高",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNSzBwaTEzdUtaZkZrNEwtcmZDUDJrLWhrS1kyYTlUUVhwZWdEYk0tc0FtS1pnRUpyQTZNRHRvcTE3SWM0MXdrbjhLNGFpSHpOMmNjTTVneXJySmlaaXBvWlVLTmsyOTYzbE9RVlVsZmE3WjdneFFXRkJzWHg4RzJTMWxrWExGNmRXQnI4Q2NtWkIzRlNxNnN4MjFKTEhiS1BJXzFYZWpIaHJZT3h6NnBHUGNnNHFIZHJ0Tkl5NEFCSUtsY0M2eHhCUzJVbDZUb0tIMy1tREJZdzZvclYyaVg3anFFYnI5WWxQcG10NUh0WEY3ZWkxakdFVFJLeTA4RVlacDRrY1VVdkJBZTAwRy01V2pmdzhpRG9mV3AtMEw3N05PN2c5X1kzVHhfVTlkUE55ZEhDX1VuQ1M2S2JGYUZQdmMtYy1mZERsN3dzUWY1QU9zcHRJVTVoY3MxdV9GUTBnTTVwWDI1OXpiWmpBMFJhUlBaeEZCaW8?oc=5"
-    },
-    {
-      "title": "曼谷專欄 - 東亞地緣政治格局正在悄然改變",
+      "title": "要聞分析 - 感恩節之際特朗普敦促普京停戰 歐盟啟動第22輪對俄制裁",
       "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPajZzaXU4Z2ZaZEczdEpCSkNFY2JURTZIQ08tamhKUzZtVWMzRld2UUxMY2VqcXhQZDcwS0Jkd29ydHoycDQ0RFY3UnN3eDdPZVlvS1hpbHhrYktmdlBhY1ZkUUdiTUd0OWgxRlZPR3Vrc09ORU1FTTB5aERRVkJQQnpTX3NjUDRBTUNWY1VrVnJ2dWc1MmhhalFZaGNBcm1FTlE0VVE3aUE0RnA3eGtnMXNhMUd5cTNtaklTN29QTTlQY1NQaXRndzQyS0l5eU5zV1FubTlMSkdsMENORF9FRnJkMUVZX0s5T2NpQkJaeTJpVG4ySzhZMDVjamdQTWxwVWN1dmVyXzdBTkEtbWJLU3cxVDg0b1ZoeFRQMENzazBHdlhuUEYxazd0Yl9fMGNmVDdJY1I1TWNtbVFIeUNCV0Jnd29qS05mRG5rbzRuQ0I?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOMGRpTlpsUzFibk5CN2UweEpXamxoa0dHdXI1QUhjbl8yZk9zeUJkQlE0a1RnQ3ZZQWxYYm05UHpjYVhrMk5XQXRHbHRLX3U5YkdVeGExVXZFZlN5M2hOOUpLd2hiQ2N6QldkTEo5NXBwQXF1RWg4QXlRSm9tRGJwaUt3Ny0xbDJ5azE2U1cyeEp0d1o4NHpSck1oaXdjOGx1ZkJqdVdRUVZfSG45bGtKMEpzUFBBT2V6RFppWFRLSGU5QWwwTWVHbG1JWkxyaGNyalRlUVdEWC1uek5PWDM4b3k2MUVHelRlR1lYdENsVWxRQU5DWEtFTFRGSko4cjFHZm5FVnJRYjdmV2ZfYm5kWFpiWVowdnczcWZGa3gtUDhyQ184VkNVRFlwMHJUZEhXRkF1ZVU2YWRvRWRHdGd6YWZaVFp6VjJqM2VlY0VJNlo0R0Jpb2k0Ui1BQ1F1Y3lOQWJjSV9uWjZMQm5yNlhzaWVkOU92NTY0QTI4TF9jNUtTdEZMNmJvWEQ1MHIxa1RsYXQ0Rl9Ga0JXMFE3TFhwaVllVWdFUVBzeThGeTE2RDJCRVRHNFFrZ3dpUlRndjNLa09CTzBWOE5lMHFl?oc=5"
     },
     {
-      "title": "黃金：美元走強和美國收益率高企打壓金價 – 荷蘭國際集團",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSkJTZUFHN3EwaWxIbFUzWE5qbkRuVTIzUjZZNUFHT0huV3g3Q1pLZG14YWQ2cnB1aDJ3YkpVaTVmRHhXamFCbUZjRmQ5eXhHRzZFaE5ySUZYRWFfZTRRZkZ3a0k1UTlRam40SjhxNlRpb0tYeTczWlFvd0VzZUVjQjBrc0lmWXl6M3o2NjFIWmRvTzJvNEJIdlhmZWt4eUszQnhZTHB6eUYzTlNVNGw0MDRuam14NDNXUTNqWVkydVFnZmZ4ajNDV1ltN21oZHJO?oc=5"
-    },
-    {
-      "title": "中國國際航空博覽會下月在珠海舉行 將展示運輸機貨艙等",
+      "title": "美國東西兩岸受風暴吹襲逾75萬人停電 過千航班延誤或取消",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oUzNzOGpHdUk4S1FyMWZ4cGstS2EzUWVhbjN0Wl9majZ1QzJMQzJHcl90anBvbUN0TEs4d3hYd1g0dFI4MnNYS0Z1S2VZdnVMRHZyRTNtLVBuZU1nOHRnTThCTFJ2LVVtczJXNmtTNA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4td1pjWEp2R1I1MmVKVi1rZy1pUXZvREFseG01QzV4SHJ1cTBuYzMzSlhlemkzRWg0MzVrYzQyYnlQdWM3b3BOU0tmeTJNZUlUNlBkMHYxZ0I0YlBpX2M0eU9nbV9nejhPcHpqeGpaZw?oc=5"
+    },
+    {
+      "title": "Temu與歐盟達和解 承諾改進營商行為",
+      "source": "信報網站",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTTFFNzQ1ZDNIUzB6QkpIcmNjS2VHQjZyMGpXQW92SWxWdGZ4eGZrc0EyY3Vib0wtYzNrcnFGdk4tY3Y0QzltRXZ6cGJYZ3VfcUo4RWVJYXpiTzhDclBXUk42VVVZZlktV0Rmcmc5NG5BaDNLN3I4QmlpNTZRTUpfUWk5Mkk2WEkwQndTUXg5RzVrMGU0WVJHbS1LRk9XcVZ2cC0wY3FreGsxakFBRDh3aHlHaDNPT1FaUXBHRk5xNi1lQ2NDVnZ2VGs0a3Q5YnNlZ0hKbmZJcGp2dHJZZC1YRGRMaDlSVUJHX1EtSm12TGRwQWZ2RVRsb2NmcmdpWG02MEtpaFBmYVBUOFNQUnlTWTVicFM?oc=5"
+    },
+    {
+      "title": "緬甸總統表明不會遵守國際法院在裁決中的不適當內容",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAybVc2VjhOa01TYm91aU9SS3VWSk1SbGMySVdVV0ZEeVIzYU53aVlkUkR1STJkZVZobHVEcWNrcnJiWTdlZDJNakRPb1RVRVp4aklpNUhuNGhub3ROR3pvbmowVm12Y0NPWXRuZi1aNA?oc=5"
+    },
+    {
+      "title": "特朗普稱要求普京撤回對歐洲所有軍事行動 促成迅速解決俄烏戰事",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XT2dvTlpCMG1rOFBDT3BsZXFQS040dEIycldtT2JETEQwN3ZFZ2pydkVibkVXclV1Z1l0RjZYaE5FdC1IeFpva1J3TG9oSnN5QVk2RHJfNk44QVJTOXBTTW9yOTRUaXlaUkpjWHdUbw?oc=5"
+    },
+    {
+      "title": "美國東岸受風暴吹襲 紐約市決定押後傳統感恩節巡遊活動",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XUzJkcWxRX0c0Q3VIVUl0LWF5QjQzWWFQLWR2OW5GWlJpb3hfSkNlWlZHWjdrUDlEcjVnZWc2TlBnb2gxbkxWSnp3X0pmZi1iYzUtRnRjSUQ1UEdkVGFaRkh6aC1tT1pDTWZ1NlJ0TQ?oc=5"
+    },
+    {
+      "title": "美國批准馬斯克旗下公司部署百萬衛星 搭建太空數據中心",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iMk9XV0l5VUJkblVjZFNuaFB2cDFjT3R0Z2YxMDdZUDFuQmtuTXYtcW9NZWFwQ21uRjJMc1hUcFFOaVZObnZndEZ2RS1FcDJFMHdzdlJrTE41LUpJOWNHSnA1TTdlUUd6U1BwMjhsQQ?oc=5"
     }
   ],
   "news_stock": [
