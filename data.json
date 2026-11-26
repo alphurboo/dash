@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-25 16:15:26",
+  "updated_at": "2026-11-25 22:55:53",
   "gas": {
     "current_label": "11月25日 (現行油價)",
-    "current_price": "144.9",
+    "current_price": "147.9",
     "predict_label": "11月26日 (明日預測)",
     "predict_price": "147.9",
-    "trend": "↑ 明日預測升 3.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
@@ -47,34 +47,34 @@
   ],
   "news_stock": [
     {
-      "title": "歐股收市下跌 金融和科技股向下",
+      "title": "美元回軟 美債息向下",
       "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUtGbDhCWFlFTVhSNl9rQ3BrMjFpYTYwNmFHSXcyMnZOaFhRQlRqSkNFY3B4dXBmVnRsc29UN3ZqZWdMbF9QSW1vcUtIdzFQdmotVWRJeXpEbTYxSy1mOWNXOXRaanNmcThKUzFfaThBNEJJRDFFcFhhZnNBSWVWazRrRlJfZ3c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01VTY5ZVRFRzNTTXQ1cjdzQlI4S1RfeTkwRl9YdWxLcUI0LVJjMEFlM2tMQTI1bFNYdk04MDR0M21HVG1JdDBjZFJhUXRzZU04SGl5UHdjdV9HY09fdVBBWXVMX2VYeHE4N3paemFwVQ?oc=5"
     },
     {
-      "title": "那斯達克100指數進入「先賣再說」模式 AI和加息之憂刺激拋售",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPVjNSZFV4bWZaNUY5YUxaVEtoZ2lRa21EUWxGM2g4a1JKdl9DbkY3R1FseU04YjlXWnNaMTRRSVMwdzVLdmRvLU8yeHVPNGx3S0xxaWp1ajVuYTQ0VDBZS2ZlbE1zYjlWWjZIZi1NZ1I4ejVsNXFSSzRiZ0hGdXoyNWFvZTR2QV93SzFJQ21ERVJwS3BnZlpkdkRhNW1JR3pObVA2X2t2eUxzc19hazVMUnctQm5jWmN6NmdKV1RpX3dMSmtKdmtfX1BIM0gyd2h5VnR5bXl0dlVvUjAzS1F3eGhMZ2hfdnJDbU41ZlFTelhBNzRTRTI1bFU5UF9LazBFUGpWVzE0cldQdUNmbVJRakVnXzh1Y1pwc2RLSTlYTTB2OHFxbXFoX1FhWERkT3g2cF9mNTEweVhiZ2p6ZkdLbDBORlh4amtlbUVDMDVMR3ZoT3hCaW1iOVBsMDVZd2VzU2ZNVW1KUS1ocVhBaDJqNHRwUXBoa1J2dnlwdQ?oc=5"
-    },
-    {
-      "title": "聯儲局褐皮書:美國整體物價溫和上漲",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQVk9qaHlOSkwtcUpjTGozYjN3WTc5Ui16OEJBMDZTS1o3b1ZmYXlSRm9US1FFOXVYRGhoVHRzbkRKMFlJVXROQm9ZbmpKNTZpakpxZHRET2E4Qm93Z0xZU21yUFBoRC1TbjhrZ003MC1GYXRKY3J2QzUtdTZHNE5DQkZvbnlBQ3ZYeWM2VHZKQ0s5YnZMY2dRV3Z5VUxXS3FRNGpCNjl6Ml95RHlvMmlHVm5NQ0ZUdnpmRUdTLXZkUWRvMHh3a1pZMDRJWm1reDl2YS1zSVZaS0ZrMHVsTTBDQjZnQ3J0b0hhc1dmeUtBSjZKdGpRaXJ1YldlWWduVTNQVWxvNUtzbkU5V2F6LURGZGlRNHlCSFdlWno1Z255QWVjM2l0aWtBMnRBSjFQZDM3YVhXdg?oc=5"
-    },
-    {
-      "title": "美股動向｜克雷默唱好應用材料，股價挫53%後估值吸引 | 即時新聞 - 新聞",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHFSN29xdUdPRVRDSE5qMmdNakNiYmZpUl9MRE5nLVdFWGc3QTZ0WG9qOThuMWQ5RTI0WlJXSWtiNHBrNG1saGNWOXVIVDNNd1NvZzZvbVY3U3JBelJwc0dfeVNGTkNRMU1YRnlkQmNjN2lxMVljeGduc2pkUHNPbnI0cDNrUjY1ZS1vYWxBWVNtUzhNdVNRSWFTeExKRkhq?oc=5"
-    },
-    {
-      "title": "美股｜道指收復千點失地 納指仍跌近2% Anthropic瀉9.8%後反彈",
+      "title": "黃仁勳風波｜英偉達遭標普列負面觀察！ 90日內恐被削級",
       "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPY2RZQnVYTXdPRF9PNTJMaWYzODNOakJfNF8xM1k4WlExWl9ZWlFlcGpqa2EzWFNpWUh1ZGpVLU1jMk9FakIzZW5Bcm9XQzRyODBOLXZJTFRSR0lxSFJHcmVoQjZXc2Ztcml5MVV6aEZ4YmRaQ1drS0xhLTd6SjYyZUQ0TGhLU0wxeG8wRW05UkNLWWpFZDFEcEtsX1FXYjZmZUdGTzNlWHVreFlFdEt0RW5XRXhON0VHNnZTZW5QeHB2eEFSeVhnN0I2aXptZjVpS2p0aTJpaDRsMlREc09KQ3l1RFJPXzN3MXRabGRSaVZVUFZMc0NvZ1RGLWpYelppbjd0TlV1ZEw4b19PSi1sVnZjSFp4Nzh1ZTFienZXOXJZQnpwUzZ0S0c0dWFMdTRyajRYMzFsU2RueklIVXY2Vlk5OGJPVXNqZG5LTlBaOHZiMjNPdlVNeGdlTTYxcWt4SHQ5RkU2Q1NsNlJGaG1JTA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPN0FaRkc0SjFqcmtmVF9BZklQM2ZyS2txYnY2aC1Tb2hORzF2emZOdXZfdUZuTG42LUxwNjljT1Y4LThLalQ0amw5ek5jWWxTVlJIV1VxeVlYNnFxLXdGVkZ0R05NZU9IdzdQa1BrLUNmUmtLcUxLYk1JVHNXVnRWS19hMGlpWTBNS0F1OHQ2dnlPRGk0eUFPVDNRblp0YVNRalg3MmhLdi1CREh4Wm5oRTNCY1BnaTdwQW1VVFNwZTVQWTlna05ZdEQ3TzVJMDZJTmlScTFXbGdfVG5rUEFNNy1nWlVUVkh4NURlMktlYXpfYXdjemg3dTBWR2YwSEN3aWNJUkZYZ1l0bHVDODI1WENibmhQQjFGVFlzQm5NR3lTcm8xTmpxMDlKU3gtRWFyMllGS0hYbk9LUjM3N28zS1czRldyYy1rWHF4bVJvcU1RMGVNOUZLUU93cng0LUFmc3FJTW1BU0JBVFItNDd0SWxneTZ6MGxrcU9fbFIyel9WRTQ?oc=5"
     },
     {
-      "title": "納斯達克指數和標普500指數收跌，但較盤中低點已大幅回升，因投資者逢低買入",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qbmEtMHhLN2RTTTRmbWhhX1ZjcjFFVmF4NE11VzBCMEhiMi1HNzBMT0p6MmJrRzZYcXpmR1IyVkdlbzRMZV9aak9TSjczU3NPOXZmSk85aDdlNW1LQnlCTXl2Q1JJV0NXdVpjSEFoeFMwa1lCM0VB?oc=5"
+      "title": "美股收盤／驚魂後拉回 那斯達克100指數一度跌入熊市 道瓊逆勢翻紅",
+      "source": "經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xM2djS0MxUEJGRDVBaWZ0R2lrR1d6Y2RFYnA4bzc5V3ZXWGhDYncwRFNTQmRubm00SHY4Z1JLaFNPT1RWb1l6YklmVlFrV0c0ZHZpdk51bTBVd1px0gFiQVVfeXFMTWJjazVHcVJmNmE3NXJ4MmpfQXRzcDlQV3pYc2Y0NTRwYl8tOHlfdHFmUDVMV3VGYlZHaEhIV2lYMURNZDU3aW9tYTdjNkhDcl9yemdGd1gtaWRZeDlDOXNhdVE?oc=5"
+    },
+    {
+      "title": "愛奇藝收納斯達克通知 股價連續30個交易日低於1美元 限明年5月前恢復合規|香港經濟日報",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUtNZjFtZk1qZW0tbjhDRzBvQUZvWWNDaGx2SklpQzRGWXF2SW5FamVNZldlNEtCX2JwUGVBTXNtbV9NZWRNTDZCbl9yNGlCeEgxbUV3WDl5WFllRFp5bzM4cGxwM3IyaEQ3bW5BNEw5ZlZHMHZRbk92bnVfbDkyNjVNNVFRTHg5TXhRY093?oc=5"
+    },
+    {
+      "title": "匯金天下(26/11/2026) 美國GDP及PCE數據強、美債息先跌後回穩，中東局勢再緊張、油價再升",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNWUpwbzRva01aV3picDBmQ1hTeV9IeTZmWk1pZnM1OVFXOVRqYzJuNGhIMV93WjFsR1pDRWpORHJ2TEZRbHFkTkVmV2dzUzUtWkJSODZ6U0ktRUszTy1rV2dJYkU5bVRWcm8zMFJCcTdpM0p5aGJHejBtYm80ZC0xTmUtRGp1a1JUMW5rSHVvbHRyTTNTS0VUdk1ibW1LM21ZUGFKc0RBQlNXWDZGTFFRZ056blh1ODVCWDl2eHRlSjNLdm83QzhSdUNhbXJ4WnI4NmNWancwUDFhNmJTNlRxMGRkVDJIUUtXVEtvSkpxd19pZmpqV0R2TlV6RzFxeGVDQVAwbndHUDh4aW9CYVJlVlB6UkhrbWZlaklZNHFTNTVKWmpfQmozbDV0bW9kbVptWTRwdmpBZVkwbGR3ZUtzU2RreDAtZEVIb3NBUWlHN0NraWNpc2FiTzI4RlBLZWdMVDZBcWs4Zw?oc=5"
+    },
+    {
+      "title": "美股三大指數收跌 納指跌2.5%、標普500跌1.5%",
+      "source": "觀點網",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DbGZnM01ReEhDQmZQZHVKNXdWU3FCaDdfQXFkM3J0NmZEVkVFa2dtcGdZaUpmaE1fYTZ2d3RabzJCbkVRcWlIUGg4RVg1RTh4eWl1a1RBeHhHNUtUaENzY3RDODU?oc=5"
     }
   ],
   "events": {
