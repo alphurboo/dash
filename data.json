@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-26 22:55:32",
+  "updated_at": "2026-11-27 07:15:24",
   "gas": {
-    "current_label": "11月26日 (現行油價)",
+    "current_label": "11月27日 (現行油價)",
     "current_price": "146.9",
-    "predict_label": "11月27日 (明日預測)",
-    "predict_price": "146.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月28日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "特朗普斥美國第三季GDP上修屬歷史性錯誤 要求立即展開調查",
-      "source": "AAstocks",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ydy1TTENjdjIzTk9ZRWdkR0VqbUpZaU52ekxZc3dYVGJHWElzSjZoa2p0dkh5cmJHWlYwME5qU0FvTk96emV0SGlWY3VDNTY3bDNtNzZ5eFB1azVmRGQ4ZVl6aW5PclA5OVFMcXBuSHM?oc=5"
-    },
-    {
-      "title": "風暴吹襲美國東岸 致逾83萬戶停電及航班延誤 (09:11) - 20261127 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQamt6cEJ5RHBldWJ0b3AzWmtlcGdXR3IwaHRpTmd1cEV4OTlfaEt2VXM4THVzMV9OVjY4cm52YXZlTWdLX3lJWGdIYm52ZjBiXzdSUWNrcDN0M2gwTm5CU2pkQkE3MFc1anZsbzF3S283amhhbkc0THdndWp5WUFsSmd1TFJNejJ0eEg4Zm9TU2hLNmZ3MndyQl85YjFucFNwcm1wRFlGRjRHMnZhMXpaOXhNQjdzVWt2MDVaMGJHUC1YVTQ4RDg3Zkp5S2NrekVTdG9uNEw0MS1vTTZSeEsyQ3RNTHlFSDNrLUZSbERERU1sZFpRU29tS1h4eGtLaXJ0QUVnaWxFSkdfYXFyTDdoUW56WGdldlEzeEJXbnlMQ0Q0elpsOTRnVmNsOFJpV2dLd09OcG1Pc0NZZDdJZ3hDRjVYZldOazc0bDJqeDhpbXFwQjEwWlQ2ZlRmbmpxMmJEekxhQVBRZUY3SlQzZ2ZlcU4wcmtOS00?oc=5"
-    },
-    {
-      "title": "美媒：物價高企、有人連火雞都吃不上，美國這個感恩節不好過",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hcndubnh2V1hiOVgzQjE4bU14TlBSUHRvUVQ3MFJvTUs2SWwtTEF3eWhrWnBqb1NiRWtpSXpIVWdXR3JvR1g0aV80T2RGNEU5cV9sSGFnbWcyZGwzSFJsLVh2dlJUTExWOGRORF9CUQ?oc=5"
-    },
-    {
-      "title": "美國第三季GDP大幅上修至4.3% 特朗普批選前經濟數據「造假」 促即時調查",
+      "title": "民航處長連任國際民航組織亞太區航空安全小組副主席",
       "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQOVUxRnA2OTMwOXBUejVQWWlDU0JwTWphT0liMEQ2WjV1WUdNSWF1ZGxhUG9GNENZZXJPdU8xTngtUHMwMVpINnBfZTJSZm03WUM2cXduT29TZnM4M202ZEhvVVdUVXMtSE00NExlR0VHYjRVQUpiQ2NjWEhZQU9MX0RJU21mbmsyT2VIMEdDcmd6MWFLRVlJN2dwemttVUljU2J3ZExMeVlrT1RHUWFTS213SFhXY2NWY3FpT3FWYXpvWHJOd0JFOF8wSkVRUUFwUlVEQlB6a1dkaXNycXJOUmhLdkM2M0szUWpqNnE4SkFKNWh5S3RrajJhZHlIUUFodV9OUGpoaFZCU3Bocm5ibnVHajJQTFVoREJhRElOTWhCb3VZMXR4bXNsb1VDemhUX0JBQXZrRzA1MW91SDZiZVNDSEFNLUNLSy04enBvOFV2VW5rNDZXb09TcGNkUGNhNjlSTlBad0hUbndfVlpCX2NoRmEzckhPa3BNUGM5ZWUzcU5hU0k5U0ZkMmVTRDRzN2xtUk5fTjh0d1hOX25JbmV5NlFub25ZWnluNQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPaGxZbnFqdHhBdHh5LUFSOGpLN3A1dU40OHQtQWJVQkNUYi1EMHU4UHU2ZENYY2l2dWFSTlBaaTNNZ043aExTNFR6MmtzLVB6TUsyTHN3enA5ODBzUVpiRWc3aS03SUgxTXFxRER0ZkN6QVFXbGlYbkhYaDBUc0k2VU90ZEJCb0hldmhPVWlWeTZPV2s5ZS10YldTd0VlVVB6RWZ2djUzeHNwMmswcktBY011OG8zWXdHY1lKeVBvUWZDRDJTdEJFYnhRZWdWM3BwX2pUYU1jN0tXcUZxM2lqX1BZQS1ZdVdGRWdHUWlYUmFscjdYcDdMWnZvNV9zanRMdWc1M0h4b3hfV29tMnZxVW4tVklQTWtxenNzbkF5Nm12VGpMZ05GRkdmMmV1SnowNWkwY2hZa0NqSDg3OFg1UlMwQm1QSE1WallfRUo2Vmgya3RXZmlmNTlPWlVTVE1RakxGMW80MS1LR1JFT2d4X3ZiWnhYQQ?oc=5"
     },
     {
-      "title": "克宮反駁美國與北約聲明 批烏克蘭圖將戰火擴至地中海及波羅的海",
+      "title": "特朗普淡化北京和莫斯科對德黑蘭的情報支持",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUmJLNUNZRXJnZHZYWVlaMVNUWmFPZWdzLXZKOGQxZ0JRLUJBVUFMRzlZTHA0TnlhdzdYQnBZalRqa0dDY3I3Q3B2YlRjSEtSaHBwUUJOYXcwd3pPZDM0endVcWZGMk5nUF81aWVoOE9IQ0Q3SXZyclM4cUFyMWVETHlQUkVld3laQ25tZU9ucHU3aEVrbV92SjhINWFkX3g4XzQ1RzU4Ni1IZldxS3BiRWw2YTlpdE9TTzQ2dVM3VWM0Wlctc1hlc05qVVp2NlJiN3FlWThtSzF1MjdNVEx1aUdsSVFLNGlGbGdkNXZOLVB6c00xZUJua3dfbDhWN0twaHdIbGl3a2dYMk5HSEVMaWhlTU1MVDVNeG12TmhxUmx0SlVpb0JRNzVvdDFnMzFQUURMZndpbzl0REJoZDRjQkhLQnlQZG5fQ0ZnTE5BQQ?oc=5"
+    },
+    {
+      "title": "中東緊張局勢威脅供應，WTI 原油徘徊於85.00美元附近",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGE0NjM0ZjMtbHJqNGt0S3pMSUtmUk9GM011Sk1mRjIwRVB6V19KR09aR09NYjZsQmd6aW5QS0tmQXhrRHB3dEtSS043TzM3STRzZVZ2LU9rMllGTWhOellHSXJ1WWZxR1dlWElqcG5JMVhqcWZUOVdtVTgtVFY5QXpWeVBaZVVDdHdhekRlbUxxSHVVOUJRRmUtSnB5ekQwMkhRd2o4a0d2cDRNU3pXSDVrU0JnR3pFVVJ1MDVtcG9hckEyQ0EyXzhXTmY?oc=5"
+    },
+    {
+      "title": "豐田汽車全球銷量連九月下滑 中國陷泥沼但北美逆勢強勁",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPT3lLNzltQ0xpR09nZlpEMVo3Vnh4Q1hpVzlqTXpLOWZrNkFJM043M0Jzb0h3d3dQSzFMeXpPZGN5b3VNWVNhdUViTjcyb0FZUEtuUEZSdTI4RFBzajh0d2dfYTBGX2dycHdJbndkek5vTW01Z25KLXZDS1NyV0xCNzFiMzJVTTFhT2xRZFpzMWtEb25MQkZEb1RkVXJuZTVzX0RjV1FlZVRGelpWc1NPVTk3OFJYRE5CaGU1Ujc2bTU0b1lENnpZQTRZaGlUYUdIb2pKZHhGVXg2VnpSMUhoNzhZMnJoZGw3cDloT2pCZXpvS2ZBTmV0c3JTUDM2OEFTUUJ3QVRZMVIzekQyS2JFSzVBRF9DeTY4X0ZOVGluRzlJZkIxRktEX2ZWZUNWbUZsN0xobXZRdjdvSjhlTUE3QXExQjdOc2I3c1V6cWZiWWNSNGhoaGpObjVpdVBKV05heC1FN0ZYUTNmNk1YU29YSHpLWDNVR1J6UEpYVXB6VGZRbUcyZVJLdUFNMA?oc=5"
+    },
+    {
+      "title": "小米(01810.HK)互聯網服務推全球商業品牌UMIADS",
       "source": "AAstocks",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2tsUnVCTWN2bnJLVTBjYkhjNEs4R3FlUmJrSUNzWmJ3eVZaWVVJM080aXNoa2JSTFp1R3hZTFBTZk1DTXhLQkkwbWw2Rjl6NXFBR1lIMVlSWlRpN0xKXzQ3aTZkRUlsNG56RWVHb0FnRUhldXZZbUhtWk1aTHJpVUlaRlNDams?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pYmtKaEtTVmNvZ25Ja3M4TWNmY2M2ZUMyaklUU194eGI5aTJkRGNxRGZuNjBVNkJPc2NJcGhHdlRBWmtBbHA3YlRvQ0Fzd09Mb21JNHZVN3UyVzdRRmlkNjAweWdReF9yU2w1X2NmbTQ?oc=5"
     },
     {
-      "title": "FIFA｜國際足協遭駭客攻擊 部分個人及商業資訊被盜",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPLS1zU0c5T190VG1aZzhibWZQMGR2UlVrWVBwS0ZCdEN5OERjbldkdllYXzJYRmh4dGdlWjd3N2hTODBPS0R2SEdIMGplOWJwdHBuTHV2WWFMbldCMjFIb2Z4aTAwN3BEclB5UC1nRnZHNVo2U1k1X3NHcEFrbzlnYkpKV25fZzlBMmRZSzlEZDZJc3hBMFh5WVFIOFpMUmNVVDJGUUlZU2N0aHc1VzUyUHhoWkpORFI5RkN5RHBKb0lIOHNsYm8wX0NFYkxoc3A4N3lEZFI2Tk5NRjYzRVNJYldfMDRUS2hJTC1rMjFrTW9NWF9zVUoxYlRhWWxzX0NJdWg5cXRXQ2RnbF9uS0NPT2ZXS01Sck5yeHpOT1JZRjlYVWFPS2F0TmEyODl0WDBUOTZIN0VjTldYUlJlRzVZU1VEMV9zWndlanBfeGhuQzFTeV9u?oc=5"
+      "title": "美國股市信心重燃",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXJsSHB6eUYyMzdJUnRUQnllVFdVQTJITmdUWUN1clZ1QS1jbGJvejF6bTBiN2RabGxCdTFtd2dOamZJSDhWcUdiUzhBSUFkNElfVjdSWjNBYUdYRXRCMm9oT18tLUs1a1BoZVdwLTlBZkp3b2cxanJSMXlrWGktel9wUnM?oc=5"
     },
     {
-      "title": "拼多多旗下Temu與歐盟達和解 承諾改進營商行為",
-      "source": "AAstocks",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ZWhtTVB1WDhUUW01WDFWQ0hjQ21ZRUt4OTM3aFowS0c3VGFiaF9pQk5ZUHdtWlowXzF0b1p2Y21zWjdpX3BJZmtaRVZDdGNLSjhyQUpreGlDRFQ4ZXYxVzZXMUM4QjBDejV0MktBX3U?oc=5"
+      "title": "全球經濟指標| 鉅亨網",
+      "source": "鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "機構：標普500指數有機會在2027年底升至1萬點，AI支出放緩擔憂過度",
-      "source": "AAstocks",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWlnQmN1WVhxanZKclg2aDcwOFFpUU5CM0tlVjZqY0xkT0t3Um9jR2p6eDMzU1RYN3dXWUU4bE9iUmdRZEEyYnMwZFJfQTdyLVRMcmlrZHloaHdpdno4RkNZMHZFMFg2MzVWcHJ0SUJGOVQxVkQ3VTlncjNfald1QzhTNU0zNm43MGc?oc=5"
-    },
-    {
-      "title": "黃仁勳．01觀點｜一人去留定美股生死 愈是狂歡愈令人心驚",
+      "title": "瑞銀料聯儲局加息兩次 港P息或按兵不動 樓價明年單位數升幅",
       "source": "香港01",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQLVF6cUNNRXctWi1xRTBYOFlzMlJQTXQ1MTNPRVdrcGFMX09KYVFsODJIMTh6enQtNVNRQ0FrRHVja2lENWd1aWRleUg0WkRjMWNGS0RnWU96VmNseFcwMHRDVGNUcGxZTzR2X0gyQWpSWFZYZGNvSHM1YXoxNjBtU2tXMmdKRGwxYUFuc19QeEVXa0ZJX0hGdHVUZmRaMDM3WTloQ0NoakRfOUwzdV94YzdKSTNlWXJab0lBdG01Ym52WXM4RXMtRXpxanV0WG15T3FWbDdkQVFBOXI5a0VON2t4dW9QTVh2YVFudWZXcGp2czIxUzZJTFI2R0pab2Q1TkxMQUl0QTlfMlVMS0lFaVpIaTUyb3FLUm1fWkdKcnJsQWJsZGExNU5pUDJNT2Y2RV9BUTBtRWcyYXpXZXg5VUVXa3VBQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxObDNDVHFCVU42eHZ0V085QVBSVEJWZ29fLUkyVGVsbU0wTzR1cTFnMzZHQVhIYmNlckNRYVBkMW1KUWZObGlHT0kwZzk1THdjZ3NYQ3l4MmtBUlhwVzVkVEJKRjhDUlJsdGRkYjJSbkU5Y2hpUVl3YXo5c1ZVc1JwMS1FcWdkd3J1TVBPYVJYX3ZJSDF4NTItU1lZWmtQUDRkU2hCSExMRnBHSUxkZDRmcXlXLXBpWHhvSEJRSmtVWm5nNDM2VTJUbmNBS1JtTkd2cUJZM0xvVzBKWktLTURVdkhEN09ZMEQ2QWJsOU5vdTFCSS1PNnRsUjluajhpS0FvQUVaWFFBbnZUa2dOQnRKWnFnTGVyOEUwTU1zQWJHVV9CcHlhTG1ZV3htT0VVcFVjZ25rZ0ZKMUZidGZ3RkFtcktKOS14TE05cmNwNlpUNXprZlVzc2JrMkZqZ282YWViRzd3MHlvMnBNM2FzMzVNOE93TTZjaTNLVDFBYmtvQlJEcXVaUm5kRGctNDd0dG4teVg1QnBwMzN3OU5uVnA3eGZWWDhkd2p6dWpueldKdWxoUQ?oc=5"
     },
     {
-      "title": "衍生財智(27/11/2026) 美科技股震盪，英偉達及Tesla最新部署",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOTDlLeXZzVVRjeTNpNl9td0FCaVBkdVhodTBfQkNfX0lLNFk0ZFJoWHRZTXJxT2t3UjRWclc0TF90UGlfR1YzY0hYNTI0RlJEZXdYamxvS3VCRDlkM3BzVTNldWhfd0VoMnByMzA5YWZJSXRDZkE5cTUyd3gtSWJQY0NZTGNlTDhoQ1JvRENsejY4XzNpSlNGSlUyMzlGT1NYVWZpTnhlbkstWmlNRlJqLUlsU29nbWx4OG1BT3I4NHk5NGFDVUpnaGJKa1lUSTZFNUdIeERqY0JRNHloc0p4TEI0OFJjU3ZaaHZ4Zm1LQ054RUlNR0tqbjd1Wko4SW84TFB0cFAxQ1czc2ZQQVBjV21oNDhscFNpY2xPSUpQaHdNRXlScGJ4Z3VDd0pkNUltSG0wSVk0bFg2RnBRLVo2MVk4ekx0UE5TQnE5WEZzZGJBNWpBQmJYWUczb2tJd2E4OVNxbURn?oc=5"
-    },
-    {
-      "title": "美股大跌 顯示美中切割傷害大｜C觀點",
-      "source": "TVB",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeUllMlNoMm9wZlhucFBPREJBYTB2UWRlWWthRGpJUDFVMXFDcXhlMjlURTlpWm5peWJuZ1hKSDRVeFM2V1BXVjU0LXVza3RldlFUMWctbXQ5X2tmWURRbDd5MGN5RnNjU0RHZjJRZWZLWURfV1NnRDg1UXZVLWFhMFJURXAyR0x3MVlhd3ZNSENGblZ4TnBOXzhGN01RMms1WE54VTMtd1YyNXh1SjBPUWVkazRRT0FaVzI5ZmIteF84T3dXYmUxSG5LaXFrbFpseWJ1QWpUblVSdTVCVnhmTVZjTG90dkpQYmtIdHZOQ0tRVjRWbnFNbXIxTm4?oc=5"
-    },
-    {
-      "title": "沙特吉贊省煉油廠遇襲部分營運暫停美股US Stocks Quote - 外圍新聞內容Golbal News Content",
+      "title": "美股異動丨拼多多盤前漲近3% 機構上調評級至跑贏大盤美股US Stocks Quote - 外圍新聞內容Golbal News Content",
       "source": "AAstocks",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWNiLUM1dnZpeGJ1VGExSVk3eVU1cWVBQVhwSTN3Q2VNNXFMeUxNSzVJVTFYT0M3elU2a25Wc2g3WVk5ZUFKS1pCMndfRHVGdExpYkR3bHh3d0w2Nk84UkN5aWRJeXlaYjhGeVBudUJuaVV1ZGd0NWlTZC1QclQycFVmMWYyYXRob2pF?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkVjRVRoTXBGYzk1MV9GMEtLSzJqMWMxWTl2b05YUDkzTWlEYllndFpJV0tBNUM5RlIyLVNuWnNRX3lVVXdkNk9YZTRWMjN2cjYybE8xaGZNWllVbHZMUzNpU2EwTEo0U3JYOEg4dlRHWGJCY3N2ZTg3SGxtT1I0R09meXJxVzViNFE?oc=5"
     },
     {
-      "title": "投資無疆界(27/11/2026) 美股感恩節假期休市，歐洲股市造好",
-      "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOMmtDeW5RWi1pRHZFU28xajhWYTBMNzE3d29pVGlmVzN5Ti1RelhIZ0NqdFZsVF9oY25OLUUzdnpiTWZNR0ZsOWVIWGtUWThmdTA4YTdVWmF3Y19XT21oZXJyNXJRZ3R4TjQzbHZ1ZnlhMWFFR1BrLVo3N0NfVzA1cXd6TEdiOHd6S25yZVJHenYwNTc0S19DUWNJb0t2TlF2eFBVek90cnNCemJJSlBmazdsS3l2UWxzTERhdUt6aGpDTDFDZVdNaHBaVTNzajJCTUFtbElKSE44LVZiV1pnd1VKVzA1dy1JYkc4UlhoOTlmZTViUzVMSzd5Z1NwMmZMQVF4VHpsOGFnY2d0TGpRTlEwTlhYTWVzQVFXb3BfTUtLUTRaX29fRW1MWk9pVjBwQ01SMk5lS3d4U2Y2TDB2QVBxRTlvaXFteVNKVHVaYUlWSEtrQktSM3hsdUswSk9IVWcyYmxkay03UXc?oc=5"
+      "title": "美股夜盤AI鏈全線狂飆！三倍做多半導體ETF暴升超17%，閃迪升超10%，美光、邁威爾升超7%",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04ZjRkSmFONWItcUJvMlo1UnJzQmZ2X3VqMkx6X2hHdm9IYkxQa1VKdFdScDB0elNaejlIMTZYOFZINzBTT3diQ1Znek1nQXE3QXpQNzRzT1VLdmdBYkVsX0VvSWtYWkVhV3c?oc=5"
+    },
+    {
+      "title": "【美股盤前1125】費半重挫？新一輪關稅措施再來？｜豐雲學堂 2026 年 11 月",
+      "source": "永豐金證券",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNM1BBVmJNVU4tc1hudy1uOUpUNFhCTWc2c19qamc5a1JBdlg0WTRRd29wUFBUNVZ1aG1qNWQ3bWlFc29qTDBhWUJ4VmFhNC1WemZTdm1vWE4yc3pCVFo5T1hpdFV4NkhTdVA4OFpSdEVhSTJxUHJydzlwOVdxOUdOTFBVNVNkd3BJdGl1UWthQTJTVVpncDdmUHlBemlSVHdGaGx2Nk8yVUl4RnlIZXJvWURYcVpOV3VobzNyRUEwVDJicl9kbDVQSlg1R1BhR21JOWx4VHh2MnF4SFpGUnpmZW9TRklFbGlacWRmbGpNTVZkTnZhMGJjMG1YOWFNdTdiWl9Qa2p3aTc3TWVxM1l4TjRXMU5hVDRCZmNnZWxianBsVDJnNTVkbVF2WkV6ZXFLd1lDeS1kNGMxM1M4WEZLdGc1TVRta2pDWGoxTDNPTnoxM2VxcWxMeTRSdw?oc=5"
+    },
+    {
+      "title": "美股異動｜Sap盤前漲超1%，據報擬裁減至少1萬個崗位美股US Stocks Quote - 外圍新聞內容Golbal News Content",
+      "source": "AAstocks",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcHItOXROVFRUWE5wZVZHUGpZVFQ5X2N5Z2NoRWRJdmszTFAwWEhaTjBDYS1MV29UV2Z6Q1VLbF9Gejk2TkhJZWNXeUFJeVI5dFhFcHVtSjFzc2d5anJmXy1YbWE0R2FyU0F5WFlCR2lXdjByU1NtTUdUdmZuT3lfODRrQTlFQzY3a3c?oc=5"
+    },
+    {
+      "title": "納斯達克期貨飆升，投資者紛紛回流重挫的人工智能股",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xRlNEUmtIM3hpNWlZOGhrZjhrQW56ck9WNERrVlNmMWtZNzU3MUtVVXdOazN4QnF5UXkzTXh3Rm9RRXlidzh6eTl1WFJZdzNyNU9OS1k3NlBWckI0V2tscEJyeGVLTlR0Z1JNdk1rVy1xVEFSSzVN?oc=5"
     }
   ],
   "events": {
