@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-26 16:15:24",
+  "updated_at": "2026-11-26 22:55:32",
   "gas": {
     "current_label": "11月26日 (現行油價)",
-    "current_price": "147.9",
+    "current_price": "146.9",
     "predict_label": "11月27日 (明日預測)",
     "predict_price": "146.9",
-    "trend": "↓ 明日預測跌 1.0 ¢",
-    "trend_class": "gas-down"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "要聞分析 - 感恩節之際特朗普敦促普京停戰 歐盟啟動第22輪對俄制裁",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOMGRpTlpsUzFibk5CN2UweEpXamxoa0dHdXI1QUhjbl8yZk9zeUJkQlE0a1RnQ3ZZQWxYYm05UHpjYVhrMk5XQXRHbHRLX3U5YkdVeGExVXZFZlN5M2hOOUpLd2hiQ2N6QldkTEo5NXBwQXF1RWg4QXlRSm9tRGJwaUt3Ny0xbDJ5azE2U1cyeEp0d1o4NHpSck1oaXdjOGx1ZkJqdVdRUVZfSG45bGtKMEpzUFBBT2V6RFppWFRLSGU5QWwwTWVHbG1JWkxyaGNyalRlUVdEWC1uek5PWDM4b3k2MUVHelRlR1lYdENsVWxRQU5DWEtFTFRGSko4cjFHZm5FVnJRYjdmV2ZfYm5kWFpiWVowdnczcWZGa3gtUDhyQ184VkNVRFlwMHJUZEhXRkF1ZVU2YWRvRWRHdGd6YWZaVFp6VjJqM2VlY0VJNlo0R0Jpb2k0Ui1BQ1F1Y3lOQWJjSV9uWjZMQm5yNlhzaWVkOU92NTY0QTI4TF9jNUtTdEZMNmJvWEQ1MHIxa1RsYXQ0Rl9Ga0JXMFE3TFhwaVllVWdFUVBzeThGeTE2RDJCRVRHNFFrZ3dpUlRndjNLa09CTzBWOE5lMHFl?oc=5"
+      "title": "特朗普斥美國第三季GDP上修屬歷史性錯誤 要求立即展開調查",
+      "source": "AAstocks",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ydy1TTENjdjIzTk9ZRWdkR0VqbUpZaU52ekxZc3dYVGJHWElzSjZoa2p0dkh5cmJHWlYwME5qU0FvTk96emV0SGlWY3VDNTY3bDNtNzZ5eFB1azVmRGQ4ZVl6aW5PclA5OVFMcXBuSHM?oc=5"
     },
     {
-      "title": "美國東西兩岸受風暴吹襲逾75萬人停電 過千航班延誤或取消",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4td1pjWEp2R1I1MmVKVi1rZy1pUXZvREFseG01QzV4SHJ1cTBuYzMzSlhlemkzRWg0MzVrYzQyYnlQdWM3b3BOU0tmeTJNZUlUNlBkMHYxZ0I0YlBpX2M0eU9nbV9nejhPcHpqeGpaZw?oc=5"
+      "title": "風暴吹襲美國東岸 致逾83萬戶停電及航班延誤 (09:11) - 20261127 - 國際",
+      "source": "明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQamt6cEJ5RHBldWJ0b3AzWmtlcGdXR3IwaHRpTmd1cEV4OTlfaEt2VXM4THVzMV9OVjY4cm52YXZlTWdLX3lJWGdIYm52ZjBiXzdSUWNrcDN0M2gwTm5CU2pkQkE3MFc1anZsbzF3S283amhhbkc0THdndWp5WUFsSmd1TFJNejJ0eEg4Zm9TU2hLNmZ3MndyQl85YjFucFNwcm1wRFlGRjRHMnZhMXpaOXhNQjdzVWt2MDVaMGJHUC1YVTQ4RDg3Zkp5S2NrekVTdG9uNEw0MS1vTTZSeEsyQ3RNTHlFSDNrLUZSbERERU1sZFpRU29tS1h4eGtLaXJ0QUVnaWxFSkdfYXFyTDdoUW56WGdldlEzeEJXbnlMQ0Q0elpsOTRnVmNsOFJpV2dLd09OcG1Pc0NZZDdJZ3hDRjVYZldOazc0bDJqeDhpbXFwQjEwWlQ2ZlRmbmpxMmJEekxhQVBRZUY3SlQzZ2ZlcU4wcmtOS00?oc=5"
     },
     {
-      "title": "Temu與歐盟達和解 承諾改進營商行為",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTTFFNzQ1ZDNIUzB6QkpIcmNjS2VHQjZyMGpXQW92SWxWdGZ4eGZrc0EyY3Vib0wtYzNrcnFGdk4tY3Y0QzltRXZ6cGJYZ3VfcUo4RWVJYXpiTzhDclBXUk42VVVZZlktV0Rmcmc5NG5BaDNLN3I4QmlpNTZRTUpfUWk5Mkk2WEkwQndTUXg5RzVrMGU0WVJHbS1LRk9XcVZ2cC0wY3FreGsxakFBRDh3aHlHaDNPT1FaUXBHRk5xNi1lQ2NDVnZ2VGs0a3Q5YnNlZ0hKbmZJcGp2dHJZZC1YRGRMaDlSVUJHX1EtSm12TGRwQWZ2RVRsb2NmcmdpWG02MEtpaFBmYVBUOFNQUnlTWTVicFM?oc=5"
+      "title": "美媒：物價高企、有人連火雞都吃不上，美國這個感恩節不好過",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hcndubnh2V1hiOVgzQjE4bU14TlBSUHRvUVQ3MFJvTUs2SWwtTEF3eWhrWnBqb1NiRWtpSXpIVWdXR3JvR1g0aV80T2RGNEU5cV9sSGFnbWcyZGwzSFJsLVh2dlJUTExWOGRORF9CUQ?oc=5"
     },
     {
-      "title": "緬甸總統表明不會遵守國際法院在裁決中的不適當內容",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAybVc2VjhOa01TYm91aU9SS3VWSk1SbGMySVdVV0ZEeVIzYU53aVlkUkR1STJkZVZobHVEcWNrcnJiWTdlZDJNakRPb1RVRVp4aklpNUhuNGhub3ROR3pvbmowVm12Y0NPWXRuZi1aNA?oc=5"
+      "title": "美國第三季GDP大幅上修至4.3% 特朗普批選前經濟數據「造假」 促即時調查",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQOVUxRnA2OTMwOXBUejVQWWlDU0JwTWphT0liMEQ2WjV1WUdNSWF1ZGxhUG9GNENZZXJPdU8xTngtUHMwMVpINnBfZTJSZm03WUM2cXduT29TZnM4M202ZEhvVVdUVXMtSE00NExlR0VHYjRVQUpiQ2NjWEhZQU9MX0RJU21mbmsyT2VIMEdDcmd6MWFLRVlJN2dwemttVUljU2J3ZExMeVlrT1RHUWFTS213SFhXY2NWY3FpT3FWYXpvWHJOd0JFOF8wSkVRUUFwUlVEQlB6a1dkaXNycXJOUmhLdkM2M0szUWpqNnE4SkFKNWh5S3RrajJhZHlIUUFodV9OUGpoaFZCU3Bocm5ibnVHajJQTFVoREJhRElOTWhCb3VZMXR4bXNsb1VDemhUX0JBQXZrRzA1MW91SDZiZVNDSEFNLUNLSy04enBvOFV2VW5rNDZXb09TcGNkUGNhNjlSTlBad0hUbndfVlpCX2NoRmEzckhPa3BNUGM5ZWUzcU5hU0k5U0ZkMmVTRDRzN2xtUk5fTjh0d1hOX25JbmV5NlFub25ZWnluNQ?oc=5"
     },
     {
-      "title": "特朗普稱要求普京撤回對歐洲所有軍事行動 促成迅速解決俄烏戰事",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XT2dvTlpCMG1rOFBDT3BsZXFQS040dEIycldtT2JETEQwN3ZFZ2pydkVibkVXclV1Z1l0RjZYaE5FdC1IeFpva1J3TG9oSnN5QVk2RHJfNk44QVJTOXBTTW9yOTRUaXlaUkpjWHdUbw?oc=5"
+      "title": "克宮反駁美國與北約聲明 批烏克蘭圖將戰火擴至地中海及波羅的海",
+      "source": "AAstocks",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2tsUnVCTWN2bnJLVTBjYkhjNEs4R3FlUmJrSUNzWmJ3eVZaWVVJM080aXNoa2JSTFp1R3hZTFBTZk1DTXhLQkkwbWw2Rjl6NXFBR1lIMVlSWlRpN0xKXzQ3aTZkRUlsNG56RWVHb0FnRUhldXZZbUhtWk1aTHJpVUlaRlNDams?oc=5"
     },
     {
-      "title": "美國東岸受風暴吹襲 紐約市決定押後傳統感恩節巡遊活動",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XUzJkcWxRX0c0Q3VIVUl0LWF5QjQzWWFQLWR2OW5GWlJpb3hfSkNlWlZHWjdrUDlEcjVnZWc2TlBnb2gxbkxWSnp3X0pmZi1iYzUtRnRjSUQ1UEdkVGFaRkh6aC1tT1pDTWZ1NlJ0TQ?oc=5"
+      "title": "FIFA｜國際足協遭駭客攻擊 部分個人及商業資訊被盜",
+      "source": "星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPLS1zU0c5T190VG1aZzhibWZQMGR2UlVrWVBwS0ZCdEN5OERjbldkdllYXzJYRmh4dGdlWjd3N2hTODBPS0R2SEdIMGplOWJwdHBuTHV2WWFMbldCMjFIb2Z4aTAwN3BEclB5UC1nRnZHNVo2U1k1X3NHcEFrbzlnYkpKV25fZzlBMmRZSzlEZDZJc3hBMFh5WVFIOFpMUmNVVDJGUUlZU2N0aHc1VzUyUHhoWkpORFI5RkN5RHBKb0lIOHNsYm8wX0NFYkxoc3A4N3lEZFI2Tk5NRjYzRVNJYldfMDRUS2hJTC1rMjFrTW9NWF9zVUoxYlRhWWxzX0NJdWg5cXRXQ2RnbF9uS0NPT2ZXS01Sck5yeHpOT1JZRjlYVWFPS2F0TmEyODl0WDBUOTZIN0VjTldYUlJlRzVZU1VEMV9zWndlanBfeGhuQzFTeV9u?oc=5"
     },
     {
-      "title": "美國批准馬斯克旗下公司部署百萬衛星 搭建太空數據中心",
-      "source": "RTHK News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iMk9XV0l5VUJkblVjZFNuaFB2cDFjT3R0Z2YxMDdZUDFuQmtuTXYtcW9NZWFwQ21uRjJMc1hUcFFOaVZObnZndEZ2RS1FcDJFMHdzdlJrTE41LUpJOWNHSnA1TTdlUUd6U1BwMjhsQQ?oc=5"
+      "title": "拼多多旗下Temu與歐盟達和解 承諾改進營商行為",
+      "source": "AAstocks",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ZWhtTVB1WDhUUW01WDFWQ0hjQ21ZRUt4OTM3aFowS0c3VGFiaF9pQk5ZUHdtWlowXzF0b1p2Y21zWjdpX3BJZmtaRVZDdGNLSjhyQUpreGlDRFQ4ZXYxVzZXMUM4QjBDejV0MktBX3U?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "機構：美聯儲降息救不了美股美股US Stocks Quote - 外圍新聞內容Golbal News Content",
-      "source": "AAStock",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVY5R3pzY1pTMHdZVjVsZkJQa1psUDk3dUZEZFNqMXhsNDJfdTJHT0VqLVk2dFVuY1BTSVRoeTdpZ1lFNHRaRFlnbXFGS0VsUHJHVEpQLW5RcWFCaktpdHAtakNNb2lMY01IYTNWdnRfOWZYQmVmZldhSFpBaXoweGR2Qk9zN3pCU2c?oc=5"
+      "title": "機構：標普500指數有機會在2027年底升至1萬點，AI支出放緩擔憂過度",
+      "source": "AAstocks",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWlnQmN1WVhxanZKclg2aDcwOFFpUU5CM0tlVjZqY0xkT0t3Um9jR2p6eDMzU1RYN3dXWUU4bE9iUmdRZEEyYnMwZFJfQTdyLVRMcmlrZHloaHdpdno4RkNZMHZFMFg2MzVWcHJ0SUJGOVQxVkQ3VTlncjNfald1QzhTNU0zNm43MGc?oc=5"
     },
     {
-      "title": "策略師樂觀看待美股後市 標普2027年底上攻1萬點",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNcm9aSWFoWGI5UEJmdW9MdFJZT28yNTM2OE1MVUVsYS01Qndncm1nWUZxWTdkZC1uS2h3Rk5RRVREODlyZXhldm5oNGU1RUNndFNwLWQtVC1zR1ltYnZQUzNkUHdtYVBGak5ZSFNydGtKR29QMEdIbUpDWFRqc21HN3NySklsb0J6UGNFYVJLYm9ITzY3ZTNzV2pBNUlERUpjM1NjaWNpYmpGdUdFdW9GcmhUSE9Ja3NnOGJrX3JzTHFCNHRPVGxKZGstWVgwdTZLRXpQeE1KUmRiOW05S1lRMVJFNk5MTXBYTlAwdVdQVG0tTjktOFJ5b3pWSVZhUENuZXNYeU5Rb1gwdm5DNXRvVkpsLXNzZlhwUmtZSXBxaHdrbDE3YVVuMURYbVdfVW9NZUk0RmZuZml0VzZlY2NCOHBhZ05zNTRaeVE?oc=5"
+      "title": "黃仁勳．01觀點｜一人去留定美股生死 愈是狂歡愈令人心驚",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQLVF6cUNNRXctWi1xRTBYOFlzMlJQTXQ1MTNPRVdrcGFMX09KYVFsODJIMTh6enQtNVNRQ0FrRHVja2lENWd1aWRleUg0WkRjMWNGS0RnWU96VmNseFcwMHRDVGNUcGxZTzR2X0gyQWpSWFZYZGNvSHM1YXoxNjBtU2tXMmdKRGwxYUFuc19QeEVXa0ZJX0hGdHVUZmRaMDM3WTloQ0NoakRfOUwzdV94YzdKSTNlWXJab0lBdG01Ym52WXM4RXMtRXpxanV0WG15T3FWbDdkQVFBOXI5a0VON2t4dW9QTVh2YVFudWZXcGp2czIxUzZJTFI2R0pab2Q1TkxMQUl0QTlfMlVMS0lFaVpIaTUyb3FLUm1fWkdKcnJsQWJsZGExNU5pUDJNT2Y2RV9BUTBtRWcyYXpXZXg5VUVXa3VBQQ?oc=5"
     },
     {
-      "title": "標普500指數：波動性拋售與輪動交易——德意志銀行",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUhacTQ3dnJqMGJVVl9YVmhnZWJ1VVJOZE9LXzdnVVRjRV9PRDR4T1pDenZrcDFTREprWHk4Nm4yQURwSlFKV3dVSU56WDRMX0xoeFhLOUdYamc3cGhNWGlLUnFxUDlIRFd6enRId0RWdWVoeklnS09uNWVKd3lfczJudDhxaktaZjJVX2UyNkxJRENzbjdWVXpDRi1lWnFFNlIzMU5kS1dIVy15VXdhSlpYR2NBU1ZjTGJuRHlB?oc=5"
+      "title": "衍生財智(27/11/2026) 美科技股震盪，英偉達及Tesla最新部署",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOTDlLeXZzVVRjeTNpNl9td0FCaVBkdVhodTBfQkNfX0lLNFk0ZFJoWHRZTXJxT2t3UjRWclc0TF90UGlfR1YzY0hYNTI0RlJEZXdYamxvS3VCRDlkM3BzVTNldWhfd0VoMnByMzA5YWZJSXRDZkE5cTUyd3gtSWJQY0NZTGNlTDhoQ1JvRENsejY4XzNpSlNGSlUyMzlGT1NYVWZpTnhlbkstWmlNRlJqLUlsU29nbWx4OG1BT3I4NHk5NGFDVUpnaGJKa1lUSTZFNUdIeERqY0JRNHloc0p4TEI0OFJjU3ZaaHZ4Zm1LQ054RUlNR0tqbjd1Wko4SW84TFB0cFAxQ1czc2ZQQVBjV21oNDhscFNpY2xPSUpQaHdNRXlScGJ4Z3VDd0pkNUltSG0wSVk0bFg2RnBRLVo2MVk4ekx0UE5TQnE5WEZzZGJBNWpBQmJYWUczb2tJd2E4OVNxbURn?oc=5"
     },
     {
-      "title": "美國感恩節假期美股美債休市一日 期貨合約交易提前結束",
-      "source": "觀點網",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aZ25LbHpDTnBHWEJFc1MyT1NzazZTcWJOZUVWQTd2VmlzMEd3WVJBNUhVLUdCM3dnQ2RfbndncS1FUm4yX0lYSHQyQUkyWnhxc1ZsWFZOWVVSNDRmdUplM0dlWUs?oc=5"
+      "title": "美股大跌 顯示美中切割傷害大｜C觀點",
+      "source": "TVB",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeUllMlNoMm9wZlhucFBPREJBYTB2UWRlWWthRGpJUDFVMXFDcXhlMjlURTlpWm5peWJuZ1hKSDRVeFM2V1BXVjU0LXVza3RldlFUMWctbXQ5X2tmWURRbDd5MGN5RnNjU0RHZjJRZWZLWURfV1NnRDg1UXZVLWFhMFJURXAyR0x3MVlhd3ZNSENGblZ4TnBOXzhGN01RMms1WE54VTMtd1YyNXh1SjBPUWVkazRRT0FaVzI5ZmIteF84T3dXYmUxSG5LaXFrbFpseWJ1QWpUblVSdTVCVnhmTVZjTG90dkpQYmtIdHZOQ0tRVjRWbnFNbXIxTm4?oc=5"
     },
     {
-      "title": "邁威爾較高點回落60% 華爾街分析師接連大砍目標價",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9veHBDcFBrVGc5eFl1bVRYTFp2QWVscVdfNG9nUklOMXkxTTJtWUt1UmowZ1dTWUEzUWtfd2hwRktLX0FfblFCYmNVeFNxWEdPZnlFYlJQSmdyWExrMWhycjFFN04yQm1YekE?oc=5"
+      "title": "沙特吉贊省煉油廠遇襲部分營運暫停美股US Stocks Quote - 外圍新聞內容Golbal News Content",
+      "source": "AAstocks",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWNiLUM1dnZpeGJ1VGExSVk3eVU1cWVBQVhwSTN3Q2VNNXFMeUxNSzVJVTFYT0M3elU2a25Wc2g3WVk5ZUFKS1pCMndfRHVGdExpYkR3bHh3d0w2Nk84UkN5aWRJeXlaYjhGeVBudUJuaVV1ZGd0NWlTZC1QclQycFVmMWYyYXRob2pF?oc=5"
     },
     {
-      "title": "道瓊從跌 1,100 點到翻紅，美股為什麼先跌後彈？",
-      "source": "口袋證券",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Q1Q1ZmkyU0c0Ym5EM01faE4tYTI5WldCYjM0ZGN1TFBCcGdLeG5YaEhGQ1ZuYWdaLThkQ2JRUnpzTWZmLWVkNm0yNUkwUVFWVGdYT2tfNmdXU3dGOGFZZ0pvSFJHdw?oc=5"
+      "title": "投資無疆界(27/11/2026) 美股感恩節假期休市，歐洲股市造好",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOMmtDeW5RWi1pRHZFU28xajhWYTBMNzE3d29pVGlmVzN5Ti1RelhIZ0NqdFZsVF9oY25OLUUzdnpiTWZNR0ZsOWVIWGtUWThmdTA4YTdVWmF3Y19XT21oZXJyNXJRZ3R4TjQzbHZ1ZnlhMWFFR1BrLVo3N0NfVzA1cXd6TEdiOHd6S25yZVJHenYwNTc0S19DUWNJb0t2TlF2eFBVek90cnNCemJJSlBmazdsS3l2UWxzTERhdUt6aGpDTDFDZVdNaHBaVTNzajJCTUFtbElKSE44LVZiV1pnd1VKVzA1dy1JYkc4UlhoOTlmZTViUzVMSzd5Z1NwMmZMQVF4VHpsOGFnY2d0TGpRTlEwTlhYTWVzQVFXb3BfTUtLUTRaX29fRW1MWk9pVjBwQ01SMk5lS3d4U2Y2TDB2QVBxRTlvaXFteVNKVHVaYUlWSEtrQktSM3hsdUswSk9IVWcyYmxkay03UXc?oc=5"
     }
   ],
   "events": {
