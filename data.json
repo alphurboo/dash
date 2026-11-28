@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-27 22:42:16",
+  "updated_at": "2026-11-28 07:15:27",
   "gas": {
-    "current_label": "11月27日 (現行油價)",
+    "current_label": "11月28日 (現行油價)",
     "current_price": "147.9",
-    "predict_label": "11月28日 (明日預測)",
-    "predict_price": "147.9",
-    "trend": "→ 油價平穩",
+    "predict_label": "11月29日 (明日預測)",
+    "predict_price": "--",
+    "trend": "⏳ 明日預測待公佈",
     "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "廉署成功連任國際反貪局聯合會主席 廉政專員胡英明：持續牽頭推進國際反貪合作",
-      "source": "紫荊雜誌",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzVGMlJRT1pGdkhVY3dSdERTR3BlcmwwRlE3SkdiTXdLSWJ4N1Jzdk5tczdkRWpxRGFvUWNwd0dZdGI4SmV2bWJLeURvWHZIUF9RWE5rTUpVOTBVYzFiZUhzYWUwV1ByOTNpQWxycWRiWlBBMnBVRndKX3ZGa185SXROVVZCTWhFbFFVc3JJOWo?oc=5"
-    },
-    {
-      "title": "C-beauty出海提速：中式美学撬动全球美妆新格局",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZOVdSOWljUDkzM29ueGd0M2l0TmFGaHJsZUZSU0o0TU5UdU1rZFdscExiY1JsN3ZxeUxKVUNGY1VVcU1kbDVQdHFLa2hoWnZUX043a0tNUXozUHFDZ1l0X1Y1SWlHcVNsS3R4NnBqRQ?oc=5"
-    },
-    {
-      "title": "【亞洲動向】東南亞半導體產業 發展宏圖遇「黃仁勳衝擊」 - 20261128 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPMEFjOGxNVnRIY21FQTNaekhEcGJZN2lSVVZka3d2Y3BuVmR3YXBtSHZod0tMTUt2dkZUZVNaRnNNbkFFSk5yQzVBTVprYmdVa1FVM0pjZGdzZExuY3VXaHowVkY4Z1gtb1U2Q0ItLXdRYXNFSFduUnZ5MmlQOUc0QW5zM0tiWE4ySUwyX0ZJanpWZ1lsY1RaMThuTHdRbTl5ejExUmRGTVp1VzVXUC15TDJhc1JpZVgtVndjNWFTakZTLUgtVVVVNDllRE5nRDB3THU4ZVRmUXowOGVST3J2Zkxra3dJbUhidjhKSU4yc0dLZnkxN1l1bVYwZjZVVFhaaVhzUnZfUzdQZVl3d0VFTktsN2RjVk0ycEQzYm13TjJlNm5CUlBHNWlFSFprcHItUDBncWM0ODFpNXB1VFJrZjdKM0JCWmdKMXhuM0FvVFZOak5SbElsVVNEamZZXzR6RUtpRUh4a3VtNEd0UWYwWWhnM2ZkOWhmLXpxRklWcUh6SXh3XzJPb085Xy1fbkVLZ1VuRjU2ZXkyeDlMZF9lZTF4bFhmQ2JwWldiNlJuQno4YmpHaE9tckh6anEtcUp2Vzc5VGUxSlo?oc=5"
-    },
-    {
-      "title": "AI｜美國禁供英偉達晶片 封殺海外數據中心涉華業務",
-      "source": "am730",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPMzdPNjNhejdWOTlmNldRUHNSRTBTWXNPLV9LNTJTSTlWQnJsRG5abVpRVzVtWlNMcmt6U0kzbDVqN1JSTDBwUmRXQUVHVDBSaDdrUk01S00wdzgtdEhWakd2TkIyRTNtb3NoT2V0a2ZkanphUGhSSWE0Z2ZCcHBSQ0RMQTBRazZSV2NQeTk5Wk9zM1VKSF9vNUU4enlla1ppX0xrMklCN1g5QW9qWWxLekZUbTB4eFN1T09BMVRhYW1SazI4elF5d0JPRjdKaDlJamJEVHRvdjgyYWVaQWpXTDRIelZ3cW1QdnplWGRBTTlVZ05QTEtDS1pZTUhNNGc0Y0JBUUZCOWwwYjZyVkdOWFMzS2pMQ25ydGx0STJucjBqSjRiMmpXT0R2T0liTk83U2N2amNsanJWRC1WVG9TdUtDcGQ4LU1fRzlkTGFYVXVWRWFXUWRMd21DWjdERkgxSkxn?oc=5"
-    },
-    {
-      "title": "許正宇：各地金融企業有意來港發展 體現全球經濟一體化",
+      "title": "世界盃男籃資格賽 美國作客88比92不敵巴西",
       "source": "i-CABLE",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNYWRsQVlzZTJmWU4xRUlLVnhnV0IzMkZGczZYT1ktenNOZGVHdEFzbDVFSC0yaEszekdZdlhjLUNyVEJzT2xKRGFmRndRXzN6NGtoR21uWVRmdDlUalpyeXNSQldaNU94U3ljMzF0c3dBdElCYkNfS2VQdFdrNFYxNHo5NTlhNWZDOURralBIbW01YWZhZXVqeGFtdURyR28xTjVGLXRKT011MkptdUNfR09wa1pUUWNDcFdpUjR3SFJrWkdxSHpzSDloVkNSVXB4VTZxRVBKMWhnQUNuUTh1S3cwRTRMenFfbTRlanljSGRSQXlJcEJBUFpTZVRQd1JGV0dIZWVTRVN1RVoxRGdMMVBPLXJRbGpBY0l5WXBqR0hsVTBYeWtCOEYxN0J3NkJlZks3czdiZC1qN0h1eHhQQS1kRDYtcXJGSUNuUE45Y181WDVHUk9JLU9vOVdOSFRvWG01dGRMMFdfUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOa25iTGpRR2tjdEhreHU0Wk5mWC02c3NoNXo1c09rUnp3RkY2U1l3TF9IcGppUUdzaTgtNHhvQXdjdGdoNXAwZHRrR0ZBZlhhcFBHQi1Oell4VTh3dWdvOTNZWGpoTFcwUkZiZ08tbUg1UV9zUmM5VERiaUFhMUNscUY0aFhFc05FVnV0Qjg4RmVBS1lRLThoM25yS1ZMWFJIcG9VMm9naHVnM1FrQUxodjM4VG9LSlFiOW1sdjRRVGs5eXNRcmVfNmZVOHVqTmdtQWhaZElTRFhCem5oVWNiV3g5bEFzNjZ3Z1ducDlINGwwdWxfMml0SDl5LTdGQnNUNG9xOXFHcEVzUXdLTTBLbWczZ2E1c3pEMlQ1dHM5R1pISm85T1Vsa1BRVVBLdEdETFZHeGhhNWszMTBfUzZFZjVNdzBsRTNJdFE?oc=5"
     },
     {
-      "title": "美國東岸惡劣天氣開始緩和 但仍有大量航班延誤或取消",
+      "title": "拜登回憶錄《向我承諾，美國》首周僅賣2.1萬本 反應冷清",
       "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85TU5yc19UZEExTzRzRzBKV1pscnl5SXh6UGJaM0ZrQm9oa3BQVm1mVjUzcU03LXBfVk5aVUNvVF9oUjV2aG0tYkoxNXZ3LXdZOGVrQkdLMWJQODZONU81R0pjcWd5Y2c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xdDNQb2xVX09qUTAxY3QzcnZ1dmhiNkxLU29pMk5EOExZZ2IwdzFyRzdoaXlWM1N0LW1rMzNvNnRKN21ncVdXa3VVTjBVVHREUlVoVXVDRzVCMnZJaVRFQ2hMTXdUckE?oc=5"
     },
     {
-      "title": "通說：“中劇”席捲全球 外媒怎麼看？",
-      "source": "www.hkcna.hk",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuNVdlMXBYcDhHd2dkZUhzMjRpTkh1TW1vNkwyaHhSLUVyTGFMMk0xd2t4X0pZWnRvQmE1LXBsajl6TWo4RDdxTjVQMjd2ckR5VlhNZnFXWUtsRHlpM3ZBZ1l5UHFwUV9zN04zdDNKcw?oc=5"
+      "title": "全球最大“人造太陽”建造又有新進展",
+      "source": "紫荊雜誌",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUpOdnVqd3ZaQ29RRmdtdzFDMTBFOE9OeFozMkIwVWxEdDZCdElqSHRnV0JnN25fWXNmMjlSbjFfb0hTbVk0RjlYT2RqRVJzRHo5akFPb3VDNFN0bGRxeDBya0VCZ2ZVMG91VkJBdnFGWmV0T3FoZ1lvaVVpTFFIRnNqdGlkRFZLczBEUlhUaFM?oc=5"
+    },
+    {
+      "title": "賦能全球汽車貿易：SAHIYOO如何借助光子易簡化跨境支付",
+      "source": "BusinessFocus",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNTlp1aGtURGp4NU5wV0lERVhWNUF5TjZ5ek9OMy0wQmVpMXpVTXN1ZkhCeGk0NHQxa0QxR1JrU3FCS1h5NUtZVjJNaXFaczM2MUxFQ2lscFMzY2FrX1BCMFh4U21YUWtNdWNEMVEtRjUtbVlGUXdEODA4V2RYTGlRU1FPTHNucjQtMVpTYWxlZDVTb2tJX2t0b3NNZENBMWFIVEhyMFRTSjIya1Z4dGlHNzlYbnlCQnFFamU5elFiOUxmYXVLS3ZLcWpXUVI1V293NklOSjh1OUJPUzN4ZW1WRUhBSEUwNEptR1FENDE4cEZ5YjMtMWVEVVloaUNNM1RtLVQyMFRQTGdHME9XLVQ5TGVyeXVoMElPODhRc3pHRFNPNlBFS1FZcDFBMHAyT1VJaFl2OXlHUm1rYkd5NV9pNnNhcmtoRGx5ejhTZTYyNnVDVG0tX1oyeA?oc=5"
+    },
+    {
+      "title": "聚勢臨工 共鑄百年 | 臨工集團品牌全球發布會隆重舉行",
+      "source": "BusinessFocus",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPamQwMldtUkJQLUVBS1h0NWpoNENVV0NfZ01HTmZzaGN5amVGdDFxejFqNTl5T19tVFhMeXN6QU9jaDl0cW9HQmFzaTJBdXFTWGZWMERBQXNsRGR1LUxNSlZhaThKV0JTUTcyU2tMNXcyaE1HcjNVdXJVajhkVzdrckVRM1F6RkNnemljd0hmdlJkcW0zSVJBSUQ5dnlleUs4ZFo0QzRRT3BPaWtIa2lfR0h4enM2YzdITUZHWlgwUnNUQzlJY25QbVlNaUNCSjNsUkxqc2pjYzdNRzdiZUpNemtBOURkeTZ5YkVEVm9SYTJ5dWd4emlWZ3FmQXU4NVNBMndGdVFOTmxFcjFPcF9YdUtXQ2ZnY3UwUTFGZ3JhZ0hwMmJWbnFhRDJKSTUtd0hwQ0lJaUFYWW5ZS3F0a0RZNmpLamktLU9HZkIxeUFwWHhsT2N2bmFpRF9zNEJiTUtMdEZYZ0thM2oyamM?oc=5"
+    },
+    {
+      "title": "日本八大車商10月全球產量同比減少5%",
+      "source": "共同網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iVnoyVlU1WUszUzltSkh1b0hlalRXbDBkbE9iV21ndlBrQ2NIWElqWUR6Y3hsWHFrLUVtMi1hMFhRUnhyaGtZRXUxU1pHcXM0ZjBSempuVGY?oc=5"
+    },
+    {
+      "title": "歐盟議會要求釋放澳門民主派人士，中國表示強烈反對",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxONng3ODI0aWZIeWM4eWc5b1pMQWNEd3d0VS1mRDRRc3kyVnYxUU14QlF2OV95dEYtSjJ3cmZEdDc2MVNnMnNVbEExbElWaW51cEc0Zkw3eFlaZVBSSEhqcWJkN2ZWbk9UTThBZTVUdHVoZmx1Y2ZNdEtCelBTekgtSS1ycnQ1WFhtLUNlZ1htMTNINlU0Tl9saE9uMmJ3VmZyYkdRSkhaQzdaMzFPOW9ETnM2LTZoZHNNUDRPZTBaVnVDUXZBNkI2dE1abXNuYzlfVllrd1prcUFmYzFQRkdrMGtGbDZ4ZjJhLUZLeFpMNXBfVzlqZWwtUHVKYU15OFI1emNOeTVwN29fVVN4eXJoUTNqMk9vdmtqbHFkSWlqbEgzLVg5dGgwdmhCUFhFaXVqWHJTSjhhWkE4ZGNNM1lOQlRaQUwzQ0dtX0hpcWtsUURwWnFRUkNUOVFYa21heHU4bUdXc2xYMFNYT3NPdE8xam14WUp1ZzM0RW5oOWwtbw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股半日市 道指高收591點 納指升逾2%",
-      "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzR19kU2RMWVNGZGZGNFNPcGFmeEN3R0cyd2ZQYnBId2RHYnlmSV9mM3RjLXRrN0xhU0FTNkwtaVIyY3NhWjlBRDZwVXBnYkNGcWs5VTZ5UFFaNHhKX2pEclFURlNxdVZVc3h1TGljRQ?oc=5"
+      "title": "美股異動｜皇家加勒比郵輪漲7.5% 第四季度EPS及2025年盈利指引超預期",
+      "source": "AAstocks",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZTZrWnFIaF81VjdNbXpBZ2U4OGp0b2tRSVRjYXo2M0V0YXNIaE9XSGVZWTZtS0lzOF9YU3k2Qnh4b3NCeHJxTXppTWczanZ6eGQ5aVhLZWdROFVVd2VKakxfYWx0S3ktT3RVZWt0T3JXNFdQY2pxdW1oUjBiWENTWHY4clF1Tlo2VEdBMUsyTG0?oc=5"
     },
     {
-      "title": "美股反彈，科技股大漲",
-      "source": "华尔街日报中文网",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRElVNWhpQnBIMTFlMUY4VFZJcXZIUlJ3ZE9mYWE5b3M1Ykp3QTkwUTJURVJrWlpEUUlqSWtWME9URXJocWNZZm5wTmM5X1llX2dGWXFtNktxT0Y3cVBxd1FOaVljcjJFQmxEOTJjZ0NTOTVyV2VuSHB0VFBhaG9WX1ktdUtraExIbmE2X2d6VS1JQVlYZ3JZZGQwYkhRN1M2ckEzclBnc0dRWTJHUF9nOURlZF91eVN3ZnhR?oc=5"
+      "title": "標普降法國評級展望至負面 三大機構齊示警赤字逼GDP 5.5%",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPOHp1Sm13SlpCUWNiZjdzcUlKdkliejlzTFpBamdBd1pTbExyLVhkOUFiUThHM1VWMFdFQ3J2NFprTHdBcmdNYmlLZHJvd0doUE5nWXdrc1IxbFNVVnJKdEczX0tqanlJX09KcHdGRTdhUUVGR1ZaOHdCSXY4cG5lS005NTNyZUUzNFF1SWx2MFNIa2xDT0toSy1Nd0tDMXVlZ1JuV0dRelRESGVQN3ptQTYzSVc3bEk3SFkyM2dmTDZtLXoyMUo0d2JYUDZwbW5QSDVZWlNLcmNsYnhMem5NZDlJS1FUT28wT21EZW4zT3lCNEs1cHdkVG1PaEE1ZG93aC1KdEo4SHhpS1NLTjFad1hVWUFxRjhxbURRanYyS0ZydDdwN25McWVPWXlyYzZIV1NVWUIxcUhTWUszV2U1SXpKQmZkWGk2dXFxNF84T2xMNldGNGhIUl9SQk5oaXVJcHRoSWMtUDlJcGQxWGhQWEZpWXZRVDJMSHFmc0FFT1k4ejd1T09Ocg?oc=5"
     },
     {
-      "title": "前高盛策略師警告：風險資產將全面崩跌 逼得Fed 12月放棄升息",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPcGg4S3Z4N01OTHdENmxtaDBTVVNzT0hxWXJjemRKOGtmbC1udEotaDhjTV9XS1J1XzZ4VWthS1l3eWJVSVBEQWM4Y2cxaUVueU5FV0JTalc2VXgyelBmYnItSGlDcUxIdlFtdUJPdldCTzVuanBlYl9sNHQ3RHdxalBrSkdfMGxRWGtFaW04M2RvdWtXNnhhMzlKZ1c0ZF9tY2dNOVdhYXAwRkVHYkNCc21uUUhmNk1rTlZ0bklRQ0o0Y2lZTFRkeUJPeVZQZGkyeVgxRjdVTndNWWQwUGo5bkNaSDZOQ3M0NXZ4elR3aHpUS0x3OE5ZdTNocGtuZFVPT1RZc2xBZC00NmRkMmY2VGFzSzNUZ2o4cVZ0T0hLaHVSVHF1ampxcjNzckFaQjVUQkpDY3hNTTA4S0xleWg0VGctNEYwZTVoR2QwMUU0ZWxRMmZGQTJCRmg1V19NNnE5aXB1RzdWc0g0bHlaYURNOGdYQ2dzVFdiZGE3WW5mdUdSOGF2TC1Eaw?oc=5"
+      "title": "龔成：美股初階者可投資的工具...",
+      "source": "on.cc東網",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0JKYVF3QkdtWEhrZTUyOW1wVFRsMVR1djR5eEJyYUN3QnJteU1sX2NPRm1FUlgwaTk1S2FMNWhmQWhNcjRRNFpoN3FqS3p0QVQ4NFBwUnA4NkFtOE1TMEN3eldfVGlUb1VrWWdXN19uZFdMZjRhdXZGWGQ1bU4xeFNIRUZ5X1FyMmtERFZTUQ?oc=5"
     },
     {
-      "title": "美股收盤 | 科技股帶動大市反彈，道指收市升592點，納指大漲2.3%",
-      "source": "etnet 經濟通",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWhZcmhRMmtHQW95Z3RPcHV3OERxTDExOUpEWGJ1TkNkVnh5Y2pRYjNrdVV6anFrS0I3bmJjUElpU0E2dEUtWGN2cVhhRVdWOE1zN2xZdWdseC1sRUpKT0hfcFdHMjBBdnN4UWd4WmdHYTd6WGlER29JMXpKUHp1MGJHOXJ1LUktVmstSFpsMGpzaVZIMkhEVUJwczdHLUprV0tROUVOY2U?oc=5"
+      "title": "美國國債下跌 股市上漲削弱避險需求",
+      "source": "風火輪傳媒有限公司",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hZFZka3NVdTNXMG9EUDBLNDZsY2pCNWxzV2xFWHFxeHFTTmx3TnRzeEdOZ2tfU0drYlVqbDJQdk9tbkpPMW5HWmdmaHNaMzFwVy1sVUVhVld1dGxNbFhGZ3ZMeUtuak1DLW1kMkp0VjVmQXF5?oc=5"
     },
     {
-      "title": "標普下調法國主權評級展望至負面",
-      "source": "Now 新聞",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yWWl4aHhkNkFleWlCd1p3azFyYldqczdFZUlTSEQ0U2YyN0trSDJtbUlXV3ZfUFhyU19NN3FOOVRaOXlGVDVrdk5WSWhOVFdzM3VRMWNpUmZDWE5Pb2owaXk1RlFTcGxJWTZvZ293?oc=5"
+      "title": "美股「黑色星期五」半日市 科技股回暖 納指升逾2% (15:28) - 20261128 - 即時財經新聞",
+      "source": "明報財經網",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNbEZnVmNkMFluaUczRU1RXzFFMzhrMUk1ZGlHdVB1RHRHN1h5Y0gwT09lLTRzQmV3Q3RvekFOa0ZhaWZKS3U4TGYwbExZSm1KS3NHUkNUaTJSWXNlN3h4NGVYUF9FQzhsUHljbE5CeW1FUHdwZ2Z1bUoxUFJxV2pRd3BVR2dfeEZVdnd6cDJ6T0RIMV9xa2pjY09RY1ZNT1pOSDVONVhxZjd6SmcxaUlyWk5wS2NDdFgwcFVzVDdJeXhBM2dtaW0xVUxFUnladzZaYzlyRll6MFg1UksybXFWNjA5Y1hmX1RsS2xGd0xhWGZGa09ud0JDVUdZTzQ2bDlhdnJQVmtBQVJEcF9PT285dERPSkRNYVdUc012ZFJiMFpQSE4wZUl6aW1ySm9iNGlYazlRd21IN1lXVXBNNmp3dnRxb2Nqa0VDWW11ajlEUXAyTDVBU2dhNDVJLXd1ZmdSTWNqWFJmWmZvV3AtWV9mSlhn?oc=5"
     },
     {
-      "title": "美股三大指數感恩節後上揚 創一年最佳表現",
-      "source": "大紀元",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lekJ1anFyLWFOVG5FTjFiNFVwdVY2X25MSGxfaTF3VlhPNFd6eVowb2gxVjd6MHpoMEJBeVBYMVp3UEp4ZEpnaTFiVWRqWF9ncnVKbVF0OVJoRVBQbXJZSGtB0gFnQVVfeXFMTkllZDBSU3ZxTG83RWJLb2xsRnFvVlZXVUlRM2hRMDRTZEZZSVJUTmZoanVhXzlDS3RwbkgybXAzUVpobmIzdFR1N2hZOHZrbzFneTkzWU0tbzgtNUY3RHkySVY5OHlvdw?oc=5"
+      "title": "【債務危機】標普將法國主權信貸評級展望降至「負面」 今、明兩年財赤料較預期更大",
+      "source": "香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxNT2V3VUJHc09jYVY4Q0pZamFkWnIwQ2dXV2RBNTd1TFh2d21jM0V3Z1lhVTBqMjRjTlUzcFF3bGFmbGZLTm01SThmMTh6M2dCUVp2d21OQ2hyX2RQbzNkcXZhM185a29LeXk0emg5RW9GTUVzTFh2ZFU0UXdCT0dyal9sTXZhdjFPQ0hxUFpuTXNlcV9wUzNQaFpQZEp6b3ViSzhCWFNQMzVhT1FNNFl2OUJ4WGg3aEhiX0RaU0xlRDJkRFdocEpneDdGX2c4bWw0dGt6Z0VTc2pnTFk0Wm45NUFNSEE1OHRKaHVuV2RIYkp4blFqSXdaVnB5NnFHclBIV3psVDJ6b2xGM1JJTVRHd3Noa2VMcXB0VXNQSDkxYkxIbkJtcTc1S1gtbnp4S3gyLTMxWTNIX1NTNDlnNjl6S3laQkhkMWFUbmlpUl94a0toVEQyblBPSzdKcmdWa2pWTkJwSVZQd2xUTTJ4V3pCM0lHUUEzcE9jM3RYcHJobjNxZ1hlOV9Iekk0RnJJTHZWdjdUMTJaUzhWT0lIY3Z1Y1hBSUp5amxoODgwZDVCSExWYURJcWNRMW0xbVJCcXFCWmxZM0lYX2toU3RkaUdUVVBLdkZ0UE9KMEpGX1NvVVhSdGtCSWlsM0tuZUU0MnZ3dXI3VDJlX0E3X255MkpkSTloU3hfYmxoQVJMYlNkTUw4TmkybnVmcW16d3BuSHYwVmsxcg?oc=5"
     }
   ],
   "events": {
