@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-27 16:15:25",
+  "updated_at": "2026-11-27 22:42:16",
   "gas": {
     "current_label": "11月27日 (現行油價)",
-    "current_price": "146.9",
+    "current_price": "147.9",
     "predict_label": "11月28日 (明日預測)",
     "predict_price": "147.9",
-    "trend": "↑ 明日預測升 1.0 ¢",
-    "trend_class": "gas-up"
+    "trend": "→ 油價平穩",
+    "trend_class": "gas-neutral"
   },
   "news_world": [
     {
-      "title": "憂馬林勒龐等極右上台 歐盟擬年內敲定援烏撥款 - 20261128 - 國際",
+      "title": "廉署成功連任國際反貪局聯合會主席 廉政專員胡英明：持續牽頭推進國際反貪合作",
+      "source": "紫荊雜誌",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzVGMlJRT1pGdkhVY3dSdERTR3BlcmwwRlE3SkdiTXdLSWJ4N1Jzdk5tczdkRWpxRGFvUWNwd0dZdGI4SmV2bWJLeURvWHZIUF9RWE5rTUpVOTBVYzFiZUhzYWUwV1ByOTNpQWxycWRiWlBBMnBVRndKX3ZGa185SXROVVZCTWhFbFFVc3JJOWo?oc=5"
+    },
+    {
+      "title": "C-beauty出海提速：中式美学撬动全球美妆新格局",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZOVdSOWljUDkzM29ueGd0M2l0TmFGaHJsZUZSU0o0TU5UdU1rZFdscExiY1JsN3ZxeUxKVUNGY1VVcU1kbDVQdHFLa2hoWnZUX043a0tNUXozUHFDZ1l0X1Y1SWlHcVNsS3R4NnBqRQ?oc=5"
+    },
+    {
+      "title": "【亞洲動向】東南亞半導體產業 發展宏圖遇「黃仁勳衝擊」 - 20261128 - 國際",
       "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQVldtSUNvVk9sM01XRUozYk5NYjhHdzM4eDZiLTJocjA0REJsY3J4Z1ExXzVKMlRRSDRVbEN1TEdhQVQ0Wk9sd3RxaVhjVDBrbUVtLTNQMG1tMGFnLVVkZjhlYTBCUUNQTkZrcF9rcFQ5Qzk3eGh6dHhpLXVVc2JVdmhNM2dNQzBtWUdXakZ4NDBuVmRuUzNWTnEyellja1pTWWZWVDFmNVpCa0FIX29RS2JJVjFWOHNGU3FHSXBZTmpVOFowSi1TSHo0MUpXNzJVTDEzYlRTaUxTTWx4SlRCMFczTlF5aGFCMVJOVVhGRGJmNG9IQ1hwclFFTEpFNWUtQ29NaFJsLTRkODJEWU5TN1JPSlJ4R1RhLWxBN0hXckU1dmhkRFdIZmp5MVJVcWNUdUI1clZ1M0xkeWtNLVNLTGRVTnVQSkIyZU43eHFYc2lhTFI1VnNfU3RNT2UxdzA5S2ZOUHJYY3UxdGgzbmdxa0FmU0xOMWk5S2RXYXJPVTBaLXBTczZDdlRqdlg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPMEFjOGxNVnRIY21FQTNaekhEcGJZN2lSVVZka3d2Y3BuVmR3YXBtSHZod0tMTUt2dkZUZVNaRnNNbkFFSk5yQzVBTVprYmdVa1FVM0pjZGdzZExuY3VXaHowVkY4Z1gtb1U2Q0ItLXdRYXNFSFduUnZ5MmlQOUc0QW5zM0tiWE4ySUwyX0ZJanpWZ1lsY1RaMThuTHdRbTl5ejExUmRGTVp1VzVXUC15TDJhc1JpZVgtVndjNWFTakZTLUgtVVVVNDllRE5nRDB3THU4ZVRmUXowOGVST3J2Zkxra3dJbUhidjhKSU4yc0dLZnkxN1l1bVYwZjZVVFhaaVhzUnZfUzdQZVl3d0VFTktsN2RjVk0ycEQzYm13TjJlNm5CUlBHNWlFSFprcHItUDBncWM0ODFpNXB1VFJrZjdKM0JCWmdKMXhuM0FvVFZOak5SbElsVVNEamZZXzR6RUtpRUh4a3VtNEd0UWYwWWhnM2ZkOWhmLXpxRklWcUh6SXh3XzJPb085Xy1fbkVLZ1VuRjU2ZXkyeDlMZF9lZTF4bFhmQ2JwWldiNlJuQno4YmpHaE9tckh6anEtcUp2Vzc5VGUxSlo?oc=5"
     },
     {
-      "title": "法國聲援荷蘭反對美國擬議的對華技術出口限制",
-      "source": "Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNbkdHaVlRYXUxU2dfZlhVd3o1TU03OTJGVXhBWmN6M0thdUM3cXNWbFlrTDdNSmVSMTZkc2dOek1DRGRLa3U2R1BmdmE0ZDRaRnhxVEkzTkYya3MzNDRqeHdhZnBZeVlVWS1sY2NrNktRTGZnSVRMN0JkXzBxRmJrTldzdnU0VXppTnhOYWNIMDRIdW5Pc2hEM3NyY01kWTlfVFMtTWtPMHh5REc1RjlzamZfd0xCOXM3c1JWNkw2bTFvYXFlNnY0MkpESW1FV21BbmZHQ3lvRTFRWUIwXzVvZDR6ak1BWXIyZGxwb2l3Z0RLSkZRcG42ZV9wUnRCTjZLaWFnc04tREd1VHU1UHVxU1BxV2FpWnFpbHk1NWtrc2lxUTEwOXdscnpsRkRmck90T00zZnZHZmFWbThUaG1PRXVYdm1DTUtmbkt6ajROcXVVa1lSSGU1emxR?oc=5"
+      "title": "AI｜美國禁供英偉達晶片 封殺海外數據中心涉華業務",
+      "source": "am730",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPMzdPNjNhejdWOTlmNldRUHNSRTBTWXNPLV9LNTJTSTlWQnJsRG5abVpRVzVtWlNMcmt6U0kzbDVqN1JSTDBwUmRXQUVHVDBSaDdrUk01S00wdzgtdEhWakd2TkIyRTNtb3NoT2V0a2ZkanphUGhSSWE0Z2ZCcHBSQ0RMQTBRazZSV2NQeTk5Wk9zM1VKSF9vNUU4enlla1ppX0xrMklCN1g5QW9qWWxLekZUbTB4eFN1T09BMVRhYW1SazI4elF5d0JPRjdKaDlJamJEVHRvdjgyYWVaQWpXTDRIelZ3cW1QdnplWGRBTTlVZ05QTEtDS1pZTUhNNGc0Y0JBUUZCOWwwYjZyVkdOWFMzS2pMQ25ydGx0STJucjBqSjRiMmpXT0R2T0liTk83U2N2amNsanJWRC1WVG9TdUtDcGQ4LU1fRzlkTGFYVXVWRWFXUWRMd21DWjdERkgxSkxn?oc=5"
     },
     {
-      "title": "俄辦AI國際會議 普京強調要爭領先地位 - 20261128 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVFZlQy15TVE4NF9hQlpuajBBSHBueGFjMVk4MS1ma2treVNJakc3NE1qOEtNWXJkV1Q0Y3BiTWhVQXBXd1VkSDFZQmFwM04zRTJtdjJWSjBYQ19YeG5PdUZMT1RtMWw0X1g5Z1FDdXNXSkw5TlQ1V2FpQ01Sa1dWcVdkVXE3Ym5QZFhmaEYxa184YWpDNjl0Y3d2VlJlaHJDQzBULTJuLTVKWm56ajJrQzBVTklTcDBBUWVHLWw1a2pOOUlCVm1FcjdmdGlrTTZ4MWhLUkwzVEhWdGNObmpZMjJ5ZFh1SW9CNllRUllTeE1XbEJjZUVKd1NpbzhQNGxXSGp2d3dvRGJFSm93QVgyLTR3QkN2bUpEVllId2U2SkkzaUQ2b0FXb1UybEFDOFBreVFadDZEQ2U2b1F6SzhfRUotLUlUYkk1MFRKTHduOExrTDg?oc=5"
+      "title": "許正宇：各地金融企業有意來港發展 體現全球經濟一體化",
+      "source": "i-CABLE",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNYWRsQVlzZTJmWU4xRUlLVnhnV0IzMkZGczZYT1ktenNOZGVHdEFzbDVFSC0yaEszekdZdlhjLUNyVEJzT2xKRGFmRndRXzN6NGtoR21uWVRmdDlUalpyeXNSQldaNU94U3ljMzF0c3dBdElCYkNfS2VQdFdrNFYxNHo5NTlhNWZDOURralBIbW01YWZhZXVqeGFtdURyR28xTjVGLXRKT011MkptdUNfR09wa1pUUWNDcFdpUjR3SFJrWkdxSHpzSDloVkNSVXB4VTZxRVBKMWhnQUNuUTh1S3cwRTRMenFfbTRlanljSGRSQXlJcEJBUFpTZVRQd1JGV0dIZWVTRVN1RVoxRGdMMVBPLXJRbGpBY0l5WXBqR0hsVTBYeWtCOEYxN0J3NkJlZks3czdiZC1qN0h1eHhQQS1kRDYtcXJGSUNuUE45Y181WDVHUk9JLU9vOVdOSFRvWG01dGRMMFdfUQ?oc=5"
     },
     {
-      "title": "東南亞半導體產業 發展宏圖遇「黃仁勳衝擊」 - 20261128 - 國際",
-      "source": "明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNOHE0ek1ZbmNwU2VabUd4cnhJZlN0SWJDcVoxMGVBbzhmaHB4VVlmX3huWUFSTWVUOEczX3Y0MzZZN2lnZGJNQnhrOHpFa191VDFhMHlWQjlBeThQN2NrSGtpbTFnZ25iYjlRVnhuTmhKSndJVzY5WW1MaWVONWNpcFRCSUsxMWlaUEFPRDRneUJ6WVA1Q28zY1hGbWhQcTBfVGZwZllLNTRqdEs0UVJtR0xSSTJfRnkwUWRMR2gyWW9abTBWUzBwc0lpQkc2NlVHSWVFLUVoTnB4SnlhLVg4MDREdnY5TmNlUU91cE1lcFNsZ185Tm1ZcUNLdE45Vm0tbHJHd1JEQmhoWXQtVTlxTHJ1WGpOaDgxSjJpQnF4emNfNG1YbVlUMUlVOWJqYVFIQ2ZuSE01WERoaTEtWTczc28zMXpNT09ySnJySjJjb3ZXX1hObkNhekowMzZSTU1USjU1YUkxZGlmQ0c2a3ZGUmF2cmNERUk5M0RlR2hLckI?oc=5"
+      "title": "美國東岸惡劣天氣開始緩和 但仍有大量航班延誤或取消",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85TU5yc19UZEExTzRzRzBKV1pscnl5SXh6UGJaM0ZrQm9oa3BQVm1mVjUzcU03LXBfVk5aVUNvVF9oUjV2aG0tYkoxNXZ3LXdZOGVrQkdLMWJQODZONU81R0pjcWd5Y2c?oc=5"
     },
     {
-      "title": "黃金無視美元和美國國債收益率飆升，多頭瞄準3,700美元",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMlJJWXlEUVdodVcyUktFeTF0VkQ1QWhfWjQ3TTBOY09rdFJ6N19TU0lvNE1KbW5LYng1Qnp3VU9CclBBcWszZ1BjQ1BYQjgxeXJ1endxeEtZbG5ULWJLRng0Zi15TVhoX2dNLW1yWWp3SDlCNFZ5X1J3ZkZDTjVSSk5zSkl6YjVGamxlYkJfWEw3bDk4NVRFVTdZR2lUbXFmYkRsRkxnVTJDNEhYRUEzX2FnLTNBWU9DOGR0ZFY4a1NyZUU1UHJsTFlxVVZ1alJTbnZmRHV6UEM?oc=5"
-    },
-    {
-      "title": "韓國韓元：貿易和通脹塑造韓元前景– 荷蘭國際集團",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXE4eE5GR3dYUkJ1MnFiU0o5aGFDUmd1aFJIMnVwSWJoMG9samtudUZ0UkduaV9RUE9ST193cEJta0V1NGg1c2xlX0hlbkJ2emM1UF9rUjJ1WUppQXZ6TVFDaDdXTU9pRjBGM2N2WkQtMzJ2SUZIX0ZFbk9FWU51V2t1ZGpMblExTUR6dEtKb0hLUm1VWnlWOWlOWkh2ZVRZWWxZM3JyNWxWNFd5QjhyRF9hMlFlY29TZ1VV?oc=5"
-    },
-    {
-      "title": "美國10月商品貿易逆差初值擴至1495億美元",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQQ19LQ2RXcG5fYnZNZHVUQU51UzdtMTFBTksxQUYyeHVFY2h0cnpEWXRrZE5mbF9JcGtqRjFLcUhCZ0Q2dmExRldnZExMZkRpTGdzdXAtalN6WnJtUnZyT2NFaW9RNkhiWmJFWXpWOGhpczRNbWdmNGdKN0JRNHBCMkRYVlhrWHFLcTFFTElVc2tNTldKTWtmWUZRNlQwZ0NpZ3l0b093SklUTWtzdHkxZ2ZHUGs5VGtRTkp6NFE0TVdkZGxrdXRjT1RBRTVaeXFUMkt6OU9pNktNdllmNWtzR190SHJ0WTdGWTNxaEtyb1NfV3R5Ul9IY1dOWW5CcmdrWTNxaWZJdmpueEtuV3RGWmdJTDRJTDMwWlVpdVJ2S2pWSW1UYU1ycXVlMWxlRGZHampSZzZoMlo?oc=5"
+      "title": "通說：“中劇”席捲全球 外媒怎麼看？",
+      "source": "www.hkcna.hk",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuNVdlMXBYcDhHd2dkZUhzMjRpTkh1TW1vNkwyaHhSLUVyTGFMMk0xd2t4X0pZWnRvQmE1LXBsajl6TWo4RDdxTjVQMjd2ckR5VlhNZnFXWUtsRHlpM3ZBZ1l5UHFwUV9zN04zdDNKcw?oc=5"
     }
   ],
   "news_stock": [
     {
-      "title": "美股收盘光模块/高速互联、半导体与存储普涨，闪迪涨超15%",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jMV9vSGNEZ0hIcW5sTVNEUWxTUTVRWXJ4Si1jMHJaMlF6RGZKQURLb3F0TTQtbDg5aDZkYWtTSEtpVEV2MkVubDN2a244TnEyU1RVYTBLcnAwSzlFN3h4N3h1ZEpZZw?oc=5"
-    },
-    {
-      "title": "美股日誌｜「黑五」資金趁低掃貨 納指全周升7% 巴西概念股熱炒",
-      "source": "星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQZ3ZnZUd2YXN2RXNxUU1YRnhOUlhOdWc0RmJVQnI2cVdPZ1paN3V2enhHczhSUU5WekZwbjlTeE5OOXNabkRPZnphSGtlNC15MlAwQUFOZXpBeVFrOTZsd1BBQ29CR0NfVkM1ek40em10Sl9LLW82TmJndnJMaDdvYThkNEVZQmRPQV8taVB2bjBveFpuaE1pVWlja2ZSWmd5RmtDcHVNaHB2d2ZXYWpRYzNpTVBVRlIxNGhlQ253RDJ2UWswSmdNZDZFVmhzQU1ncVlzbU5nVU15ekNFV3FSMDMyaHd6M0hqbzlKTzVydV91TFRTNkg4MkZUaXJ4d1Y3TEtWZWVobUM1VXppUVBJWDJhTXhmSHFJTkZzdTJTRFpiTEVwd3hkNFc1RlBlazZLcjRkNXZUbkJBS2Y1c3djMU8zSjRCdUQzLXdlcjBwenlxZVRnX1A1bVY2NVFkQ09hbVJVNU0zUW5XWlFfOTF3UjJuMmdacDdpUHJ3bWNhNEs?oc=5"
-    },
-    {
-      "title": "美股3大指數初段上升 感恩節翌日只有半日市",
+      "title": "美股半日市 道指高收591點 納指升逾2%",
       "source": "香港電台新聞網",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zbGZBLVp3YVBfdXd3RUxFaDhRV0NXLWxpdU16eDB1cF9HanB2T0ktMXI4TnBReHZWdFRxcy11OUgyNEI1LVhQSVJCNUdCa0JOTmR6ZGZOU0hZT3F0ekRfdGItYjhfdXNEaU02d1p1QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzR19kU2RMWVNGZGZGNFNPcGFmeEN3R0cyd2ZQYnBId2RHYnlmSV9mM3RjLXRrN0xhU0FTNkwtaVIyY3NhWjlBRDZwVXBnYkNGcWs5VTZ5UFFaNHhKX2pEclFURlNxdVZVc3h1TGljRQ?oc=5"
     },
     {
-      "title": "美股強勢收官！道指創四年來最大單週漲幅、納指周漲超6% OpenAI與蘋果突然爆發法律大戰作者FX168 - Investing.com 香港",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKSDF1Uzc2RlBKRWdWY2h3UklyN1lPZ3BHSjNLMlM0eFJKNXoxZjh5SHF0SW1WV0tOOWN1RHJtNm5SQTRPTURoOV9NWkFVRmk3WUl5UXR1ODg5anE4aG9rWDVRM1JyOHJYR0lpX1NKYVc?oc=5"
+      "title": "美股反彈，科技股大漲",
+      "source": "华尔街日报中文网",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRElVNWhpQnBIMTFlMUY4VFZJcXZIUlJ3ZE9mYWE5b3M1Ykp3QTkwUTJURVJrWlpEUUlqSWtWME9URXJocWNZZm5wTmM5X1llX2dGWXFtNktxT0Y3cVBxd1FOaVljcjJFQmxEOTJjZ0NTOTVyV2VuSHB0VFBhaG9WX1ktdUtraExIbmE2X2d6VS1JQVlYZ3JZZGQwYkhRN1M2ckEzclBnc0dRWTJHUF9nOURlZF91eVN3ZnhR?oc=5"
     },
     {
-      "title": "美股開盤／4大指數齊揚！SanDisk飆逾6%、台積電ADR漲近3% 輝達卻翻黑了",
-      "source": "Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPd2RzZUp6NWVBcVZnVEo0eHJSMW10aXk3SWN0Vm9VVkZvSVI3eXRVVFVtdmR4UHNXdzNSamhjSlh4WE1RaWRqd2FnNGkxSlVsNkRHcVRSNnZvUENzLWJJQTRYbG41Slp5dzhyWkI0UVU1blZxLUszWkJRcXhHQk1FRlMzd09XZ0VyS1Y4eWllRGw3ZDY3Wm0yMEJaV29zYlpKbDFaczc5WWVhZnMyT3dqVlh0N2JiV1Q1MGREVnF2TWlHeVFqQzlVcUJINzk4UVdmQU9TcGFqb0lCQVJCc3ZqUkdacjk5TG51c3NNMWVVcGpJd2F3Q0c2YjNjME9pSWlsUk1ySnNNQU1meVM2U1JfZXZXQXhNVTB3QWYwWkZMMW9xUFBmYVRFSWtsSXRBNjVyZmxXN2Z4emdPY1R6cTBvd0NtWmdNanlzUXA5RXdwZXV2ZFVJa3M4d2hwT25yLVNxdVlGWGpCdGJsTXo3dlRqcjE5NUlEdjZ2clE?oc=5"
+      "title": "前高盛策略師警告：風險資產將全面崩跌 逼得Fed 12月放棄升息",
+      "source": "Yahoo 財經",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPcGg4S3Z4N01OTHdENmxtaDBTVVNzT0hxWXJjemRKOGtmbC1udEotaDhjTV9XS1J1XzZ4VWthS1l3eWJVSVBEQWM4Y2cxaUVueU5FV0JTalc2VXgyelBmYnItSGlDcUxIdlFtdUJPdldCTzVuanBlYl9sNHQ3RHdxalBrSkdfMGxRWGtFaW04M2RvdWtXNnhhMzlKZ1c0ZF9tY2dNOVdhYXAwRkVHYkNCc21uUUhmNk1rTlZ0bklRQ0o0Y2lZTFRkeUJPeVZQZGkyeVgxRjdVTndNWWQwUGo5bkNaSDZOQ3M0NXZ4elR3aHpUS0x3OE5ZdTNocGtuZFVPT1RZc2xBZC00NmRkMmY2VGFzSzNUZ2o4cVZ0T0hLaHVSVHF1ampxcjNzckFaQjVUQkpDY3hNTTA4S0xleWg0VGctNEYwZTVoR2QwMUU0ZWxRMmZGQTJCRmg1V19NNnE5aXB1RzdWc0g0bHlaYURNOGdYQ2dzVFdiZGE3WW5mdUdSOGF2TC1Eaw?oc=5"
     },
     {
-      "title": "美股半日市 納指升逾2%",
-      "source": "信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWRtMVZfTll6LVlEcDU0aG9LbGJ5b0hpTzVCcmFZMHB4RDhEaVdhSzFOc3QwcThPYWwtZ1Jld2hfa0lRdjhVT2ZSX0RIYXdEVmJkQlJIZXItcnR4V0lDUGg3RGUzMnRhX1JUR1V6SWFRRmtEOTIzUUUwbl83Q0hPX0g4VUFvWmtka09xampBZDQ5QlQxS0xieHJjdVEyUDBFU1dwY3M1cEVFa2JZTHVnYldzM0RhajVJZ2ZJOTFFTnIweU93UVJBR3hDTlFsSnBsU1E?oc=5"
+      "title": "美股收盤 | 科技股帶動大市反彈，道指收市升592點，納指大漲2.3%",
+      "source": "etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWhZcmhRMmtHQW95Z3RPcHV3OERxTDExOUpEWGJ1TkNkVnh5Y2pRYjNrdVV6anFrS0I3bmJjUElpU0E2dEUtWGN2cVhhRVdWOE1zN2xZdWdseC1sRUpKT0hfcFdHMjBBdnN4UWd4WmdHYTd6WGlER29JMXpKUHp1MGJHOXJ1LUktVmstSFpsMGpzaVZIMkhEVUJwczdHLUprV0tROUVOY2U?oc=5"
+    },
+    {
+      "title": "標普下調法國主權評級展望至負面",
+      "source": "Now 新聞",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yWWl4aHhkNkFleWlCd1p3azFyYldqczdFZUlTSEQ0U2YyN0trSDJtbUlXV3ZfUFhyU19NN3FOOVRaOXlGVDVrdk5WSWhOVFdzM3VRMWNpUmZDWE5Pb2owaXk1RlFTcGxJWTZvZ293?oc=5"
+    },
+    {
+      "title": "美股三大指數感恩節後上揚 創一年最佳表現",
+      "source": "大紀元",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lekJ1anFyLWFOVG5FTjFiNFVwdVY2X25MSGxfaTF3VlhPNFd6eVowb2gxVjd6MHpoMEJBeVBYMVp3UEp4ZEpnaTFiVWRqWF9ncnVKbVF0OVJoRVBQbXJZSGtB0gFnQVVfeXFMTkllZDBSU3ZxTG83RWJLb2xsRnFvVlZXVUlRM2hRMDRTZEZZSVJUTmZoanVhXzlDS3RwbkgybXAzUVpobmIzdFR1N2hZOHZrbzFneTkzWU0tbzgtNUY3RHkySVY5OHlvdw?oc=5"
     }
   ],
   "events": {
